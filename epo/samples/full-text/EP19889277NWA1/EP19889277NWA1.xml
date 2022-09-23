@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19889277A1" file="EP19889277NWA1.xml" lang="en" country="EP" doc-number="3889280" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3889280</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19889277.0</B210><B220><date>20191125</date></B220><B240><B241><date>20210420</date></B241></B240><B250>ja</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>2018224339</B310><B320><date>20181130</date></B320><B330><ctry>JP</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>C22C   5/06        20060101AFI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C22C   5/04        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>H01B   1/02        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>H01B   5/02        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>H02K  13/00        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="6"><text>C22C   9/00        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="7"><text>C22C   9/02        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="8"><text>C22C   9/06        20060101ALI20200605BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>C22C   5/06        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>C22C   9/06        20130101 LA20200626BCEP        </text></classification-cpc><classification-cpc sequence="3"><text>C22C   5/04        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="4"><text>H01B   5/02        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="5"><text>H01B   1/02        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="6"><text>C22C   9/02        20130101 LA20200626BCEP        </text></classification-cpc><classification-cpc sequence="7"><text>H02K  13/00        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="8"><text>C22C   9/00        20130101 LA20200626BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>LEITFÄHIGES MATERIAL MIT HERVORRAGENDER ABRIEBFESTIGKEIT UND HITZEBESTÄNDIGKEIT</B542><B541>en</B541><B542>CONDUCTIVE MATERIAL HAVING EXCELLENT ABRASION RESISTANCE AND HEAT RESISTANCE</B542><B541>fr</B541><B542>MATÉRIAU CONDUCTEUR AYANT UNE EXCELLENTE RÉSISTANCE À L'ABRASION ET UNE EXCELLENTE RÉSISTANCE À LA CHALEUR</B542></B540><B590><B598>4</B598></B590></B500><B700><B710><B711><snm>Tanaka Kikinzoku Kogyo K.K.</snm><iid>101039172</iid><irf>235 849 a/dst</irf><adr><str>7-3, Marunouchi 2-chome 
+Chiyoda-ku</str><city>Tokyo 100-6422</city><ctry>JP</ctry></adr></B711></B710><B720><B721><snm>TSURUTA Terumasa</snm><adr><str>c/o TANAKA KIKINZOKU KOGYO K.K. Tomioka Plant,  
+820-1, Aza Oshidashi, Ichinomiya</str><city>Tomioka-shi, Gunma 370-2452</city><ctry>JP</ctry></adr></B721></B720><B740><B741><snm>Hoffmann Eitle</snm><iid>100061036</iid><adr><str>Patent- und Rechtsanwälte PartmbB 
+Arabellastraße 30</str><city>81925 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>JP2019045935</anum></dnum><date>20191125</date></B861><B862>ja</B862></B860><B870><B871><dnum><pnum>WO2020110986</pnum></dnum><date>20200604</date><bnum>202023</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">The present invention provides an electrically-conductive material containing Ag in an amount of 10 mass% or more and 70 mass% or less, Pd in an amount of 30 mass% or more and 90 mass% or less, Ni in an amount of more than 5 mass% and 45 mass% or less, and inevitable impurities. A ratio of a Ni content (mass%) to a Ag content (mass%) (Ni (mass%)/Ag (mass%)) is 0.1 or more and 5.0 or less, metal structures include a AgPd alloy phase and a PdNi alloy phase, and a volume ratio of the PdNi alloy phase is 18 vol% or more and 80 vol% or less. In the present invention, Ni is added in a high concentration to a AgPd alloy, and the amount of PdNi alloy phases generated as separate phases is controlled to strengthen the entire alloy. The alloy has good processability, and an improved rigidity modulus and recrystallization property as compared to conventional alloys.<img id="iaf01" file="imgaf001.tif" wi="98" he="73" img-content="drawing" img-format="tif"/></p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">Technical Field</heading>
+<p id="p0001" num="0001">The present invention relates to an electrically-conductive material including a metal alloy, which is used for transmitting currents from stationary components to movable components at electrical contact areas of motors such as DC motors and micro DC motors, variable resistors such as slide switches and potentiometers, connectors such as slip rings, and the like.</p>
+<heading id="h0002">Background Art</heading>
+<p id="p0002" num="0002">As electrically-conductive materials that are used in the above-mentioned fields, AgPd alloys (AgPd alloys containing Ag in an amount of 30 to 70 mass%, particularly 50 mass%). AgPd alloys have excellent corrosion resistance, and low contact resistance which is a property advantageous for electrically-conductive materials. In addition, AgPd alloys are complete solid solution type alloys, have a face-centered cubic lattice, relatively easily plastically deform, and have good processability.</p>
+<p id="p0003" num="0003">Electrically-conductive materials that are applied to the above-mentioned various variable resistors, motors, connectors and the like are required to have both wear resistance and heat resistance for securing long-term stable electrical contact during sliding. AgPd alloys have been heretofore considered as materials capable of meeting such requirements. Recently, however, in use<!-- EPO <DP n="2"> --> modes of electrically-conductive materials, loads such as sliding speeds, input power and contact loads have increased, so that the electrically-conductive materials have been required to have higher durability. AgPd alloys are being pointed out to have a problem concerning durability against such increasing loads.</p>
+<p id="p0004" num="0004">At the outermost surface of an electrically-conductive material in a slide contact state, the electrically-conductive material is plastically deformed due to sliding stress, resulting in formation of an altered layer in which metal structures are minutely agitated. In addition, electrically-conductive materials that are used under high-speed rotation conditions of several hundreds to several tens of thousands of rpm in motors, slip rings and the like, or conditions which cause arc discharge with a current-applying power of 10 W or more are affected by friction heat from rotation or heat from arc discharge. At the outermost surface of an electrically-conductive material, metal structures are altered by the impact of such heat as well. <figref idref="f0009">Fig. 10</figref> shows results of observing a state in which an altered layer is formed on the outermost surface of a slide member containing a AgPd alloy after practical use. As shown in <figref idref="f0009">Fig. 10</figref>, an altered layer resulting from plastic deformation or the impact of heat can be confirmed to exist over a range of about 10 µm from the outermost surface of an electrically-conductive material.</p>
+<p id="p0005" num="0005">Wear of the slide member containing an electrically-conductive material occurs because the altered layer portion on the surface of the material cannot endure an external force such as sliding stress or arc energy, and falls off as<!-- EPO <DP n="3"> --> worn powder. In view of such a wear mechanism, it is required to improve both the wear resistance and the heat resistance of an electrically-conductive material that forms the slide member.</p>
+<p id="p0006" num="0006">For the electrically-conductive material to have improved wear resistance and heat resistance, the electrically-conductive material should be a material in which the rigidity modulus is so high that deformation hardly occurs even when shear stress is applied due to sliding and in which recrystallization hardly occurs even when heat energy is applied. Improvement of these properties in the electrically-conductive material is extremely important for extending the life of the slide member. Here, as an approach for improving the wear resistance and the heat resistance of a conventional electrically-conductive material containing a AgPd alloy, a method is known in which a very small amount of additive elements are added to the alloy to provide crystal grain refining and precipitation strengthening</p>
+<p id="p0007" num="0007">As a method for crystal grain refining of the AgPd alloy with a very small amount of additive elements, a method has been disclosed in which Ni, Fe and Co are added in an amount of 3 mass% or less (Patent Document 1). When a very small amount of these elements are added to the AgPd alloy, micro-grains of PdFe, PdNi and PdCo grow at grain boundaries of a AgPd matrix, so that crystal grains of the matrix are micronized. Consequently, improvement of the strength property of the material and prevention of softening of the surface of the material during sliding can be hoped.</p>
+<p id="p0008" num="0008"><!-- EPO <DP n="4"> --> As a method for improving the properties of the AgPd alloy by precipitation strengthening, a method has been disclosed in which additive elements such as Al, Mn, Ga, In, Sn, Zn and Pb are added in an amount of 1 to 5 mass% (Patent Documents 2 to 4). When these additive elements are added, Pd and an intermetallic compound are generated at grain boundaries of a AgPd matrix. The intermetallic compound has a crystal structure different from that of the AgPd matrix having a face-centered cubic lattice, has high strength, hence hardly deforms, and exhibits an improving effect on the rigidity modulus of the alloy.</p>
+<heading id="h0003">Related Art Document</heading>
+<heading id="h0004">Patent Documents</heading>
+<p id="p0009" num="0009">
+<ul id="ul0001" list-style="none" compact="compact">
+<li>Patent Document 1: <patcit id="pcit0001" dnum="WO2017130781A1"><text>WO 2017/130781 A1 </text></patcit></li>
+<li>Patent Document 2: <patcit id="pcit0002" dnum="JPH3051262B"><text>JP H3-051262 B </text></patcit></li>
+<li>Patent Document 3: <patcit id="pcit0003" dnum="JP62060458B"><text>JP S62-060458 B </text></patcit></li>
+<li>Patent Document 4: <patcit id="pcit0004" dnum="JP62060457B"><text>JP S62-060457 B </text></patcit></li>
+</ul></p>
+<heading id="h0005">Summary of the Invention</heading>
+<heading id="h0006">Problems to be Solved by the Invention</heading>
+<p id="p0010" num="0010">The crystal grain refining and precipitation strengthening with a very small amount of additive elements are effective to a certain degree in improvement of wear resistance and heat resistance of a Ag alloy. However, given that the slide member is exposed to a more harsh use environment, it is difficult to say that a<!-- EPO <DP n="5"> --> sufficient effect can be obtained.</p>
+<p id="p0011" num="0011">That is, the crystal grain refining with a very small amount of additive elements increases the values of maximum stress and yield strength, but cannot cause a significant change for improvement of the rigidity modulus and the recrystallization temperature. This method is insufficient for reforming a material.</p>
+<p id="p0012" num="0012">In addition, precipitation strengthening with an intermetallic compound is more effective in material strengthening than the crystal grain refining. The intermetallic compound precipitated with the elements exemplified above is generated depending on an alloy composition (blending ratio of additive elements). When the blending ratio of additive elements is increased, the precipitation amount of the intermetallic compound increases to enhance the effect of precipitation strengthening, but processability is deteriorated, so that it is difficult to produce the slide member. On the other hand, at a blending ratio which ensures that processability is adversely affected, the improving effect on material properties is insufficient, and the life of the electrically-conductive material cannot be extended. That is, this conventional art does not allow the precipitation to be adjusted easily. In addition, the intermetallic compound developed here is precipitated by a mechanism different from age precipitation by spinodal decomposition or the like, and therefore control of the grain size is also difficult. Thus, there is a limit on improving wear resistance and heat resistance while securing processability.</p>
+<p id="p0013" num="0013"><!-- EPO <DP n="6"> --> The present invention has been made against the background of the above circumstances, and discloses an electrically-conductive material based on a AgPd alloy, which has a superior rigidity modulus and recrystallization property over the conventional art while maintaining processability. An object of the present invention is to provide an electrically-conductive material having excellent wear resistance and heat resistance even at an electrical contact portion which is placed under large mechanical and electrical loads.</p>
+<heading id="h0007">Means for Solving the Problems</heading>
+<p id="p0014" num="0014">For achieving the above-described object, the present invention provides an electrically-conductive material containing Ag in an amount of 10 mass% or more and 70 mass% or less, Pd in an amount of 30 mass% or more and 90 mass% or less, Ni in an amount of more than 5 mass% and 45 mass% or less, and inevitable impurities. A ratio of a Ni content (mass%) to a Ag content (mass%) (Ni (mass%)/Ag (mass%)) is 0.1 or more and 5.0 or less, metal structures include a AgPd alloy phase and a PdNi alloy phase, and a volume ratio of the PdNi alloy phase is 18 vol% or more and 80 vol% or less.</p>
+<p id="p0015" num="0015">In the method including strengthening a material by crystal grain refining of a AgPd matrix (Patent Document 1) in the conventional art described above, the added amount of Ni is limited within a very small amount range (3 mass% or less). The limitation of the amount of elements added is aimed at providing crystal grain refining while a difference in solid solubility between the metals of Ag, Pd and Ni is taken into consideration. That is, Pd can be completely solid-dissolved<!-- EPO <DP n="7"> --> with Ag to form of an alloy (AgPd). On the other hand, Ni is hardly solid-dissolved with Ag, but can be completely solid-dissolved with Pd to form an alloy (PdNi). It is thought preferable for crystal grain refining of the AgPd alloy by addition of Ni to proceed with a separation phase (PdNi) in the matrix as an origination point, and to disperse fine separation phases. When the added amount of Ni which is hardly solid-dissolved with Ag that forms the matrix is large, coarse separate phases are excessively generated, resulting in hindrance to crystal grain refining. Thus, in the above-described conventional art, limiting the added amount of Ni to a very small amount to disperse fine separate phases in a homogeneous AgPd alloy matrix to thereby provide crystal grain refining.</p>
+<p id="p0016" num="0016">In contrast to the conventional art, Ni in a high concentration range is intentionally added to the AgPd alloy in the electrically-conductive material according to the present invention. As described above, Ni is an element which is hardly solid-dissolved with Ag, but can be completely solid-dissolved with Pd. Studies by the present inventors show that the PdNi alloy phase which is a separate phase generated by addition of Ni can strengthen the entire alloy when the amount of the PdNi alloy phase with respect to the matrix (AgPd alloy) is appropriately controlled.</p>
+<p id="p0017" num="0017">The present inventors have found that strengthening of a material with the PdNi alloy phase is effective for enhancement of the rigidity modulus in addition to improvement of maximum stress and yield strength. Further, it has been confirmed that appropriate control of the amount of the PdNi alloy phase<!-- EPO <DP n="8"> --> improves the recrystallization temperature, and is effective for improvement of the heat resistance of the alloy.</p>
+<p id="p0018" num="0018">The AgPd alloy containing an appropriate amount of Ni according to the present invention also has processability. This effect is based on the fact that the PdNi alloy phase given attention in the present invention has higher deformability as compared to intermetallic compounds for precipitation strengthening as described above (Patent Documents 2 to 4). The PdNi alloy phase has a face-centered cubic lattice like the AgPd alloy as a matrix, and tends to deform together with the matrix when the entire alloy plastically deforms. When the amount of the PdNi alloy phase in the alloy is within an appropriate range, processability can be secured.</p>
+<p id="p0019" num="0019">As described above, the present invention is characterized in that Ni as an additive element is added with a relatively high concentration to a AgPd alloy to form a multiphase alloy in which AgPd alloy phases are combined with PdNi alloy phases. That is, the electrically-conductive material according to the present invention has characteristics based on an alloy composition including a Ni content and the like, and characteristics based on metal structures related to a multiphase alloy. Hereinafter, a component composition and metal structures will be described in detail with regard to a configuration of the electrically-conductive material according to the present invention.</p>
+<heading id="h0008"><u>A. Alloy composition of electrically-conductive material of the invention</u></heading>
+<p id="p0020" num="0020">The electrically-conductive material according to the present invention<!-- EPO <DP n="9"> --> includes a AgPdNi alloy having three elements of Ag, Pd and Ni as essential constituent elements. The composition range of the AgPdNi alloy is set Ag: 10 mass% or more and 70 mass% or less; Pd: 30 mass% or more and 90 mass% or less; and Ni: more than 5 mass% and 45 mass% or less.</p>
+<p id="p0021" num="0021">The present invention places a restriction on the blending ratio of Ni and Ag in the AgPdNi alloy having a composition in the above-described range. Specifically, the ratio of the Ni content (mass%) and the Ag content (mass%) (Ni (mass%)/Ag (mass%)) is in the range of 0.1 or more and 5.0 or less.</p>
+<p id="p0022" num="0022">In this way, the composition of the AgPdNi alloy applied in the present invention is set within the above-described range, and further, the blending ratio of Ni and Ag is specified. This is aimed at evenly dispersing AgPd alloy phases and PdNi alloy phases to obtain a AgPdNi alloy of preferred metal structures required in the present invention. Essentially, AgPd alloy phase and the PdNi alloy phase are not inherently mixed with each other. When there is a significant difference in density in a liquid phase state and solidus temperature between the alloy phases, the separation tendency becomes strong during casting, so that it is difficult to produce a uniform metal ingot.</p>
+<p id="p0023" num="0023">Studies by the present inventors show that a uniform metal ingot can be obtained by generating AgPd alloy phases and PdNi alloy phases in such a manner that the liquid phase density ratio (liquid phase density of PdNi alloy phase/liquid phase density of AgPd alloy phase) is in the range of 0.95 to 1.00 and the solidus temperature is less than 100°C. In order to generate the alloy<!-- EPO <DP n="10"> --> phases meeting the above-mentioned requirements for the AgPdNi alloy, the alloy composition is set within the above-described range, and the blending ratio of the Ni content to the Ag content is specified.</p>
+<p id="p0024" num="0024">The composition of the AgPd alloy phase generated in accordance with the alloy composition and the blending ratio specified in the present invention is Ag: 30 mass% or more and 80 mass% or less; Ni: 0 mass% or more and 1 mass% or less; and Pd and inevitable impurities: balance. The composition of the PdNi alloy phase is Pd: 40 mass% or more and 90 mass% or less; Ag: 0 mass% or more and 5 mass% or less; and Ni and inevitable impurities: the balance. The inevitable impurities contained in each of the alloy phases include inevitable impurities of the electrically-conductive material according to the present invention as described later, and the content of the latter impurities is within a range as described later. The compositions of the AgPd alloy phase and the PdNi alloy phase can be measured by elemental analysis based on spectroscopy such as wavelength dispersive X-ray spectroscopy (WDS) at the time when the metal structures of the AgPdNi alloy are observed with a scanning electron microscope (SEM) or the like.</p>
+<p id="p0025" num="0025">When regarding the alloy composition described above, the contents of Ag, Pd and Ni are outside the above-described ranges, or the blending ratio of the Ni content and the Ag content is outside the above-described range, the above-described preferred AgPd alloy phase and PdNi alloy phase are not generated at a preferred volume ratio, and it is difficult to produce a homogeneous and uniform material. In addition, it is also difficult to secure wear resistance as an<!-- EPO <DP n="11"> --> electrically-conductive material, which is an object to be achieved by the present invention.</p>
+<p id="p0026" num="0026">The alloy composition of the AgPdNi alloy applied in the present invention is Ag: 14 mass% or more and 55 mass% or less; Pd: 38 mass% or more and 60 mass% or less; and Ni: more than 5 mass% and 30 mass% or less. The ratio of the Ni content (mass%) to the Ag content (mass%) is preferably 0.1 or more and 2.5 or less. More preferably, the composition is Ag: 30 mass% or more and 43 mass% or less, Pd: 45 mass% or more and 50 mass% or less; and Ni: more than 12 mass% and 20 mass% or less. In addition, it is more preferable that the ratio of the Ni content (mass%) to the Ag content (mass%) is 0.3 or more and 0.7 or less.</p>
+<p id="p0027" num="0027">As described above, the electrically-conductive material according to the present invention has Ag, Pd and Ni as essential constituent elements. This alloy can possibly contain Fe, Co, Cr, Mn, Mg, Al, Zn, Cu, Si, S, As, Sn, In and the like as inevitable impurities. The inevitable impurities can be contained in a total amount of 0.5 mass% or less. These inevitable impurities can be solid-dissolved with one or both of the AgPd alloy phase and the PdNi alloy phase. In addition, these inevitable impurities may form a compound with one of Ag, Pd and Ni, and precipitate without having an impact in the alloy. Further, the present inventive electrically-conductive material can possibly contain C (carbon) in an amount of 0 ppm or more and 100 ppm or less, and O (oxygen) and N (nitrogen) in a total amount of 0 ppm or more and 200 ppm or less, in addition to the above-described inevitable impurities.<!-- EPO <DP n="12"> --></p>
+<heading id="h0009"><u>B. Metal structures of electrically-conductive material of the invention</u></heading>
+<p id="p0028" num="0028">The AgPdNi alloy that forms the electrically-conductive material according to the present invention has the above-described alloy composition, and metal structures in which AgPd alloy phases are combined with PdNi alloy phases. This is aimed at imparting wear resistance and heat resistance to a conventional AgPd alloy. In the AgPdNi alloy according to the present invention, the volume ratio of the PdNi alloy phase is in the range of 18 vol% or more and 80 vol% or less. When the volume ratio of the PdNi alloy phase is less than 18 vol%, wear resistance or the like required as an electrically-conductive material is insufficient. On the other hand, when the volume ratio of the PdNi alloy phase is more than 80 vol%, processability is deteriorated, so that it is difficult to process the member into a desired shape.</p>
+<p id="p0029" num="0029">The volume ratio of the PdNi alloy phase is a volume ratio of the PdNi alloy phase in the electrically-conductive material (AgPdNi alloy). As described later, the volume ratio of the PdNi alloy phase is approximated by an area ratio of the PdNi alloy phase in an observation region of an arbitrary cross-section observed. The compositions of the AgPd alloy phase and the PdNi alloy phase observed in the metal structures are as described above.</p>
+<p id="p0030" num="0030">The AgPdNi alloy of the present invention in which the volume ratio of the PdNi alloy is in the above-described range can be cast while the composition of the entire alloy and the ratio of the Ni content to the Ag content are set within<!-- EPO <DP n="13"> --> the above-described ranges. By plastically processing the cast alloy material, a AgPdNi alloy can be obtained which has metal structures in which layered AgPd alloy phases and/or PdNi alloy phases are distributed on an arbitrary cross-section. By forming such metal structures, the properties of the alloy phases can be exhibited in a synergistic manner, so that high wear resistance and heat resistance can be exhibited.</p>
+<p id="p0031" num="0031">In the present invention, the arbitrary cross-section refers to one or more arbitrarily selected processing-direction cross-sections. The processing-direction cross-section is a cross-section parallel to a processing direction. Typically, the processing direction may be a direction in which the AgPd alloy phase and/or the PdNi alloy phase extend. In the present invention, the metal structures are observed over the entire arbitrarily selected processing-direction cross-section. In the present invention, the layered PdNi alloy phases (AgPd alloy phases) are formed by continuous distribution of a plurality of PdNi alloy phases (AgPd alloy phases) extending in a processing direction in metal structures on an arbitrary cross-section, where the PdNi alloy phases (AgPd alloy phases) are layered from the standpoint of appearance. However, the term "layered" is not limited to a state in which PdNi alloy phases (AgPd alloy phases) are continuous over the entire area, and there may be one or more isolated portions.</p>
+<p id="p0032" num="0032">The metal structures of the AgPdNi alloy that form the electrically-conductive material according to the present invention have an appearance related a volume ratio of PdNi alloy phases. AAgPdNi alloy in which the volume<!-- EPO <DP n="14"> --> ratio of PdNi alloy phases is relatively low, specifically 18 vol% or more and less than 50 vol% has metal structures in which AgPd alloy phases, and PdNi alloy phases each having a thickness smaller than that of the AgPd alloy phase are distributed. Here, the thickness of the PdNi alloy phases is within the range of 0.01 µm to 20 µm. On the other hand, a AgPdNi alloy in which the volume ratio of PdNi alloy phases is relatively high, specifically 50 vol% or more and 80 vol% or less has metal structures in which PdNi alloy phases, and AgPd alloy phases each having a thickness smaller than that of the PdNi alloy phase are distributed. Here, the thickness of the AgPd alloy phases is within the range of 0.01 µm to 20 µm.</p>
+<p id="p0033" num="0033">In particular, an alloy in which the volume ratio of PdNi alloy phases is 35 vol% or more and 65 vol% or less has metal structures in which continuous layered AgPd alloy phases and/or PdNi alloy phases are laminated. In the AgPdNi alloy having laminated structures, AgPd alloy phases or PdNi alloy phases having a thickness within the range of 0.01 µm to 20 µm are distributed depending on the volume ratio of PdNi alloy phases. The above-described thickness of the PdNi alloy phase (AgPd alloy phase) is the width of the alloy phase in a direction crossing the processing direction. In the present invention, it is necessary that all the PdNi alloy phases (AgPd alloy phases) observed on an arbitrary cross-section have a thickness within the above-described range.</p>
+<p id="p0034" num="0034">The metal structures of the AgPdNi alloy of the present invention can be observed by use of a common method for observing a metal. However, the cross-section to be observed is a processing-direction cross-section. The<!-- EPO <DP n="15"> --> processing-direction cross-section is a cross-section parallel to a processing direction as described above, and on the cross-section, crystals extend in a lateral axis direction. In measurement of the volume ratio of PdNi alloy phases, and the thickness of each alloy phase, measurement and calculation are performed on the basis of metal structures on the observed processing-direction cross-section.</p>
+<p id="p0035" num="0035">The metal structures can be observed with an optical microscope or a scanning electron microscope (e.g. SEM), and may be appropriately etched as pretreatment for observation. By observing the metal structures, whether laminated constitutional structures are present or not can be determined, and the volume ratio of PdNi alloy phases, and the thickness of each phase can be measured. Here, the volume ratio of PdNi alloy phases can be approximated by an area ratio to an observation region which is calculated by image processing. For the image processing, software can be used as appropriate. For example, by properly setting a threshold and binarizing image data for an image of metal structures photographed by the above-described observation method, calculation of the area ratio (volume ratio) of PdNi alloy phases and measurement of the thickness of the alloy phase can be performed. Preferably, such image analysis is performed in a plurality of visual fields (three or more visual fields), and an average value of the results obtained is employed.</p>
+<heading id="h0010"><u>C. Strength and thermal properties of electrically-conductive material of the invention</u></heading>
+<p id="p0036" num="0036">In the electrically-conductive material including the above-described<!-- EPO <DP n="16"> --> AgPdNi alloy according to the present invention, the rigidity modulus and the thermal properties are improved in contrast to the conventional art for securing wear resistance and heat resistance. Specifically, the rigidity modulus is 50 to 100 GPa. It has been confirmed that the electrically-conductive material of the present invention has a higher strength property as compared to a AgPd alloy (e.g. AgPd50) as a conventional art in which the rigidity modulus is about 45 GPa. Owing to the improvement of the strength property, the metal structures of the slide contact portion hardly deforms even when subjected to shear stress from sliding, so that formation of a surface altered layer is suppressed. Thus, improvement of the strength property may contribute to improvement of wear resistance.</p>
+<p id="p0037" num="0037">The recrystallization temperature of the electrically-conductive material including a AgPdNi alloy according to the present invention is in a higher temperature range as compared to the conventional art. A conventional electrically-conductive material is recrystallized by heat treatment at 700°C (heating for 30 minutes), leading to coarsening and a decrease in hardness of metal structures. On the other hand, the hardness of the AgPdNi alloy of the present invention does not completely decrease in heat treatment at 700°C. The AgPdNi alloy is recrystallized only when heat energy at 900°C or higher is applied. Thus, the electrically-conductive material of the present invention is less likely to be affected by friction heat during sliding or heat associated with arc discharge, and has superior heat resistance over the conventional art.</p>
+<heading id="h0011"><u>D. Method for producing electrically-conductive material of the invention</u></heading><!-- EPO <DP n="17"> -->
+<p id="p0038" num="0038">The present inventive electrically-conductive material including a AgPdNi alloy can be produced fundamentally by the same production process as in the case of a AgPd alloy which is a conventional art. That is, the AgPdNi alloy can be formed by a melting method, and a cast ingot serving as an alloy material can be obtained by a casting method. The cast ingot is produced by applying an inclined casting method, a continuous casting method, a semi-continuous casting method or the like.</p>
+<p id="p0039" num="0039">By plastically processing the cast ingot, the electrically-conductive material having metal structures including AgPd alloy phases and PdNi alloy phases can be produced. As plastic processing, forge processing, swaging, wire drawing, rolling, extrusion, drawing or the like is applied. Preferably, these processing methods are carried out alone or in combination on the cast ingot to perform plastic processing with a total processing ratio of 80% or more. The processing-direction cross-section of the electrically-conductive material subjected to the plastic processing depends on the processing direction in each processing method (wire drawing direction, rolling direction, or extrusion and drawing direction).</p>
+<heading id="h0012"><u>E. Use mode of electrically-conductive material of the invention</u></heading>
+<p id="p0040" num="0040">The above-described present inventive electrically-conductive material containing a AgPdNi alloy is processed into an appropriate shape, and used. The shape and the size of the electrically-conductive material depend on a use thereof, and are not particularly limited.<!-- EPO <DP n="18"> --></p>
+<p id="p0041" num="0041">The present inventive electrically-conductive material may be cladded to an appropriate substrate (base material), and used in the form of a clad combined material. As the base material of the clad combined material, Cu or a Cu alloy having excellent electrical conductivity can be applied. Examples of the Cu alloy include Corson copper alloys (Cu: 1 to 4 mass%, Ni: 1 mass% or less, and Si and other elements such as Zn, Mn, Sn and Mg: 1 mass%), beryllium copper alloys (Cu: 2 mass% or less, Be: 1 mass% or less, and Ni, Co, Fe and other elements such as Zn, Mn, Sn and Mg: 0.5 mass% or less), and phosphor bronze alloys (Cu: 1 to 10 mass%, Sn-1: 1 mass% or less, and P and other elements such as Zn, Mn and Mg: 0.5 mass% or less). The form in which the present inventive electrically-conductive material is cladded to a base material may be any of inlay, overlay, edgelay and toplay.</p>
+<p id="p0042" num="0042">Use of the present inventive electrically-conductive material for a slide contact member can be expected to improve the durability of the member. Specific examples of applications of the slide contact member include use as a brush for DC motors and slip rings. In particular, the present invention is effective in DC motors having a stall current of 1 A or more, and slip rings having an increased rotation speed. In the electric devices having increased power and an increased rotation speed, the brush material may be abraded, and spark-damaged by arc discharge. The present invention enables improvement of the durability life of the slide contact because of superior durability against the wear and damage over the conventional art.</p>
+<p id="p0043" num="0043"><!-- EPO <DP n="19"> --> <figref idref="f0001">Fig. 1</figref> schematically shows an example of a structure of a DC motor which is a specific application of the present inventive electrically-conductive material (front view and side view). The DC motor includes a rotating shaft, a commutator provided on the periphery of the rotating shaft, and a brush contacting the commutator to supply a current, each of which is an essential constituent member. In the DC motor of <figref idref="f0001">Fig. 1</figref>, the current from a power source passes through the brush into the commutator to feed a winding coil. When the winding coil is supplied with the current to generate a magnetic field, a magnetized rotor repels and attracts each pole of a permanent magnet to rotate the rotating shaft. Examples of the method for controlling the motor include a resistance control method (<figref idref="f0002">Fig. 2(a)</figref>] and a pulse control method (<figref idref="f0002">Fig. 2(b)</figref>) as shown in <figref idref="f0002">Fig. 2</figref>. In the former method, a voltage controller such as a power transistor/variable resistor etc. is placed between the motor and the power source, and power supplied to the motor is adjusted to control the rotation speed of the motor. In the latter method, the rotation speed of the motor is controlled while the power source of the motor is turned on and off by use of a switching element such as a control transistor.</p>
+<p id="p0044" num="0044">In the DC motor described above, the brush is formed of a first contact material at least at a contact surface with the commutator. Here, the present inventive electrically-conductive material is applied as the first contact material. The composition and the metal structures of the electrically-conductive material are as described above.</p>
+<p id="p0045" num="0045">In the DC motor, the commutator which is a counterpart member for the<!-- EPO <DP n="20"> --> brush is formed of a second contact material at least at a contact surface with the brush. When the present inventive electrically-conductive material is applied to the first contact material of the brush of the DC motor, a material having a high electrical conductivity (IACS: 55% or more, such as a Ag-Ni alloy, a Ag-Cu-Ni alloy or a Ag-Cu-Ni-Zn alloy is suitable for the second contact material of the commutator. This is because stable electrical contact can be maintained by keeping contact resistance low.</p>
+<p id="p0046" num="0046">The first contact material of the brush and the second contact material of the commutator may form at least the respective contact surfaces. For example, as in <figref idref="f0002">Fig. 3</figref>, the members may be formed of combined materials having the first and second contact materials cladded on the respective contact surface sides. The entire member may be formed of the first and second contact materials. The above-described motor structure, control method and the like are also applied to micro DC motors.</p>
+<p id="p0047" num="0047">The present invention is useful as various electrode materials and contact materials in addition to the above-described applications. Examples of the applications include use for slide switches, connectors, variable resistors such as potentiometers.</p>
+<heading id="h0013">Advantageous Effects of the Invention</heading>
+<p id="p0048" num="0048">As described above, the present inventive electrically-conductive material cotaining a AgPdNi alloy according to the present invention has Ni added to a<!-- EPO <DP n="21"> --> AgPd alloy in an amount which has not been covered in the conventional art, and includes combined metal structures containing AgPd alloy phases and PdNi alloy phases. The present inventive electrically-conductive material is based on ideas different from those of the conventional art as described above, and thus have excellent wear resistance and heat resistance.</p>
+<heading id="h0014">Brief Description of the Drawings</heading>
+<p id="p0049" num="0049">
+<ul id="ul0002" list-style="none" compact="compact">
+<li><figref idref="f0001">Fig. 1</figref> is schematic diagram illustrating an example of a structure of a DC motor.</li>
+<li><figref idref="f0002">Fig. 2</figref> illustrates a method for controlling the DC motor.</li>
+<li><figref idref="f0002">Fig. 3</figref> illustrates a contact state of a brush and a commutator in the DC motor, and configurations of members.</li>
+<li><figref idref="f0003">Fig. 4</figref> shows SEM photographs showing metal structures of electrically-conductive materials (AgPdNi alloys) of various compositions which are produced in an embodiment (Examples 1 to 7, Comparative Examples 1, 2 and 5 and Conventional Examples 1 to 4).</li>
+<li><figref idref="f0004">Fig. 5</figref> shows a relationship between a volume ratio and a rigidity modulus of PdNi alloy phases for the AgPdNi alloys produced in the embodiment (Examples 1 to 7 and Comparative Examples 1 to 5).</li>
+<li><figref idref="f0005">Fig. 6</figref> shows a change in hardness when heat treatment is performed over a range of 400°C to 1000°C for the AgPdNi alloys produced in the embodiment (Examples 1 to 7).</li>
+<li><figref idref="f0006">Fig. 7</figref> shows a change in hardness when heat treatment is performed over a range of 400°C to 1000°C for the AgPdNi alloys and AgPd alloys produced in<!-- EPO <DP n="22"> --> the embodiment (Comparative Examples 1, 2 and 5 and Conventional Examples 1 to 4).</li>
+<li><figref idref="f0007">Fig. 8</figref> is a schematic diagram of a slide tester for durability tests conducted in the embodiment.</li>
+<li><figref idref="f0008">Fig. 9</figref> shows SEM photographs showing cross-sectional shapes of worn portions after the durability tests conducted for examples and conventional examples in the embodiment.</li>
+<li><figref idref="f0009">Fig. 10</figref> shows SEM photographs showing cross-sectional shapes of worn portions of a AgPd alloy which is a conventional electrically-conductive material.</li>
+</ul></p>
+<heading id="h0015">Description of Embodiments</heading>
+<p id="p0050" num="0050">Hereinafter, an embodiment of the present invention will be described. In the embodiment, AgPdNi alloys of various compositions were produced, the metal structures of the alloys were observed, and material properties were evaluated.</p>
+<p id="p0051" num="0051">A plated-shaped alloy ingot was prepared by a high-frequency melting method and a casting method, and rolled with a total processing ratio of 80% or more to produce a test material of AgPdNi alloy (test material size: 200 mm in length, 10 mm in width and 0.3 mm in thickness) Test materials of AgPd alloy and AgPd-based alloy as the conventional art were produced by the same process.</p>
+<p id="p0052" num="0052">The metal structures of the produced test materials of AgPdNi alloy and<!-- EPO <DP n="23"> --> conventional alloys were observed. For observation of the structures, a cross-section parallel to a processing direction was observed by SEM observation. For SEM observation, reflected electron images were photographed at an accelerating voltage of 7 kv and a magnification of 5000 times with JSM-7200F manufactured by JEOL Ltd.</p>
+<p id="p0053" num="0053">In parallel to the SEM observation, the compositions of a AgPd alloy phase and a PdNi alloy phase were analyzed by WDS for the AgPdNi alloy test material. From this analysis, it was confirmed that in all the AgPdNi alloy test materials, the composition of the AgPd alloy phase was Ag: 65±3 mass%, Pd: 35±3 mass% and Ni: 0.1 mass% or less, and the composition of the PdNi alloy phase was Pd: 62±3 mass%; Ni: 37±3 mass%; and Ag: 1 mass% or less.</p>
+<p id="p0054" num="0054">The SEM photographs taken for the AgPdNi alloy test materials were subjected to image processing, and the volume ratios of PdNi alloy phases in metal structures of the alloys were measured. The image processing was performed by processing the obtained SEM image with image processing software (VK-H1G9 manufactured by KEYENCE CORPORATION). In the image processing, the SEM image was converted into a gray-scaled image, and binarized. In the binarization operation, a density level value of 80 was set to a threshold on the gray-scaled image (the density level values of all pixels range of 0 to 255), portions having a density level value of less than 80 were counted as black (PdNi alloy phases), portions having a density level value of 80 or more were counted as white (AgPd alloy phases), and the area ratios of the alloy phases were calculated. At the same time, the perpendicular ferret<!-- EPO <DP n="24"> --> diameters of PdNi alloy phases and AgPd alloy phases (ferret diameter in a perpendicular direction in the SEM image) were measured, and average values and maximum thicknesses were obtained. The observation of metal structures and image processing were performed in a total of six observation visual fields selected, and an average value of measured values obtained from the observation and processing was used for evaluation. In the present invention, the volume ratio is approximated by the area ratio. In this way, measurement of the area ratio or the like of PdNi alloy phases in all the six observation visual fields selected enables examination with consideration also given to a width.</p>
+<p id="p0055" num="0055">Table 1 below shows the compositions the AgPdNi alloys and the conventional alloys (AgPd alloys and the like) produced in the embodiment. Table 1 shows the volume ratios of PdNi alloy phases in various AgPdNi alloys, and the average thicknesses and the maximum thicknesses of PdNi alloy phases or AgPd alloy phases alloy phases. The alloy phase thickness shown in Table 1 is the thickness of the PdNi alloy phase for AgPdNi alloys having a PdNi alloy phase content of less than 50 vol% (Examples 1 to 3 and Comparative Examples 1 to 4), and the thickness of the AgPd alloy phase for AgPdNi alloys having a PdNi alloy phase content of 50 vol% or more (Examples 4 to 7 and Comparative Example 5).</p>
+<p id="p0056" num="0056">However, for the AgPdNi alloy of Comparative Example 6 which had an excessively high Ni content, the test material was so heavily damaged during processing that processing was impossible, and thus the volume ratios of alloy phases and the like were not examined. For the AgPdNi alloy of Comparative<!-- EPO <DP n="25"> --> Example 7 which had an excessively high Pd content, there were no PdNi alloy phases and AgPd alloy phases, and thus the volume ratios of alloy phases and the like were not examined.</p>
+<p id="p0057" num="0057"><figref idref="f0003">Fig. 4</figref> shows the results of observation of the metal structures of the AgPdNi alloys produced in the embodiment (Examples 1 to 7 and Comparative Examples 1, 2 and 5 and the conventional alloys (SEM photographs).
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>[Table 1]</title>
+<tgroup cols="9">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="10mm"/>
+<colspec colnum="3" colname="col3" colwidth="10mm"/>
+<colspec colnum="4" colname="col4" colwidth="9mm"/>
+<colspec colnum="5" colname="col5" colwidth="9mm"/>
+<colspec colnum="6" colname="col6" colwidth="14mm"/>
+<colspec colnum="7" colname="col7" colwidth="45mm"/>
+<colspec colnum="8" colname="col8" colwidth="23mm"/>
+<colspec colnum="9" colname="col9" colwidth="25mm"/>
+<thead>
+<row>
+<entry morerows="1" align="center" valign="middle"/>
+<entry namest="col2" nameend="col6" align="center" valign="middle">Composition (wt%)</entry>
+<entry morerows="1" align="center" valign="middle">Volume ratio of PdNi alloy phases (vol%)</entry>
+<entry namest="col8" nameend="col9" align="center" valign="middle">Thickness of alloy phase (µm)<sup>*1</sup></entry></row>
+<row>
+<entry align="center" valign="middle">Ag</entry>
+<entry align="center" valign="middle">Pd</entry>
+<entry align="center" valign="middle">Ni</entry>
+<entry align="center" valign="middle">In</entry>
+<entry align="center" valign="middle">Ni/Ag</entry>
+<entry align="center" valign="middle">Average</entry>
+<entry align="center" valign="middle">Maximum</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Example 1</entry>
+<entry align="center" valign="middle">53</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.13</entry>
+<entry align="center" valign="middle">19.6</entry>
+<entry align="center" valign="middle">0.48</entry>
+<entry align="center" valign="middle">3.47</entry></row>
+<row>
+<entry align="center" valign="middle">Example 2</entry>
+<entry align="center" valign="middle">46</entry>
+<entry align="center" valign="middle">43</entry>
+<entry align="center" valign="middle">11</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.24</entry>
+<entry align="center" valign="middle">28.8</entry>
+<entry align="center" valign="middle">0.52</entry>
+<entry align="center" valign="middle">4.80</entry></row>
+<row>
+<entry align="center" valign="middle">Example 3</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">46</entry>
+<entry align="center" valign="middle">14</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.35</entry>
+<entry align="center" valign="middle">38.5</entry>
+<entry align="center" valign="middle">0.66</entry>
+<entry align="center" valign="middle">7.10</entry></row>
+<row>
+<entry align="center" valign="middle">Example 4</entry>
+<entry align="center" valign="middle">34</entry>
+<entry align="center" valign="middle">48</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.53</entry>
+<entry align="center" valign="middle">51.3</entry>
+<entry align="center" valign="middle">0.86</entry>
+<entry align="center" valign="middle">10.39</entry></row>
+<row>
+<entry align="center" valign="middle">Example 5</entry>
+<entry align="center" valign="middle">27</entry>
+<entry align="center" valign="middle">52</entry>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.78</entry>
+<entry align="center" valign="middle">59.7</entry>
+<entry align="center" valign="middle">0.53</entry>
+<entry align="center" valign="middle">7.69</entry></row>
+<row>
+<entry align="center" valign="middle">Example 6</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">54</entry>
+<entry align="center" valign="middle">26</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">1.30</entry>
+<entry align="center" valign="middle">70.9</entry>
+<entry align="center" valign="middle">0.40</entry>
+<entry align="center" valign="middle">4.71</entry></row>
+<row>
+<entry align="center" valign="middle">Example 7</entry>
+<entry align="center" valign="middle">14</entry>
+<entry align="center" valign="middle">57</entry>
+<entry align="center" valign="middle">29</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">2.07</entry>
+<entry align="center" valign="middle">79.6</entry>
+<entry align="center" valign="middle">0.39</entry>
+<entry align="center" valign="middle">3.33</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 1</entry>
+<entry align="center" valign="middle">62</entry>
+<entry align="center" valign="middle">36</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">4.5</entry>
+<entry align="center" valign="middle">0.39</entry>
+<entry align="center" valign="middle">1.66</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 2</entry>
+<entry align="center" valign="middle">59</entry>
+<entry align="center" valign="middle">37</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.07</entry>
+<entry align="center" valign="middle">9.6</entry>
+<entry align="center" valign="middle">0.45</entry>
+<entry align="center" valign="middle">2.03</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 3</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.06</entry>
+<entry align="center" valign="middle">8.7</entry>
+<entry align="center" valign="middle">0.38</entry>
+<entry align="center" valign="middle">2.13</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 4</entry>
+<entry align="center" valign="middle">73</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.10</entry>
+<entry align="center" valign="middle">10.4</entry>
+<entry align="center" valign="middle">0.41</entry>
+<entry align="center" valign="middle">2.42</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 5</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">61</entry>
+<entry align="center" valign="middle">32</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">4.57</entry>
+<entry align="center" valign="middle">90.9</entry>
+<entry align="center" valign="middle">0.33</entry>
+<entry align="center" valign="middle">1.98</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 6</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">11.00</entry>
+<entry align="center" valign="middle">-<sup>*2</sup></entry>
+<entry align="center" valign="middle">-<sup>*2</sup></entry>
+<entry align="center" valign="middle">-<sup>*2</sup></entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 7</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">95</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">1.00</entry>
+<entry align="center" valign="middle">-<sup>*3</sup></entry>
+<entry align="center" valign="middle">-<sup>*3</sup></entry>
+<entry align="center" valign="middle">-<sup>*3</sup></entry></row>
+<row>
+<entry align="center" valign="middle">Conventional Example 1</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">Conventional Example 2</entry>
+<entry align="center" valign="middle">69</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">Conventional Example 3</entry>
+<entry align="center" valign="middle">67</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">Conventional Example 4</entry>
+<entry align="center" valign="middle">48</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row></tbody></tgroup>
+<tgroup cols="9" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="10mm"/>
+<colspec colnum="3" colname="col3" colwidth="10mm"/>
+<colspec colnum="4" colname="col4" colwidth="9mm"/>
+<colspec colnum="5" colname="col5" colwidth="9mm"/>
+<colspec colnum="6" colname="col6" colwidth="14mm"/>
+<colspec colnum="7" colname="col7" colwidth="45mm"/>
+<colspec colnum="8" colname="col8" colwidth="23mm"/>
+<colspec colnum="9" colname="col9" colwidth="25mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col9" align="justify">*1: Thickness of PdNi alloy phase for alloys having PdNi alloy phase content of less than 50 vol% Thickness of AgPd alloy phase for alloys having PdNi alloy phase content of 50 vol% or more<br/>
+*2: Measurement was impossible because processing of test material was not possible<br/>
+*3: Alloy phases were not precipitated, and measurement was impossible</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0058" num="0058"><!-- EPO <DP n="26"> --> In the SEM photograph of <figref idref="f0003">Fig. 4</figref>, white or gray contrast phases are AgPd alloy phases. On the other hand, dark gray or black contrast phases are PdNi alloy phases. From <figref idref="f0003">Fig. 4</figref>, it is apparent that in Example 1 which is a AgPdNi alloy having a Ni content of evidently more than 5%, the ratio of PdNi alloy phases remarkably increases. The PdNi alloy phases become layered in appearance as the Ni content increases. The AgPdNi alloys of Examples 3 to 7 have metal structures with stacked structures of layered AgPd alloy phases and PdNi alloy phases. In the AgPdNi alloys of Comparative Examples 1 and 2 which have a low Ni content (5 mass% or less), PdNi alloy phases are generated, but the amount (volume ratio) of these alloy phases is lower as compared to the above-mentioned examples.</p>
+<p id="p0059" num="0059">For conventional alloys, only AgPd alloy phases are observed in the AgPd alloy of Conventional Example 1 as a matter of course. Minute PdNi alloy phases are precipitated in the AgPd-based alloy of Conventional Example 2 which contains a very small amount of Ni. Further, the AgPd-based alloys of Conventional Examples 3 and 4 which contain a small amount of Ni and In have precipitates from these additive elements.</p>
+<p id="p0060" num="0060">Next, various electrically-conductive materials produced in the embodiment were subjected to a tensile test and hardness measurement for evaluating strength properties. In the evaluation test for strength properties, a plate-shaped sample (10 mm in width, 20 mm in length and 0.3 mm in thickness) subjected to full annealing (annealing condition: conventional example alloys were held at 700°C for 1 hour, and Comparative Example and<!-- EPO <DP n="27"> --> Example alloys were held at 900°C for 1 hour), and then rolled at 50% was used. In the tensile test, a tensile test was conducted at a tension speed of 10 mm/min with a tensile tester (5966 manufactured by Instron Company), and the maximum stress, the 0.2% yield strength, the longitudinal elastic modulus and lateral elastic modulus were measured with a micro extensometer. The rigidity modulus was calculated from the values of the longitudinal elastic modulus and the lateral elastic modulus. The hardness measurement was performed with a Vickers hardness tester (HMV-G manufactured by Shimadzu Corporation), where the material was held with a test force of 2.942 N for 15 seconds. Table 2 shows the results of measuring the strength properties. <figref idref="f0004">Fig. 5</figref> shows a relationship between the volume ratio and the rigidity modulus of PdNi alloy phases in the AgPdNi alloys of Examples 1 to 7 and Comparative Examples 1 to 5, which are obtained from the test results.<!-- EPO <DP n="28"> -->
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>[Table 2]</title>
+<tgroup cols="11">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="10mm"/>
+<colspec colnum="3" colname="col3" colwidth="10mm"/>
+<colspec colnum="4" colname="col4" colwidth="9mm"/>
+<colspec colnum="5" colname="col5" colwidth="9mm"/>
+<colspec colnum="6" colname="col6" colwidth="14mm"/>
+<colspec colnum="7" colname="col7" colwidth="21mm"/>
+<colspec colnum="8" colname="col8" colwidth="20mm"/>
+<colspec colnum="9" colname="col9" colwidth="17mm"/>
+<colspec colnum="10" colname="col10" colwidth="18mm"/>
+<colspec colnum="11" colname="col11" colwidth="19mm"/>
+<thead>
+<row>
+<entry morerows="1" align="center" valign="middle"/>
+<entry namest="col2" nameend="col6" align="center" valign="middle">Composition (wt%)</entry>
+<entry morerows="1" align="center" valign="middle">Volume ratio of PdNi alloy phases (vol%)</entry>
+<entry namest="col8" nameend="col10" align="center" valign="middle">Strength properties</entry>
+<entry morerows="1" align="center" valign="middle">Hardness (Hv)</entry></row>
+<row>
+<entry align="center" valign="middle">Ag</entry>
+<entry align="center" valign="middle">Pd</entry>
+<entry align="center" valign="middle">Ni</entry>
+<entry align="center" valign="middle">In</entry>
+<entry align="center" valign="middle">Ni/Ag</entry>
+<entry align="center" valign="middle">Maximum stress (MPa)</entry>
+<entry align="center" valign="middle">0.2% Yield strength (MPa)</entry>
+<entry align="center" valign="middle">Rigidity modulus (Gpa)</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Example 1</entry>
+<entry align="center" valign="middle">53</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.13</entry>
+<entry align="center" valign="middle">19.6</entry>
+<entry align="center" valign="middle">710.3</entry>
+<entry align="center" valign="middle">665.7</entry>
+<entry align="center" valign="middle">52.0</entry>
+<entry align="center" valign="middle">205</entry></row>
+<row>
+<entry align="center" valign="middle">Example 2</entry>
+<entry align="center" valign="middle">46</entry>
+<entry align="center" valign="middle">43</entry>
+<entry align="center" valign="middle">11</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.24</entry>
+<entry align="center" valign="middle">28.8</entry>
+<entry align="center" valign="middle">793.4</entry>
+<entry align="center" valign="middle">771.8</entry>
+<entry align="center" valign="middle">51.2</entry>
+<entry align="center" valign="middle">220</entry></row>
+<row>
+<entry align="center" valign="middle">Example 3</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">46</entry>
+<entry align="center" valign="middle">14</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.35</entry>
+<entry align="center" valign="middle">38.5</entry>
+<entry align="center" valign="middle">846.4</entry>
+<entry align="center" valign="middle">802.7</entry>
+<entry align="center" valign="middle">56.6</entry>
+<entry align="center" valign="middle">245</entry></row>
+<row>
+<entry align="center" valign="middle">Example 4</entry>
+<entry align="center" valign="middle">34</entry>
+<entry align="center" valign="middle">48</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.53</entry>
+<entry align="center" valign="middle">51.3</entry>
+<entry align="center" valign="middle">882.8</entry>
+<entry align="center" valign="middle">818.4</entry>
+<entry align="center" valign="middle">62.1</entry>
+<entry align="center" valign="middle">246</entry></row>
+<row>
+<entry align="center" valign="middle">Example 5</entry>
+<entry align="center" valign="middle">27</entry>
+<entry align="center" valign="middle">52</entry>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.78</entry>
+<entry align="center" valign="middle">59.7</entry>
+<entry align="center" valign="middle">934.9</entry>
+<entry align="center" valign="middle">879.7</entry>
+<entry align="center" valign="middle">61.4</entry>
+<entry align="center" valign="middle">263</entry></row>
+<row>
+<entry align="center" valign="middle">Example 6</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">54</entry>
+<entry align="center" valign="middle">26</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">1.30</entry>
+<entry align="center" valign="middle">70.9</entry>
+<entry align="center" valign="middle">1011.5</entry>
+<entry align="center" valign="middle">927.9</entry>
+<entry align="center" valign="middle">63.4</entry>
+<entry align="center" valign="middle">278</entry></row>
+<row>
+<entry align="center" valign="middle">Example 7</entry>
+<entry align="center" valign="middle">14</entry>
+<entry align="center" valign="middle">57</entry>
+<entry align="center" valign="middle">29</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">2.07</entry>
+<entry align="center" valign="middle">79.6</entry>
+<entry align="center" valign="middle">1079.2</entry>
+<entry align="center" valign="middle">963.8</entry>
+<entry align="center" valign="middle">66.7</entry>
+<entry align="center" valign="middle">308</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 1</entry>
+<entry align="center" valign="middle">62</entry>
+<entry align="center" valign="middle">36</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">4.5</entry>
+<entry align="center" valign="middle">606.0</entry>
+<entry align="center" valign="middle">569.4</entry>
+<entry align="center" valign="middle">44.3</entry>
+<entry align="center" valign="middle">178</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 2</entry>
+<entry align="center" valign="middle">59</entry>
+<entry align="center" valign="middle">37</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.07</entry>
+<entry align="center" valign="middle">9.6</entry>
+<entry align="center" valign="middle">624.6</entry>
+<entry align="center" valign="middle">581.4</entry>
+<entry align="center" valign="middle">42.6</entry>
+<entry align="center" valign="middle">184</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 3</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.06</entry>
+<entry align="center" valign="middle">8.7</entry>
+<entry align="center" valign="middle">510.1</entry>
+<entry align="center" valign="middle">476.9</entry>
+<entry align="center" valign="middle">40.8</entry>
+<entry align="center" valign="middle">152</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 4</entry>
+<entry align="center" valign="middle">73</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.10</entry>
+<entry align="center" valign="middle">10.4</entry>
+<entry align="center" valign="middle">554.3</entry>
+<entry align="center" valign="middle">516.1</entry>
+<entry align="center" valign="middle">45.6</entry>
+<entry align="center" valign="middle">163</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 5</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">61</entry>
+<entry align="center" valign="middle">32</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">4.57</entry>
+<entry align="center" valign="middle">90.9</entry>
+<entry align="center" valign="middle">1108.6</entry>
+<entry align="center" valign="middle">1036.9</entry>
+<entry align="center" valign="middle">76.0</entry>
+<entry align="center" valign="middle">320</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 6</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">11.00</entry>
+<entry align="center" valign="middle">-<sup>*1</sup></entry>
+<entry align="center" valign="middle">-<sup>*1</sup></entry>
+<entry align="center" valign="middle">-<sup>*1</sup></entry>
+<entry align="center" valign="middle">-<sup>*1</sup></entry>
+<entry align="center" valign="middle">-<sup>*1</sup></entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 7</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">95</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">1.00</entry>
+<entry align="center" valign="middle">-<sup>*1</sup></entry>
+<entry align="center" valign="middle">-<sup>*1</sup></entry>
+<entry align="center" valign="middle">-<sup>*1</sup></entry>
+<entry align="center" valign="middle">-<sup>*1</sup></entry>
+<entry align="center" valign="middle">-<sup>*1</sup></entry></row>
+<row>
+<entry align="center" valign="middle">Conventional Example 1</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">508.1</entry>
+<entry align="center" valign="middle">482.9</entry>
+<entry align="center" valign="middle">45.0</entry>
+<entry align="center" valign="middle">170</entry></row>
+<row>
+<entry align="center" valign="middle">Conventional Example 2</entry>
+<entry align="center" valign="middle">69</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">533.2</entry>
+<entry align="center" valign="middle">482.1</entry>
+<entry align="center" valign="middle">43.0</entry>
+<entry align="center" valign="middle">177</entry></row>
+<row>
+<entry align="center" valign="middle">Conventional Example 3</entry>
+<entry align="center" valign="middle">67</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">619.2</entry>
+<entry align="center" valign="middle">531.9</entry>
+<entry align="center" valign="middle">47.1</entry>
+<entry align="center" valign="middle">154</entry></row>
+<row>
+<entry align="center" valign="middle">Conventional Example 4</entry>
+<entry align="center" valign="middle">48</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">679.3</entry>
+<entry align="center" valign="middle">643.1</entry>
+<entry align="center" valign="middle">49.4</entry>
+<entry align="center" valign="middle">197</entry></row></tbody></tgroup>
+<tgroup cols="11" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="10mm"/>
+<colspec colnum="3" colname="col3" colwidth="10mm"/>
+<colspec colnum="4" colname="col4" colwidth="9mm"/>
+<colspec colnum="5" colname="col5" colwidth="9mm"/>
+<colspec colnum="6" colname="col6" colwidth="14mm"/>
+<colspec colnum="7" colname="col7" colwidth="21mm"/>
+<colspec colnum="8" colname="col8" colwidth="20mm"/>
+<colspec colnum="9" colname="col9" colwidth="17mm"/>
+<colspec colnum="10" colname="col10" colwidth="18mm"/>
+<colspec colnum="11" colname="col11" colwidth="19mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col11" align="justify">*1: Measurement was cancelled because processing of test material was impossible or there were no alloy phases</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0061" num="0061">The results of conventional examples for the strength properties of the alloys show that the alloy of Conventional Example 2 in which a small amount of Ni is added to the AgPd alloy (Conventional Example 1) and the alloys of Conventional Examples 3 and 4 in which a small amount of In is further added to strengthen precipitation have higher values of maximum stress and yield strength as compared to Conventional Example 1. That is, it can be said that addition of a small amount of Ni (crystal grain refining) and addition of In etc. (precipitation strengthening) improved the strength properties of the AgPd alloy to some degree. However, there is no significant difference in rigidity modulus<!-- EPO <DP n="29"> --> between the AgPd alloy (Conventional Example 1) and the AgPd-based alloys containing a small amount of additive elements (Conventional Examples 2 to 4), and these alloys each have a rigidity modulus of 50 GPa or less. That is, the method of the conventional art does not allow the rigidity modulus to be sufficiently improved.</p>
+<p id="p0062" num="0062">On the other hand, the AgPdNi alloys of examples of the present invention (Examples 1 to 7) exhibit high value not only for the stress property but also for the rigidity modulus. The AgPdNi alloys of examples contain Ni in an amount of more than 5 mass%, and have a PdNi alloy phase volume ratio of 18 vol% or more. As is apparent from <figref idref="f0004">Fig. 5</figref>, the AgPdNi alloys of the examples have a rigidity modulus of 50 GPa or more, and higher strength properties as compared to the conventional examples. It is considered that the AgPdNi alloys of the examples in which the rigidity modulus is improved are hardly affected by shear stress from sliding, and contribute to improvement of wear resistance.</p>
+<p id="p0063" num="0063">However, it is apparent from Table 2 and <figref idref="f0004">Fig. 5</figref> that a certain restriction should be placed on the Ni content and the volume ratio of PdNi alloy phases in the AgPdNi alloy. That is, the AgPdNi alloys having a low Ni content (5 mass% or less) (Comparative Examples 1 to 3) have a low volume ratio of PdNi alloy phases and have no rigidity modulus improving effect. In addition, the alloy having a Ni content of 5% or more and Ag and Pd contents outside the specified ranges (Comparative Example 4) has a low volume ratio of PdNi alloy phases and have no rigidity modulus improving effect. On the other hand, the AgPdNi alloy of Comparative Example 5, which has a Ag content of less than 10 mass%<!-- EPO <DP n="30"> --> and a PdNi alloy phase volume ratio of more than 80 vol%, became unable to plastically deform halfway in processing (at a processing ratio of 50%), resulting in breakage of the material. The alloy of Comparative Example 5 was poor in processability, and did not meet the spirit of the present invention.</p>
+<p id="p0064" num="0064">Subsequently, a heat treatment test for evaluation of heat resistance was conducted on various electrically-conductive materials produced in the embodiment (Examples 1 to 7, Comparative Examples 1, 2 and 5 and Conventional Examples 1 to 4). In the heat treatment test, the same sample as that used in the tensile test was held at each of temperatures of 400°C, 500°C, 600°C, 700°C, 800°C, 900°C and 1000°C for 30 minutes, and the surface hardness was measured after the sample was held at each of the temperatures. <figref idref="f0005">Figs. 6</figref> and <figref idref="f0006">7</figref> show the results of the heat treatment test. These diagrams show a temperature at which the hardness of each alloy reached equilibrium where the slope of change in hardness was about 0.1.</p>
+<p id="p0065" num="0065">From <figref idref="f0006">Fig. 7</figref>, it can be confirmed that the AgPd alloy and the AgPd-based alloys of Conventional Examples 1 to 3 are recrystallized with the hardness reaching equilibrium through heat treatment at 600°C to 700°C. Like the alloys of conventional examples, the AgPdNi alloys of Comparative Examples 1 and 2 which have a low Ni content are recrystallized with the hardness reaching equilibrium through treatment at 600°C to 700°C.</p>
+<p id="p0066" num="0066">On the other hand, <figref idref="f0005">Fig. 6</figref> shows that in Examples 1 to 7 where the volume ratio of PdNi alloy phases is 18 vol% or more, the hardness reaches equilibrium<!-- EPO <DP n="31"> --> only through heat treatment at 900°C to 1000°C. That is, the alloys of examples were each confirmed to have a higher recrystallization temperature as compared to conventional examples and comparative examples. A high crystallization temperature may make metal structures less likely to coarsen and soften even when exposed to friction heat from sliding or heat associated with discharge, resulting in contribution to improvement of wear resistance and heat resistance.</p>
+<p id="p0067" num="0067">The test materials of various electrically-conductive materials produced in the embodiment were subjected to a durability test using a slide tester. <figref idref="f0007">Fig. 8</figref> shows a configuration of the slide tester used in the embodiment. This slide tester is aimed at reproducing a relationship between a brush and a commutator of a motor in a simulated manner. The reason why the durability test was conducted by use of a tester simulating a motor is that among applications intended by the present invention, use of the electrically-conductive material with a motor may place the electrically-conductive material under a larger electrical load as compared to other applications.</p>
+<p id="p0068" num="0068">The tester of <figref idref="f0007">Fig. 8</figref> has a mechanism in which a work 1 is a virtual commutator, which is fed with electricity to be rotated. The test is conducted with a flat spring-shaped virtual brush (work 2) pressed against the rotating work 1. In the durability test, a AgNi alloy is used for the virtual commutator (work 1), and the electrically-conductive material produced in the embodiment is used for the virtual brush (work 2). The test conditions are as follows, and both mechanical wear and wear from arc discharge occur.<!-- EPO <DP n="32"> -->
+<ul id="ul0003" list-style="none" compact="compact">
+<li>▪ Load current and voltage: 2.0 A-7.5 V</li>
+<li>▪ Rotation speed: 1500 rpm</li>
+<li>▪ Weight: 5 gf</li>
+<li>▪ Test time: 3 hours</li>
+<li>▪ Virtual commutator material: AgNi alloy (Ni: 10 mass%)</li>
+</ul></p>
+<p id="p0069" num="0069">After the durability test, the detached test piece was etched with a Ag etchant to remove a transfer layer from the commutator material. The surface of the test piece was observed with a laser microscope, the depths of abraded portions were measured by a focus depth method, and the depth of the deepest abraded portion (maximum wear depth) and abraded cross-section areas (wear amount) were measured.</p>
+<p id="p0070" num="0070">Table 3 shows the results of the durability test conducted in the embodiment. <figref idref="f0008">Fig. 9</figref> shows SEM photographs in which the cross-sectional shapes of worn portions are compared between the alloys of Conventional Example 1 and Example 4 after the durability test.<!-- EPO <DP n="33"> -->
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>[Table 3]</title>
+<tgroup cols="9">
+<colspec colnum="1" colname="col1" colwidth="32mm"/>
+<colspec colnum="2" colname="col2" colwidth="10mm"/>
+<colspec colnum="3" colname="col3" colwidth="10mm"/>
+<colspec colnum="4" colname="col4" colwidth="9mm"/>
+<colspec colnum="5" colname="col5" colwidth="9mm"/>
+<colspec colnum="6" colname="col6" colwidth="14mm"/>
+<colspec colnum="7" colname="col7" colwidth="40mm"/>
+<colspec colnum="8" colname="col8" colwidth="23mm"/>
+<colspec colnum="9" colname="col9" colwidth="23mm"/>
+<thead>
+<row>
+<entry morerows="1" align="center" valign="middle"/>
+<entry namest="col2" nameend="col6" align="center" valign="middle">Composition</entry>
+<entry morerows="1" align="center" valign="middle">Volume ratio of PdNi alloy phases (vol%)</entry>
+<entry morerows="1" align="center" valign="middle">Wear depth (µm)</entry>
+<entry morerows="1" align="center" valign="middle">Wear amount (µm<sup>2</sup>)</entry></row>
+<row>
+<entry align="center" valign="middle">Ag</entry>
+<entry align="center" valign="middle">Pd</entry>
+<entry align="center" valign="middle">Ni</entry>
+<entry align="center" valign="middle">In</entry>
+<entry align="center" valign="middle">Ni/Ag</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Example 1</entry>
+<entry align="center" valign="middle">53</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.13</entry>
+<entry align="center" valign="middle">19.6</entry>
+<entry align="center" valign="middle">4.44</entry>
+<entry align="center" valign="middle">829</entry></row>
+<row>
+<entry align="center" valign="middle">Example 2</entry>
+<entry align="center" valign="middle">46</entry>
+<entry align="center" valign="middle">43</entry>
+<entry align="center" valign="middle">11</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.24</entry>
+<entry align="center" valign="middle">28.8</entry>
+<entry align="center" valign="middle">3.84</entry>
+<entry align="center" valign="middle">689</entry></row>
+<row>
+<entry align="center" valign="middle">Example 3</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">46</entry>
+<entry align="center" valign="middle">14</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.35</entry>
+<entry align="center" valign="middle">38.5</entry>
+<entry align="center" valign="middle">3.05</entry>
+<entry align="center" valign="middle">515</entry></row>
+<row>
+<entry align="center" valign="middle">Example 4</entry>
+<entry align="center" valign="middle">34</entry>
+<entry align="center" valign="middle">48</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.53</entry>
+<entry align="center" valign="middle">51.3</entry>
+<entry align="center" valign="middle">2.72</entry>
+<entry align="center" valign="middle">556</entry></row>
+<row>
+<entry align="center" valign="middle">Example 5</entry>
+<entry align="center" valign="middle">27</entry>
+<entry align="center" valign="middle">52</entry>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.78</entry>
+<entry align="center" valign="middle">59.7</entry>
+<entry align="center" valign="middle">4.40</entry>
+<entry align="center" valign="middle">716</entry></row>
+<row>
+<entry align="center" valign="middle">Example 6</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">54</entry>
+<entry align="center" valign="middle">26</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">1.30</entry>
+<entry align="center" valign="middle">70.9</entry>
+<entry align="center" valign="middle">3.96</entry>
+<entry align="center" valign="middle">693</entry></row>
+<row>
+<entry align="center" valign="middle">Example 7</entry>
+<entry align="center" valign="middle">14</entry>
+<entry align="center" valign="middle">57</entry>
+<entry align="center" valign="middle">29</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">2.07</entry>
+<entry align="center" valign="middle">79.6</entry>
+<entry align="center" valign="middle">3.67</entry>
+<entry align="center" valign="middle">730</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 1</entry>
+<entry align="center" valign="middle">62</entry>
+<entry align="center" valign="middle">36</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">4.5</entry>
+<entry align="center" valign="middle">7.21</entry>
+<entry align="center" valign="middle">2519</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 2</entry>
+<entry align="center" valign="middle">59</entry>
+<entry align="center" valign="middle">37</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.07</entry>
+<entry align="center" valign="middle">9.6</entry>
+<entry align="center" valign="middle">6.36</entry>
+<entry align="center" valign="middle">1896</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 3</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.06</entry>
+<entry align="center" valign="middle">8.7</entry>
+<entry align="center" valign="middle">7.87</entry>
+<entry align="center" valign="middle">2714</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 4</entry>
+<entry align="center" valign="middle">73</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.10</entry>
+<entry align="center" valign="middle">10.4</entry>
+<entry align="center" valign="middle">7.52</entry>
+<entry align="center" valign="middle">2633</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 5</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">61</entry>
+<entry align="center" valign="middle">32</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">4.57</entry>
+<entry align="center" valign="middle">90.9</entry>
+<entry align="center" valign="middle">3.71</entry>
+<entry align="center" valign="middle">700</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 6</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">11.00</entry>
+<entry align="center" valign="middle">-<sup>*1</sup></entry>
+<entry align="center" valign="middle">-<sup>*1</sup></entry>
+<entry align="center" valign="middle">-<sup>*1</sup></entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 7</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">95</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">1.00</entry>
+<entry align="center" valign="middle">-<sup>*1</sup></entry>
+<entry align="center" valign="middle">-<sup>*1</sup></entry>
+<entry align="center" valign="middle">-<sup>*1</sup></entry></row>
+<row>
+<entry align="center" valign="middle">Conventional Example 1</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">5.94</entry>
+<entry align="center" valign="middle">1733</entry></row>
+<row>
+<entry align="center" valign="middle">Conventional Example 2</entry>
+<entry align="center" valign="middle">69</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">8.01</entry>
+<entry align="center" valign="middle">2755</entry></row>
+<row>
+<entry align="center" valign="middle">Conventional Example 3</entry>
+<entry align="center" valign="middle">67</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">6.01</entry>
+<entry align="center" valign="middle">1781</entry></row>
+<row>
+<entry align="center" valign="middle">Conventional Example 4</entry>
+<entry align="center" valign="middle">48</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">5.02</entry>
+<entry align="center" valign="middle">1054</entry></row></tbody></tgroup>
+<tgroup cols="9" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="32mm"/>
+<colspec colnum="2" colname="col2" colwidth="10mm"/>
+<colspec colnum="3" colname="col3" colwidth="10mm"/>
+<colspec colnum="4" colname="col4" colwidth="9mm"/>
+<colspec colnum="5" colname="col5" colwidth="9mm"/>
+<colspec colnum="6" colname="col6" colwidth="14mm"/>
+<colspec colnum="7" colname="col7" colwidth="40mm"/>
+<colspec colnum="8" colname="col8" colwidth="23mm"/>
+<colspec colnum="9" colname="col9" colwidth="23mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col9" align="justify">*1: Measurement was cancelled because processing of test material was impossible or there were no alloy phases</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0071" num="0071">From Table 3, it was confirmed that when the AgPdNi alloy has the added amount of Ni of more than 5 mass% and a PdNi alloy phase volume ratio of 18 vol% or more while having appropriate Ag and Pd contents, it is possible to obtain an electrically-conductive material having a lower wear amount and wear depth as compared to the conventional art. The wear depth and the wear amount tend to decrease as the volume ratio of PdNi alloy phases increases. For evaluation of wear resistance, the wear amount and the wear depth should<!-- EPO <DP n="34"> --> be comprehensively examined, and alloys excellent in balance between the wear amount and the wear depth and particularly excellent in wear resistance are those of Examples 3 and 4. These results indicate that with regard to wear resistance, the volume ratio of PdNi alloy phases is particularly preferably about 35% or more and 55% or less.</p>
+<p id="p0072" num="0072">In Comparative Example 5 where the ratio of PdNi alloy phases was more than 80 vol%, the wear amount was lower as compared to conventional examples, but there was a high inclination for abrasive wear in which the counterpart (AgNi alloy: commutator) was scraped. Thus, when the ratio of PdNi alloy phases is excessively high, the contact as a whole lacks balance in wear.</p>
+<p id="p0073" num="0073">From <figref idref="f0008">Fig. 9</figref>, it is apparent that a cross-section of the AgPd alloy of Conventional Example 1 has an altered layer affected by sliding stress is present within a range of about 10 µm from the surface layer in a mechanically abraded portion. On the other hand, it can be confirmed that in the AgPdNi alloy of Example 6, the thickness of the altered phase is limited within a range of about 3 µm from the surface layer. The result of the comparison shows that the AgPdNi alloy of the example is less likely to plastically deform even when placed under actual shear stress from sliding. Further, for the arc discharge generation portion, the AgPd alloy of Conventional Example 1 is intensely melted, so that surface structures can be confirmed to be thermally affected, while the AgPdNi alloy of Example 6 is melted over a narrow range, and is considered to have resistance to arc discharge.<!-- EPO <DP n="35"> --></p>
+<heading id="h0016">Industrial Applicability</heading>
+<p id="p0074" num="0074">As described above, the present inventive electrically-conductive material has higher durability as compared to conventional AgPd alloys and AgPd alloys containing a very small amount of elements. The present invention is useful for electrodes and contact materials to be used for slide switches and variable resistors, in addition to brushes of DC motors, slip rings and the like.</p>
+<p id="p0075" num="0075">In particular, when the present inventive electrically-conductive material is applied to brushes of micro DC motors, the present invention is useful for motors having a stall current of 1.0 A or more. When the stall current is 1.0 A or more, arc discharge is generated between contacts, and therefore the AgPd alloy described above as a prior art is heavily worn, resulting in reduction of the life of the brush. The present inventive electrically-conductive material has high resistance to not only mechanical wear but also arc discharge, and therefore can be hoped to extend the life of the motor as compared to conventional AgPd alloys. Thus, when the electrically-conductive material is used as a constituent material of a brush of a motor having stall current of 1.0 A or more, extension of the life of the motor can be expected.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="36"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>An electrically-conductive material comprising Ag in an amount of 10 mass% or more and 70 mass% or less, Pd in an amount of 30 mass% or more and 90 mass% or less, Ni in an amount of more than 5 mass% and 45 mass% or less, and inevitable impurities, wherein
+<claim-text>a ratio of a Ni content (mass%) to a Ag content (mass%) (Ni (mass%)/Ag (mass%)) is 0.1 or more and 5.0 or less, and</claim-text>
+<claim-text>metal structures have a AgPd alloy phase and a PdNi alloy phase, and a volume ratio of the PdNi alloy phase is 18 vol% or more and 80 vol% or less.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The electrically-conductive material according to claim 1, wherein
+<claim-text>the AgPd alloy phase comprises Ag in an amount of 30 mass% or more and 80 mass% or less, Ni in an amount of 0 mass% or more and 1 mass% or less, and Pd and inevitable impurities as a balance,</claim-text>
+<claim-text>the PdNi alloy phase has Pd in an amount of 40 mass% or more and 90 mass% or less, Ag in an amount of 0 mass% or more and 5 mass% or less, and Ni and inevitable impurities as a balance.</claim-text></claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The electrically-conductive material according to claim 1 or 2, wherein
+<claim-text>the volume ratio of the PdNi alloy phase is 18 vol% or more and less than 50%, and</claim-text>
+<claim-text>a thickness of the PdNi alloy phase is in a range of 0.01 µm or more and 20 µm or less.</claim-text><!-- EPO <DP n="37"> --></claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The electrically-conductive material according to claim 1 or 2, wherein
+<claim-text>the volume ratio of the PdNi alloy phase is 50 vol% or more and 80 vol% or less, and</claim-text>
+<claim-text>the thickness of the AgPd alloy phase is in the range of 0.01 µm or more and 20 µm or less.</claim-text></claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>A clad composite material in which the electrically-conductive material defined in any one of claims 1 to 4 is cladded to a base material comprising Cu or a Cu alloy.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>A method for producing the electrically-conductive material defined in any one of claims 1 to 5, comprising the step of:
+<claim-text>producing an alloy material comprising Ag in an amount of 10 mass% or more and 70 mass% or less, Pd in an amount of 30 mass% or more and 90 mass% or less, Ni in an amount of more than 5 mass% and 45 mass% or less, and inevitable impurities, and then plastically processing the alloy material, and</claim-text>
+<claim-text>the step of plastic processing has a total processing ratio of 80% or more.</claim-text></claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>A DC motor comprising:
+<claim-text>a rotating shaft;</claim-text>
+<claim-text>a commutator provided on a periphery of the rotating shaft; and</claim-text>
+<claim-text>a brush contacting the commutator to supply a current, wherein</claim-text>
+<claim-text>the brush is formed of a first contact material at least at a contact surface with the commutator,</claim-text>
+<claim-text>the first contact material is formed of an electrically-conductive material<!-- EPO <DP n="38"> --> comprising Ag in an amount of 10 mass% or more and 70 mass% or less, Pd in an amount of 30 mass% or more and 90 mass% or less, Ni in an amount of more than 5 mass% and 45 mass% or less, and inevitable impurities,</claim-text>
+<claim-text>a ratio of a Ni content (mass%) to a Ag content (mass%) (Ni (mass%)/Ag (mass%)) in the electrically-conductive material is 0.1 or more and 5.0 or less, and</claim-text>
+<claim-text>metal structures of the electrically-conductive material have a AgPd alloy phase and a PdNi alloy phase, and a volume ratio of the PdNi alloy phase is 18 vol% or more and 80 vol% or less.</claim-text></claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>The DC motor according to claim 7, wherein
+<claim-text>the AgPd alloy phase comprises Ag and Pd as a balance in an amount of 30 mass% or more and 80 mass% or less, Ni in an amount of 0 mass% or more and 1 mass% or less, and inevitable impurities,</claim-text>
+<claim-text>the PdNi alloy phase comprises Pd and Ni as a balance in an amount of 40 mass% or more and 90 mass% or less, Ag in an amount of 0 mass% or more and 5 mass% or less, and inevitable impurities.</claim-text></claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>The DC motor according to claim 7 or 8, wherein
+<claim-text>the volume ratio of the PdNi alloy phase is 18 vol% or more and less than 50%, and</claim-text>
+<claim-text>a thickness of the PdNi alloy phase is in a range of 0.01 µm or more and 20 µm or less.</claim-text></claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>The DC motor according to claim 7 or 8, wherein<!-- EPO <DP n="39"> -->
+<claim-text>the volume ratio of the PdNi alloy phase is 50 vol% or more and 80 vol% or less, and</claim-text>
+<claim-text>the thickness of the AgPd alloy phase is in the range of 0.01 µm or more and 20 µm or less.</claim-text></claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>The DC motor according to any one of claims 7 to 10, wherein
+<claim-text>at least a contact surface of the commutator with the brush is formed of a second contact material, and</claim-text>
+<claim-text>the second contact material includes a Ag-Ni alloy, a Ag-Cu-Ni alloy or a Ag-Cu-Ni-Zn alloy.</claim-text></claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="40"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="165" he="232" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="41"> -->
+<figure id="f0002" num="2(a),2(b),3"><img id="if0002" file="imgf0002.tif" wi="159" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="42"> -->
+<figure id="f0003" num="4"><img id="if0003" file="imgf0003.tif" wi="164" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="43"> -->
+<figure id="f0004" num="5"><img id="if0004" file="imgf0004.tif" wi="157" he="151" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="44"> -->
+<figure id="f0005" num="6"><img id="if0005" file="imgf0005.tif" wi="125" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="45"> -->
+<figure id="f0006" num="7"><img id="if0006" file="imgf0006.tif" wi="134" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="46"> -->
+<figure id="f0007" num="8"><img id="if0007" file="imgf0007.tif" wi="162" he="126" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="47"> -->
+<figure id="f0008" num="9"><img id="if0008" file="imgf0008.tif" wi="122" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="48"> -->
+<figure id="f0009" num="10"><img id="if0009" file="imgf0009.tif" wi="165" he="113" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="163" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="163" he="233" type="tif"/><doc-page id="srep0003" file="srep0003.tif" wi="163" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="WO2017130781A1"><document-id><country>WO</country><doc-number>2017130781</doc-number><kind>A1</kind></document-id></patcit><crossref idref="pcit0001">[0009]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="JPH3051262B"><document-id><country>JP</country><doc-number>H3051262</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0002">[0009]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="JP62060458B"><document-id><country>JP</country><doc-number>62060458</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0003">[0009]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="JP62060457B"><document-id><country>JP</country><doc-number>62060457</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0004">[0009]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

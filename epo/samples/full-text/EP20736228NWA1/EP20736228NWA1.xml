@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP20736228A1" file="EP20736228NWA1.xml" lang="en" country="EP" doc-number="3888668" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3888668</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>20736228.6</B210><B220><date>20200102</date></B220><B240><B241><date>20210701</date></B241></B240><B250>ko</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>20190001031</B310><B320><date>20190104</date></B320><B330><ctry>KR</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>A61K  36/28        20060101AFI20200710BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>B01D  11/02        20060101ALI20200710BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>A61K  31/365       20060101ALI20200710BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>A61K  36/28        20130101 LI20200731BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>A61K  31/365       20130101 LI20200731BCEP        </text></classification-cpc><classification-cpc sequence="3"><text>B01D  11/02        20130101 LI20200731BCEP        </text></classification-cpc><classification-cpc sequence="4"><text>Y02A  50/30        20180101 LA20210628BGEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>SELEKTIVES EXTRAKTIONSVERFAHREN FÜR NATÜRLICHE SUBSTANZEN</B542><B541>en</B541><B542>SELECTIVE EXTRACTION METHOD FOR NATURAL SUBSTANCES</B542><B541>fr</B541><B542>PROCÉDÉ D'EXTRACTION SÉLECTIVE DE SUBSTANCES NATURELLES</B542></B540><B590><B598>1</B598></B590></B500><B700><B710><B711><snm>D-Nature Co., Ltd.</snm><iid>101905725</iid><irf>P0210128</irf><adr><str>107-ho, 377, Gwangmyeong-ro, Jungwon-gu</str><city>Seongnam-si, Gyeonggi-do 13174</city><ctry>KR</ctry></adr></B711></B710><B720><B721><snm>PYO, Jae Sung</snm><adr><str>402-ho, 108-dong, 166, Geumgok-daero Buk-gu</str><city>Busan 46539</city><ctry>KR</ctry></adr></B721><B721><snm>KIM, Min Woo</snm><adr><str>802-ho, 1-dong, 552, Achasan-ro Gwangjin-gu</str><city>Seoul 04971</city><ctry>KR</ctry></adr></B721><B721><snm>PARK, Nam Kyu</snm><adr><str>117-2, Hoegi-ro Dongdaemun-gu</str><city>Seoul 02454</city><ctry>KR</ctry></adr></B721><B721><snm>LEE, Sung Mi</snm><adr><str>304-ho, 210-dong, 66, Simin-ro, Jungwon-gu</str><city>Seongnam-si Gyeonggi-do 13258</city><ctry>KR</ctry></adr></B721></B720><B740><B741><snm>BCKIP</snm><iid>101872942</iid><adr><str>Siegfriedstraße 8</str><city>80803 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>KR2020000034</anum></dnum><date>20200102</date></B861><B862>ko</B862></B860><B870><B871><dnum><pnum>WO2020141891</pnum></dnum><date>20200709</date><bnum>202028</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">Disclosed is an extraction method for nonpolar natural substances. According to one embodiment of the present invention, the extraction method for nonpolar natural substances comprises: a step of conducting extraction of natural raw materials to prepare a first liquid extract; a step of mixing the first liquid extract with a phase separation composition containing a lipophilic solubilizer and water, and conducting a second extraction; and a step of isolating the supernatant of the phase-separated solution to obtain non-polar natural substances. Accordingly, by using a dissolution-emulsion extraction (DEE) method, the nonpolar natural substances can be extracted relatively easily with a high efficiency.<img id="iaf01" file="imgaf001.tif" wi="137" he="81" img-content="drawing" img-format="tif"/></p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">[Technical Field]</heading>
+<p id="p0001" num="0001">The present invention relates to a method for selectively extracting a natural substance and, more particularly, to a method for selectively extracting a natural substance by using a dissolution-emulsion extraction (DEE) method, which refers to a technology of quickly dissolving, solubilizing, extracting and concentrating/isolating selective ingredients (non-polar/polar, poorly soluble/water-soluble, HLB) or substances out of natural products by inducing a physical emulsification.</p>
+<heading id="h0002">[Background Art]</heading>
+<p id="p0002" num="0002">An extraction is to isolate the ingredients contained in solid or liquid raw materials by dissolving the same with a solvent. As a general extraction method, a solid-liquid extraction method is used when raw materials are solid, and a liquid-liquid extraction method is used when raw materials are liquid.</p>
+<p id="p0003" num="0003">The liquid-liquid extraction (LLE) method is to isolate a specific ingredient in a mixture from other ingredients by applying a solvent to a liquid mixture containing a solute.</p>
+<p id="p0004" num="0004">In order to extract a non-polar substance in a natural substance, the liquid-liquid extraction method is generally used, but still has a problem in that non-polar solvents such as hexane, methane dichloride, ethyl acetate, etc., are very toxic during a liquid-liquid extraction, an extraction process is very inefficient and complicated due to a variously repeated extraction process and a drying process for removing the non-polar solvent, and production costs are high due to a long process, low extraction efficiency and a long process time.</p>
+<p id="p0005" num="0005">For example, in the process for extracting brevilin A from <i>Centipeda minima,</i> a raw material is subjected to an extraction multiple times with methanol, and a liquid extract is mixed with hexane for a plurality of fractions, mixed with chloroform for a<!-- EPO <DP n="2"> --> plurality of fractions, mixed with ethyl acetate for a plurality of fractions, and mixed with butyl alcohol so as to perform an extraction through a plurality of fractions, after which about 25 mg of brevilin A is extracted from 300 g of dry weight of <i>Centipeda minima</i> during the extraction, so that an extraction amount is very small with very low efficiency (Non-Patent Document 1).</p>
+<p id="p0006" num="0006">As a result of experiments with other extraction methods, it was shown that a resin extraction shows a lower extraction efficiency and a saponification/unsaponification extraction shows no extraction or very low extraction efficiency.</p>
+<p id="p0007" num="0007">Patent Document 1 discloses an extract of <i>Centipeda minima,</i> in which natural substances are extracted by a supercritical carbon dioxide extraction method, but this extraction method has a problem due to complicated conditions for use, a considerable amount of time for extraction, and a very low extraction efficiency.</p>
+<p id="p0008" num="0008">Accordingly, it is necessary to develop a novel extraction method capable of easily extracting a non-polar natural substance with high efficiency from natural products, etc., so that the resulting extract may be easily used.
+<ul id="ul0001" list-style="none" compact="compact">
+<li>Patent Document 1: <patcit id="pcit0001" dnum="CN104840457B"><text>Chinese Registered Patent Publication 104840457 B</text></patcit></li>
+<li>Non-Patent Document 1: <nplcit id="ncit0001" npl-type="s"><text>Arch Pharm Res Vol 29, No 1, 64-66, 2006</text></nplcit><i>.</i></li>
+</ul></p>
+<heading id="h0003">[Disclosure]</heading>
+<heading id="h0004">[Technical Problem]</heading>
+<p id="p0009" num="0009">The embodiments of the present invention are to provide a method for extracting a natural substance by using a dissolution-emulsion extraction (DEE) method.</p>
+<heading id="h0005">[Technical Solution]</heading>
+<p id="p0010" num="0010">According to one embodiment of the present invention, a method for selectively extracting a natural substance may include conducting an extraction of natural raw materials to prepare a primary liquid extract, mixing the primary liquid<!-- EPO <DP n="3"> --> extract with a phase separation composition containing a lipophilic solubilizer and conducting a second extraction, and isolating the supernatant of the phase-separated solution to obtain non-polar natural substances</p>
+<p id="p0011" num="0011">In addition, according to one embodiment of the present invention, the supernatant of the phase-separated solution may include a lipophilic solubilizer and a non-polar natural substance.</p>
+<p id="p0012" num="0012">Furthermore, according to one embodiment of the present invention, the non-polar natural substance may include brevilin A or a derivative thereof.</p>
+<p id="p0013" num="0013">Moreover, according to one embodiment of the present invention, the non-polar natural substance may suppress or inhibit a JAK-STAT signaling process.</p>
+<p id="p0014" num="0014">Besides, according to one embodiment of the present invention, the natural raw material may include any one or more selected from the group consisting of <i>Centipeda minima, Litsea glutinous, Arnica</i> genus plants and <i>Helenium</i> genus plants.</p>
+<p id="p0015" num="0015">In addition, according to one embodiment of the present invention, 10 to 90 wt% of the phase-separated composition; and 10 to 90 wt% of the primary liquid extract may be mixed in the secondary extraction.</p>
+<p id="p0016" num="0016">Furthermore, according to one embodiment of the present invention, the phase separation composition may further include 70 wt% or less of a nonionic surfactant.</p>
+<p id="p0017" num="0017">According to another embodiment of the present invention, a method for selectively extracting a natural substance may include preparing a phase-separated liquid extract from a natural raw material by using a phase separation composition containing a lipophilic solubilizer, and isolating the supernatant of the phase-separated solution to obtain a non-polar natural substance.</p>
+<heading id="h0006">[Advantageous Effects]</heading>
+<p id="p0018" num="0018">The embodiments of the present invention relate to a method for extracting a natural substance from raw materials such as wild flowers, etc., in which the non-polar natural substance can<!-- EPO <DP n="4"> --> be extracted relatively easily with high efficiency by using a dissolution-emulsion extraction (DEE) method.</p>
+<p id="p0019" num="0019">In addition, since a liquid-liquid extraction method using a toxic solvent is not used, steps such as drying, etc., can be omitted. As a solvent is harmless to the human body, an liquid extract containing a natural substance can be isolated and immediately used as a product without any other steps, and an absorption rate of the product can be increased due to micro-emulsification or limited micelle concentration.</p>
+<heading id="h0007">[Description of Drawings]</heading>
+<p id="p0020" num="0020">
+<ul id="ul0002" list-style="none" compact="compact">
+<li><figref idref="f0001">FIG. 1</figref> is a view for explaining a method for selectively extracting a natural substance according to one embodiment of the present invention.</li>
+<li><figref idref="f0001">FIG. 2</figref> is a view for explaining a liquid-liquid extraction method, which is an existing extraction method of natural substances.</li>
+<li><figref idref="f0002">FIG. 3</figref> is a view showing a three-phase state for explaining a composition ratio of a phase separation composition according to one embodiment of the present invention.</li>
+<li><figref idref="f0002">FIG. 4</figref> is a view for explaining the composition of a phase separation composition according to embodiments of the present invention.</li>
+<li><figref idref="f0003">FIG. 5</figref> is pictures for explaining a state in which a liquid extract is phase-separated by using a phase separation composition according to embodiments of the present invention.</li>
+<li><figref idref="f0004">FIG. 6</figref> is a picture (left) of a phase-separated state according to an embodiment of the present invention and is a picture (right) of a final prescription obtained by isolating the supernatant and further adding Labrasol for micro-emulsification.</li>
+<li><figref idref="f0005">FIG. 7</figref> is a picture for explaining a state in which a primary liquid extract according to an embodiment of the present invention is serially diluted and then phase-separated by using a phase separation composition.</li>
+<li><figref idref="f0005">FIG. 8</figref> is a view for explaining the behavior of a phase separation composition according to one embodiment of the<!-- EPO <DP n="5"> --> present invention.</li>
+<li><figref idref="f0006 f0007 f0008 f0009">FIGS. 9 to 14</figref> are views showing a change in the amount of hair loss and hair growth as a man uses a hair tonic prepared according to an embodiment of the present invention for 18 days.</li>
+<li><figref idref="f0010 f0011 f0012">FIGS. 15 to 17</figref> are views showing a change in the amount of hair loss and hair growth as a woman uses a hair tonic prepared according to an embodiment of the present invention for 18 days.</li>
+</ul></p>
+<heading id="h0008">[Best Mode]</heading>
+<p id="p0021" num="0021">According to one embodiment of the present invention, a method for selectively extracting a natural substance may include conducting an extraction of natural raw materials to prepare a primary liquid extract, mixing the primary liquid extract with a phase separation composition containing a lipophilic solubilizer and conducting a second extraction, and isolating the supernatant of the phase-separated solution to obtain non-polar natural substances</p>
+<heading id="h0009">[Mode for Invention]</heading>
+<p id="p0022" num="0022">Hereinafter, a method for extracting a non-polar natural substance according to embodiments of the present invention, a natural substance extracted according to the method, a use thereof, and the like will be described.</p>
+<p id="p0023" num="0023">Prior to the description, the technical terms used herein are only for the purpose of referring to specific embodiments and are not intended to limit the present invention. As used herein, the singular forms also include the plural forms unless the phrases clearly indicate the opposite. In addition, as used herein, the meaning of "comprising" or "containing" specifies a particular characteristic, region, integer, step, operation, element or ingredient, and does not exclude the addition of other specific characteristic, region, integer, step, operation, element or ingredient.</p>
+<p id="p0024" num="0024">In the present invention, the terms such as first, second, etc. are used to describe various components, and the terms are used only for the purpose of distinguishing one component from other components.</p>
+<p id="p0025" num="0025">In addition, the terms used herein are used only for<!-- EPO <DP n="6"> --> describing exemplary embodiments and are not intended to limit the present invention. The singular expressions include the plural expressions unless the context clearly indicates otherwise. In the present specification, the terms "comprising," "including," "having" or the like are intended to designate that the features, the numbers, the steps, the components, or combinations thereof are present, and are not to be understood as excluding the possibility that one or more other features, numbers, steps, components, or combinations thereof may be present or added.</p>
+<p id="p0026" num="0026">Since the present invention may have various modifications and various forms, specific embodiments will be illustrated and described in detail below. However, this is not intended to limit the present invention to the specific disclosed forms, but it should be understood to include all modifications, equivalents and substitutes in the spirit and scope of the present invention.</p>
+<p id="p0027" num="0027">Hereinafter, the present invention will be described in more detail.</p>
+<p id="p0028" num="0028">In the present invention, the method for extracting a natural substance may refer to a dissolution-emulsion extraction (DEE) method.</p>
+<p id="p0029" num="0029">The method for extracting a non-polar natural substance according to an embodiment of the present invention may include conducting an extraction of natural raw materials to prepare a primary liquid extract, mixing the primary liquid extract with a phase separation composition containing a lipophilic solubilizer, and isolating the supernatant of the phase-separated solution to obtain a non-polar natural substance.</p>
+<p id="p0030" num="0030">According to the dissolution-emulsion extraction (DEE) method, a non-polar natural substance may be extracted by extracting the non-polar natural substance in a natural raw material, mixing with a phase separation composition, dissolving and emulsifying the resulting mixture, and carrying out a phase separation.</p>
+<p id="p0031" num="0031"><figref idref="f0001">FIG. 1</figref> is a view for explaining a method for selectively<!-- EPO <DP n="7"> --> extracting a natural substance according to one embodiment of the present invention. <figref idref="f0001">FIG. 2B</figref> is a view for explaining a liquid-liquid extraction method, which is an existing extraction method of natural substances.</p>
+<p id="p0032" num="0032"><figref idref="f0001">FIG. 1</figref> is a view for explaining a method for selectively extracting a natural substance according to one embodiment of the present invention. <figref idref="f0001">FIG. 2</figref> is a view for explaining a liquid-liquid extraction method, which is an existing extraction method of natural substances.</p>
+<p id="p0033" num="0033">As described above, in order to extract a non-polar substance in a natural substance, the liquid-liquid extraction method is generally used, but still has a problem in that non-polar solvents such as hexane, methane dichloride, ethyl acetate, etc., are very toxic during a liquid-liquid extraction, an extraction process is complicated, and extraction efficiency is low, thereby increasing production costs and a process time.</p>
+<p id="p0034" num="0034">First, the natural raw material may be washed with water and dried. At this time, for example, the dried raw material may be pulverized to prepare a powder in order to increase an extraction rate of the natural substance.</p>
+<p id="p0035" num="0035">According to one embodiment of the present invention, the natural raw material may include <i>Centipeda minima, Litsea glutinous, Arnica</i> genus plants and <i>Helenium</i> genus plants.</p>
+<p id="p0036" num="0036">The natural raw material used in the embodiments of the present invention, which is <i>Centipeda minima,</i> was purchased from the Goesan Herbal Organic Agricultural Cooperative Association (https://natural-herb.co.kr) as spreading sneezeweed (<i>Centipeda minima,</i> Yeongcheon).</p>
+<p id="p0037" num="0037">In a number of documents, it has been found that brevilin A is contained in spreading sneezeweed (<i>Centipeda minima</i>)<i>,</i> and in some documents, it has been reported that brevilin A is also contained in <i>Litsea glutinous.</i> Furthermore, some documents say that brevilin A is also partially contained in <i>Arnica</i> genus plants (<i>Arnica longifolia, Arctium lappa, Arnica chamissonis subsp. Foliosa, Arnica chamissonis Less.</i>) and <i>Helenium</i> genus plants (<i>Helenium autumnale L, Helenium alternifolium, Helenium<!-- EPO <DP n="8"> --> pinnatifidum, Helenium vernale, Helenium brevifolium, and Helenium flexuosum).</i></p>
+<p id="p0038" num="0038">For example, the natural raw materials, in particular, <i>Centipeda minima,</i> may contain brevilin A or a derivative thereof. The non-polar natural substance extracted from <i>Centipeda minima</i> may contain brevilin A or various derivatives thereof.</p>
+<p id="p0039" num="0039">The non-polar natural substance, which is an effective ingredient extracted from <i>Centipeda minima,</i> may suppress or inhibit a JAK-STAT signaling process.</p>
+<p id="p0040" num="0040">Brevilin A may be a natural substance, which is widely known to suppress janus kinase activity (JAK) and inhibit STAT3 signaling in cancer cells (<nplcit id="ncit0002" npl-type="s"><text>PLoS One 8 (5) (2013) e63697</text></nplcit>).</p>
+<p id="p0041" num="0041">In other words, brevilin A may suppress and inhibit JAK-STAT signaling, thereby having an effect on autoimmune diseases such as rheumatoid arthritis, etc.</p>
+<p id="p0042" num="0042">Throughout the literature, it has been reported that brevilin A is a major ingredient of <i>Centipeda minima</i> and a main focus has been concentrated on the studies on anticancer activity using the same, but there is no study on hair loss and hair growth.</p>
+<p id="p0043" num="0043">For example, brevilin A may suppress or inhibit JAK-STAT signaling, thereby showing an effect on treatment of cold, itch, diabetes, corneitis, white coated tongue, occlusion of the nares, rhinitis, boil, asthma, sinusitis, dermatitis, malaria, chronic cough, removal of fever and whooping cough (pediatric disease) as well as autoimmune diseases including rheumatoid arthritis and cancer or tumors, and autoimmune diseases such as alopecia premature, traction alopecia, alopecia areata, alopecia neurotica, pityroid alopecia, trichotillomania, malignant alopecia, female pattern alopecia, male pattern alopecia, androgenic alopecia, telogen alopecia, tinea capitis, alopecia totalis, hypotrichosis, genetic hair loss, alopecia universalis or the like.</p>
+<p id="p0044" num="0044">For example, the non-polar natural substance may include any one or more of the following compounds, which show a<!-- EPO <DP n="9"> --> chemical structure of brevilin A and derivatives thereof (<nplcit id="ncit0003" npl-type="s"><text>P. Wu et al. / Phytochemistry 76 (2012) 133-140</text></nplcit>).</p>
+<p id="p0045" num="0045">A primary liquid extract may be prepared by extracting a natural
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="121" he="50" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0002" num="0002"><img id="ib0002" file="imgb0002.tif" wi="124" he="43" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0003" num="0003"><img id="ib0003" file="imgb0003.tif" wi="33" he="33" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0004" num="0004"><img id="ib0004" file="imgb0004.tif" wi="127" he="17" img-content="chem" img-format="tif"/></chemistry>
+substance from a natural raw material.</p>
+<p id="p0046" num="0046">As an extraction solvent, various solvents such as water, alcohol, etc., may be selected and used, and alcohol was used in the present invention. Preferably, methanol and ethanol may be used.</p>
+<p id="p0047" num="0047">For example, an extraction may be performed by selecting and using any one of methods such as hot water extraction, cold extraction, reflux extraction, solvent extraction, steam distillation, ultrasonic extraction, elution, etc., and a conventional fractionation process may be further performed.<!-- EPO <DP n="10"> --></p>
+<p id="p0048" num="0048">An extraction according to the embodiments of the present invention may be performed by immersing a natural raw material in alcohol and carrying out a hot water extraction at a temperature of 100°C or higher for about one hour, and about 80% alcohol may be used as alcohol. For example, <i>Centipeda minima</i> may be used per se as a natural raw material, or may be used as a powder obtained by pulverizing the same.</p>
+<p id="p0049" num="0049">For example, it may be possible to selectively perform a step of concentrating a primary liquid extract according to hot water extraction under reduced pressure and removing an alcohol ingredient therefrom. Although there is no difference in achieving the present invention even if a next step is immediately performed by using a primary liquid extract which has not undergone a concentration, it is preferable to remove an unnecessary alcohol ingredient in terms of clear phase separation and extraction efficiency.</p>
+<p id="p0050" num="0050">As a result of analyzing 380 mg of the liquid extract obtained by performing a hot water extraction of 10 g of <i>Centipeda minima</i> hay with 400 mL of 80% ethanol, it was confirmed that the liquid extract contains 26 mg of brevilin A (0.26% content compared to the hay).</p>
+<p id="p0051" num="0051">A phase separation composition may be added to the primary liquid extract and mixed.</p>
+<p id="p0052" num="0052"><figref idref="f0002">FIG. 3</figref> is a three-phase state view for explaining a composition ratio of a phase separation composition according to one embodiment of the present invention. <figref idref="f0002">FIG. 4</figref> is a view for explaining the composition of a phase separation composition according to embodiments of the present invention. <figref idref="f0003">FIG. 5</figref> is pictures for explaining a state in which a liquid extract is phase-separated by using a phase separation composition according to embodiments of the present invention. <figref idref="f0005">FIG. 8</figref> is a view for explaining the behavior of a phase separation composition according to one embodiment of the present invention.</p>
+<p id="p0053" num="0053">The phase separation composition may include a lipophilic solubilizer. For example, the phase separation composition may<!-- EPO <DP n="11"> --> be obtained by mixing 10 to 90 wt% of a lipophilic solubilizer; and 10 to 90 wt% of the primary liquid extract.</p>
+<p id="p0054" num="0054">For example, the phase separation composition may further include a nonionic surfactant. The phase separation composition may include a nonionic surfactant in an amount of 60 wt% or less.</p>
+<p id="p0055" num="0055">Referring to <figref idref="f0002">FIGS. 3 and 4, FIG. 3</figref> shows a state which appears in a mixed solution according to the ingredients of the phase separation composition of the present invention, and indicates that a state of the solution changes into phase separation, micro-emulsion and emulsion according to a composition ratio of the lipophilic solubilizer, the nonionic surfactant and water. In <figref idref="f0002">FIG. 3</figref>, Labrafac may be one of the lipophilic solubilizers, and Labrasol may be one of the nonionic surfactants.</p>
+<p id="p0056" num="0056">A composition ratio of the phase separation composition of the present invention was set according to a composition ratio of the region to be phase-separated based on a three-phase state view of <figref idref="f0002">FIG. 3</figref>. The phase separation compositions according to the embodiments of the present invention may exhibit a property in which layers are separated from each other without being mixed with a certain material for emulsification.</p>
+<p id="p0057" num="0057">Thus, the non-polar natural substance contained in the natural raw material may be primarily extracted and then mixed with the phase separation composition, after which the lipophilic solubilizer and the non-polar natural substance are contained in one layer and the remaining water and other ingredients are contained in the other layer, so that a phase separation may occur.</p>
+<p id="p0058" num="0058">The embodiments of the present invention relate to a method for selectively extracting a natural substance by using a dissolution-emulsion extraction (DEE) method, which refers to a technology of quickly dissolving, solubilizing, extracting and concentrating/separating selective ingredients (non-polar/polar, poorly soluble/water-soluble, HLB) or substances out of natural products by inducing a physical emulsification. By using this<!-- EPO <DP n="12"> --> method, substances having any one property may be selectively extracted or removed vice versa from a mixture of non-polar/polar substances, poorly soluble/water soluble substances or substances having high/low HLB.</p>
+<p id="p0059" num="0059">In the embodiments of the present invention, when the phase separation composition includes a nonionic surfactant, the mixing may be performed while raising a temperature for clearer phase separation in the step of mixing the phase separation composition. For example, the mixture in which the phase separation composition is mixed in the primary liquid extract may be stirred while maintaining a temperature of 30 to 50°C, preferably stirring while maintaining a temperature of 35 to 45°C.</p>
+<p id="p0060" num="0060"><figref idref="f0005">FIG. 8</figref> is a view for explaining the behavior of a phase separation composition according to one embodiment of the present invention. Referring to <figref idref="f0005">FIG. 8</figref>, when the primary liquid extract is mixed with the phase separation composition, brevilin A and derivatives thereof, which are a non-polar natural substance, may be extracted and dissolved in a nonionic surfactant or a lipophilic solubilizer. At this time, if additional high-speed mixing is performed, a surface area of the surfactant and the solubilizer in the mixture may increase, and most of the non-polar natural substances that are not extracted or dissolved may be dissolved, thus resulting in an instantaneous critical micelle concentration (CMC) state. At this time, when a temperature of the mixed solution increases to reach a cloud point, the solubility of the nonionic surfactant, unlike the ionic surfactant, may decrease as a temperature increases, and thus the phase separation of the mixed solution may more clearly occur.</p>
+<p id="p0061" num="0061">In particular, a method of separating a phase by raising a temperature may advantageously act upon addition of a nonionic surfactant having a relatively high hydrophile-lipophile balance (HLB) value, for example, Labrasol, etc., having an HLB value of 12 or more.</p>
+<p id="p0062" num="0062">For example, the nonionic surfactant may include any one or<!-- EPO <DP n="13"> --> more selected from the group consisting of Labrasol, Crodex A-PA-(RB), Geleol, Gelot 64, Suppocire AS2X, Suppocire BML, Synperonic PE/F 127, Synperonic PE/L 44 and Tefose 63.</p>
+<p id="p0063" num="0063">For example, the lipophilic solubilizer may include any one or more selected from the group consisting of BRIJ 010-SS-(RB), Capryol 90, Capryol PGMC, Gantrez ES-435, Gantrez S-97 BF, Gelucire 43/01, Gelucire 44/14, Gelucire 50/13, Gelucire 48/16, Labrafac CC, Labrafac Lipophile WL1349, Labrafac PG, Labrafil M 1944 CS, Labrafil M 2125 CS, Labrafil M 2130 CS, Lauroglycol 90, Lauroglycol FCC, Monosteol, Peceol, Pharmasolve, Plurol Oleique CC497, Span 20-LQ-(SG), Span 60-PA-(SG), upper Refined Oleic Acid-LQ-(JP), Super Refined Tween 80A-LQ-(MH), Surfadone LP-300, Transcutol HP, Transcutol P, TWEEN 60-SS-(SG), TWEEN 80 HP-LQ-(MH), TWEEN 80-LQ-(SG) and Vitamin E TPGS.</p>
+<p id="p0064" num="0064">The supernatant of the phase-separated solution may be isolated to obtain a non-polar natural substance. The phase-separated solution was left alone for a certain period of time and then filtered by using a centrifuge.</p>
+<p id="p0065" num="0065">Unlike the above, a method for selectively extracting a natural substance according to another embodiment of the present invention may include preparing a phase-separated liquid extract from a natural raw material by using a phase separation composition containing a lipophilic solubilizer and water, and isolating the supernatant of the phase-separated solution to obtain a non-polar natural substance.</p>
+<p id="p0066" num="0066">In other words, in the above embodiment, the extraction and separation may be performed not by a two-step method of conducting an extraction of a natural raw material to prepare a primary liquid extract and then mixing with a phase separation composition to carry out a separation, but by a single-step method of mixing an extraction solvent and a phase separation composition in a natural raw material together to carry out an extraction. In this way, it is possible to shorten an extraction process step and time during extraction.</p>
+<p id="p0067" num="0067">An emulsifying composition, which is in a range of micro-emulsion departing from a range of the phase separation<!-- EPO <DP n="14"> --> composition, may be further mixed in a phase-separated layer containing a non-polar natural substance extracted according to the above methods, so as to prepare an emulsified product.</p>
+<p id="p0068" num="0068">A product such as a natural substance extracted according to the embodiments of the present invention, a composition containing the same, and the like, may not use a liquid-liquid extraction method of using a toxic solvent, and thus steps such as drying, etc., can be omitted. As a solvent is harmless to the human body, an liquid extract containing a natural substance can be isolated and immediately used as a product without any other steps, and an absorption rate of the product can be increased due to micro-emulsification or limited micelle concentration (CMC) .</p>
+<p id="p0069" num="0069">In general, the use of surfactant may increase the absorption rate by increasing the solubility of the compound by using the CMC of the surfactant. In addition, the micro-emulsion may not only increase the solubility, but also reduce the size of the material to be absorbed, thereby increasing the absorption rate at an absorption site.</p>
+<p id="p0070" num="0070">The products prepared as above may be prepared into a product such as hair tonic, hair conditioner, hair lotion, hair nourishing lotion, hair shampoo, hair conditioner, hair treatment, hair cream, hair nourishing cream, hair moisture cream, hair massage cream, hair wax, hair aerosol, hair pack, hair nourishing pack, hair soap, hair cleansing foam, hair oil, hair drying agent, hair preservative, hair dye, hair wave agent, hair bleach, hair gel, hair glaze, hair dressing, hair lacquer, hair moisturizer, hair mousse, hairspray, etc., and a formulation such as cream, gel, patch, spray, ointment, plaster, lotion, liniment, paste, cataplasma and the like as an external preparation for skin, and may be appropriately utilized as liquid, solid and gas phases.</p>
+<p id="p0071" num="0071">The above products may be effective in ameliorating various diseases, to which the effect of brevilin A and derivatives thereof may be applied, thereby showing an effect on treatment of cold, itch, diabetes, corneitis, white coated tongue,<!-- EPO <DP n="15"> --> occlusion of the nares, rhinitis, boil, asthma, sinusitis, dermatitis, malaria, chronic cough, removal of fever and whooping cough (pediatric disease) as well as autoimmune diseases including rheumatoid arthritis, lupus and cancer or tumors, and autoimmune diseases such as alopecia premature, traction alopecia, alopecia areata, alopecia neurotica, pityroid alopecia, trichotillomania, malignant alopecia, female pattern alopecia, male pattern alopecia, androgenic alopecia, telogen alopecia, tinea capitis, alopecia totalis, hypotrichosis, genetic hair loss, alopecia universalis or the like.</p>
+<p id="p0072" num="0072">Hereinafter, the present invention will be described in more detail through Examples of the method for extracting non-polar natural substances of the present invention.</p>
+<p id="p0073" num="0073">The extraction method of the present invention may be performed by extracting a natural raw material with hot water, mixing a phase separation composition in an liquid extract to carry out a phase separation, and separating some layer to obtain a non-polar natural substance.</p>
+<heading id="h0010"><u>Example</u></heading>
+<p id="p0074" num="0074">A natural raw material, which is <i>Centipeda minima,</i> was purchased from the Goesan Herbal Organic Agricultural Cooperative Association (https://natural-herb.co.kr) as spreading sneezeweed (<i>Centipeda minima,</i> Yeongcheon) and then washed and dried.</p>
+<p id="p0075" num="0075">The 10 g of <i>Centipeda minima</i> hay was extracted with hot water by using 400 mL of 80% ethanol, so as to obtain a primary liquid extract. After that, the primary liquid extract was concentrated under reduced pressure to remove ethanol.</p>
+<p id="p0076" num="0076">The primary liquid extract, which was concentrated under reduced pressure, and the phase separation composition were mixed according to the composition ratio shown in table 1 below, and stirred for 10 minutes. Following table 1 shows a description about the ratio of the compositions corresponding to the drawing of <figref idref="f0002">FIG. 4</figref>. L1 corresponds to Example 1 and L2 corresponds to Example 2, which are the same hereinafter.</p>
+<p id="p0077" num="0077">After that, the resulting mixture was left alone 60 minutes<!-- EPO <DP n="16"> --> and the phase-separated supernatant was isolated. The result of observing the phase-separated mixed solution is shown in <figref idref="f0003">FIG. 5</figref>, which is a picture showing the mixed solution of Examples 8, 19 and 29 in which phase separation occurs.
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>[Table 1]</title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="19mm"/>
+<colspec colnum="2" colname="col2" colwidth="43mm"/>
+<colspec colnum="3" colname="col3" colwidth="41mm"/>
+<colspec colnum="4" colname="col4" colwidth="36mm"/>
+<colspec colnum="5" colname="col5" colwidth="29mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry valign="top">Nonionic surfactant (wt%) - Labrasol</entry>
+<entry valign="top">Lipophilic solubilizer (wt%) - Labrafac</entry>
+<entry valign="top">Primary liquid extract (wt% )</entry>
+<entry valign="top">Agitation method</entry></row></thead>
+<tbody>
+<row>
+<entry>Example 1</entry>
+<entry>40</entry>
+<entry>50</entry>
+<entry>10</entry>
+<entry>Vortex mixer</entry></row>
+<row>
+<entry>Example 2</entry>
+<entry>40</entry>
+<entry>40</entry>
+<entry>20</entry>
+<entry>Sonication</entry></row>
+<row>
+<entry>Example 3</entry>
+<entry>40</entry>
+<entry>30</entry>
+<entry>30</entry>
+<entry>mechanical overhead stirrer</entry></row>
+<row>
+<entry>Example 4</entry>
+<entry>30</entry>
+<entry>20</entry>
+<entry>50</entry>
+<entry>homogenize r</entry></row>
+<row>
+<entry>Example 5</entry>
+<entry>30</entry>
+<entry>30</entry>
+<entry>40</entry>
+<entry>homogenize r</entry></row>
+<row>
+<entry>Example 6</entry>
+<entry>30</entry>
+<entry>40</entry>
+<entry>30</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 7</entry>
+<entry>30</entry>
+<entry>50</entry>
+<entry>20</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 8</entry>
+<entry>30</entry>
+<entry>60</entry>
+<entry>10</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 9</entry>
+<entry>20</entry>
+<entry>30</entry>
+<entry>50</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 10</entry>
+<entry>20</entry>
+<entry>20</entry>
+<entry>60</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 11</entry>
+<entry>20</entry>
+<entry>30</entry>
+<entry>50</entry>
+<entry>Circular inline mixer</entry></row><!-- EPO <DP n="17"> -->
+<row>
+<entry>Example 12</entry>
+<entry>20</entry>
+<entry>40</entry>
+<entry>40</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 13</entry>
+<entry>20</entry>
+<entry>50</entry>
+<entry>30</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 14</entry>
+<entry>20</entry>
+<entry>60</entry>
+<entry>20</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 15</entry>
+<entry>20</entry>
+<entry>70</entry>
+<entry>10</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 16</entry>
+<entry>10</entry>
+<entry>10</entry>
+<entry>80</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 17</entry>
+<entry>10</entry>
+<entry>20</entry>
+<entry>70</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 18</entry>
+<entry>10</entry>
+<entry>30</entry>
+<entry>60</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 19</entry>
+<entry>10</entry>
+<entry>40</entry>
+<entry>50</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 20</entry>
+<entry>10</entry>
+<entry>50</entry>
+<entry>40</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 21</entry>
+<entry>10</entry>
+<entry>60</entry>
+<entry>30</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 22</entry>
+<entry>10</entry>
+<entry>[70]</entry>
+<entry>20</entry>
+<entry>Circular inline mixer</entry></row><!-- EPO <DP n="18"> -->
+<row>
+<entry>Example 23</entry>
+<entry>10</entry>
+<entry>80</entry>
+<entry>10</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 24</entry>
+<entry>0</entry>
+<entry>90</entry>
+<entry>10</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 25</entry>
+<entry>0</entry>
+<entry>80</entry>
+<entry>20</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 26</entry>
+<entry>0</entry>
+<entry>70</entry>
+<entry>30</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 27</entry>
+<entry>0</entry>
+<entry>60</entry>
+<entry>40</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 28</entry>
+<entry>0</entry>
+<entry>50</entry>
+<entry>50</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 29</entry>
+<entry>0</entry>
+<entry>40</entry>
+<entry>60</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 30</entry>
+<entry>0</entry>
+<entry>30</entry>
+<entry>70</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 31</entry>
+<entry>0</entry>
+<entry>20</entry>
+<entry>80</entry>
+<entry>Circular inline mixer</entry></row>
+<row>
+<entry>Example 32</entry>
+<entry>0</entry>
+<entry>10</entry>
+<entry>90</entry>
+<entry>Circular inline mixer</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0078" num="0078">The content of brevilin A in the supernatant was analyzed by HPLC (Water 2960 HPLC). HPLC analysis conditions are shown in table 2 below.<!-- EPO <DP n="19"> -->
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>[Table 2]</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="28mm"/>
+<colspec colnum="2" colname="col2" colwidth="40mm"/>
+<colspec colnum="3" colname="col3" colwidth="36mm"/>
+<thead>
+<row>
+<entry valign="top">Item</entry>
+<entry colsep="0" valign="top">Condition</entry>
+<entry valign="top"/></row></thead>
+<tbody>
+<row>
+<entry>Column</entry>
+<entry namest="col2" nameend="col3" align="left">SUPERSIL COLUMN ODS-I, 4.6 X 250mm, 5<i>µ</i>m</entry></row>
+<row>
+<entry morerows="1">Mobile phase</entry>
+<entry>Solvent A (45%)</entry>
+<entry>Solvent B (55%)</entry></row>
+<row>
+<entry>0.1% formic acid in water</entry>
+<entry>Methanol</entry></row>
+<row>
+<entry>Oven temp.</entry>
+<entry namest="col2" nameend="col3" align="left">40°C</entry></row>
+<row>
+<entry>Flow rate</entry>
+<entry namest="col2" nameend="col3" align="left">1ml/min.</entry></row>
+<row>
+<entry>Injection volume</entry>
+<entry namest="col2" nameend="col3" align="left">20<i>µ</i>ℓ</entry></row>
+<row>
+<entry>Run time</entry>
+<entry namest="col2" nameend="col3" align="left">30 min.</entry></row>
+<row>
+<entry>Wave length</entry>
+<entry namest="col2" nameend="col3" align="left">224nm</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0079" num="0079">*97 Accordingly, the brevilin A content for each Example is shown in table 3.</p>
+<p id="p0080" num="0080">The 10 g of <i>Centipeda minima</i> hay was extracted with hot water by using 400 mL of 80% ethanol and 380 mg of the liquid extract was analyzed by HPLC, and it was confirmed that the liquid extract contains 26 mg of brevilin A (content of 0.26% compared to hay).
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>[Table 3]</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="22mm"/>
+<colspec colnum="2" colname="col2" colwidth="50mm"/>
+<colspec colnum="3" colname="col3" colwidth="94mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry valign="top">Supernatant brevilin A content (mg)</entry>
+<entry valign="top">Content ratio (%) of brevilin A in the isolated supernatant to the liquid extract</entry></row></thead>
+<tbody>
+<row>
+<entry>Example 1</entry>
+<entry>15.37</entry>
+<entry valign="middle">59.12</entry></row>
+<row>
+<entry>Example 2</entry>
+<entry>11.25</entry>
+<entry valign="middle">43.27</entry></row>
+<row>
+<entry>Example 3</entry>
+<entry>10.15</entry>
+<entry valign="middle">39.04</entry></row>
+<row>
+<entry>Example 4</entry>
+<entry>20.98</entry>
+<entry valign="middle">80.69</entry></row>
+<row>
+<entry>Example 5</entry>
+<entry>8.72</entry>
+<entry valign="middle">33.54</entry></row>
+<row>
+<entry>Example 6</entry>
+<entry>10.91</entry>
+<entry valign="middle">41.96</entry></row>
+<row>
+<entry>Example 7</entry>
+<entry>12.83</entry>
+<entry valign="middle">49.35</entry></row><!-- EPO <DP n="20"> -->
+<row>
+<entry>Example 8</entry>
+<entry>9.97</entry>
+<entry valign="middle">38.35</entry></row>
+<row>
+<entry>Example 9</entry>
+<entry>15.71</entry>
+<entry valign="middle">60.42</entry></row>
+<row>
+<entry>Example 10</entry>
+<entry>9.17</entry>
+<entry valign="middle">35.27</entry></row>
+<row>
+<entry>Example 11</entry>
+<entry>12.83</entry>
+<entry valign="middle">49.35</entry></row>
+<row>
+<entry>Example 12</entry>
+<entry>13.53</entry>
+<entry valign="middle">52.04</entry></row>
+<row>
+<entry>Example 13</entry>
+<entry>12.95</entry>
+<entry valign="middle">49.81</entry></row>
+<row>
+<entry>Example 14</entry>
+<entry>20.87</entry>
+<entry valign="middle">80.27</entry></row>
+<row>
+<entry>Example 15</entry>
+<entry>12.14</entry>
+<entry valign="middle">46.69</entry></row>
+<row>
+<entry>Example 16</entry>
+<entry>14.02</entry>
+<entry valign="middle">53.92</entry></row>
+<row>
+<entry>Example 17</entry>
+<entry>13.00</entry>
+<entry valign="middle">50.00</entry></row>
+<row>
+<entry>Example 18</entry>
+<entry>16.01</entry>
+<entry valign="middle">61.58</entry></row>
+<row>
+<entry>Example 19</entry>
+<entry>13.58</entry>
+<entry valign="middle">52.23</entry></row>
+<row>
+<entry>Example 20</entry>
+<entry>13.82</entry>
+<entry valign="middle">53.15</entry></row>
+<row>
+<entry>Example 21</entry>
+<entry>12.71</entry>
+<entry valign="middle">48.88</entry></row>
+<row>
+<entry>Example 22</entry>
+<entry>14.55</entry>
+<entry valign="middle">55.96</entry></row>
+<row>
+<entry>Example 23</entry>
+<entry>18.71</entry>
+<entry valign="middle">71.96</entry></row>
+<row>
+<entry>Example 24</entry>
+<entry>16.87</entry>
+<entry valign="middle">64.88</entry></row>
+<row>
+<entry>Example 25</entry>
+<entry>15.34</entry>
+<entry valign="middle">59.00</entry></row><!-- EPO <DP n="21"> -->
+<row>
+<entry>Example 26</entry>
+<entry>20.15</entry>
+<entry valign="middle">77.50</entry></row>
+<row>
+<entry>Example 27</entry>
+<entry>14.12</entry>
+<entry valign="middle">54.31</entry></row>
+<row>
+<entry>Example 28</entry>
+<entry>20.89</entry>
+<entry valign="middle">80.35</entry></row>
+<row>
+<entry>Example 29</entry>
+<entry>16.31</entry>
+<entry valign="middle">62.73</entry></row>
+<row>
+<entry>Example 30</entry>
+<entry>25.05</entry>
+<entry valign="middle">96.35</entry></row>
+<row>
+<entry>Example 31</entry>
+<entry>23.97</entry>
+<entry valign="middle">92.19</entry></row>
+<row>
+<entry>Example 32</entry>
+<entry>19.42</entry>
+<entry valign="middle">74.69</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0011"><u>Comparative Example 1-LLE</u></heading>
+<p id="p0081" num="0081">A natural raw material, which is <i>Centipeda minima,</i> was purchased from the Goesan Herbal Organic Agricultural Cooperative Association (https://natural-herb.co.kr) as spreading sneezeweed (<i>Centipeda minima,</i> Yeongcheon) and then washed and dried.</p>
+<p id="p0082" num="0082">The 10 g of <i>Centipeda minima</i> hay was extracted with hot water by using 250 mL of 80% ethanol, so as to obtain a primary liquid extract. The primary liquid extract was filtered and evaporated to dryness to obtain 0.82 g of extract.</p>
+<p id="p0083" num="0083">The 10 ml of water (DW) and 20 ml of nucleic acid (cyclohexane) were mixed, stirred with a vortex mixer for one minute, and placed in a separating funnel, so as to isolate a nucleic acid layer. And the nucleic acid layer obtained by repeating the above process three times was concentrated and analyzed by HPLC.</p>
+<p id="p0084" num="0084">The 20 mL of chloroform (MC) was mixed with an aqueous layer extract remaining after removing a nucleic acid fractional layer from above and was placed in a separating funnel to isolate a chloroform (MC) layer. And the chloroform (MC) layer<!-- EPO <DP n="22"> --> obtained by repeating the above process 3 times was concentrated and analyzed by HPLC.</p>
+<p id="p0085" num="0085">The 20 mL of ethyl acetate (EtAC) was mixed in an aqueous layer extract remaining after removing the chloroform (MC) fractional layer from the above and was placed in a separating funnel to isolate an ethyl acetate (EtAC) layer. And, the ethyl acetate (EtAC) layer obtained by repeating the above process 3 times was concentrated and analyzed by HPLC.</p>
+<p id="p0086" num="0086">The 20 mL of butanol (n-BuOH) was mixed in an aqueous layer extract remaining after removing the ethyl acetate (EtAC) fractional layer from the above and was placed in a separating funnel to isolate a butanol (n-BuOH) layer. And, the butanol (n-BuOH) layer obtained by repeating the above process 3 times was concentrated and analyzed by HPLC.</p>
+<p id="p0087" num="0087">An aqueous layer remaining after removing the butanol (n-BuOH) fractional layer from the above was concentrated and analyzed by HPLC.</p>
+<heading id="h0012"><u>Comparative Example 2-RESIN</u></heading>
+<p id="p0088" num="0088">A natural raw material, which is <i>Centipeda minima,</i> was purchased from the Goesan Herbal Organic Agricultural Cooperative Association (https://natural-herb.co.kr) as spreading sneezeweed (<i>Centipeda minima,</i> Yeongcheon) and then washed and dried.</p>
+<p id="p0089" num="0089">The 10 g of <i>Centipeda minima</i> hay was extracted with hot water by using 250 mL of 80% ethanol, so as to obtain a primary liquid extract. The primary liquid extract was filtered, evaporated to dryness, mixed with 30 ml of water and 1 g of resin (HP-20), stirred with a vortex mixer at 250 rpm for one minute, and incubated for one hour. After that, 3 ml of ethanol was mixed with resin remaining after isolating a primary supernatant through centrifugation (including water). A secondary supernatant was isolated (including ethanol) through centrifugation again. Each of the isolated supernatant was concentrated, resuspended in the same amount of ethanol, filtered by using a syringe filter, and analyzed by HPLC.<!-- EPO <DP n="23"> -->
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title>[Table 4]</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="41mm"/>
+<colspec colnum="2" colname="col2" colwidth="50mm"/>
+<colspec colnum="3" colname="col3" colwidth="75mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry valign="top">Brevilin A content (mg)</entry>
+<entry valign="top">Content ratio (%) of brevilin A in the isolated supernatant to the liquid extract</entry></row></thead>
+<tbody>
+<row>
+<entry morerows="4">Comparativ e Example 1</entry>
+<entry>6.02 (Cyclohexane layer)</entry>
+<entry valign="middle">23.00</entry></row>
+<row>
+<entry>8.16 (MC layer)</entry>
+<entry valign="middle">31.17</entry></row>
+<row>
+<entry>5.12 (EtOAC layer)</entry>
+<entry valign="middle">19.56</entry></row>
+<row>
+<entry>3.6 (n-BuOH layer)</entry>
+<entry valign="middle">13.75</entry></row>
+<row>
+<entry>1.7 (Water layer)</entry>
+<entry valign="middle">6.49</entry></row>
+<row>
+<entry morerows="1">Comparativ e Example 2</entry>
+<entry>- (Primary supernatant, aqueous layer)</entry>
+<entry valign="middle">-</entry></row>
+<row>
+<entry>16.28 (Secondary supernatant, ethanol layer)</entry>
+<entry valign="middle">62.62</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0013"><u>Preparation Example</u></heading>
+<p id="p0090" num="0090">A supernatant (secondary liquid extract) isolated according to above Example 32 was concentrated (natural concentration at an elevated temperature) not to exceed 120% of the volume of the added lipophilic solubilizer, and 5 g of Labrasol was mixed as an emulsifying composition with the concentrated supernatant so as to prepare a micro-emulsion. Accordingly, a tonic preparation containing micro-emulsion 12 mg/mL, 8.5 mL, and yield of 95% was prepared. The above emulsion is a water base, not based on an organic solvent, and contains safe excipients and thus may be used per se as a product in various forms such as ointment, tonic, etc., without a separate additional process (Preparation Example 1).</p>
+<p id="p0091" num="0091"><figref idref="f0004">FIG. 6</figref> is a picture (left) of a phase-separated state according to an embodiment of the present invention and is a picture (right) of a final prescription obtained by isolating the supernatant and further adding Labrasol for micro-emulsification. A left picture of <figref idref="f0004">FIG. 6</figref> shows the phase-separated primary liquid extract according to above Example 32,<!-- EPO <DP n="24"> --> and a right picture of <figref idref="f0004">FIG. 6</figref> shows a tonic preparation prepared according to above Preparation Example 1.</p>
+<p id="p0092" num="0092">In contrast, 0.3 ml of Labrasol and 0.5 ml of Labrafac were mixed as an emulsifying composition in the supernatant (secondary liquid extract) isolated according to above Example 32 so as to carry out a micro-emulsification (Preparation Example 2). In contrast, 0.3 ml of Labrasol was mixed as an emulsifying composition in the supernatant (secondary liquid extract) isolated according to above Example 32 so as to carry out a micro-emulsification (Preparation Example 3). In contrast, 0.1 ml of Labrafac was mixed as an emulsifying composition in the supernatant (secondary liquid extract) isolated according to above Example 32 so as to carry out a micro-emulsification (Preparation Example 4). In contrast, 0.5 ml of Labrasol and 0.5 ml of Labrafac were mixed as an emulsifying composition in the supernatant (secondary liquid extract) isolated according to above Example 32 so as to carry out a micro-emulsification (Preparation Example 5). In contrast, 0.8 ml of Labrasol and 0.2 ml of Labrafac were mixed as an emulsifying composition so as to carry out a micro-emulsification (Preparation Example 6). The above emulsifying composition may depart from the scope of the phase separation composition of <figref idref="f0002">FIGS. 3 and 4</figref>, and may be appropriately applied in a range corresponding to the micro-emulsion of <figref idref="f0002">FIG. 3</figref>.</p>
+<p id="p0093" num="0093"><figref idref="f0005">FIG. 7</figref> is a picture for explaining a state in which a primary liquid extract according to an embodiment of the present invention is serially diluted and then phase-separated by using a phase separation composition.</p>
+<p id="p0094" num="0094">The above picture shows a state in which when performing a secondary extraction (dissolution emulsion extraction or lipid-based drug (fr.) extraction systems) from the primary liquid extract at various concentrations, braviline-A and derivatives thereof may be selectively concentrated, separated and extracted according to a lipophilic solubilizer regardless of a concentration and an amount with a performance suitable for extracting a trace amount.<!-- EPO <DP n="25"> --></p>
+<p id="p0095" num="0095">The phase separation composition of the present invention may liquid extract all of the natural substances contained in the liquid extract regardless of the concentration of the non-polar natural substance to be extracted substantially contained in the primary liquid extract. In other words, the phase separation composition may be used to efficiently extract or remove a trace amount of substances. <figref idref="f0005">FIG. 7</figref> shows the results of phase separation obtained by extracting the primary liquid extract according to Example 32, carrying out a serial dilution without concentration, and mixing the phase separation composition, respectively. In other words, although the concentration of the non-polar natural substance to be extracted is lowered, the same or similar phase-separated region is reduced, but it could be seen that a desired material may be separated by sufficient phase separation. Most of the pesticides remaining on fruits, vegetables, etc., may be non-polar (poorly soluble/lipophilic), may not be washed well, and may be deposited on the fibers of plants. The phase separation composition may be utilized to remove the pesticides remaining in the above plants.</p>
+<heading id="h0014"><u>Experimental Example</u></heading>
+<p id="p0096" num="0096">A change in the amount of hair loss and hair growth was measured as general men and women use a hair tonic prepared according to above Preparation Example 1 for a certain period of time. The hair tonic was used by applying directly to the scalp after clearly washing the hair with shampoo according to the user's level. Here, since it is rather difficult to accurately measure the amount of hair loss, the amount of hair loss was determined by the number of strands of hair filtered after showering, and the amount of hair growth was determined by the density of hair in the same area as measured by a hair diagnostic device.</p>
+<p id="p0097" num="0097"><figref idref="f0006">FIG. 9</figref> is a graph showing a change in the amount of hair loss as a man uses a hair tonic prepared according to an embodiment of the present invention for 18 days. <figref idref="f0007 f0008 f0009">FIGS. 10 to 14</figref> are views showing a change in the amount of hair loss and hair<!-- EPO <DP n="26"> --> growth as a man uses a hair tonic prepared according to an embodiment of the present invention for 18 days. <figref idref="f0010">FIG. 15</figref> is a graph showing a change in the amount of hair loss as a woman uses a hair tonic prepared according to an embodiment of the present invention for 18 days. <figref idref="f0011">FIGS. 16</figref> and <figref idref="f0012">17</figref> are views showing a change in the amount of hair loss and hair growth as a woman uses a hair tonic prepared according to an embodiment of the present invention for 18 days.</p>
+<p id="p0098" num="0098">Referring to <figref idref="f0006 f0007 f0008 f0009 f0010 f0011 f0012">FIGS. 9 to 17</figref>, it could be seen that the amount of hair loss gradually decreases as the hair tonic is used in a certain amount, and it could be also seen that the amount of hair loss slightly increases as the use of the hair tonic is stopped during the experiment period. In particular, as a result of allowing the female subject to periodically use most of the hair tonic at a certain dose or more as shown in <figref idref="f0007">FIG. 10</figref>, it could be seen that the amount of hair loss is continuously reduced. It could be understood from <figref idref="f0007 f0008 f0009">FIGS. 10 to 14</figref>, <figref idref="f0011">16</figref> and <figref idref="f0012">17</figref> that the amount of hair growth is increased in both of the subjects, and the hair density is generally increased by about 15% or more and even up to 20% or more. Further, it could be confirmed that those subjects who used to show an amount of hair loss of 10 to 150 strands of hair show a stabilized amount of hair loss of 50 to 60 strands of hair after four weeks in terms of the harmonic average of the amount of hair loss.</p>
+<p id="p0099" num="0099">As described above, the exemplary embodiments of the present invention have been described, but the present invention is not limited thereto, and it will be understood by those skilled in the art that various changes and modifications are made within the scope and concept of the following claims.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="27"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A method for extracting a non-polar natural substance, the method comprising:
+<claim-text>conducting an extraction of a natural raw material to prepare a primary liquid extract;</claim-text>
+<claim-text>mixing the primary liquid extract with a phase separation composition containing a lipophilic solubilizer, and conducting a second extraction; and</claim-text>
+<claim-text>isolating the supernatant of the phase-separated solution to obtain a non-polar natural substance.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The method of claim 1, wherein the supernatant of the phase-separated solution comprises the lipophilic solubilizer and the non-polar natural substance.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The method of claim 1, wherein the non-polar natural substance comprises brevilin A or a derivative thereof.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The method of claim 3, wherein the non-polar natural substance suppresses or inhibits a JAK-STAT signaling process.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The method of claim 1, wherein the natural raw material comprises any one or more selected from the group consisting of <i>Centipeda minima, Litsea glutinous, Arnica</i> genus plants and <i>Helenium</i> genus plants.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The method of claim 1, wherein 10 to 90 wt% of the phase separation composition; and 10 to 90 wt% of the primary liquid extract are mixed in the secondary extraction.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The method of claim 6, wherein the phase separation composition further comprises 60 wt% or less of a nonionic surfactant.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text><!-- EPO <DP n="28"> --> A method for extracting a non-polar natural substance, the method comprising:
+<claim-text>preparing a phase-separated liquid extract from a natural raw material by using a phase separation composition containing a lipophilic solubilizer; and</claim-text>
+<claim-text>isolating the supernatant of the phase-separated solution to obtain a non-polar natural substance.</claim-text></claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="29"> -->
+<figure id="f0001" num="1,2"><img id="if0001" file="imgf0001.tif" wi="165" he="207" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="30"> -->
+<figure id="f0002" num="3,4"><img id="if0002" file="imgf0002.tif" wi="150" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="31"> -->
+<figure id="f0003" num="5"><img id="if0003" file="imgf0003.tif" wi="82" he="220" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="32"> -->
+<figure id="f0004" num="6"><img id="if0004" file="imgf0004.tif" wi="144" he="148" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="33"> -->
+<figure id="f0005" num="7,8"><img id="if0005" file="imgf0005.tif" wi="163" he="214" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="34"> -->
+<figure id="f0006" num="9"><img id="if0006" file="imgf0006.tif" wi="63" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="35"> -->
+<figure id="f0007" num="10"><img id="if0007" file="imgf0007.tif" wi="105" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="36"> -->
+<figure id="f0008" num="11,12"><img id="if0008" file="imgf0008.tif" wi="165" he="229" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="37"> -->
+<figure id="f0009" num="13,14"><img id="if0009" file="imgf0009.tif" wi="153" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="38"> -->
+<figure id="f0010" num="15"><img id="if0010" file="imgf0010.tif" wi="75" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="39"> -->
+<figure id="f0011" num="16"><img id="if0011" file="imgf0011.tif" wi="114" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="40"> -->
+<figure id="f0012" num="17"><img id="if0012" file="imgf0012.tif" wi="165" he="108" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="153" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="153" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="CN104840457B"><document-id><country>CN</country><doc-number>104840457</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0001">[0008]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="s"><article><atl/><serial><sertitle>Arch Pharm Res</sertitle><pubdate><sdate>20060000</sdate><edate/></pubdate><vid>29</vid><ino>1</ino></serial><location><pp><ppf>64</ppf><ppl>66</ppl></pp></location></article></nplcit><crossref idref="ncit0001">[0008]</crossref></li>
+<li><nplcit id="ref-ncit0002" npl-type="s"><article><atl/><serial><sertitle>PLoS One</sertitle><pubdate><sdate>20130000</sdate><edate/></pubdate><vid>8</vid><ino>5</ino></serial><location><pp><ppf>e63697</ppf><ppl/></pp></location></article></nplcit><crossref idref="ncit0002">[0040]</crossref></li>
+<li><nplcit id="ref-ncit0003" npl-type="s"><article><author><name>P. WU et al.</name></author><atl/><serial><sertitle>Phytochemistry</sertitle><pubdate><sdate>20120000</sdate><edate/></pubdate><vid>76</vid></serial><location><pp><ppf>133</ppf><ppl>140</ppl></pp></location></article></nplcit><crossref idref="ncit0003">[0044]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

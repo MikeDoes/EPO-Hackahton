@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19890727A1" file="EP19890727NWA1.xml" lang="en" country="EP" doc-number="3889211" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3889211</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19890727.1</B210><B220><date>20191129</date></B220><B240><B241><date>20210603</date></B241></B240><B250>ko</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>20180152140</B310><B320><date>20181130</date></B320><B330><ctry>KR</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>C08J   9/00        20060101AFI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C08J   9/16        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>C08J   9/228       20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>C08J   3/20        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>C08L  23/12        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="6"><text>C08K   3/04        20060101ALI20200605BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>C08J   9/228       20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>C08L  23/12        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="3"><text>C08J   3/20        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="4"><text>C08J   9/16        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="5"><text>C08K   3/04        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="6"><text>C08J   9/00        20130101 LI20200626BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>VERFAHREN ZUR HERSTELLUNG VON HALBLEITFÄHIGEN POLYPROPYLENHARZSCHAUMTEILCHEN UND GESCHÄUMTER FORMKÖRPER</B542><B541>en</B541><B542>METHOD FOR MANUFACTURING SEMI-CONDUCTIVE POLYPROPYLENE RESIN FOAMED PARTICLES AND FOAMED MOLDED ARTICLE</B542><B541>fr</B541><B542>PROCÉDÉ POUR LA FABRICATION DE PARTICULES DE MOUSSE DE RÉSINE DE POLYPROPYLÈNE SEMI-CONDUCTRICE ET ARTICLE MOULÉ EN MOUSSE</B542></B540><B590><B598>1</B598></B590></B500><B700><B710><B711><snm>Lotte Chemical Corporation</snm><iid>101729323</iid><irf>BR115051/HKO/CCU</irf><adr><str>300, Olympic-ro 
+Songpa-gu</str><city>Seoul, 05551</city><ctry>KR</ctry></adr></B711></B710><B720><B721><snm>EOM, Se Yeon</snm><adr><str>115, Gajeongbuk-ro Yuseong-gu</str><city>Daejeon 34110</city><ctry>KR</ctry></adr></B721><B721><snm>LIM, Sung Hwan</snm><adr><str>115, Gajeongbuk-ro Yeonsu-gu</str><city>Daejeon 34110</city><ctry>KR</ctry></adr></B721><B721><snm>KWON, Yong Jin</snm><adr><str>115, Gajeongbuk-ro Yuseong-gu</str><city>Daejeon 34110</city><ctry>KR</ctry></adr></B721><B721><snm>JANG, Jun Hyeok</snm><adr><str>115, Gajeongbuk-ro Yuseong-gu</str><city>Daejeon 34110</city><ctry>KR</ctry></adr></B721></B720><B740><B741><snm>Germain Maureau</snm><iid>101908200</iid><adr><str>12, rue Boileau</str><city>69006 Lyon</city><ctry>FR</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>KR2019016660</anum></dnum><date>20191129</date></B861><B862>ko</B862></B860><B870><B871><dnum><pnum>WO2020111849</pnum></dnum><date>20200604</date><bnum>202023</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">A method for manufacturing semi-conductive polypropylene resin foamed particles of the present invention comprises the steps of: allowing carbon nanotubes to be adsorbed on surfaces of polypropylene resin composition pellets to manufacture carbon nanotube-adsorbed pellets (CNT-PP); and foaming the carbon nanotube-adsorbed pellets (CNT-PP) to form foamed particles.<img id="iaf01" file="imgaf001.tif" wi="78" he="91" img-content="drawing" img-format="tif"/></p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">[Technical Field]</heading>
+<p id="p0001" num="0001">The present invention relates to a method of manufacturing semi-conductive polypropylene resin foamed particles and a molded foam article. More particularly, the present invention relates to a method of manufacturing polypropylene resin foamed particles which can exhibit stable surface resistance performance while allowing implementation of various colors other than a gray or black color, and a molded foam article.</p>
+<heading id="h0002">[Background Art]</heading>
+<p id="p0002" num="0002">Polymer foam has low thermal conductivity and high electrical insulation properties and thus is used in a wide range of fields such as beverage or food containers, trays, packing materials, midsoles for footwear, automobile seats, dielectrics, radio wave shields, insulators, packaging materials for electronic components, cushioning materials, and returnable cases. However, polymer foam having very low conductivity can generate static electricity, causing reduction in lifespan of electronic components or the risk of accidents such as fire.</p>
+<p id="p0003" num="0003">In general, generation of static electricity can be easily controlled by increasing surface humidity of a related product. However, such a method of increasing the surface humidity to suppress generation of static electricity cannot be applied to products with low wettability or products vulnerable to high humidity, such as electronic devices.<!-- EPO <DP n="2"> --></p>
+<p id="p0004" num="0004"><patcit id="pcit0001" dnum="KR20187000787"><text>Korean Patent Laid-open Publication No. 2018-7000787</text></patcit>, <patcit id="pcit0002" dnum="JP2012225005A"><text>Japanese Unexamined Patent Publication No. 2012-225005</text></patcit>, <patcit id="pcit0003" dnum="JP2005047714A"><text>Japanese Unexamined Patent Publication No. 2005-47714</text></patcit>, and <patcit id="pcit0004" dnum="JP2002340165A"><text>Japanese Unexamined Patent Publication No. 2002-340165</text></patcit> disclose methods of manufacturing a molded foam article using carbon black to maintain stable surface resistance without humidity control. However, molded foam articles manufactured by these methods exhibit a gray or black color and thus have problems of difficulty in meeting various consumer demands and extremely limited industrial applicability.</p>
+<p id="p0005" num="0005">These problems are common when the amount of additives added during manufacture of foamed particles or molded articles exceeds a certain level. Therefore, there is a need for a method of manufacturing resin foamed particles and molded articles having sufficient antistatic performance with minimal addition of additives during the manufacturing process.</p>
+<heading id="h0003">[Disclosure]</heading>
+<heading id="h0004">[Technical Problem]</heading>
+<p id="p0006" num="0006">It is one object of the present invention to provide a method of manufacturing semi-conductive polypropylene resin foamed particles which can exhibit stable surface resistance performance with a small quantity of additives.</p>
+<p id="p0007" num="0007">It is another object of the present invention to provide a method of manufacturing polypropylene resin foamed particles which allows implementation of various colors other than gray or black while exhibiting stable surface resistance performance.</p>
+<p id="p0008" num="0008">It is a further object of the present invention to provide a molded foam article manufactured by molding semi-conductive polypropylene resin foamed particles manufactured by the method set forth above.</p>
+<p id="p0009" num="0009">The above and other objects of the present invention will become apparent from the detailed description of the following embodiments.<!-- EPO <DP n="3"> --></p>
+<heading id="h0005">[Technical Solution]</heading>
+<p id="p0010" num="0010">
+<ol id="ol0001" compact="compact" ol-style="">
+<li>1. One aspect of the present invention relates to a method of manufacturing semi-conductive polypropylene resin foamed particles. The method includes: preparing carbon nanotube-adsorbed pellets (CNT-PPs) by adsorbing carbon nanotubes onto surfaces of polypropylene resin composition pellets; and forming foamed particles by expanding the carbon nanotube-adsorbed pellets (CNT-PPs).</li>
+<li>2. In Embodiment 1, adsorption of the carbon nanotubes may be performed by adding the carbon nanotubes directly to the polypropylene resin composition pellets without using a binder, followed by stirring.</li>
+<li>3. In Embodiments 1 and 2, the polypropylene resin composition pellets may have an aspect ratio (length/diameter) of 1 to 3.</li>
+<li>4. In Embodiments 1 to 3, the carbon nanotube-adsorbed pellets (CNT-PPs) may be prepared by stirring a mixture of the polypropylene resin composition pellets and the carbon nanotubes at 500 rpm to 1,000 rpm.</li>
+<li>5. In Embodiments 1 to 4, the carbon nanotubes may be present in the mixture in an amount of greater than 0.1 parts by weight and less than 1 part by weight relative to 100 parts by weight of the polypropylene resin composition pellets.</li>
+<li>6. In Embodiments 1 to 5, stirring the mixture may be performed for 10 to 30 minutes.</li>
+<li>7. In Embodiments 1 to 6, expanding the carbon nanotube-adsorbed pellets may include forming spherical foamed particles by adding a dispersion medium, a dispersant, and a foaming agent to the carbon nanotube-adsorbed pellets (CNT-PPs).</li>
+<li>8. In Embodiments 1 to 7, the carbon nanotubes may have an aspect ratio (length/diameter) of 125 to 5,000,000.</li>
+<li>9. Another aspect of the present invention relates to a molded foam article. The molded foam article is manufactured by molding the semi-conductive polypropylene resin foamed particles manufactured by the method according to any one of Embodiments 1 to 8, and has a surface resistance of 10<sup>5</sup> Ω/sq to 10<sup>8</sup> Ω/sq.</li>
+</ol><!-- EPO <DP n="4"> --></p>
+<heading id="h0006">[Advantageous Effects]</heading>
+<p id="p0011" num="0011">The present invention provides a method for manufacturing semi-conductive polypropylene resin foamed particles which can exhibit stable surface resistance performance with a small quantity of additives and allows implementation of various colors other than gray or black, and a molded foam article.</p>
+<heading id="h0007">[Description of Drawings]</heading>
+<p id="p0012" num="0012">
+<ul id="ul0001" list-style="none" compact="compact">
+<li><figref idref="f0001">FIG. 1</figref> is a schematic cross-sectional view of carbon nanotube-adsorbed polypropylene foamed particles according to one embodiment of the present invention.</li>
+<li><figref idref="f0002">FIG. 2</figref> is a schematic cross-sectional view of carbon nanotube/polypropylene-blended foamed particles prepared according to Comparative Example 7.</li>
+</ul></p>
+<heading id="h0008">[Best Mode]</heading>
+<p id="p0013" num="0013">The terminology used herein is for the purpose of describing particular embodiments only and is not intended to be limiting of the invention. As used herein, terms such as "including," "having," and "containing" are open-ended terms regardless of where they are used in this specification. In addition, sequence terms, such as "first," "second," and the like, do not indicate relative importance, priority, or temporal order between elements and are intended to be used to easily distinguish one element from another element.</p>
+<p id="p0014" num="0014">As used herein to represent a specific numerical range, the expression "a to b" means "≥ a and ≤ b".</p>
+<heading id="h0009"><b><u>Method of manufacturing semi-conductive polypropylene resin foamed particles</u></b></heading>
+<p id="p0015" num="0015">A method of manufacturing semi-conductive polypropylene resin foamed particles according to the present invention includes: adsorbing carbon nanotubes (CNTs) onto surfaces of polypropylene resin pellets; and expanding the carbon<!-- EPO <DP n="5"> --> nanotube-adsorbed polypropylene pellets. In some embodiments, the method includes: preparing carbon nanotube-adsorbed pellets (CNT-PPs) by adsorbing carbon nanotubes onto surfaces of polypropylene resin composition pellets; and forming foamed particles by expanding the carbon nanotube-adsorbed pellets (CNT-PPs).</p>
+<p id="p0016" num="0016">The polypropylene resin composition pellets may be commercially available pellets commonly used in foamed particles and molded articles thereof, or may be obtained by extruding a polypropylene resin along with various additives, followed by cutting into pellets. Although the shape of the pellets is not particularly restricted, the pellets may have a circular or cylindrical shape.</p>
+<p id="p0017" num="0017">The polypropylene resin may be a propylene homopolymer or a propylene-based copolymer having a propylene content of 50 wt% or more. The propylene-based copolymer may include at least one polypropylene selected from among a copolymer of propylene and ethylene or olefin, such as an ethylene-propylene copolymer, a propylene-butane copolymer, and a propylene-ethylene-butene copolymer, a propylene-acrylic acid copolymer, and a propylene-maleic anhydride copolymer. Although the structure of these copolymers is not particularly limited, the copolymers may be in the form of a block copolymer, a random copolymer, or a graft copolymer.</p>
+<p id="p0018" num="0018">In some embodiments, the polypropylene resin composition pellets may have an aspect ratio (length/diameter) of 1 to 3, specifically 1.2 to 2. Within this range, uniform adsorption of the carbon nanotubes on the polypropylene resin composition pellets can be achieved and the polypropylene resin composition pellets can exhibit stable surface resistance after being expanded.</p>
+<p id="p0019" num="0019">Although the structure or size of the carbon nanotubes is not particularly restricted, the carbon nanotubes may be single-walled, double-walled, or multi-walled carbon nanotubes. The carbon nanotubes may have an aspect ratio (length/diameter) of 125 to 5,000,000, for example, 500 to 4,000,000, specifically 1,250 to 3,000,000. Within this range, the carbon nanotubes can exhibit good adsorption onto polypropylene while providing stable surface resistance.</p>
+<p id="p0020" num="0020">The carbon nanotube-adsorbed pellets (CNT-PPs) may be prepared by stirring a mixture of the polypropylene resin composition pellets and the carbon nanotubes. The mixture is prepared by adding the carbon nanotubes directly to the<!-- EPO <DP n="6"> --> polypropylene resin composition pellets without using a binder, followed by stirring. Here, the carbon nanotubes are physically adsorbed on the surfaces of the polypropylene resin composition pellets.</p>
+<p id="p0021" num="0021">The carbon nanotubes may be present in the mixture in an amount of greater than 0.1 parts by weight and less than 1 part by weight relative to 100 parts by weight of the polypropylene resin composition pellets. If the amount of the carbon nanotubes is 0.1 parts by weight or less, desired antistatic effects cannot be achieved due to increase in surface resistance. If the amount of the carbon nanotubes is 1 part by weight or more, conductivity of the carbon nanotube-adsorbed pellets can be increased. Preferably, the carbon nanotubes are present in the mixture in an amount of 0.15 parts by weight to 0.75 parts by weight, more preferably 0.2 parts by weight to 0.5 parts by weight, and still more preferably 0.2 parts by weight to 0.45 parts by weight, relative to 100 parts by weight of the polypropylene resin composition pellets.</p>
+<p id="p0022" num="0022">In one embodiment, adsorption of the carbon nanotubes may be performed by adding the carbon nanotubes directly to the polypropylene resin composition pellets without using a binder, followed by stirring.</p>
+<p id="p0023" num="0023">Stirring of the mixture is performed at 500 rpm to 1,000 rpm, for example, 550 rpm to 950 rpm, preferably 600 rpm to 850 rpm. Within this range, desorption of the carbon nanotubes can be minimized and uniform adsorption of the carbon nanotubes on the surfaces of the polypropylene resin composition pellets can be achieved.</p>
+<p id="p0024" num="0024">In addition, stirring the mixture is performed for 10 to 30 minutes, for example, 15 to 25 minutes, preferably 17 to 22 minutes. Within this range, desorption of carbon nanotubes can be minimized.</p>
+<p id="p0025" num="0025">A schematic view of the carbon nanotube-adsorbed pellets (CNT-PPs) prepared as described above is shown in <figref idref="f0001">FIG. 1</figref>.</p>
+<p id="p0026" num="0026"><figref idref="f0001">FIG. 1</figref> is a schematic cross-sectional view of a carbon nanotube-adsorbed polypropylene foamed particle according to one embodiment of the present invention. Referring to <figref idref="f0001">FIG. 1</figref>, the carbon nanotube-adsorbed pellet (CNT-PP) has a structure in which carbon nanotubes 1 are physically adsorbed on the surface of a polypropylene resin composition pellet 2. In this case, the carbon nanotube-adsorbed pellets (CNT-PPs)<!-- EPO <DP n="7"> --> are subsequently expanded to form the foamed particles.</p>
+<p id="p0027" num="0027">In some embodiments, expanding the carbon nanotube-adsorbed pellets may include forming spherical foamed particles by adding a dispersion medium, a dispersant, and a foaming agent to the carbon nanotube-adsorbed pellets (CNT-PPs).</p>
+<p id="p0028" num="0028">In some embodiments, the foamed particles may be obtained by reacting the carbon nanotube-adsorbed pellets (CNT-PPs) with the dispersion medium, the dispersant, and the foaming agent in a reactor. Specifically, expansion of the carbon nanotube-adsorbed pellets may be performed through a process in which the carbon nanotube-adsorbed pellets (CNT-PPs) are dispersed together with the dispersant and the dispersion medium in an aqueous medium in a closed pressurizable container and then impregnated with the foaming agent under predetermined pressurization and heating conditions, followed by releasing the aqueous medium and other contents from the container at a pressure lower than the internal pressure of the container under temperature conditions suitable for expansion.</p>
+<p id="p0029" num="0029">The dispersion medium may include any suitable compound known in the art without limitation. For example, the dispersion medium may include at least one selected from among water, ethylene glycol, glycerin, methanol, and ethanol.</p>
+<p id="p0030" num="0030">The dispersant may include any typical compound that can serve to prevent the pellets from sticking to one another during the reaction. An inorganic dispersant and an organic dispersant may be selectively used as the dispersant. For example, the dispersant may include at least one selected from among calcium stearate, zinc stearate, magnesium stearate, lauric acid, myristic acid, palmitic acid, aluminum oxide, tricalcium phosphate, magnesium pyrophosphate, zinc oxide, kaolin, mica, polysaccharide (dextrin), polyethyleneimine (PEI), polyvinylpyrrolidone (PVP), polyethylene oxide (PEO), tetraoctylammonium bromide, polysorbate 80, and α-[4-(1,1,3,3 tetramethylbutyl)phenyl]-ω-hydroxy.</p>
+<p id="p0031" num="0031">The foaming agent may include any typical organic or inorganic physical foaming agent without limitation. For example, the foaming agent may include at least one selected from among aliphatic hydrocarbons, propane, butane, hexane, pentane, heptane, cyclobutane, cyclohexane, methyl chloride, ethyl chloride, methylene chloride, dimethyl ether, diethyl ether, methyl ethyl ether, nitrogen, carbon dioxide,<!-- EPO <DP n="8"> --> and argon.</p>
+<p id="p0032" num="0032">The reactor may include any suitable reactor known in the art, such as a continuous stirring tank reactor and a batch reactor. It will be understood that process conditions can be appropriately adjusted by those skilled in the art depending on the type of reactor used and the amount of the pellets, the dispersion medium, the dispersant, or the foaming agent.</p>
+<p id="p0033" num="0033">The foamed particles manufactured as described above are carbon nanotube-adsorbed polypropylene foamed particles and can exhibit stable surface resistance even with a small quantity of carbon nanotubes.</p>
+<heading id="h0010"><b><u>Molded foam article</u></b></heading>
+<p id="p0034" num="0034">The foamed particles are manufactured into a molded foam article through a molding process including filling a mold with the foamed particles and sintering the foamed particles using steam as a heating medium, followed by cooling.</p>
+<p id="p0035" num="0035">The molding process may be any typical process used in manufacture of a molded article of foamed particles, for example, in-mold molding. More specifically, a mold designed to have a predetermined shape is filled with the carbon nanotube-adsorbed polypropylene foamed particles, followed by heating the interior of the mold by supplying steam into the mold, such that adjacent foamed particles are fused together and secondarily expanded to fill gaps therebetween, resulting in integration of the foamed particles in the mold. The mold may have any shape corresponding to the shape of the molded article of the foamed particles, as needed or desired. For example, the mold may have various three-dimensional shapes such as a tubular shape or a column shape.</p>
+<p id="p0036" num="0036">Although cooling of the molded foam article may be performed by any suitable method, the molded foam article may be cooled by injecting cold water into the mold after the molding process. Then, the molded foam article may be secondarily cooled in the atmosphere after being released from the mold.</p>
+<p id="p0037" num="0037">The molded article of the semi-conductive polypropylene resin foamed particles exhibits a light gray color when containing no colorant. Accordingly, addition of a suitable colorant can impart a desired color to the molded article. In addition, the molded article of the semi-conductive polypropylene resin foamed<!-- EPO <DP n="9"> --> particles has a stable surface resistance of 10<sup>5</sup> Ω/sq to 10<sup>8</sup> Ω/sq, preferably 10<sup>5</sup> Ω/sq to 10<sup>7</sup> Ω/sq, more preferably 10<sup>5</sup> Ω/sq to 10<sup>6 5</sup> Ω/sq, thereby securing both electrical insulation performance and antistatic performance.</p>
+<p id="p0038" num="0038">The following shows results of comparing the color and surface resistance value of a molded article of semi-conductive polypropylene resin foamed particles manufactured by the method set forth above with a molded article of semi-conductive resin foamed particles manufactured differently.</p>
+<p id="p0039" num="0039">Next, the present invention will be described in more detail with reference to some examples. It should be understood that these examples are provided for illustration only and are not to be in any way construed as limiting the present invention.</p>
+<p id="p0040" num="0040">In addition, description of details apparent to those skilled in the art will be omitted for clarity.</p>
+<heading id="h0011">EXAMPLE</heading>
+<p id="p0041" num="0041">Details of components used in Examples and Comparative Examples are as follows:
+<ul id="ul0002" list-style="none" compact="compact">
+<li>(a) Polypropylene resin composition pellets: Cylindrical polypropylene resin composition pellets (1.0 mg to 1.2 mg, Φ: 0.7 mm×1 mm) were used.</li>
+<li>(b1) Carbon nanotubes: Double-walled carbon nanotubes (length: 100 to 200 µm, aspect ratio: 2,500 to 2,000,000) were used.</li>
+<li>(b2) Graphene: Graphene oxide powder (diameter: 1 µm to 5 µm, thickness: 0.8 nm to 1.2 nm) was used.</li>
+<li>(b3) Conductive carbon black: Conductive carbon black manufactured by AkzoNobel (trade name: Ketjenblack EC-300J) was used.</li>
+</ul></p>
+<heading id="h0012"><b>Example 1</b></heading>
+<p id="p0042" num="0042">A mixture obtained by mixing the polypropylene resin composition pellets with the carbon nanotubes in amounts shown in Table 1 was stirred at 800 rpm to 1,000 rpm for 20 minutes, thereby preparing carbon nanotube-adsorbed pellets (CNT-PPs). Thereafter, about 300 parts by weight of water containing a dispersant was added to 100 parts by weight of the carbon nanotube-adsorbed pellets (CNT-PPs) in an autoclave reactor, followed by heating the reactor to a temperature of 100°C to<!-- EPO <DP n="10"> --> 140°C, and then CO<sub>2</sub> as a foaming agent was introduced into the reactor such that the reactor was maintained at a pressure of 30 kgf/cm<sup>2</sup> to 45 kgf/cm<sup>2</sup>, followed by expanding the carbon nanotube-adsorbed pellets, thereby preparing spherical foamed particles. The prepared foamed particles were pre-pressurized at room temperature and a pressure of 2.0 bar to 3.0 bar for 12 hours and allowed to fill a mold, followed by heating using steam at a pressure of 1.4 kgf/cm<sup>2</sup> to 3.0 kgf/cm<sup>2</sup>, and then the surface of the resultant was cooled, thereby obtaining a molded foam article. The obtained molded foam article was evaluated as to the following properties. Results are shown in Table 1.</p>
+<heading id="h0013"><b>Examples 2 to 3</b></heading>
+<p id="p0043" num="0043">Molded foam articles were manufactured in the same manner as in Example 1 except that the amounts of the polypropylene resin composition pellets and the carbon nanotubes were changed as listed in Table 1.</p>
+<heading id="h0014"><b>Example 4</b></heading>
+<p id="p0044" num="0044">A molded foam article was manufactured in the same manner as in Example 1 except that a polypropylene master batch containing a pink colorant was added in preparation of the carbon nanotube-adsorbed pellets and the amounts of the polypropylene resin composition pellets and the carbon nanotubes were changed as listed in Table 1.</p>
+<heading id="h0015"><b>Comparative Examples 1 to 2</b></heading>
+<p id="p0045" num="0045">Molded foam articles were manufactured in the same manner as in Example 1 except that the amounts of the polypropylene resin composition pellets and the carbon nanotubes were changed as listed in Table 1.</p>
+<heading id="h0016"><b>Comparative Example 3</b></heading>
+<p id="p0046" num="0046">A molded foam article was manufactured in the same manner as in Example 1 except that, instead of the carbon nanotubes, graphene was used in an amount shown in Table 2.</p>
+<heading id="h0017"><b>Comparative Example 4</b></heading>
+<p id="p0047" num="0047">10 parts by weight of conductive carbon black was mixed with 100 parts by weight of a polypropylene resin, followed by extrusion, thereby preparing pellets, which, in turn, were expanded and molded under the same conditions as in Example<!-- EPO <DP n="11"> --> 1.</p>
+<heading id="h0018"><b>Comparative Example 5</b></heading>
+<p id="p0048" num="0048">10 parts by weight of conductive carbon black and 4 parts by weight of a polypropylene master batch containing a pink colorant were mixed with 100 parts by weight of a polypropylene resin, followed by extrusion, thereby preparing pellets, which, in turn, were expanded and molded under the same conditions as in Example 1.</p>
+<heading id="h0019"><b>Comparative Example 6</b></heading>
+<p id="p0049" num="0049">After applying an adhesive to surfaces of the polypropylene resin composition pellets, a coating solution obtained by mixing the carbon nanotubes (CNTs) with isopropyl alcohol, a dispersant, toluene, and an ether additive was coated onto the adhesive layer, followed by mixing a water-soluble acrylic resin binder with the carbon nanotubes, and then the resulting pellets were expanded and molded under the same conditions as in Example 1.</p>
+<heading id="h0020"><b>Comparative Example 7</b></heading>
+<p id="p0050" num="0050">0.5 parts by weight of the carbon nanotubes were mixed with 100 parts by weight of a polypropylene resin, followed by extrusion, thereby preparing pellets, which, in turn, were expanded and molded under the same conditions as in Example 1. A schematic cross-section of the resulting pellets is shown in <figref idref="f0002">FIG. 2. FIG. 2</figref> is a schematic view of a carbon nanotube/polypropylene-blended foamed particle manufactured according to Comparative Example 7. Referring to <figref idref="f0002">FIG. 2</figref>, the foamed particle has a structure in which the carbon nanotubes 1 are dispersed over the entire region of the polypropylene resin composition pellet 2, including the surface and the interior of the pellet.</p>
+<heading id="h0021"><u>Property evaluation</u></heading>
+<p id="p0051" num="0051">
+<ol id="ol0002" compact="compact" ol-style="">
+<li>(1) Surface resistance: Surface resistance was measured using a surface resistance meter (model name: SURPA-9802, manufacturer: SURPA) in accordance with Korean industrial standard KS C IEC 60093.</li>
+<li>(2) Color: Color of the surface of each of molded articles prepared in Examples and Comparative Examples was evaluated with the naked eye.</li>
+</ol></p>
+<p id="p0052" num="0052">The composition, surface resistance, and color of each of the molded articles<!-- EPO <DP n="12"> --> manufactured in Examples and Comparative Examples are as shown in Tables 1 and 2.
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>Table 1</title>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" colwidth="43mm"/>
+<colspec colnum="2" colname="col2" colwidth="42mm"/>
+<colspec colnum="3" colname="col3" colwidth="20mm"/>
+<colspec colnum="4" colname="col4" colwidth="20mm"/>
+<colspec colnum="5" colname="col5" colwidth="20mm"/>
+<colspec colnum="6" colname="col6" colwidth="20mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Item</entry>
+<entry align="center" valign="middle">Example 1</entry>
+<entry align="center" valign="middle">Example 2</entry>
+<entry align="center" valign="middle">Example 3</entry>
+<entry align="center" valign="middle">Example 4</entry></row></thead>
+<tbody>
+<row>
+<entry morerows="4" align="center" valign="middle">Composition</entry>
+<entry align="center" valign="middle">Polypropylene</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">96</entry></row>
+<row>
+<entry align="center" valign="middle">Carbon nanotube</entry>
+<entry align="center" valign="middle">0.5</entry>
+<entry align="center" valign="middle">0.5</entry>
+<entry align="center" valign="middle">0.2</entry>
+<entry align="center" valign="middle">0.2</entry></row>
+<row>
+<entry align="center" valign="middle">Graphene</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">Conductive carbon black</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">ColorM/B (pink)</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">4</entry></row>
+<row>
+<entry morerows="1" align="center" valign="middle">Properties of molded article</entry>
+<entry align="center" valign="middle">Surface resistance (Ω/sq)</entry>
+<entry align="center" valign="middle">10<sup>5.0</sup></entry>
+<entry align="center" valign="middle">10<sup>5.5</sup></entry>
+<entry align="center" valign="middle">10<sup>5.8</sup></entry>
+<entry align="center" valign="middle">10<sup>5.8</sup></entry></row>
+<row>
+<entry align="center" valign="middle">Color</entry>
+<entry align="center" valign="middle">Light gray</entry>
+<entry align="center" valign="middle">Light gray</entry>
+<entry align="center" valign="middle">Light gray</entry>
+<entry align="center" valign="middle">Dark pink</entry></row></tbody></tgroup>
+</table>
+</tables>
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>Table 2</title>
+<tgroup cols="9">
+<colspec colnum="1" colname="col1" colwidth="34mm"/>
+<colspec colnum="2" colname="col2" colwidth="34mm"/>
+<colspec colnum="3" colname="col3" colwidth="25mm"/>
+<colspec colnum="4" colname="col4" colwidth="25mm"/>
+<colspec colnum="5" colname="col5" colwidth="25mm"/>
+<colspec colnum="6" colname="col6" colwidth="25mm"/>
+<colspec colnum="7" colname="col7" colwidth="25mm"/>
+<colspec colnum="8" colname="col8" colwidth="25mm"/>
+<colspec colnum="9" colname="col9" colwidth="25mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Item</entry>
+<entry align="center" valign="middle">Comp. Example 1</entry>
+<entry align="center" valign="middle">Comp. Example 2</entry>
+<entry align="center" valign="middle">Comp. Example 3</entry>
+<entry align="center" valign="middle">Comp. Example 4</entry>
+<entry align="center" valign="middle">Comp. Example 5</entry>
+<entry align="center" valign="middle">Comp. Example 6</entry>
+<entry align="center" valign="middle">Comp. Example 7</entry></row></thead>
+<tbody>
+<row>
+<entry morerows="5" align="center">Composition</entry>
+<entry align="center" valign="middle">Polypropylene</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry></row>
+<row>
+<entry align="center" valign="middle">Carbon nanotube</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.5</entry>
+<entry align="center" valign="middle">0.5</entry></row>
+<row>
+<entry align="center" valign="middle">Binder</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">Graphene</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">Conductive carbon black</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">ColorM/B (pink)</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry morerows="1" align="center">Properties of molded article</entry>
+<entry align="center" valign="middle">Surface resistance (Ω/sq)</entry>
+<entry align="center" valign="middle">104.9</entry>
+<entry align="center" valign="middle">109.4</entry>
+<entry align="center" valign="middle">1010.5</entry>
+<entry align="center" valign="middle">107.2</entry>
+<entry align="center" valign="middle">107.2</entry>
+<entry align="center" valign="middle">1011.0</entry>
+<entry align="center" valign="middle">1012.0</entry></row>
+<row>
+<entry align="center" valign="middle">Color</entry>
+<entry align="center" valign="middle">Light gray</entry>
+<entry align="center" valign="middle">Light gray</entry>
+<entry align="center" valign="middle">Dark gray</entry>
+<entry align="center" valign="middle">Black</entry>
+<entry align="center" valign="middle">Black</entry>
+<entry align="center" valign="middle">Light gray</entry>
+<entry align="center" valign="middle">Light gray</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0053" num="0053">As shown above, it was confirmed that the molded articles of Comparative Examples 3 to 5, manufactured using graphene or conductive carbon black instead of the carbon nanotubes exhibited a black or dark gray color, making it impossible to implement various colors, which is the purpose of the present invention.</p>
+<p id="p0054" num="0054">In addition, the molded articles of Comparative Examples 1 and 2, in which the amount of the carbon nanotubes was outside the range set forth herein, failed to exhibit stable surface resistance, which is the purpose of the present invention. Further, the molded article of Comparative Example 6 exhibited extremely high surface resistance and was very costly and time-consuming to manufacture since additional use of a binder and additional adhesive layer application and drying processes were required for adsorption of the carbon nanotubes.<!-- EPO <DP n="13"> --></p>
+<p id="p0055" num="0055">In addition, the molded article of Comparative Example 7, manufactured using foamed particles having a structure in which the carbon nanotubes were dispersed inside the polypropylene resin composition pellets rather than adsorbed on the surfaces of the polypropylene resin composition pellets, exhibited excessively high surface resistance and thus was not suitable for solving the technical problem that the present invention seeks to solve.</p>
+<p id="p0056" num="0056">Although some embodiments have been described herein, it should be understood that the present invention is not limited to the following embodiments and may be embodied in different ways and that various modifications, changes, alterations, and equivalent embodiments can be made by those skilled in the art without departing from the spirit and scope of the invention. Therefore, it should be understood that these embodiments are provided for illustration only and are not to be construed in any way as limiting the present invention.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="14"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A method of manufacturing semi-conductive polypropylene resin foamed particles, comprising:
+<claim-text>preparing carbon nanotube-adsorbed pellets (CNT-PPs) by adsorbing carbon nanotubes onto surfaces of polypropylene resin composition pellets; and</claim-text>
+<claim-text>forming foamed particles by expanding the carbon nanotube-adsorbed pellets (CNT-PPs).</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The method according to claim 1, wherein adsorption of the carbon nanotubes is performed by adding the carbon nanotubes directly to the polypropylene resin composition pellets without using a binder, followed by stirring.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The method according to claim 1, wherein the polypropylene resin composition pellets have an aspect ratio (length/diameter) of 1 to 3.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The method according to claim 1, wherein the carbon nanotubes are present in an amount of greater than 0.1 parts by weight and less than 1 part by weight relative to 100 parts by weight of the polypropylene resin composition pellets.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The method according to claim 1, wherein expanding the carbon nanotube-adsorbed pellets comprises forming spherical foamed particles by adding a dispersion<!-- EPO <DP n="15"> --> medium, a dispersant, and a foaming agent to the carbon nanotube-adsorbed pellets (CNT-PPs).</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The method according to claim 1, wherein the carbon nanotubes have an aspect ratio (length/diameter) of 125 to 5,000,000.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>A molded foam article manufactured by molding the semi-conductive polypropylene resin foamed particles manufactured by the method according to any one of claims 1 to 6, the molded foam article having a surface resistance of 10<sup>5</sup> Ω/sq to 10<sup>8</sup> Ω/sq.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="16"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="132" he="172" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="17"> -->
+<figure id="f0002" num="2"><img id="if0002" file="imgf0002.tif" wi="134" he="165" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="162" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="162" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="KR20187000787"><document-id><country>KR</country><doc-number>20187000787</doc-number></document-id></patcit><crossref idref="pcit0001">[0004]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="JP2012225005A"><document-id><country>JP</country><doc-number>2012225005</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0002">[0004]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="JP2005047714A"><document-id><country>JP</country><doc-number>2005047714</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0003">[0004]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="JP2002340165A"><document-id><country>JP</country><doc-number>2002340165</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0004">[0004]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

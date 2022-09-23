@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19890240A1" file="EP19890240NWA1.xml" lang="en" country="EP" doc-number="3889220" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSK..HRIS..MTNORS..SM..................</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3889220</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19890240.5</B210><B220><date>20191111</date></B220><B240><B241><date>20210512</date></B241></B240><B250>ja</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>2018222453</B310><B320><date>20181128</date></B320><B330><ctry>JP</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>C08L  71/00        20060101AFI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C08G  65/325       20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>C08G  65/333       20060101ALI20200605BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>C08G  65/325       20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>C08G  65/333       20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="3"><text>C08L  71/00        20130101 LI20200626BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>KAUTSCHUKZUSAMMENSETZUNG AUF DER BASIS VON PERFLUORPOLYETHER, DARAUS HERGESTELLTES GEHÄRTETES PRODUKT UND PRODUKT DAMIT</B542><B541>en</B541><B542>PERFLUOROPOLYETHER-BASED RUBBER COMPOSITION, CURED OBJECT OBTAINED THEREFROM, AND PRODUCT INCLUDING SAME</B542><B541>fr</B541><B542>COMPOSITION DE CAOUTCHOUC À BASE DE PERFLUOROPOLYÉTHER, OBJET DURCI OBTENU À PARTIR DE CETTE DERNIÈRE ET PRODUIT COMPRENANT LADITE COMPOSITION</B542></B540><B590><B598>none</B598></B590></B500><B700><B710><B711><snm>SHIN-ETSU CHEMICAL CO., LTD.</snm><iid>101878492</iid><irf>18239WOEP</irf><adr><str>6-1, Ohtemachi 2-chome 
+Chiyoda-ku</str><city>Tokyo 100-0004</city><ctry>JP</ctry></adr></B711></B710><B720><B721><snm>HAYASHI Ryuto</snm><adr><str>c/o Silicone-Electronics Materials Research  
+Center, Shin-Etsu Chemical Co., Ltd., 1-10,  
+Hitomi, Matsuida-machi</str><city>Annaka-shi, Gunma 379-0224</city><ctry>JP</ctry></adr></B721><B721><snm>FUKUDA Kenichi</snm><adr><str>c/o Silicone-Electronics Materials Research  
+Center, Shin-Etsu Chemical Co., Ltd., 1-10,  
+Hitomi, Matsuida-machi</str><city>Annaka-shi, Gunma 379-0224</city><ctry>JP</ctry></adr></B721></B720><B740><B741><snm>Ter Meer Steinmeister &amp; Partner</snm><iid>101535067</iid><adr><str>Patentanwälte mbB 
+Nymphenburger Straße 4</str><city>80335 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B860><B861><dnum><anum>JP2019044098</anum></dnum><date>20191111</date></B861><B862>ja</B862></B860><B870><B871><dnum><pnum>WO2020110680</pnum></dnum><date>20200604</date><bnum>202023</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">A perfluoropolyether-based rubber composition which gives cured objects excellent in terms of heat resistance, low-temperature resistance, organic-solvent resistance, and acid resistance, the rubber composition being characterized by comprising (a) a linear perfluoropolyether compound having a number-average molecular weight of 1,000-100,000 and including at least two azido groups in the molecule and a divalent perfluoroalkyl ether structure in the main chain and (b) a linear perfluoropolyether compound having at least three ethynyl groups in the molecule.</p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001"><u>TECHNICAL FIELD</u></heading>
+<p id="p0001" num="0001">This invention relates to a perfluoropolyether-based rubber composition comprising a linear perfluoropolyether compound containing at least two azide groups per molecule and a linear perfluoropolyether compound containing at least three ethynyl (-C≡C-H) groups per molecule, and a cured product thereof. More particularly, it relates to a perfluoropolyether-based rubber composition which is characterized in that the curable composition comprising the aforementioned compounds cures through crosslinking reaction (formation of a triazole structure by means of click reaction) that takes place upon heating or in that the composition further comprising (c) a transition metal catalyst cures through the formation of a triazole structure by means of click reaction that takes place at room temperature (23°C±10°C), the composition providing a cured product having improved heat resistance, organic solvent resistance, and chemical resistance, especially acid resistance, a cured product thereof, and an article comprising the cured product.</p>
+<heading id="h0002"><u>BACKGROUND ART</u></heading>
+<p id="p0002" num="0002">Because of a good profile of heat resistance, low-temperature performance, chemical resistance, solvent resistance, and oil resistance, heat curable perfluoropolyether-based rubber compositions are used in a wide variety of applications, typically in the automotive industry, as disclosed in Patent Documents 1 to 3 (<patcit id="pcit0001" dnum="JP2001192546A"><text>JP-A 2001-192546</text></patcit>, <patcit id="pcit0002" dnum="JP2000248166A"><text>JP-A 2000-248166</text></patcit>, and <patcit id="pcit0003" dnum="JP2002020615A"><text>JP-A 2002-020615</text></patcit>). Mostly known are heat curable perfluoropolyether-based rubber compositions adapted to cure through crosslinking reaction in the form of hydrosilylation in the presence of a metal base catalyst, typically platinum base catalyst.<!-- EPO <DP n="2"> --></p>
+<p id="p0003" num="0003">Of the heat curable perfluoropolyether-based rubber compositions, an exemplary composition comprising a perfluoropolyether-based compound terminated with a skeleton: [aromatic ring-silicon atom-vinyl group] as the base polymer is known. The composition sometimes exhibits low chemical resistance, especially low acid resistance because the skeleton: [aromatic ring-silicon atom] is unstable. It is known from Patent Document 4 (<patcit id="pcit0004" dnum="JP6160540B"><text>JP 6160540</text></patcit>) that this problem can be ameliorated by using a perfluoropolyether-based compound terminated with [amide group (having aromatic substituent as pendant)-alkylene group-silicon atom-vinyl group] as the base polymer. Although the rubber composition and a cured product thereof are surely improved in sulfuric acid resistance, a hardening degradation tendency is sometimes observed with respect to nitric acid resistance. In view of the expansion of their application to adhesives or the like, such degradation is undesirable because it leads to a likelihood of interfacial peeling.</p>
+<p id="p0004" num="0004">Further, the heat curable perfluoropolyether-based rubber compositions which cure through crosslinking reaction in the form of hydrosilylation may encounter a cure failure in the presence of a substance containing phosphorus, sulfur, nitrogen or similar atom. Since heat is necessary to obtain cured products, these compositions are unsuitable to apply to large-size parts which are too large to place in heating ovens or heat-sensitive parts. As the perfluoropolyether-based rubber composition that overcomes these drawbacks, room temperature curable perfluoropolyether-based rubber compositions of condensation cure type are proposed in Patent Documents 5 and 6 (<patcit id="pcit0005" dnum="JPH09077944A"><text>JP-A H09-077944</text></patcit> and <patcit id="pcit0006" dnum="JPH09137027A"><text>JP-A H09-137027</text></patcit>). Not only these compositions cure into cured products without a need for heating, but the cured products also have improved properties including heat resistance, low-temperature performance, chemical resistance, solvent resistance, and oil resistance. However, the prior art well-known room temperature curable perfluoropolyether-based rubber compositions of dealcoholization condensation cure type are readily degraded under such conditions as long-term exposure to acid because of low acid resistance of siloxane bonds.</p>
+<p id="p0005" num="0005">Under the circumstances, there is a strong need for curable (both heat curable and room temperature curable) perfluoropolyether-based rubber compositions having improved chemical resistance, especially acid resistance.<!-- EPO <DP n="3"> --></p>
+<heading id="h0003"><u>PRIOR ART DOCUMENTS</u></heading>
+<heading id="h0004"><u>PATENT DOCUMENTS</u></heading>
+<p id="p0006" num="0006">
+<ul id="ul0001" list-style="none" compact="compact">
+<li>Patent Document 1: <patcit id="pcit0007" dnum="JP2001192546A"><text>JP-A 2001-192546 </text></patcit></li>
+<li>Patent Document 2: <patcit id="pcit0008" dnum="JP2000248166A"><text>JP-A 2000-248166 </text></patcit></li>
+<li>Patent Document 3: <patcit id="pcit0009" dnum="JP2002020615A"><text>JP-A 2002-020615 </text></patcit></li>
+<li>Patent Document 4: <patcit id="pcit0010" dnum="JP6160540B"><text>JP 6160540 </text></patcit></li>
+<li>Patent Document 5: <patcit id="pcit0011" dnum="JPH09077944A"><text>JP-A H09-077944 </text></patcit></li>
+<li>Patent Document 6: <patcit id="pcit0012" dnum="JPH09137027A"><text>JP-A H09-137027 </text></patcit></li>
+</ul></p>
+<heading id="h0005"><u>SUMMARY OF INVENTION</u></heading>
+<heading id="h0006"><u>TECHNICAL PROBLEM</u></heading>
+<p id="p0007" num="0007">An object of the invention, which has been made under the above-mentioned circumstances, is to provide a perfluoropolyether-based rubber composition capable of providing a cured product having improved heat resistance, low-temperature properties (freeze resistance), organic solvent resistance, and chemical resistance, especially acid resistance, a cured product thereof, and an article comprising the cured product.</p>
+<heading id="h0007"><u>SOLUTION TO PROBLEM</u></heading>
+<p id="p0008" num="0008">It is known that a 1,3-dipolar cycloaddition reaction between azide and alkyne to form a triazole structure takes place at elevated temperature and the same reaction takes place even at room temperature when a catalyst of transition metal such as copper is added. This reaction is well known as Huisgen cycloaddition reaction or click reaction. Making extensive investigations to attain the above object with a focus on the use of this reaction, the inventors have found that a heat curable perfluoropolyether-based rubber composition comprising (a) a linear perfluoropolyether compound containing at least two azide groups per molecule and a divalent perfluoroalkylether structure in its main chain, and having a number average molecular weight of 1,000 to 100,000 and (b) a linear perfluoropolyether compound containing at least three ethynyl (-C≡C-H) groups per molecule provides a<!-- EPO <DP n="4"> --> cured product having improved heat resistance, freeze resistance, solvent resistance, and chemical resistance, especially acid resistance and has improved curing properties at elevated temperature. It has also been found that a room temperature curable perfluoropolyether-based rubber composition obtained by adding (c) a transition metal catalyst to components (a) and (b) has improved curing properties at room temperature. The invention is predicated on these findings.</p>
+<p id="p0009" num="0009">The invention provides a perfluoropolyether-based rubber composition, a cured product thereof, and an article comprising the cured product, as defined below.
+<ol id="ol0001" compact="compact" ol-style="">
+<li>1. A perfluoropolyether-based rubber composition comprising:
+<ol id="ol0002" compact="compact" ol-style="">
+<li>(a) a linear perfluoropolyether compound containing at least two azide groups per molecule and a divalent perfluoroalkylether structure in its main chain, and having a number average molecular weight of 1,000 to 100,000 and</li>
+<li>(b) a linear perfluoropolyether compound containing at least three ethynyl groups per molecule.</li>
+</ol></li>
+<li>2. The perfluoropolyether-based rubber composition of 1 wherein component (a) is a compound having the following general formula (1):<br/>
+[Chem. 1]<br/>
+<br/>
+        N<sub>3</sub>-A-Rf<sup>1</sup>-A-N<sub>3</sub>     (1)<br/>
+<br/>
+wherein A is a divalent straight aliphatic saturated hydrocarbon group of 1 to 6 carbon atoms and Rf<sup>1</sup> is a divalent perfluoropolyether group.<!-- EPO <DP n="5"> --></li>
+<li>3. The perfluoropolyether-based rubber composition of 1 or 2 wherein component (b) is a compound having the following general formula (2):
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="123" he="45" img-content="chem" img-format="tif"/></chemistry>
+wherein R<sup>1</sup> and R<sup>2</sup> are each independently a divalent straight or branched aliphatic saturated hydrocarbon group or arylene group, B is hydrogen, phenyl, a monovalent straight or branched aliphatic unsaturated hydrocarbon group or a group having the following general formula (3):
+<chemistry id="chem0002" num="0002"><img id="ib0002" file="imgb0002.tif" wi="65" he="21" img-content="chem" img-format="tif"/></chemistry>
+wherein R<sup>3</sup> is a divalent straight or branched aliphatic saturated hydrocarbon group or arylene group and the broken line designates a valence bond, and Rf<sup>2</sup> is a divalent perfluoropolyether group, with the proviso that R<sup>1</sup> and R<sup>2</sup> on the left in formula (2), and R<sup>1</sup> and B (or R<sup>3</sup> when B is a group of formula (3)) on the right in formula (2) may be linked via a single or double bond to form a cyclic structure attached to the corresponding nitrogen atom.</li>
+<li>4. The perfluoropolyether-based rubber composition of 3 wherein R<sup>1</sup> and R<sup>2</sup> in the general formula (2) each are a divalent straight aliphatic saturated hydrocarbon group of 1 to 10 carbon atoms, a divalent branched aliphatic saturated hydrocarbon group of 2 to 10 carbon atoms, or an arylene group having any one of the following general formulae (4) to (9):<!-- EPO <DP n="6"> -->
+<chemistry id="chem0003" num="0003"><img id="ib0003" file="imgb0003.tif" wi="59" he="214" img-content="chem" img-format="tif"/></chemistry>
+wherein the broken line designates a valence bond.<!-- EPO <DP n="7"> --></li>
+<li>5. The perfluoropolyether-based rubber composition of 3 or 4 wherein R<sup>3</sup> in the general formula (3) is a divalent straight aliphatic saturated hydrocarbon group of 1 to 10 carbon atoms, a divalent branched aliphatic saturated hydrocarbon group of 2 to 10 carbon atoms, or an arylene group having any one of the following general formulae (4) to (9):<!-- EPO <DP n="8"> -->
+<chemistry id="chem0004" num="0004"><img id="ib0004" file="imgb0004.tif" wi="59" he="214" img-content="chem" img-format="tif"/></chemistry>
+wherein the broken line designates a valence bond.<!-- EPO <DP n="9"> --></li>
+<li>6. The perfluoropolyether-based rubber composition of any one of 1 to 5 which is heat curable.</li>
+<li>7. The perfluoropolyether-based rubber composition of any one of 1 to 5, further comprising (c) a transition metal catalyst.</li>
+<li>8. The perfluoropolyether-based rubber composition of 7 which is room temperature curable.</li>
+<li>9. A perfluoropolyether-based rubber cured product which is formed by curing the perfluoropolyether-based rubber composition of any one of 1 to 8.</li>
+<li>10. An article comprising the cured product of 9.</li>
+<li>11. The article of 10 which is a rubber part for use in an automobile, chemical plant, inkjet printer, semiconductor manufacturing line, analytical or scientific instrument, medical equipment, residential environment or aircraft.</li>
+</ol></p>
+<heading id="h0008"><u>ADVANTAGEOUS EFFECTS OF INVENTION</u></heading>
+<p id="p0010" num="0010">According to the invention, there is provided a perfluoropolyether-based rubber composition capable of affording a cured product having improved heat resistance, low-temperature properties (freeze resistance), organic solvent resistance, and chemical resistance, and especially improved acid resistance. Rubber articles comprising the cured product of the composition are advantageously used as rubber parts in automobiles, chemical plants, inkjet printers, semiconductor manufacturing lines, analytical or scientific instruments, medical equipment, residential environment, and aircraft.<!-- EPO <DP n="10"> --></p>
+<heading id="h0009"><u>BRIEF DESCRIPTION OF DRAWINGS</u></heading>
+<p id="p0011" num="0011">
+<ul id="ul0002" list-style="none" compact="compact">
+<li>[<figref idref="f0001">FIG. 1] FIG. 1</figref> is a diagram showing transitions of the hardness change of the cured products prepared in Examples 1 to 4 and Comparative Examples 1 and 2 in a heat aging resistance test.</li>
+<li>[<figref idref="f0002">FIG. 2] FIG. 2</figref> is a diagram showing transitions of the tensile strength of the cured products prepared in Examples 1 to 4 and Comparative Examples 1 and 2 in a heat aging resistance test.</li>
+<li>[<figref idref="f0002">FIG. 3] FIG. 3</figref> is a diagram showing transitions of the elongation at break of the cured products prepared in Examples 1 to 4 and Comparative Examples 1 and 2 in a heat aging resistance test.</li>
+<li>[<figref idref="f0003">FIG. 4] FIG. 4</figref> is a diagram showing transitions of the hardness change of the cured products prepared in Examples 1 to 4 and Comparative Example 2 in a sulfuric acid resistance test.</li>
+<li>[<figref idref="f0003">FIG. 5] FIG. 5</figref> is a diagram showing transitions of the hardness change of the cured products prepared in Examples 1 to 4 and Comparative Examples 1 and 2 in a nitric acid resistance test.</li>
+</ul></p>
+<heading id="h0010"><u>DESCRIPTION OF EMBODIMENTS</u></heading>
+<p id="p0012" num="0012">The invention provides a perfluoropolyether-based rubber composition comprising:
+<ol id="ol0003" compact="compact" ol-style="">
+<li>(a) a linear perfluoropolyether compound containing at least two azide groups per molecule and a divalent perfluoroalkylether structure in its main chain, and having a number average molecular weight of 1,000 to 100,000 and</li>
+<li>(b) a linear perfluoropolyether compound containing at least three ethynyl (-C≡C-H) groups per molecule.</li>
+</ol></p>
+<p id="p0013" num="0013">Now the invention is described in detail.<!-- EPO <DP n="11"> --></p>
+<heading id="h0011">[Component (a)]</heading>
+<p id="p0014" num="0014">Component (a) used herein is a linear fluoropolyether compound (base polymer) containing at least two azide groups per molecule and a divalent perfluoropolyether structure (i.e., structure containing repeating perfluoroalkylether units of one or more types) in its main chain, the compound having a number average molecular weight of 1,000 to 100,000.</p>
+<p id="p0015" num="0015">Component (a) is preferably a linear compound (fluoropolymer) having the following general formula (1):<br/>
+[Chem. 6]<br/>
+<br/>
+        N<sub>3</sub>-A-Rf<sup>1</sup>-A-N<sub>3</sub>     (1)<br/>
+<br/>
+wherein A is a divalent straight aliphatic saturated hydrocarbon group of 1 to 6 carbon atoms and Rf<sup>1</sup> is a divalent perfluoropolyether group, that is, a compound having an azide group (N<sub>3</sub>) via a straight alkylene group (A) at each end of a divalent perfluoropolyether group as the polymer dual end structure.</p>
+<p id="p0016" num="0016">In formula (1), A is preferably a straight alkylene group such as methylene, ethylene, propylene, butylene, pentamethylene or hexamethylene, more preferably methylene or ethylene, and even more preferably methylene. If A is a straight alkylene group which is longer than the above alkylene group, a cured product may lose organic solvent resistance. Thus, the azidoalkyl (-A-N<sub>3</sub>) linkage at each of the polymer molecular chain ends is preferably azidomethyl, azidoethyl or the like.</p>
+<p id="p0017" num="0017">The divalent perfluoropolyether group Rf<sup>1</sup> preferably contains repeating perfluoroalkylether units of one or more types having the formula: -C<sub>a</sub>F<sub>2a</sub>O- wherein "a" is an integer of 1 to 6. One exemplary group has the following formula:<br/>
+<br/>
+        -(C<sub>a</sub>F<sub>2a</sub>O)<sub>x</sub>-<br/>
+<br/>
+wherein "a" is an integer of 1 to 6, and x is an integer of 5 to 600, preferably 10 to 400, and more preferably 30 to 200.<!-- EPO <DP n="12"> --></p>
+<p id="p0018" num="0018">Examples of the repeating unit having the formula (-C<sub>a</sub>F<sub>2a</sub>O-) include:
+<ul id="ul0003" list-style="none" compact="compact">
+<li>-CF<sub>2</sub>O- ,</li>
+<li>-CF<sub>2</sub>CF<sub>2</sub>O-,</li>
+<li>-CF<sub>2</sub>CF<sub>2</sub>CF<sub>2</sub>O-,</li>
+<li>-CF(CF<sub>3</sub>)CF<sub>2</sub>O-,</li>
+<li>-CF<sub>2</sub>CF<sub>2</sub>CF<sub>2</sub>CF<sub>2</sub>O-, and</li>
+<li>-CF<sub>2</sub>CF<sub>2</sub>CF<sub>2</sub>CF<sub>2</sub>CF<sub>2</sub>CF<sub>2</sub>O- .</li>
+</ul></p>
+<p id="p0019" num="0019">Of these, units of
+<ul id="ul0004" list-style="dash" compact="compact">
+<li>CF<sub>2</sub>O- ,</li>
+<li>CF<sub>2</sub>CF<sub>2</sub>O-,</li>
+<li>CF<sub>2</sub>CF<sub>2</sub>CF<sub>2</sub>O-, and</li>
+<li>CF(CF<sub>3</sub>)CF<sub>2</sub>O-</li>
+</ul>
+are preferred.</p>
+<p id="p0020" num="0020">Notably, the repeating units in the divalent perfluoropolyether group may be composed of repeating units of one type or of two or more types.<!-- EPO <DP n="13"> --></p>
+<p id="p0021" num="0021">The divalent perfluoropolyether group preferably contains any one of structures having the following formulae (10) to (13).
+<chemistry id="chem0005" num="0005"><img id="ib0005" file="imgb0005.tif" wi="138" he="124" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0022" num="0022">Herein Y is fluorine or trifluoromethyl, o, p, and q are each an integer in the range of o ≥ 0, p ≥ 0, 0 ≤ o+p ≤ 202, specifically 2 ≤ o+p ≤ 150, and 0 ≤ q ≤ 6, r, s, t, u, and v are each an integer in the range of 0 ≤ r ≤ 3, 2 ≤ t ≤ 6, 0 ≤ s ≤ 100, 0 ≤ v ≤ 100, 2 ≤ s+v ≤ 100, 0 ≤ u ≤ 6, and s+u+v ≤ 100, w and x are each an integer in the range of 1 ≤ w ≤ 100 and 1 ≤ x ≤ 100, and z is an integer of 1 ≤ z ≤ 200.<!-- EPO <DP n="14"> --></p>
+<p id="p0023" num="0023">Examples of the divalent perfluoropolyether group Rf<sup>1</sup> in formula (1) include groups having the following formulae (14) to (21).
+<chemistry id="chem0006" num="0006"><img id="ib0006" file="imgb0006.tif" wi="151" he="176" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0024" num="0024">In formula (14), h, j, and k are each an integer in the range of h ≥ 0, j ≥ 0, 0 ≤ h+j ≤ 200, specifically 2 ≤ h+j ≤ 150, and 0 ≤ k ≤ 6. In formulae (15), (16), (17), (19), and (20), n is 1 to 100, m is 1 to 100, and n+m is 2 to 198. In formula (18), n is 2 to 200. In formula (21), z is 1 to 200.<!-- EPO <DP n="15"> --></p>
+<p id="p0025" num="0025">Preferred examples of the linear fluorinated polymer having formula (1) include polymers having the following formulae (22) to (25).
+<chemistry id="chem0007" num="0007"><img id="ib0007" file="imgb0007.tif" wi="153" he="115" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0026" num="0026">Herein m = 1 to 100, n = 1 to 100, and m+n = 2 to 200.</p>
+<p id="p0027" num="0027">The linear perfluoropolyether compound or fluorinated polymer of formula (1) should preferably have a number average molecular weight of 1,000 to 100,000, more preferably 1,500 to 50,000 as measured by gel permeation chromatography (GPC) versus polystyrene standards using a fluorochemical solvent as eluent. If the molecular weight is less than 1,000, a significant swell in gasoline and various solvents may be observable. If the molecular weight exceeds 100,000, too high a viscosity may interfere with working. Notably, the number average molecular weight (or number average degree of polymerization) may also be computed from a ratio of terminal structure/repeating unit structure as determined in <sup>19</sup>F-NMR spectrum.<!-- EPO <DP n="16"> --></p>
+<p id="p0028" num="0028">The azide-containing perfluoropolyether compound or fluorinated polymer of the general formula (1) used herein may be prepared, for example, by the following method, but the preparation method is not limited thereto.</p>
+<p id="p0029" num="0029">The azide-containing fluorinated polymer having formula (1) may be obtained by reacting a molecular both end hydroxyalkyl-capped fluoropolymer having the following general formula (1A):<br/>
+[Chem. 10]<br/>
+<br/>
+        HO-A-Rf<sup>1</sup>-A-OH     (1A)<br/>
+<br/>
+wherein Rf<sup>1</sup> and A are as defined above,<br/>
+at its hydroxy groups with a halogenated sulfonyl compound to form a molecular both end sulfonylester-capped fluoropolymer and then reacting the molecular both end sulfonylester-capped fluoropolymer at its sulfonylester groups with sodium azide in a mixture of a non-fluorinated organic solvent and an at least partially fluorinated organic solvent.</p>
+<p id="p0030" num="0030">With reference to the general formula (1) wherein Rf<sup>1</sup> is a divalent perfluoropolyether group having formula (15) and A is methylene, the polymer may be prepared through the following steps.</p>
+<heading id="h0012">First step:</heading>
+<p id="p0031" num="0031">In the first step, a fluoropolymer capped with hydroxyalkyl groups such as hydroxymethyl at both ends of the molecular chain, for example, a fluoropolymer having the following formula is reacted with a sulfonyl halide compound, for example, perfluoro-1-butanesulfonyl fluoride in the presence of a base such as triethylamine to convert the hydroxy groups to sulfonylester groups, yielding a fluoropolymer having a sulfonylester group via an alkylene group such as methylene at each of the both ends of the molecular chain, for example, polymer having the main chain of hexafluoropropyleneoxide (HFPO) structure, represented by the following formula.<!-- EPO <DP n="17"> -->
+<chemistry id="chem0008" num="0008"><img id="ib0008" file="imgb0008.tif" wi="154" he="99" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0032" num="0032">Herein n, m, and n+m are as defined above.</p>
+<p id="p0033" num="0033">When a molecular both end hydroxyalkyl-capped fluoropolymer based on the main chain selected from skeletons of the general formulae (14), (16) to (21) is used as the fluoropolymer capped with hydroxyalkyl groups such as hydroxymethyl at both ends of the molecular chain instead of the fluoropolymer based on the main chain of hexafluoropropyleneoxide (HFPO) structure having the general formula (15), there is obtained a sulfonylester-containing polymer having a corresponding main chain structure.</p>
+<p id="p0034" num="0034">In the above reaction, the sulfonyl halide compound is preferably used in an amount of at least 1.0 equivalent, more preferably 1.0 equivalent to 5.0 equivalents per equivalent of the hydroxy groups in the molecular both end hydroxyalkyl-capped fluoropolymer. Suitable sulfonyl halide compounds include p-toluenesulfonyl chloride, mesyl chloride, and p-nitrobenzenesulfonyl chloride as well as perfluoro-1-butanesulfonyl fluoride.<!-- EPO <DP n="18"> --></p>
+<p id="p0035" num="0035">The base such as triethylamine is added for neutralizing the hydrogen halide which is formed during reaction of the hydroxy groups at the ends of the fluoropolymer with the sulfonyl halide compound. Thus, the base such as triethylamine is desirably used in an amount of 1.1 equivalents to 1.5 equivalents per equivalent of the hydroxy groups in the molecular both end hydroxyalkyl-capped fluoropolymer. Suitable bases used herein include diisopropylethylamine and pyridine as well as triethylamine.</p>
+<p id="p0036" num="0036">The above reaction is preferably carried out under a nitrogen blanket. The reaction temperature may be about 20 to 50°C, specifically about 20 to 40°C. Since the reaction is exothermic immediately after the start, the reaction system is cooled for about 10 minutes when the temperature rises too high. Stirring is continued for about 1 hour to 3 days, specifically about 3 to 24 hours from the start of reaction until the reaction is completed. At the end of reaction, the triethylamine hydrofluoride formed by the reaction is dissolved in water. The fluorinated organic solvent layer is recovered and concentrated in vacuum, yielding a fluoropolymer having a sulfonylester group via methylene at each of the molecular chain ends.</p>
+<heading id="h0013">Second step:</heading>
+<p id="p0037" num="0037">In the second step, a fluoropolymer having a sulfonylester group via an alkylene group such as methylene at each of the molecular chain ends obtained in the first step, for example, a polymer based on the main chain of hexafluoropropyleneoxide (HFPO) structure, represented by the following formula, at its sulfonylester groups is reacted with sodium azide in a mixture of an at least partially fluorinated organic solvent and a non-fluorinated organic solvent, yielding a target azide-containing fluoropolymer having an azide group via an alkylene group such as methylene at each of the molecular chain ends, represented by the general formula (1), for example, azide-containing polymer based on the main chain of HFPO structure, represented by the following formula.<!-- EPO <DP n="19"> -->
+<chemistry id="chem0009" num="0009"><img id="ib0009" file="imgb0009.tif" wi="154" he="95" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0038" num="0038">Herein n, m, and n+m are as defined above.</p>
+<p id="p0039" num="0039">In the above reaction, sodium azide is desirably used in an amount of at least 1.0 equivalent, more desirably 1.1 equivalents to 3.0 equivalents per equivalent of the sulfonylester groups in the sulfonylester-containing fluoropolymer. If the amount of sodium azide is too small, the reaction may not take place to a full extent. If the amount of sodium azide is too large, there arises a risk of explosion during separatory operation because a noticeable amount of sodium azide is left behind after the completion of reaction.</p>
+<p id="p0040" num="0040">The non-fluorinated organic solvent is preferably dimethyl sulfoxide (DMSO), N,N-dimethylformamide (DMF) or acetonitrile. The non-fluorinated organic solvent is preferably used in an amount of at least 0.5 time, more preferably 1.5 times to 2.5 times the weight of the fluoropolymer having a sulfonylester group via an alkylene group such as methylene at each of the molecular chain ends. Too small amounts of the non-fluorinated organic solvent may lead to a decline of the reaction rate and invite side reactions.<!-- EPO <DP n="20"> --></p>
+<p id="p0041" num="0041">The at least partially fluorinated organic solvent is desirably one capable of dissolving the sulfonylester-containing fluoropolymer, such as hexafluoro-m-xylene (HFMX), H Galden ZV130 (Solvay S.A.) or AC-6000 (Asahi Glass Co., Ltd.). The at least partially fluorinated organic solvent is preferably used in an amount of at least 0.5 time, more preferably 1.5 times to 2.5 times the weight of the fluoropolymer having a sulfonylester group via an alkylene group such as methylene at each of the molecular chain ends. Too small amounts of the at least partially fluorinated organic solvent may also lead to a decline of the reaction rate and invite side reactions.</p>
+<p id="p0042" num="0042">The at least partially fluorinated organic solvent and the non-fluorinated organic solvent are preferably used in a weight ratio of from 0.5:1 to 3:1, more preferably from 1:1 to 2:1, and most preferably 1:1. If the ratio of the at least partially fluorinated organic solvent is too low, the reaction rate of azidation may decrease and side reactions take place. Likewise, if the ratio of the at least partially fluorinated organic solvent is too high, the reaction rate of azidation may decrease and side reactions take place.</p>
+<p id="p0043" num="0043">The above reaction is performed by adding an at least partially fluorinated organic solvent, a non-fluorinated organic solvent, and sodium azide to the fluoropolymer having a sulfonylester group via an alkylene group such as methylene at each of the molecular chain ends and heating them at a temperature of 60 to 120°C, specifically 80 to 115°C for about 12 hours to 3 days, specifically about 1 to 2.8 days. After the completion of reaction, water and an at least partially fluorinated organic solvent such as hexafluoro-m-xylene (HFMX) are added. The water layer is removed by separatory operation. An organic solvent such as acetone is added for precipitation. The precipitated product is collected, concentrated in vacuum, and treated with activated carbon, yielding a target perfluoropolyether compound (fluoropolymer) having an azide group via an alkylene group such as methylene at each of the molecular chain ends, represented by the general formula (1).<!-- EPO <DP n="21"> --></p>
+<heading id="h0014">[Component (b)]</heading>
+<p id="p0044" num="0044">Component (b) used herein is a linear perfluoropolyether compound containing at least three ethynyl (-C≡C-H) groups as terminal alkyne per molecule, which is a crosslinker.</p>
+<p id="p0045" num="0045">Specifically, component (b) is preferably a perfluoropolyether compound having the following general formula (2).
+<chemistry id="chem0010" num="0010"><img id="ib0010" file="imgb0010.tif" wi="123" he="45" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0046" num="0046">The compound is characterized by having a divalent perfluoropolyether group represented by Rf<sup>2</sup> and at least three ethynyl (-C≡C-H) groups as terminal alkyne per molecule which are bonded to the both ends of the divalent perfluoropolyether group Rf<sup>2</sup> each via an amide bond (-CON=).</p>
+<p id="p0047" num="0047">In formula (2), R<sup>1</sup> and R<sup>2</sup> are each independently a divalent straight or branched aliphatic saturated hydrocarbon group or arylene group. Preferred examples of the divalent straight hydrocarbon group include straight aliphatic saturated hydrocarbon groups of 1 to 10 carbon atoms such as methylene, ethylene, propylene, butylene, octylene, and decylene. Preferred examples of the divalent branched hydrocarbon group include branched aliphatic saturated hydrocarbon groups of 2 to 10 carbon atoms such as 1-methylmethylene, 1-methylethylene, 1,2-dimethylethylene, 1-ethylpropylene, 1,2-diethylpropylene, and 1,2,3-triethylbutylene. Preferred examples of the arylene group include phenylene groups of the structure having the general formulae (4) to (6) and arylene groups of the structure having the general formulae (7) to (9) other than the above phenylene groups (that is, the arylene groups of the general formulae (7) to (9) refer to phenylene groups in which one hydrogen atom on the aromatic ring is substituted by ethynyl).<!-- EPO <DP n="22"> --></p>
+<p id="p0048" num="0048">Of these, divalent straight hydrocarbon groups of 1 to 4 carbon atoms, phenylene groups having the general formulae (4) to (6), and arylene groups having the general formulae (7) to (9) other than the above phenylene groups are more preferred.
+<chemistry id="chem0011" num="0011"><img id="ib0011" file="imgb0011.tif" wi="57" he="208" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0049" num="0049">Herein the broken line designates a valence bond.<!-- EPO <DP n="23"> --></p>
+<p id="p0050" num="0050">In formula (2), R<sup>1</sup> may have any one of the foregoing structures or a combination of two or more structures. R<sup>2</sup> has any one of the foregoing structures and may be the same as or different from R<sup>1</sup>.</p>
+<p id="p0051" num="0051">In formula (2), B is hydrogen, phenyl, a monovalent straight or branched aliphatic unsaturated hydrocarbon group or a group having the following general formula (3):
+<chemistry id="chem0012" num="0012"><img id="ib0012" file="imgb0012.tif" wi="65" he="19" img-content="chem" img-format="tif"/></chemistry>
+wherein R<sup>3</sup> is as defined for R<sup>1</sup> and R<sup>2</sup> in formula (2) and the broken line designates a valence bond.</p>
+<p id="p0052" num="0052">The monovalent straight or branched aliphatic unsaturated hydrocarbon group is preferably an aliphatic unsaturated bond-containing monovalent hydrocarbon group of 2 to 8 carbon atoms, more preferably of 2 to 6 carbon atoms, exclusive of the group having formula (3). Examples include ethynyl, and alkenyl groups such as vinyl, allyl, propenyl, isopropenyl, butenyl, isobutenyl, and hexenyl, with ethynyl being preferred.</p>
+<p id="p0053" num="0053">R<sup>3</sup> is preferably selected from divalent straight aliphatic saturated hydrocarbon groups of 1 to 10 carbon atoms, divalent branched aliphatic saturated hydrocarbon groups of 2 to 10 carbon atoms, and arylene groups having the general formulae (4) to (9) (that is, phenylene groups having the general formulae (4) to (6) and arylene groups having the general formulae (7) to (9) other than the above phenylene groups), more preferably divalent straight hydrocarbon groups of 1 to 10 carbon atoms and arylene groups having the general formulae (4) to (9), and even more preferably divalent straight hydrocarbon groups ranging from methylene (C1) to butylene (C4) and arylene groups having the general formulae (4) to (9). If R<sup>3</sup> is a straight aliphatic saturated hydrocarbon group of more than 10 carbon atoms, the fluorine-containing alkyne compound may be prone to swell in polar solvents and may not exert organic solvent resistance inherent to the main chain structure. Notably, while R<sup>3</sup> having any one of the foregoing structures may be the same as or different from R<sup>1</sup> and/or R<sup>2</sup>, R<sup>3</sup> is preferably the same as R<sup>1</sup> and/or R<sup>2</sup>.<!-- EPO <DP n="24"> --></p>
+<p id="p0054" num="0054">R<sup>1</sup> and R<sup>2</sup> on the left in formula (2), and R<sup>1</sup> and B (or R<sup>3</sup> when B is a group of formula (3)) on the right in formula (2) may be linked via a chemical bond (single or double bond) to form a cyclic structure attached to the corresponding nitrogen atom. In this case, examples of the structure bonded to the end of Rf<sup>2</sup> are shown below.
+<chemistry id="chem0013" num="0013"><img id="ib0013" file="imgb0013.tif" wi="99" he="93" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0055" num="0055">Herein the broken line designates a valence bond.<!-- EPO <DP n="25"> --></p>
+<p id="p0056" num="0056">In formula (2), Rf<sup>2</sup> (divalent perfluoropolyether group) may be the same as Rf<sup>1</sup> in formula (1).</p>
+<p id="p0057" num="0057">Examples of Rf<sup>2</sup> include groups having the following formulae (26) to (28) as well as the groups having the above formulae (14) to (21).
+<chemistry id="chem0014" num="0014"><img id="ib0014" file="imgb0014.tif" wi="87" he="73" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0058" num="0058">In formulae (26) and (27), n' and m' are each independently an integer in the range of n' ≥ 1, m' ≥ 1, and 2 ≤ n'+m' ≤ 150; n' is preferably 1 ≤ n' ≤ 50, more preferably 15 ≤ n' ≤ 40, m' is preferably 1 ≤ m' ≤ 50, more preferably 15 ≤ m' ≤ 40, and n'+m' is preferably 5 ≤ n'+m' ≤ 100, more preferably 35 ≤ n'+m' ≤ 80.</p>
+<p id="p0059" num="0059">In formula (28), z' is an integer of 1 to 150, preferably 1 to 100, and more preferably 6 to 80.<!-- EPO <DP n="26"> --></p>
+<p id="p0060" num="0060">Preferred examples of the linear fluorine-containing alkyne compound having formula (2) include compounds having the following formulae (29) and (30).
+<chemistry id="chem0015" num="0015"><img id="ib0015" file="imgb0015.tif" wi="155" he="84" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0061" num="0061">Herein m is an integer of 1 to 100, n is an integer of 1 to 100, and m+n is 2 to 200.</p>
+<p id="p0062" num="0062">In the perfluoropolyether-based rubber composition of the invention, component (b) is added in such an amount that the molar amount of total ethynyl (-C≡C-H) groups in component (b) is preferably 0.5 to 2.0 moles per mole of total azide groups in component (a) (i.e., such an amount that a molar ratio of ethynyl groups in component (b) to azide groups in component (a) is from 0.5 to 2.0), more preferably 0.6 to 1.5 moles, and even more preferably 0.8 to 1.2 moles per mole of total azide groups in component (a). With less than 0.5 mole of ethynyl groups in component (b) per mole of azide groups in component (a), the composition may become gel-like or liquid rather than forming a rubber-like product. With more than 2.0 moles of ethynyl groups in component (b) per mole of azide groups in component (a), the composition may also become gel-like or liquid rather than forming a rubber-like product.<!-- EPO <DP n="27"> --></p>
+<p id="p0063" num="0063">The perfluoropolyether compound having the general formula (2) used herein may be prepared, for example, by the following method. A dicarbonyl compound having the following general formula (2A) is reacted with an alkyne derivative having a primary amino group to prepare an intermediate product having the following general formula (2B). The intermediate product is in turn reacted with an alkyne derivative having a leaving group, yielding a perfluoropolyether compound (fluorine-containing alkyne compound) having formula (2).
+<chemistry id="chem0016" num="0016"><img id="ib0016" file="imgb0016.tif" wi="84" he="40" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0017" num="0017"><img id="ib0017" file="imgb0017.tif" wi="128" he="40" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0064" num="0064">R<sup>1</sup> and Rf<sup>2</sup> in formulae (2A) and (2B) are as defined for R<sup>1</sup> and Rf<sup>2</sup> in formula (2). Specifically, in formulae (2A) and (2B), R<sup>1</sup> is a divalent straight or branched aliphatic saturated hydrocarbon group or arylene group, and Rf<sup>2</sup> is a divalent perfluoropolyether group. X in formula (2A) is a halogen atom, preferably fluorine, chlorine, bromine or iodine, more preferably fluorine.<!-- EPO <DP n="28"> --></p>
+<p id="p0065" num="0065">One preferred method of preparing the perfluoropolyether compound (fluorine-containing alkyne compound) used herein includes preparing steps which are described below.</p>
+<heading id="h0015">(Step 1)</heading>
+<p id="p0066" num="0066">
+<chemistry id="chem0018" num="0018"><img id="ib0018" file="imgb0018.tif" wi="156" he="30" img-content="chem" img-format="tif"/></chemistry></p>
+<heading id="h0016">(Step 2)</heading>
+<p id="p0067" num="0067">
+<chemistry id="chem0019" num="0019"><img id="ib0019" file="imgb0019.tif" wi="155" he="33" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0068" num="0068">In the reaction formulae of Steps 1 and 2, R<sup>1</sup>, Rf<sup>2</sup>, and X are as defined for R<sup>1</sup>, Rf<sup>2</sup>, and X in formulae (2A) and (2B). R<sup>2</sup> is a divalent straight or branched aliphatic saturated hydrocarbon group or arylene group, which are as defined for R<sup>2</sup> in formula (2). B is hydrogen, phenyl, a monovalent straight or branched aliphatic unsaturated hydrocarbon group or a group having the general formula (3), preferably a group having the general formula (3). B is as defined for B in formula (2). D is a leaving group.</p>
+<p id="p0069" num="0069">In Step 1, the dicarbonyl compound having the general formula (2A) is reacted at its terminal C(=O)X groups with an alkyne derivative having a primary amino group to prepare an alkyne compound or intermediate product having the general formula (2B). The reaction is preferably performed in the presence of a base compound as exemplified by triethylamine, diisopropylethylamine or pyridine.<!-- EPO <DP n="29"> --></p>
+<p id="p0070" num="0070">Suitable primary amino-containing alkyne derivatives which can be used in the reaction include, for example, aminoalkynes such as propargylamine, 4-amino-1-butyne, 5-amino-1-pentyne, and 6-amino-1-hexyne, ethynylanilines such as 3-ethynylaniline, 4-ethynylaniline, and 2-ethynylaniline, and hydrochlorides thereof. The primary amino-containing alkyne derivative is preferably used in an amount of at least 1.2 equivalents per equivalent of the terminal C(=O)X groups in the dicarbonyl compound capped with C(=O)X groups at both ends of the molecular chain.</p>
+<p id="p0071" num="0071">For neutralizing the hydrogen halide which is formed during the reaction of the terminal C(=O)X groups in the dicarbonyl compound having the general formula (2A) with the primary amino-containing alkyne derivative, a base compound such as triethylamine, diisopropylethylamine or pyridine may be added to the reaction system of Step 1. When triethylamine is added, the amount of triethylamine is preferably at least 1.1 equivalents per equivalent of the terminal C(=O)X groups in the dicarbonyl compound capped with C(=O)X groups at both ends of the molecular chain. When the primary amino-containing alkyne derivative is a hydrochloride, however, an excess amount of triethylamine is necessary for neutralizing the hydrochloride. In this case, the amount of triethylamine used is preferably at least 2.2 equivalents per equivalent of the terminal C(=O)X groups in the dicarbonyl compound having the general formula (2A).</p>
+<p id="p0072" num="0072">When the primary amino-containing alkyne derivative is solid, it may be dissolved in a small amount of organic solvent and added dropwise to the system containing the dicarbonyl compound having the general formula (2A). Examples of the organic solvent which can be used herein include acetone, methyl ethyl ketone, tetrahydrofuran (THF), diethyl ether, dibutyl ether, 1,4-dioxane, ethyl acetate, and N,N-dimethylformamide. Preferred are THF, diethyl ether, dibutyl ether, and 1,4-dioxane.</p>
+<p id="p0073" num="0073">The reaction in Step 1 is preferably carried out in a nitrogen atmosphere. First, the primary amino-containing alkyne derivative is added dropwise to the system containing the dicarbonyl compound having the general formula (2A). The temperature during dropwise addition is up to 40°C, preferably up to 20°C. Since the reaction is exothermic immediately<!-- EPO <DP n="30"> --> after the start, the dropwise addition is interrupted and the system is cooled when the temperature rises too high. After the completion of dropwise addition of the primary amino-containing alkyne derivative, the mixture is aged at room temperature overnight or so. At the end of reaction, the formed triethylamine hydrogen halide salt and the unreacted primary amino-containing alkyne derivative having an ethynyl group are each removed. The remaining portion is finally treated with activated carbon, yielding an intermediate product having the general formula (2B).</p>
+<p id="p0074" num="0074">In Step 2, the alkyne compound having the general formula (2) is prepared by reacting the intermediate product having the general formula (2B) obtained in Step 1 with a leaving group-containing alkyne derivative (H-C≡C-R<sup>2</sup>-D) and a specific leaving group-containing compound (B-D). The leaving group D on the alkyne derivative is preferably halogeno, more preferably bromo, iodo or chloro.</p>
+<p id="p0075" num="0075">In the reaction, examples of the alkyne derivative having a leaving group D include C<sub>3</sub>-C<sub>6</sub> halogenated alkynes such as 3-bromo-1-propyne, 3-iodo-1-propyne, 4-bromo-1-butyne, 4-chloro-1-butyne, 4-iodo-1-butyne, 5-bromo-1-pentyne, 5-chloro-1-pentyne, 5-iodo-1-pentyne, 6-bromo-1-hexyne, 6-chloro-1-hexyne, and 6-iodo-1-hexyne. The leaving group-containing alkyne derivative is used in an amount of at least 1.2 equivalents, preferably at least 3.0 equivalents per equivalent of N-H in the intermediate product having the general formula (2B).</p>
+<p id="p0076" num="0076">The specific compound having a leaving group D is preferably an alkyne derivative having a leaving group D.</p>
+<p id="p0077" num="0077">In Step 2, a base compound such as potassium carbonate, cesium carbonate, sodium hydroxide, lithium hydroxide, potassium hydroxide, triethylamine or diisopropylethylamine may be added during the reaction of the intermediate product having the general formula (2B) with a leaving group-containing alkyne derivative and a specific compound having a leaving group. When added, the amount of the base compound is at least 1.1 equivalents, preferably at least 6 equivalents per equivalent of N-H in the alkyne compound or intermediate product having the general formula (2B).<!-- EPO <DP n="31"> --></p>
+<p id="p0078" num="0078">Also, a solvent may be used in the reaction of Step 2. Although the solvent used herein is not particularly limited, it is preferably a fluorochemical solvent or polar organic solvent. Suitable fluorochemical solvents include 1,3-bis(trifluoromethyl)benzene and trifluoromethylbenzene. Suitable polar organic solvents include acetone, methyl ethyl ketone, DMSO, and N,N-dimethylformamide.</p>
+<p id="p0079" num="0079">The reaction of Step 2 is preferably carried out in a nitrogen atmosphere. First, the intermediate product having the general formula (2B) obtained in Step 1 is reacted with an alkyne derivative having a leaving group D and a specific compound having a leaving group, preferably in the presence of potassium carbonate. The reaction temperature is preferably at least 50°C, more preferably at least 70°C. At the end of reaction, the reaction mixture is filtered to remove the potassium carbonate and concentrated in vacuum. By removing the unreacted alkyne derivative having a leaving group D, the unreacted specific compound having a leaving group, and by-products, there is obtained a perfluoropolyether compound (alkyne compound) having the general formula (2).</p>
+<p id="p0080" num="0080">The above method of preparing a fluorine-containing alkyne compound is successful in efficiently producing a perfluoropolyether compound having the general formula (2) without a need for complex preparing steps.</p>
+<p id="p0081" num="0081">Another preferred method of preparing the perfluoropolyether compound (fluorine-containing alkyne compound) used herein includes preparing steps which are described below.
+<chemistry id="chem0020" num="0020"><img id="ib0020" file="imgb0020.tif" wi="154" he="58" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="32"> --></p>
+<p id="p0082" num="0082">Perfluoropolyether compounds (fluorine-containing alkyne compounds) having formula (2), for example, a perfluoropolyether compound of formula (2) wherein R<sup>1</sup> and R<sup>2</sup> are an arylene group, but not a divalent straight or branched aliphatic saturated hydrocarbon group and B is phenyl or a group having formula (3), but not hydrogen or a monovalent straight or branched aliphatic unsaturated hydrocarbon group, with the proviso that R<sup>3</sup> is an arylene group, but not a divalent straight or branched aliphatic saturated hydrocarbon group and a perfluoropolyether compound of formula (2) wherein R<sup>1</sup> and R<sup>2</sup> on the left, and R<sup>1</sup> and B (or R<sup>3</sup> when B is a group of formula (3)) on the right are linked via a chemical bond (single or double bond) to form a cyclic structure attached to the corresponding nitrogen atom, may be obtained by reacting a dicarbonyl compound having the general formula (2A) with an alkyne derivative having R<sup>1</sup> and R<sup>2</sup> which are bonded to nitrogen and an alkyne derivative having R<sup>1</sup> and B which are bonded to nitrogen.</p>
+<p id="p0083" num="0083">The perfluoropolyether compound (fluorine-containing alkyne compound) having formula (2) can be prepared by the same method as the preparation method involving the step of forming the intermediate product having the general formula (2B) aside from using the alkyne derivatives defined above.</p>
+<p id="p0084" num="0084">The methods of preparing a perfluoropolyether compound having the general formula (2), described above, are merely exemplary and not limiting.</p>
+<p id="p0085" num="0085">As long as the perfluoropolyether-based rubber composition of the invention contains components (a) and (b), it is a heat curable perfluoropolyether-based rubber composition which is heat cured into a cured product.</p>
+<heading id="h0017">[Component (c)]</heading>
+<p id="p0086" num="0086">Preferably the perfluoropolyether-based rubber composition further comprises a transition metal catalyst as component (c). Inclusion of component (c) turns a perfluoropolyether-based rubber composition into a room temperature-curable perfluoropolyether-based rubber composition which can be cured at room temperature (23°C±10°C).<!-- EPO <DP n="33"> --></p>
+<p id="p0087" num="0087">Examples of component (c) include transition metal complexes, especially complexes containing elements such as copper, ruthenium, and silver, with complexes containing copper element being preferred. Suitable complexes containing copper element used herein include copper complexes containing halide ions, copper complexes of acetonitrile and phosphorus or boron-based anions, copper complexes containing a sulfate ion, and copper complexes containing an acetate ion. Preferred are copper iodide, copper chloride, copper bromide, copper acetate, copper sulfate, tetrakisacetonitrile copper hexafluorophosphate, and tetrakisacetonitrile copper tetrafluoroborate. Notably, component (c) used herein may be either anhydride or hydrate.</p>
+<p id="p0088" num="0088">Since component (c) is often available in powder form, it may be dissolved in a solvent prior to use, if necessary. Examples of the solvent used herein include polar organic solvents and water. The solvent is not particularly limited as long as component (c) is dissolved therein. Preferred examples of the polar organic solvent include dimethylsulfoxide (DMSO), N,N-dimethylformamide (DMF), acetonitrile, tetrahydrofuran (THF), and ethanol. DMSO and DMF are more preferred.</p>
+<p id="p0089" num="0089">Component (c) is added in such an amount that a ratio of the amount (mol) of transition metal in component (c) to the amount (mol/100 g) of azide groups in component (a) may preferably range from 1 to 300 mol%, more preferably from 5 to 200 mol%, and even more preferably from 30 to 150 mol%. As the amount of component (c) added is increased, the curing time is shorter and the cured product is more readily formed. However, if the amount of component (c) is too much, particles of component (c) may emerge on the surface of the cured product, detracting from the outer appearance. If the amount of component (c) is too small, crosslinking by way of triazole structure formation, which is necessary for curing, may hardly take place and the product may become gel-like or liquid.<!-- EPO <DP n="34"> --></p>
+<heading id="h0018">[Other components]</heading>
+<p id="p0090" num="0090">Other components which can be used herein include
+<ul id="ul0005" list-style="bullet" compact="compact">
+<li>substances for reducing component (c) (especially copper complexes or copper salts),</li>
+<li>nitrogen-based ligands for activating crosslinking reaction, and</li>
+<li>inorganic fillers .</li>
+</ul></p>
+<heading id="h0019">[Substance for reducing copper salt]</heading>
+<p id="p0091" num="0091">Huisgen cycloaddition reaction (click reaction) starts with reaction of monovalent copper with acetylene. However, since monovalent copper is often unstable, it is sometimes oxidized in part into inert divalent copper as by-product. This suggests that once a reducing agent is added to reduce the copper from divalent to monovalent form, the copper resumes a reactive catalyst function again. Suitable substances for reducing component (c), especially copper complex include sodium ascorbate and ascorbic acid. Since these substances are in powder or granular form, they may be dissolved in a suitable solvent prior to addition. The type of solvent is not particularly limited as long as the above compound is dissolvable therein. The compound is preferably added in an amount (mol) of 0.5 to 5.0 times, more preferably 1.0 to 3.0 times, and even more preferably 1.0 to 2.0 times the amount (mol) of component (c) added.</p>
+<heading id="h0020">[Nitrogen-based ligand for activating crosslinking reaction]</heading>
+<p id="p0092" num="0092">It is known that Huisgen cycloaddition reaction (click reaction) is activated by adding a nitrogen-based compound (ligand) which coordinates to the copper salt so that the reaction is completed in a shorter time. Therefore, the curing time can sometimes be reduced by adding the nitrogen-based compound (ligand) to the room temperature curable perfluoropolyether-based rubber composition comprising component (c). Suitable nitrogen-based ligands for activating crosslinking reaction include compounds having at least one skeleton selected from primary amines, secondary amines, tertiary amines, imidazoles, and triazoles. Preferred are tris[(1-benzyl-1H-1,2,3-triazol-4-yl)methyl]amine, tris(2-benzimidazolylmethyl)amine, tris(3-hydroxypropyltriazolylmethyl)amine, bathophenanthrolinedisulfonic acid disodium salt hydrate, N-(2-aminoethyl)thioacetamide trifluoroacetate, and L-histidine. Of these compounds, those in powder or granular form<!-- EPO <DP n="35"> --> may be dissolved in a suitable solvent prior to addition. The type of solvent is not particularly limited as long as the above compound is dissolvable therein. The compound is preferably added in an amount of 0.5 to 5.0 equivalents, more preferably 1.0 to 3.0 equivalents, and even more preferably 1.0 to 2.0 equivalents per mole of component (c) used.</p>
+<heading id="h0021">[Inorganic filler]</heading>
+<p id="p0093" num="0093">Examples of the inorganic filler include various powder metal oxides such as iron oxide, zinc oxide, titanium oxide, and alumina, various metal carbonates such as calcium carbonate, magnesium carbonate, and zinc carbonate, carbon black, and various silica-based fillers such as fumed silica (dry silica), wet silica (precipitated silica and sol-gel silica), ground silica, fused silica, crystalline silica (quartz powder), and diatomaceous earth. The addition of the inorganic filler enables to adjust the hardness and mechanical strength of a cured product of the inventive composition. Also, ion exchange resins such as hydrotalcite, hollow inorganic fillers, and rubber-like spherical fillers may be added.</p>
+<heading id="h0022">[Usage]</heading>
+<p id="p0094" num="0094">The perfluoroether-based rubber composition of the invention is obtained as one-part type composition by intimately mixing components (a) and (b). Alternatively, the composition may be constructed as two-part type composition wherein components (a) and (b) are kept separate. In this case, they may be mixed for use when needed. When the room temperature-curable perfluoropolyether-based rubber composition of the invention is constructed as two-part type composition wherein components (a) and (b) are kept separate, component (c) may be combined with either component (a) or component (b), or with both component (a) and component (b).</p>
+<heading id="h0023">[Cured product]</heading>
+<p id="p0095" num="0095">The perfluoropolyether-based rubber cured product of the invention may be obtained by heat curing the inventive perfluoropolyether-based rubber composition comprising components (a) and (b) in such amounts that the amount of ethynyl groups in component (b) is predetermined moles, specifically 0.5 to 2.0 moles per mole of total azide groups in component (a), at 100°C to 150°C preferably for about 1.5 to 9 hours.<!-- EPO <DP n="36"> --></p>
+<p id="p0096" num="0096">When component (c) is added to the composition in order that the composition cure at room temperature, the composition turns to a room temperature-curable composition, which cures at room temperature (5 to 40°C), preferably for about one day to about one week, into the inventive perfluoropolyether-based rubber cured product. While the inventive perfluoropolyether-based rubber composition which is curable at room temperature finds use in a wide variety of perfluoropolyether-based rubber applications, it is particularly useful in such applications as large-size parts which are too large to place in heating ovens or heat-sensitive parts that should not be heated because of their relationship to the surrounding members.</p>
+<p id="p0097" num="0097">Since the inventive perfluoropolyether-based rubber cured products exhibit improved heat resistance, low-temperature properties, solvent resistance, oil resistance, and chemical resistance, especially acid resistance, they are useful as articles which must be heat resistant and especially acid resistant.</p>
+<p id="p0098" num="0098">Specifically, the cured products may be used as rubber parts in automobiles where oil resistance is required, for example, diaphragms, valves, and sealing materials; rubber parts in chemical plants, for example, pump diaphragms, valves, hoses, oil seals, gaskets, and sealing materials such as tank conduit repairing sealing materials; rubber parts in inkjet printers; rubber parts in semiconductor manufacturing lines, for example, diaphragms, valves, and sealing parts such as gaskets in equipment which come in contact with chemicals, and valves requiring low friction and wear resistance; rubber parts in analytical and scientific instruments, for example, pump diaphragms, valves, and sealing parts (gaskets); rubber parts in medical equipment, for example, pumps, valves, and joints; rubber parts in residential environment; rubber parts in aircraft; tent coating materials; sealants; molded parts; extruded parts; coats; copier roll materials; electrical moisture-proof coating materials; sensor potting materials; fuel cell sealing materials; machine tool sealing materials; laminate rubber fabrics; and the like.<!-- EPO <DP n="37"> --></p>
+<heading id="h0024"><u>EXAMPLES</u></heading>
+<p id="p0099" num="0099">Examples and Comparative Examples are given below for illustrating the invention, but the invention is not limited thereto.</p>
+<heading id="h0025">(Synthesis Example A1)</heading>
+<p id="p0100" num="0100">A 3-L flask was charged with 1,045 g of a fluoropolymer based on the main chain of pentatriacontamer HFPO skeleton and having hydroxymethyl groups at both ends of the molecular chain (hydroxy concentration: 0.30×10<sup>-3</sup> mol/g), represented by the following formula (31).
+<chemistry id="chem0021" num="0021"><img id="ib0021" file="imgb0021.tif" wi="154" he="37" img-content="chem" img-format="tif"/></chemistry></p>
+<heading id="h0026">(Herein m+n ≈ 35)</heading>
+<p id="p0101" num="0101">Under nitrogen blanket, 389 g of perfluoro-1-butanesulfonyl fluoride and 46 g of triethylamine were added to the flask and stirring was started. Then, the internal temperature of the system rose to 30°C at the highest. After about 20 hours of stirring, hexafluoro-m-xylene (HFMX) and water were added. The HFMX layer was recovered by separatory operation. Acetone was added to the HFMX layer, from which the product precipitated. The product was collected and concentrated in vacuum (267 Pa) at 100°C for 1 hour, yielding 1,128 g of a colorless clear fluoropolymer having the following formula (32).
+<chemistry id="chem0022" num="0022"><img id="ib0022" file="imgb0022.tif" wi="154" he="33" img-content="chem" img-format="tif"/></chemistry></p>
+<heading id="h0027">(Herein m+n ≈ 35)</heading><!-- EPO <DP n="38"> -->
+<p id="p0102" num="0102">A fluoropolymer having formula (32) was separately prepared in the same manner as above. A portion (1.0105 g) of the fluoropolymer was sampled and mixed with 0.0535 g of toluene and 4.0084 g of HFMX. The resulting solution was analyzed by <sup>1</sup>H-NMR, from which the -OSO<sub>2</sub>C<sub>4</sub>F<sub>9</sub> content of the polymer having formula (32) was computed to be 0.278 × 10<sup>-3</sup> mol/g.<br/>
+<sup>1</sup>H-NMR<br/>
+δ 4.69 (m, -CH<sub>2</sub>)</p>
+<p id="p0103" num="0103">A 10-L flask was charged with 1,128 g of the fluoropolymer having formula (32) and 1,692 g of DMSO and purged with nitrogen for 10 minutes. Under nitrogen blanket, 1,692 g of HFMX and 60 g of sodium azide were added to the flask. The system was heated at 110°C and stirring was started. After 66.5 hours of stirring, water was added to quench the reaction. HFMX was added to the system, from which the HFMX layer was recovered by separatory operation. Acetone was added to the recovered HFMX layer for precipitation. The precipitated product was collected, filtered, and concentrated in vacuum (267 Pa) at 100°C for about 1 hour. To the concentrated product, 1,018 g of a fluorochemical solvent (trade name PF-5060 from 3M Company) and 51 g of activated carbon (SHIRASAGI AS from Osaka Gas Chemicals Co., Ltd.) were added. The mixture was stirred at room temperature for 1 hour, filtered to remove the activated carbon, and concentrated in vacuum (267 Pa) at 100°C for about 1 hour, yielding 960 g of a colorless clear azide-containing fluoropolymer having the following formula (33) (number average molecular weight: 6,114).
+<chemistry id="chem0023" num="0023"><img id="ib0023" file="imgb0023.tif" wi="153" he="40" img-content="chem" img-format="tif"/></chemistry>
+(Herein m+n ≈ 35)<!-- EPO <DP n="39"> --></p>
+<p id="p0104" num="0104">A portion (1.0083 g) of the azide-containing fluoropolymer having formula (33) was sampled and mixed with 0.0508 g of toluene and 4.0031 g of HFMX. The resulting solution was analyzed by <sup>1</sup>H-NMR, from which the azide content of the fluoropolymer having formula (33) was computed to be 0.274×10<sup>-3</sup> mol/g.<br/>
+<sup>1</sup>H-NMR<br/>
+δ 3.56 (m, -CH<sub>2</sub>)</p>
+<heading id="h0028">(Synthesis Example A2)</heading>
+<p id="p0105" num="0105">The same procedure as in Synthesis Example A1 was repeated except that 1,045 g of a fluoropolymer of formula (31) (hydroxy concentration: 0.13×10<sup>-3</sup> mol/g) in which the number of repeating HFPO units in its main chain was 94 units (m+n = ∼94) was used instead of 1,045 g of the fluoropolymer based on the main chain of pentatriacontamer HFPO skeleton (m+n = ∼35), represented by formula (31), in Synthesis Example A1. There was obtained 1,050 g of a colorless clear polymer having formula (34).
+<chemistry id="chem0024" num="0024"><img id="ib0024" file="imgb0024.tif" wi="155" he="34" img-content="chem" img-format="tif"/></chemistry>
+(Herein m+n ≈ 94)</p>
+<p id="p0106" num="0106">The same procedure as in Synthesis Example A1 was repeated except that 1,050 g of the resulting polymer having formula (34) was azidized in a mixture of 2,100 g of DMSO and 1,050 g of HFMX, yielding an azide-containing fluoropolymer having the following formula (35) (colorless clear, number average molecular weight: 15,860, azide content: 0.116×10<sup>-1</sup> mol/g).<!-- EPO <DP n="40"> -->
+<chemistry id="chem0025" num="0025"><img id="ib0025" file="imgb0025.tif" wi="153" he="38" img-content="chem" img-format="tif"/></chemistry>
+(Herein m+n ≈ 94)</p>
+<heading id="h0029">(Synthesis Example A3)</heading>
+<p id="p0107" num="0107">A 3-L flask was charged with 1,023 g of a fluoropolymer based on the main chain of perfluoropolyether groups and having hydroxymethyl groups at both ends of the molecular chain (hydroxy concentration: 1.19×10<sup>-3</sup> mol/g), represented by the following formula (36).<br/>
+[Chem. 29]<br/>
+<br/>
+        HO-CH<sub>2</sub>-CF<sub>2</sub>-(OC<sub>2</sub>F<sub>4</sub>)<sub>n</sub>-(OCF<sub>2</sub>)<sub>m</sub>-O-CF<sub>2</sub>-CH<sub>2</sub>-OH     (36)<br/>
+<br/>
+(Herein m+n ≈ 18)</p>
+<p id="p0108" num="0108">Under nitrogen blanket, 736 g of perfluoro-1-butanesulfonyl fluoride and 148 g of triethylamine were added to the flask and stirring was started. After about 19.5 hours of stirring, HFMX and water were added, from which the HFMX layer was recovered by separatory operation. The HFMX layer was dried over magnesium sulfate and filtered. The filtrate was concentrated in vacuum (267 Pa) at 100°C for 1 hour, yielding 1,230 g of a colorless clear fluoropolymer having the following formula (37).<br/>
+[Chem. 30]<br/>
+<br/>
+        OSO<sub>2</sub>C<sub>4</sub>F<sub>9</sub>-CH<sub>2</sub>-CF<sub>2</sub>-(OC<sub>2</sub>F<sub>4</sub>)<sub>n</sub>-(OCF<sub>2</sub>)<sub>m</sub>-O-CF<sub>2</sub>-CH<sub>2</sub>-OSO<sub>2</sub>C<sub>4</sub>F<sub>9</sub>     (37)<br/>
+<br/>
+(Herein m+n ≈ 18)<!-- EPO <DP n="41"> --></p>
+<p id="p0109" num="0109">As in Synthesis Example A1, the fluoropolymer having formula (37) was analyzed by <sup>1</sup>H-NMR, from which the -OSO<sub>2</sub>C<sub>4</sub>F<sub>9</sub> content of the polymer having formula (37) was computed to be 1.10×10<sup>-3</sup> mol/g.</p>
+<p id="p0110" num="0110">A 10-L flask was charged with 1,208 g of the fluoropolymer having formula (37) and 1,812 g of DMSO and purged with nitrogen for 10 minutes. Under nitrogen blanket, 1,812 g of HFMX and 156 g of sodium azide were added to the flask. The system was heated at 110°C and stirring was started. After 21 hours of stirring, water was added to quench the reaction. A fluorochemical solvent (trade name PF-5060 from 3M Company) was added, from which the PF-5060 layer was recovered by separatory operation. Acetone was added to the recovered PF-5060 layer for washing the PF-5060 layer. The PF-5060 layer as filtrate (1) and the acetone layer as filtrate (2) were separately recovered. Filtrate (1) was dried over anhydrous magnesium sulfate, filtered, and concentrated in vacuum (267 Pa) at 100°C for 1 hour, yielding a colorless clear oil as product (1). Filtrate (2) was concentrated in vacuum (2,670 Pa) at 50°C for 1.5 hours. To the residue, 1,000 g of PF-5060 and 100 g of acetone were added. The PF-5060 layer was recovered by separatory operation. The recovered PF-5060 layer was dried over anhydrous magnesium sulfate, filtered, and concentrated in vacuum (267 Pa) at 100°C for 1 hour, yielding a colorless clear oil as product (2). The resulting products (1) and (2) were combined, which yielded 988 g of an azide-containing fluoropolymer having the following formula (38) in colorless clear form (number average molecular weight: 1,722, azide content: 1.08×10<sup>-3</sup> mol/g).
+<chemistry id="chem0026" num="0026"><img id="ib0026" file="imgb0026.tif" wi="150" he="28" img-content="chem" img-format="tif"/></chemistry>
+(Herein m+n ≈ 18)<!-- EPO <DP n="42"> --></p>
+<heading id="h0030">(Synthesis Example B1)</heading>
+<heading id="h0031">Step 1:</heading>
+<p id="p0111" num="0111">A 300-mL flask was charged with 209 g of perfluoropolyether having the following formula (39) (C(=O)F content: 0.300×10<sup>-3</sup> mol/g) and purged with nitrogen. The system was cooled at a temperature of ∼10°C. In a nitrogen atmosphere, a solution of 8.80 g (0.075 mol) of 4-ethylaniline and 7.00 g (0.069 mol) of triethylamine in tetrahydrofuran (THF) was added dropwise to the system over 30 minutes such that the system temperature might not exceed 18°C. At the end of dropwise addition, stirring was continued at room temperature overnight.
+<chemistry id="chem0027" num="0027"><img id="ib0027" file="imgb0027.tif" wi="153" he="39" img-content="chem" img-format="tif"/></chemistry>
+(Herein m+n ≈ 35)</p>
+<p id="p0112" num="0112">The reaction product was then dissolved in 70 g of 1,3-bis(trifluoromethyl)benzene. The solution was washed with 70 g of water, then with 100 g of acetone. The solvent was distilled off in vacuum. The reaction product was then dissolved in 209 g of a fluorochemical solvent (trade name PF-5060 from 3M Company), to which 10.5 g of activated carbon (trade name SHIRASAGI AS from Osaka Gas Chemicals Co., Ltd.) was added. The mixture was stirred at room temperature for 1 hour. After the activated carbon was filtered off, the solvent was distilled off in vacuum, yielding 202 g of a product having the following formula (40) in orange oil form.<!-- EPO <DP n="43"> -->
+<chemistry id="chem0028" num="0028"><img id="ib0028" file="imgb0028.tif" wi="156" he="33" img-content="chem" img-format="tif"/></chemistry>
+(Herein m+n ≈ 35)</p>
+<p id="p0113" num="0113">On <sup>1</sup>H-NMR analysis, the content of -C≡C-H assigned to the alkyne having formula (40) obtained in Step 1 was computed to be 0.277×10<sup>-3</sup> mol/g.</p>
+<p id="p0114" num="0114">The <sup>1</sup>H-NMR spectrum of the product obtained in Step 1: δ 8.18 (s, -NH-, 1H), δ 7.69-7.04 (m, phenyl, 4H), δ 2.80 (s, -C≡CH, 1H)<br/>
+From the data, the molecular chain end structure of the product obtained in Step 1 was identified compliant with the molecular chain end structure of the perfluoroether of alkyne compound having formula (40).</p>
+<heading id="h0032">Step 2:</heading>
+<p id="p0115" num="0115">A 300-mL flask was charged with a mixture of 100 g of the alkyne of the general formula (40) (H value: 0.277×10<sup>-3</sup> mol/g) obtained in Step 1, 9.9 mL of a toluene solution of 3-bromo-1-propyne (9.2 mol/L, 0.091 mol), and 23 g (0.17 mol) of potassium carbonate. After the flask was blanketed with nitrogen, 200 g of acetone was added thereto. Stirring was continued overnight under reflux conditions (temperature 77°C). After the completion of reaction, the reaction mixture was diluted with 100 g of 1,3-bis(trifluoromethyl)benzene and filtered to remove the potassium carbonate. The solvent was distilled off in vacuum. The reaction product thus obtained was dissolved in 200 g of a fluorochemical solvent (trade name PF-5060 from 3M Company). The solution was washed with 80 g of acetone. By distilling off the solvent in vacuum, 100 g of a compound having the following formula (41) was obtained in orange oil form.</p>
+<p id="p0116" num="0116">Steps 1 and 2 were repeated twice, obtaining 200 g, in total, of the compound having the following formula (41) in orange oil form.<!-- EPO <DP n="44"> -->
+<chemistry id="chem0029" num="0029"><img id="ib0029" file="imgb0029.tif" wi="154" he="67" img-content="chem" img-format="tif"/></chemistry>
+(Herein m+n ≈ 35)</p>
+<p id="p0117" num="0117">On <sup>1</sup>H-NMR analysis, the -C≡C-H value (i.e., ethynyl content) assigned to the alkyne structure in the polymer having formula (41) obtained in Step 2 was computed to be 0.491 × 10<sup>-3</sup> mol/g.</p>
+<p id="p0118" num="0118">The <sup>1</sup>H-NMR spectrum of the product obtained in Step 2: δ 7.58-7.01 (m, phenyl, 4H), δ 4.41 (dd, J = 22 Hz, 8 Hz, N-CH<sub>2</sub>-, 2H), δ 2.84 (s, C(sp2)-C≡CH, 1H), δ 2.01 (s, C(sp3)-C≡CH, 1H)<br/>
+From the data, the molecular chain end structure of the product obtained in Step 2 was identified compliant with the molecular chain end structure of the perfluoroether of alkyne compound having formula (41).</p>
+<heading id="h0033">(Synthesis Example B2)</heading>
+<p id="p0119" num="0119">The same procedure as in Synthesis Example B1 was repeated except that 209 g of perfluoropolyether of formula (39) (C(=O)F concentration: 0.127×10<sup>-3</sup> mol/g) in which the number of repeating HFPO units in its main chain was 94 units (m+n ≈ 94) was used instead of 209 g of perfluoropolyether based on the main chain of pentatriacontamer HFPO skeleton (m+n ≈ 35), represented by formula (39), in Synthesis Example B1 and stirring in Step 2 was performed in acetonitrile under reflux conditions (temperature 100°C) for 3.5 days.<!-- EPO <DP n="45"> --> There was obtained a compound having the following formula (42) (ethynyl content: 0.247x 10<sup>-3</sup> mol/g).
+<chemistry id="chem0030" num="0030"><img id="ib0030" file="imgb0030.tif" wi="155" he="68" img-content="chem" img-format="tif"/></chemistry></p>
+<heading id="h0034">(Herein m+n ≈ 94)</heading>
+<heading id="h0035">[Example 1]</heading>
+<p id="p0120" num="0120">A plastic container was charged with 65.0 g of the compound having the following formula (33) (azide content: 0.274×10<sup>-3</sup> mol/g) obtained in Synthesis Example A1 and 36.3 g of the compound having the following formula (41) (ethynyl content: 0.491×10<sup>-3</sup> mol/g) obtained in Synthesis Example B 1, which were mixed until uniform, followed by degassing in vacuum.
+<chemistry id="chem0031" num="0031"><img id="ib0031" file="imgb0031.tif" wi="153" he="40" img-content="chem" img-format="tif"/></chemistry>
+(Herein m+n ≈ 35)<!-- EPO <DP n="46"> -->
+<chemistry id="chem0032" num="0032"><img id="ib0032" file="imgb0032.tif" wi="154" he="67" img-content="chem" img-format="tif"/></chemistry>
+(Herein m+n ≈ 35)</p>
+<p id="p0121" num="0121">The resulting composition was cast into a stainless steel mold of 2 mm deep and press cured at 150°C for 4 hours, yielding a pale orange clear rubber-like cured product of 2 mm thick.</p>
+<heading id="h0036">[Example 2]</heading>
+<p id="p0122" num="0122">A plastic container was charged with 75.4 g of the compound having the following formula (35) (azide content: 0.116×10<sup>-3</sup> mol/g) obtained in Synthesis Example A2 and 17.8 g of the compound having the above formula (41) obtained in Synthesis Example B1, which were mixed until uniform, followed by degassing in vacuum.
+<chemistry id="chem0033" num="0033"><img id="ib0033" file="imgb0033.tif" wi="155" he="39" img-content="chem" img-format="tif"/></chemistry>
+(Herein m+n ≈ 94)</p>
+<p id="p0123" num="0123">The resulting composition was cast into a stainless steel mold of 2 mm deep and press cured at 150°C for 8.5 hours, yielding a pale orange clear rubber-like cured product of 2 mm thick.<!-- EPO <DP n="47"> --></p>
+<heading id="h0037">[Example 3]</heading>
+<p id="p0124" num="0124">A plastic container was charged with 42.9 g of the compound having the above formula (33) obtained in Synthesis Example A1 and 47.6 g of the compound having the following formula (42) (ethynyl content: 0.247×10<sup>-3</sup> mol/g) obtained in Synthesis Example B2, which were mixed until uniform, followed by degassing in vacuum.
+<chemistry id="chem0034" num="0034"><img id="ib0034" file="imgb0034.tif" wi="154" he="64" img-content="chem" img-format="tif"/></chemistry></p>
+<heading id="h0038">(Herein m+n ≈ 94)</heading>
+<p id="p0125" num="0125">The resulting composition was cast into a stainless steel mold of 2 mm deep and press cured at 150°C for 6 hours, yielding a pale orange clear rubber-like cured product of 2 mm thick.</p>
+<heading id="h0039">[Example 4]</heading>
+<p id="p0126" num="0126">A plastic container was charged with 17.2 g of the compound having the following formula (38) (azide content: 1.08×10<sup>-3</sup> mol/g) obtained in Synthesis Example A3 and 37.8 g of the compound having the above formula (41) obtained in Synthesis Example B 1, which were mixed until uniform, followed by degassing in vacuum.
+<chemistry id="chem0035" num="0035"><img id="ib0035" file="imgb0035.tif" wi="150" he="26" img-content="chem" img-format="tif"/></chemistry></p>
+<heading id="h0040">(Herein m+n ≈ 18)</heading>
+<p id="p0127" num="0127">The resulting composition was cast into a stainless steel mold of 2 mm deep and press cured at 150°C for 1.5 hours, yielding a pale orange clear rubber-like cured product of 2 mm thick.<!-- EPO <DP n="48"> --></p>
+<heading id="h0041">[Example 5]</heading>
+<p id="p0128" num="0128">A plastic container was charged with 34.0 g of the compound having the above formula (33) obtained in Synthesis Example A1 and 19.0 g of the compound having the above formula (41) obtained in Synthesis Example B1, which were mixed until uniform. To the mixture, 3.59 g of 25 wt% solution of copper iodide in DMSO (a ratio of the copper amount (mol) to the azide content (mol/100 g) in the compound of formula (33): 50 mol%) was added, followed by further mixing. After centrifugal degassing, the resulting composition was cast into a stainless steel mold of 2 mm deep and allowed to cure at 23°C and humidity 60% for one week, yielding a brown rubber-like cured product.</p>
+<heading id="h0042">[Comparative Example 1]</heading>
+<p id="p0129" num="0129">625 g of a compound having the following formula (43) (vinyl content: 0.117×10<sup>-3</sup> mol/g), 145 g of a compound having the following formula (44) (SiH content: 0.606×10<sup>-3</sup> mol/g), 1.56 g of a compound having the following general formula (45), and 0.63 g of a toluene solution of platinum-divinyltetramethyldisiloxane complex (platinum content 0.5 mol%) were mixed until uniform and then mixed in vacuum for 10 minutes.
+<chemistry id="chem0036" num="0036"><img id="ib0036" file="imgb0036.tif" wi="154" he="27" img-content="chem" img-format="tif"/></chemistry>
+(Herein a+b ≈ 97)
+<chemistry id="chem0037" num="0037"><img id="ib0037" file="imgb0037.tif" wi="154" he="38" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0038" num="0038"><img id="ib0038" file="imgb0038.tif" wi="154" he="30" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="49"> --></p>
+<p id="p0130" num="0130">The resulting composition was cast into a stainless steel mold of 2 mm deep and press cured at 150°C for 10 minutes. The resulting sheet was taken out from the mold and post-cured at 150°C for 1 hour, yielding a colorless clear rubber-like compound.</p>
+<heading id="h0043">[Comparative Example 2]</heading>
+<p id="p0131" num="0131">600 g of a compound having the following formula (46) (vinyl content: 0.122×10<sup>-3</sup> mol/g), 145 g of the compound having the above formula (44), 1.50 g of the compound (reaction inhibitor) having the general formula (45), and 0.63 g of a toluene solution of platinum-divinyltetramethyldisiloxane complex (platinum content 0.5 mol%) were mixed until uniform and then mixed in vacuum for 10 minutes.
+<chemistry id="chem0039" num="0039"><img id="ib0039" file="imgb0039.tif" wi="154" he="45" img-content="chem" img-format="tif"/></chemistry>
+(Herein a+b ≈ 95)</p>
+<p id="p0132" num="0132">The resulting composition was cast into a stainless steel mold of 2 mm deep and press cured at 150°C for 10 minutes. The resulting sheet was taken out from the mold and post-cured at 150°C for 1 hour, yielding a colorless clear rubber-like cured product.</p>
+<p id="p0133" num="0133">Samples of the cured products (elastomers) prepared in Examples 1 to 5 and Comparative Examples 1 and 2 were measured for rubber properties according to JIS K6250, K6251, and K6253. The results are shown in Table 1.<!-- EPO <DP n="50"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>[Table 1]</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="39mm"/>
+<colspec colnum="2" colname="col2" colwidth="46mm"/>
+<colspec colnum="3" colname="col3" colwidth="37mm"/>
+<colspec colnum="4" colname="col4" colwidth="38mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">Durometer hardness (type A)</entry>
+<entry align="center" valign="middle">Tensile strength (MPa)</entry>
+<entry align="center" valign="middle">Elongation at break (%)</entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">Example 1</entry>
+<entry align="center" valign="middle">22</entry>
+<entry align="center" valign="middle">0.8</entry>
+<entry align="center" valign="middle">320</entry></row>
+<row>
+<entry valign="middle">Example 2</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">1.0</entry>
+<entry align="center" valign="middle">400</entry></row>
+<row>
+<entry valign="middle">Example 3</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">1.2</entry>
+<entry align="center" valign="middle">420</entry></row>
+<row>
+<entry valign="middle">Example 4</entry>
+<entry align="center" valign="middle">19</entry>
+<entry align="center" valign="middle">0.8</entry>
+<entry align="center" valign="middle">320</entry></row>
+<row>
+<entry valign="middle">Example 5</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">1.4</entry>
+<entry align="center" valign="middle">180</entry></row>
+<row>
+<entry valign="middle">Comparative Example 1</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">0.4</entry>
+<entry align="center" valign="middle">210</entry></row>
+<row>
+<entry valign="middle">Comparative Example 2</entry>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">0.4</entry>
+<entry align="center" valign="middle">160</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0134" num="0134">As seen from the results in Table 1, the cured products in Examples 1 to 4 which had been prepared by heating had satisfactory rubber properties. The cured product in Example 5 having copper iodide added as component (c) also displayed satisfactory rubber properties.</p>
+<p id="p0135" num="0135">The cured product samples were further evaluated by the following tests.</p>
+<heading id="h0044">(Heat resistance test)</heading>
+<p id="p0136" num="0136">The cured product samples obtained in Examples 1 to 4 and Comparative Examples 1 and 2 were subjected to a heat aging resistance test at 150°C (air-oven aging test: type A durometer hardness, tensile strength, and elongation at break) according to JIS K6257. The results are shown in <figref idref="f0001 f0002">FIGS. 1 to 3</figref>. As used herein, the term "hardness change" refers to a change of hardness from the hardness before heating.</p>
+<p id="p0137" num="0137">The cured product samples (elastomers) in Comparative Examples 1 and 2 exhibited relatively stable heat aging properties on heating at 150°C. The cured product samples in Examples 1 to 4 showed an increase of hardness change and an increase of tensile strength due to the accelerated crosslinking reaction at the initial stage of the test (after 200 hours from the start) as compared with the cured product samples in Comparative Examples 1 and 2.<!-- EPO <DP n="51"> --> However, the increases of hardness change and tensile strength were slight, and moreover, the physical properties of the samples in Examples 1 to 4 followed stable transitions at high levels after that time as compared with the samples in Comparative Examples 1 and 2. These results indicate that the rubber cured products in Examples 1 to 4 have sufficient heat resistance.</p>
+<heading id="h0045">(Low-temperature property test)</heading>
+<p id="p0138" num="0138">The cured product samples obtained in Examples 1 to 4 and Comparative Examples 1 and 2 were measured for glass transition temperature (Tg) by differential scanning calorimetry (DSC). The cured products in Examples 1, 2, and 3 had a Tg of -50°C and the cured product in Example 4 had a Tg of -90°C. These values are by no means inferior to the Tg (-54°C) of the cured products in Comparative Examples 1 and 2. It was demonstrated that the cured products obtained from the compositions of Examples 1 to 4 had excellent low-temperature properties.</p>
+<heading id="h0046">(Organic solvent resistance test)</heading>
+<p id="p0139" num="0139">The cured product samples obtained in Examples 1 to 4 and Comparative Examples 1 and 2 were subjected to an immersion test (immersion time: 70 hours) in various organic solvents according to JIS K6258. A change (%) of volume before and after immersion was measured for evaluating solvent swell resistance. The results are shown in Table 2.
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>[Table 2]</title>
+<tgroup cols="8">
+<colspec colnum="1" colname="col1" colwidth="38mm"/>
+<colspec colnum="2" colname="col2" colwidth="23mm"/>
+<colspec colnum="3" colname="col3" colwidth="17mm"/>
+<colspec colnum="4" colname="col4" colwidth="40mm"/>
+<colspec colnum="5" colname="col5" colwidth="27mm"/>
+<colspec colnum="6" colname="col6" colwidth="21mm"/>
+<colspec colnum="7" colname="col7" colwidth="17mm"/>
+<colspec colnum="8" colname="col8" colwidth="17mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col8" align="right" valign="top">[Volume change (%)]</entry></row>
+<row>
+<entry morerows="1" align="center" valign="middle"/>
+<entry namest="col2" nameend="col8" align="center" valign="middle">Organic solvent</entry></row>
+<row>
+<entry align="center" valign="middle">Ethyl acetate</entry>
+<entry align="center" valign="middle">Acetone</entry>
+<entry align="center" valign="middle">N,N-dimethylformamide</entry>
+<entry align="center" valign="middle">tetrahydrofuran</entry>
+<entry align="center" valign="middle">Chloroform</entry>
+<entry align="center" valign="middle">Hexane</entry>
+<entry align="center" valign="middle">Toluene</entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">Example 1</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry valign="middle">Example 2</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry valign="middle">Example 3</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry valign="middle">Example 4</entry>
+<entry align="center" valign="middle">11</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry></row>
+<row>
+<entry valign="middle">Comparative Example 1</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">5</entry></row>
+<row>
+<entry valign="middle">Comparative Example 2</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">5</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="52"> --></p>
+<p id="p0140" num="0140">The results in Table 2 demonstrate that the cured products obtained in Examples 1 to 4 have excellent solvent swell resistance like the cured products in Comparative Examples 1 and 2.</p>
+<heading id="h0047">(Acid resistance test)</heading>
+<p id="p0141" num="0141">The cured products obtained in Examples 1 to 4 were subjected to immersion tests at 40°C in 98 wt% conc. sulfuric acid and 40 wt% conc. nitric acid. A hardness change from the hardness before immersion was measured for evaluating sulfuric acid resistance and nitric acid resistance. The results are shown in <figref idref="f0003">FIG. 4</figref> (sulfuric acid resistance) and <figref idref="f0003">FIG. 5</figref> (nitric acid resistance).</p>
+<p id="p0142" num="0142">The cured product obtained in Comparative Example 1 turned oily due to decomposition of the polymer after one week of immersion in sulfuric acid. For this reason, Comparative Example 1 is not shown in <figref idref="f0003">FIGS 4 and 5</figref>. Also in the immersion test in nitric acid, the cured product in Comparative Example 1 showed a tendency of softening degradation as a result of the polymer being decomposed. The cured product in Comparative Example 2 showed an increase of hardness change especially in the immersion test in nitric acid.</p>
+<p id="p0143" num="0143">On the other hand, the cured products in Examples 1 to 4 showed no substantial change of hardness until 1,000 hours of immersion in either of sulfuric acid and nitric acid. These results indicate that the cured products obtained in Examples 1 to 4 have improved acid resistance.</p>
+<p id="p0144" num="0144">While the invention has been described with reference to the foregoing embodiments, the invention is not limited thereto. Various other embodiments having additions, modifications, and eliminations may occur to persons skilled in the art. Any embodiments exerting equivalent functions and results are believed to be within the spirit and scope of the invention.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="53"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A perfluoropolyether-based rubber composition comprising:
+<claim-text>(a) a linear perfluoropolyether compound containing at least two azide groups per molecule and a divalent perfluoroalkylether structure in its main chain, and having a number average molecular weight of 1,000 to 100,000 and</claim-text>
+<claim-text>(b) a linear perfluoropolyether compound containing at least three ethynyl groups per molecule.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The perfluoropolyether-based rubber composition of claim 1 wherein component (a) is a compound having the following general formula (1):<br/>
+[Chem. 1]<br/>
+<br/>
+        N<sub>3</sub>-A-Rf<sup>1</sup>-A-N<sub>3</sub>     (1)<br/>
+<br/>
+wherein A is a divalent straight aliphatic saturated hydrocarbon group of 1 to 6 carbon atoms and Rf<sup>1</sup> is a divalent perfluoropolyether group.<!-- EPO <DP n="54"> --></claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The perfluoropolyether-based rubber composition of claim 1 or 2 wherein component (b) is a compound having the following general formula (2):
+<chemistry id="chem0040" num="0040"><img id="ib0040" file="imgb0040.tif" wi="123" he="50" img-content="chem" img-format="tif"/></chemistry>
+wherein R<sup>1</sup> and R<sup>2</sup> are each independently a divalent straight or branched aliphatic saturated hydrocarbon group or arylene group, B is hydrogen, phenyl, a monovalent straight or branched aliphatic unsaturated hydrocarbon group or a group having the following general formula (3):
+<chemistry id="chem0041" num="0041"><img id="ib0041" file="imgb0041.tif" wi="65" he="26" img-content="chem" img-format="tif"/></chemistry>
+wherein R<sup>3</sup> is a divalent straight or branched aliphatic saturated hydrocarbon group or arylene group and the broken line designates a valence bond, and Rf<sup>2</sup> is a divalent perfluoropolyether group, with the proviso that R<sup>1</sup> and R<sup>2</sup> on the left in formula (2), and R<sup>1</sup> and B (or R<sup>3</sup> when B is a group of formula (3)) on the right in formula (2) may be linked via a single or double bond to form a cyclic structure attached to the corresponding nitrogen atom.<!-- EPO <DP n="55"> --></claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The perfluoropolyether-based rubber composition of claim 3 wherein R<sup>1</sup> and R<sup>2</sup> in the general formula (2) each are a divalent straight aliphatic saturated hydrocarbon group of 1 to 10 carbon atoms, a divalent branched aliphatic saturated hydrocarbon group of 2 to 10 carbon atoms, or an arylene group having any one of the following general formulae (4) to (9):
+<chemistry id="chem0042" num="0042"><img id="ib0042" file="imgb0042.tif" wi="56" he="197" img-content="chem" img-format="tif"/></chemistry>
+wherein the broken line designates a valence bond.<!-- EPO <DP n="56"> --></claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The perfluoropolyether-based rubber composition of claim 3 or 4 wherein R<sup>3</sup> in the general formula (3) is a divalent straight aliphatic saturated hydrocarbon group of 1 to 10 carbon atoms, a divalent branched aliphatic saturated hydrocarbon group of 2 to 10 carbon atoms, or an arylene group having any one of the following general formulae (4) to (9):
+<chemistry id="chem0043" num="0043"><img id="ib0043" file="imgb0043.tif" wi="55" he="197" img-content="chem" img-format="tif"/></chemistry>
+wherein the broken line designates a valence bond.<!-- EPO <DP n="57"> --></claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The perfluoropolyether-based rubber composition of any one of claims 1 to 5 which is heat curable.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The perfluoropolyether-based rubber composition of any one of claims 1 to 5, further comprising (c) a transition metal catalyst.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>The perfluoropolyether-based rubber composition of claim 7 which is room temperature curable.</claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>A perfluoropolyether-based rubber cured product which is formed by curing the perfluoropolyether-based rubber composition of any one of claims 1 to 8.</claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>An article comprising the cured product of claim 9.</claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>The article of claim 10 which is a rubber part for use in an automobile, chemical plant, inkjet printer, semiconductor manufacturing line, analytical or scientific instrument, medical equipment, residential environment or aircraft.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="58"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="154" he="124" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="59"> -->
+<figure id="f0002" num="2,3"><img id="if0002" file="imgf0002.tif" wi="147" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="60"> -->
+<figure id="f0003" num="4,5"><img id="if0003" file="imgf0003.tif" wi="143" he="233" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="165" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="165" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="JP2001192546A"><document-id><country>JP</country><doc-number>2001192546</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0002]</crossref><crossref idref="pcit0007">[0006]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="JP2000248166A"><document-id><country>JP</country><doc-number>2000248166</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0002">[0002]</crossref><crossref idref="pcit0008">[0006]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="JP2002020615A"><document-id><country>JP</country><doc-number>2002020615</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0003">[0002]</crossref><crossref idref="pcit0009">[0006]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="JP6160540B"><document-id><country>JP</country><doc-number>6160540</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0004">[0003]</crossref><crossref idref="pcit0010">[0006]</crossref></li>
+<li><patcit id="ref-pcit0005" dnum="JPH09077944A"><document-id><country>JP</country><doc-number>H09077944</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0005">[0004]</crossref><crossref idref="pcit0011">[0006]</crossref></li>
+<li><patcit id="ref-pcit0006" dnum="JPH09137027A"><document-id><country>JP</country><doc-number>H09137027</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0006">[0004]</crossref><crossref idref="pcit0012">[0006]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

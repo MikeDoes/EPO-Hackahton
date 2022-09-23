@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19888995A1" file="EP19888995NWA1.xml" lang="en" country="EP" doc-number="3889160" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3889160</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19888995.8</B210><B220><date>20191126</date></B220><B240><B241><date>20210608</date></B241></B240><B250>zh</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>201811435584</B310><B320><date>20181128</date></B320><B330><ctry>CN</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>C07F   9/6512      20060101AFI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>A61K  31/675       20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>A61P  25/28        20060101ALI20200605BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>A61P  25/28        20180101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>A61K  31/675       20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="3"><text>C07F   9/6512      20130101 LI20200626BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>THIAMINVERBINDUNG, HERSTELLUNGSVERFAHREN DAFÜR UND PHARMAZEUTISCHE ZUSAMMENSETZUNG DARAUS</B542><B541>en</B541><B542>THIAMINE COMPOUND, PREPARATION METHOD AND PHARMACEUTICAL COMPOSITION THEREOF</B542><B541>fr</B541><B542>COMPOSÉ DE THIAMINE, SON PROCÉDÉ DE PRÉPARATION ET COMPOSITION PHARMACEUTIQUE ASSOCIÉE</B542></B540></B500><B700><B710><B711><snm>Shanghai Raising Pharmaceutical Co., Ltd.</snm><iid>101902541</iid><irf>GAW/P325183EP</irf><adr><str>Building 1 
+No. 215 Hupo Road</str><city>Pudong New District
+Shanghai 201321</city><ctry>CN</ctry></adr></B711></B710><B720><B721><snm>ZHONG, Chunjiu</snm><adr><str>Room 301 Building 3A, No. 833 Hongmei South Road,
+Minhang District</str><city>Shanghai 200237</city><ctry>CN</ctry></adr></B721><B721><snm>ZHANG, Huan</snm><adr><str>Room 301 Building 3A, No. 833 Hongmei South Road,
+Minhang District</str><city>Shanghai 200237</city><ctry>CN</ctry></adr></B721></B720><B740><B741><snm>HGF</snm><iid>101859891</iid><adr><str>1 City Walk</str><city>Leeds LS11 9DX</city><ctry>GB</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>CN2019120942</anum></dnum><date>20191126</date></B861><B862>zh</B862></B860><B870><B871><dnum><pnum>WO2020108478</pnum></dnum><date>20200604</date><bnum>202023</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">The embodiments of the present invention provide a series of thiamine compounds having a hydrocarbon group
+<chemistry id="chema01" num="0001"><img id="ia01" file="imga0001.tif" wi="16" he="15" img-content="chem" img-format="tif"/></chemistry>
+or a substituted hydrocarbon group attached at (I), wherein the compounds have an inhibitory effect on Aβ40 and/or Aβ42.</p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p0001" num="0001">This application claims the benefit of priority to <patcit id="pcit0001" dnum="CN201811435584X"><text>Chinese Patent Application No. 201811435584.X</text></patcit>, filed on the China National Intellectual Property Administration (CNIPA) on November 28, 2018, and entitled "Thiamine compound, preparation method and pharmaceutical composition thereof', the entire disclosure of which is incorporated herein by reference.</p>
+<heading id="h0002">TECHNICAL FIELD</heading>
+<p id="p0002" num="0002">The present disclosure generally relates to pharmaceutical and chemical industries, and more particularly, to a thiamine compound, a preparation method and a pharmaceutical composition thereof.</p>
+<heading id="h0003">BACKGROUND</heading>
+<p id="p0003" num="0003">Alzheimer's disease (AD, commonly known as senile dementia) is a progressive neurodegenerative disease with the main clinical manifestations of cognitive and behavioral disorders; as the most common form of elderly senile dementia, AD is mainly characterized by cognitive impairment and rapid decline in memory function. Pathologically it is characterized by intracerebral β-amyloid (Aβ) deposits contributing to senile plaques, intracellular neurofibrillary tangles due to hyperphosphorylation of tau protein, impaired glucose metabolism, and<!-- EPO <DP n="2"> --> neuronal/synaptic loss. Due to the long course of illness and poor self-care ability of patients, it brings serious mental stress and economic burden to the family and society. While there are no drugs capable of preventing or delaying the progression of the disease worldwide at present, and currently available drugs for treating AD only help with symptoms, and are able only to improve cognitive symptoms temporarily, and no treatment can stop or even slow the deterioration of the disease.</p>
+<p id="p0004" num="0004">Studies have shown that by inhibiting the activity of glycogensynthasekinase-3 (GSK-3), benfotiamine may decrease beta-amyloid (Aβ) deposition and tau protein phosphorylation in the brain, and reduce pathological damage of alzheimer's disease. Thus, the synthetic methods and crystal forms of benfotiamine and use thereof in the treatment of Alzheimer's disease have been studied and reported successively. However, no relevant research on other phosphorthiamine compounds has been reported yet.</p>
+<heading id="h0004">SUMMARY</heading>
+<p id="p0005" num="0005">An object of embodiments of the present disclosure is to provide a novel thiamine compound, a preparation method and a technical scheme of a pharmaceutical composition thereof.</p>
+<p id="p0006" num="0006">A thiamine compound has a structure as shown in Formula (1) or Formula (2),<!-- EPO <DP n="3"> -->
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="129" he="37" img-content="chem" img-format="tif"/></chemistry>
+wherein R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub>, R<sub>4</sub>, R<sub>5</sub> and R<sub>6</sub> are each independently hydrogen atom, halogen atom, nitro, cyano, sulfo, amino, substituted amine group, ester group, carboxyl, hydroxyl, sulfydryl, hydrocarbylsulfydryl, hydrocarbyl, substituted hydrocarbyl, hydrocarbyloxy, substituted hydrocarbyloxy, acyl or acylamino.</p>
+<p id="p0007" num="0007">Optionally, the thiamine compound has a structure as shown in Formula (1), wherein R1 and R2 are hydrogen atom, and R3 is a benzyl or a 1,5-difluorophenyl.</p>
+<p id="p0008" num="0008">Optionally, the R1, R2, R3, R4, R5 and R6 are each independently hydrogen atom or a C1-C18 hydrocarbyl.</p>
+<p id="p0009" num="0009">Optionally, the thiamine compound has a structure as shown in Formula (1), wherein R<sub>1</sub> or R<sub>2</sub> is independently hydrogen atom, methyl or ethyl, and R<sub>3</sub> is C1-C10 hydrocarbyl.</p>
+<p id="p0010" num="0010">Optionally, the thiamine compound has a structure as shown in Formula (1), wherein R1 is hydrogen atom, R2 is methyl, and R3 is methyl or ethyl.</p>
+<p id="p0011" num="0011">Optionally, the thiamine compound has a structure as shown in Formula (1), wherein R1 is methyl, R2 is methyl and R3 is vinyl.</p>
+<p id="p0012" num="0012">Optionally, the thiamine compound has a structure as shown in Formula (2), wherein R5 is hydrogen atom, and R4 is n-propyl.<!-- EPO <DP n="4"> --></p>
+<p id="p0013" num="0013">Another object of embodiments of the present disclosure is to provide a preparation method of the thiamine compound. the thiamine compound is prepared by reacting thiamine phosphate shown in Formula (1a) with acyl chloride shown in Formula (1b) or (2b);
+<chemistry id="chem0002" num="0002"><img id="ib0002" file="imgb0002.tif" wi="121" he="56" img-content="chem" img-format="tif"/></chemistry>
+wherein R1, R2, R3, R4, R5 and R6 are each independently hydrogen atom, halogen atom, nitro, cyano, sulfo, amino, substituted amine group, ester group, carboxyl, hydroxyl, sulfydryl, hydrocarbylsulfydryl, hydrocarbyl, substituted hydrocarbyl, hydrocarbyloxy, substituted hydrocarbyloxy, acyl or acylamino.</p>
+<p id="p0014" num="0014">Another object of embodiments of the present disclosure is to provide a pharmaceutical composition comprising any of the above thiamine compounds and isomers thereof or salts of the thiamine compounds and the isomers thereof.</p>
+<p id="p0015" num="0015">Optionally, the pharmaceutical composition is used for the preparation of a medicament for preventing and treating neurodegenerative diseases.</p>
+<p id="p0016" num="0016">Optionally, the pharmaceutical composition is used for the preparation of a medicament for preventing and treating Alzheimer's disease or aging.</p>
+<p id="p0017" num="0017">Embodiments of the present disclosure may provide following advantages.<!-- EPO <DP n="5"> --> Compared with the prior art, the embodiments of the present invention provide a series of thiamine compounds of Formula (1) or Formula (2), wherein the compounds have inhibitory effects on Aβ40 and/or Aβ42; further, when the thiamine compound has a structure as shown in Formula (1), R1 is hydrogen atom, R2 is methyl, R3 is a methyl or ethyl, or R1 is methyl, R2 is methyl, R3 is vinyl or n-butyl, or the thiamine compound has a structure as shown in Formula (2), when R4 and R5 are hydrogen atom, and R6 is n-propyl, there was prominent inhibitory effects on Aβ40 and Aβ42.</p>
+<heading id="h0005">DETAILED DESCRIPTION</heading>
+<p id="p0018" num="0018">The thiamine compound provided by the embodiments of the present invention has a structure as shown in Formula (1) or Formula (2)
+<chemistry id="chem0003" num="0003"><img id="ib0003" file="imgb0003.tif" wi="129" he="37" img-content="chem" img-format="tif"/></chemistry>
+wherein R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub>, R<sub>4</sub>, R<sub>5</sub> and R<sub>6</sub> are each independently hydrogen atom, halogen atom, nitro, cyano, sulfo, amino, substituted amine group, ester group, carboxyl, hydroxyl, sulfydryl, hydrocarbylsulfydryl, hydrocarbyl, substituted hydrocarbyl, hydrocarbyloxy, substituted hydrocarbyloxy, acyl or acylamino.</p>
+<p id="p0019" num="0019">In a specific embodiments of the present invention, the substituents include linear, branched, or cyclic hydrocarbyl, which may be alkanyl or alkenyl, alkynyl, or arene groups; in some embodiments, the hydrocarbyl are alkanyl, specifically, such as methyl, ethyl, vinyl, propenyl, n-propyl, isopropyl, n-butyl, t-butyl, isobutyl, pentyl,<!-- EPO <DP n="6"> --> 1-ethylpropyl, 1-methylbutyl, cyclopentyl, hexyl, 1-methylpentyl, 1-ethylbutyl, cyclohexyl, 2-heptyl, heptyl, octyl, nonyl, decyl, undecyl, dodecyl, tridecyl, tetradecyl, pentadecyl, hexadecyl, heptadecyl, octadecyl, nonadecyl, eicosyl, heneicosyl, docosyl, and tricosyl; in some embodiments, the hydrocarbyl is arene groups, specifically, such as phenyl, 2-methylphenyl, 3-methylphenyl, 4-methylphenyl, 1-naphthyl, 2-naphthyl, benzyl or 2-phenylethyl.</p>
+<p id="p0020" num="0020">In specific embodiments of the present invention, the substituted hydrocarbyl includes halogen atom substitution, nitro substitution, cyano substitution, sulfo substitution, alkoxy substitution, amine substitution, carboxyl substitution, hydroxyl substitution or sulfydryl substitution of the above-mentioned hydrocarbyl, specifically such as methoxyethyl, ethoxyethyl, butoxyethyl, trifluoromethyl, and pentafluoroethyl .</p>
+<p id="p0021" num="0021">In a specific embodiment of the present invention, the hydrocarbyloxy includes linear, branched or cyclic hydrocarbyloxy, specifically, such as methoxy, ethoxy, n-propoxy, isopropoxy, n-butoxy, tert-butoxy, isobutoxy, pentoxy, 1-ethylpropoxy, 1-methylbutoxy, cyclopentoxy, hexoxy, 1-methylpentoxy, 1-ethylbutoxy, cyclohexyloxy, 2-heptyloxy, heptyloxy, octyloxy, nonyloxy, decyloxy, undecyloxy, dodecyloxy, tridecyloxy, tetradecyloxy, pentadecyloxy, hexadecyloxy, heptadecyloxy, octadecyloxy, nonadecyloxy, eicosanyloxy, heneicosanyloxy, docosanyloxy, tricosanyloxy, phenoxy, 2-methylphenoxy, 3-methylphenoxy, 4-methylphenoxy, 1-naphthyloxy, 2-naphthyloxy, benzyloxy or 2-phenylethoxy.</p>
+<p id="p0022" num="0022">In specific embodiments of the present invention, the substituted hydrocarbyloxy includes halogen atoms substitution, nitro substitution, cyano<!-- EPO <DP n="7"> --> substitution, sulfo substitution, hydrocarbyloxy substitution, amine substitution, carboxyl substitution, hydroxyl substitution or sulfydryl substitution of the above hydrocarbyloxy, specifically, such as methoxyethoxy, ethoxyethoxy, butoxyethoxy, trifluoromethoxy, and pentafluoroethoxy.</p>
+<p id="p0023" num="0023">In a specific embodiment of the present invention, the hydrocarbylsulfydryl includes linear, branched or cyclic hydrocarbylsulfydryl, specifically, such as methylsulfydryl, ethylsulfydryl, n-propylsulfydryl, isopropylsulfydryl, n-butylsulfydryl, t-butylsulfydryl, isobutylsulfydryl, pentylsulfydryl, 1-ethylpropylsulfydryl, 1-methylbutylsulfydryl, cyclopentylsulfydryl, hexylsulfydryl, 1-methylpentylsulfydryl, 1-ethylbutylsulfydryl, cyclohexylsulfydryl, 2-heptanesulfydryll, heptanesulfydryl, octanesulfydryll, nonanesulfydryll, decylsulfydryl, undecylsulfydryl, dodecylsulfydryl, tridecylsulfydryl, tetradecylsulfydryl, pentadecylsulfydryl, hexadecylsulfydryl, heptadecylsulfydryl, octadecylsulfydryl, nonadecylsulfydryl, eicosanylsulfydryl, heneicosanylsulfydryl, docosanylsulfydryl, tricosanylsulfydryl, phenylsulfydryl, 2-methyl phenylsulfydryl, 3-methyl phenylsulfydryl, 4-methyl phenylsulfydryl, 1-naphthylsulfydryl, 2-naphthylsulfydryl, benzylsulfydryl or 2-phenylethylsulfydryl.</p>
+<p id="p0024" num="0024">In specific embodiments of the present invention, the substituted hydrocarbylsulfydryl includes halogen atoms substitution, nitro substitution, cyano substitution, sulfo substitution, hydrocarbylsulfydryl substitution, amine substitution, carboxyl substitution, hydroxyl substitution or sulfydryl substitution of the above-mentioned hydrocarbylsulfydryl, specifically such as methoxyethanesulfydryl, ethoxyethansulfydryl, butoxyethansulfydryl, trifluoromethylsulfydryl, and<!-- EPO <DP n="8"> --> pentafluoroethanesulfydryl.</p>
+<p id="p0025" num="0025">In a specific embodiment of the present invention, the acyl includes various hydrocarbylacyl or various substituted hydrocarbylacyl, and the substitutions include halogen atoms substitution, nitro substitution, cyano substitution, sulfo substitution, amine substitution, carboxyl substitution, hydroxyl substitution or sulfydryl substitution, specifically such as formyl, acetyl, n-propionyl, iso-propionyl, n-butyryl, tert-butyryl, iso-butyryl, pentanoyl, 1-ethylpropionyl, 1-methylbutyryl, cyclopentanoyl, hexanoyl, 1-methylpentanoyl, 1-ethylbutanoyl, cyclohexanoyl, 2-heptanoyl, heptanoyl, octanoyl, nonanoyl, decanoyl, undecanoyl, dodecanoyl, tridecanoyl, tetradecanoyl, pentadecanoyl, hexadecanoyl, heptadecanoyl, octadecanoyl, nonadecanoyl, aralkanoyl, eicosanoyl, heneicosanoyl, docosanoyl, tricosanoyl, benzoyl, 2-methylbenzoyl, 3-methylbenzoyl, 4-methylbenzoyl, 1-naphthoyl, 2-naphthoyl, benzylformyl, 2-phenylacetyl, methoxyacetyl, ethoxyacetyl, butoxyacetyl, and trifluoroacetyl.</p>
+<p id="p0026" num="0026">In a specific embodiment of the present invention, the ester group includes various hydrocarbyl ester group or various substituted hydrocarbyl ester group, and the substitution includes halogen atom substitution, nitro substitution, cyano substitution, sulfo substitution, amine substitution, carboxyl substitution, hydroxyl substitution or sulfydryl substitution, specifically such as methyl ester group, ethyl ester group, n-propyl ester group, isopropyl ester group, n-butyl ester group, t-butyl ester group, isobutyl ester group, pentyl ester group, 1-ethylpropyl ester group, 1-methylbutyl ester group, cyclopentyl ester group, hexyl ester group, 1-methylpentyl ester group, 1-ethylbutyl ester group, cyclohexyl ester group, 2-heptyl ester group,<!-- EPO <DP n="9"> --> heptyl ester group, octyl ester group, nonyl ester group, decyl ester group, undecyl ester group, dodecyl ester group, tridecyl ester group, tetradecyl ester group, pentadecyl ester group, hexadecyl ester group, heptadecyl ester group, octadecyl ester group, nonadecyl ester group, aralkyl ester groups, eicosanyl ester group, heneicosanyl ester group, docosanyl ester group, tricosanyl ester group, benzyl ester group, 2-methylbenzyl ester group, 3-methylbenzyl ester group, 4-methylbenzyl ester group, 1-naphthylmethyl ester group, 2-naphthylmethyl ester group, benzyl methyl ester group, 2-phenethyl ester group, methoxyethyl ester group, ethoxyethyl ester group, butoxyethyl ester group or trifluoroethyl ester group.</p>
+<p id="p0027" num="0027">In a specific embodiment of the present invention, the substituted amine group includes various hydrocarbyl-substituted amine group or various substituted hydrocarbyl-substituted amine group, and the substitution includes halogen atomssubstitution, nitro substitution, cyano substitution, sulfo substitution, amine substitution, carboxyl substitution, hydroxyl substitution or sulfydryl substitution, specifically such as methylamino, ethylamino, n-propylamino, isopropylamino, n-butylamino, t-butylamino, isobutylamino, pentylamino, 1-ethylpropylamino, 1-methylbutylamino, cyclopentylamino, hexylamino, 1-methylpentylamino, 1-ethylbutylamino, cyclohexylamino, 2-heptylamino, heptylamino, octylamino, nonylamino, decylamino, undecylamino, dodecylamino, tridecylamino, tetradecylamino, pentadecylamino, hexadecylamino, heptadecylamino, octadecylamino, nonadecylamino, aralkylamino, eicosanylamino, heneicosanylamino, docosanylamino, tricosanylamino, benzylamino, 2-methylbenzylamino, 3-methylbenzylamino, 4-methylbenzylamino, 1-naphthylmethylamino, 2-naphthylmethylamino, benzylmethylamino, 2-phenylethylamino,<!-- EPO <DP n="10"> --> methoxyethylamine, ethoxyethylamine, butoxyethylamine or trifluoroethylamino.</p>
+<p id="p0028" num="0028">In a specific embodiment of the present invention, the acylamino includes various hydrocarbylacylamino or various substituted hydrocarbylacylamino, and the substitution includes halogen atomsubstitution, nitro substitution, cyano substitution, sulfo substitution, amido substitution, carboxyl substitution, hydroxyl substitution or sulfydryl substitution, specifically, such as formamido, acetamido, n-propylamido, isopropylamido, n-butyramido, tert-butyramido, isobutyramido, pentanamido, 1-ethylpropanamido, 1-methylbutanamido, cyclopentylamido, hexanamido, 1-methylpentanamido, 1-ethylbutanamido, cyclohexylamido, 2-heptanamido, heptanamido, octanamido, nonanamido, decanamido, undecylamido, dodecanylamido, tridecanamido, tetradecanamido, pentadecanamido, hexadecylamido, heptadecanamido, octadecylamido, nonadecanamido, aralkanylamido, eicosanylamido, heneicosanylamido, docosanylamido, tricosanylamido, benzamido, 2-methylbenzamido, 3-methylbenzamido, 4-methylbenzamido, 1-naphthylformamido, 2-naphthylformamido, benzylformamide, 2-phenylacetamido, methoxyacetamido, ethoxyacetamido, butoxyacetamido, and trifluoroacetamido.</p>
+<p id="p0029" num="0029">In a specific embodiment of the present invention, the thiamine compound has a structure as shown in formula (1), R1 and R2 are hydrogen atom, and R3 is benzyl or 1,5 difluorophenyl.</p>
+<p id="p0030" num="0030">In a specific embodiment of the present invention, R1, R2, R3, R4 and R5, R6 are each independently hydrogen atom or C1-C18 hydrocarbyl, preferably the thiamine compound has a structure as shown in Formula (1), R1 and R2 are each independently hydrogen atom or C1-C4 hydrocarbyl, and further R1 or R2 is<!-- EPO <DP n="11"> --> independently hydrogen atom, methyl or ethyl, and R3 is a C1-C10 hydrocarbyl; it is further preferable that R1 is hydrogen atom, R2 is methyl, R3 is methyl or ethyl, or R1 is methyl, R2 is methyl, and R3 is vinyl in consideration of the inhibitory effect on Aβ40 and Aβ42; or preferably, the thiamine compound has a structure as shown in Formula (2), R4 and R5 are hydrogen atom, and R6 is n-propyl.</p>
+<p id="p0031" num="0031">The present invention also provides a preparation method of the thiamine compound, which is prepared by reacting thiamine phosphate shown in Formula (1a) with acyl chloride shown in Formula (1b) or (2b);
+<chemistry id="chem0004" num="0004"><img id="ib0004" file="imgb0004.tif" wi="117" he="54" img-content="chem" img-format="tif"/></chemistry>
+wherein R1, R2, R3, R4, and R5, R6 are each independently hydrogen atom, halogen atom, nitro, cyano, sulfo, amino, substituted amine group, ester group, carboxyl, hydroxyl, sulfydryl, hydrocarbylsulfydryl, hydrocarbyl, substituted hydrocarbyl, hydrocarbyloxy, substituted hydrocarbyloxy, acyl or acylamino.</p>
+<p id="p0032" num="0032">In a specific embodiment of the preparation method of the thiamine compound in the present invention, specific experimental conditions can be conducted by referring to an experimental condition method (for the preparation of benfotiamine by reacting thiamine phosphate with benzoyl chloride) disclosed in the prior art as <patcit id="pcit0002" dnum="EP2918593A1"><text>EP2918593A1</text></patcit>, specifically, for example, the thiamine phosphate shown in Formula<!-- EPO <DP n="12"> --> (1a) was dissolved in water, a 30% sodium hydroxide solution was added dropwise, and a pH value was adjusted to 10-12, followed by stirring for dissolving; an acyl chloride solution shown in Formula (1b) was added dropwise under 0-15°C, and the pH value was controlled and adjusted to 10-12 during the addition; the mixture was reacted for 0.5-3 h after the addition, and extracted and purified to give the thiamine compound. As for different acyl chlorides shown in Formula (1b), the reaction conditions can be conventionally selected and adjusted according to actual conditions, such as the selection of a solvent for the preparation of the acyl chloride solution shown in Formula (1b), and the selection of an extraction solvent.</p>
+<p id="p0033" num="0033">Further, the present invention also provides a pharmaceutical composition including the above-mentioned thiamine compound and isomers thereof or salts of the thiamine compound and the isomers thereof, preferably a pharmaceutical composition for the preparation of a medicament for preventing and treating neurodegenerative diseases, and further preferably a pharmaceutical composition for the preparation of a medicament for preventing and treating Alzheimer's disease or aging. The salts are pharmaceutically acceptable salts such as lithium, sodium, potassium or calcium salts. The composition can be prepared into tablets, powders, sprays, water injection, powder injection, rectal suppositories, or skin patches (transdermal administration) according to conventional methods.</p>
+<heading id="h0006">EXAMPLES</heading>
+<p id="p0034" num="0034">The test specification of the present invention is as follows:<br/>
+Nuclear magnetic resonance (<sup>1</sup>H NMR): NMR shifts (δ) were given in parts-per-million (ppm) units. NMR was conducted using a BrukeRAVANCE-500<!-- EPO <DP n="13"> --> instrument with deuterated dimethyl sulfoxide (DMSO-D6), deuterated methanol (CD3 OD), and deuterated water (D2O) as solvents, and tetramethylsilane (TMS) as an internal standard.</p>
+<p id="p0035" num="0035">Mass Spectrometry (MS): MS analysis was conducted using an Agilent (ESI) mass spectrometer (Manufacturer: Agilent, Model: Agilent 6110).</p>
+<heading id="h0007">1. Bioassay</heading>
+<heading id="h0008">1.1 Materials and Methods</heading>
+<p id="p0036" num="0036">
+<ol id="ol0001" ol-style="">
+<li>(1) A BCA Protein Concentration Kit was purchased from Beyotime Biotechnology, a detection kit for Aβ40 and Aβ42 was purchased from Wako Co., Ltd., and cell culture related reagents were purchased from Gibico Co., Ltd.</li>
+<li>(2) HEK293APP/sw overexpression cell culture: cells were cultured in a 48-well plate in DMEM culture medium (containing 10% FBS, 100 µg/mL G418 (Geneticin) and diabody), 4 mM stock solution of a test sample (prepared by dissolving the test sample in DMEM culture medium) was diluted to 400 µM in DMEM culture medium at a cell density of 70%, to each well was added 500 µL of the test sample, and the cells were cultured for 24 h.</li>
+<li>(3) To the culture solution supernatant was added a BCA reagent, after incubating for 30 min at room temperature, absorbance of each well was measured at OD 570 nm with a microplate reader, and a total protein concentration was calculated according to a protein standard curve; concentrations of Aβ40 and Aβ42 were measured with supernatant: the supernatant was added into a coated 96-well plate, followed by incubating overnight at 4°C, the reagent was removed and washed, HRP<!-- EPO <DP n="14"> --> (horseradish peroxidase) labeled antibody was added, followed by incubating for 2 h at 4°C, the reagent was removed and washed, a TMB color developing solution was added, followed by incubating for 30 min at room temperature, a stop solution was added to stop reaction, absorbance of each well was measured at OD 570 nm with a microplate reader, concentrations of Aβ40 and Aβ42 were calculated according to standard curves of Aβ40 and Aβ42 respectively, and finally the concentrations of Aβ40 and Aβ42 were adjusted by using a total protein concentration to obtain a final concentration.</li>
+</ol></p>
+<p id="p0037" num="0037">The compounds synthesized in the following Examples were based on the compounds as shown in the Formulas, and the Chinese and English names were used as references only.</p>
+<heading id="h0009">Example 1</heading>
+<heading id="h0010">Synthesis of (Z)-S-(2-(N-((4-amino-2-methylpyrimidin-5-yl) methyl) formamido)-5-(phosphonooxy) pent -2-en-3-yl) butanethioate 1-1:</heading>
+<p id="p0038" num="0038">
+<chemistry id="chem0005" num="0005"><img id="ib0005" file="imgb0005.tif" wi="120" he="25" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0039" num="0039">6.6 g of thiamine phosphate was dissolved in 8.0 g of water under stirring; a sodium hydroxide solution (30%) was added dropwise to adjust pH to 10-12; after stirring for 0.5 h, the pH was measured again, and adjusted to 10-12 until the pH was stable, followed by stirring for 1 h; 2.3 g of a dichloromethane solution of Formula 1-b was added dropwise over a period of time at 10°C; liquid separation was conducted, a dichloromethane phase was dried over anhydrous sodium sulfate,<!-- EPO <DP n="15"> --> followed by spin-drying dichloromethane to yield a yellow oily liquid, 2 mL of methanol was added for dissolved clarification, followed by 30 mL of ethyl acetate; the mixture was stirred to separate out a solid, then filtered to obtain a filter cake, which was dried at 45°C to give the product 1-1.</p>
+<p id="p0040" num="0040">The product 1-1 was subjected to <sup>1</sup>H NMR and MS tests, and the results were as follows. A test sample stock solution prepared from the product 1-1 was subjected to a bioassay, and the results were shown in Table 1.</p>
+<p id="p0041" num="0041">MS m/z(ESI):433.2[M<sup>+1</sup>]</p>
+<p id="p0042" num="0042"><sup>1</sup>H NMR(DMSO-d6) δ 7.84(s, 1H), 7.81(s, 1H), 4.47(s,2H), 3.78-3.82(m,2H), 2.51-2.61(m,2H), 2.43-2.41(m,2H), 2.39(s,3H), 2.13(s,3H), 1.45-1.50(m,2H), 0.82-0.85(m,3H).</p>
+<heading id="h0011">Example 2</heading>
+<heading id="h0012">Synthesis of (Z) -S-(2-(N-((4-amino-2-methylpyrimidin-5-yl) methyl) formamido)-5-(phosphonooxy) pent -2-en-3-yl) decanethioate 1-2:</heading>
+<p id="p0043" num="0043">
+<chemistry id="chem0006" num="0006"><img id="ib0006" file="imgb0006.tif" wi="124" he="20" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0044" num="0044">6.6 g of thiamine phosphate was dissolved in 10.0 g of water under stirring; a sodium hydroxide solution (30%) was added dropwise to adjust pH to 10-12; after stirring for 0.5 h, the pH was measured again, and adjusted to 10-12 until the pH was stable, followed by stirring for 1 h; 3.6 g of a tetrahydrofuran solution of Formula 1-2b was added dropwise over a period of time at 10°C, the mixture was reacted for 0.5 h after the addition, adjusted to pH=7-8, then extracted for liquid separation twice<!-- EPO <DP n="16"> --> with ethyl acetate and once with n-heptane, adjusted to pH=7, and extracted for liquid separation once with n-heptane; dichloromethane was added, the pH was adjusted to no emulsification, the reactant was subjected to liquid separation, and drying, followed by spin-drying dichloromethane to give the product 1-2.</p>
+<p id="p0045" num="0045">The product 1-2 was subjected to <sup>1</sup>H NMR and MS tests, and the results were as follows. A test sample stock solution prepared from the product 1-2 was subjected to a bioassay, and the results were shown in Table 1.</p>
+<p id="p0046" num="0046">MS m/z(ESI):517.2[M<sup>+1</sup>]</p>
+<p id="p0047" num="0047"><sup>1</sup>H NMR(DMSO-d6) δ 7.99(s,1H), 7.81(s, 1H), 4.47(s,2H), 3.82-3.81(m,2H), 2.59-2.51(m,2H), 2.43-2.42(m,5H), 2.41(s,3H), 1.45-1.44(m,2H), 1.28-1.22(m,12H), 0.87-0.84(m,3H).</p>
+<heading id="h0013">Example 3</heading>
+<heading id="h0014">Synthesis of (Z) -S-(2-(N-((4-amino-2-methylpyrimidin-5-yl) methyl) formamido)-5-(phosphonooxy) pent -2-en-3-yl) dodecanethioate 1-3:</heading>
+<p id="p0048" num="0048">
+<chemistry id="chem0007" num="0007"><img id="ib0007" file="imgb0007.tif" wi="121" he="19" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0049" num="0049">6.1 g of thiamine phosphate was dissolved in 12.8 g of water under stirring; a sodium hydroxide solution (30%) was added dropwise to adjust pH to 10-12; after stirring for 0.5 h, the pH was measured again, and adjusted to 10-12 until the pH was stable, followed by stirring for 0.5 h; a tetrahydrofuran solution of Formula 1-3b was added dropwise over a period of time at 10°C, a sodium hydroxide solution was added during the addition to maintain the pH of 10-12, and incubation was conducted for 1 h<!-- EPO <DP n="17"> --> after the addition; the reactant was extracted twice with ethyl acetate , an organic phase was removed, and the pH was adjusted to 4-5 with 31% hydrochloric acid; the product was extracted with dichloromethane, a dichloromethane phase was dried over anhydrous sodium sulfate, followed by filtering, and filtrate was concentrated at 40°C to give the product 1-3.</p>
+<p id="p0050" num="0050">The product 1-3 was subjected to <sup>1</sup>H NMR and MS tests, and the results were as follows. A test sample stock solution prepared from the product 1-3 was subjected to a bioassay, and the results were shown in Table 1.</p>
+<p id="p0051" num="0051">MS m/z(ESI):545.2[M <sup>+1</sup>]</p>
+<p id="p0052" num="0052"><sup>1</sup>H NMR(DMSO-d<sub>6</sub>): δ 8.03(s,1H), 7.83(s,1H), 4.48(s,2H), 3.83-3.81(m,2H), 2.59(s,2H), 2.43-2.40(m,5H), 2.14(s,3H), 1.45-1.43(m,2H), 1.23-1.21(m,16H), 0.85(t,3H).</p>
+<heading id="h0015">Example 4</heading>
+<heading id="h0016">Synthesis of (E) -S-((Z)-2-(N-((4-amino-2-methylpyrimidin-5-yl) methyl) formamido)-5-(phosphonooxy) pent -2-en-3-yl) 2-methylbut- 2-enethioate 1-4:</heading>
+<p id="p0053" num="0053">
+<chemistry id="chem0008" num="0008"><img id="ib0008" file="imgb0008.tif" wi="122" he="26" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0054" num="0054">To 30 mL of dichloromethane were added 3.0 g of 2-methylbut-2-enoic acid, 0.5 g of dimethylformamide and 7.2 g of thionyl chloride, the mixture was heated under reflux for 1 h at 60°C, and distilling under reduced pressure to remove thionyl chloride and dichloromethane to obtain acyl chloride of Formula 1-4b, which was<!-- EPO <DP n="18"> --> added to 30 mL of dichloromethane until use; 8.3 g of thiamine phosphate was dissolved in 18.0 g of water under stirring, a sodium hydroxide solution (30%) was added dropwise to adjust pH to 10-12, after stirring for 0.5 h, the pH was measured again, and adjusted to 10-12 until the pH was stable, followed by stirring for 0.5 h;, the acyl chloride solution prepared in above steps was added dropwise over a period of time at 10°C, a sodium hydroxide solution was added during the addition to maintain the pH of 10-12, and incubation was conducted for 1 h at 10°C after the addition; followed by distilling off dichloromethane, an aqueous phase was adjusted to pH=4-5 with 31% hydrochloric acid without precipitation, then washed twice with acetone to precipitate out the product, and filtered to obtain a filter cake, which was pulped once with ethyl acetate, then pulped with methanol twice, followed by filtered to obtain a filter cake, which was dried at 45°C to give the product 1-4.</p>
+<p id="p0055" num="0055">The product 1-4 was subjected to <sup>1</sup>H NMR and MS tests, and the results were as follows. A test sample stock solution prepared from the product 1-4 was subjected to a bioassay, and the results were shown in Table 1.</p>
+<p id="p0056" num="0056">MS m/z(ESI):445.1[M <sup>+1</sup>]</p>
+<p id="p0057" num="0057"><sup>1</sup>H NMR(DMSO-d<sub>6</sub>): δ 7.89(s,1H), 7.80(s,1H), 6.65(d,1H), 4.44(d,2H), 3.80-3.76(m,2H), 2.59(d,2H), 2.37(s,3H), 2.14(s,3H), 1.80-1.78(m,3H), 1.72-1.69(m,3H).</p>
+<heading id="h0017">Example 5</heading>
+<p id="p0058" num="0058">Synthesis of (Z) -S-(2-(N-((4-amino-2-methylpyrimidin-5-yl) methyl) formamido)-5-(phosphonooxy) pent -2-en-3-yl) 2-methylbutanethioate (product name)<!-- EPO <DP n="19"> --> 1-5:
+<chemistry id="chem0009" num="0009"><img id="ib0009" file="imgb0009.tif" wi="124" he="26" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0059" num="0059">6.6 g of thiamine phosphate was dissolved in 10.0 g of water under stirring; a sodium hydroxide solution (30%) was added dropwise to adjust pH to 10-12; after stirring for 0.5 h, the pH was measured again, and adjusted to 10-12 until the pH was stable, followed by stirring for 1 h; 2.3 g of a dichloromethane solution of Formula 1-5b was added dropwise over a period of time at 10°C; after the addition, the mixture was reacted for 1 h,and adjusted to pH=7, 50 mL of dichloromethane was added for liquid separation, an aqueous phase was adjusted to pH=2.5 to precipitate out a solid, followed by filtering, pulping with ethyl acetate for 1 h, and then filtering to obtain a filter cake, which was dried at 45°C to give the product 1-5.</p>
+<p id="p0060" num="0060">MS m/z(ESI):447.1[M <sup>+1</sup>]</p>
+<p id="p0061" num="0061"><sup>1</sup>H NMR(DMSO-d<sub>6</sub>) δ 7.96(s,1H), 7.77(s,1H), 4.47(s,2H), 3.81-3.77(m,2H), 2.60-2.53(m,2H), 2.47-2.46(m,1H), 2.41(s,3H), 2.14(s,3H), 1.54-1.51(m,1H), 1.37-1.36(m,1H), 1.03-1.00(m,3H), 0.84-0.79(m,3H).</p>
+<heading id="h0018">Example 6</heading>
+<heading id="h0019">Synthesis of (Z) -S-(2-(N-((4-amino-2-methylpyrimidin-5-yl) methyl) formamido)-5-(phosphonooxy) pent -2-en-3-yl) 2-methylpropanethioate 1-6:</heading><!-- EPO <DP n="20"> -->
+<p id="p0062" num="0062">
+<chemistry id="chem0010" num="0010"><img id="ib0010" file="imgb0010.tif" wi="124" he="22" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0063" num="0063">The synthetic route in Example 5 was used to give the product 1-6 by replacing starting materials 1-5b compound with 1-6b compound.</p>
+<p id="p0064" num="0064">The product 1-6 was subjected to <sup>1</sup>H NMR and MS tests, and the results were as follows. A test sample stock solution prepared from the product 1-6 was subjected to a bioassay, and the results were shown in Table 1.</p>
+<p id="p0065" num="0065">MS m/z(ESI):433.0[M <sup>+1</sup>]</p>
+<p id="p0066" num="0066"><sup>1</sup>H NMR(DMSO-d<sub>6</sub>) δ 7.95(s,1H), 7.76(s,1H), 4.46(s,2H), 3.80-3.76(m,2H), 2.62-2.58(m,3H), 2.40(s,3H), 2.14(s,3H), 1.05-1.02(m,6H).</p>
+<heading id="h0020">Example 7</heading>
+<heading id="h0021">Synthesis of (Z) -S-(2-(N-((4-amino-2-methylpyrimidin-5-yl) methyl) formamido)-5-(phosphonooxy) pent -2-en-3-yl) octanethioate 1-7:</heading>
+<p id="p0067" num="0067">
+<chemistry id="chem0011" num="0011"><img id="ib0011" file="imgb0011.tif" wi="125" he="21" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0068" num="0068">The synthetic route in Example 2 was used to give the product 1-7 by replacing starting materials 1-2b compound with 1-7b compound.</p>
+<p id="p0069" num="0069">The product 1-7 was subjected to <sup>1</sup>H NMR and MS tests, and the results were as follows. A test sample stock solution prepared from the product 1-7 was subjected to a bioassay, and the results were shown in Table 1.<!-- EPO <DP n="21"> --></p>
+<p id="p0070" num="0070">MS m/z(ESI):489.1[M <sup>+1</sup>]</p>
+<p id="p0071" num="0071"><sup>1</sup>H NMR(DMSO-d<sub>6</sub>) δ 7.97(s,1H), 7.81(s, 1H), 4.47(s,2H), 3.81-3.78(m,2H), 2.60-2.51(m,2H), 2.44-2.41(m,1H), 2.40(s,3H), 2.20-2.17(m,1H), 2.13(s,3H), 1.47-1.43(m,2H), 1.25-1.22(m,8H), 0.87-0.84(m,3H).</p>
+<heading id="h0022">Example 8</heading>
+<heading id="h0023">Synthesis of (Z) -S-(2-(N-((4-amino-2-methylpyrimidin-5-yl) methyl) formamido)-5-(phosphonooxy) pent -2-en-3-yl) 3-phenylpropanethioate 1-8:</heading>
+<p id="p0072" num="0072">
+<chemistry id="chem0012" num="0012"><img id="ib0012" file="imgb0012.tif" wi="121" he="30" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0073" num="0073">6.6 g of thiamine phosphate was dissolved in 8.8 g of water under stirring; a sodium hydroxide solution (30%) was added dropwise to adjust pH to 10-12; after stirring for 1 h, the pH was measured again, and adjusted to 10-12 until the pH was stable; a dichloromethane solution of Formula 1-8b was added dropwise over a period of time at 10°C, incubation was conducted for 1 h after the addition, followed by distilling under reduced pressure to remove dichloromethane, an aqueous phase was adjusted to pH=4 to precipitate out a solid, and filtered to obtain a filter cake, which was pulped with ethyl acetate, and filtered to give the product 1-8.</p>
+<p id="p0074" num="0074">The product 1-8 was subjected to <sup>1</sup>H NMR and MS tests, and the results were as follows. A test sample stock solution prepared from the product 1-8 was subjected to a bioassay, and the results were shown in Table 1.<!-- EPO <DP n="22"> --></p>
+<p id="p0075" num="0075">MS m/z(ESI):495.1[M <sup>+1</sup>]</p>
+<p id="p0076" num="0076">NMR(DMSO-d<sub>6</sub>) δ 7.92(s,1H), 7.81(s,1H), 7.29-7.18(m,7H), 4.43(s,2H), 3.76-3.75(m,2H), 2.75(m,4H), 2.57(s,2H), 2.37(s,3H), 2.11(s,3H).</p>
+<heading id="h0024">Example 9</heading>
+<heading id="h0025">Synthesis of (Z) -S-(2-(N-((4-amino-2-methylpyrimidin-5-yl) methyl) formamido)-5-(phosphonooxy) pent -2-en-3-yl) hex -5-enethioatel-9:</heading>
+<p id="p0077" num="0077">
+<chemistry id="chem0013" num="0013"><img id="ib0013" file="imgb0013.tif" wi="123" he="21" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0078" num="0078">3.3 g of thiamine phosphate was dissolved in 4.4 g of water under stirring; a sodium hydroxide solution (30%) was added dropwise to adjust pH to 10-12; after stirring for 1 h, the pH was measured again, and adjusted to 10-12 until the pH was stable; a solution of acyl chloride of Formula 1-9b in tetrahydrofuran was added dropwise over a period of time at 10°C, incubation was conducted for 0.5 h after the addition, the mixture was adjusted to pH=7-8, and extracted with dichloromethane , then subjected to liquid separation, an aqueous phase was adjusted to pH=4, followed by stirring for crystallization, filtering, pulping with water for 0.5 h, and filtering to give the product 1-9.</p>
+<p id="p0079" num="0079">The product 1-9 was subjected to <sup>1</sup>H NMR and MS tests, and the results were as follows. A test sample stock solution prepared from the product 1-9 was subjected to a bioassay, and the results were shown in Table 1.</p>
+<p id="p0080" num="0080">MS m/z(ESI):459.1[M <sup>+1</sup>]<!-- EPO <DP n="23"> --></p>
+<p id="p0081" num="0081"><sup>1</sup>H NMR(DMSO-d<sub>6</sub>) δ 7.90(d,1H), 7.80(d,1H), 5.79-5.72(m,1H), 5.10-5.00(m,2H), 4.45(s,2H), 3.8-3.76(m,2H), 2.60(s,2H), 2.45-2.42(m,2H), 2.36(s,3H), 2.12(s,3H), 2.00-1.96(m,2H), 1.57-1.53(m,2H).</p>
+<heading id="h0026">Example 10</heading>
+<heading id="h0027">Synthesis of (Z) -S-(2-(N-((4-amino-2-methylpyrimidin-5-yl) methyl) formamido)-5-(phosphonooxy) pent -2-en-3-yl) 2-(2, 6-difluorophenyl) ethanethioate 1-10:</heading>
+<p id="p0082" num="0082">
+<chemistry id="chem0014" num="0014"><img id="ib0014" file="imgb0014.tif" wi="118" he="26" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0083" num="0083">To a 100 mL single-neck flask were added 1.7 g of 2,6-difluorophenylacetic acid, 2.4 g of thionyl chloride, 0.2 g of dimethylformamide, and 30 mL of dichloromethane , the mixture was heated under reflux for 3 h at 50°C to evaporate dichloromethane to dryness, then dissolved in tetrahydrofuran to obtain a tetrahydrofuran solution of Formula 1-10b; 2.7 g of thiamine phosphate was dissolved in 4 g of water under stirring, a sodium hydroxide solution (30%) was added dropwise to adjust pH to 10-12, after stirring for 0.5 h, the pH was measured again, and adjusted to 10-12 until the pH was stable; followed by stirring for 1 h, 1.9 g of tetrahydrofuran solution of Formula 1-10b was added dropwise over a period of time at 0°C, the mixture was adjusted to pH to 10-12, , and reacted for 1 h after the addition; an aqueous phase was adjusted to pH=3-4 to precipitate out a solid, filtered to obtain a filter cake, which was pulped with methanol and water, followed by filtering to obtain a filter cake, which was dried to give the product 1-10.<!-- EPO <DP n="24"> --></p>
+<p id="p0084" num="0084">The product 1-10 was subjected to <sup>1</sup>H NMR and MS tests, and the results were as follows. A test sample stock solution prepared from the product 1-10 was subjected to a bioassay, and the results were shown in Table 1.</p>
+<p id="p0085" num="0085">MS m/z(ESI):517.0[M <sup>+1</sup>]</p>
+<p id="p0086" num="0086"><sup>1</sup>H NMR(DMSO-d<sub>6</sub>) δ 7.85(s,1H), 7.76(s,1H), 7.47-7.40(m,1H), 7.13(t,2H), 4.43(s,2H), 3.87(s,2H), 3.90-3.76(m,2H), 2.60(s,2H), 2.34(s,3H), 2.11(s,3H).</p>
+<heading id="h0028">Example 11</heading>
+<heading id="h0029">Synthesis of (Z) -S-(2-(N-((4-amino-2-methylpyrimidin-5-yl) methyl) formamido)-5-(phosphonooxy) pent -2-en-3-yl) 2, 2-dimethylbut-3 -enethioate 1-11:</heading>
+<p id="p0087" num="0087">
+<chemistry id="chem0015" num="0015"><img id="ib0015" file="imgb0015.tif" wi="123" he="25" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0088" num="0088">The synthetic route in Example 9 was used to give the product 1-11 by replacing starting materials 1-9b compound with 1-11b compound.</p>
+<p id="p0089" num="0089">The product 1-11 was subjected to <sup>1</sup>H NMR and MS tests, and the results were as follows. A test sample stock solution prepared from the product 1-11 was subjected to a bioassay, and the results were shown in Table 1.</p>
+<p id="p0090" num="0090">MS m/z(ESI):459.1 [M <sup>+1</sup>]</p>
+<p id="p0091" num="0091"><sup>1</sup>H NMR(DMSO-d<sub>6</sub>) δ 7.96(s,1H), 7.74(s,1H), 5.87-5.81(m,1H), 5.20-5.17(m,2H), 4.46(s,2H), 3.78-3.74(m,2H), 2.55-2.54(m,2H), 2.40(s,3H), 2.14(s,3H), 1.17-1.15(m,6H).<!-- EPO <DP n="25"> --></p>
+<heading id="h0030">Example 12</heading>
+<heading id="h0031">Synthesis of (E) -S-((Z)-2-(N-((4-amino-2-methylpyrimidin-5-yl) methyl) formamido)-5-(phosphonooxy) pent -2-en-3-yl) hex -2 -enethioate 1-12:</heading>
+<p id="p0092" num="0092">
+<chemistry id="chem0016" num="0016"><img id="ib0016" file="imgb0016.tif" wi="120" he="29" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0093" num="0093">The synthetic route in Example 4 was used to give the product 1-12 by replacing starting materials 1-4b compound with 1-12b compound.</p>
+<p id="p0094" num="0094">The product 1-12 was subjected to <sup>1</sup>H NMR and MS tests, and the results were as follows. A test sample stock solution prepared from the product 1-12 was subjected to a bioassay, and the results were shown in Table 1.</p>
+<p id="p0095" num="0095">MS m/z(ESI):459.1[M <sup>+1</sup>]</p>
+<p id="p0096" num="0096"><sup>1</sup>H NMR(DMSO-d<sub>6</sub>): δ 7.94(s,1H), 7.82(s,1H), 6.77-6.71(m,1H), 6.06(d,1H), 4.45(d,2H), 3.81-3.77(m,2H), 2.62(d,2H), 2.38(s,3H), 2.17-2.14(m,5H), 1.15-1.14(m,2H), 0.90(t,3H).</p>
+<heading id="h0032">Example 13</heading>
+<p id="p0097" num="0097">Synthesis of (Z) -S-(2-(N-((4-amino-2-methylpyrimidin-5-yl) methyl) formamido)-5-(phosphonooxy) pent -2-en-3-yl) 2-ethylhexanethioate 1-13:
+<chemistry id="chem0017" num="0017"><img id="ib0017" file="imgb0017.tif" wi="125" he="22" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="26"> --></p>
+<p id="p0098" num="0098">To a 50 mL single-necked flask were added 1.4 g of 2-ethylhexanoic acid, 5.0 g of thionyl chloride, 0.1 mL of dimethylformamide, and 20 mL of dichloromethane, the mixture was heated under reflux for 2 h at 55°C to evaporate dichloromethane to dryness, then dissolved in dichloromethane to obtain a dichloromethane solution of Formula 1-13b; 3.0 g of thiamine phosphate was dissolved in 6.0 g of water under stirring, a sodium hydroxide solution (30%) was added dropwise to adjust pH to 10-12, after stirring for 0.5 h, the pH was measured again, and adjusted to 10-12 until the pH was stable; followed by stirring for 1 h, 1.44 g of dichloromethane solution of 1-13b was added dropwise over a period of time at 0°C, the mixture was adjusted to pH to 10-12, and reacted for 0.5 h after the addition, the reaction mixture was adjusted to neutral, and extracted once with ethyl acetate; an aqueous phase was adjusted to pH=3-4 to precipitate out an oily solid, and extracted with dichloromethane; after the extraction, dichloromethane was dried over anhydrous sodium sulfate, then subjected to spin-drying; the solid was dissolved in methanol, then methyl tert-butyl ether was added, the mixture was subjected to stirring 5 h to precipitate out a solid, filtered to obtain a filter cake, which was dried at 45°C to give the product 1-13.</p>
+<p id="p0099" num="0099">The product 1-13 was subjected to <sup>1</sup>H NMR and MS tests, and the results were as follows. A test sample stock solution prepared from the product 1-13 was subjected to a bioassay, and the results were shown in Table 1.</p>
+<p id="p0100" num="0100">MS m/z(ESI):489.0[M <sup>+1</sup>]</p>
+<p id="p0101" num="0101"><sup>1</sup>H NMR(DMSO-d<sub>6</sub>): δ 7.97(s,1H), 7.78(s,1H), 4.47(d,2H), 3.76-3.75(m,2H), 2.59(d,2H), 2.37(s,3H), 2.26(d,1H), 2.13(s,3H), 1.46-1.16(m,8H),<!-- EPO <DP n="27"> --> 0.84-0.79(m,6H).</p>
+<heading id="h0033">Example 14</heading>
+<p id="p0102" num="0102">Synthesis of (Z) -S-(2-(N-((4-amino-2-methylpyrimidin-5-yl) methyl) formamido)-5-(phosphonooxy) pent -2-en-3-yl) 2-methylpentanethioate 1-14:
+<chemistry id="chem0018" num="0018"><img id="ib0018" file="imgb0018.tif" wi="127" he="22" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0103" num="0103">To a 100 mL single-neck flask were added 2.3 g of 2-methylvaleric acid, 4.8 g of thionyl chloride, 0.2 g of dimethylformamide, and 60 mL of dichloromethane, the mixture was heated under reflux for 3 h at 50°C to evaporate dichloromethaneto dryness, then dissolved in tetrahydrofuran to obtain a tetrahydrofuran solution of Formula 1-14b; 5.5 g of thiamine phosphate was dissolved in 8.0 g of water under stirring, a sodium hydroxide solution (30%) was added dropwise to adjust pH to 10-12, after stirring for 0.5 h, the pH was measured again, and adjusted to 10-12 until the pH was stable; followed by stirring for 1 h, 2.7 g of tetrahydrofuran solution of Formula 1-14b was added dropwise over a period of time at 0°C, the mixture s was adjusted to pH to 10-12, and reacted for 1 h after the addition; an aqueous phase was adjusted to pH=7 and extracted twice with ethyl acetate, then adjusted to pH=3-4 and extracted twice with dichloromethane; an organic phase was dried over anhydrous magnesium sulfate, then subjected to spin-drying, recrystallized from methanol and ethyl acetate, and filtered, and filter cakes were dried at 45°C to give the product 1-14.</p>
+<p id="p0104" num="0104">The product 1-14 was subjected to <sup>1</sup>H NMR and MS tests, and the results<!-- EPO <DP n="28"> --> were as follows. A test sample stock solution prepared from the product 1-14 was subjected to a bioassay, and the results were shown in Table 1.</p>
+<p id="p0105" num="0105">MS m/z(ESI):461.0[M<sup>+1</sup>]</p>
+<p id="p0106" num="0106"><sup>1</sup>H NMR(DMSO-d<sub>6</sub>) δ 7.97(s,1H), 7.76(s,1H), 4.47(s,2H), 3.77(d,2H), 2.54(s,2H), 2.52(s,1H), 2.41(s,3H), 2.14(s,3H), 1.52-1.45(m,1H), 1.28-1.21(m,3H), 1.00(d,3H), 0.84(t,3H).</p>
+<heading id="h0034">Example 15</heading>
+<heading id="h0035">Synthesis of (Z) -S-(2-(N-((4-amino-2-methylpyrimidin-5-yl) methyl) formamido)-5-(phosphonooxy) pent -2-en-3-yl) 2-methylhexanethioatel-15:</heading>
+<p id="p0107" num="0107">
+<chemistry id="chem0019" num="0019"><img id="ib0019" file="imgb0019.tif" wi="124" he="21" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0108" num="0108">The synthetic route in Example 14 was used to give the product 1-15 by replacing starting materials 1-14b compound with 1-15b compound.</p>
+<p id="p0109" num="0109">The product 1-15 was subjected to <sup>1</sup>H NMR and MS tests, and the results were as follows. A test sample stock solution prepared from the product 1-15 was subjected to a bioassay, and the results were shown in Table 1.</p>
+<p id="p0110" num="0110">MS m/z(ESI):475.0[M <sup>+1</sup>]</p>
+<p id="p0111" num="0111"><sup>1</sup>H NMR(DMSO-d<sub>6</sub>) δ 7.95(s,1H), 7.76(s,1H), 4.46(s,2H), 3.80-3.76(m,2H), 2.60(s,2H), 2.41(s,3H), 2.13(s,3H), 1.51-1.49(m,1H), 1.26-1.16(m,6H), 1.00(s,3H),<!-- EPO <DP n="29"> --> 0.86(s,3H).</p>
+<heading id="h0036">Example 16</heading>
+<heading id="h0037">Synthesis of (Z) -S-(2-(N-((4-amino-2-methylpyrimidin-5-yl) methyl) formamido)-5-(phosphonooxy) pent -2-en-3-yl) 2, 2-dimethylbutanethioate 1-16:</heading>
+<p id="p0112" num="0112">
+<chemistry id="chem0020" num="0020"><img id="ib0020" file="imgb0020.tif" wi="123" he="24" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0113" num="0113">The synthetic route in Example 4 was used to give the product 1-16 by replacing starting materials 1-4b compound with 1-16b compound.</p>
+<p id="p0114" num="0114">The product 1-16 was subjected to <sup>1</sup>H NMR and MS tests, and the results were as follows. A test sample stock solution prepared from the product 1-16 was subjected to a bioassay, and the results were shown in Table 1.</p>
+<p id="p0115" num="0115">MS m/z(ESI):461.0[M <sup>+1</sup>]</p>
+<p id="p0116" num="0116"><sup>1</sup>H NMR(DMSO-d<sub>6</sub>): δ 7.87(s,1H), 7.72(s,1H), 4.45(d,2H), 3.78-3.74(m,2H), 2.64(d,2H), 2.38(s,3H), 2.13(s,3H), 1.48-1.44(m,2H), 1.04(s,6H), 0.76(t,3H).</p>
+<heading id="h0038">Example 17</heading>
+<p id="p0117" num="0117">Synthesis of (Z) -S-(2-(N-((4-amino-2-methylpyrimidin-5-yl) methyl) formamido)-5-(phosphonooxy) pent -2-en-3-yl) 2, 2-dimethylhexanethioate 1-17:<!-- EPO <DP n="30"> -->
+<chemistry id="chem0021" num="0021"><img id="ib0021" file="imgb0021.tif" wi="125" he="23" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0118" num="0118">To 30 mL of dichloromethane were added 1.0 g of 2-dimethylhexanoic acid, 0.3 g of dimethylformamide and 1.7 g of thionyl chloride, the mixture was heated under reflux for 2 h at 50°C, and distilling under reduced pressure to remove thionyl chloride and dichloromethane to obtain acyl chloride of Formula 1-17b, which was added to 10 mL of tetrahydrofuran until use; 2.2 g of thiamine phosphate was dissolved in 4.4 g of water under stirring, a sodium hydroxide solution (30%) was added dropwise to adjust pH to 10-12, after stirring for 0.5 h, the pH was measured again, and adjusted to 10-12 until the pH was stable, followed by stirring for 0.5 h; the solution prepared in above steps was added dropwise over a period of time at 10°C, a sodium hydroxide solution was added during the addition to maintain the pH of 10-12, and incubation was conducted for 0.5 h at 5-10°C after the addition; the reactant was adjusted to pH=4-5 with 31% hydrochloric acid, and extracted twice with dichloromethane; an organic phase was dried over anhydrous sodium sulfate, and concentrated to dryness under reduced pressure; the residue was pulped by adding n-heptane, the product was precipitated out, followed by filtering to obtain a filter cake, which was washed once with n-heptane, and dried under vacuum for 8 h at 50°C to give the product 1-17.</p>
+<p id="p0119" num="0119">The product 1-17 was subjected to <sup>1</sup>H NMR and MS tests, and the results were as follows. A test sample stock solution prepared from the product 1-17 was subjected to a bioassay, and the results were shown in Table 1.<!-- EPO <DP n="31"> --></p>
+<p id="p0120" num="0120">MS m/z(ESI):489.0[M <sup>+1</sup>]</p>
+<p id="p0121" num="0121"><sup>1</sup>H NMR(DMSO-d<sub>6</sub>): δ 8.04(s,1H), 7.78(s,1H), 4.48(d,2H), 3.84-3.80(m,2H), 2.57(d,2H), 2.44(s,3H), 2.15(s,3H), 1.42-1.41(m,2H), 1.24-1.16(m,4H), 1.04(s,6H), 0.87-0.83(m,3H).</p>
+<heading id="h0039">Comparative Example 1</heading>
+<p id="p0122" num="0122">The bioassay was conducted without the addition of the test sample stock solution and with the medium as a blank control, the results of which were shown in Table 1.</p>
+<heading id="h0040">Comparative Example 2</heading>
+<p id="p0123" num="0123">The bioassay was conducted with the test sample stock solution prepared using benfotiamine, and the results were shown in Table 1.</p>
+<p id="p0124" num="0124">Table 1 Contents of Aβ40 and Aβ42 proteins secreted by APP/293 cells after thiamine compound treatment<!-- EPO <DP n="32"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" colwidth="28mm"/>
+<colspec colnum="2" colname="col2" colwidth="28mm"/>
+<colspec colnum="3" colname="col3" colwidth="28mm"/>
+<colspec colnum="4" colname="col4" colwidth="28mm"/>
+<colspec colnum="5" colname="col5" colwidth="28mm"/>
+<colspec colnum="6" colname="col6" colwidth="28mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle">Compound</entry>
+<entry align="center" valign="middle">Aβ42 content (pmol/L)</entry>
+<entry align="center" valign="middle">Aβ40 content (pmol/L)</entry>
+<entry align="center" valign="middle">Compound</entry>
+<entry align="center" valign="middle">Aβ42 Content (pmol/L)</entry>
+<entry align="center" valign="middle">Aβ40 Content (pmol/L)</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Example 1</entry>
+<entry align="center" valign="middle">8.59</entry>
+<entry align="center" valign="middle">45.47</entry>
+<entry align="center" valign="middle">Example 2</entry>
+<entry align="center" valign="middle">5.37</entry>
+<entry align="center" valign="middle">75.15</entry></row>
+<row>
+<entry align="center" valign="middle">Example 3</entry>
+<entry align="center" valign="middle">4.93</entry>
+<entry align="center" valign="middle">128.90</entry>
+<entry align="center" valign="middle">Example 4</entry>
+<entry align="center" valign="middle">5.77</entry>
+<entry align="center" valign="middle">71.80</entry></row>
+<row>
+<entry align="center" valign="middle">Example 5</entry>
+<entry align="center" valign="middle">2.09</entry>
+<entry align="center" valign="middle">37.65</entry>
+<entry align="center" valign="middle">Example 6</entry>
+<entry align="center" valign="middle">2.41</entry>
+<entry align="center" valign="middle">44.38</entry></row>
+<row>
+<entry align="center" valign="middle">Example 7</entry>
+<entry align="center" valign="middle">6.09</entry>
+<entry align="center" valign="middle">106.81</entry>
+<entry align="center" valign="middle">Example 8</entry>
+<entry align="center" valign="middle">6.38</entry>
+<entry align="center" valign="middle">57.86</entry></row>
+<row>
+<entry align="center" valign="middle">Example 9</entry>
+<entry align="center" valign="middle">5.70</entry>
+<entry align="center" valign="middle">80.40</entry>
+<entry align="center" valign="middle">Example 10</entry>
+<entry align="center" valign="middle">10.62</entry>
+<entry align="center" valign="middle">71.11</entry></row>
+<row>
+<entry align="center" valign="middle">Example 11</entry>
+<entry align="center" valign="middle">3.22</entry>
+<entry align="center" valign="middle">54.75</entry>
+<entry align="center" valign="middle">Example 12</entry>
+<entry align="center" valign="middle">0.34</entry>
+<entry align="center" valign="middle">32.87</entry></row>
+<row>
+<entry align="center" valign="middle">Example 13</entry>
+<entry align="center" valign="middle">24.36</entry>
+<entry align="center" valign="middle">56.28</entry>
+<entry align="center" valign="middle">Example 14</entry>
+<entry align="center" valign="middle">6.79</entry>
+<entry align="center" valign="middle">60.34</entry></row>
+<row>
+<entry align="center" valign="middle">Example 15</entry>
+<entry align="center" valign="middle">9.59</entry>
+<entry align="center" valign="middle">40.39</entry>
+<entry align="center" valign="middle">Example 16</entry>
+<entry align="center" valign="middle">33.70</entry>
+<entry align="center" valign="middle">85.96</entry></row>
+<row>
+<entry align="center" valign="middle">Example 17</entry>
+<entry align="center" valign="middle">6.24</entry>
+<entry align="center" valign="middle">77.22</entry>
+<entry align="center" valign="middle">Comparative Example 1</entry>
+<entry align="center" valign="middle">11.08</entry>
+<entry align="center" valign="middle">127.81</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 2</entry>
+<entry align="center" valign="middle">5.04</entry>
+<entry align="center" valign="middle">53.77</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0125" num="0125">According to the above experimental results, compared with the blank in Comparative Example 1, all the compounds of the structured have inhibitory effects on Aβ42 or/and Aβ40; compared with benfotiamine in Comparative Example 2, the content of Aβ40 in Example 11 is substantially the same as that in Comparative Example 2, but the content of Aβ42 is reduced, indicating a better inhibitory effect on Aβ42; compared with benfotiamine in Comparative Example 2, in Examples 5, 6, and 12, especially in Example 12, the contents of Aβ40 and Aβ42 are significantly reduced, indicating a greater enhancement of inhibitory effects on Aβ40 and Aβ42.</p>
+<p id="p0126" num="0126">Although the present invention is disclosed above, the present invention is not limited thereto. Any person skilled in the art can make various changes and<!-- EPO <DP n="33"> --> modifications without departing from the spirit and scope of the present invention. Therefore, the protection scope of the present invention should be subject to the scope defined by the claims.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="34"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A thiamine compound, having a structure as shown in Formula (1) or Formula (2),
+<chemistry id="chem0022" num="0022"><img id="ib0022" file="imgb0022.tif" wi="130" he="37" img-content="chem" img-format="tif"/></chemistry>
+wherein R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub>, R<sub>4</sub>, R<sub>5</sub> and R<sub>6</sub> are each independently hydrogen atom, halogen atom, nitro, cyano, sulfo, amino, substituted amine group, ester group, carboxyl, hydroxyl, sulfydryl, hydrocarbylsulfydryl, hydrocarbyl, substituted hydrocarbyl, hydrocarbyloxy, substituted hydrocarbyloxy, acyl or acylamino.</claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The thiamine compound according to claim 1, wherein the thiamine compound has the structure as shown in Formula (1), wherein R<sub>1</sub> and R<sub>2</sub> are hydrogen atom, and R<sub>3</sub> is benzyl or 1,5-difluorophenyl.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The thiamine compound according to claim 1, wherein R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub>, R<sub>4</sub>, R<sub>5</sub> and R<sub>6</sub> are each independently hydrogen atom or C1-C18 hydrocarbyl.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The thiamine compound according to claim 1, wherein the thiamine compound has the structure as shown in Formula (1), R<sub>1</sub> and R<sub>2</sub> are each independently hydrogen atom, methyl or ethyl, and R<sub>3</sub> is C1-C10 hydrocarbyl.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The thiamine compound according to claim 4, wherein R<sub>1</sub> is hydrogen atom, R<sub>2</sub> is methyl, and R<sub>3</sub> is methyl or ethyl.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The thiamine compound according to claim 4, wherein R<sub>1</sub> is methyl, R<sub>2</sub> is methyl, and R<sub>3</sub> is vinyl.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The thiamine compound according to claim 3, wherein the thiamine compound<!-- EPO <DP n="35"> --> has the structure as shown in Formula (2), R<sub>4</sub> and R<sub>5</sub> are hydrogen atom, and R<sub>6</sub> is n-propyl.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>A method of producing the thiamine compound according to any of claims 1 to 7, wherein the thiamine compound is produced by reacting a thiamine phosphate as shown in Formula (1a) with an acyl chloride as shown in Formula (1b) or (2b);
+<chemistry id="chem0023" num="0023"><img id="ib0023" file="imgb0023.tif" wi="130" he="26" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0024" num="0024"><img id="ib0024" file="imgb0024.tif" wi="130" he="28" img-content="chem" img-format="tif"/></chemistry>
+wherein R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub>, R<sub>4</sub>, R<sub>5</sub> and R<sub>6</sub> are each independently hydrogen atom, halogen atom, nitro, cyano, sulfo, amino, substituted amine group, ester group, carboxyl, hydroxyl, sulfydryl, hydrocarbylsulfydryl, hydrocarbyl, substituted hydrocarbyl, hydrocarbyloxy, substituted hydrocarbyloxy, acyl or acylamino.</claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>A pharmaceutical composition comprising the thiamine compound according to any of claims 1 to 6 or an isomer thereof or salts of the thiamine compound or the isomer thereof.</claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>The pharmaceutical composition according to claim 9 for use in the preparation of a medicament for preventing or treating neurodegenerative disease.</claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>The pharmaceutical composition according to claim 10 for use in the preparation of a medicament for preventing or treating Alzheimer's disease or aging.</claim-text></claim>
+</claims>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="154" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="154" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="CN201811435584X"><document-id><country>CN</country><doc-number>201811435584X</doc-number><date>20181128</date></document-id></patcit><crossref idref="pcit0001">[0001]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="EP2918593A1"><document-id><country>EP</country><doc-number>2918593</doc-number><kind>A1</kind></document-id></patcit><crossref idref="pcit0002">[0032]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

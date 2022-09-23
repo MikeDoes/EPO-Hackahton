@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE package-index PUBLIC "-//EPO//PACKAGE INDEX 1.2//EN" "package-index-v1-2.dtd">
+<package-index>
+<package-file size="257209">
+<filename>EP20213950NWA1.xml</filename>
+<file-location>.</file-location>
+<subdocs>
+<subdoc subdoc-code="bibl"></subdoc>
+<subdoc subdoc-code="abst"></subdoc>
+<subdoc subdoc-code="desc"></subdoc>
+<subdoc subdoc-code="clms"></subdoc>
+<subdoc subdoc-code="draw"></subdoc>
+<subdoc subdoc-code="1503"></subdoc>
+<subdoc subdoc-code="epref"></subdoc>
+</subdocs>
+</package-file>
+<package-file size="9734103">
+<filename>EP20213950NWA1.pdf</filename>
+<file-location>.</file-location>
+<subdocs>
+<subdoc subdoc-code="bibl"></subdoc>
+<subdoc subdoc-code="abst"></subdoc>
+<subdoc subdoc-code="desc"></subdoc>
+<subdoc subdoc-code="clms"></subdoc>
+<subdoc subdoc-code="draw"></subdoc>
+<subdoc subdoc-code="1503"></subdoc>
+<subdoc subdoc-code="epref"></subdoc>
+</subdocs>
+</package-file>
+<package-file size="1039">
+<filename>imgb0001.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="1238">
+<filename>imgb0002.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="98555">
+<filename>imgb0003.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="208359">
+<filename>imgb0004.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18771">
+<filename>imgb0005.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="30016">
+<filename>imgb0006.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19265">
+<filename>imgb0007.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="29613">
+<filename>imgb0008.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="22745">
+<filename>imgb0009.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="22684">
+<filename>imgb0010.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="40078">
+<filename>imgb0011.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="30679">
+<filename>imgb0012.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="29872">
+<filename>imgb0013.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="26469">
+<filename>imgb0014.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="24701">
+<filename>imgb0015.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="29624">
+<filename>imgb0016.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="20293">
+<filename>imgb0017.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="22022">
+<filename>imgb0018.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="48907">
+<filename>imgb0019.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="48992">
+<filename>imgb0020.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="41668">
+<filename>imgb0021.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="48809">
+<filename>imgb0022.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="43629">
+<filename>imgb0023.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="48388">
+<filename>imgb0024.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="48802">
+<filename>imgb0025.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="25716">
+<filename>imgb0026.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="34641">
+<filename>imgb0027.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="49177">
+<filename>imgb0028.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="49026">
+<filename>imgb0029.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="48441">
+<filename>imgb0030.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="49269">
+<filename>imgb0031.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="49033">
+<filename>imgb0032.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="49462">
+<filename>imgb0033.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="48712">
+<filename>imgb0034.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="43540">
+<filename>imgb0035.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="48499">
+<filename>imgb0036.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="48786">
+<filename>imgb0037.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="48140">
+<filename>imgb0038.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="48861">
+<filename>imgb0039.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="48926">
+<filename>imgb0040.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="49647">
+<filename>imgb0041.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="48755">
+<filename>imgb0042.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="40685">
+<filename>imgb0043.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="48521">
+<filename>imgb0044.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="49270">
+<filename>imgb0045.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="49875">
+<filename>imgb0046.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="50200">
+<filename>imgb0047.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="49963">
+<filename>imgb0048.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="51056">
+<filename>imgb0049.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="50250">
+<filename>imgb0050.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="50598">
+<filename>imgb0051.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="50454">
+<filename>imgb0052.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="49956">
+<filename>imgb0053.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="48982">
+<filename>imgb0054.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="49578">
+<filename>imgb0055.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="49978">
+<filename>imgb0056.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="50393">
+<filename>imgb0057.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="48916">
+<filename>imgb0058.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="49349">
+<filename>imgb0059.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="49506">
+<filename>imgb0060.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="49812">
+<filename>imgb0061.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="28994">
+<filename>imgb0062.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19327">
+<filename>imgb0063.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18852">
+<filename>imgb0064.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19619">
+<filename>imgb0065.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18771">
+<filename>imgb0066.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19467">
+<filename>imgb0067.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="20166">
+<filename>imgb0068.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19223">
+<filename>imgb0069.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19743">
+<filename>imgb0070.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19069">
+<filename>imgb0071.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18705">
+<filename>imgb0072.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19978">
+<filename>imgb0073.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19517">
+<filename>imgb0074.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19408">
+<filename>imgb0075.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19046">
+<filename>imgb0076.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19324">
+<filename>imgb0077.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18699">
+<filename>imgb0078.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18072">
+<filename>imgb0079.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18051">
+<filename>imgb0080.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18234">
+<filename>imgb0081.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="17627">
+<filename>imgb0082.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18526">
+<filename>imgb0083.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="15926">
+<filename>imgb0084.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="16163">
+<filename>imgb0085.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="14861">
+<filename>imgb0086.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="16175">
+<filename>imgb0087.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18750">
+<filename>imgb0088.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19000">
+<filename>imgb0089.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="17027">
+<filename>imgb0090.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="14943">
+<filename>imgb0091.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18501">
+<filename>imgb0092.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="24506">
+<filename>imgb0093.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="33803">
+<filename>imgb0094.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="20168">
+<filename>imgb0095.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="29285">
+<filename>imgb0096.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="25378">
+<filename>imgb0097.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="25561">
+<filename>imgb0098.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18955">
+<filename>imgb0099.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="25119">
+<filename>imgb0100.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19618">
+<filename>imgb0101.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19157">
+<filename>imgb0102.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19391">
+<filename>imgb0103.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18545">
+<filename>imgb0104.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19317">
+<filename>imgb0105.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="20324">
+<filename>imgb0106.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19142">
+<filename>imgb0107.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19142">
+<filename>imgb0108.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19362">
+<filename>imgb0109.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18521">
+<filename>imgb0110.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19318">
+<filename>imgb0111.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19309">
+<filename>imgb0112.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="20056">
+<filename>imgb0113.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19458">
+<filename>imgb0114.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19522">
+<filename>imgb0115.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18783">
+<filename>imgb0116.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19643">
+<filename>imgb0117.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="20371">
+<filename>imgb0118.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19127">
+<filename>imgb0119.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18749">
+<filename>imgb0120.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19565">
+<filename>imgb0121.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19112">
+<filename>imgb0122.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="20050">
+<filename>imgb0123.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19021">
+<filename>imgb0124.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19336">
+<filename>imgb0125.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18055">
+<filename>imgb0126.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18801">
+<filename>imgb0127.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18825">
+<filename>imgb0128.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18340">
+<filename>imgb0129.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="17083">
+<filename>imgb0130.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18165">
+<filename>imgb0131.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18180">
+<filename>imgb0132.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18785">
+<filename>imgb0133.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18852">
+<filename>imgb0134.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19290">
+<filename>imgb0135.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18418">
+<filename>imgb0136.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19180">
+<filename>imgb0137.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19168">
+<filename>imgb0138.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19251">
+<filename>imgb0139.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18446">
+<filename>imgb0140.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19122">
+<filename>imgb0141.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19157">
+<filename>imgb0142.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19337">
+<filename>imgb0143.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18279">
+<filename>imgb0144.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19349">
+<filename>imgb0145.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19470">
+<filename>imgb0146.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18189">
+<filename>imgb0147.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18870">
+<filename>imgb0148.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19248">
+<filename>imgb0149.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18422">
+<filename>imgb0150.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19336">
+<filename>imgb0151.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="19448">
+<filename>imgb0152.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="16409">
+<filename>imgb0153.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="15646">
+<filename>imgb0154.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="16027">
+<filename>imgb0155.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="16214">
+<filename>imgb0156.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="13867">
+<filename>imgb0157.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="62827">
+<filename>imgf0001.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="41146">
+<filename>imgf0002.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="80776">
+<filename>imgf0003.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="242455">
+<filename>imgf0004.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="36893">
+<filename>imgf0005.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="40182">
+<filename>imgf0006.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="608065">
+<filename>imgf0007.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="843397">
+<filename>imgf0008.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="388223">
+<filename>imgf0009.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="895071">
+<filename>imgf0010.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="420294">
+<filename>imgf0011.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="56804">
+<filename>imgf0012.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="136605">
+<filename>imgf0013.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="174449">
+<filename>imgf0014.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="173671">
+<filename>imgf0015.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="214198">
+<filename>imgf0016.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="142765">
+<filename>imgf0017.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="145514">
+<filename>imgf0018.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="117648">
+<filename>imgf0019.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="88329">
+<filename>imgf0020.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="35872">
+<filename>imgf0021.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="46543">
+<filename>imgf0022.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="652911">
+<filename>imgf0023.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="62045">
+<filename>imgf0024.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="509239">
+<filename>imgf0025.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="269544">
+<filename>imgf0026.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="35594">
+<filename>srep0001.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="33350">
+<filename>srep0002.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="22294">
+<filename>srep0003.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="34323">
+<filename>srep0004.tif</filename>
+<file-location>.</file-location>
+</package-file>
+</package-index>

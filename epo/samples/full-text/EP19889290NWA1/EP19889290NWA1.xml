@@ -1,0 +1,2366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19889290A1" file="EP19889290NWA1.xml" lang="en" country="EP" doc-number="3889310" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3889310</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19889290.3</B210><B220><date>20191129</date></B220><B240><B241><date>20210625</date></B241></B240><B250>ja</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>2018225421</B310><B320><date>20181130</date></B320><B330><ctry>JP</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>C23C   2/12        20060101AFI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C22C  21/00        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>C22C  21/02        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>C22C  38/00        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>C22C  38/58        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="6"><text>B21D  22/20        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="7"><text>C21D   1/18        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="8"><text>C21D   9/00        20060101ALI20200605BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>C22C  21/02        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>C22C  21/00        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="3"><text>C22C  38/00        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="4"><text>B21D  22/20        20130101 LA20200626BCEP        </text></classification-cpc><classification-cpc sequence="5"><text>C21D   1/18        20130101 LA20200626BCEP        </text></classification-cpc><classification-cpc sequence="6"><text>C21D   9/00        20130101 LA20200626BCEP        </text></classification-cpc><classification-cpc sequence="7"><text>C23C   2/12        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="8"><text>C22C  38/58        20130101 LI20200626BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>ALUMINIUMPLATTIERTES STAHLBLECH, HEISSGESTANZTES ELEMENT UND VERFAHREN ZUR HERSTELLUNG EINES HEISSGESTANZTEN ELEMENTS</B542><B541>en</B541><B542>ALUMINUM-PLATED STEEL SHEET, HOT-STAMPED MEMBER, AND METHOD FOR MANUFACTURING HOT-STAMPED MEMBER</B542><B541>fr</B541><B542>TÔLE D'ACIER PLAQUÉE D'ALUMINIUM, ÉLÉMENT ESTAMPÉ À CHAUD, ET PROCÉDÉ DE FABRICATION D'ÉLÉMENT ESTAMPÉ À CHAUD</B542></B540><B590><B598>1</B598></B590></B500><B700><B710><B711><snm>NIPPON STEEL CORPORATION</snm><iid>101860892</iid><irf>AE1899 EP</irf><adr><str>6-1, Marunouchi 2-chome</str><city>Chiyoda-ku
+Tokyo 100-8071</city><ctry>JP</ctry></adr></B711></B710><B720><B721><snm>SUZUKI Yuki</snm><adr><str>c/o NIPPON STEEL CORPORATION, 6-1, Marunouchi 2- 
+chome, Chiyoda-ku</str><city>Tokyo 100-8071</city><ctry>JP</ctry></adr></B721><B721><snm>FUJITA Soshi</snm><adr><str>c/o NIPPON STEEL CORPORATION, 6-1, Marunouchi 2- 
+chome, Chiyoda-ku</str><city>Tokyo 100-8071</city><ctry>JP</ctry></adr></B721><B721><snm>FUDA Masahiro</snm><adr><str>c/o NIPPON STEEL CORPORATION, 6-1, Marunouchi 2- 
+chome, Chiyoda-ku</str><city>Tokyo 100-8071</city><ctry>JP</ctry></adr></B721><B721><snm>IRIKAWA Hideaki</snm><adr><str>c/o NIPPON STEEL CORPORATION, 6-1, Marunouchi 2- 
+chome, Chiyoda-ku</str><city>Tokyo 100-8071</city><ctry>JP</ctry></adr></B721><B721><snm>IMAI Takeshi</snm><adr><str>c/o NIPPON STEEL CORPORATION, 6-1, Marunouchi 2- 
+chome, Chiyoda-ku</str><city>Tokyo 100-8071</city><ctry>JP</ctry></adr></B721><B721><snm>EIHARA Fumio</snm><adr><str>c/o NIPPON STEEL CORPORATION, 6-1, Marunouchi 2- 
+chome, Chiyoda-ku</str><city>Tokyo 100-8071</city><ctry>JP</ctry></adr></B721></B720><B740><B741><snm>Vossius &amp; Partner 
+Patentanwälte Rechtsanwälte mbB</snm><iid>101361216</iid><adr><str>Siebertstraße 3</str><city>81675 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>JP2019046779</anum></dnum><date>20191129</date></B861><B862>ja</B862></B860><B870><B871><dnum><pnum>WO2020111230</pnum></dnum><date>20200604</date><bnum>202023</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">This aluminum-plated steel sheet has a steel sheet and a plating layer formed on a surface of the steel sheet, the plating layer contains one or more A group elements selected from a group consisting of Be, Mg, Ca, Sr, Ba, Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, and Zn, a remainder of Al, Fe, and impurities, a thickness t of the plating layer is 10 to 60 µm, and an average grain size is 2t/3 or less and 15 µm or less in a thickness range from an outermost surface of the plating layer to a 2/3 thickness t position.<img id="iaf01" file="imgaf001.tif" wi="78" he="71" img-content="drawing" img-format="tif"/></p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">[Technical Field of the Invention]</heading>
+<p id="p0001" num="0001">The present invention relates to an aluminum-plated steel sheet, a hot-stamped member, and a method for manufacturing a hot-stamped member.</p>
+<p id="p0002" num="0002">Priority is claimed on <patcit id="pcit0001" dnum="JP2018225421A"><text>Japanese Patent Application No. 2018-225421, filed in Japan, November 30, 2018</text></patcit>, the content of which is incorporated herein by reference.</p>
+<heading id="h0002">[Related Art]</heading>
+<p id="p0003" num="0003">In recent years, there has been a rising demand for suppressing the consumption of chemical fuels in order for environmental protection and the prevention of global warming, and this demand affects a variety of manufacturing industries. For example, vehicles that are indispensable to daily lives or activities as moving means are also not an exception to this demand, and there is a demand for improvement in gas mileages or the like by the weight reduction of vehicle bodies or the like. However, in vehicles, there is a possibility that simply reducing the weight of vehicle bodies may lead to the degradation of safety, which is not permissible in terms of product qualities. Therefore, in the case of reducing the weight of vehicle bodies, it is necessary to ensure appropriate safety.</p>
+<p id="p0004" num="0004">The majority of the structure of a vehicle is formed of iron, particularly, steel sheets, and the weight reduction of the steel sheets is important for the weight reduction of vehicle bodies. In addition, such a demand for steel sheets rises not only<!-- EPO <DP n="2"> --> in the vehicle-manufacturing industry but also in a variety of manufacturing industries. As a method for simply reducing the weight of steel sheets to satisfy the above-described demand, the reduction of the sheet thickness of steel sheets can be considered. However, the reduction of the sheet thickness of steel sheets leads to a decrease in the strength of structures. Therefore, in recent years, research and development has been underway regarding steel sheets capable of maintaining or increasing the mechanical strength of structures made of the steel sheets even when thinned more than steel sheets that have been thus far used by increasing the mechanical strength of the steel sheets.</p>
+<p id="p0005" num="0005">Ordinarily, materials having a high mechanical strength tend to degrade in shape fixability during forming such as bending. Therefore, in the case of working a material into a complex shape, working itself becomes difficult. As one of means for solving this problem regarding formability, a so-called "hot stamping method (also referred to as a hot pressing method, a hot pressing method, a high-temperature pressing method, or a die quenching method in some cases)" is exemplified. In this hot stamping method, a material that is a forming subject is heated to a high temperature, and a steel sheet softened by heating is formed by pressing and, after the forming (or almost at the same time as the forming), cooled. According to this hot stamping method, since the material is once heated to a high temperature to be softened, it is possible to easily press the material. Furthermore, the mechanical strength of the material can be increased by the quenching effect of the cooling after forming. Therefore, a formed article having favorable shape fixability and a high mechanical strength can be obtained using this hot stamping method.</p>
+<p id="p0006" num="0006"><!-- EPO <DP n="3"> --> However, in the case of applying this hot stamping method to steel sheets, for members and the like requiring corrosion resistance, it is necessary to perform an antirust treatment or metal coating on the surface of a worked member. Therefore, a surface cleaning step, a surface treatment step, or the like on the member becomes necessary, which degrades the productivity.</p>
+<p id="p0007" num="0007">With respect to such a problem, Patent Document 1 describes an aluminum-plated steel sheet for hot stamping having an Al-based metal coating that contains Al as a main component and contains Mg and Si on a surface of steel.</p>
+<p id="p0008" num="0008">Patent Document 2 specifies the composition of a surface of a steel sheet for hot stamping and describes that the amount of AlN in a surface of an Al-Fe alloy layer on a surface of steel is 0.01 to 1 g/m<sup>2</sup>.</p>
+<p id="p0009" num="0009">Patent Document 3 describes a vehicle member in which an Al-Fe intermetallic compound layer on a surface of a steel sheet, further having an oxide film on the surface of the Al-Fe intermetallic compound layer, and a bcc layer having Al between the steel sheet and the Al-Fe intermetallic compound layer is present and describes the thickness of the oxide film on the surface of the hot-stamped Al-Fe alloy layer. Patent Document 3 describes that an aluminum-plated steel sheet is heated such that the oxide film has a predetermined thickness, thereby forming the Al-Fe alloy layer up to the surface layer and suppressing a coating film defect or the degradation of adhesion after electrodeposition coating to ensure corrosion resistance after coating.</p>
+<p id="p0010" num="0010">However, in the aluminum-plated steel sheet for hot stamping described in Patent Document 1, the corrosion resistance after coating is not sufficient after hot stamping. In addition, Patent Document 1 does not specify the composition or<!-- EPO <DP n="4"> --> structure of the outermost surface and does not clarify the relationship between the composition or structure of the outermost surface and the corrosion resistance after coating.</p>
+<p id="p0011" num="0011">In Patent Document 2, the corrosion resistance after coating is improved to a certain extent by setting the amount of AlN in the surface of the Al-Fe alloy layer to a predetermined range, but there is room for additional improvement.</p>
+<p id="p0012" num="0012">In addition, as described in Patent Document 3, even when the structure or thickness of the Al-Fe alloy layer is controlled, the corrosion resistance after coating is not sufficient. A decrease in the adhesion amount of a chemical conversion agent due to the degradation of the reactivity between the oxide film and the chemical conversion agent, or the like is possibly a cause for the insufficient corrosion resistance after coating.</p>
+<heading id="h0003">[Prior Art Document]</heading>
+<heading id="h0004">[Patent Document]</heading>
+<p id="p0013" num="0013">
+<ul id="ul0001" list-style="none" compact="compact">
+<li>[Patent Document 1] <patcit id="pcit0002" dnum="JP2003034845A"><text>Japanese Unexamined Patent Application, First Publication No. 2003-034845</text></patcit></li>
+<li>[Patent Document 2] <patcit id="pcit0003" dnum="JP2011137210A"><text>Japanese Unexamined Patent Application, First Publication No. 2011-137210</text></patcit></li>
+<li>[Patent Document 3] <patcit id="pcit0004" dnum="JP2009293078A"><text>Japanese Unexamined Patent Application, First Publication No. 2009-293078</text></patcit></li>
+</ul></p>
+<heading id="h0005">[Disclosure of the Invention]</heading>
+<heading id="h0006">[Problems to be Solved by the Invention]</heading>
+<p id="p0014" num="0014">As described above, in the related art, there has been a problem in that it is not<!-- EPO <DP n="5"> --> possible to sufficiently ensure the corrosion resistance after coating of hot-stamped members.</p>
+<p id="p0015" num="0015">The present invention has been made in view of such a problem, and an object of the present invention is to provide an aluminum-plated steel sheet that is, particularly after hot stamping, excellent in terms of coating material adhesion that significantly affects corrosion resistance after coating and also excellent in terms of corrosion resistance after coating and is preferable for the application to hot-stamped members.</p>
+<heading id="h0007">[Means for Solving the Problem]</heading>
+<p id="p0016" num="0016">In a case where a hot-stamped member is used as, for example, a vehicle component, in a step of manufacturing a vehicle, a chemical conversion film containing zinc phosphate, which serves as a base material of an electrodeposition coating film, is formed, and a resin-based coating film (electrodeposition coating film) is formed on the chemical conversion film. In order to enhance the adhesion of the resin-based coating film (electrodeposition coating film), which is a coating material, it is useful to increase the amount of zinc phosphate crystals precipitated in the chemical conversion film containing zinc phosphate, which is a base material film under the resin-based coating film. In a chemical conversion step, zinc phosphate crystals are precipitated when the concentration of zinc phosphate in a zinc phosphate aqueous solution exceeds the solubility of zinc phosphate. The solubility of zinc phosphate decreases as the pH of the zinc phosphate aqueous solution increases.</p>
+<p id="p0017" num="0017">The present inventors found that, when a plating layer in a plated steel sheet before hot stamping that has been subjected to a refinement treatment of the metallographic structure of the plating layer by the spraying of particles immediately<!-- EPO <DP n="6"> --> after plating contains a predetermined amount of one or more elements selected from a group consisting of Group II elements and d-Block elements of Period IV of the periodic table, and the average grain size of a plated surface layer area is controlled, the coating material adhesion improves in a hot-stamped member after hot stamping. That is, it was found that, when the above plated steel sheet is hot-stamped, it is possible to contain a predetermined amount of a Group II element or a d-Block element of Period IV of the periodic table to an oxide film layer that is formed on a surface of the hot-stamped member, and consequently, in the hot-stamped member, the coating material adhesion improves, and the corrosion resistance after coating improves. The reason for the improvement of the coating material adhesion in the hot-stamped member is considered that an oxide of the Group II element or the d-Block element of Period IV of the periodic table formed on the surface by hot stamping increases the pH on the surface of the hot-stamped member while being dissolved in water, whereby, as described above, zinc phosphate crystals are likely to be precipitated, and the coating material adhesion improves.</p>
+<p id="p0018" num="0018">The present invention has been made based on the above-described finding. The overview of the present invention is as described below.
+<ol id="ol0001" compact="compact" ol-style="">
+<li>[1] An aluminum-plated steel sheet according to one aspect of the present invention has a steel sheet and a plating layer formed on a surface of the steel sheet, in which the plating layer contains one or more A group elements selected from a group consisting of Be, Mg, Ca, Sr, Ba, Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, and Zn, a remainder of Al, Fe, and impurities, a thickness t of the plating layer is 10 to 60 µm, and an average grain size is 2t/3 or less and 15 µm or less in a thickness range from an outermost surface of the plating layer to a 2/3 thickness t position.<!-- EPO <DP n="7"> --></li>
+<li>[2] In the aluminum-plated steel sheet according to [1], a chemical composition of the plating layer may be, by mass%, a total content of the A group elements: 0.001% to 30.00%, Si: 0% to 20.0%, Fe: 0% to 10.0%, and a remainder: Al and impurities.</li>
+<li>[3] In the aluminum-plated steel sheet according to [1] or [2], in the chemical composition of the plating layer, by mass%, a total of a Sr content, a Mg content, and a Ca content may be less than 0.001%, and a total content of the A group elements may be 0.05% to 30.00%.</li>
+<li>[4] In the aluminum-plated steel sheet according to any one of [1] to [3], in the case of measuring the A group elements in the plating layer in a thickness direction from the outermost surface of the plating layer using GDS, a maximum value of detection intensities of the A group elements in a range from the outermost surface of the plating layer to a 1/3 thickness t position may be 2.0 times or more an average value of detection intensities of the A group elements in a range from the 2/3 thickness t position to a thickness t position.</li>
+<li>[5] In the aluminum-plated steel sheet according to any one of [1] to [4], a chemical composition of the steel sheet may be, by mass%, C: 0.1% to 0.4%, Si: 0.01% to 0.60%, Mn: 0.50% to 3.00%, P: 0.05% or less, S: 0.020% or less, Al: 0.10% or less, Ti: 0.01% to 0.10%, B: 0.0001% to 0.0100%, N: 0.010% or less, Cr: 0% to 1.00%, Mo: 0% to 1.00%, Cu: 0% to 1.00%, Ni: 0% to 2.00%, Nb: 0% to 1.00%, Sn: 0% to 1.00%, Ca: 0% to 0.10%, and a remainder: Fe and impurities.</li>
+<li>[6] A method for manufacturing a hot-stamped member according to another aspect of the present invention, in which the aluminum-plated steel sheet according to any one of [1] to [5] is heated to a temperature range of 850°C to 950°C and held in the temperature range for 2 minutes or longer, and then hot stamping is performed.<!-- EPO <DP n="8"> --></li>
+<li>[7] A hot-stamped member according to another aspect of the present invention is a hot-stamped member obtained by hot-stamping the aluminum-plated steel sheet according to any one of [1] to [5], the hot-stamped member having an oxide film layer containing one or more A group elements selected from a group consisting of Be, Mg, Ca, Sr, Ba, Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, and Zn, Al, and oxygen in a surface.</li>
+</ol></p>
+<heading id="h0008">[Effects of the Invention]</heading>
+<p id="p0019" num="0019">According to the above-described aspects of the present invention, it is possible to provide an aluminum-plated steel sheet that is excellent in terms of adhesion to an electrodeposition coating film (coating material adhesion), particularly, after hot stamping and is preferable for the application to hot-stamped members. In addition, it is possible to provide a method for manufacturing a hot-stamped member in which hot stamping is performed on the aluminum-plated steel sheet and a hot-stamped member obtained by hot-stamping the aluminum-plated steel sheet. This hot-stamped member is excellent in terms of adhesion to an electrodeposition coating film and corrosion resistance after coating.</p>
+<heading id="h0009">[Brief Description of the Drawings]</heading>
+<p id="p0020" num="0020">
+<ul id="ul0002" list-style="none" compact="compact">
+<li><figref idref="f0001">FIG. 1</figref> is a schematic view showing a method for measuring an average grain size of a plating layer in an aluminum-plated steel sheet according to the present embodiment.</li>
+<li><figref idref="f0002">FIG. 2</figref> is an example of measurement results of A group elements in the plating layer in a thickness direction from an outermost surface of the plating layer using GDS for the aluminum-plated steel sheet according to the present embodiment.<!-- EPO <DP n="9"> --></li>
+<li><figref idref="f0003">FIG. 3</figref> is an example of measurement results of A group elements in a thickness direction from an outermost surface of an oxide film layer using GDS in a hot-stamped member obtained by hot-stamping the aluminum-plated steel sheet according to the present embodiment.</li>
+</ul></p>
+<heading id="h0010">[Embodiments of the Invention]</heading>
+<p id="p0021" num="0021">Hereinafter, a preferable embodiment of an aluminum-plated steel sheet of the present invention (an aluminum-plated steel sheet according to the present embodiment), a hot-stamped member according to the present embodiment, and manufacturing methods therefor will be described in detail.</p>
+<heading id="h0011">(Aluminum-plated steel sheet)</heading>
+<p id="p0022" num="0022">An aluminum-plated steel sheet according to the present embodiment has a steel sheet and a plating layer formed on a surface of the steel sheet, in which the plating layer contains one or more A group elements selected from a group consisting of Be, Mg, Ca, Sr, Ba, Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, and Zn, a remainder of Al, Fe, and impurities, a thickness t (µm) of the plating layer is 10 to 60 µm, and an average grain size is 2t/3 (µm) or less and 15 µm or less in a range from an outermost surface of the plating layer to a position of 2/3 times of thickness t from the surface. It should be noted that crystal grains can be confirmed by etching the steel sheet with a 3% nitric acid alcohol solution (Nital solution) and causing grain boundaries to appear.</p>
+<p id="p0023" num="0023">In the aluminum-plated steel sheet according to the present embodiment (aluminum-plated steel sheet), the average grain size of the plating layer is controlled to be small, and there are a number of grain boundaries. As a result, the area of<!-- EPO <DP n="10"> --> interfaces with an atmospheric gas such as the atmosphere during heating for hot stamping that is subsequently performed becomes large. Since the A group elements have a high affinity to the atmospheric gas, the A group elements concentrate in the surface layer during heating, and the proportion of the A group elements in an oxide film layer that is formed on the surface layer area of a member after hot stamping (hot-stamped member) becomes large.</p>
+<p id="p0024" num="0024">In the hot-stamped member, the A group elements are contained in the oxide film layer mainly in an oxide form. When a chemical conversion is performed on the outermost surface (the surface of the oxide film layer) of the above-described hot-stamped member, the presence of the oxide of the A group elements on the outermost surface of the hot-stamped member increases the pH of a chemical conversion liquid in the interface between the oxide film layer and the chemical conversion liquid. Therefore, the amount of zinc phosphate crystals precipitated becomes large. That is, so-called chemical convertibility is enhanced. In addition, the increase in the amount of zinc phosphate crystals precipitated improves the adhesion (coating material adhesion) of an electrodeposition coating film that is electrodeposition-coated after the chemical conversion. In addition, the enhancement of the adhesion of the electrodeposition coating film improves corrosion resistance after coating.</p>
+<p id="p0025" num="0025">Hereinafter, the plating layer that is included in the aluminum-plated steel sheet according to the present embodiment and the steel sheet in which the plating layer is formed will be described. In the present embodiment, the application to a hot-stamped member will be mainly described, but the application of the aluminum-plated steel sheet according to the present embodiment is not limited to the hot-stamped<!-- EPO <DP n="11"> --> member.</p>
+<heading id="h0012">(Plating layer)</heading>
+<p id="p0026" num="0026">The plating layer is formed on a surface of the steel sheet. The plating layer contains A group elements with a remainder of Al, Fe, and impurities and may further contain Si. The Al content is preferably set to 75% or more. The upper limit of the Al content does not need to be particularly specified, but may be, for example, 99.999%.</p>
+<p id="p0027" num="0027">The A group elements are Group II elements or d-Block elements of Period IV in the periodic table. In the present embodiment, the Group II elements in the periodic table refer to Be, Mg, Ca, Sr, and Ba, and d-Block elements of Period IV refer to Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, and Zn. The plating layer of the aluminum-plated steel sheet according to the present embodiment needs to contain one or more of the above-described elements.</p>
+<p id="p0028" num="0028">In order to improve the adhesion to an electrodeposition coating film and the corrosion resistance after coating, the A group elements may exclude Fe and may be limited to Be, Mg, Ca, Sr, Ba, Sc, Ti, V, Cr, Mn, Co, Ni, Cu, and Zn. In addition, among the A group elements, Sr, Mg, and Ca are particularly preferable since Sr, Mg, and Ca significantly improve the adhesion and the durability after coating of the electrodeposition coating film even in a small amount of 0.100% or less.</p>
+<p id="p0029" num="0029">As a preferable chemical composition of the plating layer, a chemical composition containing, by mass%, a total content of the A group elements: 0.001% to 30.00%, Si: 0% to 20.0%, Fe: 0% to 10.0% with a remainder of Al is exemplified. Although the effect can be obtained as long as the A group elements are contained, but the total content of the A group elements is preferably set to 0.001% or more. In<!-- EPO <DP n="12"> --> order to further improve the adhesion and the corrosion resistance after coating of the electrodeposition coating film, the lower limit of the total content of the A group elements is more preferably as high as possible such as 0.01%, 0.03%, 0.05%, 0.07%, or 0.09%. As described above, since Sr, Mg, and Ca exhibit the effect even in a small amount, the lower limit of the total content of the A group elements may be set to different values in a case where Sr, Mg, and Ca are contained and in a case where Sr, Mg, and Ca are not contained. For example, in a case where the lower limit of the total content of Sr, Mg, and Ca is set to 0.001%, 0.01%, 0.02%, 0.03%, 0.04%, 0.06%, or 0.08%, but the lower limit of the total content of Sr, Mg, and Ca does not satisfy this value, the lower limit of the total content of the A group elements may be set to 0.05%, 0.10%, 0.15%, or 0.20%. That is, for example, in a case where the total content of Sr, Mg, and Ca is less than 0.001%, the total content of the A group elements may be set to 0.05% to 30.00%.</p>
+<p id="p0030" num="0030">In addition, when the total content of the A group elements exceeds 30.00%, the alloying cost of a plating bath or the like increases, which is not preferable. In order to satisfy both the required performance as a vehicle member and the manufacturing cost, the upper limit of the total content of the A group elements may be set to 15.0%, 10.0%, 5.00%, 3.00%, 2.00%, 1.50%, or 1.00%.</p>
+<p id="p0031" num="0031">When the Si content exceeds 20.0%, the amount of an alloy generated in the plating bath increases, and the frequency of removing a precipitate increases, which is not preferable. Therefore, the upper limit of the Si content is set to 20.0%. If necessary, the upper limit of the Si content may be set to 15.0%, 12.0%, or 10.0%.</p>
+<p id="p0032" num="0032">The upper limit of the Fe content is set to 10.0%. If necessary, the upper limit of the Fe content may be set to 7.0%, 5.0%, or 4.0%. Si and Fe are not necessarily contained, and the lower limits of the contents thereof are 0%. If<!-- EPO <DP n="13"> --> necessary, the lower limits of the Si content and the Fe content may be set to 0.1%, respectively.</p>
+<p id="p0033" num="0033">In addition, the metallographic structure of the plating layer may include one or more of an Al phase, an Al-Si phase, a Si phase, an Al-Fe alloy phase, or an Al-Fe-Si alloy phase.</p>
+<p id="p0034" num="0034">The plating layer may be formed on both surfaces of the steel sheet, but may be present on one surface. The chemical composition of the plating layer can be analyzed by the offline X-ray fluorescence method described in Annex JB of JIS G 3314: 2011.</p>
+<heading id="h0013">(Thickness of plating layer t: 10 to 60 µm)</heading>
+<p id="p0035" num="0035">The thickness t of the plating layer is in a range of 10 µm to 60 µm. When the thickness t is set to 10 µm or more, it is possible to improve the corrosion resistance of the hot-stamped member. In addition, when the thickness is set to 60 µm or less, an Al-Fe intermetallic compound layer is formed up to the outermost layer or near the outermost layer, and thus the corrosion resistance of the hot-stamped member improves. The lower limit of the thickness t of the plating layer may be set to 13 µm, 15 µm, 20 µm, or 25 µm, and the upper limit of the thickness t may be set to 55 µm, 50 µm, or 45 µm.</p>
+<p id="p0036" num="0036">The thickness of the plating layer can be measured by observation using glow discharge spectroscopy (GDS) or the like.</p>
+<p id="p0037" num="0037">In the present embodiment, up to a position where the detection intensity of Al is reduced up to 1/20 of the maximum value is determined as the plating layer, using GDS. Specifically, in a case where Al is measured by GDS for 1000 seconds in the<!-- EPO <DP n="14"> --> thickness direction from the surface of the plating layer at intervals of 0.1 seconds and a sputtering rate of 0.060 µm/second, the measurement time taken for the detection intensity to reach 1/20 of the maximum value is represented by T [seconds], and T is multiplied by the sputtering rate, thereby obtaining the thickness of the plating layer. Here, in a case where the detection intensity of Al is detected to reach 1/20 of the maximum value at a plurality of points, the longest time of the measurement times taken for the detection intensity to reach 1/20 of the maximum value is represented by T [seconds], and T is multiplied by the sputtering rate, thereby obtaining the thickness of the plating layer.</p>
+<heading id="h0014">(Average grain size in range from outermost surface of plating layer to a position of 2/3 times of thickness t (2t/3 position): 2t/3 or less and 15µm or less)</heading>
+<p id="p0038" num="0038">The average grain size from the outermost surface of the plating layer to the 2t/3 position is 2t/3 (µm) or less and 15 µm or less in a case where the thickness of the plating layer is represented by t. When the average grain size is set to 2t/3 (µm) or less and 15 µm or less, the area of grain boundaries becomes large, and the interface area with an atmospheric gas such as the atmospheric air during heating in hot stamping that is subsequently performed becomes large. Therefore, the amount of zinc phosphate crystals precipitated becomes large. That is, so-called chemical convertibility is enhanced. In addition, the enhancement of the chemical convertibility improves the adhesion of an electrodeposition coating film that is electrodeposition-coated after the chemical conversion. The enhancement of the adhesion of the electrodeposition coating film improves the corrosion resistance after coating.</p>
+<p id="p0039" num="0039">After hot stamping, the corrosion resistance after coating improves as<!-- EPO <DP n="15"> --> described above. However, even in a case where hot stamping is not performed, when the average grain size is 2t/3 (µm) or less and 15 µm or less, the area of the interfaces with the coating film becomes large, whereby the adhesion is enhanced, and the corrosion resistance after coating improves.</p>
+<p id="p0040" num="0040">The average grain size of the plating layer is obtained as follows.</p>
+<p id="p0041" num="0041">A sample is collected from the aluminum-plated steel sheet such that a cross section of the plating layer in the thickness direction becomes the observation surface. The collected sample is etched with a 3% nitric acid alcohol solution (Nital solution) to cause grain boundaries to appear, and an image is captured using a scanning electron microscope (SEM) such that a range from the outermost surface of the plating layer to the steel sheet is included in the range. On this photograph, as shown in <figref idref="f0001">FIG. 1</figref>, a line segment having a length of 2t/3 (t = the thickness (µm) of the plating layer) is drawn in the thickness direction from the outermost surface of the plating layer, the number of intersection points with grain boundaries is represented by n, and the value obtained by dividing the line segment length (2t/3) by n, that is, (2t/3n) is regarded as the average grain size. Three line segments are drawn as described above at random positions at intervals of 5 µm as shown by (a), (b), and (c) in the drawing, average grain sizes are obtained at the positions of the respective line segments, and a value obtained by averaging the average grain sizes is regarded as the average grain size of the plating layer in a range from the outermost surface to the 2/3 thickness t position (2t/3 position).</p>
+<p id="p0042" num="0042">In a case where n is 0, it is not possible to calculate 2t/3n. However, in this case, since the grain size is larger than 2t/3 in the observation image, the average grain size is determined not to be 2t/3 or less.<!-- EPO <DP n="16"> --></p>
+<p id="p0043" num="0043">In addition, in the calculation of the number n of intersection points, as described in Annex C.2.2 of JIS G0551: 2013, in a case where a line segment intersects with a triple point, n is regarded as 1.5 at that point.</p>
+<heading id="h0015">(Maximum value of detection intensities of A group elements in range from outermost surface of plating layer to 1/3 thickness t position being 2.0 times or more average value of detection intensities of A group elements in range from 2/3 thickness t position (2t/3 position) from outermost surface to thickness t position)</heading>
+<p id="p0044" num="0044">The maximum value of the detection intensities of the A group elements in a range from the outermost surface to a t/3 position is preferably 2.0 times or more the average value of the detection intensities of the A group elements in a range from the 2t/3 position to a thickness t position (almost the same as the position of the interface between the plating layer and the steel sheet). That is, it is preferable that the A group elements concentrate at a position close to the surface of the plating layer. Particularly, since Sr, Mg, and Ca have a high affinity to oxygen, these elements have a high tendency of concentrating at a position near the surface of the plating layer and have an effect of significantly improving corrosion resistance after coating even in a small amount.</p>
+<p id="p0045" num="0045">When the ratio between the above-described detection intensities is set to 2.0 times or more, the proportion of the A group elements in the surface layer area of a member after hot stamping becomes high, and the proportion of the A group elements present on the surface of the oxide film layer also becomes high. Therefore, the pH of the chemical conversion liquid in the interface between the hot-stamped member and the chemical conversion liquid increases. As a result, the amount of zinc phosphate crystals precipitated during the chemical conversion becomes large, and so-called<!-- EPO <DP n="17"> --> chemical convertibility is enhanced. In addition, the enhancement of the chemical convertibility improves the adhesion of an electrodeposition coating film that is electrodeposition-coated after the chemical conversion. As a result, the corrosion resistance after coating improves.</p>
+<p id="p0046" num="0046">The maximum value of the detection intensities of the A group elements in the range from the outermost surface to the 1/3 thickness t position (t/3 position) and the average value of the detection intensities of the A group elements in the range from the 2/3 thickness t position (2t/3 position) from outermost surface to the thickness t position (t position) are obtained by the following method.</p>
+<p id="p0047" num="0047">After the thickness t of the aluminum-plated layer is measured as described above, the A group elements are measured by GDS in the thickness direction from the surface of the plating layer at intervals of 0.1 seconds and a sputtering rate of 0.060 µm/second, and the maximum value of the detection intensities of the A group elements in the range from the outermost surface to the t/3 position and the average value of the detection intensities from the 2t/3 position to the t position are obtained. In a case where a plurality of the A group elements are contained, the maximum value and the average value are determined using the element having the highest detection intensity. <figref idref="f0002">FIG. 2</figref> is an example of the measurement results of the A group elements in the plating layer in the thickness direction from the outermost surface of the plating layer using GDS for the aluminum-plated steel sheet according to the present embodiment.</p>
+<heading id="h0016">(Steel sheet)</heading>
+<p id="p0048" num="0048">The steel sheet that the aluminum-plated steel sheet according to the present<!-- EPO <DP n="18"> --> embodiment includes is not particularly limited as long as the steel sheet can be preferably used in the hot stamping method. As a steel sheet applicable to the hot-stamped member according to the present embodiment, for example, a steel sheet having a chemical composition containing, by mass%, C: 0.1% to 0.4%, Si: 0.01% to 0.60%, Mn: 0.50% to 3.00%, P: 0.05% or less, S: 0.020% or less, Al: 0.10% or less, Ti: 0.01% to 0.10%, B: 0.0001% to 0.0100%, N: 0.010% or less, Cr: 0% to 1.00%, and Mo: 0% to 1.00% with a remainder of Fe and impurities can be exemplified. As the form of the steel sheet, for example, a steel sheet such as a hot-rolled steel sheet or a cold-rolled steel sheet can be exemplified. Hereinafter, a preferable range of each component contained in the steel sheet will be described.</p>
+<heading id="h0017">C: 0.1% to 0.4%</heading>
+<p id="p0049" num="0049">C is contained in order to ensure an intended mechanical strength. In a case where the C content is less than 0.1%, the mechanical strength cannot be sufficiently improved, and the effect of the containing of C becomes weak.</p>
+<p id="p0050" num="0050">On the other hand, in a case where the C content exceeds 0.4%, it is possible to further harden and improve the strength of the steel sheet, but elongation and the reduction in area are likely to decrease.</p>
+<p id="p0051" num="0051">Therefore, the C content is desirably in a range of 0.1% or more and 0.4% or less by mass%.</p>
+<heading id="h0018">Si: 0.01% to 0.60%</heading>
+<p id="p0052" num="0052">Si is one of the strength improvement elements that improve the mechanical strength of steel and, similar to C, is contained in order to ensure an intended mechanical strength. In a case where the Si content is less than 0.01%, the strength<!-- EPO <DP n="19"> --> improvement effect is not easily exhibited, and the mechanical strength cannot be sufficiently improved.</p>
+<p id="p0053" num="0053">Meanwhile, Si is also an easily oxidizing element. Therefore, in a case where the Si content exceeds 0.60%, due to the influence of a Si oxide formed on the surface layer of the steel sheet, during molten Al plating, the wettability degrades, and there is a concern that a non-plated part may be generated.</p>
+<p id="p0054" num="0054">Therefore, the Si content is desirably in a range of 0.01% or more and 0.60% or less by mass%.</p>
+<heading id="h0019">Mn: 0.50% to 3.00%</heading>
+<p id="p0055" num="0055">Mn is one of the strengthening elements that strengthen steel and is also one of the elements that enhance hardenability. Furthermore, Mn is effective for preventing hot embrittlement attributed to S, which is one of the impurities. In a case where the Mn content is less than 0.50%, these effects cannot be obtained. Therefore, the Mn content is set to 0.50% or more.</p>
+<p id="p0056" num="0056">On the other hand, since Mn is an element that accelerates the formation of austenite, in a case where the Mn content exceeds 3.00%, retained austenite excessively increases, and there is a concern that the strength may decrease.</p>
+<p id="p0057" num="0057">Therefore, the Mn content is desirably in a range of 0.50% or more and 3.00% or less by mass%.</p>
+<heading id="h0020">P: 0.05% or less</heading>
+<p id="p0058" num="0058">P is an impurity that is contained in steel. There is a case where P that is contained in the steel sheet is segregated in grain boundaries in the steel sheet, degrades the toughness of the base metal of a hot-stamped formed body, and degrades<!-- EPO <DP n="20"> --> the delayed fracture resistance of the steel sheet. Therefore, the P content of the steel sheet is preferably 0.05% or less, and the P content is preferably set to be as small as possible. The P content may be 0%.</p>
+<heading id="h0021">S: 0.020% or less</heading>
+<p id="p0059" num="0059">S is an impurity that is contained in steel. There is a case where S that is contained in the steel sheet forms a sulfide, degrades the toughness of the steel sheet, and degrades the delayed fracture resistance of the steel sheet. Therefore, the S content of the steel sheet is preferably 0.020% or less, and the S content of the steel sheet is preferably set to be as small as possible. The S content may be 0%.</p>
+<heading id="h0022">Al: 0.10% or less</heading>
+<p id="p0060" num="0060">Al is ordinarily used for the purpose of deoxidizing steel. However, in a case where the Al content is high, the Ac3 point of the steel sheet increases. When the Ac3 point of the steel sheet increases, it is necessary to increase the heating temperature necessary to ensure the hardenability of steel during hot stamping, which is not desirable in terms of manufacturing by hot stamping. Therefore, the Al content of the steel sheet is preferably 0.10% or less. The Al content is preferably 0.05% or less and more preferably 0.01% or less.</p>
+<heading id="h0023">Ti: 0.01% to 0.10%</heading>
+<p id="p0061" num="0061">Ti is one of the elements having an effect of improving the strength of steel. In addition, Ti is also an element having an effect of improving the oxidation resistance. In a case where the Ti content is less than 0.01%, the strength improvement effect or the oxidation resistance improvement effect cannot be obtained. These effects are<!-- EPO <DP n="21"> --> exhibited when the Ti content is 0.01% or more.</p>
+<p id="p0062" num="0062">On the other hand, when Ti is excessively contained, there is a concern that, for example, a carbide or a nitride may be formed and steel may be softened. Particularly, in a case where the Ti content exceeds 0.10%, there is a high possibility that an intended mechanical strength cannot be obtained.</p>
+<p id="p0063" num="0063">Therefore, the Ti content is desirably in a range of 0.01% or more and 0.10% or less by mass%.</p>
+<heading id="h0024">B: 0.0001% to 0.0100%</heading>
+<p id="p0064" num="0064">B is an element having an effect of improving the strength of steel by acting during quenching. In a case where the B content is less than 0.0001%, such a strength improvement effect is weak.</p>
+<p id="p0065" num="0065">On the other hand, in a case where the B content exceeds 0.0100%, there is a concern that an inclusion may be formed, the steel sheet may become brittle, and the fatigue strength may decrease.</p>
+<p id="p0066" num="0066">Therefore, the B content is desirably in a range of 0.0001% or more and 0.0100% or less by mass%.</p>
+<heading id="h0025">N: 0.010% or less</heading>
+<p id="p0067" num="0067">N is an impurity that is contained in steel. There is a case where N that is contained in the steel sheet forms a nitride and degrades the toughness of the steel sheet. Furthermore, in a case where B is contained in the steel sheet, there is a case where N that is contained in the steel sheet bonds to B to decrease the amount of a solid solution of B and weakens the hardenability improvement effect of B. Therefore, the N content of the steel sheet is preferably 0.010% or less, and the N<!-- EPO <DP n="22"> --> content of the steel sheet is more preferably set to be as small as possible. The N content may be 0%.</p>
+<p id="p0068" num="0068">In addition, the aluminum-plated steel sheet according to the present embodiment may further contain Cr, Mo, Cu, Ni, Nb, Sn, and Ca in the following ranges. However, since these elements are not essential, the lower limits are 0%.</p>
+<heading id="h0026">Cr: 0% to 1.00%</heading>
+<heading id="h0027">Mo: 0% to 1.00%</heading>
+<p id="p0069" num="0069">In order to improve the hardenability of the steel sheet, any one or both of Cr and Mo may be contained. In the case of obtaining the effect, the contents of both elements are preferably set to 0.01% or more. On the other hand, even when the contents are set to 1.00% or more, the effect is saturated, and thus the cost increases. Therefore, the contents are preferably set to 1.00% or less.</p>
+<heading id="h0028">Cu: 0% to 1.00%</heading>
+<heading id="h0029">Ni: 0% to 2.00%</heading>
+<p id="p0070" num="0070">Cu and Ni have an action of increasing the strength of the hot-stamped member (the steel sheet after hot stamping). Therefore, Cu and Ni may be contained as necessary.</p>
+<p id="p0071" num="0071">In a case where it is necessary to obtain the above-described effect, the contents of Cu and Ni are preferably 0.01% or more, respectively.</p>
+<p id="p0072" num="0072">On the other hand, even when the Cu content exceeds 1.00%, and the Ni content exceeds 2.00%, the effect is saturated, and thus the cost increases. Therefore, the Cu content is preferably set to 1.00% or less, and the Ni content is preferably set to<!-- EPO <DP n="23"> --> 2.00% or less.</p>
+<heading id="h0030">Nb: 0% to 1.00%</heading>
+<p id="p0073" num="0073">Nb is an element having an action of increasing the strength of the hot-stamped member through the refinement of the metallographic structure. In order to obtain this effect, Nb may be contained as necessary.</p>
+<p id="p0074" num="0074">In a case where it is necessary to obtain the above-described effect, the Nb content is preferably set to 0.01% or more.</p>
+<p id="p0075" num="0075">On the other hand, even when the Nb content exceeds 1.00%, the effect is saturated, and thus the cost increases. Therefore, the Nb content is preferably set to 1.00% or less.</p>
+<heading id="h0031">Sn: 0% to 1.00%</heading>
+<p id="p0076" num="0076">Sn is an element that improves the corrosion resistance of steel in a corrosive environment. Therefore, Sn may be contained. In order to obtain the above-described effect, the Sn content is preferably set to 0.01% or more.</p>
+<p id="p0077" num="0077">However, when the Sn content exceeds 1.00%, the grain boundary strength decreases, and the toughness degrades. Therefore, in a case where Sn is contained, the Sn content is preferably set to 1.00% or less.</p>
+<heading id="h0032">Ca: 0% to 0.10%</heading>
+<p id="p0078" num="0078">Ca is an element having an action of improving the toughness of the hot-stamped member by adjusting the shape of an inclusion. Therefore, Ca may be contained as necessary. In a case where it is necessary to obtain the above-described effect, Ca is preferably contained in a content of 0.01% or more.<!-- EPO <DP n="24"> --></p>
+<p id="p0079" num="0079">On the other hand, in a case where the Ca content is more than 0.10%, the above-described effect is not only saturated, but an excessive cost is also generated. Therefore, even in a case where Ca is contained, the Ca content is preferably set to 0.10% or less.</p>
+<p id="p0080" num="0080">The remainder other than the above-described components is Fe and impurities. The steel sheet may contain, other than the above-described remainder, impurities that is mixed into the steel sheet during the manufacturing step or the like. Examples of the impurity include phosphorus (P), nitrogen (N), sulfur (S), which have been described above, additionally, zinc (Zn), cobalt (Co), and the like.</p>
+<heading id="h0033">(Hot-stamped member)</heading>
+<p id="p0081" num="0081">A hot-stamped member can be produced by performing heating and quenching by the hot stamping method on the aluminum-plated steel sheet. In a case where the aluminum-plated steel sheet has the above-described preferable chemical composition, it is possible to produce a hot-stamped member having a tensile strength of approximately 1000 MPa or more by hot stamping.</p>
+<p id="p0082" num="0082">In addition, in the hot stamping method, since it is possible to perform pressing on the aluminum-plated steel sheet in a state of being softened at a high temperature, the aluminum-plated steel sheet can be easily formed into the hot-stamped member.</p>
+<p id="p0083" num="0083">In the above-described aluminum-plated steel sheet, the area of the interface (interface area) between the steel sheet and the atmospheric gas such as the atmospheric air becomes large during heating for hot stamping. Since the A group elements have a high affinity to the atmospheric gas, the amount of the A group<!-- EPO <DP n="25"> --> elements concentrating in the surface layer increases, and the proportion of the A group elements in the outermost surface of the oxide film layer becomes high. <figref idref="f0003">FIG. 3</figref> is an example of the measurement results of the A group elements in the thickness direction from the outermost surface of the oxide film layer using GDS in the hot-stamped member obtained by hot-stamping the aluminum-plated steel sheet according to the present embodiment.</p>
+<p id="p0084" num="0084">In a hot stamping step, the plating layer (the Al plating layer) is melted by heating the aluminum-plated steel sheet to the melting point of the plating layer or higher, at the same time, Fe and Al mutually diffuse between the steel sheet and the Al plating layer, and an Al phase in the Al plating layer changes to an Al-Fe alloy phase, whereby an Al-Fe intermetallic compound layer is formed. In a case where Si is contained in the Al plating layer, the Al phase in the Al plating layer also changes to an Al-Fe-Si alloy phase. Since the melting points of the Al-Fe alloy phase and the Al-Fe-Si alloy phase are approximately 1150°C and are higher than the upper limit of the heating temperature of an ordinary hot stamping step, the formation of the alloy phases leads to the precipitation of the alloy phases in the surface of the steel sheet and the formation of the Al-Fe intermetallic compound layer. There is a plurality of kinds of Al-Fe alloy phases and Al-Fe-Si alloy phases, and, when heated at a high temperature or heated for a long period of time, the Al-Fe alloy phase and the Al-Fe-Si alloy phase change to an alloy phase having a higher Fe concentration. In addition, in a case where the A group elements are contained in the Al-Fe intermetallic compound layer, the A group elements can be present in a variety of forms such as an intermetallic compound, a solid solution, and the like.</p>
+<heading id="h0034">(Oxide film layer on surface layer of hot-stamped member)</heading><!-- EPO <DP n="26"> -->
+<p id="p0085" num="0085">On a surface side (a portion corresponding to the surface layer area of the plating layer (opposite to the steel sheet) in the aluminum-plated steel sheet before hot stamping) of the hot-stamped member obtained by hot-stamping the aluminum-plated steel sheet according to the present embodiment, as the outermost surface layer of the hot-stamped member, an oxide film layer is formed. This oxide film layer is generated by the oxidation of the surface layer of the plating layer in the aluminum-plated steel sheet in a heating process of hot stamping at the time of manufacturing the hot-stamped member. The oxide film layer includes the A group elements, Al, oxygen, and impurities. The oxide film layer may further contain any one or both of Fe and Si. Regarding Fe and Si, there is a case where some of Fe and Si contained in the Al-Fe intermetallic compound layer are mixed into the oxide film layer during the formation of the oxide film layer.</p>
+<p id="p0086" num="0086">The A group elements that are contained in the oxide film layer are Group II elements and d-Block elements of Period IV in the periodic table. In the present embodiment, the Group II elements in the periodic table refer to Be, Mg, Ca, Sr, and Ba, and d-Block elements of Period IV refer to Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, and Zn. When the oxide film layer in the hot-stamped member obtained by hot-stamping the aluminum-plated steel sheet according to the present embodiment contains one or more of these elements, a coating material adhesion improvement effect can be obtained. The A group elements are present mainly as an oxide, but some of the A group elements may also be present in a form of a pure element or a compound other than the oxide. In addition, the form of the oxide is also not limited. In the oxide film layer, elements other than the A group elements are also preferably present in an oxide state. For example, it is preferable that Al is present as aluminum oxide and other impurities are present as oxides of the respective impurities. In addition, in a<!-- EPO <DP n="27"> --> case where Si is contained in the oxide film layer, Si is preferably present as a silicon oxide, and, in a case where Fe is contained, Fe is preferably present as an iron oxide. In addition, each of the A group elements, Al, Si, and Fe may be contained in a form of a complex oxide with other elements.</p>
+<p id="p0087" num="0087">The oxides of the A group elements are classified into basic oxides. In a chemical conversion step, some of a basic oxide containing the A group element in the oxide film (particularly, present in the surface of the oxide film layer) dissolves when coming into contact with a phosphoric acid chemical conversion liquid (hereinafter, referred to as the chemical conversion liquid) and increases the pH of a solution in the interface between the chemical conversion liquid and the oxide film layer that is included in the hot-stamped member. Meanwhile, when the pH increases, the solubility of zinc phosphate that is contained in the chemical conversion liquid decreases, and the amount of a crystal being precipitated increases. Therefore, an increase in the pH in the interface between the surface of the oxide film layer and the chemical conversion liquid increases zinc phosphate crystals that are precipitated on the surface of the oxide film layer.</p>
+<heading id="h0035">(Method for manufacturing aluminum-plated steel sheet and method for manufacturing hot-stamped member)</heading>
+<p id="p0088" num="0088">Next, an example of methods for manufacturing the aluminum-plated steel sheet and the hot-stamped member according to the present embodiment will be described. The manufacturing methods described below are an example in which Al plating is performed on a steel sheet to produce an aluminum-plated steel sheet, and a hot stamping step is performed on the aluminum-plated steel sheet, thereby forming an<!-- EPO <DP n="28"> --> Al-Fe intermetallic compound layer and an oxide film layer on the surface of the steel sheet. However, the methods described below are simply an example, and the present invention is not limited to the present methods.</p>
+<heading id="h0036">&lt;Method for manufacturing aluminum-plated steel sheet&gt;</heading>
+<heading id="h0037">(Immersion in plating bath)</heading>
+<p id="p0089" num="0089">An Al plating layer is formed on a surface of a steel sheet by, for example, a hot-dip plating method. The plating layer (Al plating layer) in the aluminum-plated steel sheet is formed on one surface or both surfaces of the steel sheet.</p>
+<p id="p0090" num="0090">During hot-dip plating, a heating step for hot stamping, or the like, at least some of Al that is contained in the Al plating layer is capable of alloying with Fe in the steel sheet. Therefore, the Al plating layer is not always formed as a single layer containing constant components and may include an appropriately-alloyed layer.</p>
+<p id="p0091" num="0091">In the hot-dip plating method, Al and the A group elements are added to a hot-dip plating bath. In addition, Si may also be added to the hot-dip plating bath. The amount of the A group elements being added to the hot-dip plating bath is set to 0.001 mass% or more and 30.00 mass% or less, and the Si content being added to the hot-dip plating bath is set to 20.0 mass% or less. The steel sheet is immersed in the hot-dip plating bath to which Al, the A group elements, and, as necessary, Si are added, thereby forming an Al plating layer on the surface of the steel sheet. The formed Al plating layer contains the A group elements. In addition, there is a case where Si is also contained.</p>
+<p id="p0092" num="0092">In addition, after the immersion in the plating bath, the adhesion amount of the plating is adjusted by gas wiping or the like, but the atmosphere (particularly, the<!-- EPO <DP n="29"> --> oxygen concentration) during the gas wiping affects the concentration of the A group elements. In the case of increasing the ratio between the maximum value of the detection intensities of the A group elements in the range (surface to t/3) from the outermost surface of the plating layer to the 1/3 thickness t position and the average value of the detection intensities of the A group elements in the range (2t/3 to t) from the 2/3 thickness t position to the thickness t position, the oxygen concentration in the atmosphere during the gas wiping is preferably set to more than 5 vol%, and the atmosphere having an oxygen concentration of approximately 20 vol% is more preferable.</p>
+<heading id="h0038">(Spraying of particles)</heading>
+<p id="p0093" num="0093">Next, the particles of a nitride, a carbide, an oxide, or the like are sprayed to the steel sheet immediately after being lifted from the hot-dip plating bath together with a cooling gas such as an air, nitrogen, or argon before the solidification of molten metal (plating metal in a molten state) attached to the steel sheet by the immersion in the hot-dip plating bath. The sprayed particles act as the nuclei of crystals and have an effect of, in the solidified plating metal, decreasing the grain sizes in the Al plating layer. This effect is particularly strong on the surface side on which the particles are sprayed.</p>
+<p id="p0094" num="0094">A decrease in the grain sizes in the Al plating layer increases the number of grain boundaries and increases the interface area with the atmospheric gas such as the atmospheric air during heating in hot stamping that is subsequently performed. Since the A group elements have a high affinity to the atmospheric gas, the A group elements concentrate in the surface layer area of the plating layer during heating for hot stamping, and the proportion of the A group elements in the outermost surface of the<!-- EPO <DP n="30"> --> oxide film layer in the hot-stamped member becomes high.</p>
+<p id="p0095" num="0095">The spraying rate of the particles is preferably set to 30 to 70 m/s in a direction perpendicular to the surface of the steel sheet. The sprayed particles have an effect of cooling the plating metal in a molten state at the same time as the particles become the nuclei of crystals. In a case where the spraying rate of the particles is less than 30 m/s, the interface area with the plating metal that the sprayed particles come into contact with per unit time is small. Therefore, the cooling rate is insufficient, and the number of the nuclei of crystals becomes small. As a result, the crystal grain size becomes large even after hot stamping, and the coating material adhesion and the corrosion resistance after coating are poor. On the other hand, when the spraying rate of the particles is higher than 70 m/s, the unevenness of the plating metal becomes significant due to the spraying of the particles. Therefore, the unevenness becomes excessively significant even after hot stamping, and the corrosion resistance after coating degrades.</p>
+<p id="p0096" num="0096">The sizes of the particles of the sprayed nitride, carbide, oxide, or the like are not particularly limited. However, when the grain sizes exceed 20 µm, crystal grains in the Al plating layer become large, and the A group elements are less likely to concentrate in the surface layer during hot stamping. Therefore, the particles desirably have a grain size of 20 µm or less. As the nitride, carbide, and oxide to be sprayed, titanium nitride, silicon nitride, titanium carbide, silicon carbide, titanium oxide, silicon oxide, iron oxide, aluminum oxide, and the like are exemplified. The adhesion amount of the particles is preferably set to, for example, 0.01 to 1.0 g/m<sup>2</sup>. When the adhesion amount of the particles is in this range, a sufficient amount of the nuclei of crystals are formed in the Al plating layer, particularly, in the surface layer<!-- EPO <DP n="31"> --> area of the plating layer. Therefore, the grain sizes in the Al plating layer become sufficiently small, and it is possible to concentrate the A group elements in the surface layer area of the oxide film layer by heating during hot stamping.</p>
+<heading id="h0039">&lt;Method for manufacturing hot-stamped member&gt;</heading>
+<p id="p0097" num="0097">Hot stamping is performed on the aluminum-plated steel sheet manufactured as described above, thereby obtaining a hot-stamped member. In the hot stamping method, the aluminum-plated steel sheet is blanked (punched) as necessary, and then the aluminum-plated steel sheet is heated and softened. In addition, the softened aluminum-plated steel sheet is formed by pressing and then cooled. The softened aluminum-plated steel sheet may be formed and cooled at the same time. The steel sheet is quenched by heating and cooling, thereby obtaining a high tensile strength of approximately 1000 MPa or more. As a heating method, it is possible to employ infrared heating or the like in addition to an ordinary electric furnace or an ordinary radiant tube furnace.</p>
+<p id="p0098" num="0098">The heating temperature and the heating time during the hot stamping are preferably set to 850°C to 950°C for 2 minutes or longer in the case of the atmosphere. When the heating time is shorter than 2 minutes, since the A group elements do not concentrate in the oxide film layer, the coating material adhesion or pitting corrosion resistance improvement effect of the hot-stamped member is likely to be insufficient.</p>
+<p id="p0099" num="0099">In addition, in the case of hot-stamping the aluminum-plated steel in an atmosphere having an oxygen concentration of 5% or less, the heating time is preferably set to 3 minutes or longer. In a case where the oxygen concentration is low, when the heating time is shorter than 3 minutes, the thickness of the oxide film layer<!-- EPO <DP n="32"> --> does not become sufficiently large. Therefore, the proportion of the A group elements in the oxide film layer 3 or the concentration of the A group elements in the surface layer area of the oxide film layer becomes insufficient.</p>
+<p id="p0100" num="0100">The upper limit of the heating time does not need to be limited, but is preferably 10 minutes or shorter. When the upper limit is longer than 10 minutes, the productivity becomes poor, and the hot stamping method becomes economically disadvantageous.</p>
+<p id="p0101" num="0101">Hot stamping changes the Al plating layer to an Al-Fe intermetallic compound layer and forms an oxide film layer on the surface of the Al-Fe intermetallic compound layer. Heating during hot stamping melts the Al plating layer and causes Fe to diffuse from the steel sheet, thereby forming an Al-Fe intermetallic compound layer containing an Al-Fe alloy phase or an Al-Fe-Si alloy phase. The Al-Fe intermetallic compound layer is not always formed as a single layer having a constant composition and may include a partially-alloyed layer.</p>
+<p id="p0102" num="0102">In addition, the A group elements contained in the Al plating layer concentrate in the surface layer of the Al plating layer, and oxygen in the atmosphere oxidizes the surface of the Al plating layer, thereby forming an oxide film layer containing the A group elements. The spraying of the particles forms a sufficient amount of the nuclei of crystals in the Al plating layer, particularly, in the surface layer area. Therefore, the grain sizes in the Al plating layer become sufficiently small, and it is possible to concentrate the A group elements by heating in hot stamping in the surface layer area of the oxide film layer that is formed by hot stamping. All of the A group elements added to the Al plating layer may transfer to the oxide film layer or some of the A<!-- EPO <DP n="33"> --> group elements may remain in the Al-Fe intermetallic compound layer and the remainder may transfer to the oxide film layer.</p>
+<p id="p0103" num="0103">In addition, the hot-stamped member according to the present embodiment may also be manufactured by forming an Al-coated layer containing the A group elements by attaching Al and the A group elements to a surface of a steel sheet by deposition or hot spraying instead of hot-dip plating and, furthermore, hot-stamping the steel sheet having this Al-coated layer.</p>
+<p id="p0104" num="0104">In addition, as an example of the method for forming the Al-coated layer, Al may be attached to the steel sheet first by deposition or hot spraying, and then the A group elements may be attached to the steel sheet. In such a case, an Al-coated layer including an Al layer and the A group elements is formed.</p>
+<p id="p0105" num="0105">In addition, as another example of the method for forming the Al-coated layer, Al and the A group elements may be attached to the steel sheet at the same time by performing deposition or hot spraying using a deposition source or a hot spraying source containing the A group elements. The proportion of the A group elements in the Al-coated layer is preferably 0.001% to 30.00 mass%.</p>
+<p id="p0106" num="0106">After that, similar to the case of the aluminum-plated steel sheet, hot stamping is performed on the steel sheet having the Al-coated layer, whereby it is possible to manufacture a hot-stamped member having an oxide film layer containing the A group elements, Al, and oxygen.</p>
+<heading id="h0040">[Examples]</heading>
+<p id="p0107" num="0107">Hereinafter, examples of the present invention will be described, but<!-- EPO <DP n="34"> --> conditions in the examples are examples of the conditions employed to confirm the feasibility and effect of the present invention, and the present invention is not limited to the examples of the conditions. The present invention is capable of employing a variety of conditions within the scope of the gist of the present invention as long as the object of the present invention is achieved.</p>
+<p id="p0108" num="0108">As a steel sheet before plating, a steel sheet having a high mechanical strength (which means a variety of properties relating to mechanical distortion and fracture such as a tensile strength, an yield point, an elongation, a reduction in area, an impact value, and a fatigue strength) is desirably used. Table 1 shows the chemical compositions of steel sheets before plating that were used as the steel sheet of the present invention.<!-- EPO <DP n="35"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>[Table 1]</title>
+<tgroup cols="17">
+<colspec colnum="1" colname="col1" colwidth="18mm"/>
+<colspec colnum="2" colname="col2" colwidth="10mm"/>
+<colspec colnum="3" colname="col3" colwidth="12mm"/>
+<colspec colnum="4" colname="col4" colwidth="12mm"/>
+<colspec colnum="5" colname="col5" colwidth="12mm"/>
+<colspec colnum="6" colname="col6" colwidth="14mm"/>
+<colspec colnum="7" colname="col7" colwidth="12mm"/>
+<colspec colnum="8" colname="col8" colwidth="12mm"/>
+<colspec colnum="9" colname="col9" colwidth="15mm"/>
+<colspec colnum="10" colname="col10" colwidth="14mm"/>
+<colspec colnum="11" colname="col11" colwidth="12mm"/>
+<colspec colnum="12" colname="col12" colwidth="12mm"/>
+<colspec colnum="13" colname="col13" colwidth="12mm"/>
+<colspec colnum="14" colname="col14" colwidth="12mm"/>
+<colspec colnum="15" colname="col15" colwidth="12mm"/>
+<colspec colnum="16" colname="col16" colwidth="12mm"/>
+<colspec colnum="17" colname="col17" colwidth="12mm"/>
+<thead>
+<row>
+<entry morerows="1" align="center" valign="middle">Steel No.</entry>
+<entry namest="col2" nameend="col17" align="center" valign="middle">Chemical composition (mass%), remainder is iron and impurity</entry></row>
+<row>
+<entry align="center" valign="middle">C</entry>
+<entry align="center" valign="middle">Si</entry>
+<entry align="center" valign="middle">Mn</entry>
+<entry align="center" valign="middle">P</entry>
+<entry align="center" valign="middle">S</entry>
+<entry align="center" valign="middle">Al</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">B</entry>
+<entry align="center" valign="middle">N</entry>
+<entry align="center" valign="middle">Cr</entry>
+<entry align="center" valign="middle">Mo</entry>
+<entry align="center" valign="middle">Cu</entry>
+<entry align="center" valign="middle">Ni</entry>
+<entry align="center" valign="middle">Nb</entry>
+<entry align="center" valign="middle">Sn</entry>
+<entry align="center" valign="middle">Ca</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">S1</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.21</entry>
+<entry align="center" valign="middle">1.21</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">0.005</entry>
+<entry align="center" valign="middle">0.05</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">0.0030</entry>
+<entry align="center" valign="middle">0.005</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">S2</entry>
+<entry align="center" valign="middle">0.4</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">1.01</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.010</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.0022</entry>
+<entry align="center" valign="middle">0.004</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">S3</entry>
+<entry align="center" valign="middle">0.2</entry>
+<entry align="center" valign="middle">0.60</entry>
+<entry align="center" valign="middle">0.90</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">0.010</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">0.0022</entry>
+<entry align="center" valign="middle">0.003</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">S4</entry>
+<entry align="center" valign="middle">0.3</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.50</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.010</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.0022</entry>
+<entry align="center" valign="middle">0.008</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">S5</entry>
+<entry align="center" valign="middle">0.2</entry>
+<entry align="center" valign="middle">0.60</entry>
+<entry align="center" valign="middle">3.00</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">0.004</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">0.0030</entry>
+<entry align="center" valign="middle">0.003</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">S6</entry>
+<entry align="center" valign="middle">0.2</entry>
+<entry align="center" valign="middle">0.21</entry>
+<entry align="center" valign="middle">1.01</entry>
+<entry align="center" valign="middle">0.05</entry>
+<entry align="center" valign="middle">0.004</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">0.0030</entry>
+<entry align="center" valign="middle">0.004</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">S7</entry>
+<entry align="center" valign="middle">0.2</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.90</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.020</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">0.0030</entry>
+<entry align="center" valign="middle">0.009</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">S8</entry>
+<entry align="center" valign="middle">0.2</entry>
+<entry align="center" valign="middle">0.60</entry>
+<entry align="center" valign="middle">1.01</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.004</entry>
+<entry align="center" valign="middle">0.10</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">0.0025</entry>
+<entry align="center" valign="middle">0.004</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">S9</entry>
+<entry align="center" valign="middle">0.2</entry>
+<entry align="center" valign="middle">0.21</entry>
+<entry align="center" valign="middle">1.05</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">0.004</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.0029</entry>
+<entry align="center" valign="middle">0.005</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">S10</entry>
+<entry align="center" valign="middle">0.2</entry>
+<entry align="center" valign="middle">0.23</entry>
+<entry align="center" valign="middle">0.90</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.004</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">0.10</entry>
+<entry align="center" valign="middle">0.0087</entry>
+<entry align="center" valign="middle">0.005</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">S11</entry>
+<entry align="center" valign="middle">0.2</entry>
+<entry align="center" valign="middle">0.25</entry>
+<entry align="center" valign="middle">0.95</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">0.004</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.0001</entry>
+<entry align="center" valign="middle">0.003</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">S12</entry>
+<entry align="center" valign="middle">0.3</entry>
+<entry align="center" valign="middle">0.21</entry>
+<entry align="center" valign="middle">2.01</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.004</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">0.0100</entry>
+<entry align="center" valign="middle">0.004</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">S13</entry>
+<entry align="center" valign="middle">0.3</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">0.90</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">0.010</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">0.0048</entry>
+<entry align="center" valign="middle">0.010</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">S14</entry>
+<entry align="center" valign="middle">0.3</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.95</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">0.010</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">0.0048</entry>
+<entry align="center" valign="middle">0.005</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">S15</entry>
+<entry align="center" valign="middle">0.2</entry>
+<entry align="center" valign="middle">0.21</entry>
+<entry align="center" valign="middle">0.90</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.010</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">0.0029</entry>
+<entry align="center" valign="middle">0.008</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">S16</entry>
+<entry align="center" valign="middle">0.3</entry>
+<entry align="center" valign="middle">0.12</entry>
+<entry align="center" valign="middle">0.50</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.008</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.0022</entry>
+<entry align="center" valign="middle">0.008</entry>
+<entry align="center" valign="middle">0.22</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">S17</entry>
+<entry align="center" valign="middle">0.3</entry>
+<entry align="center" valign="middle">0.13</entry>
+<entry align="center" valign="middle">0.51</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.008</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.0022</entry>
+<entry align="center" valign="middle">0.008</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.21</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">S18</entry>
+<entry align="center" valign="middle">0.3</entry>
+<entry align="center" valign="middle">0.14</entry>
+<entry align="center" valign="middle">0.53</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.009</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.0022</entry>
+<entry align="center" valign="middle">0.008</entry>
+<entry align="center" valign="middle">0.24</entry>
+<entry align="center" valign="middle">0.24</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">S19</entry>
+<entry align="center" valign="middle">0.2</entry>
+<entry align="center" valign="middle">0.21</entry>
+<entry align="center" valign="middle">1.05</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">0.004</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">0.0087</entry>
+<entry align="center" valign="middle">0.006</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.11</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">S20</entry>
+<entry align="center" valign="middle">0.2</entry>
+<entry align="center" valign="middle">0.21</entry>
+<entry align="center" valign="middle">0.90</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">0.008</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">0.0089</entry>
+<entry align="center" valign="middle">0.004</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.15</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">S21</entry>
+<entry align="center" valign="middle">0.2</entry>
+<entry align="center" valign="middle">0.25</entry>
+<entry align="center" valign="middle">0.50</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">0.004</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">0.0030</entry>
+<entry align="center" valign="middle">0.005</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.18</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">S22</entry>
+<entry align="center" valign="middle">0.2</entry>
+<entry align="center" valign="middle">0.21</entry>
+<entry align="center" valign="middle">0.51</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.010</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.0025</entry>
+<entry align="center" valign="middle">0.009</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.12</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry align="center" valign="middle">S23</entry>
+<entry align="center" valign="middle">0.2</entry>
+<entry align="center" valign="middle">0.14</entry>
+<entry align="center" valign="middle">0.90</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.004</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">0.0029</entry>
+<entry align="center" valign="middle">0.008</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.04</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="36"> --></p>
+<p id="p0109" num="0109">In each of reference symbols A1 to A66, a1 to a10, and B1 to B11 in which a steel sheet having a chemical composition shown in Table 1 (one of the steels Nos. S1 to S23) was used, Al plating layers were formed on both surfaces of the steel sheet by a hot-dip plating method. During hot-dip plating, the plating bath temperature was set to 700°C, and, after the steel sheet was immersed in the plating bath, the adhesion amount was adjusted to 16 to 115 g/m<sup>2</sup> per surface by a gas wiping method. After that, in each of the examples except for the reference symbols a4 and a5, titanium oxide having a grain size of 0.05 µm was sprayed at a spraying rate shown in Table 2A, Table 2B, and Table 2C before the solidification of the plating layer such that the average adhesion amount reached 0.1 g/m<sup>2</sup>. On the reference symbols a4 and a5, the spraying of the particles was not performed. As the atmosphere during the gas wiping, the ordinary atmosphere was used except for the reference symbols B1, B4, and B8. For the reference symbols B1, B4, and B8, the oxygen concentration was set to 5 vol%, and the nitrogen concentration was set to 95 vol% in the atmosphere during the gas wiping, and the oxygen concentration was set to be lower than that of the ordinary atmosphere.</p>
+<p id="p0110" num="0110">As shown in Table 2A to Table 2C and Table 3, 0.001% or more and 30.00% or less, by mass%, of the A group elements were added to the plating bath. As the A group elements, one or more of Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Zn, Mg, Ca, Ba, Sr, and Be were selected. In a case where a plurality of the A group elements was contained in Table 2B, the respective content (unit: mass%) is described. The remainder of the plating bath was Al and impurities.</p>
+<p id="p0111" num="0111"><!-- EPO <DP n="37"> --> On each of the obtained plated steel sheets, the component analysis of the plating layer was performed according to JIS G3314: 2011, the thickness of the plating layer was measured by GDS, and the average grain size in a thickness range from the outermost surface of the plating layer to a 2/3 thickness t position was obtained by SEM observation after Nital corrosion.</p>
+<p id="p0112" num="0112">The results are shown in Table 2A to Table 2C and Table 3. The remainder of the plating layer was Al and impurities.</p>
+<p id="p0113" num="0113">In addition, in some of the aluminum-plated steel sheets (the reference symbols B1 to B11), furthermore, the A group elements were measured using GDS at intervals of 0.1 seconds and a sputtering rate of 0.060 µm/second, and I(M)/I(A) that is the ratio of the maximum value of the detection intensities of the A group elements in a range (surface to t/3) from the outermost surface of the plating layer to a 1/3 thickness t position to the average value of the detection intensities of the A group elements in a range (2t/3 to t) from the 2/3 thickness t position to a thickness t position was obtained.</p>
+<p id="p0114" num="0114">The results are shown in Table 3.</p>
+<p id="p0115" num="0115">After that, the aluminum-plated steel sheets were heated in an electric resistance furnace having a furnace temperature of 900°C and the atmospheric air such that the soaking time reached 5 minutes. After that, the Al-plated steel sheets were formed with a die and cooled in the die at the same time, thereby obtaining hot-stamped members.</p>
+<p id="p0116" num="0116">For the obtained hot-stamped members, the coating material adhesion and the corrosion resistance after coating were investigated by methods described below. The<!-- EPO <DP n="38"> --> results are shown in Table 2A to Table 2C and Table 3.</p>
+<p id="p0117" num="0117">While not shown in the tables, for all of the examples, the thicknesses of the Al-Fe intermetallic compound layers were in a range of 0.1 to 10.0 µm.</p>
+<heading id="h0041">(1) Coating material adhesion</heading>
+<p id="p0118" num="0118">The coating material adhesion was evaluated according to the method described in <patcit id="pcit0005" dnum="JP4373778B"><text>Japanese Patent No. 4373778</text></patcit>. That is, the coating material adhesion was graded based on the area ratio computed by immersing a sample in deionized water (60°C) for 240 hours, then, inscribing 100 grids at intervals of 1 mm using a cutter knife, and visually measuring the number of exfoliated portions in the grid portions.</p>
+<heading id="h0042">[Grades]</heading>
+<p id="p0119" num="0119">
+<ul id="ul0003" list-style="none" compact="compact">
+<li>3: The exfoliated area is 0% or more and less than 10%.</li>
+<li>2: The exfoliated area is 10% or more and less than 70%.</li>
+<li>1: The exfoliated area is 70% or more and 100% or less.</li>
+</ul></p>
+<heading id="h0043">(2) Corrosion resistance after coating</heading>
+<p id="p0120" num="0120">The corrosion resistance after coating was evaluated by the neutral salt spray cycle test method specified in JIS H8502: 1999. A cross-cut mark was inscribed in a coating film using a diamond cutter knife, and the width (the single-side maximum value) of the coating film swollen from the cut mark after 180 cycles of a corrosion test was measured. When the evaluation was 2 or 3 based on the following standards, the corrosion resistance after coating was determined as excellent.</p>
+<heading id="h0044">(Evaluation)</heading>
+<p id="p0121" num="0121">
+<ul id="ul0004" list-style="none" compact="compact">
+<li>3: The swollen width is 0 mm or more and less than 1.5 mm.</li>
+<li>2: The swollen width is 1.5 mm or more and less than 3 mm.<!-- EPO <DP n="39"> --></li>
+<li>1: The swollen width is 3 mm or more.</li>
+</ul></p>
+<p id="p0122" num="0122">Invention Examples A1 to A66 and B1 to B11 were excellent in terms of the coating material adhesion. As a result, the corrosion resistance after coating was also excellent. In contrast, in Comparative Examples a1 in which the plating layer did not contain the A group elements and a2, a3, a6, a7, a8, a9, and a10 in which the thickness and/or the grain sizes of the plating layer were outside the scope of the invention, the coating material adhesion and the corrosion resistance after coating were poor. In addition, in a4 and a5, since the spraying of the particles was not performed, the average grain size of the plating layer was large. As a result, the A group elements did not concentrate in the surface layer area of the oxide film layer, and the coating material adhesion and the corrosion resistance after coating were poor.<!-- EPO <DP n="40"> -->
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>[Table 2A]</title>
+<tgroup cols="16">
+<colspec colnum="1" colname="col1" colwidth="17mm"/>
+<colspec colnum="2" colname="col2" colwidth="18mm"/>
+<colspec colnum="3" colname="col3" colwidth="11mm"/>
+<colspec colnum="4" colname="col4" colwidth="15mm"/>
+<colspec colnum="5" colname="col5" colwidth="15mm"/>
+<colspec colnum="6" colname="col6" colwidth="14mm"/>
+<colspec colnum="7" colname="col7" colwidth="14mm"/>
+<colspec colnum="8" colname="col8" colwidth="16mm"/>
+<colspec colnum="9" colname="col9" colwidth="15mm"/>
+<colspec colnum="10" colname="col10" colwidth="15mm"/>
+<colspec colnum="11" colname="col11" colwidth="14mm"/>
+<colspec colnum="12" colname="col12" colwidth="14mm"/>
+<colspec colnum="13" colname="col13" colwidth="18mm"/>
+<colspec colnum="14" colname="col14" colwidth="17mm"/>
+<colspec colnum="15" colname="col15" colwidth="17mm"/>
+<colspec colnum="16" colname="col16" colwidth="18mm"/>
+<thead>
+<row>
+<entry morerows="2" align="center" valign="middle"/>
+<entry morerows="2" align="center" valign="middle">Reference symbol</entry>
+<entry morerows="2" align="center" valign="middle">Steel No.</entry>
+<entry namest="col4" nameend="col7" align="center" valign="middle">Plating bath</entry>
+<entry align="center" valign="middle">Particle spraying</entry>
+<entry namest="col9" nameend="col14" align="center" valign="middle">Plating layer</entry>
+<entry namest="col15" nameend="col16" align="center" valign="middle">Hot-stamped member</entry></row>
+<row>
+<entry align="center" valign="middle">A group element</entry>
+<entry align="center" valign="middle">Kind of A group element</entry>
+<entry align="center" valign="middle">Si</entry>
+<entry align="center" valign="middle">Fe</entry>
+<entry align="center" valign="middle">Spraying rate</entry>
+<entry align="center" valign="middle">A group element</entry>
+<entry align="center" valign="middle">Kind of A group element</entry>
+<entry align="center" valign="middle">Si</entry>
+<entry align="center" valign="middle">Fe</entry>
+<entry align="center" valign="middle">Thickness t</entry>
+<entry align="center" valign="middle">Average grain size from surface to 2/3 thickness t portion (µm)</entry>
+<entry align="center" valign="middle">Coating material adhesion</entry>
+<entry align="center" valign="middle">Corrosion resistance after coating</entry></row>
+<row>
+<entry align="center" valign="middle">Mass%</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">Mass%</entry>
+<entry align="center" valign="middle">Mass%</entry>
+<entry align="center" valign="middle">m/s</entry>
+<entry align="center" valign="middle">Mass%</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">Mass%</entry>
+<entry align="center" valign="middle">Mass%</entry>
+<entry align="center" valign="middle">[µm]</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row></thead>
+<tbody>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A1</entry>
+<entry align="center" valign="middle">S1</entry>
+<entry align="center" valign="middle">29.12</entry>
+<entry align="center" valign="middle">Sc</entry>
+<entry align="center" valign="middle">8.1</entry>
+<entry align="center" valign="middle">2.6</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">30.00</entry>
+<entry align="center" valign="middle">Sc</entry>
+<entry align="center" valign="middle">8.1</entry>
+<entry align="center" valign="middle">2.8</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">12.0</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A2</entry>
+<entry align="center" valign="middle">51</entry>
+<entry align="center" valign="middle">10.10</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">8.4</entry>
+<entry align="center" valign="middle">0.0</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">8.04</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">8.3</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">14.0</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A3</entry>
+<entry align="center" valign="middle">S1</entry>
+<entry align="center" valign="middle">0.25</entry>
+<entry align="center" valign="middle">V</entry>
+<entry align="center" valign="middle">8.5</entry>
+<entry align="center" valign="middle">2.5</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">0.16</entry>
+<entry align="center" valign="middle">V</entry>
+<entry align="center" valign="middle">8.6</entry>
+<entry align="center" valign="middle">3.4</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">15.0</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">2</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A4</entry>
+<entry align="center" valign="middle">S2</entry>
+<entry align="center" valign="middle">1.14</entry>
+<entry align="center" valign="middle">Cr</entry>
+<entry align="center" valign="middle">8.6</entry>
+<entry align="center" valign="middle">3.1</entry>
+<entry align="center" valign="middle">38</entry>
+<entry align="center" valign="middle">1.05</entry>
+<entry align="center" valign="middle">Cr</entry>
+<entry align="center" valign="middle">8.7</entry>
+<entry align="center" valign="middle">3.7</entry>
+<entry align="center" valign="middle">32</entry>
+<entry align="center" valign="middle">14.2</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A5</entry>
+<entry align="center" valign="middle">S3</entry>
+<entry align="center" valign="middle">2.16</entry>
+<entry align="center" valign="middle">Mn</entry>
+<entry align="center" valign="middle">10.1</entry>
+<entry align="center" valign="middle">1.2</entry>
+<entry align="center" valign="middle">37</entry>
+<entry align="center" valign="middle">1.64</entry>
+<entry align="center" valign="middle">Mn</entry>
+<entry align="center" valign="middle">10.1</entry>
+<entry align="center" valign="middle">1.9</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">14.5</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A6</entry>
+<entry align="center" valign="middle">S4</entry>
+<entry align="center" valign="middle">1.15</entry>
+<entry align="center" valign="middle">Fe</entry>
+<entry align="center" valign="middle">9.5</entry>
+<entry align="center" valign="middle">1.2</entry>
+<entry align="center" valign="middle">67</entry>
+<entry align="center" valign="middle">0.18</entry>
+<entry align="center" valign="middle">Fe</entry>
+<entry align="center" valign="middle">9.5</entry>
+<entry align="center" valign="middle">2.8</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">6.6</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A7</entry>
+<entry align="center" valign="middle">S5</entry>
+<entry align="center" valign="middle">0.18</entry>
+<entry align="center" valign="middle">Co</entry>
+<entry align="center" valign="middle">8.1</entry>
+<entry align="center" valign="middle">5.0</entry>
+<entry align="center" valign="middle">37</entry>
+<entry align="center" valign="middle">0.16</entry>
+<entry align="center" valign="middle">Co</entry>
+<entry align="center" valign="middle">8.1</entry>
+<entry align="center" valign="middle">5.0</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">11.1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A8</entry>
+<entry align="center" valign="middle">S6</entry>
+<entry align="center" valign="middle">0.22</entry>
+<entry align="center" valign="middle">Ni</entry>
+<entry align="center" valign="middle">10.0</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">49</entry>
+<entry align="center" valign="middle">0.19</entry>
+<entry align="center" valign="middle">Ni</entry>
+<entry align="center" valign="middle">10.0</entry>
+<entry align="center" valign="middle">2.1</entry>
+<entry align="center" valign="middle">34</entry>
+<entry align="center" valign="middle">14.0</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A9</entry>
+<entry align="center" valign="middle">S7</entry>
+<entry align="center" valign="middle">0.38</entry>
+<entry align="center" valign="middle">Cu</entry>
+<entry align="center" valign="middle">9.6</entry>
+<entry align="center" valign="middle">2.9</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">0.23</entry>
+<entry align="center" valign="middle">Cu</entry>
+<entry align="center" valign="middle">9.6</entry>
+<entry align="center" valign="middle">3.6</entry>
+<entry align="center" valign="middle">23</entry>
+<entry align="center" valign="middle">6.8</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A10</entry>
+<entry align="center" valign="middle">S8</entry>
+<entry align="center" valign="middle">0.36</entry>
+<entry align="center" valign="middle">Zn</entry>
+<entry align="center" valign="middle">10.1</entry>
+<entry align="center" valign="middle">4.5</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">0.25</entry>
+<entry align="center" valign="middle">Zn</entry>
+<entry align="center" valign="middle">10.1</entry>
+<entry align="center" valign="middle">4.6</entry>
+<entry align="center" valign="middle">13</entry>
+<entry align="center" valign="middle">8.1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A11</entry>
+<entry align="center" valign="middle">S9</entry>
+<entry align="center" valign="middle">0.34</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">11.4</entry>
+<entry align="center" valign="middle">0.2</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">0.27</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">11.4</entry>
+<entry align="center" valign="middle">2.4</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">15.0</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry morerows="2" rowsep="0" align="center" valign="middle">Invention Example</entry>
+<entry align="center" valign="middle">A12</entry>
+<entry align="center" valign="middle">S10</entry>
+<entry align="center" valign="middle">0.05</entry>
+<entry align="center" valign="middle">Ca</entry>
+<entry align="center" valign="middle">12.1</entry>
+<entry align="center" valign="middle">0.9</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">Ca</entry>
+<entry align="center" valign="middle">12.1</entry>
+<entry align="center" valign="middle">1.9</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">14.8</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">2</entry></row>
+<row>
+<entry align="center" valign="middle">A13</entry>
+<entry align="center" valign="middle">S1</entry>
+<entry align="center" valign="middle">0.33</entry>
+<entry align="center" valign="middle">Ba</entry>
+<entry align="center" valign="middle">11.6</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">32</entry>
+<entry align="center" valign="middle">0.28</entry>
+<entry align="center" valign="middle">Ba</entry>
+<entry align="center" valign="middle">11.6</entry>
+<entry align="center" valign="middle">2.8</entry>
+<entry align="center" valign="middle">56</entry>
+<entry align="center" valign="middle">14.8</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry></row>
+<row>
+<entry align="center" valign="middle">A14</entry>
+<entry align="center" valign="middle">S11</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">Sr</entry>
+<entry align="center" valign="middle">9.8</entry>
+<entry align="center" valign="middle">4.3</entry>
+<entry align="center" valign="middle">31</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">Sr</entry>
+<entry align="center" valign="middle">9.8</entry>
+<entry align="center" valign="middle">4.3</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">15.0</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">2</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A15</entry>
+<entry align="center" valign="middle">S12</entry>
+<entry align="center" valign="middle">0.10</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">7.9</entry>
+<entry align="center" valign="middle">2.6</entry>
+<entry align="center" valign="middle">38</entry>
+<entry align="center" valign="middle">0.10</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">7.9</entry>
+<entry align="center" valign="middle">2.8</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">15.0</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A16</entry>
+<entry align="center" valign="middle">S13</entry>
+<entry align="center" valign="middle">0.50</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">9.5</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">34</entry>
+<entry align="center" valign="middle">0.31</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">9.5</entry>
+<entry align="center" valign="middle">4.1</entry>
+<entry align="center" valign="middle">46</entry>
+<entry align="center" valign="middle">14.5</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A17</entry>
+<entry align="center" valign="middle">S14</entry>
+<entry align="center" valign="middle">1.49</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">5.7</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">1.16</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">5.7</entry>
+<entry align="center" valign="middle">1.6</entry>
+<entry align="center" valign="middle">33</entry>
+<entry align="center" valign="middle">12.3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A18</entry>
+<entry align="center" valign="middle">S15</entry>
+<entry align="center" valign="middle">3.00</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">20.0</entry>
+<entry align="center" valign="middle">0.0</entry>
+<entry align="center" valign="middle">49</entry>
+<entry align="center" valign="middle">2.90</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">20.0</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">6.4</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A19</entry>
+<entry align="center" valign="middle">S16</entry>
+<entry align="center" valign="middle">0.10</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">14.5</entry>
+<entry align="center" valign="middle">2.9</entry>
+<entry align="center" valign="middle">51</entry>
+<entry align="center" valign="middle">0.10</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">14.5</entry>
+<entry align="center" valign="middle">3.4</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">6.5</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A20</entry>
+<entry align="center" valign="middle">S17</entry>
+<entry align="center" valign="middle">0.30</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">10.7</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">31</entry>
+<entry align="center" valign="middle">0.26</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">10.7</entry>
+<entry align="center" valign="middle">3.9</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">11.1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A21</entry>
+<entry align="center" valign="middle">S18</entry>
+<entry align="center" valign="middle">30.00</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">0.0</entry>
+<entry align="center" valign="middle">1.1</entry>
+<entry align="center" valign="middle">42</entry>
+<entry align="center" valign="middle">29.16</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">0.0</entry>
+<entry align="center" valign="middle">1.4</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">14.5</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A22</entry>
+<entry align="center" valign="middle">S19</entry>
+<entry align="center" valign="middle">0.34</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">8.6</entry>
+<entry align="center" valign="middle">2.8</entry>
+<entry align="center" valign="middle">49</entry>
+<entry align="center" valign="middle">0.27</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">8.7</entry>
+<entry align="center" valign="middle">3.4</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">9.1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A23</entry>
+<entry align="center" valign="middle">S20</entry>
+<entry align="center" valign="middle">0.09</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">7.1</entry>
+<entry align="center" valign="middle">3.3</entry>
+<entry align="center" valign="middle">43</entry>
+<entry align="center" valign="middle">0.07</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">7.1</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">34</entry>
+<entry align="center" valign="middle">11.1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A24</entry>
+<entry align="center" valign="middle">S21</entry>
+<entry align="center" valign="middle">0.24</entry>
+<entry align="center" valign="middle">Ca</entry>
+<entry align="center" valign="middle">9.5</entry>
+<entry align="center" valign="middle">2.5</entry>
+<entry align="center" valign="middle">39</entry>
+<entry align="center" valign="middle">0.22</entry>
+<entry align="center" valign="middle">Ca</entry>
+<entry align="center" valign="middle">9.5</entry>
+<entry align="center" valign="middle">2.9</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">8.9</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">A25</entry>
+<entry align="center" valign="middle">S22</entry>
+<entry align="center" valign="middle">0.15</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">9.4</entry>
+<entry align="center" valign="middle">2.8</entry>
+<entry align="center" valign="middle">51</entry>
+<entry align="center" valign="middle">0.14</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">9.4</entry>
+<entry align="center" valign="middle">3.5</entry>
+<entry align="center" valign="middle">34</entry>
+<entry align="center" valign="middle">7.4</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="41"> -->
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>[Table 2B]</title>
+<tgroup cols="16">
+<colspec colnum="1" colname="col1" colwidth="17mm"/>
+<colspec colnum="2" colname="col2" colwidth="18mm"/>
+<colspec colnum="3" colname="col3" colwidth="11mm"/>
+<colspec colnum="4" colname="col4" colwidth="15mm"/>
+<colspec colnum="5" colname="col5" colwidth="15mm"/>
+<colspec colnum="6" colname="col6" colwidth="14mm"/>
+<colspec colnum="7" colname="col7" colwidth="14mm"/>
+<colspec colnum="8" colname="col8" colwidth="16mm"/>
+<colspec colnum="9" colname="col9" colwidth="15mm"/>
+<colspec colnum="10" colname="col10" colwidth="15mm"/>
+<colspec colnum="11" colname="col11" colwidth="14mm"/>
+<colspec colnum="12" colname="col12" colwidth="14mm"/>
+<colspec colnum="13" colname="col13" colwidth="18mm"/>
+<colspec colnum="14" colname="col14" colwidth="17mm"/>
+<colspec colnum="15" colname="col15" colwidth="17mm"/>
+<colspec colnum="16" colname="col16" colwidth="18mm"/>
+<thead>
+<row>
+<entry morerows="2" align="center" valign="middle"/>
+<entry morerows="2" align="center" valign="middle">Reference symbol</entry>
+<entry morerows="2" align="center" valign="middle">Steel No.</entry>
+<entry namest="col4" nameend="col7" align="center" valign="middle">Plating bath</entry>
+<entry align="center" valign="middle">Particle spraying</entry>
+<entry namest="col9" nameend="col14" align="center" valign="middle">Plating layer</entry>
+<entry namest="col15" nameend="col16" align="center" valign="middle">Hot-stamped member</entry></row>
+<row>
+<entry align="center" valign="middle">A group element</entry>
+<entry align="center" valign="middle">Kind of A group element</entry>
+<entry align="center" valign="middle">Si</entry>
+<entry align="center" valign="middle">Fe</entry>
+<entry align="center" valign="middle">Spraying rate</entry>
+<entry align="center" valign="middle">A group element</entry>
+<entry align="center" valign="middle">Kind of A group element</entry>
+<entry align="center" valign="middle">Si</entry>
+<entry align="center" valign="middle">Fe</entry>
+<entry align="center" valign="middle">Thickness t</entry>
+<entry align="center" valign="middle">Average grain size from surface to 2/3 thickness t portion (µm)</entry>
+<entry align="center" valign="middle">Coating material adhesion</entry>
+<entry align="center" valign="middle">Corrosion resistance after coating</entry></row>
+<row>
+<entry align="center" valign="middle">Mass%</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">Mass%</entry>
+<entry align="center" valign="middle">Mass%</entry>
+<entry align="center" valign="middle">m/s</entry>
+<entry align="center" valign="middle">Mass%</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">Mass%</entry>
+<entry align="center" valign="middle">Mass%</entry>
+<entry align="center" valign="middle">[µm]</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row></thead>
+<tbody>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A26</entry>
+<entry align="center" valign="middle">S23</entry>
+<entry align="center" valign="middle">1.29</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">10.8</entry>
+<entry align="center" valign="middle">3.1</entry>
+<entry align="center" valign="middle">44</entry>
+<entry align="center" valign="middle">1.10</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">10.8</entry>
+<entry align="center" valign="middle">3.2</entry>
+<entry align="center" valign="middle">23</entry>
+<entry align="center" valign="middle">6.8</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A27</entry>
+<entry align="center" valign="middle">S15</entry>
+<entry align="center" valign="middle">0.05</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">0.0</entry>
+<entry align="center" valign="middle">0.4</entry>
+<entry align="center" valign="middle">41</entry>
+<entry align="center" valign="middle">0.05</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">0.0</entry>
+<entry align="center" valign="middle">5.1</entry>
+<entry align="center" valign="middle">32</entry>
+<entry align="center" valign="middle">8.1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A28</entry>
+<entry align="center" valign="middle">S16</entry>
+<entry align="center" valign="middle">0.10</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">0.0</entry>
+<entry align="center" valign="middle">0.5</entry>
+<entry align="center" valign="middle">51</entry>
+<entry align="center" valign="middle">0.11</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">0.0</entry>
+<entry align="center" valign="middle">6.1</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">7.0</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A29</entry>
+<entry align="center" valign="middle">S4</entry>
+<entry align="center" valign="middle">1.10</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">0.0</entry>
+<entry align="center" valign="middle">0.3</entry>
+<entry align="center" valign="middle">36</entry>
+<entry align="center" valign="middle">1.03</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">0.0</entry>
+<entry align="center" valign="middle">5.6</entry>
+<entry align="center" valign="middle">34</entry>
+<entry align="center" valign="middle">6.9</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A30</entry>
+<entry align="center" valign="middle">S1</entry>
+<entry align="center" valign="middle">3.10</entry>
+<entry align="center" valign="middle">Cr</entry>
+<entry align="center" valign="middle">9.1</entry>
+<entry align="center" valign="middle">2.6</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">3.04</entry>
+<entry align="center" valign="middle">Cr</entry>
+<entry align="center" valign="middle">9.1</entry>
+<entry align="center" valign="middle">3.1</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">6.6</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A31</entry>
+<entry align="center" valign="middle">S5</entry>
+<entry align="center" valign="middle">1.10</entry>
+<entry align="center" valign="middle">Cr</entry>
+<entry align="center" valign="middle">9.4</entry>
+<entry align="center" valign="middle">2.6</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">1.01</entry>
+<entry align="center" valign="middle">Cr</entry>
+<entry align="center" valign="middle">9.4</entry>
+<entry align="center" valign="middle">2.7</entry>
+<entry align="center" valign="middle">24</entry>
+<entry align="center" valign="middle">7.5</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A32</entry>
+<entry align="center" valign="middle">S6</entry>
+<entry align="center" valign="middle">10.33</entry>
+<entry align="center" valign="middle">Cr</entry>
+<entry align="center" valign="middle">9.9</entry>
+<entry align="center" valign="middle">2.9</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">9.89</entry>
+<entry align="center" valign="middle">Cr</entry>
+<entry align="center" valign="middle">9.9</entry>
+<entry align="center" valign="middle">2.8</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">8.6</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A33</entry>
+<entry align="center" valign="middle">S7</entry>
+<entry align="center" valign="middle">0.46</entry>
+<entry align="center" valign="middle">Cr</entry>
+<entry align="center" valign="middle">9.2</entry>
+<entry align="center" valign="middle">3.5</entry>
+<entry align="center" valign="middle">34</entry>
+<entry align="center" valign="middle">0.39</entry>
+<entry align="center" valign="middle">Cr</entry>
+<entry align="center" valign="middle">9.4</entry>
+<entry align="center" valign="middle">3.4</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">15.0</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A34</entry>
+<entry align="center" valign="middle">S7</entry>
+<entry align="center" valign="middle">0.32</entry>
+<entry align="center" valign="middle">Sr</entry>
+<entry align="center" valign="middle">9.4</entry>
+<entry align="center" valign="middle">1.9</entry>
+<entry align="center" valign="middle">32</entry>
+<entry align="center" valign="middle">0.26</entry>
+<entry align="center" valign="middle">Sr</entry>
+<entry align="center" valign="middle">9.4</entry>
+<entry align="center" valign="middle">2.6</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">4.5</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A35</entry>
+<entry align="center" valign="middle">S8</entry>
+<entry align="center" valign="middle">0.25</entry>
+<entry align="center" valign="middle">Sr</entry>
+<entry align="center" valign="middle">8.6</entry>
+<entry align="center" valign="middle">1.4</entry>
+<entry align="center" valign="middle">33</entry>
+<entry align="center" valign="middle">0.23</entry>
+<entry align="center" valign="middle">Sr</entry>
+<entry align="center" valign="middle">8.8</entry>
+<entry align="center" valign="middle">2.7</entry>
+<entry align="center" valign="middle">33</entry>
+<entry align="center" valign="middle">8.9</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A36</entry>
+<entry align="center" valign="middle">S9</entry>
+<entry align="center" valign="middle">0.91</entry>
+<entry align="center" valign="middle">Sr</entry>
+<entry align="center" valign="middle">8.1</entry>
+<entry align="center" valign="middle">4.1</entry>
+<entry align="center" valign="middle">38</entry>
+<entry align="center" valign="middle">0.82</entry>
+<entry align="center" valign="middle">Sr</entry>
+<entry align="center" valign="middle">8.4</entry>
+<entry align="center" valign="middle">3.7</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">14.2</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry morerows="2" rowsep="0" align="center" valign="middle">Invention Example</entry>
+<entry align="center" valign="middle">A37</entry>
+<entry align="center" valign="middle">S10</entry>
+<entry align="center" valign="middle">1.26</entry>
+<entry align="center" valign="middle">Sr</entry>
+<entry align="center" valign="middle">10.7</entry>
+<entry align="center" valign="middle">4.9</entry>
+<entry align="center" valign="middle">52</entry>
+<entry align="center" valign="middle">1.16</entry>
+<entry align="center" valign="middle">Sr</entry>
+<entry align="center" valign="middle">10.1</entry>
+<entry align="center" valign="middle">4.8</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">15.0</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry align="center" valign="middle">A38</entry>
+<entry align="center" valign="middle">S8</entry>
+<entry align="center" valign="middle">1.16</entry>
+<entry align="center" valign="middle">Ca</entry>
+<entry align="center" valign="middle">10.1</entry>
+<entry align="center" valign="middle">0.4</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">0.89</entry>
+<entry align="center" valign="middle">Ca</entry>
+<entry align="center" valign="middle">10.8</entry>
+<entry align="center" valign="middle">1.7</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">6.5</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry align="center" valign="middle">A39</entry>
+<entry align="center" valign="middle">S9</entry>
+<entry align="center" valign="middle">0.35</entry>
+<entry align="center" valign="middle">Ca</entry>
+<entry align="center" valign="middle">10.1</entry>
+<entry align="center" valign="middle">1.7</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">0.28</entry>
+<entry align="center" valign="middle">Ca</entry>
+<entry align="center" valign="middle">10.1</entry>
+<entry align="center" valign="middle">3.1</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">8.0</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A40</entry>
+<entry align="center" valign="middle">S10</entry>
+<entry align="center" valign="middle">0.26</entry>
+<entry align="center" valign="middle">Ca</entry>
+<entry align="center" valign="middle">9.5</entry>
+<entry align="center" valign="middle">3.1</entry>
+<entry align="center" valign="middle">41</entry>
+<entry align="center" valign="middle">0.23</entry>
+<entry align="center" valign="middle">Ca</entry>
+<entry align="center" valign="middle">9.5</entry>
+<entry align="center" valign="middle">3.6</entry>
+<entry align="center" valign="middle">27</entry>
+<entry align="center" valign="middle">10.7</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A41</entry>
+<entry align="center" valign="middle">S8</entry>
+<entry align="center" valign="middle">0.23</entry>
+<entry align="center" valign="middle">Ca</entry>
+<entry align="center" valign="middle">9.1</entry>
+<entry align="center" valign="middle">4.1</entry>
+<entry align="center" valign="middle">34</entry>
+<entry align="center" valign="middle">0.20</entry>
+<entry align="center" valign="middle">Ca</entry>
+<entry align="center" valign="middle">9.1</entry>
+<entry align="center" valign="middle">4.3</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">15.0</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A42</entry>
+<entry align="center" valign="middle">S9</entry>
+<entry align="center" valign="middle">0.36</entry>
+<entry align="center" valign="middle">Co</entry>
+<entry align="center" valign="middle">8.1</entry>
+<entry align="center" valign="middle">3.6</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">0.28</entry>
+<entry align="center" valign="middle">Co</entry>
+<entry align="center" valign="middle">8.1</entry>
+<entry align="center" valign="middle">4.7</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">4.1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A43</entry>
+<entry align="center" valign="middle">S4</entry>
+<entry align="center" valign="middle">0.35</entry>
+<entry align="center" valign="middle">Co</entry>
+<entry align="center" valign="middle">7.9</entry>
+<entry align="center" valign="middle">3.9</entry>
+<entry align="center" valign="middle">66</entry>
+<entry align="center" valign="middle">0.27</entry>
+<entry align="center" valign="middle">Co</entry>
+<entry align="center" valign="middle">7.9</entry>
+<entry align="center" valign="middle">4.1</entry>
+<entry align="center" valign="middle">29</entry>
+<entry align="center" valign="middle">5.9</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A44</entry>
+<entry align="center" valign="middle">S5</entry>
+<entry align="center" valign="middle">0.22</entry>
+<entry align="center" valign="middle">Co</entry>
+<entry align="center" valign="middle">9.1</entry>
+<entry align="center" valign="middle">2.4</entry>
+<entry align="center" valign="middle">64</entry>
+<entry align="center" valign="middle">0.19</entry>
+<entry align="center" valign="middle">Co</entry>
+<entry align="center" valign="middle">9.1</entry>
+<entry align="center" valign="middle">2.5</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">6.8</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A45</entry>
+<entry align="center" valign="middle">S9</entry>
+<entry align="center" valign="middle">0.27</entry>
+<entry align="center" valign="middle">Co</entry>
+<entry align="center" valign="middle">8.5</entry>
+<entry align="center" valign="middle">2.1</entry>
+<entry align="center" valign="middle">36</entry>
+<entry align="center" valign="middle">0.24</entry>
+<entry align="center" valign="middle">Co</entry>
+<entry align="center" valign="middle">8.5</entry>
+<entry align="center" valign="middle">2.1</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">14.3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A46</entry>
+<entry align="center" valign="middle">S7</entry>
+<entry align="center" valign="middle">29.19</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">11.1</entry>
+<entry align="center" valign="middle">4.2</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">30.00</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">11.1</entry>
+<entry align="center" valign="middle">4.6</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">3.4</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A47</entry>
+<entry align="center" valign="middle">S8</entry>
+<entry align="center" valign="middle">0.97</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">12.1</entry>
+<entry align="center" valign="middle">1.7</entry>
+<entry align="center" valign="middle">61</entry>
+<entry align="center" valign="middle">0.87</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">12.1</entry>
+<entry align="center" valign="middle">2.4</entry>
+<entry align="center" valign="middle">28</entry>
+<entry align="center" valign="middle">4.6</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A48</entry>
+<entry align="center" valign="middle">S9</entry>
+<entry align="center" valign="middle">5.12</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">9.0</entry>
+<entry align="center" valign="middle">1.1</entry>
+<entry align="center" valign="middle">32</entry>
+<entry align="center" valign="middle">5.14</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">9.0</entry>
+<entry align="center" valign="middle">1.5</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">14.1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A49</entry>
+<entry align="center" valign="middle">S10</entry>
+<entry align="center" valign="middle">0.45</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">9.1</entry>
+<entry align="center" valign="middle">0.8</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">0.32</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">9.1</entry>
+<entry align="center" valign="middle">1.1</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">12.8</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">A50</entry>
+<entry align="center" valign="middle">S10</entry>
+<entry align="center" valign="middle">1.07</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">9.5</entry>
+<entry align="center" valign="middle">0.5</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">1.00</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">9.5</entry>
+<entry align="center" valign="middle">1.0</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">13.9</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="42"> -->
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title>[Table 2C]</title>
+<tgroup cols="16">
+<colspec colnum="1" colname="col1" colwidth="21mm"/>
+<colspec colnum="2" colname="col2" colwidth="18mm"/>
+<colspec colnum="3" colname="col3" colwidth="11mm"/>
+<colspec colnum="4" colname="col4" colwidth="15mm"/>
+<colspec colnum="5" colname="col5" colwidth="15mm"/>
+<colspec colnum="6" colname="col6" colwidth="14mm"/>
+<colspec colnum="7" colname="col7" colwidth="14mm"/>
+<colspec colnum="8" colname="col8" colwidth="16mm"/>
+<colspec colnum="9" colname="col9" colwidth="15mm"/>
+<colspec colnum="10" colname="col10" colwidth="15mm"/>
+<colspec colnum="11" colname="col11" colwidth="14mm"/>
+<colspec colnum="12" colname="col12" colwidth="14mm"/>
+<colspec colnum="13" colname="col13" colwidth="17mm"/>
+<colspec colnum="14" colname="col14" colwidth="16mm"/>
+<colspec colnum="15" colname="col15" colwidth="16mm"/>
+<colspec colnum="16" colname="col16" colwidth="18mm"/>
+<thead>
+<row>
+<entry morerows="2" align="center" valign="middle"/>
+<entry morerows="2" align="center" valign="middle">Reference symbol</entry>
+<entry morerows="2" align="center" valign="middle">Steel No.</entry>
+<entry namest="col4" nameend="col7" align="center" valign="middle">Plating bath</entry>
+<entry align="center" valign="middle">Particle spraying</entry>
+<entry namest="col9" nameend="col14" align="center" valign="middle">Plating layer</entry>
+<entry namest="col15" nameend="col16" align="center" valign="middle">Hot-stamped member</entry></row>
+<row>
+<entry align="center" valign="middle">A group element</entry>
+<entry align="center" valign="middle">Kind of A group element</entry>
+<entry align="center" valign="middle">Si</entry>
+<entry align="center" valign="middle">Fe</entry>
+<entry align="center" valign="middle">Spraying rate</entry>
+<entry align="center" valign="middle">A group element</entry>
+<entry align="center" valign="middle">Kind of A group element</entry>
+<entry align="center" valign="middle">Si</entry>
+<entry align="center" valign="middle">Fe</entry>
+<entry align="center" valign="middle">Thickness t</entry>
+<entry align="center" valign="middle">Average grain size from surface to 2/3 thickness t portion (µm)</entry>
+<entry align="center" valign="middle">Coating material adhesion</entry>
+<entry align="center" valign="middle">Corrosion resistance after coating</entry></row>
+<row>
+<entry align="center" valign="middle">Mass%</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">Mass%</entry>
+<entry align="center" valign="middle">Mass%</entry>
+<entry align="center" valign="middle">m/s</entry>
+<entry align="center" valign="middle">Mass%</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">Mass%</entry>
+<entry align="center" valign="middle">Mass%</entry>
+<entry align="center" valign="middle">[µm]</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row></thead>
+<tbody>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A51</entry>
+<entry align="center" valign="middle">S8</entry>
+<entry align="center" valign="middle">1.22</entry>
+<entry align="center" valign="middle">Mn</entry>
+<entry align="center" valign="middle">9.6</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">1.12</entry>
+<entry align="center" valign="middle">Mn</entry>
+<entry align="center" valign="middle">9.6</entry>
+<entry align="center" valign="middle">3.9</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">5.4</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A52</entry>
+<entry align="center" valign="middle">S9</entry>
+<entry align="center" valign="middle">0.32</entry>
+<entry align="center" valign="middle">Mn</entry>
+<entry align="center" valign="middle">9.1</entry>
+<entry align="center" valign="middle">4.1</entry>
+<entry align="center" valign="middle">54</entry>
+<entry align="center" valign="middle">0.30</entry>
+<entry align="center" valign="middle">Mn</entry>
+<entry align="center" valign="middle">9.1</entry>
+<entry align="center" valign="middle">4.3</entry>
+<entry align="center" valign="middle">28</entry>
+<entry align="center" valign="middle">6.1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A53</entry>
+<entry align="center" valign="middle">S10</entry>
+<entry align="center" valign="middle">1.06</entry>
+<entry align="center" valign="middle">Mn</entry>
+<entry align="center" valign="middle">9.8</entry>
+<entry align="center" valign="middle">3.0</entry>
+<entry align="center" valign="middle">36</entry>
+<entry align="center" valign="middle">0.99</entry>
+<entry align="center" valign="middle">Mn</entry>
+<entry align="center" valign="middle">9.8</entry>
+<entry align="center" valign="middle">3.6</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">6.5</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A54</entry>
+<entry align="center" valign="middle">S8</entry>
+<entry align="center" valign="middle">0.32</entry>
+<entry align="center" valign="middle">Mn</entry>
+<entry align="center" valign="middle">9.1</entry>
+<entry align="center" valign="middle">2.6</entry>
+<entry align="center" valign="middle">31</entry>
+<entry align="center" valign="middle">0.22</entry>
+<entry align="center" valign="middle">Mn</entry>
+<entry align="center" valign="middle">9.1</entry>
+<entry align="center" valign="middle">2.9</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">6.4</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A55</entry>
+<entry align="center" valign="middle">S9</entry>
+<entry align="center" valign="middle">0.16</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">9.5</entry>
+<entry align="center" valign="middle">4.0</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">0.15</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">9.5</entry>
+<entry align="center" valign="middle">4.5</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">6.6</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A56</entry>
+<entry align="center" valign="middle">S4</entry>
+<entry align="center" valign="middle">0.56</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">9.1</entry>
+<entry align="center" valign="middle">1.6</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">0.48</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">9.1</entry>
+<entry align="center" valign="middle">1.8</entry>
+<entry align="center" valign="middle">28</entry>
+<entry align="center" valign="middle">3.9</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A57</entry>
+<entry align="center" valign="middle">S5</entry>
+<entry align="center" valign="middle">0.53</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">9.1</entry>
+<entry align="center" valign="middle">3.7</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">0.48</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">9.1</entry>
+<entry align="center" valign="middle">4.5</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">15.0</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry morerows="1" rowsep="0" align="center" valign="middle">Invention Example</entry>
+<entry align="center" valign="middle">A58</entry>
+<entry align="center" valign="middle">S8</entry>
+<entry align="center" valign="middle">0.20, 0.22</entry>
+<entry align="center" valign="middle">Sr, Ca</entry>
+<entry align="center" valign="middle">9.9</entry>
+<entry align="center" valign="middle">2.6</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">0.16, 0.16</entry>
+<entry align="center" valign="middle">Sr, Ca</entry>
+<entry align="center" valign="middle">9.9</entry>
+<entry align="center" valign="middle">2.7</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">3.5</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry align="center" valign="middle">A59</entry>
+<entry align="center" valign="middle">S9</entry>
+<entry align="center" valign="middle">0.28, 0.34</entry>
+<entry align="center" valign="middle">Sr, Mg</entry>
+<entry align="center" valign="middle">8.1</entry>
+<entry align="center" valign="middle">3.1</entry>
+<entry align="center" valign="middle">34</entry>
+<entry align="center" valign="middle">0.17, 0.25</entry>
+<entry align="center" valign="middle">Sr, Mg</entry>
+<entry align="center" valign="middle">8.1</entry>
+<entry align="center" valign="middle">3.5</entry>
+<entry align="center" valign="middle">28</entry>
+<entry align="center" valign="middle">3.1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A60</entry>
+<entry align="center" valign="middle">S8</entry>
+<entry align="center" valign="middle">0.17, 0.25</entry>
+<entry align="center" valign="middle">Ca, Mg</entry>
+<entry align="center" valign="middle">8.5</entry>
+<entry align="center" valign="middle">4.3</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">0.17, 0.24</entry>
+<entry align="center" valign="middle">Ca, Mg</entry>
+<entry align="center" valign="middle">8.5</entry>
+<entry align="center" valign="middle">4.6</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">13.3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A61</entry>
+<entry align="center" valign="middle">S9</entry>
+<entry align="center" valign="middle">0.32, 0.52</entry>
+<entry align="center" valign="middle">Ca, Mg</entry>
+<entry align="center" valign="middle">8.0</entry>
+<entry align="center" valign="middle">3.7</entry>
+<entry align="center" valign="middle">39</entry>
+<entry align="center" valign="middle">0.28, 0.45</entry>
+<entry align="center" valign="middle">Ca, Mg</entry>
+<entry align="center" valign="middle">8.0</entry>
+<entry align="center" valign="middle">4.5</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">12.9</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A62</entry>
+<entry align="center" valign="middle">S8</entry>
+<entry align="center" valign="middle">0.19, 0.25</entry>
+<entry align="center" valign="middle">Ti, Mg</entry>
+<entry align="center" valign="middle">8.1</entry>
+<entry align="center" valign="middle">4.1</entry>
+<entry align="center" valign="middle">47</entry>
+<entry align="center" valign="middle">0.15, 0.24</entry>
+<entry align="center" valign="middle">Ti, Mg</entry>
+<entry align="center" valign="middle">8.1</entry>
+<entry align="center" valign="middle">4.6</entry>
+<entry align="center" valign="middle">24</entry>
+<entry align="center" valign="middle">5.9</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A63</entry>
+<entry align="center" valign="middle">S9</entry>
+<entry align="center" valign="middle">0.17, 0.31</entry>
+<entry align="center" valign="middle">Sr, Ca</entry>
+<entry align="center" valign="middle">8.8</entry>
+<entry align="center" valign="middle">2.5</entry>
+<entry align="center" valign="middle">52</entry>
+<entry align="center" valign="middle">0.15, 0.29</entry>
+<entry align="center" valign="middle">Sr, Ca</entry>
+<entry align="center" valign="middle">8.8</entry>
+<entry align="center" valign="middle">2.8</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">7.4</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A64</entry>
+<entry align="center" valign="middle">S8</entry>
+<entry align="center" valign="middle">0.58, 0.15</entry>
+<entry align="center" valign="middle">Mn, Mg</entry>
+<entry align="center" valign="middle">8.1</entry>
+<entry align="center" valign="middle">3.1</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">0.55, 0.12</entry>
+<entry align="center" valign="middle">Mn, Mg</entry>
+<entry align="center" valign="middle">8.1</entry>
+<entry align="center" valign="middle">3.7</entry>
+<entry align="center" valign="middle">24</entry>
+<entry align="center" valign="middle">3.5</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A65</entry>
+<entry align="center" valign="middle">S9</entry>
+<entry align="center" valign="middle">0.42, 0.24</entry>
+<entry align="center" valign="middle">Mn, Mg</entry>
+<entry align="center" valign="middle">8.7</entry>
+<entry align="center" valign="middle">2.5</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">0.31, 0.19</entry>
+<entry align="center" valign="middle">Mn, Mg</entry>
+<entry align="center" valign="middle">8.7</entry>
+<entry align="center" valign="middle">2.8</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">2.3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">A66</entry>
+<entry align="center" valign="middle">S8</entry>
+<entry align="center" valign="middle">0.42</entry>
+<entry align="center" valign="middle">Be</entry>
+<entry align="center" valign="middle">8.5</entry>
+<entry align="center" valign="middle">2.5</entry>
+<entry align="center" valign="middle">42</entry>
+<entry align="center" valign="middle">0.39</entry>
+<entry align="center" valign="middle">Be</entry>
+<entry align="center" valign="middle">8.5</entry>
+<entry align="center" valign="middle">2.6</entry>
+<entry align="center" valign="middle">31</entry>
+<entry align="center" valign="middle">8.2</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry morerows="9" align="center" valign="middle">Comparative Example</entry>
+<entry align="center" valign="middle">al</entry>
+<entry align="center" valign="middle">S1</entry>
+<entry align="center" valign="middle">0.00</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">8.9</entry>
+<entry align="center" valign="middle">3.1</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">0.00</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">8.9</entry>
+<entry align="center" valign="middle">3.5</entry>
+<entry align="center" valign="middle"><u>7.1</u></entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry align="center" valign="middle">a2</entry>
+<entry align="center" valign="middle">S1</entry>
+<entry align="center" valign="middle">0.21</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">8.1</entry>
+<entry align="center" valign="middle">4.1</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">0.19</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">8.1</entry>
+<entry align="center" valign="middle">4.5</entry>
+<entry align="center" valign="middle"><u>5.6</u></entry>
+<entry align="center" valign="middle">0.4</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry align="center" valign="middle">a3</entry>
+<entry align="center" valign="middle">S1</entry>
+<entry align="center" valign="middle">0.17</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">8.5</entry>
+<entry align="center" valign="middle">2.4</entry>
+<entry align="center" valign="middle">38</entry>
+<entry align="center" valign="middle">0.14</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">8.5</entry>
+<entry align="center" valign="middle">2.5</entry>
+<entry align="center" valign="middle"><u>80.0</u></entry>
+<entry align="center" valign="middle">13.0</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry align="center" valign="middle">a4</entry>
+<entry align="center" valign="middle">S1</entry>
+<entry align="center" valign="middle">0.16</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">9.5</entry>
+<entry align="center" valign="middle">2.6</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">0.15</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">9.5</entry>
+<entry align="center" valign="middle">3.0</entry>
+<entry align="center" valign="middle"><u>80.0</u></entry>
+<entry align="center" valign="middle"><u>23.0</u></entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry align="center" valign="middle">a5</entry>
+<entry align="center" valign="middle">S1</entry>
+<entry align="center" valign="middle">0.51</entry>
+<entry align="center" valign="middle">Ca</entry>
+<entry align="center" valign="middle">9.1</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.46</entry>
+<entry align="center" valign="middle">Ca</entry>
+<entry align="center" valign="middle">9.1</entry>
+<entry align="center" valign="middle">1.5</entry>
+<entry align="center" valign="middle"><u>75.0</u></entry>
+<entry align="center" valign="middle"><u>18.3</u></entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry align="center" valign="middle">a6</entry>
+<entry align="center" valign="middle">S1</entry>
+<entry align="center" valign="middle">0.21</entry>
+<entry align="center" valign="middle">Ca</entry>
+<entry align="center" valign="middle">8.5</entry>
+<entry align="center" valign="middle">2.7</entry>
+<entry align="center" valign="middle">34</entry>
+<entry align="center" valign="middle">0.21</entry>
+<entry align="center" valign="middle">Ca</entry>
+<entry align="center" valign="middle">8.5</entry>
+<entry align="center" valign="middle">2.9</entry>
+<entry align="center" valign="middle"><u>8.9</u></entry>
+<entry align="center" valign="middle">2.6</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry align="center" valign="middle">a7</entry>
+<entry align="center" valign="middle">S1</entry>
+<entry align="center" valign="middle">0.39</entry>
+<entry align="center" valign="middle">Ca</entry>
+<entry align="center" valign="middle">8.0</entry>
+<entry align="center" valign="middle">2.8</entry>
+<entry align="center" valign="middle">42</entry>
+<entry align="center" valign="middle">0.36</entry>
+<entry align="center" valign="middle">Ca</entry>
+<entry align="center" valign="middle">8.0</entry>
+<entry align="center" valign="middle">3.0</entry>
+<entry align="center" valign="middle"><u>7.1</u></entry>
+<entry align="center" valign="middle">2.4</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry align="center" valign="middle">a8</entry>
+<entry align="center" valign="middle">S1</entry>
+<entry align="center" valign="middle">0.52</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">8.9</entry>
+<entry align="center" valign="middle">2.1</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">0.42</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">8.9</entry>
+<entry align="center" valign="middle">2.6</entry>
+<entry align="center" valign="middle"><u>9.3</u></entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry align="center" valign="middle">a9</entry>
+<entry align="center" valign="middle">S4</entry>
+<entry align="center" valign="middle">0.66</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">8.1</entry>
+<entry align="center" valign="middle">3.3</entry>
+<entry align="center" valign="middle">90</entry>
+<entry align="center" valign="middle">0.62</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">8.1</entry>
+<entry align="center" valign="middle">3.6</entry>
+<entry align="center" valign="middle"><u>9.4</u></entry>
+<entry align="center" valign="middle">0.9</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry align="center" valign="middle">a10</entry>
+<entry align="center" valign="middle">S1</entry>
+<entry align="center" valign="middle">0.71</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">8.8</entry>
+<entry align="center" valign="middle">2.8</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">0.67</entry>
+<entry align="center" valign="middle">Ti</entry>
+<entry align="center" valign="middle">8.8</entry>
+<entry align="center" valign="middle">2.9</entry>
+<entry align="center" valign="middle">54.1</entry>
+<entry align="center" valign="middle"><u>17.5</u></entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="43"> -->
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<title>[Table 3]</title>
+<tgroup cols="11">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="22mm"/>
+<colspec colnum="3" colname="col3" colwidth="13mm"/>
+<colspec colnum="4" colname="col4" colwidth="23mm"/>
+<colspec colnum="5" colname="col5" colwidth="20mm"/>
+<colspec colnum="6" colname="col6" colwidth="27mm"/>
+<colspec colnum="7" colname="col7" colwidth="22mm"/>
+<colspec colnum="8" colname="col8" colwidth="16mm"/>
+<colspec colnum="9" colname="col9" colwidth="13mm"/>
+<colspec colnum="10" colname="col10" colwidth="29mm"/>
+<colspec colnum="11" colname="col11" colwidth="37mm"/>
+<thead>
+<row>
+<entry morerows="2" align="center" valign="middle"/>
+<entry morerows="2" align="center" valign="middle">Reference symbol</entry>
+<entry morerows="2" align="center" valign="middle">Steel No.</entry>
+<entry align="center" valign="middle">Particle spraying</entry>
+<entry namest="col5" nameend="col9" align="center" valign="middle">Plating layer</entry>
+<entry namest="col10" nameend="col11" align="center" valign="middle">Hot-stamped member</entry></row>
+<row>
+<entry morerows="1" align="center" valign="middle">Spraying rate m/s</entry>
+<entry morerows="1" align="center" valign="middle">Thickness µm</entry>
+<entry morerows="1" align="center" valign="middle">Kind of A group element</entry>
+<entry align="center" valign="middle">A group element</entry>
+<entry align="center" valign="middle">Si</entry>
+<entry align="center" valign="middle">I(M)/I(A)</entry>
+<entry morerows="1" align="center" valign="middle">Coating material adhesion</entry>
+<entry morerows="1" align="center" valign="middle">Corrosion resistance after coating</entry></row>
+<row>
+<entry align="center" valign="middle">Mass%</entry>
+<entry align="center" valign="middle">Mass%</entry>
+<entry align="center" valign="middle"/></row></thead>
+<tbody>
+<row>
+<entry morerows="10" align="center" valign="middle">Invention Example</entry>
+<entry align="center" valign="middle">B1</entry>
+<entry align="center" valign="middle">S1</entry>
+<entry align="center" valign="middle">41</entry>
+<entry align="center" valign="middle">34</entry>
+<entry align="center" valign="middle">Sr</entry>
+<entry align="center" valign="middle">0.21</entry>
+<entry align="center" valign="middle">9.4</entry>
+<entry align="center" valign="middle">0.92</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry align="center" valign="middle">B2</entry>
+<entry align="center" valign="middle">S4</entry>
+<entry align="center" valign="middle">39</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">Sr</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">8.2</entry>
+<entry align="center" valign="middle">2.18</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry align="center" valign="middle">B3</entry>
+<entry align="center" valign="middle">S7</entry>
+<entry align="center" valign="middle">41</entry>
+<entry align="center" valign="middle">24</entry>
+<entry align="center" valign="middle">Sr</entry>
+<entry align="center" valign="middle">0.08</entry>
+<entry align="center" valign="middle">9.5</entry>
+<entry align="center" valign="middle">3.11</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry align="center" valign="middle">B4</entry>
+<entry align="center" valign="middle">S1</entry>
+<entry align="center" valign="middle">61</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">2.10</entry>
+<entry align="center" valign="middle">8.1</entry>
+<entry align="center" valign="middle">0.85</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry align="center" valign="middle">B5</entry>
+<entry align="center" valign="middle">S4</entry>
+<entry align="center" valign="middle">31</entry>
+<entry align="center" valign="middle">56</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">0.08</entry>
+<entry align="center" valign="middle">8.7</entry>
+<entry align="center" valign="middle">2.62</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry align="center" valign="middle">B6</entry>
+<entry align="center" valign="middle">S7</entry>
+<entry align="center" valign="middle">38</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">0.06</entry>
+<entry align="center" valign="middle">10.3</entry>
+<entry align="center" valign="middle">2.81</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry align="center" valign="middle">B7</entry>
+<entry align="center" valign="middle">S4</entry>
+<entry align="center" valign="middle">44</entry>
+<entry align="center" valign="middle">29</entry>
+<entry align="center" valign="middle">Mg</entry>
+<entry align="center" valign="middle">0.05</entry>
+<entry align="center" valign="middle">11.4</entry>
+<entry align="center" valign="middle">3.57</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry align="center" valign="middle">B8</entry>
+<entry align="center" valign="middle">S2</entry>
+<entry align="center" valign="middle">42</entry>
+<entry align="center" valign="middle">31</entry>
+<entry align="center" valign="middle">Ca</entry>
+<entry align="center" valign="middle">0.31</entry>
+<entry align="center" valign="middle">7.2</entry>
+<entry align="center" valign="middle">0.88</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry align="center" valign="middle">B9</entry>
+<entry align="center" valign="middle">S11</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">32</entry>
+<entry align="center" valign="middle">Ca</entry>
+<entry align="center" valign="middle">0.09</entry>
+<entry align="center" valign="middle">9.1</entry>
+<entry align="center" valign="middle">2.56</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry align="center" valign="middle">B10</entry>
+<entry align="center" valign="middle">S8</entry>
+<entry align="center" valign="middle">39</entry>
+<entry align="center" valign="middle">28</entry>
+<entry align="center" valign="middle">Ca</entry>
+<entry align="center" valign="middle">0.06</entry>
+<entry align="center" valign="middle">10.0</entry>
+<entry align="center" valign="middle">3.12</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry align="center" valign="middle">B11</entry>
+<entry align="center" valign="middle">S9</entry>
+<entry align="center" valign="middle">68</entry>
+<entry align="center" valign="middle">13</entry>
+<entry align="center" valign="middle">Ca</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">9.5</entry>
+<entry align="center" valign="middle">3.57</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0123" num="0123">Hitherto, the preferable embodiment of the present invention has been described in detail, but it is needless to say that the present invention is not limited to such examples. It is clear that a person skilled in the art is able to conceive a variety of modification examples or correction examples in the scope of the technical concept described in the claims, and it is also needless to say that such examples also belong to the technical scope of the present invention.</p>
+<heading id="h0045">[Industrial Applicability]</heading>
+<p id="p0124" num="0124">According to the present invention, it is possible to provide an aluminum-plated steel sheet having excellent adhesion to an electrodeposition coating film (coating material adhesion). Therefore, the present invention is highly industrially applicable.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="44"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>An aluminum-plated steel sheet comprising:
+<claim-text>a steel sheet; and</claim-text>
+<claim-text>a plating layer formed on a surface of the steel sheet,</claim-text>
+<claim-text>wherein the plating layer contains one or more A group elements selected from a group consisting of Be, Mg, Ca, Sr, Ba, Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, and Zn, a remainder of Al, Fe, and impurities,</claim-text>
+<claim-text>a thickness t of the plating layer is 10 to 60 µm, and</claim-text>
+<claim-text>an average grain size is 2t/3 or less and 15 µm or less in a thickness range from an outermost surface of the plating layer to a 2/3 thickness t position.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The aluminum-plated steel sheet according to claim 1,
+<claim-text>wherein a chemical composition of the plating layer is, by mass%,</claim-text>
+<claim-text>a total content of the A group elements: 0.001% to 30.00%,</claim-text>
+<claim-text>Si: 0% to 20.0%,</claim-text>
+<claim-text>Fe: 0% to 10.0%, and</claim-text>
+<claim-text>a remainder: Al and impurities.</claim-text></claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The aluminum-plated steel sheet according to claim 1 or 2,
+<claim-text>wherein, in the chemical composition of the plating layer, by mass%,</claim-text>
+<claim-text>a total of a Sr content, a Mg content, and a Ca content is less than 0.001%, and</claim-text>
+<claim-text>a total content of the A group elements is 0.05% to 30.00%.</claim-text></claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The aluminum-plated steel sheet according to any one of claims 1 to 3,<!-- EPO <DP n="45"> -->
+<claim-text>wherein, in a case of measuring the A group elements in the plating layer in a thickness direction from the outermost surface of the plating layer using GDS,</claim-text>
+<claim-text>a maximum value of detection intensities of the A group elements in a range from the outermost surface of the plating layer to a 1/3 thickness t position is 2.0 times or more an average value of detection intensities of the A group elements in a range from the 2/3 thickness t position to a thickness t position.</claim-text></claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The aluminum-plated steel sheet according to any one of claims 1 to 4,
+<claim-text>wherein a chemical composition of the steel sheet is, by mass%,</claim-text>
+<claim-text>C: 0.1% to 0.4%,</claim-text>
+<claim-text>Si: 0.01% to 0.60%,</claim-text>
+<claim-text>Mn: 0.50% to 3.00%,</claim-text>
+<claim-text>P: 0.05% or less,</claim-text>
+<claim-text>S: 0.020% or less,</claim-text>
+<claim-text>Al: 0.10% or less,</claim-text>
+<claim-text>Ti: 0.01% to 0.10%,</claim-text>
+<claim-text>B: 0.0001% to 0.0100%,</claim-text>
+<claim-text>N: 0.010% or less,</claim-text>
+<claim-text>Cr: 0% to 1.00%,</claim-text>
+<claim-text>Mo: 0% to 1.00%,</claim-text>
+<claim-text>Cu: 0% to 1.00%,</claim-text>
+<claim-text>Ni: 0% to 2.00%,</claim-text>
+<claim-text>Nb: 0% to 1.00%,</claim-text>
+<claim-text>Sn: 0% to 1.00%,</claim-text>
+<claim-text>Ca: 0% to 0.10%, and<!-- EPO <DP n="46"> --></claim-text>
+<claim-text>a remainder: Fe and impurities.</claim-text></claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>A method for manufacturing a hot-stamped member,
+<claim-text>wherein the aluminum-plated steel sheet according to any one of claims 1 to 5 is heated to a temperature range of 850°C to 950°C, and</claim-text>
+<claim-text>held in the temperature range for 2 minutes or longer, and then hot stamping is performed.</claim-text></claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>A hot-stamped member obtained by hot-stamping the aluminum-plated steel sheet according to any one of claims 1 to 5, the hot-stamped member comprising:<br/>
+an oxide film layer containing one or more A group elements selected from a group consisting of Be, Mg, Ca, Sr, Ba, Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, and Zn, Al, and oxygen in a surface.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="47"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="127" he="111" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="48"> -->
+<figure id="f0002" num="2"><img id="if0002" file="imgf0002.tif" wi="107" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="49"> -->
+<figure id="f0003" num="3"><img id="if0003" file="imgf0003.tif" wi="146" he="107" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="165" he="229" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="165" he="229" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="JP2018225421A"><document-id><country>JP</country><doc-number>2018225421</doc-number><kind>A</kind><date>20181130</date></document-id></patcit><crossref idref="pcit0001">[0002]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="JP2003034845A"><document-id><country>JP</country><doc-number>2003034845</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0002">[0013]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="JP2011137210A"><document-id><country>JP</country><doc-number>2011137210</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0003">[0013]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="JP2009293078A"><document-id><country>JP</country><doc-number>2009293078</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0004">[0013]</crossref></li>
+<li><patcit id="ref-pcit0005" dnum="JP4373778B"><document-id><country>JP</country><doc-number>4373778</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0005">[0118]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

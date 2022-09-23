@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP21160178A1" file="EP21160178NWA1.xml" lang="de" country="EP" doc-number="3888496" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="de"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3888496</B110><B120><B121>EUROPÄISCHE PATENTANMELDUNG</B121></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>21160178.6</B210><B220><date>20210302</date></B220><B250>de</B250><B251EP>de</B251EP><B260>de</B260></B200><B300><B310>202020101846 U</B310><B320><date>20200403</date></B320><B330><ctry>DE</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>A47B  91/02        20060101AFI20210820BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>A47B  91/024       20130101 FI20210816BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>REGAL-FUSSTEIL</B542><B541>en</B541><B542>SHELF BASE</B542><B541>fr</B541><B542>PARTIE DE PIED DE RAYONNAGE</B542></B540><B590><B598>1</B598></B590></B500><B700><B710><B711><snm>Tegometall International AG</snm><iid>101621789</iid><irf>EPA-52078</irf><adr><str>Industriestraße 7</str><city>8574 Lengwil</city><ctry>CH</ctry></adr></B711></B710><B720><B721><snm>Lüdtke, Arndt</snm><adr><str>c/o Tegometall International AG
+Industriestr. 7</str><city>8574 Lengwil</city><ctry>CH</ctry></adr></B721></B720><B740><B741><snm>Strehl Schübel-Hopf &amp; Partner</snm><iid>100060622</iid><adr><str>Maximilianstrasse 54</str><city>80538 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP></B800></SDOBI>
+<abstract id="abst" lang="de">
+<p id="pa01" num="0001">Die vorliegende Erfindung betrifft ein Regal-Fußteil 10, das sich auf besonders stabile Weise in einer entsprechenden Regalsäule 20 eines modularen Regalsystems verankern lässt. Dazu weist das Fußteil 10 eine Stützanordnung 12 auf, die neben einem Haken 13; 13A zum Einhängen in einen ersten Schlitz 21 der Regalsäule 20 noch eine Verstärkungsplatte 17; 17A; 17B; 17C aufweist, die dem Haken 13; 13A in der Tiefenrichtung des Regals vorgelagert und dazu ausgelegt ist, sich flächig an einem Wandabschnitt der Regalsäule 20 neben dem ersten Schlitz 21 abzustützen.
+<img id="iaf01" file="imgaf001.tif" wi="43" he="69" img-content="drawing" img-format="tif"/></p>
+</abstract>
+<description id="desc" lang="de"><!-- EPO <DP n="1"> -->
+<p id="p0001" num="0001">Ständer für Metallregale, insbesondere Präsentations- und Verkaufsregale, weisen als vertikale Elemente Vierkant- oder auch Rundsäulen auf, die auf Fußteilen mit horizontalen Auslegern stehen und mit Schlitzen zum Einhängen von Konsolen oder sonstigen Regalelementen versehen sind.</p>
+<p id="p0002" num="0002">Bei freistehenden Regalständern werden die Fußteil-Ausleger häufig mit der Säule verschweißt. Ein Nachteil der festen Verschweißung von Säule und Fußteil besteht darin, dass sich insgesamt L- oder T-förmige Regalständer ergeben, die sperrig und daher für Transport, Verpackung und Handhabung ungünstig sind.</p>
+<p id="p0003" num="0003">Daher sucht man nach Lösungen, die es erlauben, Fußteil und Säule erst beim Aufbau des Regals zusammenzustecken. Aus <patcit id="pcit0001" dnum="DE202004005121U1"><text>DE 20 2004 005 121 U1</text></patcit> und <patcit id="pcit0002" dnum="GB2325398A"><text>GB 2 325 398 A</text></patcit> sind Verbindungen bekannt, bei denen Fußteil-Ausleger lediglich durch seitliches Einhängen in die Regalsäule befestigt sind, so dass der Regalständer jederzeit in die zwei länglichen Objekte Fußteil und Säule zerlegbar ist.</p>
+<p id="p0004" num="0004">Diese herkömmlichen Lösungen sind jedoch von unzureichender Stabilität. Insbesondere kommt es mitunter vor, dass die Säule sich nach vorne durchbiegt, weil die Verankerung des Fußteils in der Säule nicht genügend verwindungssteif ist.</p>
+<p id="p0005" num="0005">Der Erfindung liegt die generelle Aufgabe zugrunde, Nachteile, wie sie bei Regalständern nach dem Stand der Technik bestehen, zu überwinden. Eine speziellere Aufgabe kann darin gesehen werden, ein Fußteil für besonders stabile und gleichzeitig einfach zu handhabende Regalständer zu schaffen.</p>
+<p id="p0006" num="0006">Die Lösung dieser Aufgabe ist im vorliegenden Anspruch 1 angegeben. Die Unteransprüche betreffen bevorzugte Ausführungsformen und richten sich auch auf den gesamten Regalständer, der durch Einhängen des Fußteils in eine Regalsäule entsteht.</p>
+<p id="p0007" num="0007">Das erfindungsgemäße Fußteil weist eine Stützanordnung auf, die nicht nur mittels eines Hakens in einen dazu passenden Schlitz einer Regalsäule einhängbar ist, sondern darüber hinaus eine Verstärkungsplatte aufweist, die die Verankerung des Hakens in dem Schlitz dadurch stabilisiert, dass sie sich von außen flächig gegen einen an den ersten Schlitz unmittelbar angrenzenden<!-- EPO <DP n="2"> --> Wandbereich der Regalsäule abstützt. Während der Haken also in den Schlitz eingehängt wird und von innen gegen die vordere Seitenwand der Regalsäule drückt, stützt die Verstärkungsplatte das Fußteil von der gegenüberliegenden Außenseite der vorderen Seitenwand der Regalsäule ab. Dadurch entsteht eine besonders stabile und ein Durchbiegen der Regalsäule vermindernde Verbindung zwischen Fußteil und Regalsäule.</p>
+<p id="p0008" num="0008">Die Verstärkungsplatte wird vorzugsweise direkt an dem Ausleger befestigt, insbesondere daran angeschweißt. Dies hat sich als robustere Bauart gegenüber herkömmlichen Lösungen erwiesen, in denen Verstärkungselemente an dem Haken selbst oder dessen Befestigungsabschnitt angebracht waren.</p>
+<p id="p0009" num="0009">Die Verstärkungsplatte ist gemäß einem besonders bevorzugten Ausführungsbeispiel eine gerade oder abgewinkelte Platte, die im wesentlichen U-förmig ist, wobei die beiden U-Schenkel links und rechts neben dem Schlitz der Regalsäule zu liegen kommen, in dem der Haken des Fußteils eingehängt ist. Die Hauptfläche der Verstärkungsplatte liegt mit ihrer gesamten Fläche bündig an der Außenseite der vorderen Seitenwand der Regalsäule an. Die Seitenflächen des Sockelbereichs der U-förmigen Platte sind wiederum vorzugsweise quer zur Tiefenrichtung des Regalständers an den Seitenwänden des Fußteil-Auslegers befestigt. Dies ermöglicht ein besonders effizientes Abstützen der Haken-Verankerung und eine statisch günstige Verteilung der auf die Stützanordnung wirkenden Kräfte auf den langen Hebelarm des Auslegers.</p>
+<p id="p0010" num="0010">Gemäß einer anderen bevorzugten Bauart kann die Verstärkungsplatte statt der U-Form aber auch eine zentrische Aussparung für den Haken aufweisen, oder der Haken ist statt an dem Ausleger direkt an der Platte angebracht, so dass diese eine einfache Platte ohne Aussparung sein kann.</p>
+<p id="p0011" num="0011">Besonders bevorzugt als Befestigungsmethode ist ein Verschweißen mittels einem oder mehrerer Schweißbolzen. So lässt sich das Basisteil des Einhängehakens und/oder der Sockelbereich der Verstärkungsplatte effizient und direkt an entsprechenden Seitenwänden des vorzugsweise als Hohlprofil ausgebildeten Auslegers befestigen.</p>
+<p id="p0012" num="0012">Zusätzlich zu dem Haken weist die Stützanordnung des Fußteils einen an der unteren Bodenwand des Auslegers befestigten Einhängeklotz auf, der<!-- EPO <DP n="3"> --> sich in einen nach unten offenen Schlitz der Regalsäule einschieben lässt. Dadurch entsteht ein zweiter Verankerungspunkt zwischen Fußteil und Regalsäule, der eine besonders verrutschfeste und stabile Verbindung zwischen Fußteil und Regalsäule garantiert.</p>
+<p id="p0013" num="0013">Der Ausleger in Form eines Standard-Hohlprofils bringt den Vorteil mit sich, dass für dieses Bauteil keine eigene Fertigung erforderlich ist und damit Produktionskosten eingespart werden können. Außerdem lässt sich die Stützanordnung besonders leicht innerhalb eines Hohlprofils verankern, weil z.B. ein Schweißgerät durch ein offenes Ende des Hohlprofils eingeführt werden kann.</p>
+<p id="p0014" num="0014">Vorzugsweise weist die Stützanordnung sowohl für den Haken als auch für den Einhängeklotz jeweils ein klotzförmiges Basisteil auf, das passgenau innerhalb des Auslegers verankerbar ist. Durch Verschweißen des Basisteils an Innenwänden des Auslegers entsteht eine besonders tragfähige Verbindung.</p>
+<p id="p0015" num="0015">In einem besonders bevorzugten Ausweisungsbeispiel ist das Hohlprofil des Auslegers am von der Stützanordnung abgewandten Vorderende geschlossen. Dies gelingt dadurch, dass eine oder beide Seitenwände des Ausleger-Hohlprofils vorne umgekantet sind, so dass das Hohlprofilrohr durch den oder die vorderen Umkantschenkel geschlossen ist. Dies erspart die Verwendung einer Abdeckkappe und garantiert dadurch eine einfachere und kostengünstigere Verwendbarkeit des Fußteils.</p>
+<p id="p0016" num="0016">Die Erfindung betrifft auch einen freistehenden Regalständer mit dem erfindungsgemäßen Fußteil, das in Schlitze einer Säule eingesteckt ist.</p>
+<p id="p0017" num="0017">Ausführungsbeispiele der Erfindung werden nachstehend anhand der Zeichnungen näher erläutert. Darin zeigt:
+<ul id="ul0001" list-style="none" compact="compact">
+<li><figref idref="f0001">Figur 1</figref> eine perspektivische Ansicht des Fußteil-Hinterendes mit der Stützanordnung gemäß einem ersten Ausführungsbeispiel der Erfindung,</li>
+<li><figref idref="f0001">Figur 2</figref> eine Seitenansicht eines Regalständer-Fußteils gemäß dem ersten Ausführungsbeispiel der Erfindung,</li>
+<li><figref idref="f0001">Figur 3A</figref> eine Ansicht des in <figref idref="f0001">Figur 1</figref> gezeigten Fußteils von vorne,</li>
+<li><figref idref="f0001">Figur 3B</figref> eine vergrößerte Darstellung eines Bereichs A der in <figref idref="f0001">Figur 1</figref> gezeigten Seitenansicht,<!-- EPO <DP n="4"> --></li>
+<li><figref idref="f0001">Figur 3C</figref> eine vergrößerte Darstellung eines Bereichs B der in <figref idref="f0001">Figur 1</figref> gezeigten Seitenansicht,</li>
+<li><figref idref="f0001">Figur 3D</figref> eine Schnittansicht des in <figref idref="f0001">Figur 1</figref> gezeigten Fußteils entlang der in <figref idref="f0001">Figur 1</figref> gezeigten Linie A-A von hinten nach vorne,</li>
+<li><figref idref="f0001">Figur 4A</figref> eine perspektivische Ansicht einer typischen Regalsäule zum Einhängen des in <figref idref="f0001">Figur 1</figref> gezeigten Fußteils,</li>
+<li><figref idref="f0001">Figur 4B</figref> eine perspektivische Ansicht einer modifizierten Regalsäule zum Einhängen des in <figref idref="f0001">Figur 1</figref> gezeigten Fußteils,</li>
+<li><figref idref="f0002">Figur 5A</figref> eine perspektivische Ansicht des Fußteil-Hinterendes mit der Stützanordnung gemäß einem zweiten Ausführungsbeispiel der Erfindung,</li>
+<li><figref idref="f0002">Figur 5B</figref> eine Ansicht des in <figref idref="f0002">Figur 5A</figref> gezeigten Fußteils von vorne,</li>
+<li><figref idref="f0002">Figur 5C</figref> eine Seitenansicht des Fußteil-Hinterendes gemäß <figref idref="f0002">Figur 5A</figref>,</li>
+<li><figref idref="f0002">Figur 6A</figref> eine perspektivische Ansicht des Fußteil-Hinterendes mit der Stützanordnung gemäß einem dritten Ausführungsbeispiel der Erfindung,</li>
+<li><figref idref="f0002">Figur 6B</figref> eine Ansicht des in <figref idref="f0002">Figur 6A</figref> gezeigten Fußteils von vorne,</li>
+<li><figref idref="f0002">Figur 6C</figref> eine Seitenansicht des Fußteil-Hinterendes gemäß <figref idref="f0002">Figur 6A</figref>,</li>
+<li><figref idref="f0002">Figur 7A</figref> eine perspektivische Ansicht des Fußteil-Hinterendes mit der Stützanordnung gemäß einem vierten Ausführungsbeispiel der Erfindung,</li>
+<li><figref idref="f0002">Figur 7B</figref> eine Ansicht des in <figref idref="f0002">Figur 7A</figref> gezeigten Fußteils von vorne, und</li>
+<li><figref idref="f0002">Figur 7C</figref> eine Seitenansicht des Fußteil-Hinterendes gemäß <figref idref="f0002">Figur 7A</figref>.</li>
+</ul></p>
+<p id="p0018" num="0018">Die <figref idref="f0001">Figuren 1 bis 3</figref> zeigen verschiedene Ansichten eines Fußteils 10 für einen Regalständer gemäß einem ersten Ausführungsbeispiel der Erfindung. Ein im wesentlichen waagerechter Ausleger 11 aus einem Standard-Hohlprofil ist in einem hinteren Endbereich fest mit einer Stützanordnung 12 verbunden. Die Verbindung erfolgt vorzugsweise durch Verschweißen. Die <figref idref="f0001">Figuren 4A und 4B</figref> zeigen jeweils eine zugehörige Regalsäule.</p>
+<p id="p0019" num="0019">In der vorliegenden Beschreibung werden die Richtungsangaben vorne, hinten, links, rechts, oben und unten entsprechend der tatsächlichen Verwendung des Fußteils in einem freistehenden Regal benutzt. Der Regalständer umfasst danach eine vertikal orientierte Regalsäule 20 (siehe <figref idref="f0001">Figur 4A</figref>) mit mehreren Schlitzen 21, 22 zum Einhängen des Fußteils 10. Die weiter oben an der Säule 20 befindlichen Schlitze sind zum Einhängen<!-- EPO <DP n="5"> --> sogenannter Konsolen (nicht gezeigt) bestimmt, auf die dann die Fachböden (nicht gezeigt) des Regals aufgelegt werden. Der Ausleger 11 des Fußteils 10 verläuft parallel zu diesen Fachböden in horizontaler Richtung von vorne nach hinten in der Tiefenrichtung des Regals. An seinem Hinterende weist das Fußteil 10 die erfindungsgemäße Stützanordnung 12 auf, mit der die lösbare Verbindung zwischen Fußteil 10 und Regalsäule 20 hergestellt wird.</p>
+<p id="p0020" num="0020">Die <figref idref="f0001">Figur 4A</figref> zeigt den unteren Bereich einer Standard-Regalsäule 20 zum Einhängen des erfindungsgemäßen Fußteils 10. Dieser untere Bereich kann, wie in der <figref idref="f0001">Figur 4B</figref> gezeigt, zusätzlich durch ein Verstärkungsblech 23 verstärkt sein. Das Verstärkungsblech 23 wird an der dem Fußteil 10 zugewandten Seitenwand der Säule 20 angeschweißt oder anderweitig befestigt. Das Verstärkungsblech weist an der Stelle der Schlitze 21, 22 vorzugsweise Aussparungen für den Klotz 15 und den Haken 13 auf. Durch die doppelte Materialstärke wird die Stabilität des aus Säule 20 und Fußteil 10 gebildeten Regalständers gerade in dem besonders belasteten unteren Bereich der Säule 20 zusätzlich verbessert.</p>
+<p id="p0021" num="0021">Der hintere Endbereich des Fußteils 10 ist in der vergrößerten Darstellung der <figref idref="f0001">Figur 3B</figref> und der perspektivischen Ansicht der <figref idref="f0001">Figur 1</figref> genauer dargestellt. Der Haken 13 ist, wie in <figref idref="f0001">Figur 1</figref> zu sehen, als Doppelhaken ausgebildet, also einer Form, die an die Doppelschlitzform der in den <figref idref="f0001">Figuren 4A und 4B</figref> gezeigten Regalsäulen-Löcher 21 angepasst ist. Selbstverständlich sind auch andere Hakenformen möglich.</p>
+<p id="p0022" num="0022">Der Haken 13 ist einstückig mit einem massiven Basisteil 14 verbunden, das an der oberen Wand und/oder den beiden Seitenwänden 11a, 11b des Fußteil-Auslegers 11 befestigt ist. Die Größe des Basisteils 14 ist so auf den Innenraum des Auslegers 11 abgestimmt, dass es an mehreren Seiten flächig von innen an dem Ausleger 11 anliegt. Dadurch lässt sich eine besonders stabile Verbindung zwischen dem Haken 13 und dem Ausleger 11 erzielen.</p>
+<p id="p0023" num="0023">Dem Haken 13 in der Tiefenrichtung vorgelagert sind die beiden Schenkel 19 der U-förmigen Verstärkungsplatte 17. Diese Schenkel 19 sind links und rechts neben dem Haken 13 angeordnet und so orientiert, dass sie sich flächig an den Wandabschnitten der Regalsäule 20 links und rechts neben dem ersten Schlitz 21 abstützen können. Dadurch wird nicht nur ein<!-- EPO <DP n="6"> --> unbeabsichtigtes Aushängen des Hakens 13 aus dem Schlitz 21 verhindert, sondern auch eine besonders sichere und die Biegebeanspruchung vermindernde Verankerung des Fußteils 10 in der Regalsäule 20 erzielt. Dies wird noch dadurch gesteigert, dass die beiden Schenkel 19 sich unten in einem breiten Sockelbereich 18 vereinigen, der mit seiner Hauptfläche flächig gegen den Bereich unterhalb des Regalsäulenschlitzes 21 anliegt.</p>
+<p id="p0024" num="0024">Der Sockelbereich 18 liegt mit seinen beiden Seiten an den hinteren Enden der Seitenwände 11a, 11b des Auslegers 11 an. Dadurch lässt sich eine besonders sichere Befestigung des Sockelbereichs 18 innerhalb des Auslegers 11 erreichen. Bevorzugt ist eine Verbindung mittels mehrerer Schweißbolzen 18a, 18b, die untereinander angeordnet sind und den Sockelbereich und die Seitenwände 11a, 11b quer zur Tiefenrichtung durchdringen. Andere Befestigungsmittel wie Schraubverbindungen sind aber ähnlich gut geeignet.</p>
+<p id="p0025" num="0025">Am unteren Ende des Auslegers ist hinten ferner ein Einhängeklotz 15 zum Einhängen in einen nach unten offenen zweiten Schlitz 22 der Regalsäule 20 angebracht. Dieser Einhängeklotz 15 weist wiederum ein massives Basisteil 16 auf, das über einen Verbindungssteg mit dem Einhängeklotz 15 verbunden ist. Die Größe des massiven Basisteils 16 ist auch hier so bemessen, dass dieser nicht nur an der unteren Seitenwand des Ausleger-Hohlprofils anliegt, sondern auch an dessen beiden Seitenwänden 11a, 11b. Die Verbindung zwischen dem Basisteil 16 und den Seitenwänden 11a, 11b gelingt wiederum vorzugsweise durch zwei in Tiefenrichtung hintereinander angeordnete Schweißbolzen 16a, 16b oder andere Befestigungsmittel.</p>
+<p id="p0026" num="0026">Die Vorderansicht des Auslegers 11 gemäß <figref idref="f0001">Figur 3A</figref>, die vergrößerte Seitenansicht der <figref idref="f0001">Figur 3C</figref> und die Schnittansicht der <figref idref="f0001">Figur 3D</figref> betreffen ein weiteres Detail einer besonders bevorzugten Ausführungsform des Fußteils 10. Gemäß dieser Ausführungsform wird sowohl die linke Seitenwand 11a als auch die rechte Seitenwand 11b am Vorderende um jeweils 90° umgekantet, um die Umkantschenkel 11aa und 11bb zu bilden. Diese Umkantschenkel 11 aa, 11 bb schließen in der Mitte des Ausleger-Hohlprofils 11 bündig aneinander an und bedecken somit die vordere Öffnung des Hohlprofils nahezu vollständig. Dadurch entsteht ein insgesamt geschlossenes Vorderende des ansonsten<!-- EPO <DP n="7"> --> rohrförmigen Profils und dieses kann ohne die sonst erforderliche Abdeckkappe aus Kunststoff oder dergleichen verwendet werden.</p>
+<p id="p0027" num="0027">In den Zeichnungen sind ferner Fußteller dargestellt, die eine Höhenverstellbarkeit des Fußteils 10 am Vorder- und Hinterende über Sechskantmuttern ermöglichen.</p>
+<p id="p0028" num="0028">Weitere Ausführungsbeispiele der Erfindung sind in den <figref idref="f0002">Figuren 5 bis 7</figref> gezeigt. Im Folgenden werden jeweils nur diejenigen Elemente beschrieben, die vom bereits ausführlich erläuterten ersten Ausführungsbeispiel abweichen.</p>
+<p id="p0029" num="0029">Die <figref idref="f0002">Figuren 5A bis 5C</figref> zeigen das zweite Ausführungsbeispiel. Hier ist die Verstärkungsplatte 17A nicht gerade sondern abgewinkelt als Winkelblech ausgebildet. Der Abkantwinkel beträgt ca. 90°. Anders als beim ersten Ausführungsbeispiel ist der Sockelbereich 18A hier nicht mehr am hintersten Ende des Auslegers 11 an den Seitenwänden 11a, 11b befestigt, sondern an dessen oberer Seitenwand 11c. Im gezeigten Beispiel gelingt dies durch einen Schweißbolzen 18c, der den Sockelbereich 18A und die obere Seitenwand 11c durchdringt. Auch andere Befestigungsarten sind möglich.</p>
+<p id="p0030" num="0030">Wie schon beim ersten Ausführungsbeispiel liegen die beiden Schenkel 19A auch beim zweiten Ausführungsbeispiel flächig von vorne an den Wandbereichen unmittelbar links und rechts neben dem ersten Schlitz 21 an und erzielen so den gewünschten Abstützeffekt.</p>
+<p id="p0031" num="0031">Die <figref idref="f0002">Figuren 6A bis 6C</figref> zeigen das dritte Ausführungsbeispiel. Hier ist die Verstärkungsplatte 17B ebenfalls nicht gerade sondern abgewinkelt als Winkelblech ausgebildet. Der Abkantwinkel beträgt wieder ca. 90°. Der Sockelbereich 17B1 ist hier wieder wie beim ersten Ausführungsbeispiel am hintersten Ende des Auslegers 11 an den Seitenwänden 11a, 11b befestigt. Im gezeigten Beispiel gelingt dies durch die bereits beschriebenen Schweißbolzen 18a, 18b, die den Sockelbereich 17B1 und die Seitenwände 11a, 11b quer zur Längsrichtung des Auslegers durchdringen. Auch andere Befestigungsarten sind möglich.</p>
+<p id="p0032" num="0032">Anders als beim ersten Ausführungsbeispiel ragen beim dritten Ausführungsbeispiel jedoch keine U-Schenkel nach oben neben den Haken 13. Stattdessen weist die Verstärkungsplatte 17B an ihrem Winkel oder Knick eine Aussparung 17B0 auf, durch die sich der an dem Ausleger 11 befestigte Haken<!-- EPO <DP n="8"> --> 13 nach oben erstreckt. Der von dem Sockelbereich 17B1 abgewandte Endabschnitt 17B2 ragt beim dritten Ausführungsbeispiel nicht mehr nach oben, sondern verläuft innerhalb des Ausleger-Hohlprofils nach vorne. Dort ist der Endabschnitt 17B2 ähnlich dem Sockelbereich 18A beim zweiten Ausführungsbeispiel an der oberen Seitenwand 11c befestigt, vorzugsweise mittels des Schweißbolzens 18c.</p>
+<p id="p0033" num="0033">Indem die Verstärkungsplatte 17B somit an drei verschiedenen Seitenwänden 11a, 11b, 11c des Auslegers 11 angeschweißt ist, entsteht beim dritten Ausführungsbeispiel eine besonders stabile Verankerung der Verstärkungsplatte 17B in dem Ausleger 11. Der Sockelbereich 17B1 stützt sich wie schon beim ersten Ausführungsbeispiel von vorne gegen den Wandbereich der Regalsäule 20 ab, der an den Schlitz 21 unten und in der Mitte unmittelbar angrenzt. Das sorgt für die gewünschte Abstützung des Hakens 13.</p>
+<p id="p0034" num="0034">Die <figref idref="f0002">Figuren 7A bis 7C</figref> zeigen das vierte Ausführungsbeispiel. Hier ist die Verstärkungsplatte 17C wieder gerade, weist jedoch weder U-Schenkel noch eine Aussparung auf. Der Sockelbereich 17C1 ist hier wieder wie beim ersten Ausführungsbeispiel am hintersten Ende des Auslegers 11 an den Seitenwänden 11a, 11b befestigt, vorzugsweise mittels der bereits beschriebenen Schweißbolzen 18a, 18b.</p>
+<p id="p0035" num="0035">Anders als bei den bisher beschriebenen Ausführungsbeispielen ist der Haken 13A beim vierten Ausführungsbeispiel nicht direkt an dem Ausleger 11 befestigt, sondern an dem nach oben ragenden Endabschnitt 17C2 angeschweißt, vorzugsweise mittels eines Schweißbolzens 18d. Der Vorteil der Bauart des vierten Ausführungsbeispiels besteht darin, dass der Endabschnitt 17C2 am gesamten umliegenden Wandbereich der Regalsäule 20 anliegt, der an den ersten Schlitz 21 oben, unten, links und rechts angrenzt. Dadurch wird ein besonders sicherer Abstützeffekt erzielt. Ferner ist die Bauform der Verstärkungsplatte 17C ein einfaches Rechteck und daher besonders leicht herstellbar.</p>
+<p id="p0036" num="0036">Zusammenfassend betrifft die vorliegende Erfindung ein Regal-Fußteil 10, das sich auf besonders stabile Weise in einer entsprechenden Regalsäule 20 eines modularen Regalsystems verankern lässt. Dazu weist das Fußteil 10 eine Stützanordnung 12 auf, die neben einem Haken 13; 13A zum Einhängen in<!-- EPO <DP n="9"> --> einen ersten Schlitz 21 der Regalsäule 20 noch eine Verstärkungsplatte 17; 17A; 17B; 17C aufweist, die dem Haken 13; 13A in der Tiefenrichtung des Regals vorgelagert und dazu ausgelegt ist, sich flächig an einem Wandabschnitt der Regalsäule 20 neben dem ersten Schlitz 21 abzustützen.
+<tables id="tabl0001" num="0001">
+<table frame="none">
+<title><b>Bezugszeichenliste</b></title>
+<tgroup cols="2" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="34mm"/>
+<colspec colnum="2" colname="col2" colwidth="34mm" colsep="0"/>
+<tbody>
+<row>
+<entry align="right"><b>10</b></entry>
+<entry>Fußteil</entry></row>
+<row>
+<entry align="right"><b>11</b></entry>
+<entry>Ausleger / Hohlprofil</entry></row>
+<row>
+<entry align="right"><b>11a, 11b, 11c</b></entry>
+<entry>Seitenwand</entry></row>
+<row>
+<entry align="right"><b>11aa, 11bb</b></entry>
+<entry>Umkantschenkel</entry></row>
+<row>
+<entry align="right"><b>12</b></entry>
+<entry>Stützanordnung</entry></row>
+<row>
+<entry align="right"><b>13, 13A</b></entry>
+<entry>Haken</entry></row>
+<row>
+<entry align="right"><b>14</b></entry>
+<entry>Basisteil</entry></row>
+<row>
+<entry align="right"><b>15</b></entry>
+<entry>Einhängeklotz</entry></row>
+<row>
+<entry align="right"><b>16</b></entry>
+<entry>Basisteil</entry></row>
+<row>
+<entry align="right"><b>16a, 16b</b></entry>
+<entry>Schweißbolzen</entry></row>
+<row>
+<entry align="right"><b>17, 17A, 17B, 17C</b></entry>
+<entry>Verstärkungsplatte</entry></row>
+<row>
+<entry align="right"><b>17B0</b></entry>
+<entry>Aussparung</entry></row>
+<row>
+<entry align="right"><b>17B2, 17C2</b></entry>
+<entry>Endabschnitt</entry></row>
+<row>
+<entry align="right"><b>18, 18A, 17B1, 17C1</b></entry>
+<entry>Sockelbereich</entry></row>
+<row>
+<entry align="right"><b>18a, 18b, 18c, 18d</b></entry>
+<entry>Schweißbolzen</entry></row>
+<row>
+<entry align="right"><b>19, 19A</b></entry>
+<entry>U-Schenkel</entry></row>
+<row>
+<entry align="right"><b>20</b></entry>
+<entry>Regalsäule</entry></row>
+<row>
+<entry align="right"><b>21</b></entry>
+<entry>erster Schlitz</entry></row>
+<row>
+<entry align="right"><b>22</b></entry>
+<entry>zweiter Schlitz</entry></row>
+<row>
+<entry align="right"><b>23</b></entry>
+<entry>Verstärkungsblech</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+</description>
+<claims id="claims01" lang="de"><!-- EPO <DP n="10"> -->
+<claim id="c-de-0001" num="0001">
+<claim-text>Fußteil (10) für einen Regalständer, mit:
+<claim-text>einem Ausleger (11), der dazu ausgelegt ist, so angeordnet zu werden, dass er mit seiner Längsachse in der Tiefenrichtung des Regals im Wesentlichen waagerecht von vorne nach hinten verläuft, und</claim-text>
+<claim-text>einer am Hinterende des Auslegers (11) angebrachten Stützanordnung (12) zur Befestigung des Fußteils (10) an einer Regalsäule (20), wobei die Stützanordnung (12) mindestens einen Haken (13; 13A) aufweist, der zum Einhängen in einen vertikalen ersten Schlitz (21) der Regalsäule (20) ausgelegt ist,</claim-text>
+<claim-text><b>dadurch gekennzeichnet, dass</b> die Stützanordnung (12) ferner eine Verstärkungsplatte (17; 17A; 17B; 17C) aufweist, die zu dem Haken (13; 13A) in der Tiefenrichtung versetzt angeordnet und dazu ausgelegt ist, die Stützanordnung (12) von vorne flächig gegen einen an den ersten Schlitz (21) angrenzenden Wandbereich der Regalsäule (20) abzustützen.</claim-text></claim-text></claim>
+<claim id="c-de-0002" num="0002">
+<claim-text>Fußteil (10) nach Anspruch 1, wobei die Verstärkungsplatte (17; 17A; 17B; 17C) direkt an dem Ausleger (11) befestigt ist und vorzugsweise daran angeschweißt ist.</claim-text></claim>
+<claim id="c-de-0003" num="0003">
+<claim-text>Fußteil (10) nach Anspruch 1 oder 2, wobei die Verstärkungsplatte (17; 17A) eine im Wesentlichen U-förmige, gerade oder abgewinkelte Platte ist, deren beide Schenkel (19; 19A) dazu ausgelegt sind, links und rechts neben dem ersten Schlitz (21) an der Regalsäule (20) anzuliegen.</claim-text></claim>
+<claim id="c-de-0004" num="0004">
+<claim-text>Fußteil (10) nach Anspruch 1 oder 2, wobei<br/>
+die Verstärkungsplatte (17B) eine Platte mit einer Aussparung (17B0) in ihrem Mittelbereich ist, und<br/>
+der Haken (13) sich durch die Aussparung (17B0) erstreckt.</claim-text></claim>
+<claim id="c-de-0005" num="0005">
+<claim-text>Fußteil (10) nach Anspruch 4, wobei<br/>
+<!-- EPO <DP n="11"> -->die Verstärkungsplatte (17B) eine abgewinkelte Platte, vorzugsweise ein Winkelblech ist, und<br/>
+die von einem Mittelbereich der Verstärkungsplatte (17B) abgewandten Enden einen Sockelbereich (17B1) und einen Endabschnitt (17B2) bilden, die jeweils an verschiedenen Seitenwänden (11a, 11b, 11c) des Auslegers (11) befestigt sind.</claim-text></claim>
+<claim id="c-de-0006" num="0006">
+<claim-text>Fußteil (10) nach Anspruch 1 oder 2, wobei<br/>
+die Verstärkungsplatte (17C) eine gerade Platte mit einem Sockelbereich (17C1) ist, der an wenigstens einer Seitenwand (11a, 11b) des Auslegers (11) befestigt ist, und<br/>
+der Haken (13A) an einem von dem Ausleger (11) hervorstehenden Endabschnitt (17C2) der Verstärkungsplatte (17C) befestigt ist, vorzugsweise mittels eines Schweißbolzens (18d).</claim-text></claim>
+<claim id="c-de-0007" num="0007">
+<claim-text>Fußteil (10) nach einem der vorstehenden Ansprüche, wobei die Verstärkungsplatte (17; 17A; 17B; 17C) eine gerade oder abgewinkelte Platte mit einem Sockelbereich (18; 18A; 17B1; 17C1) ist, der quer zur Längsachse des Auslegers (11) an wenigstens einer von dessen Seitenwänden (11a, 11b, 11c) befestigt ist, vorzugsweise durch Verschweißen mittels einem oder mehreren, die Seitenwände (11a, 11b, 11c) durchdringenden Schweißbolzen (18a, 18b, 18c).</claim-text></claim>
+<claim id="c-de-0008" num="0008">
+<claim-text>Fußteil (10) nach einem der Ansprüche 5 bis 7, wobei der Sockelbereich (18; 17B1; 17C1) dazu ausgelegt ist, mit seiner Hauptfläche flächig von vorne gegen einen Wandabschnitt der Regalsäulen-Vorderseitenwand unterhalb des ersten Schlitzes (21) anzuliegen.</claim-text></claim>
+<claim id="c-de-0009" num="0009">
+<claim-text>Fußteil (10) nach einem der vorstehenden Ansprüche, wobei die Stützanordnung (12) ferner einen Klotz (15) aufweist, der zum Einhängen in einen nach unten offenen zweiten Schlitz (22) der Regalsäule (20) ausgelegt ist.<!-- EPO <DP n="12"> --></claim-text></claim>
+<claim id="c-de-0010" num="0010">
+<claim-text>Fußteil (10) nach einem der vorstehenden Ansprüche, wobei der Ausleger (11) in einem Hohlprofil besteht und die Stützanordnung (12) im Inneren des Hohlprofils befestigt ist.</claim-text></claim>
+<claim id="c-de-0011" num="0011">
+<claim-text>Fußteil (10) nach einem der vorstehenden Ansprüche, wobei die Stützanordnung (12) ein massives Basisteil (14, 16) aufweist, das passgenau in dem Ausleger (11) untergebracht und dort angeschweißt oder anderweitig befestigt ist.</claim-text></claim>
+<claim id="c-de-0012" num="0012">
+<claim-text>Fußteil (10) nach einem der vorstehenden Ansprüche, wobei der Ausleger (11) ein Hohlprofil aufweist, von dem mindestens eine Seitenwand (11a, 11b) am Vorderende des Auslegers (11) so umgekantet ist, dass mindestens ein Abkantschenkel (11aa, 11bb) die Vorderöffnung des Hohlprofils abdeckt.</claim-text></claim>
+<claim id="c-de-0013" num="0013">
+<claim-text>Regalständer, insbesondere für ein freistehendes Regal, mit<br/>
+einer Regalsäule (20) und<br/>
+einem Fußteil (10) nach einem der vorstehenden Ansprüche, wobei<br/>
+die Regalsäule (20) einen ersten vertikalen Schlitz (21) aufweist, in den der Haken (13; 13A) eingehängt ist,<br/>
+die Verstärkungsplatte (17; 17A; 17B; 17C) sich von vorne flächig gegen einen an den ersten Schlitz (21) angrenzenden Wandbereich der Regalsäule (20) abstützt, und<br/>
+die Regalsäule (20) vorzugsweise einen nach unten offenen zweiten Schlitz (22) aufweist, in den der Klotz (15) des Fußteils (10) eingehängt ist.</claim-text></claim>
+<claim id="c-de-0014" num="0014">
+<claim-text>Regalständer nach Anspruch 13, wobei die Regalsäule (20) zumindest im unteren Bereich an ihrer dem Fußteil (10) zugewandten Seitenwand ein Verstärkungsblech (23) aufweist, das die Wandstärke der Regalsäule (20) in diesem unteren Bereich erhöht, vorzugsweise verdoppelt.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="de"><!-- EPO <DP n="13"> -->
+<figure id="f0001" num="1,2,3A,3B,3C,3D,4A,4B"><img id="if0001" file="imgf0001.tif" wi="165" he="104" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="14"> -->
+<figure id="f0002" num="5A,5B,5C,6A,6B,6C,7A,7B,7C"><img id="if0002" file="imgf0002.tif" wi="147" he="233" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="de" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="157" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="155" he="233" type="tif"/></search-report-data><search-report-data date-produced="20210817" id="srepxml" lang="de" srep-office="EP" srep-type="ep-sr" status="n"><!--
+ The search report data in XML is provided for the users' convenience only. It might differ from the search report of the PDF document, which contains the officially published data. The EPO disclaims any liability for incorrect or incomplete data in the XML for search reports.
+ -->
+
+<srep-info><file-reference-id>EPA-52078</file-reference-id><application-reference><document-id><country>EP</country><doc-number>21160178.6</doc-number></document-id></application-reference><applicant-name><name>Tegometall International AG</name></applicant-name><srep-established srep-established="yes"/><srep-invention-title title-approval="yes"/><srep-abstract abs-approval="yes"/><srep-figure-to-publish figinfo="by-applicant"><figure-to-publish><fig-number>1</fig-number></figure-to-publish></srep-figure-to-publish><srep-info-admin><srep-office><addressbook><text>DH</text></addressbook></srep-office><date-search-report-mailed><date>20210826</date></date-search-report-mailed></srep-info-admin></srep-info><srep-for-pub><srep-fields-searched><minimum-documentation><classifications-ipcr><classification-ipcr><text>A47B</text></classification-ipcr></classifications-ipcr></minimum-documentation></srep-fields-searched><srep-citations><citation id="sr-cit0001"><patcit dnum="EP3513684A1" id="sr-pcit0001" url="http://v3.espacenet.com/textdoc?DB=EPODOC&amp;IDX=EP3513684&amp;CY=ep"><document-id><country>EP</country><doc-number>3513684</doc-number><kind>A1</kind><name>CEFLA S C [IT]</name><date>20190724</date></document-id></patcit><category>X</category><rel-claims>1-3,6-14</rel-claims><rel-passage><passage>* Abbildungen 1-5 *</passage></rel-passage></citation><citation id="sr-cit0002"><patcit dnum="WO2011095715A2" id="sr-pcit0002" url="http://v3.espacenet.com/textdoc?DB=EPODOC&amp;IDX=WO2011095715&amp;CY=ep"><document-id><country>WO</country><doc-number>2011095715</doc-number><kind>A2</kind><name>HMY [FR]; BERTHAUD PHILIPPE [FR]; HERVIEUX PHILIPPE [FR]</name><date>20110811</date></document-id></patcit><category>X</category><rel-claims>1-14</rel-claims><rel-passage><passage>* Abbildungen 1-3 *</passage></rel-passage></citation></srep-citations><srep-admin><examiners><primary-examiner><name>Linden, Stefan</name></primary-examiner></examiners><srep-office><addressbook><text>The Hague</text></addressbook></srep-office><date-search-completed><date>20210817</date></date-search-completed></srep-admin><!--							The annex lists the patent family members relating to the patent documents cited in the above mentioned European search report.							The members are as contained in the European Patent Office EDP file on							The European Patent Office is in no way liable for these particulars which are merely given for the purpose of information.							For more details about this annex : see Official Journal of the European Patent Office, No 12/82						--><srep-patent-family><patent-family><priority-application><document-id><country>EP</country><doc-number>3513684</doc-number><kind>A1</kind><date>20190724</date></document-id></priority-application><family-member><document-id><country>EP</country><doc-number>3513684</doc-number><kind>A1</kind><date>20190724</date></document-id></family-member><family-member><document-id><country>ES</country><doc-number>2780184</doc-number><kind>T3</kind><date>20200824</date></document-id></family-member><family-member><document-id><country>PL</country><doc-number>3513684</doc-number><kind>T3</kind><date>20200727</date></document-id></family-member></patent-family><patent-family><priority-application><document-id><country>WO</country><doc-number>2011095715</doc-number><kind>A2</kind><date>20110811</date></document-id></priority-application><family-member><document-id><country>DK</country><doc-number>3360442</doc-number><kind>T3</kind><date>20190916</date></document-id></family-member><family-member><document-id><country>EP</country><doc-number>2533668</doc-number><kind>A2</kind><date>20121219</date></document-id></family-member><family-member><document-id><country>EP</country><doc-number>3360442</doc-number><kind>A1</kind><date>20180815</date></document-id></family-member><family-member><document-id><country>ES</country><doc-number>2672643</doc-number><kind>T3</kind><date>20180615</date></document-id></family-member><family-member><document-id><country>ES</country><doc-number>2744023</doc-number><kind>T3</kind><date>20200221</date></document-id></family-member><family-member><document-id><country>FR</country><doc-number>2956171</doc-number><kind>A1</kind><date>20110812</date></document-id></family-member><family-member><document-id><country>PL</country><doc-number>3360442</doc-number><kind>T3</kind><date>20191129</date></document-id></family-member><family-member><document-id><country>PT</country><doc-number>3360442</doc-number><kind>T</kind><date>20190924</date></document-id></family-member><family-member><document-id><country>SI</country><doc-number>3360442</doc-number><kind>T1</kind><date>20191129</date></document-id></family-member><family-member><document-id><country>TR</country><doc-number>201808071</doc-number><kind>T4</kind><date>20180621</date></document-id></family-member><family-member><document-id><country>WO</country><doc-number>2011095715</doc-number><kind>A2</kind><date>20110811</date></document-id></family-member></patent-family></srep-patent-family></srep-for-pub></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>IN DER BESCHREIBUNG AUFGEFÜHRTE DOKUMENTE</b></heading>
+<p id="ref-p0001" num=""><i>Diese Liste der vom Anmelder aufgeführten Dokumente wurde ausschließlich zur Information des Lesers aufgenommen und ist nicht Bestandteil des europäischen Patentdokumentes. Sie wurde mit größter Sorgfalt zusammengestellt; das EPA übernimmt jedoch keinerlei Haftung für etwaige Fehler oder Auslassungen.</i></p>
+<heading id="ref-h0002"><b>In der Beschreibung aufgeführte Patentdokumente</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="DE202004005121U1"><document-id><country>DE</country><doc-number>202004005121</doc-number><kind>U1</kind></document-id></patcit><crossref idref="pcit0001">[0003]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="GB2325398A"><document-id><country>GB</country><doc-number>2325398</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0002">[0003]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP20786426A1" file="EP20786426NWA1.xml" lang="en" country="EP" doc-number="3889480" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3889480</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>20786426.5</B210><B220><date>20200131</date></B220><B240><B241><date>20201016</date></B241></B240><B250>ja</B250><B251EP>en</B251EP><B260>en</B260></B200><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>F16K  15/06        20060101AFI20201119BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>F16K  15/18        20130101 LI20210901BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>F16K  15/06        20130101 LI20210901BCEP        </text></classification-cpc><classification-cpc sequence="3"><text>F16K   1/42        20130101 LI20210901BCEP        </text></classification-cpc><classification-cpc sequence="4"><text>F16K   1/36        20130101 LI20210901BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>RÜCKSCHLAGVENTIL</B542><B541>en</B541><B542>CHECK VALVE</B542><B541>fr</B541><B542>CLAPET DE NON-RETOUR</B542></B540><B590><B598>2</B598></B590></B500><B700><B710><B711><snm>ISHIZAKI CO., LTD.</snm><iid>101861662</iid><irf>EP101768</irf><adr><str>29-14 Kugahara 5-chome</str><city>Ota-ku
+Tokyo
+1460085</city><ctry>JP</ctry></adr></B711></B710><B720><B721><snm>ISHIZAKI, Nobuyuki</snm><adr><str>c/o ISHIZAKI CO., LTD.,
+29-14, Kugahara 5-chome,</str><city>Ota-ku, Tokyo
+1460085</city><ctry>JP</ctry></adr></B721><B721><snm>OUCHI, Takeshi</snm><adr><str>c/o ISHIZAKI CO., LTD.,
+29-14, Kugahara 5-chome,</str><city>Ota-ku, Tokyo
+1460085</city><ctry>JP</ctry></adr></B721><B721><snm>OTA, Kazuhiro</snm><adr><str>c/o ISHIZAKI CO., LTD.,
+29-14, Kugahara 5-chome,</str><city>Ota-ku, Tokyo
+1460085</city><ctry>JP</ctry></adr></B721><B721><snm>KIKUCHI, Daisuke</snm><adr><str>c/o ISHIZAKI CO., LTD.,
+29-14, Kugahara 5-chome,</str><city>Ota-ku, Tokyo
+1460085</city><ctry>JP</ctry></adr></B721><B721><snm>KOJIMA, Kazuhiko</snm><adr><str>c/o ISHIZAKI CO., LTD.,
+29-14, Kugahara 5-chome,</str><city>Ota-ku, Tokyo
+1460085</city><ctry>JP</ctry></adr></B721><B721><snm>HASEGAWA, Futoshi</snm><adr><str>c/o ISHIZAKI CO., LTD.,
+29-14, Kugahara 5-chome,</str><city>Ota-ku, Tokyo
+1460085</city><ctry>JP</ctry></adr></B721><B721><snm>HARA, Eiji</snm><adr><str>c/o ISHIZAKI CO., LTD.,
+29-14, Kugahara 5-chome,</str><city>Ota-ku, Tokyo
+1460085</city><ctry>JP</ctry></adr></B721><B721><snm>YOSHIDA, Yusuke</snm><adr><str>c/o ISHIZAKI CO., LTD.,
+29-14, Kugahara 5-chome,</str><city>Ota-ku, Tokyo
+1460085</city><ctry>JP</ctry></adr></B721></B720><B740><B741><snm>TBK</snm><iid>100061560</iid><adr><str>Bavariaring 4-6</str><city>80336 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>JP2020003755</anum></dnum><date>20200131</date></B861><B862>ja</B862></B860><B870><B871><dnum><pnum>WO2021152842</pnum></dnum><date>20210805</date><bnum>202131</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">The check valve (1) is of straight pipe joint type and oblique lift type. The check valve (1) includes: a valve seat (12a); a moving body (2) capable of linearly reciprocating between a closed state where it is in close contact with the valve seat (12a) and an open state where it is separated from the valve seat (12a); a primary flow path (inflow path (12c)) on an upstream side of the moving body (2); and a secondary flow path (outflow path (12d)) on a downstream side of the moving body (2). The moving body (2) includes a valve body (6) and a valve shaft (7) extending from the valve body (6). The valve seat (12a) supporting the valve body (6) is formed to straddle the center line (CL) of the connection flow path that linearly extends including the primary flow path (inflow path 12c) and the secondary flow path (outflow path 12d) in a cross section including the center line (CL) thereon.<img id="iaf01" file="imgaf001.tif" wi="60" he="80" img-content="drawing" img-format="tif"/></p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">[TECHNICAL FIELD]</heading>
+<p id="p0001" num="0001">The present invention relates to a foot valve structure, and relates to a lift-type check valve.</p>
+<heading id="h0002">[BACKGROUND ART]</heading>
+<p id="p0002" num="0002">There are known check valves that allow fluid in pipes to pass in one direction. There are various types of check valves that are classified according to operation aspects of valve bodies.</p>
+<p id="p0003" num="0003">Of these, lift check valves have a structure in which the valve body linearly reciprocates in a direction toward or away from a valve seat, and therefore a quick closing operation is possible. In particular, Smolensky type lift check valves include a spring body so that they can suitably reduce water hammer generation.</p>
+<p id="p0004" num="0004">Patent Document 1 discloses a Y-shaped check valve that is straight pipe joint type and oblique lift type. The check valve includes a valve body and a spring body that biases the valve body toward the valve seat side in a direction to push the valve body down.</p>
+<p id="p0005" num="0005">With respect to the direction of straight line connecting the inflow port and the outflow port, the valve body of the check valve is lifted obliquely upward<!-- EPO <DP n="2"> --> by the fluid flowing in the forward direction to be in an open state, and, when the valve body receives the fluid flowing in the opposite direction, it is pushed down by the spring body and is moved obliquely downward to be in a closed state.</p>
+<heading id="h0003">[CITATION LIST]</heading>
+<heading id="h0004">[PATENT DOCUMENT]</heading>
+<p id="p0006" num="0006">[Patent Document 1] <patcit id="pcit0001" dnum="US20050062000"><text>US Patent Application Publication No. 2005/0062000</text></patcit></p>
+<heading id="h0005">[SUMMARY OF THE INVENTION]</heading>
+<heading id="h0006">[PROBLEM TO BE SOLVED BY THE INVENTION]</heading>
+<p id="p0007" num="0007">As described above, when the fluid flows in the forward direction, the check valve disclosed in Patent Document 1 lifts the valve body obliquely upward with respect to the direction of straight line connecting the inflow port and outflow port, and therefore the fluid pressure in the flow path is apt to be uneven. This may generate a vortex in a part of the flow path and may increase pressure loss.</p>
+<p id="p0008" num="0008">The present invention is designed with respect to the above problems, and provides a check valve capable of reducing pressure loss that occurs when a fluid flows therethrough.<!-- EPO <DP n="3"> --></p>
+<heading id="h0007">MEANS FOR SOLVING THE PROBLEM</heading>
+<p id="p0009" num="0009">According to the present invention, there is provided a check valve of straight pipe joint type and oblique lift type, which check valve includes: a valve seat; a moving body that can linearly reciprocate between a closed state in which it closely contacts with the valve seat and an open state in which it is separated from the valve seat; a primary flow path located on an upstream side of the moving body; and a secondary flow path located on a downstream side of the moving body, wherein the moving body includes a valve body supported by the valve seat in the closed state, and a valve shaft extending from the valve body; and the valve seat is formed so that it straddles a center line of a connection flow path that connects the respective connection parts to connect to other pipe bodies to be connected, in a cross section including the center line therein.</p>
+<heading id="h0008">[EFFECT OF THE INVENTION]</heading>
+<p id="p0010" num="0010">According to the present invention, there can be provided a check valve capable of reducing the pressure loss that occurs when a fluid flows therethrough.</p>
+<heading id="h0009">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p0011" num="0011"><!-- EPO <DP n="4"> -->
+<ul id="ul0001" list-style="none" compact="compact">
+<li>[<figref idref="f0001">Fig. 1] Fig. 1</figref> is a perspective view showing an external appearance of a check valve according to a first embodiment of the present invention.</li>
+<li>[<figref idref="f0002">Fig. 2] Fig. 2</figref> is a longitudinal cross-sectional view showing a closed state of the check valve according to the first embodiment.</li>
+<li>[<figref idref="f0003">Fig. 3] Fig. 3</figref> is a longitudinal cross-sectional view showing an open state of the check valve according to the first embodiment.</li>
+<li>[<figref idref="f0004">Fig. 4] Fig. 4</figref> is a side view of the check valve according to the first embodiment seen from the inflow path side.</li>
+<li>[<figref idref="f0005">Fig. 5] Fig. 5</figref> is an explanatory diagram showing a dynamic pressure distribution in a flow path when a fluid flows through the check valve according to the first embodiment.</li>
+<li>[<figref idref="f0006">Fig. 6] Fig. 6</figref> is a longitudinal cross-sectional view showing an open state of a check valve according to a second embodiment.</li>
+<li>[<figref idref="f0007">Fig. 7] Fig. 7</figref> is a longitudinal cross-sectional view showing an open state of a check valve according to a third embodiment.</li>
+<li>[<figref idref="f0008">Fig. 8] Fig. 8</figref> is a perspective view showing a moving body according to the third embodiment.</li>
+<li>[<figref idref="f0009">Fig. 9] Fig. 9</figref> is a schematic longitudinal cross-sectional view showing a closed state of a check valve according to a fourth embodiment.</li>
+</ul><!-- EPO <DP n="5"> --></p>
+<heading id="h0010">[DESCRIPTION OF EMBODIMENTS]</heading>
+<p id="p0012" num="0012">Embodiments of the present invention is described below with reference to the drawings.</p>
+<p id="p0013" num="0013">Note that the embodiments described below are merely examples for facilitating the understanding of the present invention and do not limit the present invention. That is, the shapes, sizes, arrangements and the like of the members described below can be changed and improved without departing from the spirit of the present invention, and the present invention naturally includes equivalents thereof.</p>
+<p id="p0014" num="0014">Further, in all the drawings, the same or similar components are denoted by the same or similar reference numerals and signs, and the duplicated description will not be repeated.</p>
+<p id="p0015" num="0015">In the present specification, description may be made by defining a vertical direction, but this is set for the sake of convenience in order to explain the relative relationship of the components, and which does not specify directions in which the product according to the present invention is manufactured or used.</p>
+<p id="p0016" num="0016">Ideally, the vertically upward direction is upward and the vertically downward direction is downward, but this does not limit the installation state of a check valve. "Up and down" related to the check valve is<!-- EPO <DP n="6"> --> directions perpendicular to the connection flow path direction that is the direction of the flow path to which the check valve is connected. Of these directions, the direction in which a moving body separates from a valve body is upward, and the direction in which a moving body is close to the valve body is downward.</p>
+<heading id="h0011">«First Embodiment»</heading>
+<heading id="h0012">&lt;Outline of the check valve according to this embodiment&gt;</heading>
+<p id="p0017" num="0017">First, outline of a check valve 1 according to this embodiment is described mainly with reference to <figref idref="f0001">Figs. 1</figref> and <figref idref="f0002">2</figref>. <figref idref="f0001">Fig. 1</figref> is a perspective view showing an external appearance of a check valve 1 according to a first embodiment of the present invention, and <figref idref="f0002">Fig. 2</figref> is a longitudinal cross-sectional view showing a closed state of the check valve 1 according to the first embodiment. Here, a cross section including the axis of a valve shaft 7 is referred to as a longitudinal cross section.</p>
+<p id="p0018" num="0018">As shown in <figref idref="f0001">Figs. 1</figref> and <figref idref="f0002">2</figref>, the check valve 1 according to this embodiment is a straight pipe joint type and oblique lift type. The check valve 1 includes a valve seat 12a, a moving body 2, a primary flow path (inflow path 12c), and a secondary flow path (outflow path 12d). The moving body 2 can linearly reciprocate between a closed state in which it closely contacts with the valve seat 12a and an open state in which it is<!-- EPO <DP n="7"> --> separated from the valve seat 12a. The primary flow path (inflow path 12c) is located on the upstream side of the moving body 2. The secondary flow path (outflow path 12d) is located on the downstream side of the moving body 2.</p>
+<p id="p0019" num="0019">The moving body 2 includes a valve body 6 supported by a valve seat in a closed state, and a valve shaft 7 extending from the valve body 6.</p>
+<p id="p0020" num="0020">The valve seat 12a is formed such that it straddles the center line CL of a connection flow path that extends linearly including the primary flow path (inflow path 12c) and the secondary flow path (outflow path 12d) in a cross section including the center line CL thereon.</p>
+<p id="p0021" num="0021">The "straight pipe joint type" is the type of the pipe joint that is connected to other pipes and has the outflow direction on extension of the inflow direction.</p>
+<p id="p0022" num="0022">The "oblique lift type" is the type in which the valve body operates obliquely with respect to the straight line connecting the inflow direction and the outflow direction, and the valve body is lifted by the fluid.</p>
+<p id="p0023" num="0023">In this embodiment, connection parts that connect to other pipes are collar parts 13 and 14 and are flanges, but the present invention is not limited to such a configuration, and the connection parts may be any that can be connected to other pipes. For example, the<!-- EPO <DP n="8"> --> connection parts may be a part formed by a ferrule connection or a part formed by a screw connection.</p>
+<p id="p0024" num="0024">In other words, "the valve seat 12a straddles the center line CL" means that the center line CL passes through the opening defined by the valve seat 12a, and a part of the valve seat 12a is below the center line CL, and the other part is above the center line CL.</p>
+<p id="p0025" num="0025">Note that the valve seat 12a may be formed to straddle the center line in any one of cross sections including the center line CL.</p>
+<p id="p0026" num="0026">According to the above configuration, the valve seat 12a is formed to straddle the center line CL of the connection flow path. Therefore, when valve body 6 is opened, the fluid can easily flow linearly, and turbulent flow (vortex flow) can be reduced, as compared with the valve seat that is formed not to straddle the center line CL but to be located on one side. This can reduce the pressure loss of the check valve 1 that occurs when the fluid flows therethrough.</p>
+<heading id="h0013">&lt;Configuration of each part&gt;</heading>
+<p id="p0027" num="0027">Next, the configuration of each part configuring the check valve 1 according to the first embodiment is described below with reference to <figref idref="f0003 f0004 f0005">Figs. 3 to 5</figref> in addition to <figref idref="f0001">Figs. 1</figref> and <figref idref="f0002">2</figref>. <figref idref="f0003">Fig. 3</figref> is a longitudinal cross-sectional view showing an open state of the check<!-- EPO <DP n="9"> --> valve 1 according to the first embodiment, and <figref idref="f0004">Fig. 4</figref> is a side view of the check valve 1 according to the first embodiment as seen from the inflow path 12c side. <figref idref="f0005">Fig. 5</figref> is an explanatory diagram which shows a dynamic pressure distribution in the flow path when flowing the fluid into the check valve 1 according to the first embodiment. Here, <figref idref="f0005">Fig. 5</figref> is an explanatory diagram where a valve body upper part 6b, a packing 8, a valve casing 12, a spring body 20 and the like are omitted and other configurations of the check valve 1 are shown in a simplified manner to mainly illustrate the dynamic pressure distribution.</p>
+<p id="p0028" num="0028">The check valve 1 according to this embodiment is of straight pipe joint type and oblique lift type as described above, and has the moving body 2 including the valve body 6 that linearly and floatingly reciprocates in the direction of approaching or separating from the valve seat 12a. In particular, the check valve 1 includes the inflow path 12c and the outflow path 12d having the same center line CL. The moving body 2 floatingly reciprocates in a direction inclined to the center line CL, specifically, in a direction tilted to the outflow path 12d side.</p>
+<p id="p0029" num="0029">The fluid whose backflow is restricted by the check valve 1 is a liquid such as water or a gas such as air.</p>
+<p id="p0030" num="0030"><!-- EPO <DP n="10"> --> In the closed state shown in <figref idref="f0002">Fig. 2</figref>, the valve body 6 is biased by the spring body 20 to be pressed against the valve seat 12a, and the check valve 1 of this embodiment is generally called as a Smolensky type. Therefore, due to the biasing force of the spring body 20, the check valve 1 causes the valve body 6 to come into contact with the valve seat 12a to quickly close the flow path at the moment when the flow of fluid turns into a backflow in which the fluid flows from a secondary side to a primary side. As a result, the check valve 1 can prevent backflow, reduce occurrence of water hammer, and enhance the certainty of the closed state (water stop performance).</p>
+<p id="p0031" num="0031">However, the check valve 1 is not limited to the configuration in which it includes the spring body 20 to press the valve body 6 against the valve seat 12a. For example, the configuration may be such that the valve body 6 is pressed against the valve seat 12a by the dead weight of the moving body 2 alone, or by the dead weight of the moving body 2 and the load applied from the damper mechanism by the valve shaft 7 and the guide tube 4 described below.</p>
+<p id="p0032" num="0032">For example, the check valve 1 of this embodiment can be used as a generally-called foot valve on the primary side of a lifting pump (not shown in the drawings), so that it can favorably prevent falling of<!-- EPO <DP n="11"> --> water in the pump pipe due to the high certainty of water stop.</p>
+<p id="p0033" num="0033">The check valve 1 is provided in a flow path for passing a liquid or a gas (fluid). As shown in <figref idref="f0003">Fig. 3</figref>, when the differential pressure between the primary side and the secondary side of the valve body 6 exceeds a predetermined minimum operating pressure (cracking pressure), the valve body 6 is in the open state to allow the fluid to flow. When the differential pressure between the primary side and the secondary side of the valve body 6 becomes negative or becomes equal to or lower than a minimum operating pressure, as shown in <figref idref="f0002">Fig. 2</figref>, the valve body 6 is in the closed state to block the fluid passing therethrough.</p>
+<p id="p0034" num="0034">Note that the valve body 6 need not necessarily be configured to be in the fully open state shown in <figref idref="f0003">Fig. 3</figref> if a desired amount of area for the fluid passing therethrough can be obtained. Although the valve body 6 is shown in the fully open state in <figref idref="f0003">Fig. 3</figref>, the opening degree of the valve body 6 changes depending on the flow rate due to the mass of the moving body 2 and the restoring force of the spring body 20.</p>
+<p id="p0035" num="0035">The check valve 1 includes a moving body 2, a valve casing 12, a guide cap 3, and a spring body 20. The valve casing 12 accommodates at least a part of the<!-- EPO <DP n="12"> --> moving body 2 on the opposite side of the valve body 6. The guide cap 3 has a guide tube 4 and is attached to the valve casing 12. The spring body 20 is provided between the valve body 6 and the guide cap 3 to bias the valve body 6 toward the primary flow path side. That is, the check valve 1 in the present specification refers to the entire pipe joint including the valve body 6 and the like therein.</p>
+<heading id="h0014">(About valve casing and joint part)</heading>
+<p id="p0036" num="0036">A joint part 9 extends substantially linearly to form the inflow path 12c and the outflow path 12d. The valve casing 12 according to this embodiment is integrally formed with the joint part 9 by the lost wax manufacturing method, and branches from and intersects with the joint part 9. The valve casing 12 and the valve shaft 7 described below extend obliquely toward the outflow path 12d side in a direction intersecting with the flow path direction of the primary flow path (inflow path 12c) and the secondary flow path (outflow path 12d).</p>
+<p id="p0037" num="0037">The joint part 9 is integrally formed with a collar part 13 on the upstream side (primary side) and a collar part 14 on the downstream side (secondary side). These collar parts are fixed to pipes (not shown in the drawings) by using tightening tools (not shown in the drawings) such as bolts and nuts. As shown in <figref idref="f0001">Fig. 1</figref>,<!-- EPO <DP n="13"> --> the inflow path 12c side of the valve casing 12 (joint part 9) according to this embodiment has a flat mount 15 formed thereon to attach a suction pipe (not shown in the drawings) connected to a suction pump (not shown in the drawings). The mount 15 is formed with an opening for decompression 15a that penetrates to the inside of the primary flow path side of the valve casing 12.</p>
+<p id="p0038" num="0038">The operator can operate the suction pump to draw the fluid from the suction pipe toward the opening for decompression 15a to make a negative pressure on the upstream side of the valve body 6 to fill with the fluid thereon. In addition, if a configuration in which a pressure sensor is attached to the opening for decompression 15a is employed, the operator also can check the pressure state inside the valve casing 12 to check whether the inside of the valve casing 12 is filled with fluid.</p>
+<p id="p0039" num="0039">A guide cap 3 described below is removably attached on the termination of the portion in the valve casing 12 that extends in a direction intersecting with the center line CL of the inflow path 12c and the outflow path 12d.</p>
+<heading id="h0015">(About valve seat)</heading>
+<p id="p0040" num="0040">As shown in <figref idref="f0002">Fig. 2</figref> and described above, the valve seat 12a is formed so that it straddles the center line CL of the connection flow path connecting the respective<!-- EPO <DP n="14"> --> connection parts (collar parts 13 and 14) for connecting to the other pipe bodies to be connected, in a cross-sectional view including the center line CL.</p>
+<p id="p0041" num="0041">Further, the valve seat 12a is formed so that a part of the inner wall of the valve casing 12 projects over the entire circumference toward the flow path side (to narrow the inflow path 12c). The seat surface of the valve seat 12a is formed in an annular shape and extends perpendicularly to the reciprocating direction of the moving body 2. That is, the valve seat 12a extends in a direction intersecting with the flow path direction of the inflow path 12c and the outflow path 12d, and the extending direction of the valve shaft 7 and the valve casing 12.</p>
+<p id="p0042" num="0042">An annular groove 12h is formed on the outer periphery of the valve seat 12a. The annular groove 12h is formed to be recessed toward the inflow path 12c side (the side away from the moving body 2) with respect to the seat surface of the valve seat 12a. The annular groove 12h limits the area of the valve seat 12a with which the valve body 6 of the moving body 2 is in contact to enable the valve body 6 to easily closely contact with the valve seat 12a.</p>
+<p id="p0043" num="0043">The valve seat 12a extends in a direction intersecting with the flow path direction of the primary<!-- EPO <DP n="15"> --> flow path (inflow path 12c) and the secondary flow path (outflow path 12d) and the extending direction of the valve shaft 7.</p>
+<p id="p0044" num="0044">A downstream-side protruding part 12f that protrudes toward the center line CL is provided in the lower portion of the inner wall surface that forms a secondary flow path (outflow path 12d) on the downstream side of the valve seat 12a. Here, "protruding toward the center line CL side" refers to protruding more toward the center line CL side than the main wall surface of the inner wall surface of the joint part 9 (the inner wall surface linearly continuous from the collar parts 13 and 14). That is, as shown in <figref idref="f0009">Fig. 9</figref>, though the downstream-side protruding part is formed continuously from the valve seat, it protrudes (from the main wall surface).</p>
+<p id="p0045" num="0045">In this embodiment, the downstream-side protruding part 12f shown in <figref idref="f0002">Fig. 2</figref> has a configuration such that the joint part 9 that defines the outflow path 12d has a thicker portion in the lower portion, and the inner wall surface of thicker portion protrudes toward the center line CL.</p>
+<p id="p0046" num="0046">Then, the amount of protrusion of the downstream-side protruding part 12f gradually decreases toward the downstream side.</p>
+<p id="p0047" num="0047">In other words, the flow path cross-sectional area on the downstream side of the valve seat 12a does not<!-- EPO <DP n="16"> --> locally and sharply change. In the check valve 1 according to this embodiment, among the portions forming the outflow path 12d, the downstream-side protruding part 12f less protrudes toward the center line CL side of the flow path than the portion close to the center line CL side in the valve seat 12a, and is on extension of this portion in the valve seat 12a. Then, the downstream-side protruding part 12f protrudes toward the inner side of the flow path such that it defines the downstream-side outer periphery of the annular groove 12h, and then it gradually spreads toward the outer peripheral surface side as it further comes toward the downstream side.</p>
+<p id="p0048" num="0048">For example, in the check valve shown in <figref idref="f0002">Fig. 2</figref> and so forth of the specification of <patcit id="pcit0002" dnum="US20050062000"><text>US Patent Application Publication No. 2005/0062000</text></patcit>, the flow path cross-sectional area on the downstream side of the valve seat sharply expands. Therefore, a vortex is generated due to the difference in the dynamic pressure of the fluid flowing into the expanded portion on the downstream side.</p>
+<p id="p0049" num="0049">In this embodiment, the flow path cross-sectional area of the outflow path 12d in the vicinity of the valve seat 12a is constant or gradually changes toward the downstream side. This can reduce the vortex generation due to the rapid expansion of the flow path cross-sectional area on the secondary side beyond the valve seat 12a.<!-- EPO <DP n="17"> --></p>
+<p id="p0050" num="0050">In addition, an upstream-side protruding part 12i that protrudes toward the center line side is provided in an upper portion of the inner wall surface that forms the primary flow path (inflow path 12c) on the upstream side of the valve seat 12a.</p>
+<p id="p0051" num="0051">More specifically, the upstream-side protruding part 12i protrudes obliquely downward toward the downstream side.</p>
+<p id="p0052" num="0052">Then, the amount of protrusion of the upstream-side protruding part 12i gradually increases toward the downstream side.</p>
+<p id="p0053" num="0053">For example, in the check valve shown in <figref idref="f0002">Fig. 2</figref> and so forth of the specification of <patcit id="pcit0003" dnum="US20050062000"><text>US Patent Application Publication No. 2005/0062000</text></patcit>, the upstream-side protruding part 12i of this embodiment is not provided on the upstream side of the valve seat, and the primary flow path is directed obliquely upward. Therefore, the fluid flowing toward the downstream side through the opening of the valve body meanders significantly.</p>
+<p id="p0054" num="0054">On the other hand, in this embodiment, a part of the fluid flowing in from the inflow path 12c comes into contact with the upstream-side protruding part 12i, so that the upstream-side protruding part 12i can form an obliquely downward flow. This enables the fluid that needs to be directed obliquely upward to push up the<!-- EPO <DP n="18"> --> valve body 6 by the opening of the valve seat 12a part to flow linearly through the inflow path 12c and the outflow path 12d, and this can reduce the pressure loss.</p>
+<p id="p0055" num="0055">The upstream-side protruding part 12i does not protrude up to the center line CL. For example, in the longitudinal cross section shown in <figref idref="f0003">Fig. 3</figref>, the upstream-side protruding part 12i according to this embodiment protrudes from the upper wall surface by 1/3 (including approximately 1/3) of the inflow side flow path width.</p>
+<p id="p0056" num="0056">According to the above configuration, as shown in <figref idref="f0004">Fig. 4</figref>, a part of the fluid can easily flow linearly from the inflow path 12c along the center line CL, and the pressure loss can be reduced.</p>
+<heading id="h0016">(About moving body)</heading>
+<p id="p0057" num="0057">The moving body 2 reciprocates inside the valve casing 12 to move the valve body 6 close to and away from the valve seat 12a between the primary flow path and the secondary flow path. Thereby, the moving body 2 prevents the backflow while adjusting the opening amount of the valve body 6 according to the flow rate.</p>
+<p id="p0058" num="0058">The moving body 2 is mainly configured with a valve shaft 7, a valve body 6, and a water stop part (packing 8). The valve shaft 7 extends in the reciprocation direction. The valve body 6 is provided at the lower side end of the valve shaft 7. The water stop portion<!-- EPO <DP n="19"> --> (packing 8) is attached to the valve body 6 that is in contact with the valve seat 12a in the closed state.</p>
+<p id="p0059" num="0059">As shown in <figref idref="f0003">Fig. 3</figref>, the valve shaft 7 is accommodated in the guide tube 4 described below to reciprocate the moving body 2 so that the moving body 2 does not deviate in the direction perpendicular to the axial direction of the valve shaft 7. The valve shaft 7 is formed in a rod shape and continuously extends from the central portion of the upper surface of the valve body 6.</p>
+<p id="p0060" num="0060">The valve body 6 and the valve shaft 7 are made of stainless steel, but may be made of a corrosion-resistant synthetic resin material such as polyvinyl chloride. In the closed state shown in <figref idref="f0002">Fig. 2</figref> and the open state shown in <figref idref="f0003">Fig. 3</figref>, the spring body 20 mounted around the valve shaft 7 elastically biases the upper surface of the valve body 6 (valve body upper part 6b).</p>
+<p id="p0061" num="0061">The valve body 6 includes a valve body lower part 6a and a valve body upper part 6b.</p>
+<p id="p0062" num="0062">The valve body upper part 6b extends in a direction intersecting with the flow path direction of the inflow path 12c and the outflow path 12d and the extending direction of the valve shaft 7 and the valve casing 12.<!-- EPO <DP n="20"> --></p>
+<p id="p0063" num="0063">The valve body upper part 6b has a collar 6c that is larger in the radial direction than the valve body lower part 6a with the valve shaft 7 in the center. In this embodiment, the end of the valve body upper part 6b itself is the collar 6c.</p>
+<p id="p0064" num="0064">The lower end of the collar 6c is below the center line CL in the closed state shown in <figref idref="f0003">Fig. 3</figref>, and moves to a position above the center line CL at a certain position in the open state shown in <figref idref="f0002">Fig. 2</figref>.</p>
+<p id="p0065" num="0065">According to the above configuration, the collar 6c moves to a position above the center line CL when the position changes from the closed state to a certain position in the open state. As a result, the amount of fluid that flows linearly can be increased.</p>
+<p id="p0066" num="0066">In this embodiment, the lower end of the packing 8 described below is located below the lower end of the collar 6c.</p>
+<p id="p0067" num="0067">However, there may be a configuration such that the diameter of the collar 6c is larger than that of the packing 8, or the valve casing 12 is more inclined, and thereby the lower end of the collar 6c is located below the lower end of the packing 8.</p>
+<p id="p0068" num="0068">In this case, if the lower end of the collar 6c is configured to move to a position above the center line CL at a certain position in the open state, the lower end of<!-- EPO <DP n="21"> --> the packing 8 also moves to a position above the center line CL. As a result, the amount of fluid that linearly flows through the check valve 1 can be increased.</p>
+<p id="p0069" num="0069">Further, when the moving body 2 reciprocates, the valve body upper part 6b is in sliding contact with the inner wall 12b of the valve casing 12 to have a function of guiding the movement of the moving body 2, so that the lower end side of the moving body 2 does not deviate in the direction perpendicular to the axial direction of the valve shaft 7.</p>
+<p id="p0070" num="0070">That is, the end of the valve body upper part 6b on the side of the inflow path 12c is arranged to be capable of sliding contact with the inner wall 12b of the valve casing 12 when the valve body 6 is opened.</p>
+<p id="p0071" num="0071">The inner wall 12b of the valve casing 12 with which the valve body upper part 6b is in sliding contact is not limited to the flat one, and also includes the one having a rib-shaped one such as a guide rib 12g protruding from the surroundings, which is added thereon, in a part of the inner wall 12b.</p>
+<p id="p0072" num="0072">In this embodiment, the valve body upper part 6b is arranged to be capable of sliding contact with the four guide ribs 12g that protrude into the valve casing 12 and extend along the longitudinal direction of the valve casing 12.<!-- EPO <DP n="22"> --></p>
+<p id="p0073" num="0073">According to the above configuration, the end of the valve body upper part 6b on the side of the inflow path 12c is arranged to be capable of sliding contact with the inner wall 12b of the valve casing 12. Thereby, the deviation of the valve body upper part 6b can be reduced by the valve casing 12.</p>
+<p id="p0074" num="0074">Further, the valve body upper part 6b is pushed by a nut 11 on the upper surface to have a function as a washer that evenly supports the packing 8 in the plane direction between the valve body lower part 6a. An insertion hole 6g through which the valve shaft 7 is inserted is formed at the center of the valve body upper part 6b, and penetrates in the thickness direction of the valve body upper part 6b.</p>
+<p id="p0075" num="0075">The valve body lower part 6a includes a planar upper surface having the valve shaft 7 continuously formed in the central portion thereof and the other surface having a partial spherical shape.</p>
+<p id="p0076" num="0076">More specifically, the valve body lower part 6a has a partial spherical surface on the outer surface facing the flow path. In particular, as shown in <figref idref="f0004">Fig. 4</figref>, the partial spherical surface of the valve body lower part 6a is disposed at a position where the fluid flowing linearly in the flow path direction from the inflow path 12c comes into contact with the partial spherical surface.<!-- EPO <DP n="23"> --></p>
+<p id="p0077" num="0077">Also after the fluid flowing from the inflow path 12c comes into contact with the valve body 6 (valve body lower part 6a) to push up the moving body 2 (valve body 6) upward from the valve seat 12a, the fluid flows through the check valve 1 while the fluid is in contact with the partial spherical surface side of the valve body lower part 6a. This allows the valve body 36 to less obstruct the flow of the fluid, and the velocity of the fluid to be less reduced. Therefore, the fluid can pass therethrough with a low head loss (friction resistance).</p>
+<p id="p0078" num="0078">The lower portion of the valve shaft 7 and the valve body lower part 6a, and the valve body upper part 6b are configured by assembling separate members.</p>
+<p id="p0079" num="0079">However, the configuration is not limited to this. If the packing 8 is flexible and can be attached to the valve body 6 by deforming the packing 8, the valve body lower part 6a and the valve body upper part 6b do not necessarily have to be configured with separate members.</p>
+<p id="p0080" num="0080">The water stop part (packing 8) is a member that is pressed by the valve body 6 (valve body upper part 6b) and the valve seat 12a in the closed state of the check valve 1 to stop water at the valve seat 12a, and is disposed between the valve body lower part 6a and the valve body upper part 6b (collar 6c). The packing 8 is formed in an annular shape having a central hole<!-- EPO <DP n="24"> --> penetrating through the thickness direction. Specifically, the packing 8 has the central hole passed through the valve shaft 7, and is disposed between the valve body lower part 6a and the valve body upper part 6b.</p>
+<p id="p0081" num="0081">A part of the packing 8 is below the center line CL when it is in the closed state shown in <figref idref="f0003">Fig. 3</figref>, and the entire packing 8 moves above the center line CL at a certain position in the open state shown in <figref idref="f0002">Fig. 2</figref>.</p>
+<p id="p0082" num="0082">According to the above configuration, change from the closed state to a certain position in the open state allows the packing 8 to less obstruct the flow passing through the center line CL to reduce the pressure loss.</p>
+<p id="p0083" num="0083">The above "a certain position in the open state" is preferably a position where the valve body 6 is in an open state at a standard flow rate.</p>
+<p id="p0084" num="0084">For example, this position is a position in which the check valve 1 (valve body 6) is open at 70% with respect to the fully open state (70% of the maximum opening degree of the check valve 1).</p>
+<p id="p0085" num="0085">Such a configuration allows the packing 8 at a standard flow rate to less obstruct the flow in the vicinity of the center line CL at which the flow speed is the fastest to prevent the pressure loss from increasing.</p>
+<p id="p0086" num="0086">The check valve 1 further includes the nut 11 that presses the valve body upper part 6b from the other side<!-- EPO <DP n="25"> --> (upper side) toward the valve body lower part 6a side. The nut 11 has an elastically deformable friction ring to have a loosening prevention function. Here, the nut 11 only needs to have a loosening prevention function and is not limited to the one having a friction ring. For example, it may be configured with a double nut (not shown in the drawings). Specifically, one of the double nuts may have a wedge-shaped projection, and the other nut may be formed with a groove having a corresponding shape to receive the projection.</p>
+<heading id="h0017">(About guide cap)</heading>
+<p id="p0087" num="0087">As shown in <figref idref="f0002">Fig. 2</figref>, the guide cap 3 is removably attached to the valve casing 12 to seal the upper side of the valve body 6 and to guide the reciprocating movement of the moving body 2. The guide cap 3 is configured with a guide tube 4 and a disk-shaped top plate part 5 integrally formed on the upper end of the guide tube 4.</p>
+<p id="p0088" num="0088">The top plate part 5 has a ferrule flange 5e shown in <figref idref="f0002">Fig. 2</figref> at its edge and is removably fastened to the ferrule flange 5e by a ferrule joint (not shown in the drawings) such that the gasket 16 is sandwiched between the ferrule flange 12e formed on the upper end of the valve casing 12.</p>
+<p id="p0089" num="0089"><!-- EPO <DP n="26"> --> A guide tube 4 is provided obliquely downward (on the primary flow path side) substantially at the center of the top plate part 5.</p>
+<p id="p0090" num="0090">The guide tube 4 guides the sliding of the valve shaft 7 of the valve body 6 on its inner surface, extends from the top plate part 5 obliquely downward to the valve seat 12a side to guide the valve shaft 7 connected to the valve body 6 to enable the valve body 6 to reciprocate.</p>
+<heading id="h0018">&lt;Dynamic pressure distribution&gt;</heading>
+<p id="p0091" num="0091">Next, a dynamic pressure distribution based on a fluid analysis assuming that a fluid (water) flows through the check valve 1 is described below with reference to <figref idref="f0005">Fig. 5. Fig. 5</figref> is an explanatory diagram showing a dynamic pressure distribution in the flow path when a fluid is caused to flow through the check valve 1 according to the first embodiment, and showing the flow of fluid and dynamic pressure distribution at a flow velocity of about 4 m/s on the inflow side and a flow rate of about 4800 L/min (valve opening degree: 50%). Here, in <figref idref="f0005">Fig. 5</figref>, the darker the color (the higher the dot density), the higher the dynamic pressure.</p>
+<p id="p0092" num="0092">As shown in <figref idref="f0005">Fig. 5</figref>, through the flow path including where the fluid passes between the valve seat 12a and the valve body 6, the main flow with high dynamic pressure (dynamic pressure DP1) extends substantially parallel to<!-- EPO <DP n="27"> --> the flow path direction without going to the bottom side of the flow path. Further, it can be seen that the vortex W induced by the main flow does not encroach to the center side of the flow path, and its range is small. Therefore, the diffusion and separation of the fluid was small, the head loss was about 2.8 m, and the pressure loss can be reduced to a small level.</p>
+<heading id="h0019">«Second Embodiment»</heading>
+<p id="p0093" num="0093">Next, a check valve 1X according to a second embodiment is described below mainly with reference to <figref idref="f0006">Fig. 6</figref>. The check valve 1X is installed to a pipe having a larger diameter than the check valve 1. <figref idref="f0006">Fig. 6</figref> is a longitudinal cross-sectional view showing an open state of the check valve 1X according to the second embodiment.</p>
+<p id="p0094" num="0094">Note that regarding the check valve 1X, the description of the configuration common to the check valve 1 according to the first embodiment will not be repeated.</p>
+<p id="p0095" num="0095">The check valve 1X according to this embodiment includes a moving body 32. The moving body 32 includes a valve shaft 37 and a valve body 36 integrally formed with a lower end of the valve shaft 37. The valve body 36 includes a valve body lower part 36a and a valve body upper part 36b.<!-- EPO <DP n="28"> --></p>
+<p id="p0096" num="0096">The valve body lower part 36a is formed in a partial spherical shape having a hollow part 36d.</p>
+<p id="p0097" num="0097">More specifically, the valve body lower part 36a has a partial spherical surface on the outer surface on the side facing the flow path, and has a shape symmetrical with respect to the center line CL, and is disposed inside the check valve 1.</p>
+<p id="p0098" num="0098">According to the above configuration, the valve body lower part 36a has the hollow part 36d, which favorably improves the responsiveness to changes in the flow rate. At the same time, it is formed in a partial spherical shape, which can reduce the flow resistance and the pressure loss.</p>
+<p id="p0099" num="0099">The valve body lower part 36a include a small diameter part 36h having an annular shape at a portion in contact with the valve body upper part 36b.</p>
+<p id="p0100" num="0100">An opening 36i connected to the hollow part 36d is formed in the small diameter part 36h.</p>
+<p id="p0101" num="0101">The packing 8 is fitted in a recess 36e formed ontside the outer periphery of the small diameter part 36h, and between the valve body upper part 36b and the valve body lower part 36a.</p>
+<p id="p0102" num="0102">More specifically, the recess 36e is formed by overlapping of a lower surface of the valve body upper part 36b and a portion having an L-shaped cross section.<!-- EPO <DP n="29"> --> The L-shaped cross section is formed by a part of the upper surface of the valve body lower part 36a, in which the part of the upper surface is continuous from the peripheral surface of the small diameter part 36h.</p>
+<p id="p0103" num="0103">In the direction perpendicular to the axial direction of the valve shaft 37, the maximum diameter of the hollow part 36d is formed to be larger than that of the opening 36i.</p>
+<p id="p0104" num="0104">The hollow part 36d is formed in the valve body lower part 36a, so that the weight of the moving body 32 can be reduced. The valve body 36 including the hollow part 36d is formed in mirror symmetry with respect to an imaginary plane that includes the axial directions of the flow path direction and the valve shaft 37 therein. With this formation, when the fluid flows in the flow path direction, it is possible to prevent the valve body 36 from being deviated by the force applied from the fluid to the valve body 36, and to stabilize the flow of the fluid.</p>
+<heading id="h0020">«Third Embodiment»</heading>
+<p id="p0105" num="0105">Next, the check valve 1Y according to a third embodiment is described below mainly with reference to <figref idref="f0007">Figs. 7</figref> and <figref idref="f0008">8</figref>. <figref idref="f0007">Fig. 7</figref> is a longitudinal cross-sectional view showing an open state of the check valve 1Y according to the third embodiment, and <figref idref="f0008">Fig. 8</figref> is a<!-- EPO <DP n="30"> --> perspective view showing a moving body 52 according to the third embodiment.</p>
+<p id="p0106" num="0106">Note that, in the check valve 1Y, the description of the configuration common to the check valve 1 according to the first embodiment or the check valve 1X according to the second embodiment will not be repeated. For example, the guide cap according to the check valve 1Y is common to that of the first and second embodiments except for the size, so the description thereof will not be repeated.</p>
+<p id="p0107" num="0107">The check valve 1Y mainly includes a moving body 52 and a valve casing 62 that houses the moving body 52. The moving body 52 is mainly configured with a round rod-shaped valve shaft 57 extending in the reciprocation direction, a valve body 56 provided at a lower side end of the valve shaft 57, and a packing 8 attached to the valve body 56.</p>
+<p id="p0108" num="0108">The valve body 56 is configured with a valve body lower part 56a integrally formed at the lower side (primary flow path side) end of the valve shaft 57 and a valve body upper part 56b mounted on the valve body lower part 56a.</p>
+<p id="p0109" num="0109">The valve body lower part 56a has an outer surface formed in a partial spherical surface, and has two flat surface parts 56f at positions apart by 180 degrees from<!-- EPO <DP n="31"> --> each other with the axial in the center. The two flat surface parts 56f rise in parallel to reciprocating direction of the moving body 52, and extends parallel to each other.</p>
+<p id="p0110" num="0110">The two flat surface parts 56f provided can increase the area of an edge part 56k described below as compared with that without the flat surface parts 56f. This can increase the load of the fluid that pushes up the valve body 56 as compared with that of the fluid that pushes up the spherical part, and can make the beginning of the flow of fluid smooth.</p>
+<p id="p0111" num="0111">Further, a female screw part is formed at the center of the valve body lower part 56a, and is threadedly engaged with a male screw part formed at the lower end of the valve shaft 57.</p>
+<p id="p0112" num="0112">As shown in <figref idref="f0007">Fig. 7</figref>, in the initial state, even if the flat surface part 56f is inclined with respect to the flow path direction, the valve body 56 rotates together with the valve shaft when the fluid flows into the check valve 1Y and pushes the moving body 52 upward to flow to the downstream side.</p>
+<p id="p0113" num="0113">In other words, the flat surface part 56f receives the dynamic pressure of the fluid, and the posture of the moving body 52 is automatically adjusted into the direction parallel to the flow path direction. In this way, the pressure loss of the valve body 56 is reduced.<!-- EPO <DP n="32"> --></p>
+<p id="p0114" num="0114">The valve body lower part 56a has a facing part 56j and an edge part 56k. The facing part 56j is formed at a position where a part of the facing part 56j faces a small diameter part 56h of the valve body upper part 56b. The edge part 56k is formed radially outward of the facing part 56j and clamps a packing 8 between the valve body lower part 56a and the valve body upper part 56b.</p>
+<p id="p0115" num="0115">Further, a hollow part 56d and an opening 56i that is connected to the hollow part 56d and faces the valve body upper part 56b are formed in the valve body lower part 56a.</p>
+<p id="p0116" num="0116">The facing part 56j defines the upper portion of the hollow part 56d on the radially outward of the valve body lower part 56a. The above opening 56i is formed in the central part in the radial direction of the facing part 56j .</p>
+<p id="p0117" num="0117">The edge part 56k has a function of clamping the packing 8 between the edge part 56k and the valve body upper part 56b, and is formed thicker than the facing part 56j. In this way, the edge part 56k is formed thicker than the facing part 56j. This can increase the volume of the hollow part 56d while stably holding the packing 8 to which a repeated impact load is applied from the valve seat 62a provided in the valve casing 62 by repeated opening and closing of the valve body 56.<!-- EPO <DP n="33"> --></p>
+<p id="p0118" num="0118">As shown in <figref idref="f0008">Fig. 8</figref>, a spring seat surface 56e recessed downward (primary flow path side) from a radially outward portion is formed on a radially inward portion in the other side surface (upper surface) of the valve body upper part 56b.</p>
+<heading id="h0021">«Fourth Embodiment»</heading>
+<p id="p0119" num="0119">Next, a check valve 1Z according to a fourth embodiment is described mainly with reference to <figref idref="f0009">Fig. 9. Fig. 9</figref> is a schematic longitudinal cross-sectional view showing a closed state of the check valve 1Z according to the fourth embodiment. Here, in <figref idref="f0009">Fig. 9</figref>, the spring body 20 is not shown.</p>
+<p id="p0120" num="0120">The valve shaft 77 included in the check valve 1Z according to this embodiment has a hollow space 77a and is formed in a tubular shape. The valve shaft 77 is guided by a guide rod 74 inserted into a hollow space 77a in the valve shaft 77 to be capable of reciprocating. That is, the valve shaft 77 slides on the outer surface of the guide rod 74 with the inner surface facing the hollow space 77a to be guided in the reciprocating direction by the guide rod 74.</p>
+<p id="p0121" num="0121">According to the above configuration, the valve shaft 77 is guided by the guide rod 74, so that a valve<!-- EPO <DP n="34"> --> body 76 connected to the valve shaft 77 is guided in the reciprocating direction.</p>
+<p id="p0122" num="0122">In particular, a hollow part 76d that is continuous with the hollow space 77a of the valve shaft 77 is formed inside the valve body 76 according to this embodiment.</p>
+<p id="p0123" num="0123">According to the above configuration, the hollow space 77a of the valve shaft 77 and the hollow part 76d of the valve body 76 are continuously formed, so that the moving body 72 including the valve shaft 77 and the valve body 76 can be reduced in weight, and the responsiveness to changes in the flow rate can be improved.</p>
+<p id="p0124" num="0124">Although the respective embodiments have been described above with reference to the drawings, these are merely examples of the present invention, and various configurations other than the above may be employed.</p>
+<p id="p0125" num="0125">The check valve of the present invention and the various components of the reciprocating member configuring the check valve need not be independent of each other. There may be allowable cases such that a plurality of components is formed as a single member, one component is formed out of a plurality of members, one component is a part of another component, or a part of one component overlaps with a part of another component.</p>
+<p id="p0126" num="0126"><!-- EPO <DP n="35"> --> This embodiment includes the following technical ideas.
+<ol id="ol0001" compact="compact" ol-style="">
+<li>(1) A check valve of straight pipe joint type and oblique lift type, the check valve including:
+<ul id="ul0002" list-style="none" compact="compact">
+<li>a valve seat;</li>
+<li>a moving body capable of linearly reciprocating between a closed state in which the moving body is in close contact with the valve seat and an open state in which the moving body is separated from the valve seat;</li>
+<li>a primary flow path located on an upstream side of the moving body; and</li>
+<li>a secondary flow path located on a downstream side of the moving body, wherein</li>
+<li>the moving body includes
+<ul id="ul0003" list-style="none" compact="compact">
+<li>a valve body supported by the valve seat in the closed state, and</li>
+<li>a valve shaft extending from the valve body, and the valve seat is formed to straddle the center line of the connection flow path that linearly extends including the primary flow path and the secondary flow path in a cross section including the center line thereon.</li>
+</ul></li>
+</ul></li>
+<li>(2) The check valve according to (1), wherein
+<ul id="ul0004" list-style="none" compact="compact">
+<li>the moving body further includes a water stop part that is in contact with the valve seat in the closed state, and</li>
+<li>a part of the water stop part is located below the center line in the closed state, and the entire water<!-- EPO <DP n="36"> --> stop part moves to a position above the center line at a certain position in the open state.</li>
+</ul></li>
+<li>(3) The check valve according to (1) or (2) wherein
+<ul id="ul0005" list-style="none" compact="compact">
+<li>the valve body includes a valve body lower part and a valve body upper part,</li>
+<li>the valve body upper part has a collar that is larger in a radial direction than the valve body lower part, with the valve shaft in the center, and</li>
+<li>the lower end of the collar is located below the center line in the closed state and moves to a position above the center line at a certain position in the open state.</li>
+</ul></li>
+<li>(4) The check valve according to (2) or (3), wherein a certain position in the open state is a position of 70% with respect to the fully open state.</li>
+<li>(5) The check valve according to (3), wherein the valve body lower part is formed in a partial spherical shape having a hollow part.</li>
+<li>(6) The check valve according to any one of (1) to (5), wherein
+<ul id="ul0006" list-style="none" compact="compact">
+<li>a downstream-side protruding part that protrudes toward the center line side is provided in a lower portion of the inner wall surface that forms the secondary flow path on the downstream side of the valve seat, and<!-- EPO <DP n="37"> --></li>
+<li>an amount of protrusion of the downstream-side protruding part gradually decreases toward the downstream side.</li>
+</ul></li>
+<li>(7) The check valve according to any one of (1) to (6), wherein
+<ul id="ul0007" list-style="none" compact="compact">
+<li>an upstream-side protruding part that protrudes toward the center line side is provided on an upper portion of the inner wall surface that forms the primary flow path on the upstream side of the valve seat, and</li>
+<li>an amount of protrusion of the upstream-side protruding part gradually increases toward the downstream side.</li>
+</ul></li>
+<li>(8) The check valve according to (7), wherein the upstream-side protruding part protrudes less than the center line.</li>
+<li>(9) The check valve according to any one of (1) to (8), wherein
+<ul id="ul0008" list-style="none" compact="compact">
+<li>the check valve further includes a valve casing for accommodating at least a part of the moving body on the opposite side to the valve body,</li>
+<li>the valve body includes a valve body lower part and a valve body upper part,</li>
+<li>the valve shaft and the valve casing extend obliquely toward a side of the secondary flow path in a direction intersecting with a flow path direction of the primary flow path and the secondary flow path,<!-- EPO <DP n="38"> --></li>
+<li>the valve seat and the valve body upper part extend in a direction intersecting with the flow path direction of the primary flow path and the secondary flow path, and the extending direction of the valve shaft and the valve casing, and</li>
+<li>an end of a side of the primary flow path in the valve body upper part is arranged to be capable of sliding contact with the inner wall of the valve casing when the valve body is opened.</li>
+</ul></li>
+<li>(10) The check valve according to any one of (1) to (9), wherein<br/>
+the valve shaft has a hollow space, is formed in a tubular shape, and is guided to be capable of reciprocating by a guide rod inserted into the hollow space in the valve shaft. (11) The check valve according to (10), wherein a hollow part continuous with the hollow space of the valve shaft is formed in the valve body.</li>
+</ol></p>
+<heading id="h0022">[REFERENCE SIGNS LIST]</heading>
+<p id="p0127" num="0127">
+<dl id="dl0001" compact="compact">
+<dt>1, 1X, 1Y, 1Z</dt><dd>check valve</dd>
+<dt>2</dt><dd>moving body</dd>
+<dt>3</dt><dd>guide cap (cap)</dd>
+<dt>4</dt><dd>guide tube</dd>
+<dt>5</dt><dd>top plate part</dd>
+<dt>5e</dt><dd>ferrule flange</dd>
+<dt>6</dt><dd>valve body<!-- EPO <DP n="39"> --></dd>
+<dt>6a</dt><dd>valve body lower part</dd>
+<dt>6b</dt><dd>valve body upper part</dd>
+<dt>6c</dt><dd>collar</dd>
+<dt>6g</dt><dd>insertion hole</dd>
+<dt>7</dt><dd>valve shaft</dd>
+<dt>8</dt><dd>packing (water stop portion)</dd>
+<dt>9</dt><dd>joint part</dd>
+<dt>11</dt><dd>nut</dd>
+<dt>12</dt><dd>valve casing</dd>
+<dt>12a</dt><dd>valve seat</dd>
+<dt>12b</dt><dd>inner wall</dd>
+<dt>12c</dt><dd>inflow path (primary flow path)</dd>
+<dt>12d</dt><dd>outflow path (secondary flow path)</dd>
+<dt>12e</dt><dd>ferrule flange</dd>
+<dt>12f</dt><dd>downstream-side protruding part</dd>
+<dt>12g</dt><dd>guide ribs</dd>
+<dt>12h</dt><dd>annular groove</dd>
+<dt>12i</dt><dd>upstream-side protruding part</dd>
+<dt>13, 14</dt><dd>collar part</dd>
+<dt>15</dt><dd>mount</dd>
+<dt>15a</dt><dd>opening for decompression</dd>
+<dt>16</dt><dd>gasket</dd>
+<dt>20</dt><dd>spring body</dd>
+<dt>32</dt><dd>moving body</dd>
+<dt>36</dt><dd>valve body</dd>
+<dt>36a</dt><dd>valve body lower part</dd>
+<dt>36b</dt><dd>valve body upper part<!-- EPO <DP n="40"> --></dd>
+<dt>36d</dt><dd>hollow part</dd>
+<dt>36e</dt><dd>recess</dd>
+<dt>36h</dt><dd>small diameter part</dd>
+<dt>36i</dt><dd>opening</dd>
+<dt>37</dt><dd>valve shaft</dd>
+<dt>52</dt><dd>moving body</dd>
+<dt>56</dt><dd>valve body</dd>
+<dt>56a</dt><dd>valve body lower part</dd>
+<dt>56b</dt><dd>valve body upper part</dd>
+<dt>56d</dt><dd>hollow part</dd>
+<dt>56e</dt><dd>spring seat surface</dd>
+<dt>56f</dt><dd>flat surface part</dd>
+<dt>56h</dt><dd>small diameter part</dd>
+<dt>56i</dt><dd>opening</dd>
+<dt>56j</dt><dd>facing part</dd>
+<dt>56k</dt><dd>edge part</dd>
+<dt>57</dt><dd>valve shaft</dd>
+<dt>62</dt><dd>valve casing</dd>
+<dt>62a</dt><dd>valve seat</dd>
+<dt>72</dt><dd>moving body</dd>
+<dt>73</dt><dd>guide cap</dd>
+<dt>74</dt><dd>guide rod</dd>
+<dt>76</dt><dd>valve body</dd>
+<dt>76a</dt><dd>valve body lower part</dd>
+<dt>76b</dt><dd>valve body upper part</dd>
+<dt>76d</dt><dd>hollow part</dd>
+<dt>77</dt><dd>valve shaft<!-- EPO <DP n="41"> --></dd>
+<dt>77a</dt><dd>hollow space</dd>
+<dt>CL</dt><dd>center line</dd>
+<dt>DP1</dt><dd>dynamic pressure</dd>
+<dt>W</dt><dd>vortex</dd>
+</dl></p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="42"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A check valve of straight pipe joint type and oblique lift type, the check valve comprising:
+<claim-text>a valve seat;</claim-text>
+<claim-text>a moving body capable of linearly reciprocating between a closed state in which the moving body is in close contact with the valve seat and an open state in which the moving body is separated from the valve seat;</claim-text>
+<claim-text>a primary flow path located on an upstream side of the moving body; and</claim-text>
+<claim-text>a secondary flow path located on a downstream side of the moving body,</claim-text>
+<claim-text>wherein:
+<claim-text>the moving body includes
+<claim-text>a valve body supported by the valve seat in the closed state, and</claim-text>
+<claim-text>a valve shaft extending from the valve body; and</claim-text></claim-text>
+<claim-text>the valve seat is formed to straddle the center line of the connection flow path that linearly extends including the primary flow path and the secondary flow path in a cross section including the center line thereon.</claim-text></claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The check valve according to claim 1, wherein
+<claim-text>the moving body further comprises a water stop part that is in contact with the valve seat in the closed state, and<!-- EPO <DP n="43"> --></claim-text>
+<claim-text>a part of the water stop part is located below the center line in the closed state, and the entire water stop part moves to a position above the center line at a certain position in the open state.</claim-text></claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The check valve according to claim 1 or 2, wherein
+<claim-text>the valve body comprises a valve body lower part and a valve body upper part,</claim-text>
+<claim-text>the valve body upper part has a collar that is larger in a radial direction than the valve body lower part, with the valve shaft in the center, and</claim-text>
+<claim-text>the lower end of the collar is located below the center line in the closed state and moves to a position above the center line at a certain position in the open state.</claim-text></claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The check valve according to claim 2 or 3, wherein a certain position in the open state is a position of 70% with respect to the fully open state.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The check valve according to claim 3, wherein the valve body lower part is formed in a partial spherical shape having a hollow part.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The check valve according to any one of claims 1 to 5, wherein<!-- EPO <DP n="44"> -->
+<claim-text>a downstream-side protruding part that protrudes toward the center line side is provided in a lower portion of the inner wall surface that forms the secondary flow path on the downstream side of the valve seat, and</claim-text>
+<claim-text>an amount of protrusion of the downstream-side protruding part gradually decreases toward the downstream side.</claim-text></claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The check valve according to any one of claims 1 to 6,<br/>
+wherein
+<claim-text>an upstream-side protruding part that protrudes toward the center line side is provided on an upper portion of the inner wall surface that forms the primary flow path on the upstream side of the valve seat, and</claim-text>
+<claim-text>an amount of protrusion of the upstream-side protruding part gradually increases toward the downstream side.</claim-text></claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>The check valve according to claim 7, wherein the upstream-side protruding part protrudes less than the center line.</claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>The check valve according to any one of claims 1 to 8, wherein<!-- EPO <DP n="45"> -->
+<claim-text>the check valve further comprises a valve casing for accommodating at least a part of the moving body on the opposite side to the valve body,</claim-text>
+<claim-text>the valve body includes a valve body lower part and a valve body upper part,</claim-text>
+<claim-text>the valve shaft and the valve casing extend obliquely toward a side of the secondary flow path in a direction intersecting with a flow path direction of the primary flow path and the secondary flow path,</claim-text>
+<claim-text>the valve seat and the valve body upper part extend in a direction intersecting with the flow path direction of the primary flow path and the secondary flow path, and the extending direction of the valve shaft and the valve casing, and</claim-text>
+<claim-text>an end of a side of the primary flow path in the valve body upper part is arranged to be capable of sliding contact with the inner wall of the valve casing when the valve body is opened.</claim-text></claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="46"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="145" he="197" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="47"> -->
+<figure id="f0002" num="2"><img id="if0002" file="imgf0002.tif" wi="144" he="198" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="48"> -->
+<figure id="f0003" num="3"><img id="if0003" file="imgf0003.tif" wi="149" he="203" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="49"> -->
+<figure id="f0004" num="4"><img id="if0004" file="imgf0004.tif" wi="114" he="205" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="50"> -->
+<figure id="f0005" num="5"><img id="if0005" file="imgf0005.tif" wi="146" he="150" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="51"> -->
+<figure id="f0006" num="6"><img id="if0006" file="imgf0006.tif" wi="133" he="193" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="52"> -->
+<figure id="f0007" num="7"><img id="if0007" file="imgf0007.tif" wi="143" he="198" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="53"> -->
+<figure id="f0008" num="8"><img id="if0008" file="imgf0008.tif" wi="134" he="193" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="54"> -->
+<figure id="f0009" num="9"><img id="if0009" file="imgf0009.tif" wi="132" he="187" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="163" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="163" he="233" type="tif"/><doc-page id="srep0003" file="srep0003.tif" wi="163" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="US20050062000"><document-id><country>US</country><doc-number>20050062000</doc-number></document-id></patcit><crossref idref="pcit0001">[0006]</crossref><crossref idref="pcit0002">[0048]</crossref><crossref idref="pcit0003">[0053]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

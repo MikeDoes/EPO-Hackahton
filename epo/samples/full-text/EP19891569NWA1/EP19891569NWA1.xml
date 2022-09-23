@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19891569A1" file="EP19891569NWA1.xml" lang="en" country="EP" doc-number="3888633" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3888633</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19891569.6</B210><B220><date>20191129</date></B220><B240><B241><date>20210527</date></B241></B240><B250>ko</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>20180151983</B310><B320><date>20181130</date></B320><B330><ctry>KR</ctry></B330><B310>20190101723</B310><B320><date>20190820</date></B320><B330><ctry>KR</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>A61K   9/08        20060101AFI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>A61K  47/26        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>A61K  47/18        20170101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>A61K  47/20        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>A61K  47/64        20170101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="6"><text>A61K  38/48        20060101ALI20200605BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>A61K   9/08        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>A61K  47/18        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="3"><text>A61K  47/26        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="4"><text>A61K  47/64        20170801 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="5"><text>A61K  38/48        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="6"><text>A61K  47/20        20130101 LI20200626BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>BOTULINUMTOXINSTABILISIERENDE FLÜSSIGE ZUSAMMENSETZUNG</B542><B541>en</B541><B542>BOTULINUM TOXIN-STABILIZING LIQUID COMPOSITION</B542><B541>fr</B541><B542>COMPOSITION LIQUIDE DE STABILISATION DE LA TOXINE BOTULIQUE</B542></B540><B590><B598>2</B598></B590></B500><B700><B710><B711><snm>Huons Biopharma Co., Ltd.</snm><iid>101901466</iid><irf>60.129.155300</irf><adr><str>861, 8F., 14, Galmachi-ro, 288beon-gil, Jungwon-gu</str><city>Seongnam-si, Gyeonggi-do 13201</city><ctry>KR</ctry></adr></B711></B710><B720><B721><snm>KIM, Wanseop Paul</snm><adr><str>1312-602, 21, Dongcheon-ro 135beon-gil, Suji-gu</str><city>Yongin-si, Gyeonggi-do 16822</city><ctry>KR</ctry></adr></B721><B721><snm>KIM, Yeong-Mok</snm><adr><str>105-203, 175, Dokseodang-ro, Seongdong-gu</str><city>Seoul 04732</city><ctry>KR</ctry></adr></B721><B721><snm>PARK, Gi-Sik</snm><adr><str>534-1401, 12, Maeyeong-ro 310beon-gil, Yeongtong-
+gu</str><city>Suwon-si, Gyeonggi-do 16697</city><ctry>KR</ctry></adr></B721><B721><snm>PARK, Jae-Min</snm><adr><str>204, 65, Geumdang-ro, Jangan-gu</str><city>Suwon-si, Gyeonggi-do 16281</city><ctry>KR</ctry></adr></B721><B721><snm>LEE, Ae-Yeon</snm><adr><str>204, 10, Hugogan-gil, Sangnok-gu</str><city>Ansan-si, Gyeonggi-do 15589</city><ctry>KR</ctry></adr></B721></B720><B740><B741><snm>Dehns</snm><iid>101728904</iid><adr><str>St. Bride's House 
+10 Salisbury Square</str><city>London EC4Y 8JD</city><ctry>GB</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>KR2019016669</anum></dnum><date>20191129</date></B861><B862>ko</B862></B860><B870><B871><dnum><pnum>WO2020111852</pnum></dnum><date>20200604</date><bnum>202023</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">The present invention relates to a botulinum toxin-stabilizing liquid composition having the effect of improving the stability of botulinum toxin, a method for preparing same, and a pharmaceutical composition containing the stabilizing liquid composition and having improved stability of botulinum toxin. According to the present invention, since the activity of liquid botulinum toxin is maintained for a long time even at room temperature, there are advantages of excellent storage stability and conservation stability and easy administration.<img id="iaf01" file="imgaf001.tif" wi="48" he="97" img-content="drawing" img-format="tif"/></p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">[Technical Field]</heading>
+<p id="p0001" num="0001">The present invention relates to a stabilizing liquid composition having an effect of improving the stability of botulinum toxin, a method of preparing the same, and a pharmaceutical composition for improving the stability of botulinum toxin, which includes the stabilizing liquid composition.</p>
+<p id="p0002" num="0002">The application claims priority to and the benefit of <patcit id="pcit0001" dnum="KR1020180151983"><text>Korean Patent Application No. 10-2018-0151983, filed on November 30, 2018</text></patcit>, and <patcit id="pcit0002" dnum="KR1020190101723"><text>Korean Patent Application No. 10-2019-0101723, filed on August 20, 2019</text></patcit>, the disclosures of which are incorporated herein by reference in their entireties.</p>
+<heading id="h0002">[Background Art]</heading>
+<p id="p0003" num="0003">There are 127 species or more classified by morphology and function in the genus Clostridium. Anaerobic, gram-positive bacteria, <i>Clostridium botulinum</i>, generates a potent polypeptide neurotoxin, such as botulinum toxin (hereinafter, the "toxin" used herein is also used interchangeably), causing a neuroparalytic disease known as botulism in humans and animals. Symptoms of the botulinum toxin poisoning may include gait abnormalities, dysphagia, speech disorders, and paralysis of respiratory muscles which may lead to death.</p>
+<p id="p0004" num="0004">One unit of the botulinum toxin is defined as LD<sub>50</sub> when intraperitoneally injected into female Swiss Webster mice weighing approximately 18 to 20 g. One<!-- EPO <DP n="2"> --> unit of the botulinum toxin is the amount of botulinum toxin that kills 50% of a group of female Swiss Webster mouse.</p>
+<p id="p0005" num="0005">The characteristics of seven types of immunologically distinct botulinum neurotoxins, such as botulinum neurotoxin serotypes A, B, C, D, E, F and G, which are distinguished by being neutralized with a type-specific antibody. According to the different serotypes of botulinum toxin, there are differences in the animal species affected thereby, and the severity and duration of paralysis caused thereby. Botulinum toxin apparently binds to cholinergic motor neurons with high affinity, relocates to a neuron, and blocks the presynaptic release of acetylcholine.</p>
+<p id="p0006" num="0006">Botulinum toxin has been used in a clinical setting for treating neuromuscular disorders characterized by hyperactive skeletal muscle. Botulinum toxin type A is approved by the U.S. Food and Drug Administration (FDA) for essential blepharopasm, strabismus and hemifacial spasm in patients over age 12, and also approved for the treatment of cervical dystonia, glabellar (facial) wrinkles and hyperhidrosis. The FDA also approved botulinum toxin type B for the treatment of cervical dystonia, glabellar (facial) wrinkles.</p>
+<p id="p0007" num="0007">Botulinum toxin type A is known to be soluble in a dilute aqueous solution with pH 4 to 6.8. A stabilizing non-toxic protein is separated from a neurotoxin at pH of approximately 7 or more, resulting in a gradual loss of toxicity, especially as the pH and temperature rise. As is common with enzymes, the biological activity of botulinum toxin (which is an intracellular peptidase) is at least partially dependent on the three-dimensional morphology thereof. Dilution to a solution containing of milligrams to nanograms of toxin per mL has considerable difficulty, for example, the<!-- EPO <DP n="3"> --> tendency of reducing an amount of available toxin by the toxin adhering to a surface. In addition, a toxin-containing pharmaceutical composition is sometimes used months or years after preparation, and in this case, the toxin may be easily oxidized or decomposed into small fragments due to the nature of a protein. Therefore, it is necessary to stabilize the toxin with a stabilizer.</p>
+<p id="p0008" num="0008">Conventionally, to solve this problem, albumin, sucrose, trehalose and/or gelatin are mainly used as a stabilizer in the pharmaceutical process of a botulinum toxin protein.</p>
+<p id="p0009" num="0009">For example, as described below, for a botulinum toxin-containing pharmaceutical composition, albumin is used as a stabilizer.</p>
+<p id="p0010" num="0010">A commercially available botulinum toxin-containing pharmaceutical composition is commercialized by Allergan, Inc (Irvine, CA) under the trade name BOTOX<sup>®</sup> (botulinum toxin type A, purified neurotoxin complex). 100 units/vial of BOTOX<sup>®</sup> consists of approximately 5 ng of the purified botulinum toxin type A complex, 0.5 mg human serum albumin, and 0.9 mg sodium chloride, and is in a vacuum-dried form, and prepared to be restored with sterile physiological saline without a preservative (injected with 0.9% sodium chloride). Other commercially available botulinum toxin-containing pharmaceutical compositions may include Dysport<sup>®</sup> <i>(Clostridium botulinum</i> type A toxin-hemagglutinin complex having lactose and human serum albumin among a botulinum toxin pharmaceutical composition, commercially available from Ipsen Limited, Berkshire, UK, a powder to be restored<!-- EPO <DP n="4"> --> with 0.9% sodium chloride before use), and MyoBloc™ (an injectable solution containing botulinum toxin type B, human serum albumin, sodium succinate and sodium chloride at approximately pH 5.6, commercially available from Solstice Neurosciences, San Diego, CA). A neurotoxin component (150 kDa toxin molecule) and a botulinum toxin complex (300 kDa to 900 kDa) may be obtained from, for example, List Biological Laboratories, Inc (Campbell, CA); the Centre for Applied Microbiology and Research (Porton Down, UK); and Wako (Osaka, Japan), and also from Sigma Chemicals (Saint Louis, MI).</p>
+<p id="p0011" num="0011">As described above, the reason why albumin is mainly used is that albumin may not only stabilize a protein active ingredient in a pharmaceutical composition, but may also have the advantage of negligible immunogenicity when injected into human patients. However, blood products such as albumin may pose a potential risk of infecting a patient with a blood-derived pathogen or infectious microorganism, and particularly, the mediation of diseases such as Creutzfeldt-Jacob disease delivered by viral infection or a viral protein may not be completely eliminated, and there may also be a risk of infecting a patient with a so far unknown pathogen. Therefore, when the above-described albumin is used as a stabilizer, selection of a donor or donation site is performed in a preparation process and the removal and/or inactivation of an infectious material should be performed to reduce the risk of spread of the infectious material.</p>
+<p id="p0012" num="0012">In addition, gelatin is sometimes used. However, since it is also a protein obtained from an animal, it may cause a disease like albumin, and therefore may not be recommended for use in a pharmaceutical process.<!-- EPO <DP n="5"> --></p>
+<p id="p0013" num="0013">As technology for using a stabilizer which is not derived from an animal source in a pharmaceutical process for a botulinum toxin protein, a method of utilizing a pharmaceutical preparation of recombinant albumin (rSA) produced in yeasts is disclosed in <patcit id="pcit0003" dnum="KR100799400"><text>Korean Registered Patent No. 10-0799400</text></patcit>. However, since a novel antigenic structure, neoepitope, is generated in the production and isolation and recovery of recombinant albumin (rSA), the possibility of inducing an immune response in a recipient of the drug may not be completely eliminated.</p>
+<p id="p0014" num="0014">In addition, in <patcit id="pcit0004" dnum="KR100665469"><text>Korean Registered Patent No. 10-0665469</text></patcit>, a pharmaceutical composition containing botulinum toxin, a polysaccharide (including hydroxyethyl starch), and lysine, glycine, histidine or arginine as an amino acid is disclosed. However, the pharmaceutical composition of the present invention is a composition for a freeze-dried formulation, and its storage condition is limited to freezing or refrigeration. The freeze-dried botulinum toxin needs a process of melting or diluting a frozen formulation immediately before use, and in this process, an error may be generated. Moreover, the freeze-dried botulinum toxin is inconvenient in use, and has a problem of impossible development in a prefilled syringe type.</p>
+<p id="p0015" num="0015">Regarding a composition for stabilizing botulinum toxin, in <patcit id="pcit0005" dnum="US20070134199"><text>U.S. Unexamined Patent Application Publication No. 2007-0134199</text></patcit>, a composition containing a non-ionic surfactant containing polysorbate, and glutamine and glutamic acid or asparagine and aspartic acid as amino acids is disclosed. When botulinum toxin is diluted in the liquid composition of the present invention and stored under a refrigeration condition of 4 °C, it is stabilized over 8 months, but when the botulinum toxin is stored at room<!-- EPO <DP n="6"> --> temperature, for example, 37 °C, its activity is reduced within one month, so that there is a limit to stabilization of a pharmaceutical liquid composition containing botulinum toxin at room temperature.</p>
+<heading id="h0003">[Disclosure]</heading>
+<heading id="h0004">[Technical Problem]</heading>
+<p id="p0016" num="0016">The present invention is directed to providing a stabilizing liquid composition which is safe for humans since it is not derived from an animal source, and improves the stability of a botulinum toxin solution to maintain the activity of botulinum toxin at room temperature, and a botulinum toxin solution with improved stability.</p>
+<p id="p0017" num="0017">However, technical problems to be solved in the present invention are not limited to the above-described problems, and other problems which are not described herein will be fully understood by those of ordinary skill in the art from the following descriptions.</p>
+<heading id="h0005">[Technical Solution]</heading>
+<p id="p0018" num="0018">To attain the above-described purposes,<br/>
+the present invention provides a liquid composition for stabilizing botulinum toxin, which includes polysorbate 80 and serine as active ingredients.</p>
+<p id="p0019" num="0019">In one embodiment of the present invention, in the composition, the composition ratio of polysorbate 80 and serine is 1 (mg/mL): 5 (mM) or more.</p>
+<p id="p0020" num="0020">In another embodiment of the present invention, the composition further includes methionine.<!-- EPO <DP n="7"> --></p>
+<p id="p0021" num="0021">In still another embodiment of the present invention, in the composition, the composition ratio of polysorbate 80, serine and methionine is 1 (mg/mL): 5 to 50 (mM) : 0.2 (mM).</p>
+<p id="p0022" num="0022">In addition, the present invention provides a pharmaceutical composition in liquid formulation, which includes a liquid composition for stabilizing botulinum toxin; and botulinum toxin as active ingredients.</p>
+<p id="p0023" num="0023">In one embodiment of the present invention, the concentration of polysorbate 80 is 0.001 mg or more per 40 units of botulinum toxin.</p>
+<p id="p0024" num="0024">In one embodiment of the present invention, the concentration of serine is 5 mM or more per 40 units of botulinum toxin.</p>
+<p id="p0025" num="0025">In one embodiment of the present invention, the concentration of methionine is less than 0.5 mM per 40 units of botulinum toxin.</p>
+<p id="p0026" num="0026">In one embodiment of the present invention, the botulinum toxin is selected from the group consisting of botulinum type A, B, C, D, E, F, and G.</p>
+<p id="p0027" num="0027">Preferably, the botulinum toxin is in a form that does not contain a complexing protein or a complex form that contains a complexing protein.</p>
+<p id="p0028" num="0028">In addition, the present invention provides a method of stabilizing botulinum toxin, which includes mixing a liquid composition containing polysorbate 80 and serine with botulinum toxin.</p>
+<p id="p0029" num="0029">In addition, the present invention provides a use of a liquid composition containing polysorbate 80 and serine for stabilizing botulinum toxin.</p>
+<p id="p0030" num="0030">In addition, the present invention provides a use of polysorbate 80 and serine for producing a drug used to stabilize botulinum toxin.<!-- EPO <DP n="8"> --></p>
+<heading id="h0006">[Advantageous Effects]</heading>
+<p id="p0031" num="0031">The present invention uses a stabilizer which is not derived from an animal source, and thus a patient administered a botulinum toxin pharmaceutical composition can secure safety from the potential risk of infection with a blood-derived pathogen or infectious microorganism. In addition, the present invention can ensure storage and distribution stability since the activity of botulinum toxin is maintained for a long time at room temperature. In addition, the present invention has improved convenience in preparation since there is no need for a freeze-drying process.</p>
+<heading id="h0007">[Description of Drawings]</heading>
+<p id="p0032" num="0032">
+<ul id="ul0001" list-style="none" compact="compact">
+<li><figref idref="f0001">FIG. 1</figref> is a graph showing the change in mortality rate when a botulinum toxin solution is administered according to the change in concentration of polysorbate 80.</li>
+<li><figref idref="f0002">FIG. 2</figref> is a graph showing the change in mortality rate when a botulinum toxin solution is administered according to the change in concentration of serine.</li>
+<li><figref idref="f0003">FIG. 3</figref> is a graph showing the change in mortality rate when a botulinum toxin solution is administered according to the change in concentration of serine due to the addition of methionine.</li>
+</ul></p>
+<heading id="h0008">[Modes of the Invention]</heading>
+<p id="p0033" num="0033">Hereinafter, to help in understanding the present invention, exemplary examples will be suggested. However, the following examples are merely provided to more easily understand the present invention, and not to limit the present invention.<!-- EPO <DP n="9"> --></p>
+<p id="p0034" num="0034">The present invention relates to a liquid composition for stabilizing botulinum toxin, which includes polysorbate 80 and serine as active ingredients; and a pharmaceutical composition in liquid formulation, which includes the liquid composition for stabilizing botulinum toxin and botulinum toxin as active ingredients.</p>
+<p id="p0035" num="0035">In addition, the present invention relates to a method of improving the stability of botulinum toxin using polysorbate 80 and serine.</p>
+<p id="p0036" num="0036">The inventors conducted an experiment for ensuring a stabilizer which is safe since an animal-derived protein is not used, and has long-term stability at room temperature or even in storage in a refrigerator, as an alternative to a liquid composition for stabilizing botulinum toxin consisting of the combination of methionine and polysorbate 20. As a result, it was confirmed that the combination of serine and polysorbate 80 has an excellent effect of maintaining the activity of botulinum toxin at room temperature for a long time, and the present invention was completed.</p>
+<p id="p0037" num="0037">In the present invention, the "stability or stabilization" means that the activity of botulinum toxin is maintained, and for example, the activity of botulinum toxin is maintained to be 10% or more, 20% or more, 30% or more, 40% or more, 50% or more, 60% or more, 70% or more, 80% or more, 90% or more, or 100%, preferably, 50% or more, and most preferably, 100%, compared with that before the experiment or under specific conditions. For example, compared with the number of subjects<!-- EPO <DP n="10"> --> into which botulinum toxin is injected, a value obtained by (the number of dead subjects among subjects into which botulinum toxin is injected/the number of subjects into which botulinum toxin is injected) x 100 is maintained to be 10% or more, 20% or more, 30% or more, 40% or more, 50% or more, 60% or more, 70% or more, 80% or more, 90% or more, or 100%, preferably, 50% or more, and most preferably, 100%. The activity of botulinum toxin may be measured according to various methods known in the art, and for example, measured with reference to the lethality assay method described in <nplcit id="ncit0001" npl-type="s"><text>PearceL.B.et al 1994. Measurement of Botulinum Toxin Activity: Evaluation of the Lethality Assay. Toxicology and Applied Pharmacology' 128: 69-77</text></nplcit>'. According to an experimental example of the present invention, 0.1 mL (3 or 4 units/0.1 mL/mouse) of the prepared botulinum toxin liquid composition was intraperitoneally injected into five or ten 4-week-old ICR (Institute of Cancer Research, USA) female mice, and then observed for 72 hours to confirm a mortality rate. In addition, the condition for "stability or stabilization" may refer to storage or distribution stability at room temperature, but the present invention is not limited thereto. According to a specific embodiment, the stability or stabilization condition may be a 35 to 45 °C/50 to 80% RH condition, and preferably, a 40 °C/70% RH condition.</p>
+<p id="p0038" num="0038">The liquid composition for stabilizing botulinum toxin according to the present invention includes polysorbate 80 and serine as active ingredients.</p>
+<p id="p0039" num="0039">In addition, the pharmaceutical composition in liquid formulation according to the present invention includes the liquid composition for stabilizing botulinum toxin<!-- EPO <DP n="11"> --> and botulinum toxin as active ingredients. That is, the pharmaceutical composition in liquid formulation includes polysorbate 80 and serine; and botulinum toxin as active ingredients.</p>
+<p id="p0040" num="0040">In the present invention, the "serine" is a compound represented by the chemical formula HO<sub>2</sub>CCH(NH<sub>2</sub>)CH<sub>2</sub>OH, and includes a stereoisomer thereof. The "serine" may be obtained by various methods known in the art, which include a chemical synthesis method, a method of separating serine synthesized in an animal body, or a method of obtaining a commercially available compound, and for example, serine may be prepared by a method of removing 3-phosphoserine and a phosphoric acid group by an amino group transfer reaction with glutamic acid starting from oxidation of 3-phosphoglycerate formed from 3-phosphohydroxypyruvate and nicotinamide adenine dinucleotide (NADH), but the present invention is not limited thereto. In the present invention, a serine concentration included in the pharmaceutical composition in liquid formulation may be 5 mM or more per 40 units of botulinum toxin, preferably, 5 to 100 mM per 40 units of botulinum toxin, more preferably, 15 to 100 mM per 40 units of botulinum toxin, and most preferably, 15 to 50 mM per 40 units of botulinum toxin. At the concentration of less than 5 mM per 40 units of botulinum toxin, the stabilization of botulinum toxin caused by serine may be exhibited at lower than a predetermined level in long-term storage, and at the concentration of more than 100 mM per 40 units of botulinum toxin, a synergistic effect caused by excessive serine may be no longer exhibited, and may not be economical.<!-- EPO <DP n="12"> --></p>
+<p id="p0041" num="0041">In the present invention, the "polysorbate 80" is a compound represented by the chemical formula C<sub>64</sub>H<sub>124</sub>O<sub>26</sub>, is a non-ionic surfactant, and is soluble. The polysorbate 80 is called monooleic acid polyoxyethylene sorbitan, polyoxyethylene sorbitan monooleate, emazole 4130, Tween 80, or Tween 79, and used as a food or cosmetic additive for the purpose of, for example, a plasticizer, a gelling agent, a surfactant, a base, a sugar-coated preparation, a water-proofing agent, an anti-adhesive agent, an excipient, a dispersing agent, a disintegrant, a wetting agent, a stabilizer, a softening agent, a buffer, a solvent, a solubilizing agent, an emulsifying agent, an enteric coating agent, a coating agent, a bleaching agent, a suspending agent or a lubricant. The polysorbate 80 may be prepared by various methods known in the art, and may be isolated in nature or chemically synthesized. In the present invention, the concentration of polysorbate 80 included in the pharmaceutical composition in liquid formulation may be 0.001 mg or more per 40 units of botulinum toxin, preferably, 0.1 to 5 mg per 40 units of botulinum toxin, more preferably 0.1 to 2 mg per 40 units of botulinum toxin, and most preferably, 0.5 to 2 mg per 40 units of botulinum toxin. At less than 0.001 mg per 40 units of botulinum toxin, the stabilization of botulinum toxin by polysorbate 80 may be exhibited at less than a predetermined level in long-term storage, and at more than 5 mg per 40 units of botulinum toxin, a synergistic effect caused by excessive polysorbate 80 may be no longer exhibited, and may not be economical.<!-- EPO <DP n="13"> --></p>
+<p id="p0042" num="0042">In the liquid composition for stabilizing botulinum toxin of the present invention, the composition ratio of polysorbate 80: serine per 20 units of botulinum toxin may be 1 (mg/mL): 5 (mM) or more, preferably, 1 (mg/mL): 5 to 50 (mM), and more preferably, 1 (mg/mL): 15 to 50 (mM). When the composition ratio of polysorbate 80 : serine is 1 (mg/mL): less than 5 (mM), the stabilization of botulinum toxin may be exhibited at less than a predetermined level in long-term storage.</p>
+<p id="p0043" num="0043">In the present invention, the "botulinum toxin" may be randomly selected from the group consisting of botulinum type A, B, C, D, E, F and G, and preferably botulinum type A. The botulinum toxin may include both a form that does not contain a complexing protein and a complex form that contains a complexing protein. The molecular weight of a botulinum toxin protein derived from <i>Clostridium botulinum</i> type A, B, C, D, E, F or G, which does not contain a naturally-occurring complexing protein, is approximately 150 KDa. However, when a toxin protein is produced by <i>Clostridium botulinum,</i> a botulinum toxin protein is produced by forming various complexes with several hemagglutinin proteins that assist and protect the action of the botulinum toxin protein and non-hemagglutinin proteins. Botulinum toxin type A containing a naturally-occurring complexing protein is a complex having a molecular weight of approximately 900 kDa, 500 kDa or 300 kDa, botulinum toxin types B and C are complexes having a molecular weight of approximately 500 kDa, botulinum toxin type D is a complex having a molecular weight of approximately 300 kDa or 500 kDa, and botulinum toxin types E and F are complexes having a molecular weight of approximately 300 kDa. In the present invention, 1 unit of botulinum toxin<!-- EPO <DP n="14"> --> may be defined as LD<sub>50</sub>, in which a mortality rate caused by intraperitoneal injection into female Swiss Webster mice weighing 18 to 20 g is 50%.</p>
+<p id="p0044" num="0044">As an active ingredient for the liquid composition for stabilizing botulinum toxin according to the present invention, methionine may be further included in addition to serine and polysorbate 80.</p>
+<p id="p0045" num="0045">In the present invention, the concentration of methionine included in the pharmaceutical composition in liquid formulation may be less than 0.5 mM per 40 units of botulinum toxin, and more preferably, 0.2 to 0.4 mM per 40 units of botulinum toxin, but the present invention is not limited thereto.</p>
+<p id="p0046" num="0046">In the liquid composition for stabilizing botulinum toxin of the present invention, the composition ratio of polysorbate 80 : serine : methionine per 20 units of botulinum toxin may be 1 (mg/mL): 2.5 to 50 (mM) : 0.2 (mM), preferably 1 (mg/mL): 5 to 50 (mM) : 0.2 (mM), more preferably 1 (mg/mL): 7.5 to 30 (mM) : 0.2 (mM), and further more preferably 1 (mg/mL): 7.5 to 25 (mM) : 0.2 (mM). When the composition ratio of polysorbate 80 : serine : methionine is 1 (mg/mL): less than 2.5 or more than 50 (mM) : 0.2 (mM), the stabilization of botulinum toxin may be exhibited at less than a predetermined level in long-term storage.</p>
+<p id="p0047" num="0047">According to the present invention, the liquid composition for stabilizing botulinum toxin and/or the pharmaceutical composition in liquid formulation including the same may include a pharmaceutically acceptable carrier in addition to<!-- EPO <DP n="15"> --> the active ingredients. Here, the pharmaceutically acceptable carrier is conventionally used in preparation, and includes, lactose, dextrose, sucrose, sorbitol, mannitol, starch, acacia gum, calcium phosphate, alginate, gelatin, calcium silicate, microcrystalline cellulose, polyvinylpyrrolidone, cellulose, water, syrup, methyl cellulose, methylhydroxybenzoate, propyl hydroxybenzoate, talc, magnesium stearate, and mineral oil, but the present invention is not limited thereto. In addition, the liquid composition for stabilizing botulinum toxin and/or pharmaceutical composition in liquid formulation of the present invention may further include a lubricant, a wetting agent, a sweetening agent, a flavoring agent, an emulsifier, a suspending agent or a preservative, in addition to the above-described ingredients.</p>
+<p id="p0048" num="0048">The pharmaceutical composition of the present invention may be orally or parenterally (e.g., intravenously, subcutaneously, intraperitoneally or locally) administered by a desired method, and a dose may be suitably selected by those of ordinary skill in the art according to the condition and body weight of a patient, the severity of a disease, a dosage form, the route and duration of administration.</p>
+<p id="p0049" num="0049">The composition according to the present invention is administered at a pharmaceutically effective amount. In the present invention, the "pharmaceutically effective amount" used herein refers to an amount sufficient for treating a disease at a reasonable benefit/risk ratio applicable for medical treatment, and an effective dosage may be determined by parameters including the type of a patient's disease, severity, drug activity, sensitivity to a drug, administration time, an administration route and an excretion rate, the duration of treatment and drugs simultaneously used, and other parameters well known in the medical field.<!-- EPO <DP n="16"> --></p>
+<p id="p0050" num="0050">The pharmaceutical composition of the present invention may be administered separately or in combination with other therapeutic agents, and may be sequentially or simultaneously administered with a conventional therapeutic agent, or administered in a single or multiple dose(s). In consideration of all of the above-mentioned parameters, it is important to achieve the maximum effect with the minimum dose without a side effect, and such a dose may be easily determined by one of ordinary skill in the art. The co-administered preparation is not limited, and for example, the second composition may be an aminoglycoside-based antibiotic or a drug that interferences with muscle and neurotransmission (tubocuraline-based muscle relaxant).</p>
+<p id="p0051" num="0051">In addition, the present invention provides a method of stabilizing botulinum toxin, which includes mixing a liquid composition including polysorbate 80 and serine with botulinum toxin.</p>
+<p id="p0052" num="0052">In addition, the present invention provides a use of a liquid composition including polysorbate 80 and serine for stabilizing botulinum toxin and a use of polysorbate 80 and serine for producing a drug used to stabilize botulinum toxin.</p>
+<p id="p0053" num="0053">In addition, the "subject" used herein refers to a target in need of administration of botulinum toxin, and more specifically, and includes a mammal such as a human or a non-human primate, a mouse, a rat, a dog, a cat, a horse, or a cow.</p>
+<p id="p0054" num="0054">The "administration" used herein refers to the provision of the liquid composition including polysorbate 80 and serine; and botulinum toxin to a subject by a suitable method.<!-- EPO <DP n="17"> --></p>
+<p id="p0055" num="0055">The liquid composition for stabilizing botulinum toxin according to the present invention is prepared by mixing serine and polysorbate 80.</p>
+<p id="p0056" num="0056">In addition, the pharmaceutical composition in liquid formulation according to the present invention is prepared by preparing a liquid composition for stabilizing botulinum toxin by mixing serine and polysorbate 80; and mixing the liquid composition for stabilizing botulinum toxin and botulinum toxin.</p>
+<p id="p0057" num="0057">As needed, in addition to the above-described steps, one or more steps may be further included, and the sequence is irrelevant. For example, the liquid composition for stabilizing botulinum toxin may include additionally mixing methionine in the step of mixing serine and polysorbate 80.</p>
+<heading id="h0009"><b>&lt;Example&gt;</b></heading>
+<heading id="h0010"><b><u>1. Preparation of liquid composition containing botulinum toxin</u></b></heading>
+<p id="p0058" num="0058">A liquid composition containing botulinum toxin was prepared by diluting a botulinum toxin solution using a liquid composition for stabilizing botulinum toxin adjusted to a proper concentration and finally adjusting the concentration of the botulinum toxin solution to a proper concentration.</p>
+<heading id="h0011"><b>&lt;Experimental Examples&gt;</b></heading>
+<heading id="h0012"><u><b>1. Test for</b> selecting liquid <b>composition for stabilizing botulinum toxin</b></u></heading><!-- EPO <DP n="18"> -->
+<p id="p0059" num="0059">To select a stabilizer of <i>Clostridium botulinum</i> toxin type A, an experiment for selecting the composition of a liquid composition for stabilizing botulinum toxin was performed using various stabilizers.</p>
+<p id="p0060" num="0060">Using a liquid composition for stabilizing botulinum toxin having the composition as shown in Table 1 below, a botulinum toxin solution was prepared to have a concentration of 300 Unit/mL.</p>
+<p id="p0061" num="0061">Like the patented Innotox formulation, a control was prepared by dissolving 20 mM methionine and 2 mg/mL polysorbate 20 in 10% saline. In addition, experimental groups (Examples 1 to 7) were prepared by dissolving each a 20 mM stabilizer in normal saline and dissolving 2 mg/mL of polysorbate 80 in 10% saline.</p>
+<p id="p0062" num="0062">The prepared botulinum toxin solution was stored in a stability chamber under conditions including 40 °C/70% RH, and sampled at regular intervals. 9 mL of an injectable solution (normal saline) was added to 1 mL of the sampled botulinum toxin solution to dilute the solution 10-fold, and the diluted sample was intraperitoneally injected into five 4-week-old ICR (Institute of Cancer Research, USA) female mice at 3 units/0.1 mL (1 unit = LD<sub>50</sub>). While observing for 72 hours after the intraperitoneal injection, the number of dead mice and the mortality rate corresponding thereto were assessed.</p>
+<p id="p0063" num="0063">As a result, as shown in Table 1, other than Examples 1 and 4, and Control, a dramatic decrease in stability was confirmed. That is, the activity of botulinum toxin was maintained for a long time only in Examples 1 and 4 and Control.<!-- EPO <DP n="19"> --></p>
+<p id="p0064" num="0064">From the above result, it can be seen that the combination of serine and polysorbate 80 is a stabilizer that can replace the combination of methionine and polysorbate 80.
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>[Table 1]</title>
+<tgroup cols="7">
+<colspec colnum="1" colname="col1" colwidth="25mm"/>
+<colspec colnum="2" colname="col2" colwidth="37mm"/>
+<colspec colnum="3" colname="col3" colwidth="40mm"/>
+<colspec colnum="4" colname="col4" colwidth="15mm"/>
+<colspec colnum="5" colname="col5" colwidth="16mm"/>
+<colspec colnum="6" colname="col6" colwidth="18mm"/>
+<colspec colnum="7" colname="col7" colwidth="17mm"/>
+<thead>
+<row>
+<entry morerows="1" valign="middle"><b>Classification</b></entry>
+<entry namest="col2" nameend="col3" align="left" valign="top"><b>Liquid composition for stabilizing botulinum toxin</b></entry>
+<entry namest="col4" nameend="col6" align="left" valign="top"><b>Mortality rate (%)</b></entry>
+<entry valign="top"><b>Stability</b></entry></row>
+<row>
+<entry valign="middle"><b>Stabilizer (20 mM)</b></entry>
+<entry valign="middle"><b>Polysorbate (2 mg/mL)</b></entry>
+<entry valign="middle"><b>0 week</b></entry>
+<entry valign="middle"><b>1<sup>st</sup> week</b></entry>
+<entry valign="middle"><b>2<sup>nd</sup> week</b></entry>
+<entry valign="middle"/></row></thead>
+<tbody>
+<row>
+<entry>Control</entry>
+<entry>Methionine</entry>
+<entry>Tween 20</entry>
+<entry>100%</entry>
+<entry>100%</entry>
+<entry>100%</entry>
+<entry>○</entry></row>
+<row>
+<entry>Example 1</entry>
+<entry>Methionine</entry>
+<entry>Tween 80</entry>
+<entry>100%</entry>
+<entry>100%</entry>
+<entry>100%</entry>
+<entry>○</entry></row>
+<row>
+<entry>Example 2</entry>
+<entry>Glycine</entry>
+<entry>Tween 80</entry>
+<entry>100%</entry>
+<entry>100%</entry>
+<entry>0%</entry>
+<entry>X</entry></row>
+<row>
+<entry>Example 3</entry>
+<entry>Cysteine</entry>
+<entry>Tween 80</entry>
+<entry>100%</entry>
+<entry>0%</entry>
+<entry>0%</entry>
+<entry>X</entry></row>
+<row>
+<entry>Example 4</entry>
+<entry>Serine</entry>
+<entry>Tween 80</entry>
+<entry>100%</entry>
+<entry>100%</entry>
+<entry>100%</entry>
+<entry>○</entry></row>
+<row>
+<entry>Example 5</entry>
+<entry>Zn (50 mM)</entry>
+<entry>Tween 80</entry>
+<entry>100%</entry>
+<entry>40%</entry>
+<entry>0%</entry>
+<entry>X</entry></row>
+<row>
+<entry>Example 6</entry>
+<entry>Leucine</entry>
+<entry>Tween 80</entry>
+<entry>80%</entry>
+<entry>60%</entry>
+<entry>0%</entry>
+<entry>X</entry></row>
+<row>
+<entry>Example 7</entry>
+<entry>Vitamin C</entry>
+<entry>Tween 80</entry>
+<entry>80%</entry>
+<entry>0%</entry>
+<entry>0%</entry>
+<entry>X</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0065" num="0065">However, the stability experiment was performed on live mice, and due to its characteristic, even when the stability experiment was conducted with a botulinum toxin liquid composition having the same composition, different results may be obtained depending on the condition of a mouse.</p>
+<heading id="h0013"><b><u>2. Test for stability of botulinum toxin according to change in concentration of polysorbate 80</u></b></heading><!-- EPO <DP n="20"> -->
+<p id="p0066" num="0066">As the composition of the liquid composition for stabilizing botulinum toxin, the combination of serine and polysorbate 80 was selected, and an experiment for the stability of botulinum toxin according to the change in concentration of polysorbate 80 was performed.</p>
+<p id="p0067" num="0067">Using a liquid composition for stabilizing botulinum toxin having the composition as described in Table 2 below, a botulinum toxin solution was prepared to have a concentration of 40 units/mL. An experimental group was prepared by dissolving 5 mM serine and 0.001 to 2 mg/mL of polysorbate 80 in 10% normal saline. A specific experimental method was carried out as described in Experimental Example 1. However, this method used 10 mice, and a concentration for intraperitoneal injection was 4 units/0.1 mL.</p>
+<p id="p0068" num="0068">The result of an experiment for the stability of botulinum toxin according to the change in concentration of polysorbate 80 is shown in Table 2 and <figref idref="f0001">FIG. 1</figref>. When the concentration of polysorbate 80 is 0.1 mg/mL or more, a certain degree or more of stability was shown at every concentration. When the concentration of polysorbate 80 is 0.1 mg/mL, 0.5 mg/mL and 2 mg/mL, a mortality rate was 50% or more until the 6<sup>th</sup> week, and when the concentration of polysorbate 80 was 0.5 mg/mL or 2 mg/mL, a mortality rate was 10% until the 10<sup>th</sup> week.<!-- EPO <DP n="21"> -->
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>[Table 2]</title>
+<tgroup cols="11">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="21mm"/>
+<colspec colnum="3" colname="col3" colwidth="16mm"/>
+<colspec colnum="4" colname="col4" colwidth="14mm"/>
+<colspec colnum="5" colname="col5" colwidth="14mm"/>
+<colspec colnum="6" colname="col6" colwidth="14mm"/>
+<colspec colnum="7" colname="col7" colwidth="14mm"/>
+<colspec colnum="8" colname="col8" colwidth="14mm"/>
+<colspec colnum="9" colname="col9" colwidth="14mm"/>
+<colspec colnum="10" colname="col10" colwidth="14mm"/>
+<colspec colnum="11" colname="col11" colwidth="14mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col3" align="left" valign="top"><b>Botulinum toxin solution</b></entry>
+<entry namest="col4" nameend="col11" align="left" valign="top"><b>Mortality rate (%)</b></entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="left" valign="top"><b>Liquid composition for stabilizing botulinum toxin</b></entry>
+<entry morerows="1" valign="top"><b>Toxin (U/mL)</b></entry>
+<entry morerows="1" valign="top"><b>0 week</b></entry>
+<entry morerows="1" valign="top"><b>1<sup>st</sup> week</b></entry>
+<entry morerows="1" valign="top"><b>2<sup>nd</sup> week</b></entry>
+<entry morerows="1" valign="top"><b>4<sup>th</sup> week</b></entry>
+<entry morerows="1" valign="top"><b>6<sup>th</sup> week</b></entry>
+<entry morerows="1" valign="top"><b>8<sup>th</sup> week</b></entry>
+<entry morerows="1" valign="top"><b>10<sup>th</sup> week</b></entry>
+<entry morerows="1" valign="top"><b>12<sup>th</sup> week</b></entry></row>
+<row>
+<entry valign="middle"><b>Polysorbate 80 (mg/mL)</b></entry>
+<entry valign="middle"><b>serine (mM)</b></entry></row></thead>
+<tbody>
+<row>
+<entry>0.001</entry>
+<entry morerows="4" valign="middle">5</entry>
+<entry morerows="4" valign="middle">40</entry>
+<entry>100%</entry>
+<entry>0%</entry>
+<entry>0%</entry>
+<entry>0%</entry>
+<entry>0%</entry>
+<entry>0%</entry>
+<entry>0%</entry>
+<entry>0%</entry></row>
+<row>
+<entry>0.01</entry>
+<entry>100%</entry>
+<entry>100%</entry>
+<entry>80%</entry>
+<entry>60%</entry>
+<entry>0%</entry>
+<entry>0%</entry>
+<entry>0%</entry>
+<entry>0%</entry></row>
+<row>
+<entry>0.1</entry>
+<entry>100%</entry>
+<entry>100%</entry>
+<entry>90%</entry>
+<entry>90%</entry>
+<entry>60%</entry>
+<entry>30%</entry>
+<entry>0%</entry>
+<entry>0%</entry></row>
+<row>
+<entry>0.5</entry>
+<entry>100%</entry>
+<entry>90%</entry>
+<entry>80%</entry>
+<entry>70%</entry>
+<entry>100%</entry>
+<entry>40%</entry>
+<entry>10%</entry>
+<entry>0%</entry></row>
+<row>
+<entry>2</entry>
+<entry>100%</entry>
+<entry>70%</entry>
+<entry>100%</entry>
+<entry>70%</entry>
+<entry>70%</entry>
+<entry>40%</entry>
+<entry>10%</entry>
+<entry>0%</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0014"><b>3. <u>Test for stability of botulinum toxin according to change in concentration of serine</u></b></heading>
+<p id="p0069" num="0069">An experiment for the stability of botulinum toxin according to the change in concentration of serine was performed with the combination of serine and polysorbate 80 selected as the composition of a liquid composition for stabilizing botulinum toxin.</p>
+<p id="p0070" num="0070">Using a liquid composition for stabilizing botulinum toxin having the composition as described in Table 3 below, a botulinum toxin solution was prepared to have a concentration of 40 Unit/mL. A control was prepared by dissolving 20 mM methionine and 2 mg/mL of polysorbate 20 in 10% saline like the patented Innotox formulation. An experimental group was prepared by dissolving 0.1 mg/mL of polysorbate 80 and 5 to 50 mM serine in 10% normal saline. A specific experimental method was carried out as described in Experimental Example 1. However, this method used 10 mice, and a concentration for intraperitoneal injection was 4 units/0.1 mL.</p>
+<p id="p0071" num="0071">The result of an experiment for the stability of botulinum toxin according to the change in concentration of serine is shown in Table 3 and <figref idref="f0002">FIG. 2</figref>. When the<!-- EPO <DP n="22"> --> concentration of serine is 5 mM, 15 mM or 50 mM, the mortality rate was 50% or more until the 6<sup>th</sup> week, showing that the activity of botulinum toxin is maintained. Particularly, when the concentration of serine is 50 mM, the mortality rate was 50% or more until the 12<sup>th</sup> week, showing that the stability of botulinum toxin is maintained for a long time compared with the combination of 20 mM methionine and 2 mg/ml of polysorbate 20.
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>[Table 3]</title>
+<tgroup cols="10">
+<colspec colnum="1" colname="col1" colwidth="26mm"/>
+<colspec colnum="2" colname="col2" colwidth="24mm"/>
+<colspec colnum="3" colname="col3" colwidth="16mm"/>
+<colspec colnum="4" colname="col4" colwidth="16mm"/>
+<colspec colnum="5" colname="col5" colwidth="14mm"/>
+<colspec colnum="6" colname="col6" colwidth="16mm"/>
+<colspec colnum="7" colname="col7" colwidth="16mm"/>
+<colspec colnum="8" colname="col8" colwidth="16mm"/>
+<colspec colnum="9" colname="col9" colwidth="14mm"/>
+<colspec colnum="10" colname="col10" colwidth="14mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col2" align="left" valign="middle"><b>Liquid composition for stabilizing botulinum toxin</b></entry>
+<entry namest="col3" nameend="col10" align="left" valign="middle"><b>Mortality rate (%)</b></entry></row>
+<row>
+<entry valign="middle"><b>Serine (mM)</b></entry>
+<entry valign="middle"><b>Polysorbate 80 (mg/mL)</b></entry>
+<entry valign="middle"><b>0 week</b></entry>
+<entry valign="middle"><b>1<sup>st</sup> week</b></entry>
+<entry valign="middle"><b>2<sup>nd</sup> week</b></entry>
+<entry valign="middle"><b>4<sup>th</sup> week</b></entry>
+<entry valign="middle"><b>6<sup>th</sup> week</b></entry>
+<entry valign="middle"><b>8<sup>th</sup> week</b></entry>
+<entry valign="middle"><b>10<sup>th</sup> week</b></entry>
+<entry valign="middle"><b>12<sup>th</sup> week</b></entry></row></thead>
+<tbody>
+<row>
+<entry>5</entry>
+<entry morerows="2" valign="middle">0.1</entry>
+<entry>100%</entry>
+<entry>90%</entry>
+<entry>90%</entry>
+<entry>100%</entry>
+<entry>80%</entry>
+<entry>20%</entry>
+<entry>0%</entry>
+<entry>0%</entry></row>
+<row>
+<entry>15</entry>
+<entry>100%</entry>
+<entry>90%</entry>
+<entry>100%</entry>
+<entry>100%</entry>
+<entry>70%</entry>
+<entry>40%</entry>
+<entry>0%</entry>
+<entry>20%</entry></row>
+<row>
+<entry>50</entry>
+<entry>100%</entry>
+<entry>80%</entry>
+<entry>100%</entry>
+<entry>80%</entry>
+<entry>90%</entry>
+<entry>70%</entry>
+<entry>50%</entry>
+<entry>50%</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="left" valign="middle">20mM methionine,2mg/mL polysorbate20</entry>
+<entry valign="middle">100%</entry>
+<entry valign="middle">90%</entry>
+<entry valign="middle">80%</entry>
+<entry valign="middle">100%</entry>
+<entry valign="middle">90%</entry>
+<entry valign="middle">90%</entry>
+<entry valign="middle">20%</entry>
+<entry valign="middle">20%</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0015"><b><u>4. Test for stability of botulinum toxin according to addition of methionine</u></b></heading>
+<p id="p0072" num="0072">An experiment for the stability of botulinum toxin according to the addition of methionine was performed with the combination of serine and polysorbate 80 selected as the composition of a liquid composition for stabilizing botulinum toxin.</p>
+<p id="p0073" num="0073">Using a liquid composition for stabilizing botulinum toxin having the composition as described in Table 4 below, a botulinum toxin solution was prepared to have a concentration of 40 units/mL. A control was prepared by dissolving 20 mM<!-- EPO <DP n="23"> --> methionine and 2 mg/mL of polysorbate 20 in 10% saline like the patented Innotox formulation. An experimental group was prepared by dissolving 2 mg/mL of polysorbate 80, 5 to 50 mM serine and 0.4 mM methionine in 10% normal saline. A specific experimental method was carried out as described in Experimental Example 1. However, this method used 10 mice, and a concentration for intraperitoneal injection was 4 units/0.1 mL.
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title>[Table 4]</title>
+<tgroup cols="12">
+<colspec colnum="1" colname="col1" colwidth="29mm"/>
+<colspec colnum="2" colname="col2" colwidth="23mm"/>
+<colspec colnum="3" colname="col3" colwidth="37mm"/>
+<colspec colnum="4" colname="col4" colwidth="24mm"/>
+<colspec colnum="5" colname="col5" colwidth="14mm"/>
+<colspec colnum="6" colname="col6" colwidth="18mm"/>
+<colspec colnum="7" colname="col7" colwidth="16mm"/>
+<colspec colnum="8" colname="col8" colwidth="16mm"/>
+<colspec colnum="9" colname="col9" colwidth="16mm"/>
+<colspec colnum="10" colname="col10" colwidth="18mm"/>
+<colspec colnum="11" colname="col11" colwidth="18mm"/>
+<colspec colnum="12" colname="col12" colwidth="16mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col4" align="left" valign="top">Botulinum toxin solution</entry>
+<entry namest="col5" nameend="col11" align="left" valign="top">Mortality rate (%)</entry>
+<entry morerows="2" valign="middle">Stability</entry></row>
+<row>
+<entry namest="col1" nameend="col3" align="left" valign="top">Liquid composition for stabilizing botulinum toxin</entry>
+<entry morerows="1" valign="middle">Toxin (U/mL)</entry>
+<entry morerows="1" valign="middle">0 week</entry>
+<entry morerows="1" valign="middle">2<sup>nd</sup> week</entry>
+<entry morerows="1" valign="middle">4<sup>th</sup> week</entry>
+<entry morerows="1" valign="middle">6<sup>th</sup> week</entry>
+<entry morerows="1" valign="middle">8<sup>th</sup> week</entry>
+<entry morerows="1" valign="middle">10<sup>th</sup> week</entry>
+<entry morerows="1" valign="middle">12<sup>th</sup> week</entry></row>
+<row>
+<entry valign="top">Methionine (mM)</entry>
+<entry valign="top">Serine (mM)</entry>
+<entry valign="top">Polysorbate 80 (mg/mL)</entry></row></thead>
+<tbody>
+<row>
+<entry>0.4</entry>
+<entry>5</entry>
+<entry>2</entry>
+<entry morerows="3" valign="middle">40</entry>
+<entry>100</entry>
+<entry>100</entry>
+<entry>70</entry>
+<entry>70</entry>
+<entry>80</entry>
+<entry>70</entry>
+<entry>70</entry>
+<entry>△</entry></row>
+<row>
+<entry>0.4</entry>
+<entry>15</entry>
+<entry>2</entry>
+<entry>100</entry>
+<entry>100</entry>
+<entry>80</entry>
+<entry>90</entry>
+<entry>80</entry>
+<entry>80</entry>
+<entry>70</entry>
+<entry>△</entry></row>
+<row>
+<entry>0.4</entry>
+<entry>50</entry>
+<entry>2</entry>
+<entry>100</entry>
+<entry>100</entry>
+<entry>80</entry>
+<entry>80</entry>
+<entry>90</entry>
+<entry>80</entry>
+<entry>80</entry>
+<entry>○</entry></row>
+<row>
+<entry namest="col1" nameend="col3" align="left" valign="middle">Methionine 20mM, Polysorbate 20 2mg/mL</entry>
+<entry valign="middle">100</entry>
+<entry valign="middle">100</entry>
+<entry valign="middle">80</entry>
+<entry valign="middle">90</entry>
+<entry valign="middle">80</entry>
+<entry valign="middle">60</entry>
+<entry valign="middle">60</entry>
+<entry valign="middle">△</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0074" num="0074">As a result, as shown in Table 4 and <figref idref="f0003">FIG. 3</figref>, it can be seen that the stability of the botulinum toxin solution was improved by the combination of methionine, serine and polysorbate 80 in all formulations, compared with a control.<!-- EPO <DP n="24"> --></p>
+<p id="p0075" num="0075">It should be understood by those of ordinary skill in the art that the above description of the present invention is exemplary, and the exemplary embodiments disclosed herein can be easily modified into other specific forms without departing from the technical spirit or essential features of the present invention. Therefore, the exemplary embodiments described above should be interpreted as illustrative and not limited in any aspect.</p>
+<heading id="h0016">[Industrial Applicability]</heading>
+<p id="p0076" num="0076">Polysorbate 80 and serine according to the present invention are expected to be effectively used in a composition for improving the stability and ease of administration of liquid botulinum toxin.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="25"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A liquid composition for stabilizing botulinum toxin, comprising polysorbate 80 and serine as active ingredients.</claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The composition of claim 1, wherein the composition ratio of polysorbate 80 : serine is 1 (mg/mL): 5 (mM) or more.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The composition of claim 1, further comprising methionine.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The composition of claim 3, wherein the composition ratio of polysorbate 80 : serine: methionine is 1 (mg/mL): 5 to 50 (mM) : 0.2 (mM).</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>A pharmaceutical composition in liquid formulation, comprising the liquid composition for stabilizing botulinum toxin of any one of claims 1 to 4; and botulinum toxin as active ingredients.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The pharmaceutical composition of claim 5, wherein the concentration of polysorbate 80 is 0.001 mg or more per 40 units of the botulinum toxin.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The pharmaceutical composition of claim 5, wherein the concentration of serine is 5 mM or more per 40 units of the botulinum toxin.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text><!-- EPO <DP n="26"> --> The pharmaceutical composition of claim 5, wherein the concentration of methionine is less than 0.5 mM per 40 units of the botulinum toxin.</claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>The pharmaceutical composition of claim 5, wherein the botulinum toxin is selected from the group consisting of botulinum type A, B, C, D, E, F and G.</claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>The pharmaceutical composition of claim 5, wherein the botulinum toxin is a form that does not contain a complexing protein or a complex form that contains a complexing protein.</claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>A method for stabilizing botulinum toxin, comprising:<br/>
+mixing a liquid composition comprising polysorbate 80 and serine with botulinum toxin.</claim-text></claim>
+<claim id="c-en-0012" num="0012">
+<claim-text>A use of a liquid composition comprising polysorbate 80 and serine for stabilizing botulinum toxin.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="27"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="135" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="28"> -->
+<figure id="f0002" num="2"><img id="if0002" file="imgf0002.tif" wi="109" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="29"> -->
+<figure id="f0003" num="3"><img id="if0003" file="imgf0003.tif" wi="123" he="233" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="157" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="157" he="233" type="tif"/><doc-page id="srep0003" file="srep0003.tif" wi="157" he="233" type="tif"/><doc-page id="srep0004" file="srep0004.tif" wi="157" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="KR1020180151983"><document-id><country>KR</country><doc-number>1020180151983</doc-number><date>20181130</date></document-id></patcit><crossref idref="pcit0001">[0002]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="KR1020190101723"><document-id><country>KR</country><doc-number>1020190101723</doc-number><date>20190820</date></document-id></patcit><crossref idref="pcit0002">[0002]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="KR100799400"><document-id><country>KR</country><doc-number>100799400</doc-number></document-id></patcit><crossref idref="pcit0003">[0013]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="KR100665469"><document-id><country>KR</country><doc-number>100665469</doc-number></document-id></patcit><crossref idref="pcit0004">[0014]</crossref></li>
+<li><patcit id="ref-pcit0005" dnum="US20070134199"><document-id><country>US</country><doc-number>20070134199</doc-number></document-id></patcit><crossref idref="pcit0005">[0015]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="s"><article><author><name>PEARCEL.B. et al.</name></author><atl>Measurement of Botulinum Toxin Activity: Evaluation of the Lethality Assay</atl><serial><sertitle>Toxicology and Applied Pharmacology</sertitle><pubdate><sdate>19940000</sdate><edate/></pubdate><vid>128</vid></serial><location><pp><ppf>69</ppf><ppl>77</ppl></pp></location></article></nplcit><crossref idref="ncit0001">[0037]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

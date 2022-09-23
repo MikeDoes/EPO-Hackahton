@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP18941471A1" file="EP18941471NWA1.xml" lang="en" country="EP" doc-number="3889317" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3889317</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>18941471.7</B210><B220><date>20181129</date></B220><B240><B241><date>20210610</date></B241></B240><B250>ja</B250><B251EP>en</B251EP><B260>en</B260></B200><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>C23C  20/04        20060101AFI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>H01L  21/52        20060101ALI20200605BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cset><classification-cset group-number="1"><classification-cpc rank="1"><text>H01L2224/48091     20130101 LA20200715BHEP        </text></classification-cpc><classification-cpc rank="2"><text>H01L2924/00014     20130101 LA20200715BHEP        </text></classification-cpc></classification-cset><classification-cset group-number="2"><classification-cpc rank="1"><text>H01L2924/181       20130101 LA20200715BHEP        </text></classification-cpc><classification-cpc rank="2"><text>H01L2924/00012     20130101 LA20200715BHEP        </text></classification-cpc></classification-cset></classifications-cset><classifications-cpc><classification-cpc sequence="1"><text>C23C  20/04        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>H01L2224/29347     20130101 LA20200715BHEP        </text></classification-cpc><classification-cpc sequence="3"><text>H01L2224/40225     20130101 LA20200715BHEP        </text></classification-cpc><classification-cpc sequence="4"><text>H01L2224/48091     20130101 LA20200715BHEP        </text></classification-cpc><classification-cpc sequence="5"><text>H01L2224/48227     20130101 LA20200715BHEP        </text></classification-cpc><classification-cpc sequence="6"><text>H01L2224/73265     20130101 LA20200715BHEP        </text></classification-cpc><classification-cpc sequence="7"><text>H01L2224/92247     20130101 LA20200715BHEP        </text></classification-cpc><classification-cpc sequence="8"><text>H01L2924/181       20130101 LA20200715BHEP        </text></classification-cpc><classification-cpc sequence="9"><text>H01L  21/52        20130101 LI20200626BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>VERFAHREN ZUR HERSTELLUNG EINES VERBUNDENEN OBJEKTS UND HALBLEITERBAUELEMENT UND KUPFERVERBINDUNGSPASTE</B542><B541>en</B541><B542>METHOD FOR PRODUCING BONDED OBJECT AND SEMICONDUCTOR DEVICE AND COPPER BONDING PASTE</B542><B541>fr</B541><B542>PROCÉDÉ DE FABRICATION D'OBJET COLLÉ ET DISPOSITIF SEMI-CONDUCTEUR ET PÂTE DE COLLAGE DE CUIVRE</B542></B540><B590><B598>2</B598></B590></B500><B700><B710><B711><snm>Showa Denko Materials Co., Ltd.</snm><iid>101874244</iid><irf>37698EP/ss</irf><adr><str>9-2, Marunouchi 1-chome 
+Chiyoda-ku</str><city>Tokyo 100-6606</city><ctry>JP</ctry></adr></B711></B710><B720><B721><snm>KAWANA Yuki</snm><adr><str>c/o Hitachi Chemical Company, Ltd., 9-2,  
+Marunouchi 1-chome, Chiyoda-ku</str><city>Tokyo 100-6606</city><ctry>JP</ctry></adr></B721><B721><snm>NAKAKO Hideo</snm><adr><str>c/o Hitachi Chemical Company, Ltd., 9-2,  
+Marunouchi 1-chome, Chiyoda-ku</str><city>Tokyo 100-6606</city><ctry>JP</ctry></adr></B721><B721><snm>NEGISHI Motohiro</snm><adr><str>c/o Hitachi Chemical Company, Ltd., 9-2,  
+Marunouchi 1-chome, Chiyoda-ku</str><city>Tokyo 100-6606</city><ctry>JP</ctry></adr></B721><B721><snm>SUGAMA Chie</snm><adr><str>c/o Hitachi Chemical Company, Ltd., 9-2,  
+Marunouchi 1-chome, Chiyoda-ku</str><city>Tokyo 100-6606</city><ctry>JP</ctry></adr></B721><B721><snm>EJIRI Yoshinori</snm><adr><str>c/o Hitachi Chemical Company, Ltd., 9-2,  
+Marunouchi 1-chome, Chiyoda-ku</str><city>Tokyo 100-6606</city><ctry>JP</ctry></adr></B721><B721><snm>YANAKA Yuichi</snm><adr><str>c/o Hitachi Chemical Company, Ltd., 9-2,  
+Marunouchi 1-chome, Chiyoda-ku</str><city>Tokyo 100-6606</city><ctry>JP</ctry></adr></B721></B720><B740><B741><snm>Beckmann, Claus</snm><iid>100057330</iid><adr><str>Kraus &amp; Weisert 
+Patentanwälte PartGmbB 
+Thomas-Wimmer-Ring 15</str><city>80539 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>JP2018044068</anum></dnum><date>20181129</date></B861><B862>ja</B862></B860><B870><B871><dnum><pnum>WO2020110271</pnum></dnum><date>20200604</date><bnum>202023</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">An embodiment of the present invention provides a method for producing a bonded object. The method comprises a step for preparing a laminate in which a first member, a copper bonding paste, and a second member are laminated in order and a step for sintering the copper bonding paste under a pressure of 0.1-1 MPa. The copper bonding paste contains metal particles and a dispersion medium, wherein the content of metal particles is at 50 mass% or more with respect to the total mass of the copper bonding paste, and the metal particles contain 95 mass% or more of submicro copper particles with respect to the total mass of the metal particles.<img id="iaf01" file="imgaf001.tif" wi="78" he="74" img-content="drawing" img-format="tif"/></p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">[Technical Field]</heading>
+<p id="p0001" num="0001">The present invention relates to a method for producing a bonded object and a semiconductor device, and a copper bonding paste.</p>
+<heading id="h0002">[Background Art]</heading>
+<p id="p0002" num="0002">When semiconductor devices are produced, various bonding materials are used to bond a semiconductor element and a lead frame or the like (support member). Among semiconductor devices, high melting point lead solder has been used as a bonding material for bonding power semiconductors, LSIs, and the like that operate at a high temperature of 150°C or higher. In recent years, due to an increased capacity and space saving of semiconductor elements, the operation temperature has risen to near the melting point of high melting point lead solder, and it has become difficult to secure connection reliability. On the other hand, lead-free bonding materials are required according to tightening of RoHS regulations.</p>
+<p id="p0003" num="0003">So far, bonding of semiconductor elements using a material other than lead solder has been studied. For example, the following Patent Literature 1 proposes a technology for sintering silver nanoparticles at a low temperature and forming a sintered silver layer. It is known that such sintered silver has high connection reliability for power cycles (Non-Patent Literature 1).</p>
+<p id="p0004" num="0004">A technology for sintering copper particles as still another material and forming<!-- EPO <DP n="2"> --> a sintered copper layer is also proposed. For example, the following Patent Literature 2 discloses a bonding paste containing copper (II) oxide particles and a reducing agent as a bonding material for bonding a semiconductor element and an electrode. In addition, the following Patent Literature 3 discloses a bonding material containing copper nanoparticles, and copper microparticles or copper submicro particles, or a bonding material containing both of them.</p>
+<heading id="h0003">[Citation List]</heading>
+<heading id="h0004">[Patent Literature]</heading>
+<heading id="h0005">[Patent Literature 1]</heading>
+<p id="p0005" num="0005"><patcit id="pcit0001" dnum="JP4928639B"><text>Japanese Patent No. 4928639</text></patcit></p>
+<heading id="h0006">[Patent Literature 2]</heading>
+<p id="p0006" num="0006"><patcit id="pcit0002" dnum="JP5006081B"><text>Japanese Patent No. 5006081</text></patcit></p>
+<heading id="h0007">[Patent Literature 3]</heading>
+<p id="p0007" num="0007"><patcit id="pcit0003" dnum="JP2014167145A"><text>Japanese Patent Laid-Open No. 2014-167145</text></patcit></p>
+<heading id="h0008">[Non-Patent Literature]</heading>
+<heading id="h0009">[Non-Patent Literature 1]</heading>
+<p id="p0008" num="0008"><nplcit id="ncit0001" npl-type="s"><text>R. Khazaka, L. Mendizabal, D. Henry: J. ElecTron. Mater, 43 (7), 2014, 2459-2466</text></nplcit></p>
+<heading id="h0010">[Summary of Invention]</heading>
+<heading id="h0011">[Technical Problem]</heading>
+<p id="p0009" num="0009">The method described in Patent Literature 1 requires a thermocompression bonding process according to pressurization because densification of a sintered silver<!-- EPO <DP n="3"> --> layer is essential in order to obtain high connection reliability. In Patent Literature 1, pressurization is performed at 5 MPa, pressurization by a thermal pressurizing device is required, and when such a thermocompression bonding process is performed, there are problems such as a decrease in production efficiency and a decrease in the yield. In addition, when silver nanoparticles are used, there is a problem such as a significant increase in material costs due to silver.</p>
+<p id="p0010" num="0010">In the method described in Patent Literature 2, the volumetric shrinkage when copper oxide is reduced to copper is avoided according to the thermocompression bonding process. In the thermocompression bonding process, the volumetric shrinkage in the thickness direction when copper oxide is reduced to copper can be avoided, but copper oxide particles themselves shrink in volume when reduced to copper. Thereby, it is difficult to minimize volumetric shrinkage in the surface direction and cracks in the bonding layer formed of a sintered copper layer can be a problem.</p>
+<p id="p0011" num="0011">In the method described in Patent Literature 3, sintering is performed without pressurization, but it is not yet sufficient for practical use in the following aspects. That is, it is necessary to modify the surface of copper nanoparticles with a protecting agent in order to minimize oxidation and improve dispersibility. However, since the copper nanoparticles have a large specific surface area, the amount of the surface protecting agent added tends to be high in the bonding material containing copper nanoparticles as a main component. In addition, in order to secure dispersibility, the amount of the dispersion medium added tends to be high. Therefore, for the bonding material described in Patent Literature 3, the proportion of the surface protecting agent or the dispersion medium required is high for stability such as in storage or coating.<br/>
+<!-- EPO <DP n="4"> -->Therefore, the volumetric shrinkage during sintering tends to be high, denseness after sintering tends to be low, and it is difficult to secure strength for a sintered object.</p>
+<p id="p0012" num="0012">An objective of the present invention is to provide a method for producing a bonded object and a method for producing a semiconductor device through which a bonded object having excellent bonding strength can be obtained without the need for bonding at a high pressure. Another objective of the present invention is to provide a copper bonding paste having excellent applicability suitable for the production method.</p>
+<heading id="h0012">[Solution to Problem]</heading>
+<p id="p0013" num="0013">The present invention provides a method for producing a bonded object including a step of preparing a laminate in which a first member, a copper bonding paste, and a second member are laminated in order and a step of sintering the copper bonding paste under a pressure of 0.1 to 1 MPa, wherein the copper bonding paste contains metal particles and a dispersion medium, the content of the metal particles with respect to a total mass of the copper bonding paste is 50 mass% or more, and the metal particles contain 95 mass% or more of submicro copper particles with respect to a total mass of the metal particles.</p>
+<p id="p0014" num="0014">The present invention also provides a method for producing a semiconductor device including a step of preparing a laminate in which a first member, a copper bonding paste, and a second member are laminated in order and a step of sintering the copper bonding paste under a pressure of 0.1 to 1 MPa, wherein at least one of the first member and the second member is a semiconductor element, the copper bonding paste contains metal particles and a dispersion medium, the content of the metal particles with<!-- EPO <DP n="5"> --> respect to a total mass of the copper bonding paste is 50 mass% or more, and the metal particles contain 95 mass% or more of submicro copper particles with respect to a total mass of the metal particles.</p>
+<p id="p0015" num="0015">According to the method for producing a bonded object and the method for producing a semiconductor device of the present invention, it is possible to obtain a bonded object and a semiconductor device which have excellent bonding strength without the need to perform bonding at a high pressure by using a special thermal pressurizing device or the like. The reason why such an effect is obtained is considered to be that, when submicro copper particles are used for the copper bonding paste, it is possible to sufficiently minimize volumetric shrinkage during sintering due to the surface protecting agent of the submicro copper particles and/or the dispersion medium of the copper bonding paste. It is considered that, since the volumetric shrinkage during sintering is minimized, the copper bonding paste can be sintered at a high temperature, and as a result, it is possible to secure the strength of the sintered object and improve the bonding strength with respect to an adherend surface. In addition, according to the production method, it is possible to produce a bonded object and a semiconductor device more inexpensively and stably compared to when a bonding material containing expensive copper nanoparticles as a main component is used. Thereby, it is possible to further improve the production stability.</p>
+<p id="p0016" num="0016">In addition, when the bonded object produced by the production method of the present invention includes a copper sintered object having excellent thermal conductivity, heat dissipation of the member can also be excellent.</p>
+<p id="p0017" num="0017"><!-- EPO <DP n="6"> --> In addition, the semiconductor device obtained by the production method of the present invention has sufficient bonding strength, and when it includes a copper sintered object having high thermal conductivity and a high melting point, it has sufficient die shear strength, and excellent connection reliability and also has excellent power cycle resistance.</p>
+<p id="p0018" num="0018">The present invention also provides a copper bonding paste containing metal particles and a dispersion medium, wherein the content of the metal particles with respect to a total mass of the copper bonding paste is 50 mass% or more, and wherein the metal particles contain 95 mass% or more of submicro copper particles with respect to a total amount of the metal particles.</p>
+<p id="p0019" num="0019">Since the copper bonding paste is unlikely to undergo volumetric shrinkage during sintering, it is possible to produce a bonded object having excellent bonding strength without performing pressurization at a high pressure.</p>
+<p id="p0020" num="0020">The metal particles may contain 5 mass% or less of micro copper particles with respect to a total mass of the metal particles.</p>
+<p id="p0021" num="0021">In the copper bonding paste, the viscosity of the copper bonding paste at 25°C may be 0.8 to 40,000 Pa·s. Thereby, it is possible to obtain a bonded object or a semiconductor device having excellent strength while facilitating production according to applications.</p>
+<p id="p0022" num="0022"><!-- EPO <DP n="7"> --> In the copper bonding paste, the dispersion medium may be at least one selected from the group consisting of alcohols and ethers. Thereby, the applicability of the copper bonding paste can be further improved.</p>
+<p id="p0023" num="0023">In the copper bonding paste, the aspect ratio of the submicro copper particles may be 5 or less. Thereby, it is possible to prevent submicro particles from being arranged in a non-uniform direction during the pressurizing step and it is possible to minimize the occurrence of voids in the bonded object.</p>
+<heading id="h0013">[Advantageous Effects of Invention]</heading>
+<p id="p0024" num="0024">According to the present invention, it is possible to provide a method for producing a bonded object and a method for producing a semiconductor device through which a bonded object having excellent bonding strength can be obtained without the need for bonding at a high pressure. According to the present invention, it is also possible to provide a copper bonding paste having excellent applicability suitable for the production method.</p>
+<heading id="h0014">[Brief Description of Drawings]</heading>
+<p id="p0025" num="0025">
+<ul id="ul0001" list-style="none" compact="compact">
+<li><figref idref="f0001">Fig. 1</figref> is a schematic cross-sectional view for explaining a method for producing a bonded object according to one embodiment.</li>
+<li><figref idref="f0002">Fig. 2</figref> is a schematic cross-sectional view for explaining a method for producing a semiconductor device according to one embodiment.</li>
+<li><figref idref="f0003">Fig. 3</figref> is an SEM image of a cross section of a bonded object of Example 1.</li>
+<li><figref idref="f0004">Fig. 4</figref> is an SEM image of a cross section of a bonded object of Example 2.</li>
+<li><figref idref="f0005">Fig. 5</figref> is an SEM image of a cross section of a bonded object of Comparative</li>
+</ul><!-- EPO <DP n="8"> --></p>
+<heading id="h0015">Example 3.</heading>
+<heading id="h0016">[Description of Embodiments]</heading>
+<p id="p0026" num="0026">A form for implementing the present invention (hereinafter referred to as "the present embodiment") will be described below in detail appropriately with reference to the drawings. The present invention is not limited to the following embodiment.</p>
+<heading id="h0017">&lt;Method for producing bonded object&gt;</heading>
+<p id="p0027" num="0027"><figref idref="f0001">Fig. 1</figref> is a schematic cross-sectional view for explaining a method for producing a bonded object according to one embodiment. The method for producing a bonded object according to one embodiment includes a step of preparing a laminate in which a first member, a copper bonding paste, and a second member are laminated in order (preparation step) and step of sintering the copper bonding paste under a pressure of 0.1 to 1 MPa (sintering step).</p>
+<heading id="h0018">[Preparation step]</heading>
+<p id="p0028" num="0028">In one embodiment, the preparation step may be a step of producing a laminate. In the preparation step, first, as shown in <figref idref="f0001">Fig. 1(a)</figref>, a first member 2 and a second member 3 are prepared.</p>
+<heading id="h0019">(First member and second member)</heading>
+<p id="p0029" num="0029">Regarding the first member 2 and the second member 3, for example, semiconductor elements such as an IGBT, a diode, a Schottky barrier diode, an MOSFET, a thyristor, a logic, a sensor, an analog integrated circuit, an LED, a semiconductor laser, and a transmitter, base materials for mounting semiconductor elements such as a<!-- EPO <DP n="9"> --> lead frame, a ceramic substrate with a metal plate attached (for example, DBC), and an LED package, power supply members such as a copper ribbon, a metal block, and a terminal, a heat dissipation plate, and a water cooling plate may be exemplified.</p>
+<p id="p0030" num="0030">The first member 2 and the second member 3 may contain a metal on surfaces 2a and 3a in contact with a copper bonding paste to be described below. Examples of metals include copper, nickel, silver, gold, palladium, platinum, lead, tin, and cobalt. The metals may be used alone or two or more thereof may be used in combination. In addition, the surfaces 2a and 3a in contact with the copper bonding paste may contain an alloy containing the above metal. Examples of metals used for the alloy include zinc, manganese, aluminum, beryllium, titanium, chromium, iron, and molybdenum in addition to the above metals. Examples of members containing a metal on the surface in contact with a sintered object include a member having various metal platings, a wire, a chip having a metal plating, a heat spreader, a ceramic substrate to which a metal plate is attached, a lead frame having various metal platings or a lead frame made of various metals, a copper plate, and a copper foil.</p>
+<p id="p0031" num="0031">Next, as shown in <figref idref="f0001">Fig. 1(b)</figref>, a copper bonding paste 1 is disposed between the first member 2 and the second member 3, and as shown in <figref idref="f0001">Fig. 1(c)</figref>, a laminate 4 in which the first member 2, the copper bonding paste 1, and the second member 3 are laminated in order is produced. The copper bonding paste 1 will be described below in detail.</p>
+<p id="p0032" num="0032">In order to produce the laminate 4, for example, as shown in <figref idref="f0001">Fig. 1(b)</figref>, the copper bonding paste 1 is provided on a necessary part of the second member 3, and the<!-- EPO <DP n="10"> --> first member 2 is then disposed on the copper bonding paste 1. The method for producing the laminate 4 is not limited to the method shown in <figref idref="f0001">Fig. 1(b)</figref>, and the copper bonding paste 1 may be provided on a necessary part of the first member 2, and the first member 2 on which the copper bonding paste 1 is provided may be disposed on the second member 3.</p>
+<p id="p0033" num="0033">Regarding a method for providing the copper bonding paste 1 on a necessary part of the second member 3 or the first member 2, any method may be used as long as the copper bonding paste can be deposited. For such a method, for example, screen printing, transfer printing, offset printing, a jet printing method, a dispenser, a jet dispenser, a needle dispenser, a comma coater, a slit coater, a die coater, a gravure coater, a slit coater, letterpress printing, intaglio printing, gravure printing, stencil printing, soft lithography, a bar coater, an applicator, a particle deposition method, a spray coater, a spin coater, a dip coater, electrodeposition coating, and the like can be used.</p>
+<p id="p0034" num="0034">The thickness of the copper bonding paste 1 may be 1 µm or more and 1,000 µm or less, 10 µm or more and 500 µm or less, 50 µm or more and 200 µm or less, 10 µm or more and 3,000 µm or less, 15 µm or more and 500 µm or less, 20 µm or more and 300 µm or less, 5 µm or more and 500 µm or less, 10 µm or more and 250 µm or less, or 15 µm or more and 150 µm or less.</p>
+<p id="p0035" num="0035">For a method for disposing the first member 2 on the copper bonding paste 1 or a method for disposing the first member 2 on which the copper bonding paste 1 is provided on the second member 3, for example, a chip mounter, a flip chip bonder, or a carbon or ceramic positioning jig may be used.<!-- EPO <DP n="11"> --></p>
+<heading id="h0020">(Copper bonding paste)</heading>
+<p id="p0036" num="0036">The copper bonding paste 1 contains metal particles and a dispersion medium.</p>
+<p id="p0037" num="0037">The metal particles contain 95 mass% or more of submicro copper particles with respect to a total mass of the metal particles. Since submicro copper particles have favorable sinterability, it is thereby possible to mitigate problems such as high synthesis costs, and poor dispersibility, and to reduce the volumetric shrinkage after sintering, which are observed in a bonding material mainly using copper nanoparticles.</p>
+<p id="p0038" num="0038">In this specification, the submicro copper particles are copper particles having a volume average particle size of 0.12 µm or more and 0.8 µm or less.</p>
+<p id="p0039" num="0039">Here, in this specification, the volume average particle size means a 50% volume average particle size. When the volume average particle size of copper particles is determined, a method of measuring a sample obtained by dispersing copper particles as a raw material or dry copper particles obtained by removing volatile components from a copper bonding paste in a dispersion medium using a dispersant using a light scattering method particle size distribution measuring device (for example, a nanoparticle size distribution measuring device (SALD-7500 nano, commercially available from Shimadzu Corporation)) can be used for determination. When a light scattering method particle size distribution measuring device is used, hexane, toluene, α-terpineol, pure water, or the like can be used as the dispersion medium.</p>
+<p id="p0040" num="0040"><!-- EPO <DP n="12"> --> In order to obtain effects such as reduction in synthesis costs of submicro copper particles, favorable dispersibility, and reduction in the amount of a surface treatment agent used, the volume average particle size of the submicro copper particles is preferably 0.15 µm or more, more preferably 0.2 µm or more, still more preferably 0.2 µm or more, and particularly preferably 0.3 µm or more, and in order to improve sinterability of the submicro copper particles, the volume average particle size is preferably 0.6 µm or less, more preferably 0.5 µm or less, and still more preferably 0.45 µm or less.</p>
+<p id="p0041" num="0041">The average secondary particle size of the submicro copper particles may be 0.12 µm or more or 0.15 µm or more and may be 0.8 µm or less. The average secondary particle size of the submicro copper particles in this specification is the maximum particle size, and is obtained, for example, by a method of observing submicro copper particles or dry copper particles obtained by removing volatile components from the copper bonding paste 1 under a scanning electron microscope (SEM).</p>
+<p id="p0042" num="0042">When the shape of submicro copper particles is not spherical, the average secondary particle size (maximum particle size) can be determined by the following method. That is, copper particle powder is placed on an SEM carbon tape with a spatula to prepare an SEM sample. This SEM sample is observed at a magnification of 10,000 using an SEM device. A rectangle circumscribing the copper particles in the SEM image is drawn by image processing software, and the long side of the rectangle is defined as the major axis of the particles. The major axis represents the maximum particle size.</p>
+<p id="p0043" num="0043"><!-- EPO <DP n="13"> --> The shape of the submicro copper particles is not particularly limited. Examples of the shape of the submicro copper particles includes a spherical shape, a lump shape, a needle shape, a flake shape, a substantially spherical shape and an aggregate thereof. In consideration of dispersibility and fillability, the shape of the submicro copper particles may be a spherical shape, a substantially spherical shape, or a flake shape. The submicro copper particles preferably have a spherical shape or a substantially spherical shape in order to minimize the occurrence of voids when the copper bonding paste is sintered. In this specification, the term "flake shape" includes a flat plate shape such as a plate shape and a scale shape.</p>
+<p id="p0044" num="0044">The aspect ratio of the submicro copper particles is preferably 5 or less in consideration of dispersibility and fillability and in order to minimize the occurrence of voids after sintering. Also in consideration of this, the aspect ratio of the submicro copper particles is more preferably 3 or less, and still more preferably 1.5 or less. In this specification, the "aspect ratio" indicates the long side/thickness of the particles. The long side and the thickness of the particles can be measured from, for example, an SEM image of the submicro copper particles.</p>
+<p id="p0045" num="0045">The submicro copper particles may be treated with a specific surface treatment agent. Examples of surface treatment agents include an organic acid having 8 to 16 carbon atoms. Examples of organic acids having 8 to 16 carbon atoms include saturated fatty acids such as caprylic acid, methylheptanic acid, ethylhexanoic acid, propylpentanoic acid, pelargonic acid, methyloctanoic acid, ethylheptanic acid, propyl hexanoic acid, capric acid, methylnonanoic acid, ethyloctanoic acid, propylheptanic acid, butylhexanic acid, undecanoic acid, methyldecanoic acid, ethylnonanoic acid,<!-- EPO <DP n="14"> --> propyloctanoic acid, butylheptanic acid, lauric acid, methylundecanoic acid, ethyldecanoic acid, propylnonanoic acid, butyloctanoic acid, pentylheptanic acid, tridecanoic acid, methyldodecanoic acid, ethylundecanoic acid, propyldecanoic acid, butylnonanoic acid, pentyloctanoic acid, myristic acid, methyltridecanoic acid, ethyl dodecanoic acid, propylundecanoic acid, butyldecanoic acid, pentylnonanoic acid, hexyloctanoic acid, pentadecanoic acid, methyltetradecanoic acid, ethyltridecanoic acid, propyldodecanoic acid, butylundecanoic acid, pentyldecanoic acid, hexylnonanoic acid, palmitic acid, methylpentadecane acid, ethyltetradecanoic acid, propyltridecanoic acid, butyldodecanoic acid, pentylundecanoic acid, hexyldecanoic acid, heptylnonanoic acid, methylcyclohexanecarboxylic acid, ethylcyclohexanecarboxylic acid, propylcyclohexanecarboxylic acid, butylcyclohexanecarboxylic acid, pentylcyclohexanecarboxylic acid, hexylcyclohexanecarboxylic acid, heptylcyclohexanecarboxylic acid, octylcyclohexanecarboxylic acid, and nonylcyclohexanecarboxylic acid; unsaturated fatty acids such as octenoic acid, nonenoic acid, methyl nonenoic acid, decenoic acid, undecenoic acid, dodecenoic acid, tridecenoic acid, tetradecenoic acid, myristoleic acid, pentadecenoic acid, hexadecenoic acid, palmitoleic acid, and sapienic acid; and aromatic carboxylic acids such as terephthalic acid, pyromellitic acid, o-phenoxybenzoic acid, methylbenzoic acid, ethylbenzoic acid, propylbenzoic acid, butylbenzoic acid, pentylbenzoic acid, hexylbenzoic acid, heptylbenzoic acid, octylbenzoic acid, and nonylbenzoic acid. These organic acids may be used alone or two or more thereof may be used in combination. When such an organic acid and the submicro copper particles are combined, there is a tendency for both dispersibility of the submicro copper particles and desorption of the organic acid during sintering to be achieved.</p>
+<p id="p0046" num="0046"><!-- EPO <DP n="15"> --> The treatment amount of the surface treatment agent may be an amount of one-molecule layer to three-molecule layer attached to the surface of the submicro copper particles. This amount can be calculated from the number of molecular layers (n) attached to the surface of the submicro copper particles, a specific surface area (A<sub>p</sub>) (unit m<sup>2</sup>/g) of the submicro copper particles, a molecular weight (M<sub>s</sub>) (unit g/mol) of the surface treatment agent, a minimum coverage area (S<sub>S</sub>) (unit m<sup>2</sup>/pieces) of the surface treatment agent, and Avogadro's number (N<sub>A</sub>) (6.02×10<sup>23</sup>). Specifically, the treatment amount of the surface treatment agent is calculated according to the formula of treatment amount (mass%) of surface treatment agent={(n·A<sub>p</sub>·M<sub>s</sub>)/(S<sub>S</sub>·N<sub>A</sub>+n·A<sub>p</sub>·M<sub>s</sub>)}×100%.</p>
+<p id="p0047" num="0047">The specific surface area of the submicro copper particles can be calculated by measuring the dried submicro copper particles by a BET specific surface area measurement method. The minimum coverage area of the surface treatment agent is 2.05×10<sup>-19</sup> m<sup>2</sup>/1 molecule when the surface treatment agent is a linear saturated fatty acid. For example, the minimum coverage area of other surface treatment agents can be computed from a molecular model or measured by a method described in "<nplcit id="ncit0002" npl-type="s"><text>Chemistry and Education" (Katsuhiro Ueda, Sumio Inafuku, and Iwao Mori, 40 (2), 1992, pp 114-117</text></nplcit>). An example of a method for quantifying a surface treatment agent is shown. The surface treatment agent can be identified by thermal desorption gas/gas chromatography mass spectrometry of dry powder obtained by removing the dispersion medium from the copper bonding paste, and thereby the number of carbon atoms and the molecular weight of the surface treatment agent can be determined. A carbon content proportion of the surface treatment agent can be analyzed by carbon content analysis. Examples of carbon content analysis methods include a high frequency induction heating furnace combustion/infrared absorption method. The amount of the surface treatment agent can<!-- EPO <DP n="16"> --> be calculated from the identified number of carbon atoms and molecular weight of the surface treatment agent and the carbon content proportion according to the above formula.</p>
+<p id="p0048" num="0048">The treatment amount of the surface treatment agent may be 0.07 mass% or more and 2.1 mass% or less, 0.10 mass% or more and 1.6 mass% or less, or 0.2 mass% or more and 1.1 mass% or less.</p>
+<p id="p0049" num="0049">When the submicro copper particles are treated with a surface treatment agent, it is possible to further reduce the volumetric shrinkage during sintering and further increase the bonding strength compared with when copper particles (for example, cupric oxide (CuO), cuprous oxide (Cu<sub>2</sub>O)) of which surfaces are not treated are used. This is because the volumetric shrinkage during sintering due to the reduction in the dispersion medium and copper oxide is reduced. The content of carbon contained in the submicro copper particles is about 0.5 to 1 mass%, and the volumetric shrinkage during sintering is reduced. Thereby, even if volumetric shrinkage during sintering occurs due to the surface treatment agent, it is easy to secure the bonding strength in the bonded object.</p>
+<p id="p0050" num="0050">Regarding the submicro copper particles according to the present embodiment, commercially available particles can be used. Examples of commercially available submicro particles include CH-0200 (a volume average particle size of 0.36 µm, commercially available from Mitsui Mining &amp; Smelting Co., Ltd.), HT-14 (a volume average particle size of 0.41 µm, commercially available from Mitsui Mining &amp; Smelting Co., Ltd.), CT-500 (a volume average particle size of 0.72 µm, commercially available<!-- EPO <DP n="17"> --> from Mitsui Mining &amp; Smelting Co., Ltd.), and Tn-Cu100 (a volume average particle size of 0.12 µm, commercially available from Taiyo Nippon Sanso Corporation).</p>
+<p id="p0051" num="0051">In order to easily obtain a bonded object having excellent bonding strength without performing bonding at a high pressure and in order to further improve applicability of the copper bonding paste, the content of the submicro copper particles with respect to a total mass of the metal particles is 95 mass% or more. Also in consideration of this, the content of the submicro copper particles with respect to a total mass of the metal particles may be 96 mass% or more, 98 mass% or more or 99 mass% or more and may be 100 mass%. In particular, when the copper bonding paste is used for bonding a semiconductor element, if the content of the submicro copper particles is within the above range, a semiconductor device tends to exhibit favorable die shear strength and connection reliability.</p>
+<p id="p0052" num="0052">In order to easily obtain a bonded object having excellent bonding strength without performing bonding at a high pressure and in order to further improve applicability of the copper bonding paste, the content of the submicro copper particles based on a total amount of the copper bonding paste is preferably 40 mass% or more, more preferably 50 mass% or more, and still more preferably 70 mass% or more, and preferably 95 mass% or less, more preferably 92 mass% or less, and still more preferably 80 mass% or less.</p>
+<p id="p0053" num="0053">The metal particles may further include micro copper particles in addition to the submicro copper particles. In this specification, the micro copper particles are copper particles having a volume average particle size of 2 µm or more and 50 µm or less. A<!-- EPO <DP n="18"> --> method for measuring a volume average particle size is the same as the method for measuring submicro copper particles described above.</p>
+<p id="p0054" num="0054">In order to easily obtain a bonded object having excellent bonding strength without performing bonding at a high pressure and in order to further improve applicability of the copper bonding paste, the content of the micro copper particles with respect to a total mass of the metal particles is preferably 5 mass% or less, more preferably 3 mass% or less, and still more preferably 1 mass% or less. The metal particles may not include micro copper particles.</p>
+<p id="p0055" num="0055">The metal particles may include metal particles other than the above copper particles, and may include, for example, zinc, nickel, silver, gold, palladium, or platinum particles. The volume average particle size of the other metal particles may be 0.01 µm or more and 10 µm or less, 0.01 µm or more and 5 µm or less, or 0.05 µm or more and 3 µm or less. When other metal particles are contained, the content thereof with respect to a total mass of the metal particles may be 5 mass% or less, 3 mass% or less, or 1 mass% or less in order to obtain sufficient bondability. Other metal particles may not be included. The shape of other metal particles is not particularly limited.</p>
+<p id="p0056" num="0056">When metal particles other than copper particles are contained, since a sintered object in which a plurality of types of metals are solid-dissolved or dispersed can be obtained, mechanical properties such as yield stress and fatigue strength of the sintered object are improved, and connection reliability is likely to be improved. In addition, when a plurality of types of metals particles are added, the sintered object of the copper bonding paste 1 can have sufficient bonding strength with respect to a specific adherend.<!-- EPO <DP n="19"> --> When the copper bonding paste 1 is used for bonding a semiconductor element, the die shear strength and connection reliability of the semiconductor device are likely to be improved.</p>
+<p id="p0057" num="0057">In order to easily obtain a bonded object having excellent bonding strength without performing bonding at a high pressure and in order to further improve applicability of the copper bonding paste, the content of the metal particles with respect to a total mass of the copper bonding paste is 50 mass% or more. Also in consideration of this, the content of the metal particles with respect to a total mass of the copper bonding paste is preferably 60 mass% or more, more preferably 65 mass% or more, and still more preferably 70 mass% or more, and in order to further improve applicability of the copper bonding paste, the content of the metal particles is preferably 95 mass% or less, more preferably 90 mass% or less, still more preferably 85 mass% or less, and particularly preferably 80 mass% or less.</p>
+<p id="p0058" num="0058">The dispersion medium is not particularly limited, and may be volatile. Examples of volatile dispersion mediums include alcohols (monovalent and multivalent alcohols) such as pentanol, hexanol, heptanol, octanol, decanol, ethylene glycol, diethylene glycol, propylene glycol, butylene glycol, α-terpineol, and isobornylcyclohexanol (MTPH); ethers such as ethylene glycol butyl ether, ethylene glycol phenyl ether, diethylene glycol methyl ether, diethylene glycol ethyl ether, diethylene glycol monobutyl ether, diethylene glycol monoisobutyl ether, diethylene glycol hexylether, triethylene glycol methyl ether, diethylene glycol dimethyl ether, diethylene glycol diethyl ether, diethylene glycol dibutyl ether, diethylene glycol butyl methyl ether, diethylene glycol isopropyl methyl ether, triethylene glycol dimethyl ether,<!-- EPO <DP n="20"> --> triethylene glycol butyl methyl ether, propylene glycol propyl ether, dipropylene glycol methyl ether, dipropylene glycol ethyl ether, dipropylene glycol propyl ether, dipropylene glycol butyl ether, dipropylene glycol dimethyl ether, tripropylene glycol methyl ether, and tripropylene glycol dimethyl ether; esters such as ethylene glycol ethyl ether acetate, ethylene glycol butyl ether acetate, diethylene glycol ethyl ether acetate, diethylene glycol butyl ether acetate, dipropylene glycol methyl ether acetate (DPMA), ethyl lactate, butyl lactate, γ-butyrolactone, and propylene carbonate; acid amides such as N-methyl-2-pyrrolidone, N,N-dimethylacetamide, and N,N-dimethylformamide; aliphatic hydrocarbons such as cyclohexanone, octane, nonane, decane, and undecane; aromatic hydrocarbons such as benzene, toluene, and xylene; mercaptans having an alkyl group having 1 to 18 carbon atoms; and mercaptans having a cycloalkyl group having 5 to 7 carbon atoms. Examples of mercaptans having an alkyl group having 1 to 18 carbon atoms include ethyl mercaptan, n-propyl mercaptan, i-propyl mercaptan, n-butyl mercaptan, i-butyl mercaptan, t-butyl mercaptan, pentyl mercaptan, hexylmercaptan and dodecyl mercaptan. Examples of mercaptans having a cycloalkyl group having 5 to 7 carbon atoms include cyclopentyl mercaptan, cyclohexyl mercaptan and cycloheptyl mercaptan. The dispersion mediums may be used alone or two or more thereof may be used in combination.</p>
+<p id="p0059" num="0059">In order to further improve applicability of the copper bonding paste 1, the dispersion medium is preferably at least one selected from the group consisting of alcohols and ethers, and more preferably at least one selected from the group consisting of diethylene glycol monobutyl ether, α-terpineol, MTPH, and cyclohexanone. The dispersion medium may be a mixture containing diethylene glycol monobutyl ether and α-terpineol, or a mixture containing α-terpineol and MTPH.<!-- EPO <DP n="21"> --></p>
+<p id="p0060" num="0060">The content of the dispersion medium may be 5 to 50 parts by mass with respect to 100 parts by mass of the metal particles. When the content of the dispersion medium is within the above range, the copper bonding paste 1 can be adjusted so that it has a more appropriate viscosity and sintering of the copper particles can be less likely to be hindered.</p>
+<p id="p0061" num="0061">In order to further improve applicability of the copper bonding paste 1, the content of the dispersion medium with respect to a total mass of the copper bonding paste is preferably 5 mass% or more, more preferably 10 mass% or more, and still more preferably 20 mass% or more and preferably 70 mass% or less, more preferably 50 mass% or less, and still more preferably 30 mass% or less.</p>
+<p id="p0062" num="0062">In addition to the metal particles and the dispersion medium, as necessary, wettability improving agents such as a nonionic surfactant and a fluorine-based surfactant; antifoaming agents such as silicone oil; and ion trapping agents such as an inorganic ion exchanger may be appropriately added to the copper bonding paste 1. The above surface treatment agent may be added as an additive.</p>
+<p id="p0063" num="0063">In order to further improve the bonding strength of a bonded object 100, the viscosity of the copper bonding paste 1 at 25°C is preferably 0.8 Pa·s or more, more preferably 10 Pa·s or more, still more preferably 100 Pa·s or more, and particularly preferably 200 Pa·s or more, and in order to further improve applicability of the copper bonding paste 1, the viscosity is preferably 40,000 Pa·s or less, more preferably 30,000<!-- EPO <DP n="22"> --> Pa·s or less, still more preferably 10,000 Pa·s or less, and particularly preferably 1,000 Pa·s or less. The viscosity means Casson viscosity, and can be measured using a viscoelasticity measurement device. The viscosity of the copper bonding paste can be adjusted by adjusting the content of the metal particles and the dispersion medium or appropriately selecting the type of the dispersion medium.</p>
+<p id="p0064" num="0064">The above copper bonding paste 1 can be prepared, for example, by mixing the above submicro copper particles, and as necessary, other materials into a dispersion medium. The dispersion solution after respective components are mixed may be stirred. In the copper bonding paste 1, the maximum particle size of the dispersion solution may be adjusted by a classification operation. In this case, the maximum particle size of the dispersion solution can be 10 µm or less or 5 µm or less.</p>
+<p id="p0065" num="0065">When the copper bonding paste 1 contains metal particles other than the submicro copper particles, the submicro copper particles and the dispersion medium are mixed in advance, and subjected to a dispersion treatment to prepare a dispersion solution, and other metal particles and optional additives may be additionally mixed for preparation. According to such a procedure, an ability to mix other metal particles and optional additives is improved and the performance of the copper bonding paste is further improved. Aggregates may be removed by classifying the dispersion solution of the submicro copper particles.</p>
+<p id="p0066" num="0066">Examples of dispersion treatments include treatments using, for example, a thin-layer shear dispersing machine, a bead mill, an ultrasonic homogenizer, a high shear<!-- EPO <DP n="23"> --> mixer, a narrow gap three-roll mill, a wet atomizing device, a supersonic jet mill, an ultra-high pressure homogenizer, and a disparizer.</p>
+<p id="p0067" num="0067">The stirring treatment can be performed using a stirrer. Examples of stirrers include a rotation revolution type stirring device, a grinding machine, a twin-screw kneader, a three-roll mill, a planetary mixer, and a thin-layer shear dispersing machine. In addition, regarding the stirring treatment, a stirring treatment may be manually performed using a mortar. Then, a stirring treatment may be additionally performed using the above stirrer.</p>
+<p id="p0068" num="0068">The classification operation can be performed using, for example, filtration, natural sedimentation, or centrifugation. Examples of filters for filtration include a metal mesh, a metal filter, and a nylon mesh.</p>
+<p id="p0069" num="0069">The copper bonding paste 1 provided on the second member 3 or the first member 2 may be appropriately dried in order to minimize circulating during sintering and the occurrence of voids. The gas atmosphere during drying may be in an atmosphere, an oxygen-free atmosphere such as nitrogen or a rare gas, or a reducing atmosphere such as hydrogen or formic acid. The drying method may be drying by leaving at room temperature, heat drying, or vacuum drying. For heat drying or vacuum drying, for example, a hot plate, a warm-air dryer, a hot air heating furnace, a nitrogen dryer, an infrared dryer, an infrared heating furnace, a far infrared heating furnace, a microwave heating device, a laser heating device, an electromagnetic heating device, a heater heating device, a steam heating furnace, a hot plate pressing device, and the like can be used. The drying temperature and time may be appropriately adjusted according<!-- EPO <DP n="24"> --> to the type and amount of the dispersion medium used. The drying temperature and time may be, for example, 50°C or higher and 180°C or lower and 1 minute or longer and 120 minutes or shorter.</p>
+<heading id="h0021">[Sintering step]</heading>
+<p id="p0070" num="0070">Next, as shown in <figref idref="f0001">Fig. 1(d)</figref>, the copper bonding paste 1 in the laminate 4 is sintered under a pressure of 0.1 to 1 MPa.</p>
+<p id="p0071" num="0071">In the sintering step, the laminate 4 is pressurized and heated in a lamination direction of the laminate 4, that is, in a direction indicated by the arrow in <figref idref="f0001">Fig. 1(d)</figref>. The lamination direction of the laminate 4 can be a direction in which an own weight of the first member 2 acts or a direction in which the gravity acts.</p>
+<p id="p0072" num="0072">The pressure during pressurization is 0.1 to 1 MPa. Thereby, it is not necessary to pressurize at a high pressure and the yield can be further improved. In addition, it is possible to reduce the number of voids in the bonded object and further improve the die shear strength. In order to reduce the number of voids in the bonded object and further improve the die shear strength, the pressure is preferably 0.2 MPa or more, more preferably 0.3 MPa or more, and still more preferably 0.4 MPa or more, and in order to further improve the yield of the copper bonding paste, the pressure is preferably 0.8 MPa or less, more preferably 0.7 MPa or less, and still more preferably 0.6 MPa or less.</p>
+<p id="p0073" num="0073">In order to reduce heat damage to the first member 2 and the second member 3 and improve the yield, the maximum arrival temperature during the heat treatment may<!-- EPO <DP n="25"> --> be 250°C or higher and 450°C or lower, 250°C or higher and 400°C or lower, or 250°C or higher and 350°C or lower. When the maximum arrival temperature is 200°C or higher, sufficient sintering tends to proceed when the maximum arrival temperature retention time is 60 minutes or less.</p>
+<p id="p0074" num="0074">In order to volatilize the dispersion medium completely and improve the yield, the maximum arrival temperature retention time may be 1 minute or longer and 120 minutes or shorter, 1 minute or longer and 80 minutes or shorter, or 1 minute or longer and 60 minutes or shorter.</p>
+<p id="p0075" num="0075">The laminate 4 may be pressurized and heated using a combination of a heat treatment device and a pressurization treatment device or using a heating and pressurizing treatment device. Regarding the heat treatment device, for example, a hot plate, warm-air dryer, a hot air heating furnace, a nitrogen dryer, an infrared dryer, an infrared heating furnace, a far infrared heating furnace, a microwave heating device, a laser heating device, an electromagnetic heating device, a heater heating device, a steam heating furnace, a vacuum soldering device, and a reflow furnace can be used. Regarding the pressurization treatment device, a carbon or metal pressurization jig, a weight, a double clip and the like can be used. More specifically, for example, a weight can be used as the pressurization treatment device, and a batch type vacuum soldering device (for example, commercially available from Shinko Seiki Co., Ltd.) can be used in combination as the heat treatment device.</p>
+<p id="p0076" num="0076"><!-- EPO <DP n="26"> --> Regarding the heating and pressurizing treatment device, a hot plate pressing device (for example, SIN200+(commercially available from PINK GmbH Thermo systeme)), a heating roll press or the like can be used.</p>
+<p id="p0077" num="0077">The gas atmosphere during sintering may be an oxygen-free atmosphere in order to minimize oxidation of the sintered object of the copper bonding paste 1, the first member and the second member. The gas atmosphere during sintering may be a reducing atmosphere in order to remove surface oxides of copper particles of the copper bonding paste. Examples of oxygen-free atmospheres include an atmosphere in which an oxygen-free gas such as nitrogen or a rare gas is introduced and a vacuum atmosphere. Examples of reducing atmospheres include pure hydrogen gas, a mixed gas containing hydrogen and nitrogen represented by a forming gas, nitrogen containing formic acid gas, a mixed gas containing hydrogen and a rare gas, and a rare gas containing formic acid gas.</p>
+<p id="p0078" num="0078">When the copper bonding paste 1 is sintered, as shown in <figref idref="f0001">Fig. 1(e)</figref>, the bonded object 100 including the first member 2, a sintered object 5 of a copper bonding paste, and the second member 3 in order can be obtained. That is, the bonded object 100 according to one embodiment includes the first member 2, the second member 3, and the sintered object 5 of the copper bonding paste that bonds the first member and the second member.</p>
+<p id="p0079" num="0079">In order for the first member and the second member to sufficiently bond, the die shear strength of the bonded object may be 10 MPa or more, 15 MPa or more, 20 MPa or more, or 30 MPa or more. The die shear strength can be measured using a<!-- EPO <DP n="27"> --> universal bond tester (for example, 4000 series commercially available from DAGE), a universal bond tester (for example, Royce 650 commercially available from Royce Instruments), or the like.</p>
+<p id="p0080" num="0080">In order to obtain excellent heat dissipation and connection reliability under a high temperature, the thermal conductivity of the sintered object of the copper bonding paste may be 100 W/(m·K) or more, 120 W/(m·K) or more, or 150 W/ (m·K) or more. The thermal conductivity can be calculated from the thermal diffusivity, the specific heat capacity, and the density of the sintered object 5 of the copper bonding paste.</p>
+<heading id="h0022">[Method for producing semiconductor device]</heading>
+<p id="p0081" num="0081">Next, a method for producing a semiconductor device will be described. In the method for producing the bonded object 100 described above, when at least one of the first member and the second member is a semiconductor element, a semiconductor device can be produced by the above method for producing a bonded object. That is, the method for producing a semiconductor device according to one embodiment is the above method for producing a bonded object in which the first member and/or the second member is replaced with a semiconductor element, the method including a step of preparing a laminate in which a first member, a copper bonding paste, and a second member are laminated in order and a step of sintering the copper bonding paste under a pressure of 0.1 to 1 MPa, wherein at least one of the first member and the second member is a semiconductor element, the copper bonding paste contains metal particles and a dispersion medium, the content of the metal particles with respect to a total mass of the copper bonding paste is 50 mass% or more, and the metal particles contain 95 mass% or more of submicro copper particles with respect to a total mass of the metal particles.<!-- EPO <DP n="28"> --></p>
+<p id="p0082" num="0082">The semiconductor element used in the first member and/or the second member may be, for example, a power module including a diode, a rectifier, a thyristor, a MOS gate driver, a power switch, a power MOSFET, an IGBT, a Schottky diode, a fast recovery diode, and the like, a transmitter, an amplifier, and an LED module.</p>
+<p id="p0083" num="0083"><figref idref="f0002">Fig. 2</figref> is a schematic cross-sectional view showing an example of a semiconductor device obtained by the production method according to the present embodiment. A semiconductor device 200 shown in <figref idref="f0003">Fig. 3</figref> includes an insulation substrate 21 including a first electrode 22 and a second electrode 24, a semiconductor element 23 bonded onto the first electrode 22 with the sintered object 5 of the copper bonding paste, and a metal wiring 25 for electrically connecting the semiconductor element 23 and the second electrode 24. The metal wiring 25 and the semiconductor element 23, and the metal wiring 25 and the second electrode 24 are bonded with the sintered object 5 of the copper bonding paste. In addition, the semiconductor element 23 is connected to a third electrode 26 via a wire 27. The semiconductor device 200 includes a copper plate 28 on the side opposite to the surface of the insulation substrate 21 on which the above electrodes and the like are mounted. In the semiconductor device 200, the structure is sealed with an insulator 29. The semiconductor device 200 includes one semiconductor element 23 on the first electrode 22, but may include two or more semiconductor elements. In this case, each of the plurality of semiconductor elements 23 can be bonded to the metal wiring 25 with the sintered object 5 of the copper bonding paste.</p>
+<heading id="h0023">Examples</heading>
+<p id="p0084" num="0084"><!-- EPO <DP n="29"> --> The present invention will be described below in more detail with reference to examples. However, the present invention is not limited to the following examples.</p>
+<heading id="h0024">&lt;Preparation of copper bonding paste&gt;</heading>
+<p id="p0085" num="0085">0.9 g of diethylene glycol monobutyl ether (commercially available from Wako Pure Chemical Industries, Ltd.) as a dispersion medium and 9.1 g of CH-0200 (commercially available from Mitsui Mining &amp; Smelting Co., Ltd.) as submicro copper particles were kneaded in an agate mortar until there was no dry powder, and the obtained mixed solution was transferred to a plastic container. The sealed plastic container was stirred using a rotation revolution type stirring device (Planetary Vacuum Mixer ARV-310, commercially available from Thinky Corporation) at 2,000 min<sup>-1</sup> (2,000 rpm) for 2 minutes. This mixed solution was used as a copper bonding paste 1.</p>
+<p id="p0086" num="0086">In addition, copper bonding pastes 2 to 17 were prepared in the same method for the copper bonding paste 1 except that compositions were changed as shown in Tables 1 to 3.</p>
+<heading id="h0025">&lt;Measurement of viscosity&gt;</heading>
+<p id="p0087" num="0087">The viscosities of the copper bonding pastes 1 to 17 at 25°C were measured using a viscoelasticity measurement device (MCR102, commercially available from Anton Paar). In measurement conditions, the gap was 0.2 mm, the strain was 2%, and the frequency was 0.5 Hz. The viscosities of the copper bonding pastes 5 minutes after measurement started are shown in Tables 1 to 3.</p>
+<heading id="h0026">&lt;Production of bonded object&gt;</heading><!-- EPO <DP n="30"> -->
+<p id="p0088" num="0088">Bonded objects were produced using the copper bonding pastes 1 to 17 according to the following method. The die shear strength of the bonded object was measured by the method to be described below.</p>
+<p id="p0089" num="0089">A stainless steel metal mask (thickness: 200 µm) having a 3 mm×3 mm square opening was placed on a 19 mm×25 mm copper plate (thickness: 3 mm), and the copper bonding paste was applied by stencil printing using a metal squeegee. This was heated on a hot plate set at 90°C in the atmosphere for 30 minutes, and a silicon chip (thickness: 400 µm) with a 3 mm×3 mm adherend surface on which titanium (50 nm) and nickel (100 nm) were sputtered in order was placed and lightly pressed with tweezers. This sample was set in a batch type vacuum soldering furnace (commercially available from Shinko Seiki Co., Ltd.) and pressurized at 0.5 MPa and then heated under a hydrogen 100% atmosphere for 30 minutes. After the heating, under conditions of a maximum arrival temperature of 300°C and a maximum arrival temperature retention time of 60 minutes, sintering was performed to obtain a bonded object in which a copper plate and a nickel-sputtered silicon chip were bonded. After the sintering, the bonded object was taken out into the air at 50°C or lower.</p>
+<heading id="h0027">&lt;Evaluation method&gt;</heading>
+<heading id="h0028">[Die shear strength]</heading>
+<p id="p0090" num="0090">The bonding strength of the bonded object was evaluated according to the die shear strength. For the produced bonded object, a copper block was horizontally pushed using a universal bond tester (Royce 650, commercially available from Royce Instruments) with a load cell (SMS-200K-24200, commercially available from Royce Instruments) attached thereto at a measurement speed of 5 mm/min and a measurement height of 50 µm, and the die shear strength of the bonded object was measured. The<!-- EPO <DP n="31"> --> average value of the measured values for 8 bonded objects was used as the die shear strength. The evaluation indexes are as follows. If the evaluation is S or A, it can be said that the die shear strength is excellent.</p>
+<p id="p0091" num="0091">Evaluation index:
+<ul id="ul0002" list-style="none" compact="compact">
+<li>S: 30 MPa or more</li>
+<li>A: 20 MPa or more and less than 30 MPa</li>
+<li>B: 10 MPa or more and less than 20 MPa</li>
+<li>C: less than 10 MPa</li>
+</ul></p>
+<heading id="h0029">[Evaluation of applicability]</heading>
+<p id="p0092" num="0092">The applicability of the copper bonding paste was evaluated by applying the copper bonding paste using a stainless steel metal mask (thickness: 200 µm) having a 10 mm×10 mm square opening. The evaluation indexes are as follows. If the evaluation is S or A, it can be said that the applicability is excellent.</p>
+<p id="p0093" num="0093">Evaluation index:
+<ul id="ul0003" list-style="none" compact="compact">
+<li>S: Could be applied without blurring and the paste did not flow out of the opening</li>
+<li>A: Slight blurring occurred, but the paste was not squeezed out of the opening. Or, it could be applied without blurring, but the paste slightly flowed out of the opening.</li>
+<li>B: Blurring occurred, but the paste was not squeezed out of the opening. Or, it could be applied without blurring, and the paste flowed out of the opening.</li>
+<li>C: Significant blurring occurred, but the paste was not squeezed out of the opening. Or, it could be applied without blurring, but the paste significantly flowed out of the opening.</li>
+</ul><!-- EPO <DP n="32"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>[Table 1]</title>
+<tgroup cols="9">
+<colspec colnum="1" colname="col1" colwidth="28mm"/>
+<colspec colnum="2" colname="col2" colwidth="49mm"/>
+<colspec colnum="3" colname="col3" colwidth="47mm"/>
+<colspec colnum="4" colname="col4" colwidth="20mm"/>
+<colspec colnum="5" colname="col5" colwidth="20mm"/>
+<colspec colnum="6" colname="col6" colwidth="20mm"/>
+<colspec colnum="7" colname="col7" colwidth="20mm"/>
+<colspec colnum="8" colname="col8" colwidth="20mm"/>
+<colspec colnum="9" colname="col9" colwidth="20mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col3" align="center" valign="top"/>
+<entry align="center" valign="top">Example 1</entry>
+<entry align="center" valign="top">Example 2</entry>
+<entry align="center" valign="top">Example 3</entry>
+<entry align="center" valign="top">Example 4</entry>
+<entry align="center" valign="top">Example 5</entry>
+<entry align="center" valign="top">Example 6</entry></row>
+<row>
+<entry namest="col1" nameend="col3" align="center" valign="top">Paste No.</entry>
+<entry align="center" valign="top">1</entry>
+<entry align="center" valign="top">2</entry>
+<entry align="center" valign="top">3</entry>
+<entry align="center" valign="top">4</entry>
+<entry align="center" valign="top">5</entry>
+<entry align="center" valign="top">6</entry></row></thead>
+<tbody>
+<row>
+<entry morerows="9" align="center">Composition</entry>
+<entry morerows="3" align="center">Metal particles (g)</entry>
+<entry align="center">Submicro copper particles</entry>
+<entry align="center">9.1</entry>
+<entry align="center">8</entry>
+<entry align="center">7</entry>
+<entry align="center">6</entry>
+<entry align="center">5</entry>
+<entry align="center">9.1</entry></row>
+<row>
+<entry align="center">Micro copper particles</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">Zinc particles</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">Silver particles</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry morerows="3" align="center">Dispersion medium (g)</entry>
+<entry align="center">Diethylene glycol monobutyl ether</entry>
+<entry align="center">0.9</entry>
+<entry align="center">2</entry>
+<entry align="center">3</entry>
+<entry align="center">4</entry>
+<entry align="center">5</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">α-terpineol</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">0.9</entry></row>
+<row>
+<entry align="center">MTPH</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">Cyclohexanone</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry namest="col2" nameend="col3" align="center">Content of submicro copper particles with respect to a total mass of metal particles (mass%)</entry>
+<entry align="center">100</entry>
+<entry align="center">100</entry>
+<entry align="center">100</entry>
+<entry align="center">100</entry>
+<entry align="center">100</entry>
+<entry align="center">100</entry></row>
+<row>
+<entry namest="col2" nameend="col3" align="center">Content of metal particles with respect to a total mass of copper paste (mass%)</entry>
+<entry align="center">91</entry>
+<entry align="center">80</entry>
+<entry align="center">70</entry>
+<entry align="center">60</entry>
+<entry align="center">50</entry>
+<entry align="center">91</entry></row>
+<row>
+<entry align="center">Physical property</entry>
+<entry namest="col2" nameend="col3" align="center">Viscosity of copper paste (Pa·s)</entry>
+<entry align="center">33,000</entry>
+<entry align="center">10,000</entry>
+<entry align="center">210</entry>
+<entry align="center">50</entry>
+<entry align="center">0.8</entry>
+<entry align="center">32,000</entry></row>
+<row>
+<entry align="center">Pressurization condition</entry>
+<entry namest="col2" nameend="col3" align="center">Pressure (Mpa)</entry>
+<entry align="center">0.5</entry>
+<entry align="center">0.5</entry>
+<entry align="center">0.5</entry>
+<entry align="center">0.5</entry>
+<entry align="center">0.5</entry>
+<entry align="center">0.5</entry></row>
+<row>
+<entry morerows="1" align="center">Evaluation</entry>
+<entry namest="col2" nameend="col3" align="center">Die shear strength</entry>
+<entry align="center">S</entry>
+<entry align="center">S</entry>
+<entry align="center">S</entry>
+<entry align="center">A</entry>
+<entry align="center">A</entry>
+<entry align="center">A</entry></row>
+<row>
+<entry namest="col2" nameend="col3" align="center">Applicability</entry>
+<entry align="center">A</entry>
+<entry align="center">S</entry>
+<entry align="center">S</entry>
+<entry align="center">A</entry>
+<entry align="center">A</entry>
+<entry align="center">A</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="33"> -->
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>[Table 2]</title>
+<tgroup cols="8">
+<colspec colnum="1" colname="col1" colwidth="26mm"/>
+<colspec colnum="2" colname="col2" colwidth="25mm"/>
+<colspec colnum="3" colname="col3" colwidth="28mm"/>
+<colspec colnum="4" colname="col4" colwidth="18mm"/>
+<colspec colnum="5" colname="col5" colwidth="18mm"/>
+<colspec colnum="6" colname="col6" colwidth="18mm"/>
+<colspec colnum="7" colname="col7" colwidth="18mm"/>
+<colspec colnum="8" colname="col8" colwidth="18mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col3" align="center" valign="top"/>
+<entry align="center" valign="top">Example 7</entry>
+<entry align="center" valign="top">Example 8</entry>
+<entry align="center" valign="top">Example 9</entry>
+<entry align="center" valign="top">Example 10</entry>
+<entry align="center" valign="top">Example 11</entry></row>
+<row>
+<entry namest="col1" nameend="col3" align="center" valign="top">Paste No.</entry>
+<entry align="center" valign="top">7</entry>
+<entry align="center" valign="top">8</entry>
+<entry align="center" valign="top">9</entry>
+<entry align="center" valign="top">10</entry>
+<entry align="center" valign="top">11</entry></row></thead>
+<tbody>
+<row>
+<entry morerows="9" align="center">Composition</entry>
+<entry morerows="3" align="center">Metal particles (g)</entry>
+<entry align="center">Submicro copper particles</entry>
+<entry align="center">9.1</entry>
+<entry align="center">9.1</entry>
+<entry align="center">9.1</entry>
+<entry align="center">9.08</entry>
+<entry align="center">9.08</entry></row>
+<row>
+<entry align="center">Micro copper particles</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">Zinc particles</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">0.02</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">Silver particles</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">0.02</entry></row>
+<row>
+<entry morerows="3" align="center">Dispersion medium (g)</entry>
+<entry align="center">Diethylene glycol monobutyl ether</entry>
+<entry align="center">0.45</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">0.9</entry>
+<entry align="center">0.9</entry></row>
+<row>
+<entry align="center">α-terpineol</entry>
+<entry align="center">0.45</entry>
+<entry align="center">0.8</entry>
+<entry align="center">0.8</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">MTPH</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">0.1</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">Cyclohexanone</entry>
+<entry align="center">-</entry>
+<entry align="center">0.1</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry namest="col2" nameend="col3" align="center">Content of submicro copper particles with respect to a total mass of metal particles (mass%)</entry>
+<entry align="center">100</entry>
+<entry align="center">100</entry>
+<entry align="center">100</entry>
+<entry align="center">99.8</entry>
+<entry align="center">99.8</entry></row>
+<row>
+<entry namest="col2" nameend="col3" align="center">Content of metal particles with respect to a total mass of copper paste (mass%)</entry>
+<entry align="center">91</entry>
+<entry align="center">91</entry>
+<entry align="center">91</entry>
+<entry align="center">91</entry>
+<entry align="center">91</entry></row>
+<row>
+<entry align="center">Physical property</entry>
+<entry namest="col2" nameend="col3" align="center">Viscosity of copper paste (Pa·s)</entry>
+<entry align="center">30,000</entry>
+<entry align="center">29,000</entry>
+<entry align="center">36,000</entry>
+<entry align="center">33,000</entry>
+<entry align="center">33,000</entry></row>
+<row>
+<entry align="center">Pressurization condition</entry>
+<entry namest="col2" nameend="col3" align="center">Pressure (Mpa)</entry>
+<entry align="center">0.5</entry>
+<entry align="center">0.5</entry>
+<entry align="center">0.5</entry>
+<entry align="center">0.5</entry>
+<entry align="center">0.5</entry></row>
+<row>
+<entry morerows="1" align="center">Evaluation</entry>
+<entry namest="col2" nameend="col3" align="center">Die shear strength</entry>
+<entry align="center">A</entry>
+<entry align="center">S</entry>
+<entry align="center">S</entry>
+<entry align="center">s</entry>
+<entry align="center">s</entry></row>
+<row>
+<entry namest="col2" nameend="col3" align="center">Applicability</entry>
+<entry align="center">A</entry>
+<entry align="center">A</entry>
+<entry align="center">A</entry>
+<entry align="center">A</entry>
+<entry align="center">A</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="34"> -->
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>[Table 3]</title>
+<tgroup cols="9">
+<colspec colnum="1" colname="col1" colwidth="26mm"/>
+<colspec colnum="2" colname="col2" colwidth="33mm"/>
+<colspec colnum="3" colname="col3" colwidth="31mm"/>
+<colspec colnum="4" colname="col4" colwidth="26mm"/>
+<colspec colnum="5" colname="col5" colwidth="26mm"/>
+<colspec colnum="6" colname="col6" colwidth="26mm"/>
+<colspec colnum="7" colname="col7" colwidth="26mm"/>
+<colspec colnum="8" colname="col8" colwidth="26mm"/>
+<colspec colnum="9" colname="col9" colwidth="26mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col3" align="center" valign="top"/>
+<entry align="center" valign="top">Comparative Example 1</entry>
+<entry align="center" valign="top">Comparative Example 2</entry>
+<entry align="center" valign="top">Comparative Example 3</entry>
+<entry align="center" valign="top">Comparative Example 4</entry>
+<entry align="center" valign="top">Comparative Example 5</entry>
+<entry align="center" valign="top">Comparative Example 6</entry></row>
+<row>
+<entry namest="col1" nameend="col3" align="center" valign="top">Paste No.</entry>
+<entry align="center" valign="top">12</entry>
+<entry align="center" valign="top">13</entry>
+<entry align="center" valign="top">14</entry>
+<entry align="center" valign="top">15</entry>
+<entry align="center" valign="top">16</entry>
+<entry align="center" valign="top">17</entry></row></thead>
+<tbody>
+<row>
+<entry morerows="9" align="center">Composition</entry>
+<entry morerows="3" align="center">Metal particles (g)</entry>
+<entry align="center">Submicro copper particles</entry>
+<entry align="center">4</entry>
+<entry align="center">3</entry>
+<entry align="center">3</entry>
+<entry align="center">3</entry>
+<entry align="center">3</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">Micro copper particles</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">7</entry></row>
+<row>
+<entry align="center">Zinc particles</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">Silver particles</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry morerows="3" align="center">Dispersion medium (g)</entry>
+<entry align="center">Diethylene glycol monobutyl ether</entry>
+<entry align="center">6</entry>
+<entry align="center">7</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">3</entry></row>
+<row>
+<entry align="center">α-terpineol</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">7</entry>
+<entry align="center">-</entry>
+<entry align="center">4</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">MTPH</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">7</entry>
+<entry align="center">3</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">Cyclohexanone</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry namest="col2" nameend="col3" align="center">Content of submicro copper particles with respect to a total mass of metal particles (mass%)</entry>
+<entry align="center">100</entry>
+<entry align="center">100</entry>
+<entry align="center">100</entry>
+<entry align="center">100</entry>
+<entry align="center">100</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry namest="col2" nameend="col3" align="center">Content of metal particles with respect to a total mass of copper paste (mass%)</entry>
+<entry align="center">40</entry>
+<entry align="center">30</entry>
+<entry align="center">30</entry>
+<entry align="center">30</entry>
+<entry align="center">30</entry>
+<entry align="center">70</entry></row>
+<row>
+<entry align="center">Physical property</entry>
+<entry namest="col2" nameend="col3" align="center">Viscosity of copper paste (Pa·s)</entry>
+<entry align="center">0.1</entry>
+<entry align="center">0.05</entry>
+<entry align="center">0.05</entry>
+<entry align="center">350</entry>
+<entry align="center">150</entry>
+<entry align="center">50</entry></row>
+<row>
+<entry align="center">Pressurization condition</entry>
+<entry namest="col2" nameend="col3" align="center">Pressure (Mpa)</entry>
+<entry align="center">0.5</entry>
+<entry align="center">0.5</entry>
+<entry align="center">0.5</entry>
+<entry align="center">0.5</entry>
+<entry align="center">0.5</entry>
+<entry align="center">0.5</entry></row>
+<row>
+<entry morerows="1" align="center">Evaluation</entry>
+<entry namest="col2" nameend="col3" align="center">Die shear strength</entry>
+<entry align="center">B</entry>
+<entry align="center">B</entry>
+<entry align="center">B</entry>
+<entry align="center">B</entry>
+<entry align="center">B</entry>
+<entry align="center">C</entry></row>
+<row>
+<entry namest="col2" nameend="col3" align="center">Applicability</entry>
+<entry align="center">B</entry>
+<entry align="center">C</entry>
+<entry align="center">C</entry>
+<entry align="center">C</entry>
+<entry align="center">B</entry>
+<entry align="center">C</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="35"> --></p>
+<heading id="h0030">[Observation of cross section morphology]</heading>
+<p id="p0094" num="0094">A bonded object was fixed in a cup with a sample clip (Samplklip I, commercially available from Buehler), an epoxy casting resin (Epo-Mount, commercially available from Refine Tec Ltd.) was poured into the surroundings until the entire sample was filled, and left in a vacuum desiccator, and defoamed by depressurizing for 1 minute. Then, the epoxy casting resin was cured by leaving it at room temperature (25°C) for 10 hours. A Refine Saw Low (RCA-005, commercially available from Refine Tec Ltd.) with a diamond cutting wheel (11-304, commercially available from Refine Tec Ltd.) was used to cut near the cross section to be observed of the cast bonded object. The cross section was scraped with a polishing device (Refine Polisher Hv, commercially available from Refine Tec Ltd.) with waterproof abrasive paper (Carbon Mac Paper, commercially available from Refine Tec Ltd.), a crack-free cross section was formed on the silicon chip, and an extra casting resin was additionally scraped off to a size that could be applied to a CP (cross section polisher) processing machine. The cut sample was subjected to cross section polishing in a CP processing machine (IM4000, commercially available from Hitachi, Ltd.) under conditions of an acceleration voltage of 6 kV, an argon gas flow rate of 0.07 to 0.1 cm<sup>3</sup>/min, and a treatment time of 2 hours, and the cross section was processed. Platinum was sputtered to a thickness of 10 nm on the cross section using a sputtering device (ION SPUTTER, commercially available from Hitachi High-Tech Corporation) to prepare a sample for SEM observation. For this SEM sample, the cross section of the bonded object was observed using an SEM device (ESEM XL30, commercially available from Philips) at an applied voltage of 10 kV.</p>
+<p id="p0095" num="0095"><figref idref="f0003">Fig. 3</figref> shows an SEM image of a cross section of a bonded object of Example 1,<!-- EPO <DP n="36"> --> <figref idref="f0004">Fig. 4</figref> shows an SEM image of a cross section of a bonded object of Example 2, and <figref idref="f0005">Fig. 5</figref> shows an SEM image of a bonded object of Comparative Example 3. In <figref idref="f0003">Figs. 3</figref> and <figref idref="f0004">4</figref>, it can be understood that, in the sintered object 5 (5A, 5B) of the copper bonding paste in Examples 1 and 2, nickel-plated copper plates 31A and 31B and titanium-, and nickel-sputtered silicon chips 32A and 32B could be satisfactorily bonded. On the other hand, in <figref idref="f0005">Fig. 5</figref>, it can be understood that, in the bonded object of Comparative Example 3, there was a variation in the bonding between a titanium-, and nickel-sputtered silicon chip 32C and the sintered object 5C of the copper bonding paste. Due to such a difference in the structure, it is considered that sufficient die shear strength was not obtained in the bonded object of Comparative Example 3.</p>
+<heading id="h0031">[Reference Signs List]</heading>
+<p id="p0096" num="0096">
+<dl id="dl0001" compact="compact">
+<dt>1</dt><dd>Copper bonding paste</dd>
+<dt>2</dt><dd>First member</dd>
+<dt>3</dt><dd>Second member</dd>
+<dt>4</dt><dd>Laminate</dd>
+<dt>23</dt><dd>Semiconductor element</dd>
+<dt>100</dt><dd>Bonded object</dd>
+<dt>200</dt><dd>Semiconductor device</dd>
+</dl></p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="37"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A method for producing a bonded object, comprising:
+<claim-text>a step of preparing a laminate in which a first member, a copper bonding paste, and a second member are laminated in order; and</claim-text>
+<claim-text>a step of sintering the copper bonding paste under a pressure of 0.1 to 1 MPa,</claim-text>
+<claim-text>wherein the copper bonding paste contains metal particles and a dispersion medium,</claim-text>
+<claim-text>a content of the metal particles with respect to a total mass of the copper bonding paste is 50 mass% or more, and</claim-text>
+<claim-text>the metal particles contain 95 mass% or more of submicro copper particles with respect to a total mass of the metal particles.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>A method for producing a semiconductor device, comprising:
+<claim-text>a step of preparing a laminate in which a first member, a copper bonding paste, and a second member are laminated in order; and</claim-text>
+<claim-text>a step of sintering the copper bonding paste under a pressure of 0.1 to 1 MPa,</claim-text>
+<claim-text>wherein at least one of the first member and the second member is a semiconductor element,</claim-text>
+<claim-text>the copper bonding paste contains metal particles and a dispersion medium,</claim-text>
+<claim-text>a content of the metal particles with respect to a total mass of the copper bonding paste is 50 mass% or more, and</claim-text>
+<claim-text>the metal particles contain 95 mass% or more of submicro copper particles with respect to a total mass of the metal particles.</claim-text></claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text><!-- EPO <DP n="38"> --> A copper bonding paste comprising metal particles and a dispersion medium,
+<claim-text>wherein a content of the metal particles with respect to a total mass of the copper bonding paste is 50 mass% or more, and</claim-text>
+<claim-text>the metal particles contain 95 mass% or more of submicro copper particles with respect to a total amount of the metal particles.</claim-text></claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The copper bonding paste according to claim 3,<br/>
+wherein the metal particles contain 5 mass% or less of micro copper particles with respect to a total mass of the metal particles.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The copper bonding paste according to claim 3 or 4,<br/>
+wherein a viscosity of the copper bonding paste at 25°C is 0.8 to 40,000 Pa·s.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The copper bonding paste according to any one of claims 3 to 5,<br/>
+wherein the dispersion medium is at least one selected from the group consisting of alcohols and ethers.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The copper bonding paste according to any one of claims 3 to 6,<br/>
+wherein an aspect ratio of the submicro copper particles is 5 or less.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="39"> -->
+<figure id="f0001" num="1(a),1(b),1(c),1(d),1(e)"><img id="if0001" file="imgf0001.tif" wi="126" he="172" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="40"> -->
+<figure id="f0002" num="2"><img id="if0002" file="imgf0002.tif" wi="116" he="113" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="41"> -->
+<figure id="f0003" num="3"><img id="if0003" file="imgf0003.tif" wi="99" he="103" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="42"> -->
+<figure id="f0004" num="4"><img id="if0004" file="imgf0004.tif" wi="98" he="103" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="43"> -->
+<figure id="f0005" num="5"><img id="if0005" file="imgf0005.tif" wi="99" he="104" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="165" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="165" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="JP4928639B"><document-id><country>JP</country><doc-number>4928639</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0001">[0005]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="JP5006081B"><document-id><country>JP</country><doc-number>5006081</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0002">[0006]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="JP2014167145A"><document-id><country>JP</country><doc-number>2014167145</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0003">[0007]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="s"><article><author><name>R. KHAZAKA</name></author><author><name>L. MENDIZABAL</name></author><author><name>D. HENRY</name></author><atl/><serial><sertitle>J. ElecTron. Mater</sertitle><pubdate><sdate>20140000</sdate><edate/></pubdate><vid>43</vid><ino>7</ino></serial><location><pp><ppf>2459</ppf><ppl>2466</ppl></pp></location></article></nplcit><crossref idref="ncit0001">[0008]</crossref></li>
+<li><nplcit id="ref-ncit0002" npl-type="s"><article><author><name>KATSUHIRO UEDA</name></author><author><name>SUMIO INAFUKU</name></author><author><name>IWAO MORI</name></author><atl/><serial><sertitle>Chemistry and Education</sertitle><pubdate><sdate>19920000</sdate><edate/></pubdate><vid>40</vid><ino>2</ino></serial><location><pp><ppf>114</ppf><ppl>117</ppl></pp></location></article></nplcit><crossref idref="ncit0002">[0047]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

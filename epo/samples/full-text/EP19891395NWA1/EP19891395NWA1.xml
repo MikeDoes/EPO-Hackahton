@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19891395A1" file="EP19891395NWA1.xml" lang="en" country="EP" doc-number="3889224" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3889224</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19891395.6</B210><B220><date>20191128</date></B220><B240><B241><date>20210527</date></B241></B240><B250>zh</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>201811440849</B310><B320><date>20181129</date></B320><B330><ctry>CN</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>C09D   5/08        20060101AFI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C09D 163/00        20060101ALI20200605BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>C09D 163/00        20130101 LI20200625BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>C09D   5/08        20130101 LI20200625BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>GRAPHENKORROSIONSSCHUTZBESCHICHTUNG</B542><B541>en</B541><B542>GRAPHENE ANTI-CORROSION COATING</B542><B541>fr</B541><B542>REVÊTEMENT ANTI-CORROSION À BASE DE GRAPHÈNE</B542></B540></B500><B700><B710><B711><snm>Toray Industries, Inc.</snm><iid>101839812</iid><irf>K 72 076/18ba</irf><adr><str>1-1, Nihonbashi-muromachi, 2-chome 
+Chuo-ku</str><city>Tokyo, 103-8666</city><ctry>JP</ctry></adr></B711></B710><B720><B721><snm>WANG, Ke</snm><adr><str>No. 369 Ziyue Road, Zizhu Hi-Tech Industrial  
+Development Zone, Minhang District</str><city>Shanghai 200241</city><ctry>CN</ctry></adr></B721><B721><snm>YANG, Yang</snm><adr><str>No. 369 Ziyue Road, Zizhu Hi-Tech Industrial  
+Development Zone, Minhang District</str><city>Shanghai 200241</city><ctry>CN</ctry></adr></B721><B721><snm>CHEN, Qiao</snm><adr><str>No. 369 Ziyue Road, Zizhu Hi-Tech Industrial  
+Development Zone, Minhang District</str><city>Shanghai 200241</city><ctry>CN</ctry></adr></B721><B721><snm>KAWASAKI, Manabu</snm><adr><str>No. 369 Ziyue Road, Zizhu Hi-Tech Industrial  
+Development Zone, Minhang District</str><city>Shanghai 200241</city><ctry>CN</ctry></adr></B721></B720><B740><B741><snm>Kador &amp; Partner PartG mbB</snm><iid>100060105</iid><adr><str>Corneliusstraße 15</str><city>80469 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>CN2019121478</anum></dnum><date>20191128</date></B861><B862>zh</B862></B860><B870><B871><dnum><pnum>WO2020108552</pnum></dnum><date>20200604</date><bnum>202023</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">A graphene anti-corrosion coating comprises an epoxy resin and graphene subjected to surface modification. The addition amount of the graphene is 0.01-0.2 wt% of the total mass of coating solid. By performing surface treatment on the graphene, the dispersity of the graphene in the coating is improved, and the compactness of the coating is enhanced.</p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">TECHNICAL FIELD</heading>
+<p id="p0001" num="0001">The present invention belongs to the field of chemical coatings, and more particularly relates to a high-performance anti-corrosion coating only containing low content of modified graphene.</p>
+<heading id="h0002">BACKGROUND ART</heading>
+<p id="p0002" num="0002">Nowadays, corrosion and rust cause a lot of inconvenience to people's lives, resulting in a large quantity of loss and waste in energy and resources, thereby bringing huge economic losses to countries every year. According to reports published by the United States, Japan, Canada and other countries, the direct economic loss caused by corrosion alone accounts for about 1%-4% of the total national economic output each year, and corroded and rusted steel accounts for about 20% of the annual output. In China, the annual economic loss caused by metal corrosion accounts for about 4% of the GDP, and the corrosion loss even exceeds the total loss caused by fire, wind and earthquake. Such an astonishing loss has made people's<!-- EPO <DP n="2"> --> urgent demand for high-performance anti-corrosion coatings increasing.</p>
+<p id="p0003" num="0003">Since graphene was discovered in the laboratory by Konstantin Novoselov and Andre Geim of the University of Manchester in 2004 by the micromechanical exfoliation method (<nplcit id="ncit0001" npl-type="s"><text>Novoselov, K.S.&amp; Geim, A.K. et al. Electric field effect in atomically thin carbon films. Science, 306, 666-669, 2004</text></nplcit>), its excellent mechanical, electrical and thermal properties have attracted by material scientists. Graphene is a flat two-dimensional thin film material which has hexagonal honeycomb lattices composed of carbon atoms in sp<sup>2</sup> hybrid orbitals and has a thickness of only one carbon atom, and is a basic unit to construct zero-dimensional fullerenes, one-dimensional carbon nanotubes and three-dimensional graphite. Graphene is the thinnest nanomaterial by far, and its applications in coatings and other fields is gradually attracting public attention because of its excellent mechanical properties (tensile strength of 130GPa, Young's modulus of up to 1TPa), outstanding electrical conductivity (conductivity of 10S·m<sup>-1</sup>), ultra-high aspect ratio, etc. However, when graphene is added as a filler to an anti-corrosion coating, it is difficult to achieve good dispersion due to its high specific surface area, as well as water-insoluble and oil-insoluble<!-- EPO <DP n="3"> --> characteristics. If the dispersion effect is not good and agglomeration is formed, graphene cannot improve the mechanical properties and anti-corrosion properties of the anti-corrosion coating itself, but produces pores on a paint film of the coating and forms a corrosion circuit with a corrosive medium and a base metal plate to accelerate the corrosion. In addition, high-quality graphene itself is expensive; and how to control the addition amount of the graphene, improve the dispersion of the graphene, and obtain a high-performance graphene anti-corrosion coating is a difficulty at the current stage.</p>
+<p id="p0004" num="0004">Patent document 1 discloses a graphene anti-corrosion coating. In order to change the defect that the salt spray resistance time of a coating prepared by a traditional method is too short, graphene is added to a traditional zinc-rich coating, which improves the adhesion, hardness and barrier properties of the coating and prolong the salt spray resistance time of the coating by using the characteristics, such as high strength and high barrier properties of the graphene itself. However, in this method, the graphene is not subjected to surface treatment, such that the graphene is prone to agglomeration due to its own characteristics and is difficult to disperse uniformly in epoxy resin as a substrate. In this case, the added<!-- EPO <DP n="4"> --> graphene may form agglomerated particles in the coating, resulting in void defects in the coating and affecting the performances of the coating.</p>
+<p id="p0005" num="0005">Patent Document 2 proposes a solution in which graphene is treated by TEMPO catalytic oxidation and applied to anti-corrosion coatings. The modified graphene has a good dispersion effect in the coatings, and the anti-corrosion time of the coatings is prolonged to a certain degree. However, the content of graphene used in the embodiments of Patent Document 2 is excessively high. In several sets of embodiments, the addition amount of graphene even exceeds 1 wt%. Currently, since the price of graphene on the market is relatively high, such an addition amount will significantly increase the cost of anti-corrosion coatings.</p>
+<heading id="h0003">PRIOR ART DOCUMENTS</heading>
+<heading id="h0004">PATENT DOCUMENTS</heading>
+<p id="p0006" num="0006">
+<ul id="ul0001" list-style="none" compact="compact">
+<li>Patent document 1: <patcit id="pcit0001" dnum="CN105623471A"><text>CN 105623471A</text></patcit></li>
+<li>Patent document 2: <patcit id="pcit0002" dnum="CN107739566A"><text>CN 107739566A</text></patcit></li>
+</ul><!-- EPO <DP n="5"> --></p>
+<heading id="h0005">SUMMARY OF THE INVENTION</heading>
+<p id="p0007" num="0007">In order to solve the above problems, the inventors have found through in-depth researches that a chemical bonding force can be introduced between graphene and epoxy resin, by modifying the graphene by using a surface treating agent and adding the modified graphene at a low content to an anti-corrosion coating containing the epoxy resin as a substrate, thereby improving the dispersity of the graphene in the anti-corrosion coating, enhancing the compactness of the coating, and obtaining a low-cost graphene anti-corrosion coating with excellent barrier properties, electrical conductivity, mechanical strength, anti-corrosion, and the like. That is, the present invention specifically provides a graphene anti-corrosion coating, comprising an epoxy resin and graphene, wherein the graphene is modified by a surface treating agent. The addition amount of the graphene is only 0.01-0.2 wt% of the total mass of coating solid. The so-called total mass of the coating solid refers to the mass of a film formed after the coating is dried.</p>
+<heading id="h0006">&lt;Epoxy resin&gt;</heading>
+<p id="p0008" num="0008">The epoxy resin used as the substrate in the anti-corrosion<!-- EPO <DP n="6"> --> coating of the present invention is not particularly limited as long as it is an epoxy resin commonly used in anti-corrosion coatings. Preferable epoxy resin is selected from the group of E-51, E-44, E-20, E-12 and E-06 and one or more of epoxy resin(s) can be used.</p>
+<heading id="h0007">&lt;Modified graphene&gt;</heading>
+<p id="p0009" num="0009">The graphene anti-corrosion coating of the present invention comprises the above-mentioned epoxy resin and modified graphene. The graphene is modified by a surface treating agent. The content of the graphene is only 0.01-0.2 wt% of the total mass of the coating solid. If the addition amount of the graphene is less than 0.01 wt%, it means that the content is too low, which is not enough to exert the barrier effect of the graphene, and also unable to form a conductive path in the coating system to increase a utilization rate of zinc powder. If the addition amount of the graphene exceeds 0.2 wt%, it means that the content is too high, which makes the graphene easily agglomerate and concentrate locally in the coating system to form pores, thereby resulting in a decrease in the overall performance of the coating.</p>
+<p id="p0010" num="0010">The addition amount of the graphene is preferably<!-- EPO <DP n="7"> --> 0.02 wt% or more, further preferably 0.03 wt% or more. Meanwhile, the addition amount of the graphene is preferably 0.1 wt% or less, further preferably 0.05 wt% or less.</p>
+<p id="p0011" num="0011">The graphene used in the present invention is not particularly limited as long as its median diameter (D50) is within a range that does not impair the effects of the present invention, but is preferably 30 µm or less.</p>
+<p id="p0012" num="0012">The graphene used in the present invention is not particularly limited as long as its thickness is within a range that does not impair the effects of the present invention, but is preferably 2-12 nm. The thickness of the graphene can be measured by an atomic force microscope (AFM), by using a J scanner Si<sub>3</sub>N<sub>4</sub> needle to scan in a contact mode at a frequency of 1.0-2.4 Hz. A pretreatment method for graphene test is as follows: using N-methylpyrrolidone (NMP) as a solvent, dispersing graphene in the solvent to prepare a 0.002 wt% dispersion liquid, dropping the dispersion liquid on a mica sheet, drying and then performing AFM measurement.</p>
+<p id="p0013" num="0013">The graphene used in the present invention is not particularly limited as long as its diameter in D90/ D50 is<!-- EPO <DP n="8"> --> within a range that does not impair the effects of the present invention, but is preferably 2 or less. The diameters of the graphene in D50 and D90 are measured by a volume reference mode of particle size distribution test.</p>
+<p id="p0014" num="0014">In the present invention, the above-mentioned modified graphene is obtained by reducing graphite oxide treated with a surface treating agent. The surface of the modified graphene contains functional groups that can react with epoxy groups in the epoxy resin. After the reaction, carbon-nitrogen chemical bonding is formed between the graphene and the epoxy resin, which improves a bonding force between the graphene and the resin. The characteristic peaks of the carbon-nitrogen chemical bond structure can be observed in a range of 1000-1300 cm<sup>-1</sup> within an infrared spectrum.</p>
+<p id="p0015" num="0015">In the present invention, in order to obtain a better effect, it is preferable to use a surface treating agent containing a nitrogen element.</p>
+<p id="p0016" num="0016">Specifically, one or more of arylaminos, pyrazolones, and catechols can be enumerated as the surface treating agent.</p>
+<p id="p0017" num="0017"><!-- EPO <DP n="9"> --> One or more of o-chloroaniline, p-chloroaniline, o-toluidine, acetanilide, 2-aminobenzylamine, p-methoxyaniline, 2-nitroaniline, 2-phenylethylamine hydrochloride and 4,4'-diaminodiphenylmethane, preferably 2-aminobenzylamine, 2-phenylethylamine hydrochloride and 4,4'-diaminodiphenylmethane, can be enumerated as the arylaminos-based surface treating agent.</p>
+<p id="p0018" num="0018">One or more of 1-phenyl-3-methyl-4-benzoyl-5-pyrazolone, bispyrazolone, picric acid, 1-phenyl-3-methyl-5-pyrazolone, preferably bispyrazolone, can be enumerated as the pyrazolones-based surface treating agent.</p>
+<p id="p0019" num="0019">Catechol borane, pyrocatechol violet, 3,5-di-tert-butyl-1,2-benzenediol, 4-nitrocatechol and dopamine hydrochloride, preferably dopamine hydrochloride, can be enumerated as the catechols-based surface treating agent.</p>
+<p id="p0020" num="0020">In the present invention, the method for graphene surface modification can be carried out by high temperature reflux reaction, normal temperature and normal pressure blending reaction, and the like.</p>
+<p id="p0021" num="0021">Further, as the reduction of the graphite oxide treated with the surface treating agent, a thermal<!-- EPO <DP n="10"> --> reduction process or a method using hydrazine hydrate, dithionite or the like as a reducing agent, etc. can be used for reduction. Preferably, dithionite is used as a reducing agent for reduction. In order to prevent graphene sheets from curling, agglomerating or falling off, it is preferable to make the above reduction reaction proceed gently at a low temperature of 0-50°C.</p>
+<p id="p0022" num="0022">In view of the operability, cost, dispersibility, and conductivity, it is preferable that an atomic ratio of oxygen element to carbon element in the modified graphene of the present invention is 0.05-0.4, and further, the lower limit is preferably 0.1, and the upper limit is preferably 0.25. If the O/C ratio is too low, the physical properties of the modified graphene tend to be close to those of graphene, and the dispersibility is relatively poor; and if the O/C ratio is too high, the resistivity of the modified graphene tends to be too high, zinc powder cannot be fully utilized, and the salt spray resistance time of the coating cannot achieve particularly excellent effects.</p>
+<p id="p0023" num="0023">In view of a grafting rate of the surface treating agent and the dispersity of the modified graphene, it is preferable that an atomic ratio of nitrogen element to<!-- EPO <DP n="11"> --> carbon element in the modified graphene of the present invention is 0.01-0.05, and further, the lower limit is preferably 0.015, and the upper limit is preferably 0.03. If the N/C ratio is too low, functional groups that tend to be grafted cannot achieve an expected dispersion effect; and if the N/C ratio is too high, too many functional groups are grafted, which tends to cause cross-linking between modified graphene, resulting in a decrease in dispersibility. The O/C ratio and N/C ratio can be measured by X-ray photoelectron spectroscopy (XPS).</p>
+<p id="p0024" num="0024">In the present invention, the method of preparing graphene may be as described below, but is not limited thereto. In the course of preparing the above-mentioned modified graphene, the amount of the surface treating agent needs to be controlled between 0.01-0.5 times the mass of graphite oxide. In order to ensure that the surface treating agent can exert its effect, certain functional groups grow on the graphene surface to produce sufficient bonding and dispersion effects, and the amount of the surface treating agent needs to be 0.01 times or more of the treated graphite oxide. If the surface treating agent is used excessively, it will cause excessive grafting of functional groups, which will enable the graphene subjected to surface treatment to have a tendency to crosslink, self-agglomerate,<!-- EPO <DP n="12"> --> and affect the dispersion effect. Meanwhile, excessive functional groups will increase the resistance of the graphene, thereby affecting the conductivity, and further affecting the utilization rate of zinc powder. From the economic point of view and the ease of posttreatment, it is not advisable to use too much surface treating agent. After experimental review, the amount of the surface treating agent is finally limited within 0.5 times the mass of the graphite oxide. The amount of the surface treating agent can finally be characterized by an atomic ratio measured by X-ray photoelectron spectroscopy (XPS).</p>
+<p id="p0025" num="0025">In the present invention, the graphene anti-corrosion coating may be prepared by directly adding modified graphene slurry, or adding modified graphene powder and the corresponding dispersant. As a method for preparing the aforementioned graphene anti-corrosion coating, it is preferable to directly add the modified graphene slurry. This is because the modified graphene in the slurry is already in a well-dispersed state compared with the powder, and has very good compatibility with epoxy resin in the coating. Therefore, this addition method is more conducive to the dispersion of the modified graphene in an epoxy resin substrate than the addition of the powder, and it is<!-- EPO <DP n="13"> --> not prone to agglomeration that may occur in the epoxy resin substrate when the powder is added. Meanwhile, the overall performance of the coating system is prevented from being damaged by too much introduction of the dispersant when the powder is added. Therefore, the high-performance graphene anti-corrosion coating can be obtained more easily by adding the graphene slurry.</p>
+<heading id="h0008">&lt;Curing agent&gt;</heading>
+<p id="p0026" num="0026">In the present invention, in addition to the above-mentioned epoxy resin and modified graphene, a curing agent may be contained. The curing agent is not particularly limited, as long as it is a curing agent commonly used in anti-corrosion coatings. Specifically, one or more of an amine curing agent, an acid anhydride curing agent, a resin curing agent, and an imidazole curing agent may be selected.</p>
+<heading id="h0009">&lt;Solvent&gt;</heading>
+<p id="p0027" num="0027">In the present invention, one or more of toluene, xylene, trimethylbenzene, n-butanol, and water may be enumerated as a solvent used for the coating.<!-- EPO <DP n="14"> --></p>
+<heading id="h0010">&lt;Other additives&gt;</heading>
+<p id="p0028" num="0028">The graphene anti-corrosion coating of the present invention may also contain other additives. A dispersant, a defoamer, a wetting agent, an anti-flash rust agent, a thickener, a thixotropic agent, etc., may be enumerated as other additives, and these additives may be used alone or in combination of two or more.</p>
+<p id="p0029" num="0029">The present invention overcomes the problem that graphene itself is prone to agglomeration due to its high specific surface. By using the surface treating agent to modify the graphene so that it has good dispersity in the substrate, the agglomeration of the graphene is avoided, thereby achieving a high barrier effect. The improvement of the barrier performance can be directly reflected in an oxygen transmission rate of a paint film of the coating. The better the barrier performance, the lower the oxygen transmission rate of the paint film. The oxygen transmission rate of the paint film of the graphene coating of the present invention can reach 0.35g/m<sup>2</sup>·h or less. The film thickness of the graphene coating in the present invention refers to the thickness of the coating which is sprayed on the substrate and dried. In order to characterize the dispersion effect of graphene in the<!-- EPO <DP n="15"> --> coating, a glossiness test is used as a characterization method to indirectly reflect the dispersity of the graphene in the coating. If the graphene is well dispersed in the coating, graphene sheets will be distributed evenly and light is rarely reflected on the coating, so the glossiness will be very low. The glossiness of the paint film of the graphene coating of the present invention can reach 3 degrees or less.</p>
+<p id="p0030" num="0030">The present invention proposes a graphene anti-corrosion coating. By performing surface treatment on graphene, a chemical bonding force is introduced between the graphene and epoxy resin, and the dispersity of the modified graphene in the epoxy resin as a coating substrate is improved by using a binding force between the modified graphene and the epoxy resin. According to the present invention, the high-performance graphene anti-corrosion coating can be obtained through simple steps at a low cost, such that application prospect is more definite. The anti-corrosion coating can be widely applied in many occasions such as ships, containers, and oil tanks. The graphene coating prepared by the method has low cost and superior conductivity, and can also be applied to fields such as anti-static.<!-- EPO <DP n="16"> --></p>
+<heading id="h0011">EMBODIMENTS OF THE INVENTION</heading>
+<p id="p0031" num="0031">The present invention will be further described by the following Embodiments, but these embodiments are only for illustration and are not intended to define the scope of the present invention.</p>
+<heading id="h0012">1. Raw materials</heading>
+<heading id="h0013">(1) Epoxy resin</heading>
+<p id="p0032" num="0032">One or more of epoxy resins E-51, E-44, E-20, E-12, E-06 is/are used as a substrate of a coating.</p>
+<heading id="h0014">(2) Modified graphene</heading>
+<p id="p0033" num="0033">In the present invention, the method of preparing graphene may be as described below, but is not limited thereto. The modified graphene used in the present invention can be obtained by surface treatment of graphene obtained by a chemical reduction method. The commonly used graphene is mainly divided into three categories: CVD graphene, physically exfoliated graphene, and chemically exfoliated graphene. The CVD graphene may be made into a single layer, but there are no functional groups on the<!-- EPO <DP n="17"> --> surface. Therefore, it is difficult to perform surface treatment, resulting in poor dispersity. Meanwhile, the CVD graphene is not suitable for large-scale applications because of high cost. The physically exfoliated graphene is simple in preparation method, but is difficult to be thin, and has the properties close to natural graphite. The surface of chemically exfoliated graphene contains functional groups, may be subjected to surface treatment as required, and may also be made to be very thin. Therefore, the chemically exfoliated graphene is selected in this experiment. Graphite oxide as a raw material is self-made from natural graphite by Hummers method. The natural graphite was purchased from Qingdao Haida Graphite Co., Ltd., and the model is LC-180. The thickness of graphite oxide is finely adjusted by controlling the addition amount of an oxidant during the oxidation process; and the diameter and size distribution of the graphite oxide are adjusted by the micronization treatment at the later stage of the reaction. The micronization processing here refers to ultrasounds and various processing methods with micronization processing functions. The resulting graphite oxide is treated with a surface treating agent, and the surface treatment is carried out at normal temperature and normal pressure. After 3 hours of reaction, modified graphite oxide is obtained. A reducing agent is used to<!-- EPO <DP n="18"> --> reduce the modified graphite oxide to obtain modified graphene (slurry, a concentration of 2%), the reduction is carried out at normal temperature and pressure, and the reaction time is 1.5 hours.</p>
+<p id="p0034" num="0034">Different surface treating agents and reducing agents are used to obtain modified graphene with different parameters, and the performances are shown in Table 1 below. D50/D90 is measured by a volume reference mode of particle size distribution test, the thickness is measured by an atomic force microscope (AFM), and an O/C ratio and a N/C ratio are measured by X-ray photoelectron spectroscopy (XPS).<!-- EPO <DP n="19"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>Table 1: List of modified graphene (slurry, a concentration of 2%)</title>
+<tgroup cols="8">
+<colspec colnum="1" colname="col1" colwidth="11mm"/>
+<colspec colnum="2" colname="col2" colwidth="17mm"/>
+<colspec colnum="3" colname="col3" colwidth="20mm"/>
+<colspec colnum="4" colname="col4" colwidth="18mm"/>
+<colspec colnum="5" colname="col5" colwidth="12mm"/>
+<colspec colnum="6" colname="col6" colwidth="14mm"/>
+<colspec colnum="7" colname="col7" colwidth="56mm"/>
+<colspec colnum="8" colname="col8" colwidth="21mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle">No.</entry>
+<entry align="center" valign="middle">Size D50 (µm)</entry>
+<entry align="center" valign="middle">Thickness (nm)</entry>
+<entry align="center" valign="middle">D90/D50</entry>
+<entry align="center" valign="middle">o/c ratio</entry>
+<entry align="center" valign="middle">N/C ratio</entry>
+<entry align="center" valign="middle">Surface treating agent</entry>
+<entry align="center" valign="middle">Reducing agent</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">Dipyrazolone</entry>
+<entry align="center" valign="middle">Hydrazine hydrate</entry></row>
+<row>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">1.1</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">2-phenylethylamine hydrochloride</entry>
+<entry align="center" valign="middle">Hydroiodic acid vapor</entry></row>
+<row>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">1.4</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">4,4'-Diaminodiphenylmethane</entry>
+<entry align="center" valign="middle">Sodium dithionite</entry></row>
+<row>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">1.5</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">Dopamine hydrochloride</entry>
+<entry align="center" valign="middle">Thermal reduction</entry></row>
+<row>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">Bis(3-methyl-1-phenyl-5-pyrazolone)</entry>
+<entry align="center" valign="middle">Sodium dithionite</entry></row>
+<row>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">3-(2,3-Glyoxypropoxy)propyltrimethoxy silane (KH-560)</entry>
+<entry align="center" valign="middle">Sodium dithionite</entry></row>
+<row>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">Sodium dithionite</entry></row>
+<row>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">Sodium dithionite</entry></row>
+<row>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">0.17</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">Sodium dithionite</entry></row>
+<row>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">0.19</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">Sodium dithionite</entry></row>
+<row>
+<entry align="center" valign="middle">11</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">0.25</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">Sodium dithionite</entry></row>
+<row>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">0.4</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">Sodium dithionite</entry></row>
+<row>
+<entry align="center" valign="middle">13</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">0.5</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">Sodium dithionite</entry></row>
+<row>
+<entry align="center" valign="middle">14</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.005</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">Sodium dithionite</entry></row>
+<row>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">Sodium dithionite</entry></row>
+<row>
+<entry align="center" valign="middle">16</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">Sodium dithionite</entry></row>
+<row>
+<entry align="center" valign="middle">17</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.05</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">Sodium dithionite</entry></row>
+<row>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.07</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">Sodium dithionite</entry></row>
+<row>
+<entry align="center" valign="middle">19</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.16</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">Sodium dithionite</entry></row>
+<row>
+<entry namest="col1" nameend="col8" align="center" valign="middle"/></row>
+<row>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1.5</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">Sodium dithionite</entry></row>
+<row>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">Sodium dithionite</entry></row>
+<row>
+<entry align="center" valign="middle">22</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">Sodium dithionite</entry></row>
+<row>
+<entry align="center" valign="middle">23</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">Sodium dithionite</entry></row>
+<row>
+<entry align="center" valign="middle">24</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">Sodium dithionite</entry></row>
+<row>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">Sodium dithionite</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0035" num="0035">2-Aminobenzylamine: Sinopharm Chemical Reagent Co., Ltd., used directly.</p>
+<p id="p0036" num="0036">Bispyrazolone: Sinopharm Chemical Reagent Co., Ltd., used directly.</p>
+<p id="p0037" num="0037">Dopamine hydrochloride: Sinopharm Chemical Reagent Co., Ltd., used directly.</p>
+<p id="p0038" num="0038">2-phenylethylamine hydrochloride: Sinopharm Chemical<!-- EPO <DP n="20"> --> Reagent Co., Ltd., used directly.</p>
+<p id="p0039" num="0039">4,4'-Diaminodiphenylmethane: Shanghai Aladdin Reagent Co., Ltd., used directly.</p>
+<p id="p0040" num="0040">Bis(3-methyl-1-phenyl-5-pyrazolone): Shanghai Aladdin Reagent Co., Ltd., used directly.</p>
+<p id="p0041" num="0041">3-(2,3-Glyoxypropoxy)propyltrimethoxysilane (KH-560): Shanghai Aladdin Reagent Co., Ltd., used directly.</p>
+<heading id="h0015">(3) Reducing agent</heading>
+<p id="p0042" num="0042">Sodium dithionite: Sinopharm Chemical Reagent Co., Ltd., used directly.</p>
+<p id="p0043" num="0043">Hydrazine hydrate: Sinopharm Chemical Reagent Co., Ltd., used directly.</p>
+<p id="p0044" num="0044">Hydroiodic acid: Sinopharm Chemical Reagent Co., Ltd., used directly.</p>
+<p id="p0045" num="0045">(4) Other additives: bentonite, barite, iron oxide red, zinc powder, Sinopharm Chemical Reagent Co., Ltd., used directly; a dispersant (silicate dispersant:<!-- EPO <DP n="21"> --> DISPERBYK-103), a defoamer (organosilicone defoamer: BYK-015), a wetting agent (polyester modified organosilicone wetting agent: DISPERBYK-142), an anti-flash rust agent (organic zinc chelate anti-flash rust agent: FA-179), all purchased from Kunshan Daiquan Fine Chemical &amp; Technology Co., Ltd., used directly.</p>
+<p id="p0046" num="0046">2. Measuring methods of related properties in the embodiments and comparative examples of the present invention are as follows:
+<ol id="ol0001" compact="compact" ol-style="">
+<li>A. Content of graphene in a graphene anti-corrosion coating: calculated by the following formula:
+<br/>
+<maths id="math0001" num=""><math display="block"><mtable><mtr><mtd><mrow><mi>content</mi><mspace width="1ex"/><mi>of</mi><mspace width="1ex"/><mi>graphene</mi></mrow></mtd></mtr><mtr><mtd><mrow><mi>in</mi><mspace width="1ex"/><mi>coating</mi></mrow></mtd></mtr></mtable><mo>=</mo><mfrac><mrow><mi>addition</mi><mspace width="1ex"/><mi>amount</mi><mspace width="1ex"/><mi>of</mi><mspace width="1ex"/><mi>graphene</mi><mspace width="1ex"/><mi>in</mi><mspace width="1ex"/><mi>coating</mi></mrow><mrow><mi>total</mi><mspace width="1ex"/><mi>mass</mi><mspace width="1ex"/><mi>of</mi><mspace width="1ex"/><mi>coating</mi><mspace width="1ex"/><mi>solid</mi></mrow></mfrac><mo>×</mo><mn>100</mn><mi>%</mi></math><img id="ib0001" file="imgb0001.tif" wi="150" he="11" img-content="math" img-format="tif"/></maths>
+</li>
+<li>B. Thickness of a graphene coating layer: paint film thickness gauge (TIME TT220, China)
+<br/>
+Test method: after the thickness gauge is reset to zero, a dried paint film sample is put under a probe of an instrument for measurement. Different areas on the paint film sample are selected to be measured for 10 times, and an average value is then taken.<!-- EPO <DP n="22"> -->
+</li>
+<li>C. Bond energy binding: infrared spectrum analysis (SHIMADZU AIM-9000, Japan)
+<br/>
+Test method: a Fourier transform infrared spectrometer is used to test the dried coating, and whether functional groups and chemical bonds appear or disappear are determined according to characteristic absorption peaks in an infrared spectrum.
+</li>
+<li>D. Flexibility: bending tester (LEPU FA-YZQ-II, China)
+<br/>
+Test method: the coating is applied on a steel plate; after a paint film is dried, the bending tester is opened completely, shaft rods of different diameters are selected and inserted into a sample plate, so that the coating faces a seat plate. The instrument is closed at a steady speed within 1-2s, and a test plate is bent by 180° around the axis. The flexibility of the paint film is expressed by the smallest shaft rod diameter that does not cause the paint film to crack.
+</li>
+<li>E. Impact resistance: impact tester (DALAI QCJ-120, China)<!-- EPO <DP n="23"> -->
+<br/>
+Test method: the dried paint film is placed under the impact tester, a heavy hammer drops with a fixed mass on the test board, and the impact resistance of the paint film is expressed by the maximum height that does not cause damage to the paint film.
+</li>
+<li>F. Resistivity: Resistivity tester (DESCO EMI19787, USA)
+<br/>
+Test method: the coating is applied onto an insulator material (such as PET), and after the coating is dried into a paint film, the surface resistance of the coating is tested by the resistivity tester.
+</li>
+<li>G. Glossiness: glossiness meter (SPEEDRE SDR600, China)
+<br/>
+Test method: the glossiness of the coating is measured based on the surface reflection of light relative to a polished glass reference standard. The amount of light reflected on the surface depends on the angle of incidence and the properties of the surface. The glossiness is classified as matte, semi-gloss or high gloss. In order to determine the most suitable measurement<!-- EPO <DP n="24"> --> angle, the measurement starts with a glossiness meter set at an incident angle of 90°. If the test result is 10-70, the coating layer is called a "semi-gloss" coating layer and should be measured at an angle of 60°. If the test result is less than 10, the product is called a "low-gloss" product and should be measured at an angle of 85°. If the test result is larger than 70, the product is called a "high-gloss" product and should be measured at an angle of 20°.
+</li>
+<li>H. Oxygen transmission rate: gas penetration tester (Labthink CLASSIC 216, China)
+<br/>
+Test method: the coating is made into a film, and the gas permeability test is performed on the gas penetration tester by using a differential pressure method according to the JIS K7126-A standard. The coating film to be tested is fixed in the middle of a test chamber to divide the chamber into an upper chamber and a lower chamber with a constant pressure difference between them. Gas molecules will penetrate the sample from the high-pressure chamber into the low-pressure chamber, the change in pressure in the low-pressure chamber is then monitored, and the gas transmission rate is calculated by the system.
+</li>
+<li><!-- EPO <DP n="25"> --> I. Salt spray resistance: neutral salt spray test box (HAIDA HD-E808-120, China)</li>
+</ol></p>
+<p id="p0047" num="0047">Test method: the coating is applied to the steel plate that has been sandblasted, according to the national standard GB/T 1771-2007; and after the coating is dried, the surface is scratched and continuously tested in the neutral salt spray test box. The salt spray resistance of the coating is indicated by a time when the coating blisters and peels off, or the scratch or rust exceed 2mm.</p>
+<heading id="h0016"><u>Embodiment 1</u></heading>
+<p id="p0048" num="0048">13g of curing agent is weighed, added with 20g of water, O.lg of wetting agent and 0.2g of dispersant, and then stirred;<br/>
+after stirring for 20 minutes, O.lg of dispersant, O.lg of defoamer, and 0.3g of bentonite are added to the system, and continuously stirred for 15 minutes;<br/>
+7g of talcum powder is added, stirred for 5 minutes, added with 4g of barite, 7g of iron oxide red and 0.2g of defoamer, and then stirred for 15 minutes.</p>
+<p id="p0049" num="0049"><!-- EPO <DP n="26"> --> 0.2g of anti-flash rust agent is added, stirred and dispersed for 15 minutes.</p>
+<p id="p0050" num="0050">0.03g of modified graphene is added and dispersed for 20 minutes;<br/>
+215.2g of zinc powder and 40g of water are added to ensure the wetting of the system;<br/>
+60g of epoxy resin is added and dispersed for 15 minutes.</p>
+<p id="p0051" num="0051">In order to ensure the dispersity, a homogenizer is used to disperse for 10 minutes to obtain a graphene anti-corrosion coating.</p>
+<p id="p0052" num="0052">After the system is filtered with a 200-mesh filter screen, the finished coating is sprayed on a sandblasted steel plate, and various performances of the coating are then tested. The specific performances are shown in Table 2-1.</p>
+<heading id="h0017"><u>Comparative example 1</u></heading>
+<p id="p0053" num="0053">Except that the modified graphene is not added, the<!-- EPO <DP n="27"> --> same operations as in Embodiment 1 are performed to obtain the graphene anti-corrosion coating shown in Table 2-1.</p>
+<heading id="h0018"><u>Comparative example 2</u></heading>
+<p id="p0054" num="0054">In addition to changing the modified graphene to graphene without surface treatment, the same operations as in Embodiment 1 are performed to obtain the graphene anti-corrosion coating shown in Table 2-1.</p>
+<heading id="h0019"><u>Embodiments 2-6, Comparative examples 3-5</u></heading>
+<p id="p0055" num="0055">The content of the modified graphene of the coating in Embodiment 1 is changed as shown in Table 2-1 and Table 2-2, and the same operations as in Embodiment 1 are performed to obtain the graphene anti-corrosion coatings shown in Table 2-1 and Table 2-2.</p>
+<heading id="h0020"><u>Embodiments 7-24</u></heading>
+<p id="p0056" num="0056">Except that the content of the modified graphene in Embodiment 1 is changed as shown in Table 3-1, Table 3-2 and Table 3-3, the same operations as in Embodiment 1 are performed to obtain the graphene anti-corrosion coatings shown in Table 3-1, Table 3-2 and Table 3-3.<!-- EPO <DP n="28"> --></p>
+<heading id="h0021"><u>Embodiments 25-30</u></heading>
+<p id="p0057" num="0057">Except that the content of the modified graphene in Embodiment 1 is changed as shown in Table 4, the same operations as in Embodiment 1 are performed to obtain the graphene anti-corrosion coating shown in Table 4.
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>Table 2-1</title>
+<tgroup cols="7">
+<colspec colnum="1" colname="col1" colwidth="54mm"/>
+<colspec colnum="2" colname="col2" colwidth="33mm"/>
+<colspec colnum="3" colname="col3" colwidth="30mm"/>
+<colspec colnum="4" colname="col4" colwidth="30mm"/>
+<colspec colnum="5" colname="col5" colwidth="33mm"/>
+<colspec colnum="6" colname="col6" colwidth="33mm"/>
+<colspec colnum="7" colname="col7" colwidth="33mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">Embodiment 1</entry>
+<entry align="center" valign="middle">Comparative example 1</entry>
+<entry align="center" valign="middle">Comparative example 2</entry>
+<entry align="center" valign="middle">Comparative example 3</entry>
+<entry align="center" valign="middle">Embodiment 2</entry>
+<entry align="center" valign="middle">Embodiment 3</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Modified graphene (No.)</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">None</entry>
+<entry align="center" valign="middle">None</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">7</entry></row>
+<row>
+<entry align="center" valign="middle">Surface treating agent</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry morerows="4" align="center" valign="middle">/ /</entry>
+<entry align="center" valign="middle">/ /</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry></row>
+<row>
+<entry align="center" valign="middle">O/C ratio</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry></row>
+<row>
+<entry align="center" valign="middle">N/C ratio</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">0</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">0.015</entry></row>
+<row>
+<entry align="center" valign="middle">Sheet diameter D50 (µm)</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry align="center" valign="middle">Thickness (nm)</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry align="center" valign="middle">Epoxy resin</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry></row>
+<row>
+<entry align="center" valign="middle">Addition amount of graphene (wt%)</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.008</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">0.03</entry></row>
+<row>
+<entry align="center" valign="middle">Thickness of paint film of coating (µm)</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry></row>
+<row>
+<entry align="center" valign="middle">Addition amount of zinc powder (wt%)</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry></row>
+<row>
+<entry align="center" valign="middle">C-N bonding interaction</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">No</entry>
+<entry align="center" valign="middle">No</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry></row>
+<row>
+<entry align="center" valign="middle">Characteristic peaks appearing at 1000-1300cm<sup>-1</sup> in infrared spectrum</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">No</entry>
+<entry align="center" valign="middle">No</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry></row>
+<row>
+<entry align="center" valign="middle">Toughness of paint film (mm)</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry align="center" valign="middle">Impact resistance of paint film (kg · cm)</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">65</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">75</entry></row>
+<row>
+<entry align="center" valign="middle">Resistivity (Ωm)</entry>
+<entry align="center" valign="middle">3 x 10<sup>6</sup></entry>
+<entry align="center" valign="middle">1 x 10<sup>11</sup></entry>
+<entry align="center" valign="middle">1 x 10<sup>10</sup></entry>
+<entry align="center" valign="middle">1 x 10<sup>7</sup></entry>
+<entry align="center" valign="middle">1 x 10<sup>6</sup></entry>
+<entry align="center" valign="middle">7 x 10<sup>5</sup></entry></row>
+<row>
+<entry align="center" valign="middle">Glossiness</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">23</entry>
+<entry align="center" valign="middle">6.3</entry>
+<entry align="center" valign="middle">1.1</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry align="center" valign="middle">Oxygen transmission rate (g/m<sup>2</sup> · h)</entry>
+<entry align="center" valign="middle">0.35</entry>
+<entry align="center" valign="middle">7.37</entry>
+<entry align="center" valign="middle">5.22</entry>
+<entry align="center" valign="middle">4.48</entry>
+<entry align="center" valign="middle">0.29</entry>
+<entry align="center" valign="middle">0.27</entry></row>
+<row>
+<entry align="center" valign="middle">Salt spray resistance time (h)</entry>
+<entry align="center" valign="middle">2590</entry>
+<entry align="center" valign="middle">780</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">1320</entry>
+<entry align="center" valign="middle">2600</entry>
+<entry align="center" valign="middle">2650</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="29"> -->
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>Table 2-2</title>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" colwidth="56mm"/>
+<colspec colnum="2" colname="col2" colwidth="36mm"/>
+<colspec colnum="3" colname="col3" colwidth="36mm"/>
+<colspec colnum="4" colname="col4" colwidth="36mm"/>
+<colspec colnum="5" colname="col5" colwidth="39mm"/>
+<colspec colnum="6" colname="col6" colwidth="39mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">Embodiment 4</entry>
+<entry align="center" valign="middle">Embodiment 5</entry>
+<entry align="center" valign="middle">Embodiment 6</entry>
+<entry align="center" valign="middle">Comparative example 4</entry>
+<entry align="center" valign="middle">Comparative example 5</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Modified graphene (No.)</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">7</entry></row>
+<row>
+<entry align="center" valign="middle">Surface treating agent</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry></row>
+<row>
+<entry align="center" valign="middle">O/C ratio</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry></row>
+<row>
+<entry align="center" valign="middle">N/C ratio</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">0</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">0.015</entry></row>
+<row>
+<entry align="center" valign="middle">Sheet diameter D50 (µm)</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry align="center" valign="middle">Epoxy resin</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry></row>
+<row>
+<entry align="center" valign="middle">Thickness (nm)</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry align="center" valign="middle">Addition amount of graphene (wt%)</entry>
+<entry align="center" valign="middle">0.05</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.2</entry>
+<entry align="center" valign="middle">0.5</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry align="center" valign="middle">Thickness of paint film of coating (µm)</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry></row>
+<row>
+<entry align="center" valign="middle">Addition amount of zinc powder (wt%)</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry></row>
+<row>
+<entry align="center" valign="middle">C-N bonding interaction</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry></row>
+<row>
+<entry align="center" valign="middle">Characteristic peaks appearing at 1000-1300cm<sup>-1</sup> in infrared spectrum</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry></row>
+<row>
+<entry align="center" valign="middle">Toughness of paint film (mm)</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">2</entry></row>
+<row>
+<entry align="center" valign="middle">Impact resistance of paint film (kg · cm)</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">40</entry></row>
+<row>
+<entry align="center" valign="middle">Resistivity (Ωm)</entry>
+<entry align="center" valign="middle">2 x 10<sup>5</sup></entry>
+<entry align="center" valign="middle">1 x 10<sup>5</sup></entry>
+<entry align="center" valign="middle">6 x 10<sup>4</sup></entry>
+<entry align="center" valign="middle">2 x 10<sup>4</sup></entry>
+<entry align="center" valign="middle">5 x 10<sup>3</sup></entry></row>
+<row>
+<entry align="center" valign="middle">Glossiness</entry>
+<entry align="center" valign="middle">0.5</entry>
+<entry align="center" valign="middle">4.3</entry>
+<entry align="center" valign="middle">6.6</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">27</entry></row>
+<row>
+<entry align="center" valign="middle">Oxygen transmission rate (g/m<sup>2</sup> · h)</entry>
+<entry align="center" valign="middle">0.12</entry>
+<entry align="center" valign="middle">3.01</entry>
+<entry align="center" valign="middle">3.75</entry>
+<entry align="center" valign="middle">10.44</entry>
+<entry align="center" valign="middle">102.54</entry></row>
+<row>
+<entry align="center" valign="middle">Salt spray resistance time (h)</entry>
+<entry align="center" valign="middle">2960</entry>
+<entry align="center" valign="middle">1630</entry>
+<entry align="center" valign="middle">1460</entry>
+<entry align="center" valign="middle">660</entry>
+<entry align="center" valign="middle">100</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0058" num="0058">As shown in Table 2-1 and Table 2-2, it can be seen in combination with Embodiments 1-6 and Comparative Examples 1-5 that within a certain range, the addition of the modified graphene can greatly improve the performances of the coating. If this range is exceeded, the graphene content is too high, such that the graphene is prone to agglomeration, which reduces the dispersity of the graphene in the coating. At this time, the agglomeration may cause local defects in the coating, so the large amount of<!-- EPO <DP n="30"> --> graphene will reduce the performances of the coating. When modified graphene is added to the coating, the impact resistance and toughness are promoted, combination bonds are formed, the oxygen transmission rate and glossiness decrease, and the salt spray resistance time increases, that is, the overall performance is improved.
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title>Table 3-1</title>
+<tgroup cols="7">
+<colspec colnum="1" colname="col1" colwidth="48mm"/>
+<colspec colnum="2" colname="col2" colwidth="33mm"/>
+<colspec colnum="3" colname="col3" colwidth="33mm"/>
+<colspec colnum="4" colname="col4" colwidth="33mm"/>
+<colspec colnum="5" colname="col5" colwidth="33mm"/>
+<colspec colnum="6" colname="col6" colwidth="33mm"/>
+<colspec colnum="7" colname="col7" colwidth="33mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">Embodiment 7</entry>
+<entry align="center" valign="middle">Embodiment 8</entry>
+<entry align="center" valign="middle">Embodiment 9</entry>
+<entry align="center" valign="middle">Embodiment 10</entry>
+<entry align="center" valign="middle">Embodiment 11</entry>
+<entry align="center" valign="middle">Embodiment 12</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Modified graphene (No.)</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">11</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">13</entry></row>
+<row>
+<entry align="center" valign="middle">Surface treating agent</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry></row>
+<row>
+<entry align="center" valign="middle">O/C ratio</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">0.11</entry>
+<entry align="center" valign="middle">0.19</entry>
+<entry align="center" valign="middle">0.25</entry>
+<entry align="center" valign="middle">0.4</entry>
+<entry align="center" valign="middle">0.5</entry></row>
+<row>
+<entry align="center" valign="middle">N/C ratio</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">0.015</entry></row>
+<row>
+<entry align="center" valign="middle">Sheet diameter D50 (µm)</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry align="center" valign="middle">Thickness (nm)</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry align="center" valign="middle">Epoxy resin</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry></row>
+<row>
+<entry align="center" valign="middle">Addition amount of graphene (wt%)</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.01</entry></row>
+<row>
+<entry align="center" valign="middle">Thickness of paint film of coating (µm)</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry></row>
+<row>
+<entry align="center" valign="middle">Addition amount of zinc powder (wt%)</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry></row>
+<row>
+<entry align="center" valign="middle">C-N bonding interaction</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry></row>
+<row>
+<entry align="center" valign="middle">Characteristic peaks appearing at 1000-1300cm<sup>-1</sup> in infrared spectrum</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry></row>
+<row>
+<entry align="center" valign="middle">Toughness of paint film (mm)</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry align="center" valign="middle">Impact resistance of paint film (kg · cm)</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">70</entry></row>
+<row>
+<entry align="center" valign="middle">Resistivity (Ωm)</entry>
+<entry align="center" valign="middle">1 x 10<sup>6</sup></entry>
+<entry align="center" valign="middle">5 x 10<sup>6</sup></entry>
+<entry align="center" valign="middle">7 x 10<sup>6</sup></entry>
+<entry align="center" valign="middle">9 x 10<sup>6</sup></entry>
+<entry align="center" valign="middle">1 x 10<sup>7</sup></entry>
+<entry align="center" valign="middle">7 x 10<sup>7</sup></entry></row>
+<row>
+<entry align="center" valign="middle">Glossiness</entry>
+<entry align="center" valign="middle">2.9</entry>
+<entry align="center" valign="middle">0.5</entry>
+<entry align="center" valign="middle">0.7</entry>
+<entry align="center" valign="middle">0.9</entry>
+<entry align="center" valign="middle">1.1</entry>
+<entry align="center" valign="middle">2.9</entry></row>
+<row>
+<entry align="center" valign="middle">Oxygen transmission rate (g/m<sup>2</sup> · h)</entry>
+<entry align="center" valign="middle">1.18</entry>
+<entry align="center" valign="middle">0.15</entry>
+<entry align="center" valign="middle">0.21</entry>
+<entry align="center" valign="middle">0.23</entry>
+<entry align="center" valign="middle">0.27</entry>
+<entry align="center" valign="middle">1.26</entry></row>
+<row>
+<entry align="center" valign="middle">Salt spray resistance time (h)</entry>
+<entry align="center" valign="middle">1900</entry>
+<entry align="center" valign="middle">2850</entry>
+<entry align="center" valign="middle">2780</entry>
+<entry align="center" valign="middle">2760</entry>
+<entry align="center" valign="middle">2660</entry>
+<entry align="center" valign="middle">1800</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="31"> -->
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<title>Table 3-2</title>
+<tgroup cols="7">
+<colspec colnum="1" colname="col1" colwidth="48mm"/>
+<colspec colnum="2" colname="col2" colwidth="33mm"/>
+<colspec colnum="3" colname="col3" colwidth="33mm"/>
+<colspec colnum="4" colname="col4" colwidth="33mm"/>
+<colspec colnum="5" colname="col5" colwidth="33mm"/>
+<colspec colnum="6" colname="col6" colwidth="33mm"/>
+<colspec colnum="7" colname="col7" colwidth="33mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">Embodiment 13</entry>
+<entry align="center" valign="middle">Embodiment 14</entry>
+<entry align="center" valign="middle">Embodiment 15</entry>
+<entry align="center" valign="middle">Embodiment 16</entry>
+<entry align="center" valign="middle">Embodiment 17</entry>
+<entry align="center" valign="middle">Embodiment 18</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Modified graphene (No.)</entry>
+<entry align="center" valign="middle">14</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">16</entry>
+<entry align="center" valign="middle">17</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">19</entry></row>
+<row>
+<entry align="center" valign="middle">Surface treating agent</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry></row>
+<row>
+<entry align="center" valign="middle">O/C ratio</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry></row>
+<row>
+<entry align="center" valign="middle">N/C ratio</entry>
+<entry align="center" valign="middle">0.005</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">0.05</entry>
+<entry align="center" valign="middle">0.07</entry>
+<entry align="center" valign="middle">0.16</entry></row>
+<row>
+<entry align="center" valign="middle">Sheet diameter D50 (µm)</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry align="center" valign="middle">Thickness (nm)</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry align="center" valign="middle">Epoxy resin</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry></row>
+<row>
+<entry align="center" valign="middle">Addition amount of graphene (wt%)</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.01</entry></row>
+<row>
+<entry align="center" valign="middle">Thickness of paint film of coating (µm)</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry></row>
+<row>
+<entry align="center" valign="middle">Addition amount of zinc powder (wt%)</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry></row>
+<row>
+<entry align="center" valign="middle">C-N bonding interaction</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry></row>
+<row>
+<entry align="center" valign="middle">Characteristic peaks appearing at 1000-1300cm<sup>-1</sup> in infrared spectrum</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry></row>
+<row>
+<entry align="center" valign="middle">Toughness of paint film (mm)</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry align="center" valign="middle">Impact resistance of paint film (kg · cm)</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">65</entry></row>
+<row>
+<entry align="center" valign="middle">Resistivity (Ωm)</entry>
+<entry align="center" valign="middle">8 x 10<sup>5</sup></entry>
+<entry align="center" valign="middle">2 x 10<sup>6</sup></entry>
+<entry align="center" valign="middle">6 x 10<sup>6</sup></entry>
+<entry align="center" valign="middle">7 x 10<sup>6</sup></entry>
+<entry align="center" valign="middle">9 x 10<sup>7</sup></entry>
+<entry align="center" valign="middle">7 x 10<sup>8</sup></entry></row>
+<row>
+<entry align="center" valign="middle">Glossiness</entry>
+<entry align="center" valign="middle">2.9</entry>
+<entry align="center" valign="middle">2.1</entry>
+<entry align="center" valign="middle">0.6</entry>
+<entry align="center" valign="middle">1.7</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">5.4</entry></row>
+<row>
+<entry align="center" valign="middle">Oxygen transmission rate (g/m<sup>2</sup> · h)</entry>
+<entry align="center" valign="middle">1.25</entry>
+<entry align="center" valign="middle">0.89</entry>
+<entry align="center" valign="middle">0.18</entry>
+<entry align="center" valign="middle">0.77</entry>
+<entry align="center" valign="middle">1.93</entry>
+<entry align="center" valign="middle">3.81</entry></row>
+<row>
+<entry align="center" valign="middle">Salt spray resistance time (h)</entry>
+<entry align="center" valign="middle">1820</entry>
+<entry align="center" valign="middle">2200</entry>
+<entry align="center" valign="middle">2810</entry>
+<entry align="center" valign="middle">2400</entry>
+<entry align="center" valign="middle">1560</entry>
+<entry align="center" valign="middle">1420</entry></row></tbody></tgroup>
+</table>
+</tables>
+<tables id="tabl0006" num="0006">
+<table frame="all">
+<title>Table 3-3</title>
+<tgroup cols="7">
+<colspec colnum="1" colname="col1" colwidth="48mm"/>
+<colspec colnum="2" colname="col2" colwidth="33mm"/>
+<colspec colnum="3" colname="col3" colwidth="33mm"/>
+<colspec colnum="4" colname="col4" colwidth="33mm"/>
+<colspec colnum="5" colname="col5" colwidth="33mm"/>
+<colspec colnum="6" colname="col6" colwidth="33mm"/>
+<colspec colnum="7" colname="col7" colwidth="33mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">Embodiment 19</entry>
+<entry align="center" valign="middle">Embodiment 20</entry>
+<entry align="center" valign="middle">Embodiment 21</entry>
+<entry align="center" valign="middle">Embodiment 22</entry>
+<entry align="center" valign="middle">Embodiment 23</entry>
+<entry align="center" valign="middle">Embodiment 24</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Modified graphene (No.)</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">22</entry>
+<entry align="center" valign="middle">23</entry>
+<entry align="center" valign="middle">24</entry>
+<entry align="center" valign="middle">25</entry></row>
+<row>
+<entry align="center" valign="middle">Surface treating agent</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry>
+<entry align="center" valign="middle">2-Aminobenzylamine</entry></row>
+<row>
+<entry align="center" valign="middle">O/C ratio</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry></row>
+<row>
+<entry align="center" valign="middle">N/C ratio</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">0.015</entry></row>
+<row>
+<entry align="center" valign="middle">Sheet diameter D50 (µm)</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry align="center" valign="middle">Thickness (nm)</entry>
+<entry align="center" valign="middle">1.5</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">15</entry></row>
+<row>
+<entry align="center" valign="middle">Epoxy resin</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-44</entry></row>
+<row>
+<entry align="center" valign="middle">Addition amount of graphene (wt%)</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.01</entry></row>
+<row>
+<entry align="center" valign="middle">Thickness of paint film of coating (µm)</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry></row>
+<row>
+<entry align="center" valign="middle">Addition amount of zinc powder (wt%)</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry></row>
+<row>
+<entry align="center" valign="middle">C-N bonding interaction</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry></row>
+<row>
+<entry align="center" valign="middle">Characteristic peaks appearing at 1000-1300cm<sup>-1</sup> in infrared spectrum</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry></row>
+<row>
+<entry align="center" valign="middle">Toughness of paint film (mm)</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry></row><!-- EPO <DP n="32"> -->
+<row>
+<entry align="center" valign="middle">Impact resistance of paint film (kg·cm)</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">70</entry></row>
+<row>
+<entry align="center" valign="middle">Resistivity (Ωm)</entry>
+<entry align="center" valign="middle">4 x 10<sup>5</sup></entry>
+<entry align="center" valign="middle">7 x 10<sup>5</sup></entry>
+<entry align="center" valign="middle">6 x 10<sup>6</sup></entry>
+<entry align="center" valign="middle">8 x 10<sup>6</sup></entry>
+<entry align="center" valign="middle">2 x 10<sup>7</sup></entry>
+<entry align="center" valign="middle">3 x 10<sup>8</sup></entry></row>
+<row>
+<entry align="center" valign="middle">Glossiness</entry>
+<entry align="center" valign="middle">2.2</entry>
+<entry align="center" valign="middle">0.6</entry>
+<entry align="center" valign="middle">1.5</entry>
+<entry align="center" valign="middle">1.9</entry>
+<entry align="center" valign="middle">2.3</entry>
+<entry align="center" valign="middle">2.4</entry></row>
+<row>
+<entry align="center" valign="middle">Oxygen transmission rate (g/m<sup>2</sup> · h)</entry>
+<entry align="center" valign="middle">0.95</entry>
+<entry align="center" valign="middle">0.16</entry>
+<entry align="center" valign="middle">0.38</entry>
+<entry align="center" valign="middle">0.54</entry>
+<entry align="center" valign="middle">0.81</entry>
+<entry align="center" valign="middle">1.03</entry></row>
+<row>
+<entry align="center" valign="middle">Salt spray resistance time (h)</entry>
+<entry align="center" valign="middle">2130</entry>
+<entry align="center" valign="middle">2830</entry>
+<entry align="center" valign="middle">2550</entry>
+<entry align="center" valign="middle">2470</entry>
+<entry align="center" valign="middle">2250</entry>
+<entry align="center" valign="middle">2080</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0059" num="0059">As shown in Table 2-1, Table 2-2, Table 3-1, Table 3-2, and Table 3-3, in combination with Embodiments 1, 7-12, the lower the O/C ratio within a certain range, the higher the conductivity of the modified graphene, and the higher the overall conductivity of the coating, which facilitates increasing the utilization rate of zinc powder and prolonging the anti-corrosion time. In combination with Embodiments 1, 13-18, it can be seen that within a certain range, the N/C ratio is high, which indicates that a grafting rate of the surface treating agent is relatively high, the dispersity of the graphene will be relatively better, and the overall performance of the graphene coating is also relatively good.
+<tables id="tabl0007" num="0007">
+<table frame="all">
+<title>Table 4</title>
+<tgroup cols="7">
+<colspec colnum="1" colname="col1" colwidth="51mm"/>
+<colspec colnum="2" colname="col2" colwidth="24mm"/>
+<colspec colnum="3" colname="col3" colwidth="32mm"/>
+<colspec colnum="4" colname="col4" colwidth="34mm"/>
+<colspec colnum="5" colname="col5" colwidth="25mm"/>
+<colspec colnum="6" colname="col6" colwidth="32mm"/>
+<colspec colnum="7" colname="col7" colwidth="46mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">Embodiment 25</entry>
+<entry align="center" valign="middle">Embodiment 26</entry>
+<entry align="center" valign="middle">Embodiment 27</entry>
+<entry align="center" valign="middle">Embodiment 28</entry>
+<entry align="center" valign="middle">Embodiment 29</entry>
+<entry align="center" valign="middle">Embodiment 30</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Modified graphene (No.)</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">6</entry></row>
+<row>
+<entry align="center" valign="middle">Surface treating agent</entry>
+<entry align="center" valign="middle">Dipyrazolone</entry>
+<entry align="center" valign="middle">2-phenylethylamine hydrochloride</entry>
+<entry align="center" valign="middle">4,4'-Diaminodiphenylme thane</entry>
+<entry align="center" valign="middle">Dopamine hydrochloride</entry>
+<entry align="center" valign="middle">Bis (3-methyl-1-phenyl-5-pyrazolone)</entry>
+<entry align="center" valign="middle">3-(2,3-Glyoxypropoxy)pro pyltrimethoxysila ne (KH-560)</entry></row>
+<row>
+<entry align="center" valign="middle">O/C ratio</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.1</entry></row>
+<row>
+<entry align="center" valign="middle">N/C ratio</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">0</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">0.015</entry>
+<entry align="center" valign="middle">0</entry></row>
+<row>
+<entry align="center" valign="middle">Sheet diameter D50 (µm)</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry align="center" valign="middle">Thickness (nm)</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry align="center" valign="middle">Epoxy resin</entry>
+<entry align="center" valign="middle">E-44</entry>
+<entry align="center" valign="middle">E-20</entry>
+<entry align="center" valign="middle">E-51</entry>
+<entry align="center" valign="middle">E-12</entry>
+<entry align="center" valign="middle">E-06</entry>
+<entry align="center" valign="middle">E-51</entry></row>
+<row>
+<entry align="center" valign="middle">Addition amount of graphene (wt%)</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.01</entry></row><!-- EPO <DP n="33"> -->
+<row>
+<entry align="center" valign="middle">Thickness of paint film of coating (µm)</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry></row>
+<row>
+<entry align="center" valign="middle">Addition amount of zinc powder (wt%)</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry></row>
+<row>
+<entry align="center" valign="middle">C-N bonding interaction</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">No</entry></row>
+<row>
+<entry align="center" valign="middle">Characteristic peaks appearing at 1000-1300cm<sup>-1</sup> in infrared spectrum</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">Yes</entry>
+<entry align="center" valign="middle">No</entry></row>
+<row>
+<entry align="center" valign="middle">Toughness of paint film (mm)</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry align="center" valign="middle">Impact resistance of paint film (kg·cm)</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">65</entry></row>
+<row>
+<entry align="center" valign="middle">Resistivity (Ωm)</entry>
+<entry align="center" valign="middle">3 x 10<sup>6</sup></entry>
+<entry align="center" valign="middle">7 x 10<sup>6</sup></entry>
+<entry align="center" valign="middle">8 x 10<sup>6</sup></entry>
+<entry align="center" valign="middle">2 x 10<sup>7</sup></entry>
+<entry align="center" valign="middle">9 x 10<sup>6</sup></entry>
+<entry align="center" valign="middle">3 x 10<sup>8</sup></entry></row>
+<row>
+<entry align="center" valign="middle">Glossiness</entry>
+<entry align="center" valign="middle">2.4</entry>
+<entry align="center" valign="middle">2.1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">2.3</entry>
+<entry align="center" valign="middle">2.7</entry>
+<entry align="center" valign="middle">4.2</entry></row>
+<row>
+<entry align="center" valign="middle">Oxygen transmission rate (g/m<sup>2</sup> · h)</entry>
+<entry align="center" valign="middle">0.84</entry>
+<entry align="center" valign="middle">0.74</entry>
+<entry align="center" valign="middle">0.24</entry>
+<entry align="center" valign="middle">0.8</entry>
+<entry align="center" valign="middle">1.06</entry>
+<entry align="center" valign="middle">3.21</entry></row>
+<row>
+<entry align="center" valign="middle">Salt spray resistance time (h)</entry>
+<entry align="center" valign="middle">2300</entry>
+<entry align="center" valign="middle">2430</entry>
+<entry align="center" valign="middle">2700</entry>
+<entry align="center" valign="middle">2360</entry>
+<entry align="center" valign="middle">2050</entry>
+<entry align="center" valign="middle">1490</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0060" num="0060">As shown in Table 2-1, Table 2-2 and Table 4, in combination with Embodiments 1, 25-30 and Comparative Example 2, arylaminos, pyrazolones, and catechols are used as the surface treating agents to treat graphene oxides with different physical parameters, and modified graphene obtained by reduction by means of different methods can improve the performances of the coating, and the improvement effect is more obvious than that of graphene without surface treatment.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="34"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A graphene anti-corrosion coating, comprising an epoxy resin and graphene, wherein the graphene is modified by a surface treating agent, and the addition amount of the graphene is 0.01-0.2 wt% of the total mass of coating solid.</claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The graphene anti-corrosion coating according to claim 1, which is <b>characterized in that</b> the addition amount of the graphene is 0.01-0.05wt% of the total mass of the coating solid.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The graphene anti-corrosion coating according to claim 1, which is <b>characterized in that</b> an atomic ratio of oxygen element to carbon element (O/C ratio) in the graphene is 0.05-0.40.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The graphene anti-corrosion coating according to claim 1, which is <b>characterized in that</b> an atomic ratio of nitrogen element to carbon element (N/C ratio) in the graphene is 0.01-0.05.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The graphene anti-corrosion coating according to claim 1, which is <b>characterized in that</b> the thickness of<!-- EPO <DP n="35"> --> the graphene is 2-12nm.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The graphene anti-corrosion coating according to claim 1, which is <b>characterized in that</b> the surface treating agent is one or more of arylaminos, pyrazolones, and catechols.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The graphene anti-corrosion coating according to claim 1, which is <b>characterized in that</b> the surface treating agent is one or more selected from the group consisting of o-chloroaniline, p-chloroaniline, o-toluidine, acetanilide, 2-aminobenzylamine, p-methoxyaniline, 2-nitroaniline, 2-phenylethylamine hydrochloride, 4,4'-diaminodiphenylmethane, 1-phenyl-3-methyl-4-benzoyl-5-pyrazolone, bispyrazolone, picric acid, 1-phenyl-3-methyl-5-pyrazolone, catechol borane, pyrocatechol violet, 3,5-di-tert-butyl-1,2-benzenediol, 4-nitrocatechol, and dopamine hydrochloride.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>The graphene anti-corrosion coating according to claim 1, which is <b>characterized in that</b> the surface treating agent is one or more selected from the group consisting of 2-aminobenzylamine, 2-phenethylamine hydrochloride, 4,4'-diaminodiphenylmethane, bispyrazolone, and dopamine hydrochloride.<!-- EPO <DP n="36"> --></claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>The graphene anti-corrosion coating according to claim 1, which is <b>characterized in that</b> the glossiness of a paint film of the coating is 3 or less.</claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>The graphene anti-corrosion coating according to claim 1, which is <b>characterized in that</b> the oxygen transmission rate of the paint film of the coating is 0.35 g/m<sup>2</sup>·h or less.</claim-text></claim>
+</claims>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="157" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="157" he="233" type="tif"/><doc-page id="srep0003" file="srep0003.tif" wi="157" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="CN105623471A"><document-id><country>CN</country><doc-number>105623471</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0006]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="CN107739566A"><document-id><country>CN</country><doc-number>107739566</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0002">[0006]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="s"><article><author><name>NOVOSELOV, K.S.</name></author><author><name>GEIM, A.K. et al.</name></author><atl>Electric field effect in atomically thin carbon films</atl><serial><sertitle>Science</sertitle><pubdate><sdate>20040000</sdate><edate/></pubdate><vid>306</vid></serial><location><pp><ppf>666</ppf><ppl>669</ppl></pp></location></article></nplcit><crossref idref="ncit0001">[0003]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

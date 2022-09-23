@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19917174A1" file="EP19917174NWA1.xml" lang="en" country="EP" doc-number="3888664" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3888664</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19917174.5</B210><B220><date>20190228</date></B220><B240><B241><date>20210615</date></B241></B240><B250>ko</B250><B251EP>en</B251EP><B260>en</B260></B200><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>A61K  31/728       20060101AFI20200904BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>A61K  38/14        20060101ALI20200904BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>A23L  33/10        20160101ALI20200904BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>A61K  38/14        20130101 LI20200924BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>A61K  31/728       20130101 LI20200924BCEP        </text></classification-cpc><classification-cpc sequence="3"><text>A23L  33/10        20160801 LI20200924BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>ZUSAMMENSETZUNG ZUR VORBEUGUNG, LINDERUNG ODER BEHANDLUNG VON KRANKHEITEN ODER SYMPTOMEN IM ZUSAMMENHANG MIT HAPLN1</B542><B541>en</B541><B542>COMPOSITION, FOR PREVENTING, RELIEVING OR TREATING CARTILAGE-RELATED DISEASES OR SYMPTOMS, COMPRISING HAPLN1</B542><B541>fr</B541><B542>COMPOSITION POUR PRÉVENIR, SOULAGER OU TRAITER DES MALADIES OU DES SYMPTÔMES LIÉS AU CARTILAGE, COMPRENANT LA HAPLN1</B542></B540><B590><B598>2</B598></B590></B500><B700><B710><B711><snm>HAPLNSCIENCE INC.</snm><iid>101903469</iid><irf>007944390</irf><adr><str>B-1001ho, 10F, 
+660, Daewangpangyo-ro 
+Bundang-gu 
+Seongnam-si</str><city>Gyeonggi-do 13494</city><ctry>KR</ctry></adr></B711></B710><B720><B721><snm>KIM, Dae Kyong</snm><adr><str>90-13, Dongmak-ro 245beon-gil, Bundang-gu</str><city>Seongnam-si Gyeonggi-do 13547</city><ctry>KR</ctry></adr></B721><B721><snm>JANG, Ji Min</snm><adr><str>421ho, 1dong, 45, Yeouidaebang-ro, Yeongdeungpo-
+gu</str><city>Seoul 07435</city><ctry>KR</ctry></adr></B721></B720><B740><B741><snm>Mewburn Ellis LLP</snm><iid>101783151</iid><adr><str>Aurora Building 
+Counterslip</str><city>Bristol BS1 6BX</city><ctry>GB</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>KR2019002418</anum></dnum><date>20190228</date></B861><B862>ko</B862></B860><B870><B871><dnum><pnum>WO2020175721</pnum></dnum><date>20200903</date><bnum>202036</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">The present disclosure relates to a composition for the prevention, improvement, or treatment of cartilage-related diseases or symptoms, the composition including hyaluronan and proteoglycan link protein 1 (HAPLN1) as an active ingredient. In detail, the present disclosure provides a composition for regenerating cartilage, a composition for the prevention, improvement, or treatment of osteoarthritis, or a composition for regenerating growth plate cartilage, each composition including HAPLN1 as an active ingredient.<img id="iaf01" file="imgaf001.tif" wi="165" he="72" img-content="drawing" img-format="tif"/>
+<img id="iaf02" file="imgaf002.tif" wi="154" he="70" img-content="drawing" img-format="tif"/></p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">TECHNICAL FIELD</heading>
+<p id="p0001" num="0001">The present disclosure relates to a composition for preventing, improving, or treating cartilage-related diseases or symptoms, the composition including hyaluronan and proteoglycan link protein 1 (HAPLN1) as an active ingredient. Specifically, the present disclosure relates to a composition for regenerating cartilage, or a composition for preventing, improving, or treating osteoarthritis, the compositions including HAPLN1 as an active ingredient. The present invention also relates to a composition for proliferating growth plate cartilage or promoting bone-length growth, or preventing, improving, or preventing short stature.</p>
+<heading id="h0002">BACKGROUND ART</heading>
+<p id="p0002" num="0002">Osteoarthritis is degenerative joint disease which causes pain of joints, swelling of joints, stiffness, stimulates reduced range of motion, and causes destruction of joint cartilage and major bones. Osteoarthritis is known to occur in at least one of ten adults (Lawrence, Felson et al. 2008) and significantly deteriorates patient's quality of life due to pain associated with joint movement. Previously, osteoarthritis was regarded as a general result of aging. However, at present, osteoarthritis is known to be caused by complex interactions among multiple factors including integrity of joints, genetic predisposition, topical inflammation, mechanical force, and cellular and biochemical processes. Pathogenic features thereof include hypertrophy of the lower cartilage, formation of osteoporosis (bone protrusion), and degeneration of the extracellular matrix (ECM) of the articular cartilage that fully fills the joint.</p>
+<p id="p0003" num="0003">The cartilage thickness in the knee joint is about 2 mm. When an area of about 1 mm<sup>2</sup> to about 4 mm<sup>2</sup> is damaged by trauma or a disease, regeneration by natural healing is possible. When an area of about 20 mm<sup>2</sup> is damaged, self-regeneration is difficult, and generally, great pain is involved. Further, when articular cartilage is completely lost due to various causes such as tumors, necrosis, etc., treatment such<!-- EPO <DP n="2"> --> as embedding of an artificial joint in the corresponding opening is performed to restore the joint function. However, artificial joints are merely those artificially constructed similarly to joint functions. Since artificial joints are foreign substances in an organism, it is difficult to maintain biocompatibility. In addition, artificial joints are difficult to maintain for more than 20 years because of the complicated operation required under a strict environment of an organism. Deterioration of a resin or metal used as a material thereof, generation of wear debris, or the like may cause a reduction in the function or may cause pain. Further, artificial joints may not be sufficient in durability. Therefore, as a substitute for artificial joint treatment, there is a demand for a technique to regenerate articular cartilage itself.</p>
+<p id="p0004" num="0004">In addition, recent studies have reported regeneration of articular cartilage by perforating the joint surface and placing collagen containing bone morphogenetic protein (BMP) at a desired site. However, the regenerated articular cartilage is not continuously formed with the neighboring existent articular cartilage, and thus it may not be perfect regeneration. Furthermore, application of collagen to an organism is likely to be avoided, due to problems such as bovine spongiform encephalopathy (BSE), so called mad cow disease, etc. Accordingly, there is a need for the development of a new composition for regenerating cartilage using only materials of which biomedical applications are approved.</p>
+<p id="p0005" num="0005">Meanwhile, height growth occurs when bone length increases, and endochondral ossification in cartilage is involved in the growth of bone length. Endochondral ossification in cartilage is a process that cartilage is formed and the core of ossification appears in the center thereof to form bones, occurs in epiphyseal plate, and is associated with bone-length growth. To date, growth hormone injection is mainly used as a drug that can promote height growth.</p>
+<p id="p0006" num="0006">However, the effect is not significant even though growth hormone directly promotes proliferation of chondrocytes of the growth plate. Insulin-like growth factor 1 (IGF-1), secreted when the growth hormone acts on the liver, is a major factor for proliferating chondrocytes. Accordingly, when the concentration of IGF-1 is increased in blood when the growth hormone is injected, it is determined to work normally, and, when growth hormone or IGF-1 acts on chondrocytes, growth factors are secreted and the growth plate is proliferated. Moreover, growth hormone injection is not proper to a<!-- EPO <DP n="3"> --> child, whose secretion of the hormone is normal, and when used, causes side effects such as hypothyroidism or hyperpigmentation. Addition, the growth hormone injection is expensive. Therefore, there is a need to develop a substance that is capable of inducing height growth by promoting proliferation of growth plate cartilage.</p>
+<p id="p0007" num="0007">Articular cartilage and growth plate cartilage correspond to hyaline cartilage among various forms of cartilage. The extracellular matrix (ECM) of these cartilage tissues may have an aggregate structure including, as major components, type II collagen, aggrecan, hyaluronan, hyaluronan and proteoglycan link protein 1 (HAPLN1), and the like. Here, numerous aggrecans bind to a hyaluronan chain, and HAPLN1 is known to play a role in physically and chemically stabilizing aggregates by more strongly binding aggrecans to the hyaluronan chain. However, it is not known at all that HAPLN1 has the effect of treating, preventing or improving cartilage-related diseases or symptoms.</p>
+<p id="p0008" num="0008">Meanwhile, as a study related to cartilage-related diseases or symptoms, <patcit id="pcit0001" dnum="US20160220699A"><text>US Patent Publication No. 2016/0220699</text></patcit> discloses a method for generating chondrocytes or cartilage-type cells, comprising a step of delivering an expression vector encoding one or more therapeutic polynucleotides to a joint of an individual. Moreover, International Patent Application Publication No. <patcit id="pcit0002" dnum="WO2017123951A"><text>2017/123951</text></patcit> discloses a method for generating chondrocytes or similar cells thereof, comprising a step of providing an ingredient, derived from nucleus pulposus, to a patient with degenerative disc disease. However, the documents above do not specifically describe the prevention, improvement, or treatment of cartilage-related diseases or symptoms using HAPLN1.</p>
+<heading id="h0003">[Prior Art Documents]</heading>
+<heading id="h0004">[Patent Documents]</heading>
+<p id="p0009" num="0009">
+<ul id="ul0001" list-style="none" compact="compact">
+<li>(Patent Document 0001) <patcit id="pcit0003" dnum="US20160220699A"><text>US Patent Publication No. 2016/0220699</text></patcit> (published on August 4, 2016)</li>
+<li>(Patent Document 0002) International Patent Publication No. <patcit id="pcit0004" dnum="WO2017123951A"><text>2017/123951</text></patcit> (Published on July 20, 2017)</li>
+</ul></p>
+<heading id="h0005">DESCRIPTION OF EMBODIMENTS</heading><!-- EPO <DP n="4"> -->
+<heading id="h0006">TECHNICAL PROBLEM</heading>
+<p id="p0010" num="0010">The present disclosure provides a composition for the prevention, improvement, or treatment of cartilage-related diseases or symptoms using HAPLN1.</p>
+<p id="p0011" num="0011">Specifically, the present disclosure provides a composition for regenerating cartilage, or a composition for the prevention, improvement, or treatment of osteoarthritis. The present disclosure also relates to a composition for proliferating growth plate cartilage or promoting bone-length growth, or a composition for the prevention, improvement, or treatment of short stature.</p>
+<heading id="h0007">SOLUTION TO PROBLEM</heading>
+<p id="p0012" num="0012">To achieve the above objects, the present disclosure provides a pharmaceutical composition for regenerating cartilage, a food composition for regenerating cartilage, or an animal feed composition for regenerating cartilage, each composition including hyaluronan and proteoglycan link protein 1 (HAPLN1) as an active ingredient.</p>
+<p id="p0013" num="0013">The present disclosure provides a pharmaceutical composition, and a food composition or animal feed composition for the prevention, improvement, or treatment of osteoarthritis, each including HAPLN1 as an active ingredient.</p>
+<p id="p0014" num="0014">The present disclosure provides a pharmaceutical composition for proliferating growth plate cartilage or promoting bone length growth, the pharmaceutical composition including HAPLN1 as an active ingredient. The present disclosure also provides a food composition for proliferating growth plate cartilage and promoting bone length growth, the food composition including HAPLN1 as an active ingredient. The present disclosure also provides an animal feed composition for proliferating growth plate cartilage and promoting bone length growth, the animal feed composition including HAPLN1 as an active ingredient.</p>
+<p id="p0015" num="0015">The present disclosure provides a pharmaceutical composition for the treatment or prevention of bone-length growth disorders, the pharmaceutical composition including HAPLN1 as an active ingredient. The bone-length growth disorders of the present disclosure may be short stature, dwarfism, nanism or<!-- EPO <DP n="5"> --> precocious puberty.</p>
+<heading id="h0008">ADVANTAGEOUS EFFECTS OF DISCLOSURE</heading>
+<p id="p0016" num="0016">According to the present disclosure, HAPLN1 protein may have cartilage formation-stimulating ability and articular cartilage regeneration ability, and may increase a TGF-β receptor I protein expression level of chondrocytes to increase the population of cells having cartilage formation ability and to induce generation of cartilage tissues. Accordingly, the HAPLN1 protein of the present disclosure, which is a novel material regulating TGF-β signaling, may be usefully applied as a pharmaceutical composition for regenerating cartilage, a food composition for regenerating cartilage, or an animal feed composition for regenerating cartilage.</p>
+<p id="p0017" num="0017">In addition, the present disclosure provides a composition for the prevention, improvement, or treatment of osteoarthritis by using HAPLN1 protein.</p>
+<p id="p0018" num="0018">In addition, since HAPLN1 protein proliferates the growth plate cartilage and promotes bone length growth, a height growth therapeutic agent and an adjuvant can be provided with less side effects and better effects than conventional hormones.</p>
+<heading id="h0009">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p0019" num="0019">
+<ul id="ul0002" list-style="none" compact="compact">
+<li><figref idref="f0001">FIG. 1</figref> shows the results of SDS-PAGE analysis of the recombinant human HAPLN1 protein obtained using Expi™ 293 cells as a protein expression system.</li>
+<li><figref idref="f0002">FIG. 2</figref> shows cartilage formation ability by repeated intraperitoneal administration of HAPLN1 protein into degenerated growth plate of old mice, in which</li>
+<li><figref idref="f0002">FIG. 2A</figref> shows proteoglycan in tissues, as visualized by safranin O/Fast Green FCF staining, and <figref idref="f0002">FIG. 2B</figref> shows the presence of chondrocytes having cartilage formation ability, as visualized by immunohistochemistry.</li>
+<li><figref idref="f0002">FIG. 3</figref> shows cartilage regeneration ability of HAPLN1 protein intraarticularly administered into damaged knee joint tissues of mice, as visualized by immunofluorescence.</li>
+<li><figref idref="f0003">FIG. 4</figref> shows cartilage formation-stimulating ability of HAPLN1 protein for human articular chondrocytes, in which <figref idref="f0003">FIG. 4A</figref> shows gene expression levels of<!-- EPO <DP n="6"> --> SOX9, which is a cartilage-specific gene, and aggrecan and type II collagen, which are cartilage matrix components, as determined by a polymerase chain reaction (PCR), and <figref idref="f0003">FIG. 4B</figref> shows proteoglycan accumulated in extracellular matrix, as visualized by safranin O/Fast Green FCF staining.</li>
+<li><figref idref="f0004 f0005">FIG. 5</figref> shows TGF-β signaling regulation of the HAPLN1 protein for murine articular chondrocytes, in which <figref idref="f0004">FIG. 5A</figref> shows TGF-β signaling regulation ability of HAPLN1 protein, as examined by western blotting, <figref idref="f0004">FIGS. 5B</figref> and <figref idref="f0005">5C</figref> show TGF-β receptor I stabilization of HAPLN1 protein, as examined by a PCR and western blotting, and <figref idref="f0005">FIG. 5D</figref> shows improved cell surface presentation of TGF-β receptor I by HAPLN1 protein, as examined by western blotting.</li>
+<li><figref idref="f0006">FIG. 6</figref> shows a schematic diagram summarizing the six mice experimental groups used to analyze osteoarthritis improvement of the HAPLN1 protein.</li>
+<li><figref idref="f0007">FIG. 7</figref> shows the articular cartilage tissue morphology improvement of HAPLN1 protein in osteoarthritis-induced mouse, in which <figref idref="f0007">FIG. 7A</figref> shows the articular cartilage tissue morphology in each mouse experimental group which is confirmed by Safranin O/Fast Green FCF staining, and <figref idref="f0007">FIG. 7B</figref> shows the quantification of osteoarthritis improvement of HAPLN1 protein obtained by osteoarthritis histopathological evaluation (OARSI score).</li>
+</ul></p>
+<heading id="h0010">BEST MODE</heading>
+<p id="p0020" num="0020">The present inventors of the present disclosure confirmed cartilage formation-stimulating ability and cartilage regeneration ability of proteoglycan link protein 1 (HAPLN1) protein in old mice and articular cartilage-damaged mice. In addition, the cartilage formation promoting ability and cartilage regeneration ability of the HAPLN1 protein were confirmed to be excellent in chondrocytes. In addition, it was identified that the HAPLN1 protein selectively increased the TGF-β receptor I protein of chondrocyte, thereby completing the present disclosure.</p>
+<p id="p0021" num="0021">The present disclosure provides a pharmaceutical composition for regenerating cartilage including a HAPLN1 protein as an active ingredient. Preferably, the HAPLN1 protein may promote cartilage formation and may protect articular cartilage. More preferably, the HAPLN1 protein may selectively, stably increase a TGF-β<!-- EPO <DP n="7"> --> receptor I protein to increase the population of cells having cartilage formation ability and to induce generation of cartilage tissues.</p>
+<p id="p0022" num="0022">In one embodiment, the present disclosure provides a method of regenerating cartilage in a subject in need of cartilage regeneration, the method including administering an effective amount of HAPLN1 protein to the subject. The term "subject" as used herein includes humans and non-human animals. Non-human animals include all vertebrates, such as mammals and non-mammals, such as non-human primates, sheep, dogs, cattle, horses, and the like.</p>
+<p id="p0023" num="0023">In one embodiment, the present disclosure provides the use of the HAPLN1 protein for regenerating cartilage.</p>
+<p id="p0024" num="0024">The present disclosure provides a food or animal feed composition for regenerating cartilage, including HAPLN1 protein as an active ingredient.</p>
+<p id="p0025" num="0025">The present disclosure provides a pharmaceutical composition for the prevention, improvement, or treatment of osteoarthritis, the pharmaceutical composition including HAPLN1 protein as an active ingredient.</p>
+<p id="p0026" num="0026">The term "osteoarthritis" used herein is a disease called degenerative arthritis in which the articular cartilage that surrounds the joint surface of the bone is worn down and thus, the bone under the cartilage is exposed and the synovial membrane around the joint is inflamed, resulting in pains and deformation. The term is interpreted as in the sense commonly understood in the art. In appearance, bones called osteophyte grow at the edges of the bones, causing the nodes to stick out and deformed joints. Currently, there is no cure for osteoarthritis, and as pharmacotherapy, painkillers are used to relieve pain, or nonsteroidal anti-inflammatory drugs (NSAIDs) are used to relieve inflammation.</p>
+<p id="p0027" num="0027">When the HAPLN1 protein according to the present disclosure is used, articular cartilage tissues, in which osteoarthritis develops, are improved to have a morphology similar to normal cartilage. Furthermore, the use of the HAPLN1 protein reduces the degree of damage to the joint surface and reduces the number of fibrosis and osteophyte, thereby preventing, inhibiting or improving the progression of osteoarthritis.</p>
+<p id="p0028" num="0028">In one embodiment, the present disclosure provides a method of preventing, improving, or treating osteoarthritis in a subject in need of the prevention, improvement,<!-- EPO <DP n="8"> --> or treatment of osteoarthritis, the method including administering an effective amount of HAPLN1 protein to the subject.</p>
+<p id="p0029" num="0029">In one embodiment, the present disclosure provides the use of the HAPLN1 protein for the prevention, improvement, or treatment of osteoarthritis.</p>
+<p id="p0030" num="0030">The present disclosure provides a food or animal feed composition for the prevention or improvement of osteoarthritis, including HAPLN1 protein as an active ingredient.</p>
+<p id="p0031" num="0031">The present disclosure provides a pharmaceutical composition for proliferating growth plate cartilage or promoting bone length growth, the pharmaceutical composition including HAPLN1 protein as an active ingredient.</p>
+<p id="p0032" num="0032">The HAPLN1 protein of the present disclosure promotes cartilage formation in the growth plate to increase growth plate activity and strengthen the growth plate. Therefore, the HAPLN1 protein can also be used to treat or prevent bone-length growth disorders. In this case, the bone-length growth disorders include, but are not limited to, short stature, dwarfism, nanism, or precocious puberty.</p>
+<p id="p0033" num="0033">In one embodiment, the present disclosure provides a method of proliferating growth plate cartilage or promoting bone length growth in a subject in need of proliferating growth plate cartilage and promoting bone length growth, the method including administering an effective amount of HAPLN1 protein to the subject. The present disclosure also provides a method of treating or preventing bone-length growth disorders in a subject in need of treating or preventing bone-length growth disorders, including administering an effective amount of HAPLN1 protein to the subject.</p>
+<p id="p0034" num="0034">In one embodiment, the present disclosure provides the use of HAPLN1 protein to porliferate growth plate cartilage or promote bone length growth. The present disclosure also provides the use of the HAPLN1 protein for the treatment or prevention of bone length growth disorders.</p>
+<p id="p0035" num="0035">The present disclosure provides a food or animal feed composition for proliferating growth plate cartilage and promoting bone length growth, the food or animal feed composition including HAPLN1 protein as an active ingredient.</p>
+<p id="p0036" num="0036">The present disclosure provides a method of regenerating cartilage tissues by treating chondrocytes with HAPLN1. Specifically, provided is a method of regenerating<!-- EPO <DP n="9"> --> cartilage tissues in vitro using HAPLN1, the method including: isolating chondrocytes from a subject; and treating the chondrocytes with HAPLN1.</p>
+<p id="p0037" num="0037">When the composition of the present disclosure is a pharmaceutical composition, the composition may include, for administration, a pharmaceutically acceptable carrier, excipient, or diluent, in addition to the above-described active ingredient.</p>
+<p id="p0038" num="0038">When the composition of the present disclosure is a food composition, the composition may include a variety of nutrients, vitamins, minerals (electrolytes), a flavoring agent such as synthetic and natural flavoring agents, etc., a colorant and a filler (cheese, chocolate, etc.), pectic acid or salts thereof, alginic acid or salts thereof, an organic acid, a protective colloidal thickening agent, a pH modifier, a stabilizer, a preservative, glycerin, alcohols, a carbonating agent used in carbonated beverages, etc.</p>
+<p id="p0039" num="0039">Hereinafter, the present disclosure will be described in more detail with reference to exemplary embodiments. These exemplary embodiments are only for illustrating the present disclosure in more detail, and it will be apparent to those skilled in the art that the scope of the present disclosure is not limited to these exemplary embodiments in accordance with the gist of the present disclosure.</p>
+<heading id="h0011"><u>Preparation Example: Preparation of HAPLN1 Protein</u></heading>
+<p id="p0040" num="0040">To facilitate protein purification, genes encoding recombinant human HAPLN1 conjugating 10 histidines were synthesized, inserted into plasmid pcDNA3.4-TOPO, and transfected into Expi™ 293 cells using a protein expression system. After 3 days of culture, the cell culture solution was collected and, to purify the protein, passed through a HisTrap column, which is a chelating column, and then, eluted by a concentration gradient of 20 mM to 500 mM imidazole salt using an imidazole PBS buffer containing 0.5 M NaCl. Thereafter, to remove the conjugated histidine, the treatment with TEV protease was performed, and then, the added TEV protease was removed using DynaBeads. The resulting HAPLN1 protein was loaded on SDS-PAGE to confirm the purified protein (<figref idref="f0001">FIG. 1</figref>). Then, the degree of purification was confirmed to obtain the protein having the purity of 98% or more, and the obtained protein was<!-- EPO <DP n="10"> --> used in vitro cell experiments or in vivo efficacy test.</p>
+<p id="p0041" num="0041">Example 1: Analysis of cartilage regeneration ability of HAPLN1 protein in degenerated cartilage tissue in vivo</p>
+<heading id="h0012"><u>1-1. Stimulation of cartilage formation in degenerated growth plate by repeated intraperitoneal administration of HAPLN1 protein</u></heading>
+<p id="p0042" num="0042">6-week-old male C57BL/6 mice were classified as a young group, and 20-month-old C57BL/6 mice were classified as an old group. The old group was intraperitoneally administered with HAPLN1 protein diluted with phosphate buffered saline (PBS) at a dose of 0.1 mg/kg daily for 2 weeks, whereas the control group was intraperitoneally administered with PBS in an equivalent manner.</p>
+<p id="p0043" num="0043">The mouse femur and knee joints of each group were taken and fixed with neutral buffered 10% formalin (NBF) for 48 hours, followed by decalcification with a 10% ethylenediaminetetraacetic acid (EDTA) solution for 7 days. Subsequently, each sample was embedded in paraffin to prepare a paraffin block, and a 5 µm-thick tissue section slide was prepared in a sagittal direction. For histological evaluation, the cartilage tissue of each tissue section slide was visualized by safranin O/fast green FCF (SO/FG) staining. The stained tissue sections were observed and photographed using a Ni-U (Nikon) microscope and DS-Ri1 (Nikon) digital camera, and the results are shown in <figref idref="f0002">FIG. 2A</figref> (scale bar = 1 mm).</p>
+<p id="p0044" num="0044">As shown in <figref idref="f0002">FIG. 2A</figref>, the growth plate of the old control was degenerated and only traces of the cartilage tissue was identified, as compared with that of the young control, while cartilage formation was observed in the degenerated growth plate of the old group (Old HAPLN1), which was repeatedly intraperitoneally administered with HAPLN1 protein (arrow head).</p>
+<heading id="h0013"><u>1-2. Formation and increase of chondrocytes having cartilage formation ability by repeated intraperitoneal administration of HAPLN1 protein</u></heading>
+<p id="p0045" num="0045">To identify the presence of cells having the cartilage formation ability at the site of cartilage formation, which was induced by repeated intraperitoneal administration of HAPLN1 protein in Example 1-1, the corresponding site was stained by immunohistochemistry (IHC) using SOX9, which is a cartilage-specific transcription<!-- EPO <DP n="11"> --> factor. The stained tissue sections were observed and photographed using a Ni-U (Nikon) microscope and DS-Ri1 (Nikon) digital camera, and the results are shown in <figref idref="f0002">FIG. 2B</figref> (scale bar = 1 mm).</p>
+<p id="p0046" num="0046">As shown in <figref idref="f0002">FIG. 2B</figref>, SOX9-expressing cells were retained throughout the cartilage tissue in the young control, whereas no SOX9-expressing cells were found in the old control. However, it was confirmed that a large number of SOX9-expressing cells were found in the cartilage formation-stimulated site of the old group (Old HAPLN1), which was repeatedly intraperitoneally administered with HAPLN1 protein (arrow).</p>
+<p id="p0047" num="0047">Therefore, it can be seen that the HAPLN1 protein enhances growth plate and promotes bone length growth by proliferating or regenerating the growth plate cartilage.</p>
+<heading id="h0014">Example 2: Analysis of cartilage regeneration ability of HAPLN1 protein in damaged cartilage tissue in vivo</heading>
+<p id="p0048" num="0048">7-week-old male C57BL/6 mice were divided into three groups as follows. A normal control group (sham control group), which is a sham operation group for a destabilization of medial meniscus (DMM) procedure, was bred under the existing conditions for 4 weeks after the procedure. A vehicle treatment group (DMM control group) was bred under the existing conditions for 8 weeks after the DMM procedure, and intraarticularly administered with PBS once a week for the last 4 weeks. A HAPLN1 treatment group (DMM HAPLN1 group) was bred under the existing conditions for 8 weeks after the DMM procedure, and intraarticularly administered with HAPLN1 protein in PBS at a concentration of 1 µg/mL once a week for the last 4 weeks.</p>
+<p id="p0049" num="0049">At the end of breeding, each knee tissue to which the procedure and treatment were applied was removed and fixed with NBF for 48 hours, and subsequently decalcified with a 10% EDTA solution for 7 days. Subsequently, each sample was embedded in paraffin to prepare a paraffin block, and a 5 µm thick tissue section slide was prepared in a sagittal direction. Type II collagen (Col2) was stained with green fluorescence by immunofluorescence (IF), and nuclei of cells were blue stained with 4',6-diamidino-2-phenylindole (DAPI). The stained tissue sections were observed and photographed using a Ni-U (Nikon) microscope and a DS-Ri1 (Nikon) digital camera, and the results are shown in <figref idref="f0002">FIG. 3</figref> (scale bar = 200 µm).<!-- EPO <DP n="12"> --></p>
+<p id="p0050" num="0050">As shown in <figref idref="f0002">FIG. 3</figref>, it was confirmed that the number of type II collagen-expressing cells found in the normal control group (sham control group) was greatly reduced in the vehicle treatment group (DMM control group), whereas the number of type II collagen-expressing cells was greatly increased in the HAPLN1 treatment group (DMM HAPLN1 group) (arrow head).</p>
+<p id="p0051" num="0051">Thus, it can be seen that HAPLN1 protein has an excellent effect on cartilage regeneration.</p>
+<heading id="h0015">Example 3: Analysis of cartilage formation-stimulating ability of HAPLN1 protein in vitro</heading>
+<heading id="h0016"><u>3-1. Increase of cartilage formation ability of human articular chondrocytes by HAPLN1 protein</u></heading>
+<p id="p0052" num="0052">Human articular chondrocytes (HACs) were cultured in a 1:1 mixed medium of Dulbecco's modified Eagle medium/F12 (DMEM/F12; Gibco) containing 10% fetal bovine serum (FBS; Gibco), 1% penicillin/streptomycin (Gibco), and 1% non-essential amino acids (NEAA; Gibco) under conditions of 37°C and 5% CO<sub>2</sub>.</p>
+<p id="p0053" num="0053">As a model for testing the cartilage formation ability of HAC, a three-dimensional culture system in which cells were embedded in alginate beads was used. HAC was uniformly mixed in a 1.25% alginate solution to include 30,000 cells per bead. They were cultured by adding 50 µg/mL of L-ascorbic acid 2-phosphate, 1% insulin-transferrin-selenium (ITS; Gibco), and 10 ng/mL of TGF-β1 to the culture medium. To the HAPLN1 treatment group, 50 ng/mL of HAPLN1 was further added. Culture was continued under conditions of 37°C and 5% CO<sub>2</sub> for 7 days to 28 days.</p>
+<p id="p0054" num="0054">At the end of the incubation, to recover the HAC embedded in the alginate beads, the alginate was dissolved in 55 mM EDTA solution, followed by centrifugation at 500 x g for 3 minutes. The cells obtained after centrifugation were subjected to RNA extraction and polymerase chain reaction (PCR) to compare and analyze gene expression patterns. Detailed procedures thereof are as follows.</p>
+<p id="p0055" num="0055">RNA was extracted using a TRIZOL (Thermo Scientific) solution according to the manufacturer's instructions. First-strand cDNAwas synthesized from 0.1 µg of the obtained RNA using oligo-dT20 primers and a SUPERSCRIPT III First-Strand Synthesis Supermix (Invitrogen). The obtained cDNAwas subjected to PCR using 200<!-- EPO <DP n="13"> --> nM of primers for each gene of interest and IQ SYBR Green Supermix (Bio-Rad). Reaction conditions included maintaining a temperature at 95°C for the first 5 minutes, followed by 45 cycles having 10 seconds at 95°C, 15 seconds at 62°C, and 20 seconds at 72°C per a cycle. The amplified signal was measured in real-time by CFX CONNECT (Bio-Rad), and an expression level of the gene of interest was calculated as a relative value to each GAPDH expression level. The results are shown in <figref idref="f0003">FIG. 4A</figref>, and primer sequences used in PCR for each human gene are as follows.
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>[Table1]</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="17mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<colspec colnum="3" colname="col3" colwidth="59mm"/>
+<tbody>
+<row>
+<entry morerows="1" align="center" valign="middle">SOX9</entry>
+<entry align="center" valign="middle">forward</entry>
+<entry align="center" valign="middle">5'-AGCGAACGCACATCAAGAC-3'</entry></row>
+<row>
+<entry align="center" valign="middle">reverse</entry>
+<entry align="center" valign="middle">5'-CTGTAGGCGATCTGTTGGGG-3'</entry></row>
+<row>
+<entry morerows="1" align="center" valign="middle">ACAN</entry>
+<entry align="center" valign="middle">forward</entry>
+<entry align="center" valign="middle">5'-GTGCCTATCAGGACAAGGTCT-3'</entry></row>
+<row>
+<entry align="center" valign="middle">reverse</entry>
+<entry align="center" valign="middle">5'-GATGCCTTTCACCACGACTTC-3'</entry></row>
+<row>
+<entry morerows="1" align="center" valign="middle">C0L2A1</entry>
+<entry align="center" valign="middle">forward</entry>
+<entry align="center" valign="middle">5'-TGGACGCCATGAAGGTTTTCT-3'</entry></row>
+<row>
+<entry align="center" valign="middle">reverse</entry>
+<entry align="center" valign="middle">5'-TGGGAGCCAGATTGTCATCTC-3'</entry></row>
+<row>
+<entry morerows="1" align="center" valign="middle">GAPDH</entry>
+<entry align="center" valign="middle">forward</entry>
+<entry align="center" valign="middle">5'-CTGGGCTACACTGAGCACC-3'</entry></row>
+<row>
+<entry align="center" valign="middle">reverse</entry>
+<entry align="center" valign="middle">5'-AAGTGGTCGrrGAGGGCAATG-3'</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0056" num="0056">As shown in <figref idref="f0003">FIG. 4A</figref>, it was confirmed that HAPLN1 protein causes HAC to increase SOX9 gene expression, and at the same time, to increase gene expression of aggrecan (ACAN) and type II collagen (COL2A1).</p>
+<heading id="h0017"><u>3-2. Increased proteoglycan accumulation in extracellular matrix of human articular chondrocyte by HAPLN1 Protein</u></heading>
+<p id="p0057" num="0057">From Example 3-1, to evaluate the extracellular accumulation of the cartilage matrix by HAPLN1 addition, the alginate beads at 28 days of culture were fixed with NBF for 15 minutes and frozen in an OCT compound (Sakura) by liquid nitrogen. Thereafter, 5 µm-thick frozen sections were obtained, and after acetone fixation, visualized by safranin O/Fast Green FCF staining. The stained tissue sections were observed and photographed using a Ni-U (Nikon) microscope and DS-Ri1 (Nikon) digital camera, and the results are shown in <figref idref="f0003">FIG. 4B</figref> (scale bar = 250 µm).</p>
+<p id="p0058" num="0058">As shown in <figref idref="f0003">FIG. 4B</figref>, it was confirmed that the accumulation of proteoglycans stained with safranin O was greatly increased in the alginate beads of HAC cultured in the medium containing HAPLN1 protein, as compared with the control group.<!-- EPO <DP n="14"> --></p>
+<heading id="h0018">Example 4: Analysis of TGF-β signaling regulation by HAPLN1 protein <u>4-1. Increased TGF-β receptor I (TβR1) protein in murine articular chondrocyte by HAPLN1 protein</u></heading>
+<p id="p0059" num="0059">Immature murine articular chondrocytes (iMACs) were isolated from bilateral articular cartilage of 5-day-old ICR mice. The obtained iMACs were cultured in a DMEM/F12 (Gibco) medium containing 10% FBS (Gibco), 1% penicillin/streptomycin (Gibco), and 1% NEAA (Gibco) under conditions of 37°C and 5% CO<sub>2</sub>.</p>
+<p id="p0060" num="0060">iMACs cultured at a high density on the plate bottom were treated with 100 ng/mL of HAPLN1 for 3 hours to 72 hours, cells were collected, and proteins were extracted in a radioimmunoprecipitation assay (RIPA) buffer. Next, western blotting was performed to examine expression levels of TGF-β receptor I (TβR1), activin receptor-like kinase 1 (ALK1), TGF-β receptor II (TβR2), and Gapdh proteins, and the results are shown in <figref idref="f0004">FIG. 5A</figref>.</p>
+<p id="p0061" num="0061">As shown in <figref idref="f0004">FIG. 5A</figref>, it was confirmed that the protein expression level of TβR1 in iMACs was increased by HAPLN1 protein. In contrast, there were no changes in the ALK1 and TβR2 expression levels.</p>
+<heading id="h0019"><u>4-2. Increased stability of TβR1 in murine articular chondrocyte by HAPLN1 protein</u></heading>
+<p id="p0062" num="0062">To demonstrate that the increased TβR1 protein level by HAPLN1 protein as shown in Example 4-1 was attributed to increased stability, gene expression levels of the three proteins, of which levels were compared, were compared and analyzed in the cells cultured for 24 hours and 72 hours under the same experimental conditions, and at the same time, the increase in the TβR1 protein level by HAPLN1 was demonstrated in de novo protein synthesis-limited environment.</p>
+<p id="p0063" num="0063">RNA extraction and PCR procedure for the analysis are as follows.</p>
+<p id="p0064" num="0064">RNA was extracted using a TRIZOL (Thermo Scientific) solution according to the manufacturer's instructions. First-strand cDNAwas synthesized from 0.1 µg of the obtained RNA using oligo-dT20 primers and a SUPERSCRIPT III First-Strand Synthesis Supermix (Invitrogen). The obtained cDNAwas subjected to PCR using 200 nM of primers for each gene of interest and IQ SYBR Green Supermix (Bio-Rad). Reaction conditions included maintaining a temperature at 95°C for the first 5 minutes,<!-- EPO <DP n="15"> --> followed by 45 cycles having 10 seconds at 95°C, 15 seconds at 61°C, and 20 seconds at 72°C per a cycle. The amplified signal was measured in real-time by CFX CONNECT (Bio-Rad), and an expression level of the gene of interest was calculated as a relative value to each GAPDH expression level. The results are shown in <figref idref="f0004">FIG. 5B</figref>, and primer sequences used in PCR for each mouse gene are as follows.
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>[Table 2]</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="16mm"/>
+<colspec colnum="2" colname="col2" colwidth="17mm"/>
+<colspec colnum="3" colname="col3" colwidth="57mm"/>
+<tbody>
+<row>
+<entry morerows="1" align="center" valign="middle">Tgfbr1</entry>
+<entry align="center" valign="middle">forward</entry>
+<entry align="center" valign="middle">5'-GTCACTGGAGTTGTACGGCA-3'</entry></row>
+<row>
+<entry align="center" valign="middle">reverse</entry>
+<entry align="center" valign="middle">5'-GGGCTGATCCOGTTGATTIC-3'</entry></row>
+<row>
+<entry morerows="1" align="center" valign="middle">Acvr11</entry>
+<entry align="center" valign="middle">forward.</entry>
+<entry align="center" valign="middle">5'-CTGGGTGCTCTAGGCTTGTG-3'</entry></row>
+<row>
+<entry align="center" valign="middle">reverse</entry>
+<entry align="center" valign="middle">5'-GCCCGTAGTACAGICGCTG-3'</entry></row>
+<row>
+<entry morerows="1" align="center" valign="middle">Tgfbr2</entry>
+<entry align="center" valign="middle">forward.</entry>
+<entry align="center" valign="middle">5'-AACAGTGATGTCATGGCCAG-3'</entry></row>
+<row>
+<entry align="center" valign="middle">reverse</entry>
+<entry align="center" valign="middle">5'-CAGACTTCATGCGGCTTCTC-3'</entry></row>
+<row>
+<entry morerows="1" align="center" valign="middle">Gapdh</entry>
+<entry align="center" valign="middle">forward</entry>
+<entry align="center" valign="middle">5'-TGGCCTTCCGTGTTCCTAC-3'</entry></row>
+<row>
+<entry align="center" valign="middle">reverse</entry>
+<entry align="center" valign="middle">5'-GAGTTGCTGTTGAAGTCGCA-3'</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0065" num="0065">In addition, 200 ng/mL of HAPLN1 was treated from 0.5 hours (pre) before treatment with cycloheximide (CHX) or from 0.5 hours (post) after treatment with cycloheximide (CHX) while iMACs cultured at a high density on the plate bottom were exposed to 10 µM of cycloheximide (CHX).24 hours after the CHX treatment, the cell-attached plate was washed with PBS, cells were collected, and proteins were extracted in a RIPA buffer. The extracted cell lysate was subjected to western blotting to examine protein expression levels of TβR1, ALK1, TβR2, and Gapdh, and the results are shown in <figref idref="f0005">FIG. 5C</figref>.</p>
+<p id="p0066" num="0066">As shown in <figref idref="f0004">FIGS. 5B</figref> and <figref idref="f0005">5C</figref>, none of TβR1, ALK1, and TβR2 gene expressions in iMACs was induced or suppressed by HAPLN1 protein. In addition, it was confirmed that TβR1 showed the increased protein expression level by HAPLN1 protein, unlike ALK1 and TβR2, of which protein expression levels were not changed. This suggests that HAPLN1 protein did not induce transcription of the TβR1 gene but increased its half-life, indicating that the stability of the TβR1 protein possessed by iMACs was increased.</p>
+<heading id="h0020"><u>4-3. Increased cell surface presentation of TβR1 in murine articular chondrocytes by HAPLN1 protein</u></heading><!-- EPO <DP n="16"> -->
+<p id="p0067" num="0067">200 ng/mL of HAPLN1 was treated from 0.5 hours (pre) before treatment with cycloheximide (CHX) or from 0.5 hours (post) after treatment with cycloheximide (CHX) while iMACs cultured at a high density on the plate bottom were exposed to 10 µM of cycloheximide (CHX).24 hours after the CHX treatment, the cell-attached plate was washed with PBS and reacted with EZ-Link Sulfo-NHS-LC-Biotin (Thermo Scientific) for 2 hours to label the cell surface protein with biotin. After the reaction was terminated with a 0.1 M glycine solution, cells were collected and proteins were extracted in an NP-40 lysis buffer (Bioworld). Only the biotin-labeled cell surface proteins were selectively extracted from the extracted lysate by immunoprecipitation using a biotin antibody and magnetic beads. A fraction thus obtained was subjected to western blotting to examine the protein expression levels of TβR1, ALK1, TβR2, and Gapdh, and the results are shown in <figref idref="f0005">FIG. 5D</figref>.</p>
+<p id="p0068" num="0068">As shown in <figref idref="f0005">FIG. 5D</figref>, HAPLN1 protein was found to increase the expression level of TβR1 protein presented on the cell surface of iMACs, and at the same time, there were no changes in the ALK1 and TβR2 expression.</p>
+<p id="p0069" num="0069">Accordingly, it can be seen that HAPLN1 protein selectively and stably increases TβR1 protein.</p>
+<heading id="h0021">Example 5: Analysis of osteoarthritis improvement by HAPLN1 protein administered in vivo</heading>
+<heading id="h0022"><u>5-1. Evaluation of Articular Cartilage Tissue Morphology Improvement of HAPLN1 Protein in Osteoarthritis-induced Mice</u></heading>
+<p id="p0070" num="0070">In order to analyze the osteoarthritis improvement of HAPLN1 protein, destabilization-of-medial-meniscus (DMM) treated osteoarthritis model was used as a disease model to induce osteoarthritis by cutting medial meniscotibial ligament in mouse knee joint.</p>
+<p id="p0071" num="0071">Seven-week-old male C57BL/6 mice were divided into six experimental groups and treated as follows.
+<ul id="ul0003" list-style="dash" compact="compact">
+<li>No surgery control (NC-4W) was assigned to 6 animals (n=6) and fed for 4 weeks without any operation.</li>
+<li>Sham operation control (SC-4W) was assigned to 6 animals (n=6) and subjected to a sham operation and then fed for 4 weeks.<!-- EPO <DP n="17"> --></li>
+<li>The mild osteoarthritis group (DMM 4-week control, DC-4W) was assigned to 6 animals (n=6), and subjected to DMM operation and then fed for 4 weeks.</li>
+<li>The moderate osteoarthritis group (DMM 8-week control, DC-8W) was assigned to 9 animals (n=9), subjected to DMM operation and then fed for 4 weeks, followed by 4-week intra-articular injection (5 µL) of phosphate-buffered saline (PBS) once per week.</li>
+<li>The low dose HAPLN1 test group (DMM low dose HAPLN1, DL-8W) was assigned to 9 animals(n=9), subjected to DMM operation and then fed for 4 weeks, followed by the 4-week intra-articular injection (5 µL) of 0.1 µg/mL of PBS-diluted HAPLN1 protein once per week.</li>
+<li>The high dose HAPLN1 test group (DMM high dose HAPLN1, DH-8W) was assigned to 9 animals(n=9), subjected to DMM operation and then fed for 4 weeks, followed by the 4-week intra-articular injection (5 µL) of 1.0 µg/mL of PBS-diluted HAPLN1 protein once per week.</li>
+</ul></p>
+<p id="p0072" num="0072">These test groups are summarized in Table 3 and <figref idref="f0006">FIG. 6</figref>.
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>[Table 3]</title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="17mm"/>
+<colspec colnum="2" colname="col2" colwidth="17mm"/>
+<colspec colnum="3" colname="col3" colwidth="45mm"/>
+<colspec colnum="4" colname="col4" colwidth="53mm"/>
+<colspec colnum="5" colname="col5" colwidth="36mm"/>
+<tbody>
+<row>
+<entry valign="middle">Group 1</entry>
+<entry valign="middle">NC-4W</entry>
+<entry valign="middle">No surgery normal control</entry>
+<entry valign="middle">No surgery 4-week normal control</entry>
+<entry valign="middle">No surgery normal group</entry></row>
+<row>
+<entry valign="middle">Group 2</entry>
+<entry valign="middle">SC-4W</entry>
+<entry valign="middle">Sham operation normal control</entry>
+<entry valign="middle">Sham operation 4-week normal control</entry>
+<entry valign="middle">Sham operation normal group</entry></row>
+<row>
+<entry valign="middle">Group 3</entry>
+<entry valign="middle">DC-4W</entry>
+<entry valign="middle">DMM 4-week control (early OA)</entry>
+<entry valign="middle">DMM operation 4-week negative control group</entry>
+<entry valign="middle">Mild osteoarthritis group</entry></row>
+<row>
+<entry valign="middle">Group 4</entry>
+<entry valign="middle">DC-8W</entry>
+<entry valign="middle">DMM 8-week control (moderate OA)</entry>
+<entry valign="middle">DMM operation 8-week negative control group</entry>
+<entry valign="middle">Moderate osteoarthritis group</entry></row>
+<row>
+<entry valign="middle">Group 5</entry>
+<entry valign="middle">DL-8W</entry>
+<entry valign="middle">DMM low dose HAPLN1</entry>
+<entry valign="middle">DMM operation 8-week low dose HAPLN1 test group</entry>
+<entry valign="middle">Low dose HAPLN1 test group</entry></row><!-- EPO <DP n="18"> -->
+<row>
+<entry valign="middle">Group 6</entry>
+<entry valign="middle">DH-8W</entry>
+<entry valign="middle">DMM high dose HAPLN1</entry>
+<entry valign="middle">DMM operation 8-week high dose HAPLN1 test group</entry>
+<entry valign="middle">High dose HAPLN1 test group</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0073" num="0073">At the end of feeding, the knee tissue to which the operation and treatment were applied was extracted and fixed with neutral buffered 10% formalin (NBF) for 48 hours, and then, subjected to decalcification with a 10% ethylenediaminetetraacetic acid (EDTA) solution for 7 days. Subsequently, each sample was embedded in paraffin to prepare a paraffin block, and a 5 µm-thick sagittal section slide was prepared.</p>
+<p id="p0074" num="0074">For morphological evaluation of articular cartilage tissue, the cartilage tissue of each tissue section slide was visualized by safranin O/fast green FCF (SO/FG) staining. The stained tissue sections were observed and photographed using a Ni-U (Nikon) microscope and DS-Ri1 (Nikon) digital camera, and the results are shown in <figref idref="f0007">FIG. 7A</figref>.</p>
+<p id="p0075" num="0075">As shown in <figref idref="f0007">FIG. 7A</figref>, in the case of No surgery normal group (NC-4W) and Sham operation normal group (SC-4W), it can be seen that the articular cartilage was intact, and in the case of the mild osteoarthritis group (DC-4W) and the moderate osteoarthritis group (DC-8W), the loss of the joint surface occurred. Meanwhile, in the case of the low dose HAPLN1 test group (DL-8W) and the high dose HAPLN1 test group (DH-8W), the articular cartilage morphology was similar to that of the normal control, and in the case of the high dose HAPLN1 test group (DH-8W), the articular cartilage morphology was almost similar to that of the normal control.</p>
+<heading id="h0023"><u>5-2. Quantitative Evaluation of Osteoarthritis Improvement of HAPLN1 Protein</u></heading>
+<p id="p0076" num="0076">In order to quantify the osteoarthritis improvement of the HAPLN1 protein, the tissue stain slide obtained from Example 5-1 was evaluated by osteoarthritis histopathological evaluation (OARSIscore) provided by Osteoarthritis Research Society International (OARSI). This method is used to quantify the degree of damage and fibrosis and osteophyte of the articular surface. The higher the score, the faster the pathology of osteoarthritis.</p>
+<p id="p0077" num="0077">As shown in <figref idref="f0007">FIG. 7B</figref>, in the case of No surgery normal group (NC-4W) and<!-- EPO <DP n="19"> --> Sham operation normal group (SC-4W), there were no symptoms of osteoarthritis, and in the case of the mild osteoarthritis group (DC-4W) and the moderate osteoarthritis group (DC-8W), osteoarthritis progressed in proportion to the feeding period.</p>
+<p id="p0078" num="0078">However, in the case of the low dose HAPLN1 test group (DL-8W) and the high dose HAPLN1 test group (DH-8W), compared to the moderate osteoarthritis group (DC-8W), which is the negative control with respect thereto, the progression of osteoarthritis was suppressed or osteoarthritis was improved. In addition, it was confirmed that the progression inhibition and improvement of the moderate osteoarthritis group (DC-8W) were returned to the level equivalent to those of the mild osteoarthritis group (DC-4W).</p>
+<p id="p0079" num="0079">Thus, it can be seen that the HAPLN1 protein is effective for the prevention, improvement, or treatment of osteoarthritis.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="20"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A pharmaceutical composition for regenerating cartilage, the pharmaceutical composition comprising hyaluronan and proteoglycan link protein 1 (HAPLN1) as an active ingredient.</claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The pharmaceutical composition for regenerating cartilage of claim 1, wherein the HAPLN1 stimulates cartilage formation and protects articular cartilage.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The pharmaceutical composition for regenerating cartilage of claim 1, wherein the HAPLN1 increases Transforming growth factor beta receptor I (TGF-β receptor I) protein to increase the population of cells having cartilage formation ability and to induce regeneration of cartilage tissues.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>A food composition for regenerating cartilage, the food composition comprising HAPLN1 as an active ingredient.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>An animal feed composition for regenerating cartilage, the animal feed composition comprising HAPLN1 as an active ingredient.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>A pharmaceutical composition for the prevention or treatment of osteoarthritis, the pharmaceutical composition comprising HAPLN1 as an active ingredient.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>A pharmaceutical composition for proliferating growth plate cartilage or promoting bone length growth, the pharmaceutical composition comprising HAPLN1 as an active ingredient.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>A pharmaceutical composition for the treatment or prevention of bone-length growth disorders, the pharmaceutical composition comprising HAPLN1 as an active ingredient.</claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>The pharmaceutical composition of claim 8, wherein the bone-length growth<!-- EPO <DP n="21"> --> disorders are short stature, dwarfism, nanism, or precocious puberty.</claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>A method of regenerating cartilage tissues using HAPLN1, the method comprising:
+<claim-text>isolating chondrocytes from a subject; and</claim-text>
+<claim-text>treating the chondrocytes with HAPLN1.</claim-text></claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="22"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="111" he="213" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="23"> -->
+<figure id="f0002" num="2A,2B,3"><img id="if0002" file="imgf0002.tif" wi="158" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="24"> -->
+<figure id="f0003" num="4A,4B"><img id="if0003" file="imgf0003.tif" wi="165" he="178" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="25"> -->
+<figure id="f0004" num="5A,5B"><img id="if0004" file="imgf0004.tif" wi="114" he="175" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="26"> -->
+<figure id="f0005" num="5C,5D"><img id="if0005" file="imgf0005.tif" wi="80" he="180" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="27"> -->
+<figure id="f0006" num="6"><img id="if0006" file="imgf0006.tif" wi="69" he="229" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="28"> -->
+<figure id="f0007" num="7A,7B"><img id="if0007" file="imgf0007.tif" wi="165" he="206" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="150" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="150" he="233" type="tif"/><doc-page id="srep0003" file="srep0003.tif" wi="150" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="US20160220699A"><document-id><country>US</country><doc-number>20160220699</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0008]</crossref><crossref idref="pcit0003">[0009]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="WO2017123951A"><document-id><country>WO</country><doc-number>2017123951</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0002">[0008]</crossref><crossref idref="pcit0004">[0009]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

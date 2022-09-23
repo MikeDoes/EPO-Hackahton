@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP18944354A1" file="EP18944354NWA1.xml" lang="en" country="EP" doc-number="3889263" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3889263</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>18944354.2</B210><B220><date>20181224</date></B220><B240><B241><date>20210629</date></B241></B240><B250>zh</B250><B251EP>en</B251EP><B260>en</B260></B200><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>C12N  15/12        20060101AFI20200703BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C07K  14/705       20060101ALI20200703BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>A61K  38/17        20060101ALI20200703BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>A61P  35/00        20060101ALI20200703BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>C07K  14/705       20130101 LI20200725BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>A61K  38/17        20130101 LI20200725BCEP        </text></classification-cpc><classification-cpc sequence="3"><text>A61P  35/00        20180101 LI20200725BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>FÜR MUTIERTES MENSCHLICHES 2IG-B7-H3-PROTEIN CODIERENDES GEN, REKOMBINANTER VEKTOR, WIRTSZELLE DAMIT, PHARMAZEUTISCHE ZUSAMMENSETZUNG UND DEREN VERWENDUNG</B542><B541>en</B541><B542>MUTATED HUMAN 2IG-B7-H3 PROTEIN CODING GENE, RECOMBINANT VECTOR, HOST CELL CONTAINING SAME, PHARMACEUTICAL COMPOSITION AND APPLICATION THEREOF</B542><B541>fr</B541><B542>GÈNE CODANT POUR LA PROTÉINE HUMAINE 2 IG-B7-H3 MUTÉ, VECTEUR RECOMBINÉ, CELLULE HÔTE LA CONTENANT, COMPOSITION PHARMACEUTIQUE ET APPLICATION CORRESPONDANTE</B542></B540><B590><B598>1</B598></B590></B500><B700><B710><B711><snm>Huang, Haidong</snm><iid>101905395</iid><irf>P52249-WOEP</irf><adr><str>Room 1505, Maples International Center, Bldg.2 
+No.32 Xizhimen North Street</str><city>Haidian District
+Beijing 100082</city><ctry>CN</ctry></adr></B711><B711><snm>Zhou, Xiaoyi</snm><iid>101905396</iid><irf>P52249-WOEP</irf><adr><str>No. 49 North Lizhou Rd</str><city>Yongkang
+Zhejiang 321300</city><ctry>CN</ctry></adr></B711><B711><snm>Chen, Hanqiang</snm><iid>101905394</iid><irf>P52249-WOEP</irf><adr><str>Jinshenghuayuan Zone 2 
+No. 78 Yongkang</str><city>Zhejiang 321300</city><ctry>CN</ctry></adr></B711></B710><B720><B721><snm>HUANG, Haidong</snm><adr><str>Room 1505, Maples International Center, Bldg.2,  
+No.32 Xizhimen North Street, Haidian District</str><city>Beijing 100082</city><ctry>CN</ctry></adr></B721></B720><B740><B741><snm>Isarpatent</snm><iid>100060500</iid><adr><str>Patent- und Rechtsanwälte Barth 
+Charles Hassa Peckmann &amp; Partner mbB 
+Friedrichstrasse 31</str><city>80801 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>CN2018123049</anum></dnum><date>20181224</date></B861><B862>zh</B862></B860><B870><B871><dnum><pnum>WO2020132789</pnum></dnum><date>20200702</date><bnum>202027</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">The present disclosure relates to the field of genetic engineering, in particular to a mutant human 2Ig-B7-H3 protein encoding gene, a protein, a recombinant vector, and a pharmaceutical composition including the gene or protein. The regulatory expression, interaction and signal transmission of the protein encoded by the gene of the present disclosure play an extremely important role in the tumor immune response process, and especially provide a new and beneficial way for the prevention and treatment of cancer.<img id="iaf01" file="imgaf001.tif" wi="165" he="60" img-content="drawing" img-format="tif"/></p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001"><b>TECHNICAL FIELD</b></heading>
+<p id="p0001" num="0001">The present invention relates to the field of genetic engineering, in particular to a human 2Ig-B7-H3 protein encoding gene, a protein encoded thereby, a recombinant vector, a host cell comprising the same, a pharmaceutical composition and use thereof.</p>
+<heading id="h0002"><b>BACKGROUND</b></heading>
+<p id="p0002" num="0002">The activation of T cells requires two different signals. The first signal comes from the interaction between TCR and the antigen peptide-MHC complex, and the second signal comes from the co-stimulatory signal generated by the combination of the B7 family molecule on the APC and its ligand CD28 family molecule on the T cell, e.g., B7-1B7-2 combined with CD28 and CTLA-4. This pathway is called the classic B7 pathway.</p>
+<p id="p0003" num="0003">The human B7-H3 gene was first discovered by Chapoval et al. in the cDNA library of human dendritic cells. Since its structure is similar to the gene of the B7 family, it was named B7 Homolog 3, or abbreviated as B7-H3. It is a type I transmembrane glycoprotein, belongs to the immunoglobulin superfamily, and has 20% to 27% sequence homology with other members of the B7 family in the amino acid sequence outside the cell.<!-- EPO <DP n="2"> --></p>
+<p id="p0004" num="0004">B7-H3 has a wide range of expression: B7-H3 is expressed in most tissues in terms of the transcription level, and only in a few tissues (e.g., liver, lung, bladder, testis, prostate, breast, placenta and lymphoid organs, etc in human) in terms of the protein level, and the difference in the expressions of B7-H3 in terms of the gene (mRNA) level and the protein level may be related to the post-transcriptional regulation of the molecule.</p>
+<p id="p0005" num="0005">In addition to regulating the proliferation of lymphocytes during antigen-specific humoral immunity, B7-H3 is an immune regulatory molecule. In recent years, it has also been found to have important clinical significance in many tumor cells: that is, it may be a regulator of tumor resistance.</p>
+<p id="p0006" num="0006">The human B7-H3 gene is located on chromosome 15, and the protein has two different forms of spliceosome in the body: 2IgB7-H3 and 4IgB7-H3. The extracellular segment of 2IgB7-H3 is composed of two immunoglobulin domains of IgV-IgC. The applicant hopes to discover the correlation between 2IgB7-H3 gene mutation and tumor resistance through research.</p>
+<heading id="h0003">SUMMARY</heading>
+<p id="p0007" num="0007">A technical problem to be solved by the present disclosure is to provide a human 2Ig-B7-H3 protein encoding gene, a protein encoded thereby, a recombinant vector, a host cell comprising the same, a pharmaceutical composition and a use thereof. The human 2Ig-B7-H3 protein coding gene provides a new way to treat cancer.<!-- EPO <DP n="3"> --></p>
+<p id="p0008" num="0008">The present disclosure provides a mutant human 2Ig-B7-H3 protein coding gene, and the gene has the nucleotide sequence as shown in SEQ ID NO:1.</p>
+<p id="p0009" num="0009">The present disclosure provides a human 2Ig-B7-H3 protein, the coding gene of the human 2Ig-B7-H3 protein is the mutant human 2Ig-B7-H3 protein coding gene.</p>
+<p id="p0010" num="0010">The present disclosure provides a recombinant vector, including a vector and a target gene carried by the vector, in which the target gene is the mutant human 2Ig-B7-H3 protein coding gene as described in the above technical solutions.</p>
+<p id="p0011" num="0011">Preferably, the vector is selected from a group consisting of a cloning vector, an eukaryotic expression vector, a prokaryotic expression vector and a shuttle vector.</p>
+<p id="p0012" num="0012">The present disclosure provides a pharmaceutical composition, including excipients and one or more of the human 2Ig-B7-H3 protein and the recombinant carrier selected in the above technical solutions.</p>
+<p id="p0013" num="0013">Preferably, the pharmaceutical composition is an injection, including a pharmaceutically acceptable excipient and one or more selected from the recombinant carriers described in the above technical solutions.</p>
+<p id="p0014" num="0014">The present disclosure provides a use of the mutant human 2Ig-B7-H3 protein coding gene described in the above technical solutions in the preparation of a medicament for preventing and treating cancer.</p>
+<p id="p0015" num="0015">As compared with the prior art, the present disclosure provides a mutant human 2Ig-B7-H3 protein encoding gene, a protein encoded thereby, a recombinant<!-- EPO <DP n="4"> --> vector, and a pharmaceutical composition including the gene or protein. The regulatory expression, interaction and signal transmission of the protein encoded by the gene of the present disclosure play an extremely important role in the tumor immune response process, and especially provide a new and beneficial way for the prevention and treatment of cancer.</p>
+<heading id="h0004"><b>BRIEF DESCRIPTION OF THE DRAWINGS</b></heading>
+<p id="p0016" num="0016">
+<ul id="ul0001" list-style="none" compact="compact">
+<li><figref idref="f0001">Fig. 1</figref> shows the results of flow cytometric data analysis of 293T cells.</li>
+<li><figref idref="f0002">Fig. 2</figref> shows the results of flow cytometric data analysis of SHG44 cells.</li>
+</ul></p>
+<heading id="h0005"><b>DETAILED DESCRIPTION</b></heading>
+<p id="p0017" num="0017">Hereinafter, exemplary embodiments of the present disclosure will be described in more detail in conjunction with the drawings. Although the drawings show exemplary embodiments of the present disclosure, it should be understood that the present disclosure can be implemented in various forms and should not be limited by the embodiments set forth herein. On the contrary, these embodiments are provided to enable a more thorough understanding of the present disclosure and to fully convey the scope of the present disclosure to a person skilled in the art.</p>
+<p id="p0018" num="0018">An embodiment of the present disclosure provides a mutant human 2Ig-B7-H3 protein coding gene, in which the gene is:<br/>
+the nucleotide sequence shown in SEQ ID NO:1.<!-- EPO <DP n="5"> --></p>
+<p id="p0019" num="0019">The mutant human 2Ig-B7-H3 protein coding gene contains a total of 2765 bases, and a C&gt;T heterozygous mutation located at position 1488 at the 5' end, so that the C and T bases at position 1488 each account for half of the position. As shown in the sequence listing, the "y" at position 1488 in SEQ ID NO:1 indicates that a C&gt;T heterozygous mutation occurs, and the C and T bases located at position 1488 each occupy half of the positions.</p>
+<p id="p0020" num="0020">The present disclosure provides a human 2Ig-B7-H3 protein, the coding gene of the human 2Ig-B7-H3 protein is the mutant human 2Ig-B7-H3 protein coding gene.</p>
+<p id="p0021" num="0021">As well known in the art, among the 20 different amino acids that make up the protein, except for Met (ATG) or Trp (TGG) that is encoded by a single codon, the other 18 amino acids are encoded by 2 to 6 codons (<nplcit id="ncit0001" npl-type="b"><text>Sambrook et al. Molecular Cloning: A Laboratory Manual. 2nd Ed., Cold Spring Harbor Laboratory, Cold Spring Harbor Laboratory Press, Cold Spring Harbor, N.Y., 1989</text></nplcit>, see Appendix D on page 950). That is, due to the degeneracy of the genetic codons, the codons that determine an amino acid are often more than one, the replacement of the third nucleotide in the triplet codon often does not change the composition of the amino acid, so that the nucleotide sequence of the protein encoding the same amino acid sequence can be different. According to the well-known codon table, a person skilled in the art would start from the nucleotide sequence shown in SEQ ID NO:1 disclosed in the present disclosure and obtain the nucleotide sequences by biological methods (such as PCR methods, point mutation methods) or chemical synthesis methods, and apply them<!-- EPO <DP n="6"> --> into recombination technology and gene therapy, so these nucleotide sequences should be included in the scope of the present disclosure. On the contrary, the use of the DNA sequence disclosed herein can also be carried out by modifying the nucleic acid sequence provided by the present disclosure through methods known in the art, such as the method of <nplcit id="ncit0002" npl-type="b"><text>Sambrook et al. (Molecular Cloning: A Laboratory Manual. 2nd Ed., Cold Spring Harbor Laboratory, Cold Spring Harbor Laboratory Press, Cold Spring Harbor, N.Y., 1989</text></nplcit>).</p>
+<p id="p0022" num="0022">An embodiment of the present disclosure provides a recombinant vector, including a vector and a target gene carried by the vector, in which the target gene is the mutant human 2Ig-B7-H3 protein coding gene as described in the above technical solutions.</p>
+<p id="p0023" num="0023">Among them, the target gene may also include regulatory sequences, e.g., a promoter, a terminator and an enhancer for the expression of the one or more target genes. The target gene may also include a marker gene (for example, a gene encoding β-galactosidase, green fluorescent protein, or other fluorescent protein) or a gene whose product regulates the expression of the other genes. In addition to DNA, the target gene can also be mRNA, tRNA or rRNA, and can also include related transcriptional regulatory sequences usually associated with transcription sequences, e.g., transcription termination signals, polyadenylation sites, and downstream enhancer elements.</p>
+<p id="p0024" num="0024">The vector can be various vectors that can carry the target gene commonly used in the art, and various vectors that can carry the target gene available<!-- EPO <DP n="7"> --> to be improved by technological development. The vectors are, for example, a plasmid (naked DNA), a liposome, a molecular coupler, a polymer, and a viruse.</p>
+<p id="p0025" num="0025">The plasmid (naked DNA) can carry the target gene, and the plasmid carrying the target gene can be directly injected or introduced into tissue cells through a gene gun, an electroporation and electrofusion technology. In addition, ultrasound helps to improve the efficiency of plasmid transfer. The combination of ultrasound and a microbubble echo contrast agent can increase the permeability of the cell membrane, thereby significantly improving the transfer and expression efficiency of naked DNA. This cell membrane permeation technology can instantly create small holes on the surface of the cell membrane, and then DNA takes the opportunity to enter the cell.</p>
+<p id="p0026" num="0026">The liposome is a particle composed of lipid bilayers, which can mediate the target gene to pass through the cell membrane. The lipid can be a natural phospholipid, mainly lecithin, derived from egg yolk and soybeans (phosphatidylcholine, PC); it can also be dipalmitoylphosphatidylcholine (DPPC), dipalmitoylphosphatidylethanolamine ( DPPE), distearoylphosphatidylcholine (DSPC) and other synthetic phospholipids; and it can also contain cholesterol. The preferred liposomes are cationic liposomes, which are mainly formed by mixing positively charged lipids and neutral auxiliary lipids in an equimolar manner. The positively charged liposomes and the negatively charged DNA can effectively form complexes, which move into cells through endocytosis.<!-- EPO <DP n="8"> --></p>
+<p id="p0027" num="0027">The polymer is a cationic polymer, a cationic polymer, for example, the positive charge on poly-L-lysine is combined with the negative charge on DNA to electrically neutralize guanidine to form a stable polymer/DNA complex. The resulting complex of cationic polymer and DNA is still positively charged, can bind to the negatively charged receptor on the cell surface, and is penetrated into the cell.</p>
+<p id="p0028" num="0028">The molecular coupling body is to covalently bind the exogenous DNA of the target gene to the ligand of the specific receptor on the cell surface or the monoclonal antibody or the viral membrane protein, and specific binding properties is used to mediate the introduction of exogenous genes into specific types of cells.</p>
+<p id="p0029" num="0029">Viruses can usually enter specific cells with high efficiency, express their own proteins, and produce new virus particles. Therefore, the engineered virus first becomes a vector for gene therapy. For example, it may be lentiviral vector, retroviral vector, adenovirus vector, adeno-associated virus vector, and herpes simplex virus vector, etc.</p>
+<p id="p0030" num="0030">The term "expression vector" refers to a vector containing a recombinant polynucleotide, and the recombinant polynucleotide contains an expression control sequence operably linked to the nucleotide sequence to be expressed. Expression vectors include all expression vectors known in the art, including cosmids introduced into recombinant polynucleotides, plasmids (for example, naked or contained in liposomes) and viruses (for example, lentivirus, retrovirus, adenovirus and adeno-associated virus).<!-- EPO <DP n="9"> --></p>
+<p id="p0031" num="0031">The term "lentivirus" belongs to the retroviral family. Lentivirus can infect dividing and non-dividing cells. After lentivirus infection, a large amount of genetic information can be delivered to the host cell, and it can be expressed continuously and stably for a long time, and at the same time it can be inherited stably with cell division. Therefore, lentivirus is one of the most effective tools for introducing foreign genes. Examples of lentivirus include human immunodeficiency virus (HIV), simian immunodeficiency virus (SIV), equine infectious anemia (EIA), and feline immunodeficiency virus (FIV).</p>
+<p id="p0032" num="0032">Lentiviral vectors can effectively integrate foreign genes into the host chromosome to achieve persistent expression. In terms of infection ability, it can effectively infect neuronal cells, liver cells, cardiomyocytes, tumor cells, endothelial cells, stem cells and other types of cells, so as to achieve good gene therapy effects.</p>
+<p id="p0033" num="0033">Preferably, the present disclosure uses a lentiviral vector.<br/>
+The present disclosure also provides a host cell, in which the host contains the recombinant vector of the present disclosure. The recombinant vector containing the mutant human 2Ig-B7-H3 protein coding gene of the present disclosure is transformed into the host body, which can be used to study the relationship between the expression of tumor cells and the recombinant vector. Preferably, the host is selected from one or more of <i>Escherichia coli,</i> 239 cells and SHG44 cells. Among them, <i>Escherichia coli,</i> as a genetically engineered bacteria, can contain the recombinant cloning vector of the present disclosure, thereby realizing the amplification of the mutant human 2Ig-B7-H3 protein encoding gene of the present<!-- EPO <DP n="10"> --> disclosure, or it can contain the recombinant expression vector of the present disclosure, thereby realizing the large-scale expression of the mutant human 2Ig-B7-H3 protein-coding gene of the present disclosure. When the recombinant vector is a recombinant adenovirus vector, the vector can be amplified in SHG44 and 239 cells.</p>
+<p id="p0034" num="0034">The embodiment of the present disclosure provides a pharmaceutical composition, including excipients and one or more of the human 2Ig-B7-H3 protein and the recombinant vector selected in the above technical solutions.</p>
+<p id="p0035" num="0035">The pharmaceutically acceptable excipients refer to non-toxic solid, semi-solid or liquid fillers, diluents, encapsulating materials or other formulation excipients, for example, including, but not limited to, saline, buffered saline, glucose, water, glycerol, ethanol and the mixtures thereof. The pharmaceutical composition is suitable for parenteral, sublingual, intracranial, intravaginal, intraperitoneal, intrarectal, intrabuccal or epidermal administration.</p>
+<p id="p0036" num="0036">Parenteral administration includes intravenous, intramuscular, intraperitoneal, intrasternal, subcutaneous, intraarticular injection and infusion. Pharmaceutical compositions suitable for parenteral administration include sterile aqueous or non-aqueous solutions, dispersions, suspensions or emulsions, and powders for preparation in sterile injectable solutions or dispersions immediately before use. Suitable aqueous or non-aqueous carriers, diluents, solvents or excipients include water, ethanol, glycerin, propylene glycol, polyethylene glycol, carboxymethyl cellulose, vegetable oils and injectable organic esters, such as ethyl<!-- EPO <DP n="11"> --> oleate. These compositions may also contain preservatives, wetting agents, emulsifiers, protective agents and dispersant adjuvants such as inositol, sorbitol and sucrose. Preferably, osmotic pressure regulators, such as sugars, sodium chloride, and potassium chloride, are added.</p>
+<p id="p0037" num="0037">Epidermal administration includes administration on the skin, mucous membranes, and on the surface of lung and eyes. Such pharmaceutical compositions include powders, ointments, drops, transdermal patches, iontophoresis devices, inhalants, and the like. The composition for rectal or vaginal administration is preferably a suppository, which can be prepared by mixing the recombinant vector of the present disclosure with a suitable non-irritating excipient (such as cocoa butter, polyethylene glycol or suppository wax). The excipient or carrier is solid at room temperature and liquid at body temperature, so that it melts in the rectum or vagina and releases the active compound.</p>
+<p id="p0038" num="0038">Preferably, the pharmaceutical composition is an injection, including a pharmaceutically acceptable excipient and one or more selected from the human glucokinase mutant encoding gene of the present disclosure and the recombinant vector of the present disclosure.</p>
+<p id="p0039" num="0039">Preferably, the pharmaceutical composition is an injection, including a pharmaceutically acceptable excipient and one or more selected from the recombinant vectors described in the above technical solutions.<!-- EPO <DP n="12"> --></p>
+<p id="p0040" num="0040">The embodiment of the present disclosure provides a use of the mutant human 2Ig-B7-H3 protein coding gene described in the above technical solutions in the preparation of a medicament for preventing and treating cancer.</p>
+<p id="p0041" num="0041">After ectopic expression in several mouse tumor cell lines, they can induce tumor-specific cytotoxic T lymphocyte activation, thereby delaying the growth of cancer cells and even completely eliminating tumors. After the transfected cancer cell lines are implanted in mice, they can be significantly prolonged the lifetime of mouse.</p>
+<p id="p0042" num="0042">The technical solutions of the present disclosure will be further described by way of examples. Those skilled in the art should be understood that these examples are only intended to assist in understanding the present disclosure and are not to be considered as a specific limitation to the present disclosure.</p>
+<p id="p0043" num="0043">To allow those skilled in the art to understand the features and effects of the present disclosure, the following is merely a general description and definition of terms and wording mentioned in the specification and the scope of patent application. Unless otherwise indicated, all technical and scientific terms used herein have the common meaning to those skilled in the art, and in the case of a conflict, the definition of the specification shall prevail.</p>
+<p id="p0044" num="0044">Unless otherwise indicated, the experimental methods used in the following examples are conventional methods.</p>
+<p id="p0045" num="0045">Unless otherwise indicated, the materials, the reagents and the like used in the following examples are commercially available.<!-- EPO <DP n="13"> --></p>
+<heading id="h0006">Example 1</heading>
+<heading id="h0007">Human 2Ig-B7-H3 protein coding gene</heading>
+<p id="p0046" num="0046">The mutant human 2Ig-B7-H3 protein coding gene contains a total of 2765 bases, and a C&gt;T heterozygous mutation located at position 1488 at the 5' end, so that the C and T bases at position 1488 each account for half of the position. The nucleotide sequence of the mutant human 2Ig-B7-H3 protein coding gene is shown in SEQ ID NO:1. As shown in the sequence listing, the "y" at position 1488 in SEQ ID NO:1 indicates that a C&gt;T heterozygous mutation occurs, and the C and T bases located at position 1488 each occupy half of the positions.</p>
+<heading id="h0008">Example 2</heading>
+<heading id="h0009">Construction of recombinant vector</heading>
+<p id="p0047" num="0047">The nucleotide sequence shown in SEQ ID NO: 1 in the sequence listing is inserted between the NE1 and NotI restriction sites of pIRES2-EGFP vector, thereby obtaining the recombinant plasmid pIRES2-EGFP/2Ig-B7-H3.
+<ol id="ol0001" compact="compact" ol-style="">
+<li>1. LipofectamineTM2000 cationic liposome transfection kit was used and operated according to the kit instructions, and the recombinant plasmid pIRES2-EGFP/2Ig-B7-H3 was introduced into 239T cells to obtain recombinant cells.</li>
+<li>2. The recombinant cells obtained in step 1 were inoculated into DMEM/F12 medium containing 5% (volume ratio) newborn calf serum, and then incubated in an incubator at 37°C and in 5% CO<sub>2</sub> for 48 hours, and then the supernatant was collected.<!-- EPO <DP n="14"> --></li>
+<li>3. The supernatant obtained in step 2 was taken out and filtered with a 0.45µm filter membrane, and then the filtrate was collected and adjusted the pH to 7.4.</li>
+<li>4. The filtrate obtained in step 3 is purified by affinity chromatography.
+<ul id="ul0002" list-style="none" compact="compact">
+<li>Equilibrium buffer: 0.5M Tris-HCl buffer with pH 7.4 containing 0.5M NaCl;</li>
+<li>Eluent: 0.1M Gly-HCl buffer with pH 3.0.</li>
+</ul></li>
+</ol></p>
+<p id="p0048" num="0048">3 column volumes were first washed with the equilibration buffer, and then the target substance was washed with the eluent at a flow rate of 5 mL/min.</p>
+<p id="p0049" num="0049">A280nm detects the UV absorption peak.</p>
+<p id="p0050" num="0050">A collection tube was used to collect the target peak, and then the solution in the collection tube was transferred to a dialysis bag and dialyzed in 0.01M PBS buffer with pH 7.4 to obtain human 2Ig-B7-H3 protein.</p>
+<heading id="h0010">Example 3</heading>
+<heading id="h0011">Expression of human 2Ig-B7-H3 protein coding gene on cell surface</heading>
+<p id="p0051" num="0051">In order to detect the expression of 2IgB7-H3 on the cell surface, SHG44 and 293T cells were infected with the vector obtained in Example 2 and the negative control lentivirus. The cells were harvested after infection, and the expression of 2IgB7-H3 on the cell surface was detected by flow cytometry.</p>
+<heading id="h0012">1. Materials and instruments</heading>
+<p id="p0052" num="0052">
+<ul id="ul0003" list-style="none" compact="compact">
+<li>Target cells: SHG44, 293T.</li>
+<li>Medium: DMEM+10%FBS+1%P/S.<!-- EPO <DP n="15"> --></li>
+<li>Flow cytometry reagent: 2IgB7-H3 flow cytometry antibody (human).</li>
+<li>Flow instrument: BD FASAria Cell Sorter.</li>
+</ul></p>
+<heading id="h0013">2. Culture of cells in experimental step 1):</heading>
+<p id="p0053" num="0053">SHG44 and 293T cells infected with the vector obtained in Example 2 and the negative control lentivirus were cultured in a 37°C carbon dioxide incubator with 5% CO<sub>2</sub>.
+<br/>
+2) Infection of cells:
+<br/>
+(1) SHG44 and 293T cells in the logarithmic growth phase were trypsinized to prepare a cell suspension.<br/>
+(2) SHG44 and 293T cell suspension were inoculated in a 6-well plate, and cultured overnight in a 37°C carbon dioxide incubator with 5% CO<sub>2</sub>.<br/>
+(3) An appropriate amount of the vector prepared in Example 2 and the negative control virus were added to each well according to the virus titer, in which the MOI of SHG44 is 100; the MOI of 293T is 2, and the experimental groups are shown as follows:
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="14mm"/>
+<colspec colnum="2" colname="col2" colwidth="30mm"/>
+<colspec colnum="3" colname="col3" colwidth="32mm"/>
+<colspec colnum="4" colname="col4" colwidth="54mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col4" align="left" valign="top">293T</entry></row></thead>
+<tbody>
+<row>
+<entry>LV-NC</entry>
+<entry>LV-2IgB7-H 3-wt-</entry>
+<entry>LV-2IgB7-H 3-mu-</entry>
+<entry>LV-2IgB7-H3-wt+ LV-2IgB7-H3-mu</entry></row></tbody></tgroup>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="14mm"/>
+<colspec colnum="2" colname="col2" colwidth="30mm"/>
+<colspec colnum="3" colname="col3" colwidth="32mm"/>
+<colspec colnum="4" colname="col4" colwidth="54mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col4" align="left" valign="top">SHG44</entry></row></thead>
+<tbody>
+<row>
+<entry>LV-NC</entry>
+<entry>LV-2IgB7-H 3-wt</entry>
+<entry>LV-2IgB7-H 3-mu</entry>
+<entry>LV-2IgB7-H3-wt+ LV-2IgB7-H3-mu</entry></row></tbody></tgroup>
+</table>
+</tables>
+<br/>
+After 48 hours of infection, photographes were taken and recorded.
+<!-- EPO <DP n="16"> --><br/>
+3) Cell staining and detection with flow cytometry
+<ol id="ol0002" compact="compact" ol-style="">
+<li>i) To remove the medium, wash twice with PBS, digest the adherent cells on the bottom with trypsin, collect the cells, and centrifuge at 1000 rpm for 5 mins.</li>
+<li>ii) To remove the supernatant, resuspend the cells in 1ml PBS, and centrifuge them at 1000rpm for 5 mins.</li>
+<li>iii) To remove the supernatant, resuspend the cells in 500ul PBS for each sample, and blow them gently.</li>
+<li>iv) To add 2IgB7-H3 flow cytometry antibody and isotype control for each group, and mix them gently.</li>
+<li>v) To incubate for 30 mins at 4°C in the dark.</li>
+<li>vi) To centrifuge at 1000rpm for 5 mins, remove the supernatant, and resuspend the cells in 1ml PBS.</li>
+<li>vii) To centrifuge at 1000rpm for 5 mins, remove the supernatant, and resuspend the cells in 500ul PBS.</li>
+<li>viii) To start flow cytometry.</li>
+</ol></p>
+<heading id="h0014">4. Experimental results</heading>
+<heading id="h0015">Analysis of the flow cytometry</heading>
+<p id="p0054" num="0054">The results of flow cytometric data analysis of 293T cells are shown in <figref idref="f0001">Fig. 1</figref>.</p>
+<p id="p0055" num="0055">The results of flow cytometric data analysis of SHG44 cells are shown in <figref idref="f0002">Fig. 2</figref>.<!-- EPO <DP n="17"> --></p>
+<heading id="h0016">5. Conclusion</heading>
+<p id="p0056" num="0056">As can be seen from the results, the average fluorescence intensity of CD276 in the WT+MT group of antigen-presenting cells 293T and SHG44 cells was higher than those of the WT and MT groups, that is, the expressions of CD276 in the WT and MT groups were higher.</p>
+<heading id="h0017">Example 4</heading>
+<heading id="h0018">Application in anti-cancer</heading>
+<p id="p0057" num="0057">The mouse liver cancer H22 cells frozen in liquid nitrogen were quickly thawed in a 37 °C water bath, the cell density was adjusted to 1×10<sup>7</sup>/mL, and 2 BALB/c mice were intraperitoneally inoculated with 0.2 mL each. After the abdomen of the mouse was swollen, the mouse was sacrificed by cervical dislocation, the abdomen was disinfected, the ascites was extracted and combined, the cell density was adjusted to 1×10<sup>7</sup>/ml with PBS, and 20 BALB/c mice were subcutaneously inoculated with 0.2 mL each. After 12 days, the mice were divided into two groups, with 10 mice for each group, and the following treatments were carried out:
+<ul id="ul0004" list-style="none" compact="compact">
+<li>The first group: no treatment, no vaccination of any therapeutic drugs;</li>
+<li>The second group: human 2Ig-B7-H3 protein was injected subcutaneously into the abdomen, immunized 3 times (0.2 mL for each time), and the single immunization dose was 20ug/mouse;</li>
+</ul></p>
+<p id="p0058" num="0058">The first immunization was carried out on the 12th day after the tumor cells were selected: the second immunization was carried out on the 15th day: the third immunization was carried out on the 18th day. From the second day of<!-- EPO <DP n="18"> --> immunization, the tumor growth was observed, the tumor size was recorded, and the tumor volume was calculated every day according to the following formula: V=ab<sup>2</sup>/2 (V-volume, a-tumor long diameter, b-tumor short diameter). The changes in tumor volumes were shown in Table 1.
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="15mm"/>
+<colspec colnum="2" colname="col2" colwidth="38mm"/>
+<colspec colnum="3" colname="col3" colwidth="38mm"/>
+<colspec colnum="4" colname="col4" colwidth="38mm"/>
+<colspec colnum="5" colname="col5" colwidth="38mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry valign="top">Tumor volume on 10 days after tumor inoculation (mm<sup>3</sup>)</entry>
+<entry valign="top">Tumor volume on 13 days after tumor inoculation (mm<sup>3</sup>)</entry>
+<entry valign="top">Tumor volume on 16 days after tumor inoculation (mm<sup>3</sup>)</entry>
+<entry valign="top">Tumor volume on 19 days after tumor inoculation (mm<sup>3</sup>)</entry></row></thead>
+<tbody>
+<row>
+<entry>Group I</entry>
+<entry>300</entry>
+<entry>500</entry>
+<entry>700</entry>
+<entry>900</entry></row>
+<row>
+<entry>Group II</entry>
+<entry>300</entry>
+<entry>350</entry>
+<entry>380</entry>
+<entry>400</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0059" num="0059">As can be seen from the results, the human 2Ig-B7-H3 protein has a significant therapeutic effect on the subcutaneously inoculated inducible liver cancer model. After treatment with human 2Ig-B7-H3 protein, the growth rate of subcutaneous tumors was significantly slowed down, and the tumor volume became smaller.</p>
+<heading id="h0019">Example 5</heading>
+<p id="p0060" num="0060">Human lung adenocarcinoma cells PC-9 were cultured in DMEM medium containing 100mL/L fetal bovine serum, and transplanted into a round glass-bottom culture dish (Φ=35mm) at a cell concentration of 1×10<sup>5</sup>/mL. After culturing at 36°C in a 5% CO<sub>2</sub> cell incubator for 22 hours, the culture solution was<!-- EPO <DP n="19"> --> discarded and divided into 10 equal parts, and human 2Ig-B7-H3 protein (12µM, ice bath pre-cooling) dissolved in DMEM medium (hereinafter referred to as " medication") were added; after 2h incubation in an ice bath and dark, the peptide solution was discarded and washed twice with pre-cooled PBS.</p>
+<p id="p0061" num="0061">During the operation, the changes in tubulin thickness (i.e., microtubule wall thickness) were observed and recorded. The observation results show that in all 10 experiments, the tubulin thickness of human lung adenocarcinoma cell PC-9 had become thinner. The specific results were shown in Table 2. As can be seen from Table 2, the thickness of tubulin after medication is 80%±2% of that before medication, indicating that the protein of the present disclosure can destroy the microtubule dynamics of cancer cells and acts as an anti-mitotic agent that prevents the proliferation of cancer cells (slow down or prevent the mitosis of cancer cells).
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>Table 2</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="42mm"/>
+<colspec colnum="2" colname="col2" colwidth="32mm"/>
+<colspec colnum="3" colname="col3" colwidth="44mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry namest="col2" nameend="col3" align="left" valign="top">Microtube wall thickness (nm)</entry></row>
+<row>
+<entry valign="top"/>
+<entry valign="top">Before medication</entry>
+<entry valign="top">After 10 weeks of medication</entry></row></thead>
+<tbody>
+<row>
+<entry>Human 2Ig-B7-H3 protein</entry>
+<entry>5.0</entry>
+<entry>4.0</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0020">Example 6</heading>
+<p id="p0062" num="0062">The experimental subject was a patient with lung adenocarcinoma, clinical stage IV, the synthetic polypeptide was dissolved in PBS (Hyclone) solution with pH 7.4, the concentration was adjusted to 2.5mg/ml, the upper arm was injected<!-- EPO <DP n="20"> --> subcutaneously with 200ug to cover 5% Aldaracream (iNova Pharmaceuticals Australia Pty Ltd.) for each time, once a week, and 12 weeks as a cycle. ELISA was used to detect the secretion of IFN-γ before medication, and 3 weeks, 7 weeks, and 11 weeks after medication. The synthetic polypeptides used in the specific examples and the test results before and after medication were shown in Table 3.</p>
+<p id="p0063" num="0063">As can be seen from Table 3, after the medication, the level of IFN-γ secreted by T cells had a significant increase, and even an exponential increase, indicating that the use of the protein of the present disclosure can increase the tumor-killing ability of the peripheral blood of patients with lung adenocarcinoma, and this further confirms the effect of the present disclosure. It was speculated that the protein provided by the present disclosure had obvious curative effect on the treatment of lung adenocarcinoma. Through specific binding with lung adenocarcinoma cells, it induced the cancer cells to produce dendritic cells to form antigen presenting cells, and then to stimulate killer T cells in vivo, thereby realizing the treatment of lung adenocarcinoma.</p>
+<p id="p0064" num="0064">Subsequently, volunteers without cancer cells in the body was replaced lung adenocarcinoma patients to repeat the above test, and ELISA was used to detect the secretion of IFN-γ before medication, and 3 weeks, 7 weeks, and 11 weeks after medication. It was found that there was no obvious fluctuation, indicating the synthetic polypeptide of the present disclosure has no effect of stimulating the secretion of IFN-γ on a body without cancer cells, and has less toxic and side effects.<!-- EPO <DP n="21"> -->
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title>Table 3</title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="31mm"/>
+<colspec colnum="2" colname="col2" colwidth="21mm"/>
+<colspec colnum="3" colname="col3" colwidth="33mm"/>
+<colspec colnum="4" colname="col4" colwidth="41mm"/>
+<colspec colnum="5" colname="col5" colwidth="41mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry namest="col2" nameend="col5" align="left" valign="top">IFN-γ concentration (pg/ml)</entry></row>
+<row>
+<entry valign="top"/>
+<entry valign="top">Before medication</entry>
+<entry valign="top">After 5 weeks of medication</entry>
+<entry valign="top">After 10 weeks of medication</entry>
+<entry valign="top">After 15 weeks of medication</entry></row></thead>
+<tbody>
+<row>
+<entry>Human 2Ig-B7-H3 protein</entry>
+<entry>18.0</entry>
+<entry>50.0</entry>
+<entry>210.5</entry>
+<entry>680.9</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0065" num="0065">The description of the above Examples is merely used for helping to understand the method according to the present disclosure and its core idea. It should be noted that a person skilled in the art may make several further improvements and modifications to the disclosure without departing from the principle of the present disclosure, and these improvements and modifications shall also fall within the scope of the present disclosure.</p>
+<p id="p0066" num="0066">The above description of the disclosed Examples allows one skilled in the art to implement or use the present disclosure. Various modifications to these Examples would be apparent to one skilled in the art, and the general principles defined herein may be applied to other Examples without departing from the spirit or scope of the disclosure. Therefore, the present disclosure will not be limited to the Examples shown herein, but should conform to the widest scope consistent with the principles and novel features disclosed herein.<!-- EPO <DP n="22"> -->
+<img id="ib0001" file="imgb0001.tif" wi="158" he="233" img-content="dna" img-format="tif"/><!-- EPO <DP n="23"> -->
+<img id="ib0002" file="imgb0002.tif" wi="154" he="213" img-content="dna" img-format="tif"/></p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="24"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A mutant human 2Ig-B7-H3 protein encoding gene, comprising a nucleotide sequence shown in SEQ ID NO:1.</claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>A human 2Ig-B7-H3 protein, wherein a coding gene of the human 2Ig-B7-H3 protein is the mutant human 2Ig-B7-H3 protein coding gene of claim 1.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>A recombinant vector, comprising a vector and a target gene carried by the vector, wherein the target gene is the mutant human 2Ig-B7-H3 protein coding gene of claim 1.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The recombinant vector of claim 3, wherein the vector is selected from a group consisting of a cloning vector, a eukaryotic expression vector, a prokaryotic expression vector and a shuttle vector.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The recombinant vector of claim 3, wherein the vector is selected from a group consisting of pIRES2-EGFP, pCMVp-NEO.BAN, pEGFT-Actin, a lentiviral vector and an adenoviral vector.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>A host cell, comprising the recombinant vector of any one of claims 3 to 5.<!-- EPO <DP n="25"> --></claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The host cell of claim 6, wherein the host cell is selected from one or more of 239T cell and SHG44 cell.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>A pharmaceutical composition, comprising a pharmaceutically acceptable excipient and one or more selected from the mutant human 2Ig-B7-H3 protein encoding gene of claim 1, the human 2Ig-B7-H3 protein of claim 2, the recombinant vector of any one of claims 3 to 5, and the host cell of any one of claims 6 to 7.</claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>The pharmaceutical composition of claim 8, wherein the pharmaceutical composition is an injection.</claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>Use of the mutant human 2Ig-B7-H3 protein encoding gene of claim 1, the human 2Ig-B7-H3 protein of claim 2, the recombinant vector of any one of claims 3 to 5, and the host cell of any one of claims 6 to 7 in the preparation of a medicament for preventing or treating cancer.</claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>The use of claim 11, wherein the cancer is liver cancer, lung cancer, prostate cancer, pancreatic cancer, small intestine cancer, colon cancer, and cervical cancer.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="26"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="85" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="27"> -->
+<figure id="f0002" num="2"><img id="if0002" file="imgf0002.tif" wi="90" he="233" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="156" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="156" he="233" type="tif"/><doc-page id="srep0003" file="srep0003.tif" wi="156" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="b"><article><atl/><book><author><name>SAMBROOK et al.</name></author><book-title>Molecular Cloning: A Laboratory Manual</book-title><imprint><name>Cold Spring Harbor Laboratory Press</name><pubdate>19890000</pubdate></imprint></book></article></nplcit><crossref idref="ncit0001">[0021]</crossref><crossref idref="ncit0002">[0021]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP20166726A1" file="EP20166726NWA1.xml" lang="en" country="EP" doc-number="3889963" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP><B053EP>Amended claims in accordance with Rule 137(2) EPC.</B053EP></eptags></B000><B100><B110>3889963</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>20166726.8</B210><B220><date>20200330</date></B220><B240><B241><date>20210308</date></B241><B242><date>20210528</date></B242></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>G16C  20/30        20190101AFI20200907BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>A61Q  17/04        20130101 LA20200902BHEP        </text></classification-cpc><classification-cpc sequence="2"><text>G16C  20/30        20190201 LI20200902BHEP        </text></classification-cpc><classification-cpc sequence="3"><text>G16C  60/00        20190201 FI20200916BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>COMPUTERBASIERTES VERFAHREN ZUR BESTIMMUNG EINER SONNENSCHUTZZUSAMMENSETZUNG MIT EINER VIELZAHL VON UV-FILTERSUBSTANZEN</B542><B541>en</B541><B542>COMPUTER-BASED METHOD FOR DETERMINING A SUNSCREEN COMPOSITION COMPRISING A PLURALITY OF UV FILTER SUBSTANCES</B542><B541>fr</B541><B542>PROCÉDÉ INFORMATIQUE POUR DÉTERMINER UNE COMPOSITION D'ÉCRAN SOLAIRE COMPRENANT UNE PLURALITÉ DE SUBSTANCES DE FILTRES UV</B542></B540><B590><B598>1</B598></B590></B500><B700><B710><B711><snm>DSM IP Assets B.V.</snm><iid>100112629</iid><irf>26547</irf><adr><str>Het Overloon 1</str><city>6411 TE Heerlen</city><ctry>NL</ctry></adr></B711></B710><B720><B721><snm>SCHLIFKE, Alexander</snm><adr><str>c/o DSM Nutritional Products Ltd.
+Patent Department
+Wurmisweg 576</str><city>4303 Kaiseraugst</city><ctry>CH</ctry></adr></B721></B720><B740><B741><snm>Keller Schneider 
+Patent- und Markenanwälte AG (Bern)</snm><iid>101715396</iid><adr><str>Eigerstrasse 2 
+Postfach</str><city>3000 Bern 14</city><ctry>CH</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">A computer-based method for determining a sunscreen composition comprising a plurality of UV filter substances, comprises the steps of selecting at least one constraint for at least one characteristic of the composition to be determined (step 30), the at least one constraint comprising a sunscreen performance target; selecting an optimization objective from a plurality of optimization objectives (step 50); and automatically determining the sunscreen composition as a composition of filter substances from a set of filter substances (step 100), the composition meeting the at least one constraint and being optimized with respect to the selected optimization objective. The automatic determination comprises the steps of generating a plurality of candidate compositions, determining a sunscreen performance of the candidate compositions using a performance simulation tool and comparing the determined sunscreen performance of the candidate compositions with the sunscreen performance target. The method allows for an automatic determination of an optimum sunscreen composition based on constraints and objectives, thus avoiding manual trial and error methods that are lengthy and do not always lead to the optimal result.
+<img id="iaf01" file="imgaf001.tif" wi="53" he="130" img-content="drawing" img-format="tif"/></p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001"><b>Technical Field</b></heading>
+<p id="p0001" num="0001">The invention relates to a computer-based method for determining a sunscreen composition comprising a plurality of UV filter substances. It further relates to a computer program product for determining a sunscreen composition and to a method of preparing a sunscreen composition.</p>
+<heading id="h0002"><b>Background Art</b></heading>
+<p id="p0002" num="0002">Today sunscreen developers have several computational tools available, which can predict the sun protection performance of a UV filter combination to some extent (cf. e. g. <nplcit id="ncit0001" npl-type="s"><text>B. Herzog, U. Osterwalder: "Simulation of sunscreen performance", Pure Appl. Chem. 2015; 87(9-10): 937-951</text></nplcit>). Some of the tools are available online for general use (e. g. BASF® Sunscreen Simulator or DSM® SUNSCREEN OPTIMIZER™). Based on an input of a combination of UV filters they predict inter alia the sun protection factor (SPF) and the ratio between the UVA protection factors and the SPF. Therefore, these tools allow developers to quickly evaluate and compare different UV filter combinations in silico.</p>
+<p id="p0003" num="0003">However, the huge number of possible options still means that the search for an optimal combination of filter factors by trial and error is cumbersome, lengthy and might not lead to the true optimum.</p>
+<heading id="h0003"><b>Summary of the invention</b></heading>
+<p id="p0004" num="0004">It is the object of the invention to create a method pertaining to the technical field initially mentioned, that allows for the efficient determination of optimal sunscreen compositions.<!-- EPO <DP n="2"> --> The solution of the invention is specified by the features of claim 1. According to the invention the computer-based method for determining a sunscreen composition comprising a plurality of UV filter substances, comprises the steps of:
+<ol id="ol0001" ol-style="">
+<li>a) selecting at least one constraint for at least one characteristic of the composition to be determined, the at least one constraint comprising a sunscreen performance target;</li>
+<li>b) selecting an optimization objective from a plurality of optimization objectives; and</li>
+<li>c) automatically determining the sunscreen composition as a composition of filter substances from a set of filter substances, the composition meeting the at least one constraint and being optimized with respect to the selected optimization objective, the automatic determination comprising the steps of:
+<ul id="ul0001" list-style="dash">
+<li>generating a plurality of candidate compositions,</li>
+<li>determining a sunscreen performance of the candidate compositions using a performance simulation tool and</li>
+<li>comparing the determined sunscreen performance of the candidate compositions with the sunscreen performance target.</li>
+</ul></li>
+</ol></p>
+<p id="p0005" num="0005">As mentioned above, performance simulation tools for sunscreen compositions are available, cf. e. g.<nplcit id="ncit0002" npl-type="s"><text> B. Herzog, U. Osterwalder: "Simulation of sunscreen performance", Pure Appl. Chem. 2015; 87(9-10): 937-951</text></nplcit>.</p>
+<p id="p0006" num="0006">The inventive method allows for an automatic determination of an optimum sunscreen composition based on constraints and objectives, thus avoiding manual trial and error methods. As set out in more detail below, the effort for optimizing the composition of e. g. 5 or more filter substances is prohibitive for manual approaches, even if a sunscreen performance simulation tool is readily available. Integrating the performance simulation into an automatic determination, involving the determination of the performance of a plurality of candidate compositions therefore allows for the first time to systematically and truly find optima.<!-- EPO <DP n="3"> --></p>
+<p id="p0007" num="0007">Having the possibility of selecting at least one constraint and an optimization objective the needs of an individual formulator may be respected. The desired solution may be tailored to his or her specific needs. As described in more detail below, the computer-based method according to the invention is fast enough on today's personal computers that an interactive work process is possible, where the user gets feedback in a reasonable time, preferably in a few seconds. This allows the user to quickly learn from the result and adjust constraints, boundaries, or the set of filter substances that are taken into account, if required and/or as desired.</p>
+<p id="p0008" num="0008">Preferably, a user is requested to select the at least one constraint. This allows for a user-defined interactive process, where the constraints may be selected according to the general needs of the user as well as according to the properties of the sunscreen that shall be optimized. In a simple embodiment of the invention, the user selects a single value relating to the sunscreen performance (e. g. desired SPF). Nevertheless, instead of a target value the constraints may be provided in the form of ranges, of minimal values or of maximal values. Furthermore, target values or ranges for more than a single property relating to sunscreen performance may be provided.</p>
+<p id="p0009" num="0009">Alternatively, the constraint is selected automatically, by the computer. In particular, constraints according to a fixed or variable sequence of constraints are selected in successive optimization steps in order to find the preferred sunscreen composition.</p>
+<p id="p0010" num="0010">Preferably, a user is requested to select the optimization objective. This allows for a user-defined interactive process, where the objective may be selected according to the general needs of the user as well as according to the properties of the sunscreen that shall be optimized. In particular, the objective may be changed during the process in order to iteratively improve the sunscreen composition.</p>
+<p id="p0011" num="0011">Alternatively, the optimization objective is selected automatically, by the computer. In particular, objectives according to a fixed or variable sequence of constraints are selected in successive optimization steps in order to find the preferred sunscreen composition.</p>
+<p id="p0012" num="0012">The constraints and the objectives have a certain interrelation: As an example, the costs of the composition may be provided as a constraint (maximum value that shall not be<!-- EPO <DP n="4"> --> exceeded) or as an objective (minimization of the costs). The other constraints and objectives, respectively, are appropriately chosen in each case.</p>
+<p id="p0013" num="0013">Preferably, a sequence including the steps a)-c) is repeated, wherein the user iteratively adjusts the at least one constraint and/or the optimization objective. This allows for gradually improving the sunscreen composition, taking into account the information obtained from previous optimization steps. Due to the fact that using the inventive method a sunscreen composition may be determined within a few seconds if run on standard hardware an iterative process is feasible.</p>
+<p id="p0014" num="0014">Alternatively, the process is designed in such a way that the desired sunscreen composition may be found in a single step and/or the adjustment of the constraint and/or optimization objective is carried out automatically, by the computer, based on the initially selected parameters and the results of the previous determination. In further embodiments, the computer automatically provides suggestions with respect to criteria for the further improvement of the composition, and the user decides whether to fully or partially follow these suggestions for the next step of the iterative process.</p>
+<p id="p0015" num="0015">Preferably, the user selects an actual set of filter substances to be considered from a basic set of filter substances, i. e. from a superset. In particular, the selection is based on the user's knowledge, e. g. with respect to the properties of the available substances, and/or the availability of filter substances. This allows for more easily finding the optimum composition for the respective task at hand. Furthermore, by reducing the number of the filter substances to be taken into account, the automatic determination of the sunscreen composition may be accelerated considerably.</p>
+<p id="p0016" num="0016">Alternatively, all available filter substances are considered or the selection of the actual set is done automatically, by the computer, e. g. based on a database relating to filter properties and/or availability.</p>
+<p id="p0017" num="0017">In a preferred embodiment, the user provides a maximum amount of at least some of the selected filter substances, in particular of all the selected filter substances. This allows for ensuring that regulatory approved use levels are not exceeded. Furthermore, the sunscreen composition may be tailored to the user's needs.<!-- EPO <DP n="5"> --></p>
+<p id="p0018" num="0018">Alternatively, maximum amounts are automatically considered, e. g. based on a database including regulatory information.</p>
+<p id="p0019" num="0019">In some embodiments, the user provides a minimum amount of at least some of the selected filter substances. This allows for influencing the determination of the sunscreen composition to ensure that the user's needs are met.</p>
+<p id="p0020" num="0020">Advantageously, the method includes the step of selecting at least one further constraint (in addition to the sunscreen performance target) for at least one characteristic of the composition to be determined.</p>
+<p id="p0021" num="0021">Preferably, the at least one further constraint is a range or a boundary value (upper or lower limit) relating to one of the following properties:
+<ol id="ol0002" ol-style="">
+<li>a) total amount of filter substances;</li>
+<li>b) amount of one or more distinct filter substances;</li>
+<li>c) costs of the composition of filter substances;</li>
+<li>d) weighting of the filter or the composition of filter substances;</li>
+<li>e) eco-friendliness;</li>
+<li>f) amount of extra solvent;</li>
+<li>g) oil load.</li>
+</ol></p>
+<p id="p0022" num="0022">In principle, the range may be infinitesimally small, i. e. correspond to a target value that is required to be met (exactly or within a predetermined general tolerance).</p>
+<p id="p0023" num="0023">The weighting of a filter is a number, which may represent the price of the filter, a score how eco-friendly the filter is, a score how easy it is to formulate the filter, a score for the impact of the filter on the sensory to the sunscreen, etc. The weighting of a composition of filter substances is the sum of the weightings of individual filters multiplied with their corresponding percentages in this combination and may therefore represent e.g. the total costs of the filter combination, total sensory impact, etc.<!-- EPO <DP n="6"> --></p>
+<p id="p0024" num="0024">The oil load is the sum of all filters in the oil phase plus the extra solvent, which may be required to dissolve solid filters. It is a good measure of how much freedom a formulator has with a particular filter combination, e. g . with respect to the addition of further components in the oil phase that may be relevant e. g. for the skin feel of the final product.</p>
+<p id="p0025" num="0025">Eco-friendliness or ecotoxicological friendliness relates to the impact of the filter substances on the environment. Methods for determining an ecotoxicological value are described e. g. in <patcit id="pcit0001" dnum="US7096084B2"><text>US 7,096,084 B2</text></patcit> (S. C. Johnson &amp; Son, Inc.), <patcit id="pcit0002" dnum="US9595012B2"><text>US 9,595,012 B2</text></patcit> (Johnson &amp; Johnson Consumer Inc.) as well as <patcit id="pcit0003" dnum="WO2019207129A1"><text>WO 2019/207129 A1</text></patcit> (BASF SE).</p>
+<p id="p0026" num="0026">The above list of possible constraints is not exhaustive, further constraints are possible, such as relating to sensory properties of the sunscreen composition.</p>
+<p id="p0027" num="0027">Preferably, the sunscreen performance target is chosen from one of the following:
+<ol id="ol0003" ol-style="">
+<li>a) in vivo or in vitro Sun Protection Factor (SPF);</li>
+<li>b) in vivo or in vitro UVA Protection Factor (UVAPF);</li>
+<li>c) critical wavelength;</li>
+<li>d) ratio of UVA to UVB protection; and</li>
+<li>e) blue light protection.</li>
+</ol></p>
+<p id="p0028" num="0028">The target may be provided as a target value or a target boundary (e. g. minimal value).</p>
+<p id="p0029" num="0029">The in vivo or in vitro Sun Protection Factor (SPF) can be indicated as absolute SPF values, as a recommended labelled sun protection factor or as a protection category, e.g. according to the EU Commission Recommendation 2006/647/EC of 22 September 2006 or other (national or multi-national) regulations with respect to the labelling of sunscreen products. Protection categories may be defined e. g. as follows:
+<tables id="tabl0001" num="0001">
+<table frame="none">
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="35mm"/>
+<colspec colnum="2" colname="col2" colwidth="28mm"/>
+<tbody>
+<row>
+<entry>- Low protection:</entry>
+<entry>SPF is below 15;</entry></row>
+<row>
+<entry>- Medium protection:</entry>
+<entry>SPF is 15 to 29;</entry></row>
+<row>
+<entry>- High protection:</entry>
+<entry>SPF is 30 to 49;</entry></row>
+<row>
+<entry>- Very high protection:</entry>
+<entry>SPF is over 50.</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="7"> --></p>
+<p id="p0030" num="0030">The in vivo UVA protection factor (UVAPF) can e.g. be indicated as UVAPF, determined according to ISO 24442:2001, as UVAPF protection Grade according to the JCIA, which relates to a voluntary industry standard of the Japan Cosmetics Industry Association (JCIA) for measuring the UVA protection efficacy or as persistent pigment darkening (PPD) or immediate persistent darkening (IPD) values.</p>
+<p id="p0031" num="0031">As usual, the critical wavelength denotes the wavelength at which a sunscreen allows 10% of the rays to penetrate. For example, a sunscreen with a critical wavelength of over 370 nm is considered by the FDA to provide excellent UVA protection.</p>
+<p id="p0032" num="0032">The ratio of UVA to UVB protection can be given as UVAPF/SPF or the Boots Star® rating, which is a proprietary in vitro method to describe the protection offered by sunscreen products, introduced by the Boots Company in 2011.</p>
+<p id="p0033" num="0033">Blue light (also often referred to as high-energy visible light (HEV light)) protection indicates the protection from light in the violet-blue spectrum on the visible spectrum, which is found in daylight but also in LED and fluorescent lighting.</p>
+<p id="p0034" num="0034">In principle, the quantities relating to the sunscreen performance may be determined according to any standard as long as the used performance simulation tool is capable to provide the sunscreen performance according to this standard, i. e. the available targets may depend from the underlying simulation tool.</p>
+<p id="p0035" num="0035">The above list of performance targets is not exhaustive, further targets, including suitable combinations of the above, are possible.</p>
+<p id="p0036" num="0036">Preferably, the plurality of optimization objectives include at least two of the following:
+<ol id="ol0004" ol-style="">
+<li>a) cost efficiency;</li>
+<li>b) weighting;</li>
+<li>c) filtering efficiency;</li>
+<li>d) eco-friendliness;</li>
+<li>e) amount of extra solvent;<!-- EPO <DP n="8"> --></li>
+<li>f) minimal oil load;</li>
+<li>g) most homogenous protection;</li>
+<li>h) highest sun protection factor and/or UVA protection factor;</li>
+<li>i) highest blue light protection; and</li>
+<li>j) similarity to a provided composition of filter substances</li>
+</ol></p>
+<p id="p0037" num="0037">These objectives can be minimized or maximized.</p>
+<p id="p0038" num="0038">Sunscreen simulation tools facilitate a quick and easy side-by-side comparison of different filter combinations. But direct comparison of properties such as efficiency or costs are only meaningful if all the compared combinations deliver more or less the same performance. When comparing many combinations, the precise adjustment of each combination requires significant efforts.</p>
+<p id="p0039" num="0039">In the context of the present invention, choosing similarity to a (user) provided composition of filter substances as an objective greatly simplifies this adjustment process. A composition of filter substances is determined that is as close as possible to the (user) provided composition but that achieves the performance target and meets the constraints. The resulting adjustment will therefore preserve the principle idea of the user as close as possible and quickly adjust the filter concentrations to meet the desired performance target and the constraints.</p>
+<p id="p0040" num="0040">Preferably, in this case the objective to be minimized is the Euclidean distance between the provided composition and the determined composition, meeting the constraints.</p>
+<p id="p0041" num="0041">The list of objectives is not exhaustive, further objectives, including suitable combinations of the above or sensory properties of the composition, are possible.</p>
+<p id="p0042" num="0042">The huge amount of possible UV filter combinations makes a simple combinatorial brute-force approach infeasible: Assuming that an optimal combination of 6 UV filters shall be found (which is a number that is very common in the sunscreen industry), more than 15 billion possible filter combinations results when the amount of each filter is quantified with discrete increments of 0.1 weight % up to a maximum of 5.0 weight %. Additionally, there<!-- EPO <DP n="9"> --> are 134'596 options to select these 6 filters from the 24 filters approved in Europe, which gives a total of about 2100 trillion possible combinations for this setup. Usual personal computers that are commercially available today, having a CPU clock frequency of typically 2 - 4 GHz require about 2 - 4 ms for the determination of a sunscreen performance of a given composition, using the performance simulation tool. Accordingly, the computing time for calculating all the performance values would amount to more than 130'000 years. Optimized code may reduce the calculation time by a factor of 100 the most and the use of multiple cores may reduce the calculation time by a factor of 8-10. Still, even when exploiting all these measures, the computing time is more than 100 years. Furthermore, an expansion to more than 6 filters, which may be desirable in order to meet all the requirements, greatly increases the computing time.</p>
+<p id="p0043" num="0043">Therefore, in a first preferred embodiment, the automatic determination of the sunscreen composition comprises a numerical optimization of an objective function related to the selected optimization objective, the variables of the objective function including proportions of the filter substances of the sunscreen composition to be determined.</p>
+<p id="p0044" num="0044">Numerical optimization algorithms dispense with the requirement of determining the performance for a large number of candidate compositions. They are powerful tools for finding optimal solutions in high dimensional spaces.</p>
+<p id="p0045" num="0045">Advantageously, the numerical optimization comprises an application of a sequential quadratic programming method, in particular of an interior-point method.</p>
+<p id="p0046" num="0046">Numerical optimization algorithms require that the constraint objective function is convex in order to find the global optimum instead of local optima. Furthermore, they are more or less sensitive to the choice of a good starting point to guarantee global convergence. There is no universal optimization algorithm but rather a collection of algorithms, each of which is tailored to a particular type of optimization problem. It is not possible to predict whether the problem may be solved rapidly or slowly and, indeed, whether the solution is found at all.</p>
+<p id="p0047" num="0047">Surprisingly it has now been found that for to the optimization of sunscreen compositions numerical optimization algorithms, which evaluate the first and second derivative of the objective function for their choice of the search direction and step size taken at each<!-- EPO <DP n="10"> --> iteration, are not only capable to find global solutions to the above described objectives but are also fast enough on regular personal computers to allow an interactive work process.</p>
+<p id="p0048" num="0048">The complexity of current algorithms used in sunscreen performance prediction tools require the estimation of the first derivative e.g. by the finite difference method for the calculation of the Jacobian as well as Quasi-Newton methods such as BFGS or SR1 to approximate the Hessian at each iteration.</p>
+<p id="p0049" num="0049">When using numerical optimization for the determination of the sunscreen composition there are no limitations with respect to the number of UV filters - accordingly, a filter preselection is not necessary for calculation reasons. Indeed, fast calculations are possible even with more than 20 filters on regular personal computers. Furthermore, there are no resolution limits, which means that the "true optimal" composition may be found.</p>
+<p id="p0050" num="0050">Nevertheless, it has to be taken into account that the numerical optimization approach might not work with all constraint objectives, i. e. it is not guaranteed that the global optimum is found for all constraint objectives. Furthermore, the result will not be rounded to a reasonable number of digits. It will be necessary to use methods such as branch and bound to obtain results on the desired resolution level (e. g. 0.1 weight% increment).</p>
+<p id="p0051" num="0051">In a second preferred embodiment, for the automatic determination of the sunscreen composition a plurality of candidate compositions are automatically defined and the sunscreen performance of at least some of the plurality of candidate compositions is determined using the performance simulation tool.</p>
+<p id="p0052" num="0052">Using the combinatorial approach, an optimum (or near-optimum) sunscreen composition may be found for any objective and it is guaranteed that the solution is close to the global optimum. Furthermore, a list of best solutions may be obtained without extra effort (see below).</p>
+<p id="p0053" num="0053">A combinatorial approach is feasible by applying various measures to reduce the number of calculations, which are in particular:
+<ol id="ol0005" ol-style="">
+<li>1) Reducing the number of UV filters by a preselection of at most 6 filters by the user.<!-- EPO <DP n="11"> --></li>
+<li>2) Choosing an increment for the amount of filters of 0.5 - 1.0 weight%, most preferably 0.5 weight%.</li>
+<li>3) Reduce the search space by:
+<ul id="ul0002" list-style="none" compact="compact">
+<li>3a) Searching for the lowest total filter amount capable to achieve the targeted performance by:
+<ol id="ol0006" ol-style="">
+<li>a. Conservatively estimate the total amount of filters necessary to achieve the performance target (e.g. SPF/2 weight% of filter) and calculate only combinations with a corresponding total amount of filters (e. g. for an SPF 30, 6 filters, 312'620 calculations are required with an increment of 0.5 weight% and a maximal use level of 5 weight% per filter).</li>
+<li>b. Enumerate the corresponding filter combinations in a way that combinations with most of the most efficient filters are tested first.</li>
+<li>c. Stop the calculation as soon as the target performance is met (typically less than 1000 calculations).</li>
+<li>d. Re-estimate the total amount of filters according to the over or under performance of the first estimate and again calculate only combinations with a corresponding total amount of filters.</li>
+<li>e. Repeatedly reduce the total amount of filters by a fixed number e.g. 1 weight% and calculate again all these combinations until the target is not achievable anymore (backward search).</li>
+<li>f. Increase the total amount of filters by the increment (e.g. 0.5 wt%) until the performance target is achieved again (forward search). As soon as the target is achieved stop the search. This will give the lowest total filter amount (most efficient filter combination(s)) capable to achieve the target performance.</li>
+</ol></li>
+<li>3b) Start from the lowest feasible total filter amount and search optimal solutions by increasing the total amount by one increment for each search e.g. 0.5 wt%.</li>
+</ul></li>
+</ol></p>
+<p id="p0054" num="0054">Accordingly, it is preferred that in a first substep a lowest total amount of filter substances is determined for a composition that achieves the sunscreen performance target and in a<!-- EPO <DP n="12"> --> subsequent second substep a constraint on a value of the total amount of filter substances of the candidate compositions is gradually increased, starting from the determined lowest total amount, until a stop criterion is met.</p>
+<p id="p0055" num="0055">As described above, preferably the lowest total amount of filter substances is determined by gradually reducing a total amount of filter substances of candidate compositions tested for their sunscreen performance until the sunscreen performance target is not reachable and by subsequently gradually increase the total amount of filter substances until the performance target is met again, wherein an increment of the gradual increase is smaller than an increment of the gradual reduction.</p>
+<p id="p0056" num="0056">The determination is started with a conservative estimate for the total amount of filter substances. The candidate compositions tested in one step all have the respective total amount. If one of the candidate composition is found to meet the sunscreen performance target, the corresponding step ends and the next step with a reduced total amount follows. This is repeated until in a step no candidate composition meeting the sunscreen performance target can be found. The increments for the gradual reduction and for the gradual increase may be fixed or variable, e. g. dependent on an underperformance or overperformance of the tested compositions.</p>
+<p id="p0057" num="0057">Preferably, candidate compositions to be tested are sorted according to an efficiency of comprised filter substances in such a way that candidate compositions with a high expected efficiency are tested first and that a test sequence is stopped as soon as the sunscreen performance target is met by one of the candidate compositions. This greatly reduces the number of candidate compositions to be tested in the phase of gradually reducing the total amount of filter substances.</p>
+<p id="p0058" num="0058">Many objectives such as costs, extra solvent and minimal oil load normally decrease (get better) with higher total filter amount until the optimum is reached. If the total amount of filters is further increased (by imposing a constraint that the total amount of used filters equals a predetermined value), some objectives such as costs, needed extra solvent or minimal oil load will increase again (get worse). Accordingly, the stop criterion may be the<!-- EPO <DP n="13"> --> increase (deterioration) of one or more of the objectives when the total amount of filter substances is increased.</p>
+<p id="p0059" num="0059">Linear objective functions (e.g. most efficient or cost-efficient UV filter combinations) can be evaluated by simple dot products and therefore very efficiently calculated by matrix operations on regular computers. In these cases, all combinations can be efficiently evaluated at once followed by sequential block wise performance predictions. The current optimum within previous blocks (e.g. lowest cost) can be used to skip all performance predictions from residual combinations with worse values compared to this optimum. Typically, this allows to find the optimum with less than 3'000 calculations for a given total amount of filters.</p>
+<p id="p0060" num="0060">Preferably, the method includes the step of providing a list of best candidate compositions, e. g. those 10 or 20 compositions which have the highest values with respect to the optimization objective. Using the combinatorial approach, this list is obtained without extra effort. Based on the list, the user may chose the preferred composition, in particular a composition which is only close to the top value with respect to the optimization objective but which has some other property or properties that make it a better choice than the top composition on the list. Advantageously, the list not only includes the compositions and the values with respect to the objective but further relevant properties characterizing the compositions.</p>
+<p id="p0061" num="0061">Compared with the numerical optimization approach, in the context of the combinatorial method it is required to pre-select filters as the maximum number of filters will usually be 6 to 7 for regular computers. Similarly, the minimum increment will be about 0.5 weight%. Still, the algorithm is slower (or needs considerably more computation power) than the numerical optimization approach.</p>
+<p id="p0062" num="0062">Often, optimizing one specific property (such as e. g. efficiency) forces another property (such as e. g. costs) in an unacceptable range. Therefore, preferably, the inventive method comprises the step of optimizing a compromise within a plurality of optimization objectives, comprising the steps of providing acceptable ranges for values relating to each of the<!-- EPO <DP n="14"> --> objectives, providing relative importance factors between the objectives and minimizing one of the values using the relative importance factors in linear constraints for the minimization.</p>
+<p id="p0063" num="0063">The acceptable ranges may be provided by the user or automatically. In particular, the ranges may be based on the results of previous optimization steps (related to single objectives). The relative important factors may be set to equal values, e. g. 1 for all the pairs of objectives, or they may be provided by the user or automatically.</p>
+<p id="p0064" num="0064">In particular, the optimization of the compromise may include the following substeps:
+<ol id="ol0007" ol-style="">
+<li>a) determination of the best possible values of properties relating to two or more optimization objectives of interest, using the method as described above;</li>
+<li>b) retrieving from the obtained results the maximum and minimum values for each of these properties or use the information obtained in the previous optimizations to select individual boundaries for the properties relating to the optimization objectives;</li>
+<li>c) choose the relative importance between the properties as a factor F (for equal important properties F=1); and</li>
+<li>d) minimization of one of the properties using the relative importance factors F in a linear constraint or a plurality of linear constraints.</li>
+</ol></p>
+<p id="p0065" num="0065">As an alternative to the optimization of the compromise, inequality constraints may be used in the optimization to avoid that optimizing one specific property forces another property in an unacceptable range. However, this does not allow for precisely setting the relative importance of the properties.</p>
+<p id="p0066" num="0066">Preferably, the method comprises the step of automatically determining an optimum solvent composition for the determined sunscreen composition. The choice of solvents is very relevant for various aspects of the final formulation, including costs and skin feel thereof, cf. e.g. <nplcit id="ncit0003" npl-type="s"><text>B. Herzog, J. Giesinger, M. Schnyder: "Solubility of UV Absorbers for Sunscreens is Essential for the Creation of Light Feel Formulations", SOFW Journal, 139, 7-2013, 7-14</text></nplcit>. Accordingly, if the solvent composition is optimized, the properties of the final formulation may be improved.<!-- EPO <DP n="15"> --></p>
+<p id="p0067" num="0067">Advantageously, the optimum solvent composition is determined from a minimization of extra solvents under a constraint that all filter substances of a respective sunscreen composition are dissolved.</p>
+<p id="p0068" num="0068">For the determination of the optimum solvent composition, a number of solvents (e. g. 4-6 substances) are predetermined.</p>
+<p id="p0069" num="0069">For the minimization, a numerical optimization may be employed, using a suitable algorithm, such as a Sequential Least Squares Programming (SLSQP) or a Simplex algorithm.</p>
+<p id="p0070" num="0070">Alternatively, a combinatorial approach is used for the determination of the optimum solvent composition.</p>
+<p id="p0071" num="0071">If the actual solvent composition is relevant for the optimization objective of the optimization of the sunscreen composition (which is usually the case) the determination of the optimum solvent composition is preferably integrated into the superordinate determination of the sunscreen composition. This allows for finding the overall optimum including the choice of the filter as well as of the solvent composition.</p>
+<p id="p0072" num="0072">An inventive computer program product comprises instructions which, when executed by a computer, cause the computer to carry out the steps of the inventive method as described above.</p>
+<p id="p0073" num="0073">In an inventive method of preparing a sunscreen composition the composition is determined as a composition of UV filter substances according to the inventive method as described above. Successively, the sunscreen composition is obtained by combining the UV filter substances.</p>
+<p id="p0074" num="0074">Other advantageous embodiments and combinations of features come out from the detailed description below and the entirety of the claims.</p>
+<heading id="h0004"><b>Brief description of the drawings</b></heading>
+<p id="p0075" num="0075">The drawings used to explain the embodiments show:<!-- EPO <DP n="16"> -->
+<dl id="dl0001">
+<dt>Fig. 1</dt><dd>a flow chart schematically illustrating a method for determining a sunscreen composition comprising a plurality of UV filter substances; and</dd>
+<dt>Fig. 2</dt><dd>a flow chart schematically illustrating the combinatorial method for finding an optimized sunscreen composition;</dd>
+</dl></p>
+<p id="p0076" num="0076">In the figures, the same components are given the same reference symbols.</p>
+<heading id="h0005"><b>Preferred embodiments</b></heading>
+<p id="p0077" num="0077">The <figref idref="f0001">Figure 1</figref> is a flow chart schematically illustrating a method for determining a sunscreen composition comprising a plurality of UV filter substances. The method is computer-based, executed by running a dedicated software running on a local computer (e. g. personal computer) or on a server connected to a local user terminal. A user interacts with the local computer or terminal in an interactive fashion. The software may comprise several modules that run on different processors, wherein the processors may be located in the same place or remote from each other. In particular, a local user client (including a web browser or a dedicated client application) may interact with a server software and/or more computationally intensive tasks such as numerical optimization or sunscreen performance simulation may be executed by dedicated processors (e. g. GPUs) or servers.</p>
+<p id="p0078" num="0078">Basically, it is the goal of the described embodiment of the inventive method, applied by the user, to find a sunscreen composition, including a solvent composition, that meets a sunscreen performance target as well as possibly other constraints and that is optimal with respect to one or several optimization objectives.</p>
+<p id="p0079" num="0079">First of all, the user selects an actual set of filter substances to be considered (step 10). For this purpose a list including a basic set of filter substances is displayed and the user selects the desired substances. Furthermore, the user has the opportunity to provide minimum and maximum amounts for at least some of the filter substances (step 15). This is not mandatory, the user may leave the corresponding input fields empty, which signifies that the amount of the respective filter substance may be as low as 0 (no minimum indicated) or as high as 100% (no maximum indicated) or the maximal amount is automatically retrieved from the<!-- EPO <DP n="17"> --> regulatory limits in a user specified region or in an automatically detected region, e.g. by language and/or location settings on the computer of the user or by positioning data, if available.</p>
+<p id="p0080" num="0080">Next, the user provides information on the required sunscreen performance target (step 20). For that purpose, the user selects one of the following available properties relating to the sunscreen performance:
+<ul id="ul0003" list-style="dash">
+<li>in vivo or in vitro Sun Protection Factor SPF (e. g. dedicated SPF or protection category);</li>
+<li>in vivo or in vitro UVA Protection Factor UVAPF (e. g. dedicated IPD or JCIA);</li>
+<li>critical wavelength;</li>
+<li>ratio of UVA to UVB protection (e. g. based on the Boots Star® rating);</li>
+<li>blue light protection.</li>
+</ul></p>
+<p id="p0081" num="0081">Furthermore, the user provides the target value for the selected property, e. g. in vivo SPF≥30.</p>
+<p id="p0082" num="0082">Next, the user has the opportunity to select further constraints for at least one characteristic of the combination to be determined (step 30). These constraints may relate to the following properties:
+<ul id="ul0004" list-style="dash">
+<li>a value or range for the total amount of filter substances;</li>
+<li>a value or range for the amount of a certain filter substance;</li>
+<li>a maximum value for the costs of the composition of filter substances;</li>
+<li>a value or range for the weighting of the composition of filter substances;</li>
+<li>a value or range for an eco-friendliness parameter of the composition;</li>
+<li>a value or range or maximum amount of extra solvent;</li>
+<li>a maximum oil load.</li>
+</ul></p>
+<p id="p0083" num="0083">The constraints are presented on the screen and the user selects the desired additional constraints. Depending on the constraint, input fields for set values, minimum and/or<!-- EPO <DP n="18"> --> maximum values are displayed. The user is free to select no further constraint, one further constraint or a plurality of further constraints.</p>
+<p id="p0084" num="0084">Next, the user selects one or several optimization objectives (step 40) from the following plurality of optimization objectives:
+<ul id="ul0005" list-style="dash">
+<li>cost efficiency;</li>
+<li>weighting;</li>
+<li>filtering efficiency;</li>
+<li>eco-friendliness;</li>
+<li>amount of extra solvent;</li>
+<li>minimal oil load;</li>
+<li>homogenous protection;</li>
+<li>sun protection factor and/or UVA protection factor;</li>
+<li>blue light protection;</li>
+<li>similarity to a provided composition of filter substances.</li>
+</ul></p>
+<p id="p0085" num="0085">The weighting of a filter is a number, which may represent the price of the filter, a score how eco-friendly the filter is, a score how easy it is to formulate the filter, a score for the impact of the filter on the sensory to the sunscreen, etc. The weighting of a filter combination is the sum of the weightings of individual filters multiplied with their corresponding percentages in this combination and may therefore represent e.g. the total costs of the filter combination, total sensory impact, etc.</p>
+<p id="p0086" num="0086">The minimal oil load is the sum of all filters in the oil phase plus the extra solvent, which may be required to dissolve solid filters. It is a good measure of how much freedom a formulator has with a particular filter combination. This is due to the fact that usually a certain total oil load of the final product shall not be exceeded, because very high oil loads lead to an unfavourable heavy feeling of the product. If the minimum oil load due to the filter substances is already quite high the freedom of adding further oil-based substances is very limited.<!-- EPO <DP n="19"> --></p>
+<p id="p0087" num="0087">After the selection of the objective(s) it is checked whether the selected objective(s) are compatible with the further constraints provided before (decision 50). If this is not the case, e. g. because the property that shall be optimized is subject of a constraint, a warning message is displayed. The user then has the opportunity to release the corresponding constraint or to select another objective.</p>
+<p id="p0088" num="0088">Finally, the user selects an actual set of solvent substances to be considered (step 60). For this purpose a list including a basic set of solvent substances is displayed and the user selects the desired substances. Furthermore, the user has the opportunity to provide minimum and maximum amounts for at least some of the solvent substances (step 65). This is not mandatory, the user may leave the corresponding input fields empty, which signifies that the amount of the respective solvent substance may be as low as 0 (no minimum indicated) or as high as 100% (no maximum indicated).</p>
+<p id="p0089" num="0089">Once the user has provided all information, an optimum sunscreen composition is automatically determined as a composition of substances from the selected actual set of filter substances as well as an optimized composition of solvents adapted for the respective composition of filter substances (step 100). The composition achieves the performance target and meets all possible further constraints. It is optimized with respect to the selected objective(s).</p>
+<p id="p0090" num="0090">The output to the user (step 70) includes the filter substances and their corresponding amounts as well as the solvents and their corresponding amounts. It further includes numerous properties characterizing the corresponding composition, including the achieved performance, the UVA/SPF ratio, the total amount of filter substances, the efficiency (see below), the weighting, the minimal oil load and the costs.</p>
+<p id="p0091" num="0091">As described in more detail below, the optimization includes the calculation of the sunscreen performance of various candidate compositions using an available performance simulation tool.</p>
+<p id="p0092" num="0092">Based on the results, the user may decide whether the found composition is the desired one or whether the input parameters, e. g. the choice of filter and/or solvent substances, the corresponding ranges for their amounts or the further constraints, shall be adjusted for a<!-- EPO <DP n="20"> --> next optimization step (decision 80). Alternatively or in addition, the optimization may be done for another objective or a combination of objectives, wherein the input parameters may be adjusted based on the results of the previous optimization step(s).</p>
+<p id="p0093" num="0093">In one preferred embodiment, the optimum sunscreen composition is automatically determined using a numerical optimization of an objective function related to the selected optimization objective, the variables of the objective function including proportions of the filter substances of the sunscreen composition to be determined.</p>
+<p id="p0094" num="0094">In the described example, the optimization is performed using the 'trust-constr' method available in the open-source library SciPy, release 1.4 of 19 December 2019 for the Python programming language (cf. SciPy.org). The method is based on the EQSQP algorithm (<nplcit id="ncit0004" npl-type="s"><text>Lalee, Marucha, Jorge Nocedal, and Todd Plantega: "On the implementation of an algorithm for large-scale equality constrained optimization", SIAM Journal on Optimization 8.3: 682-706, 1998</text></nplcit>).</p>
+<p id="p0095" num="0095">The objective function depends on the optimization objective. Several examples are given in the following:<br/>
+One possible objective is finding the most efficient UV filter combination. This is the combination which achieves the desired performance targets with the minimal total amount of UV filters. In the following formula the number of individual filters is given by <i>k</i> and the concentration of filter i is given as <i>x<sub>i</sub>.</i><br/>
+The objective is <maths id="math0001" num=""><math display="block"><mrow><munder><mi>min</mi><mrow><mi>x</mi><mo>∈</mo><msup><mi mathvariant="double-struck">R</mi><mi>k</mi></msup></mrow></munder><mrow><mstyle displaystyle="true"><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>k</mi></munderover></mrow></mstyle><mrow><msub><mi>x</mi><mi>i</mi></msub></mrow></mrow></mrow></math><img id="ib0001" file="imgb0001.tif" wi="20" he="15" img-content="math" img-format="tif"/></maths> subject to e. g. <maths id="math0002" num=""><math display="inline"><mrow><msub><mi mathvariant="italic">SPF</mi><mi mathvariant="italic">simulated</mi></msub><mfenced><mover><mi>x</mi><mrow><mo>⇀</mo></mrow></mover></mfenced><mo>≥</mo><msub><mi mathvariant="italic">SPF</mi><mi mathvariant="italic">desired</mi></msub><mo>,</mo></mrow></math><img id="ib0002" file="imgb0002.tif" wi="52" he="10" img-content="math" img-format="tif" inline="yes"/></maths> i. e. the target sun protection factor is achieved,<br/>
+the ratio between the UVA protection factor and the SPF meets <maths id="math0003" num=""><math display="inline"><mrow><mfrac><mrow><msub><mi mathvariant="italic">UVAPF</mi><mi mathvariant="italic">simulated</mi></msub><mfenced><mover><mi>x</mi><mrow><mo>⇀</mo></mrow></mover></mfenced></mrow><mrow><msub><mi mathvariant="italic">SPF</mi><mi mathvariant="italic">simulated</mi></msub><mfenced><mover><mi>x</mi><mrow><mo>⇀</mo></mrow></mover></mfenced></mrow></mfrac><mo>≥</mo><mn>0.33</mn><mo>,</mo></mrow></math><img id="ib0003" file="imgb0003.tif" wi="43" he="11" img-content="math" img-format="tif" inline="yes"/></maths><!-- EPO <DP n="21"> --> the critical wavelength <i>λ<sub>crit,simulated</sub></i> ≥ 370 <i>nm</i> and<br/>
+the (simulated) amount of required extra solvent is less or equal than 10%.</p>
+<p id="p0096" num="0096">Furthermore, the amounts of the UV filters are restricted to the indicated minimum and maximum values: <maths id="math0004" num=""><math display="block"><mrow><mover><mi mathvariant="italic">lower boundarιes</mi><mrow><mo>⇀</mo></mrow></mover><mo>≤</mo><mover><mi>x</mi><mrow><mo>⇀</mo></mrow></mover><mo>≤</mo><mover><mi mathvariant="italic">upper boundarιes</mi><mrow><mo>⇀</mo></mrow></mover><mn>.</mn></mrow></math><img id="ib0004" file="imgb0004.tif" wi="78" he="7" img-content="math" img-format="tif"/></maths></p>
+<p id="p0097" num="0097">Another objective relates to the weighting of the UV filter combination. The weighting of a filter is a number, which may represent the price of the filter, a score how eco-friendly the filter is, a score how easy it is to formulate the filter, a score for the impact of the filter on the sensory of the sunscreen, etc. and is given in the following formulas as <o ostyle="rightarrow"><i>w</i></o>.</p>
+<p id="p0098" num="0098">The weighting of a filter combination is the sum of the weightings of individual filters multiplied with their corresponding percentages (given in the following formula as <o ostyle="rightarrow"><i>x</i></o>) in this combination (dot product) and may therefore represent e.g. the total costs of the filter combination, total sensory impact, etc.</p>
+<p id="p0099" num="0099">The objective is <maths id="math0005" num=""><math display="block"><mrow><munder><mi>min</mi><mrow><mi>x</mi><mo>∈</mo><msup><mi mathvariant="double-struck">R</mi><mi>k</mi></msup></mrow></munder><mover><mi>x</mi><mrow><mo>⇀</mo></mrow></mover><mo>⋅</mo><mover><mi>w</mi><mrow><mo>⇀</mo></mrow></mover></mrow></math><img id="ib0005" file="imgb0005.tif" wi="19" he="8" img-content="math" img-format="tif"/></maths> subject to the performance and property constraints as indicated above, in the previous example.</p>
+<p id="p0100" num="0100">Another objective relates to the minimal oil load of the composition. This is the sum of the concentrations of all m filters in the oil phase plus extra solvent or solvent mixtures, which may be required to completely dissolve all solid filters. It is a good measure how much freedom a formulator has with a particular filter combination.</p>
+<p id="p0101" num="0101">The objective is <maths id="math0006" num=""><math display="block"><mrow><munder><mi>min</mi><mrow><mi>x</mi><mo>∈</mo><msup><mi mathvariant="double-struck">R</mi><mi>m</mi></msup></mrow></munder><mrow><mstyle displaystyle="true"><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>m</mi></munderover></mrow></mstyle><mrow><msubsup><mi>x</mi><mi>i</mi><mi mathvariant="italic">oil phase</mi></msubsup><mo>+</mo><msub><mi mathvariant="italic">minimal extra solvents</mi><mi mathvariant="italic">simulated</mi></msub><mfenced><mover><mi>x</mi><mrow><mo>⇀</mo></mrow></mover></mfenced></mrow></mrow></mrow></math><img id="ib0006" file="imgb0006.tif" wi="97" he="15" img-content="math" img-format="tif"/></maths><!-- EPO <DP n="22"> --> again subject to the performance and property constraints as indicated above, where <maths id="math0007" num=""><math display="inline"><mrow><msub><mi mathvariant="italic">minimal extra solvents</mi><mi mathvariant="italic">simulated</mi></msub><mfenced><mover><mi>x</mi><mrow><mo>⇀</mo></mrow></mover></mfenced></mrow></math><img id="ib0007" file="imgb0007.tif" wi="63" he="7" img-content="math" img-format="tif" inline="yes"/></maths> denotes the total amount of extra solvents of an optimal (minimal) solvent mixture. The composition of this mixture may be determined with various optimization algorithms such as e.g. a Sequential Least SQuares Programming (SLSQP) algorithm (also available in the SciPy library, method 'SLSQP') or a Simplex algorithm (method 'simplex' in the SciPy library).</p>
+<p id="p0102" num="0102">Assume that a (candidate) filter composition <o ostyle="rightarrow"><i>x</i></o> includes <i>n</i> solid UV filter substances and <i>m</i> liquid UV filter substances. The situation regarding the dissolution of the solid UV filter substances may be formulated as follows: <maths id="math0008" num=""><math display="block"><mrow><mfenced open="[" close="]"><mtable><mtr><mtd><msub><mi>c</mi><mn>1</mn></msub></mtd></mtr><mtr><mtd><msub><mi>c</mi><mn>2</mn></msub></mtd></mtr><mtr><mtd><mo>⋮</mo></mtd></mtr><mtr><mtd><msub><mi>c</mi><mi>n</mi></msub></mtd></mtr></mtable></mfenced><mo>−</mo><mfenced open="[" close="]"><mtable><mtr><mtd><msubsup><mi>s</mi><mn>1</mn><mn>1</mn></msubsup></mtd><mtd><msubsup><mi>s</mi><mn>2</mn><mn>1</mn></msubsup></mtd><mtd><mo>…</mo></mtd><mtd><msubsup><mi>s</mi><mi>n</mi><mn>1</mn></msubsup></mtd></mtr><mtr><mtd><msubsup><mi>s</mi><mn>1</mn><mn>2</mn></msubsup></mtd><mtd><msubsup><mi>s</mi><mn>2</mn><mn>2</mn></msubsup></mtd><mtd><mo>…</mo></mtd><mtd><msubsup><mi>s</mi><mi>n</mi><mn>2</mn></msubsup></mtd></mtr><mtr><mtd><mo>⋮</mo></mtd><mtd><mo>⋮</mo></mtd><mtd><mo>⋮</mo></mtd><mtd><mo>⋮</mo></mtd></mtr><mtr><mtd><msubsup><mi>s</mi><mn>1</mn><mi>m</mi></msubsup></mtd><mtd><msubsup><mi>s</mi><mn>2</mn><mi>m</mi></msubsup></mtd><mtd><mo>⋯</mo></mtd><mtd><msubsup><mi>s</mi><mi>n</mi><mi>m</mi></msubsup></mtd></mtr></mtable></mfenced><mo>⋅</mo><mfenced open="[" close="]"><mtable><mtr><mtd><msub><mi>l</mi><mn>1</mn></msub></mtd></mtr><mtr><mtd><msub><mi>l</mi><mn>2</mn></msub></mtd></mtr><mtr><mtd><mo>⋮</mo></mtd></mtr><mtr><mtd><msub><mi>l</mi><mi>m</mi></msub></mtd></mtr></mtable></mfenced><mo>=</mo><mfenced open="[" close="]"><mtable><mtr><mtd><msub><mi>r</mi><mn>1</mn></msub></mtd></mtr><mtr><mtd><msub><mi>r</mi><mn>2</mn></msub></mtd></mtr><mtr><mtd><mo>⋮</mo></mtd></mtr><mtr><mtd><msub><mi>r</mi><mi>n</mi></msub></mtd></mtr></mtable></mfenced><mspace width="1em"/><mi>or</mi><mspace width="1em"/><mover><mi>c</mi><mrow><mo>⇀</mo></mrow></mover><mo>−</mo><mi>S</mi><mo>⋅</mo><mover><mi>l</mi><mrow><mo>⇀</mo></mrow></mover><mo>=</mo><mover><mi>r</mi><mrow><mo>⇀</mo></mrow></mover><mo>,</mo></mrow></math><img id="ib0008" file="imgb0008.tif" wi="97" he="21" img-content="math" img-format="tif"/></maths> where <maths id="math0009" num=""><math display="inline"><mrow><mover><mi>c</mi><mrow><mo>⇀</mo></mrow></mover></mrow></math><img id="ib0009" file="imgb0009.tif" wi="5" he="6" img-content="math" img-format="tif" inline="yes"/></maths> is a vector containing the concentrations of the <i>n</i> solid UV filter substances and <maths id="math0010" num=""><math display="inline"><mrow><mover><mi>l</mi><mrow><mo>⇀</mo></mrow></mover></mrow></math><img id="ib0010" file="imgb0010.tif" wi="4" he="6" img-content="math" img-format="tif" inline="yes"/></maths> is a vector containing the concentrations of the m liquid UV filters. The elements of the matrix Sare defined as follows: <maths id="math0011" num=""><math display="block"><mrow><msubsup><mi>s</mi><mi>i</mi><mi>j</mi></msubsup><mo>=</mo><mfrac><mrow><msub><mi mathvariant="italic">solubility of filter</mi><mi>i</mi></msub><msub><mrow><mspace width="1em"/><mi mathvariant="italic">in filter</mi></mrow><mi>j</mi></msub></mrow><mrow><mn>100</mn><mo>−</mo><msub><mi mathvariant="italic">solubility of filter</mi><mi>i</mi></msub><msub><mrow><mspace width="1em"/><mi mathvariant="italic">in filter</mi></mrow><mi>j</mi></msub></mrow></mfrac></mrow></math><img id="ib0011" file="imgb0011.tif" wi="72" he="12" img-content="math" img-format="tif"/></maths></p>
+<p id="p0103" num="0103">Accordingly, the resulting vector <maths id="math0012" num=""><math display="inline"><mrow><mover><mi>r</mi><mrow><mo>⇀</mo></mrow></mover></mrow></math><img id="ib0012" file="imgb0012.tif" wi="5" he="7" img-content="math" img-format="tif" inline="yes"/></maths> reflects the concentrations of the <i>n</i> solid UV filters that are not dissolved by the m liquid UV filters.</p>
+<p id="p0104" num="0104">The condition to completely dissolve the solid UV filters may now be stated as follows: <maths id="math0013" num=""><math display="block"><mrow><mfenced open="[" close="]"><mtable><mtr><mtd><msubsup><mi>a</mi><mn>1</mn><mn>1</mn></msubsup></mtd><mtd><msubsup><mi>a</mi><mn>2</mn><mn>1</mn></msubsup></mtd><mtd><mo>…</mo></mtd><mtd><msubsup><mi>a</mi><mi>n</mi><mn>1</mn></msubsup></mtd></mtr><mtr><mtd><msubsup><mi>a</mi><mn>1</mn><mn>2</mn></msubsup></mtd><mtd><msubsup><mi>a</mi><mn>2</mn><mn>2</mn></msubsup></mtd><mtd><mo>…</mo></mtd><mtd><msubsup><mi>a</mi><mi>n</mi><mn>2</mn></msubsup></mtd></mtr><mtr><mtd><mo>⋮</mo></mtd><mtd><mo>⋮</mo></mtd><mtd><mo>⋮</mo></mtd><mtd><mo>⋮</mo></mtd></mtr><mtr><mtd><msubsup><mi>a</mi><mn>1</mn><mi>m</mi></msubsup></mtd><mtd><msubsup><mi>a</mi><mn>2</mn><mi>m</mi></msubsup></mtd><mtd><mo>…</mo></mtd><mtd><msubsup><mi>a</mi><mi>n</mi><mi>m</mi></msubsup></mtd></mtr></mtable></mfenced><mo>⋅</mo><mfenced open="[" close="]"><mtable><mtr><mtd><msub><mi>y</mi><mn>1</mn></msub></mtd></mtr><mtr><mtd><msub><mi>y</mi><mn>2</mn></msub></mtd></mtr><mtr><mtd><mo>⋮</mo></mtd></mtr><mtr><mtd><msub><mi>y</mi><mi>m</mi></msub></mtd></mtr></mtable></mfenced><mo>=</mo><mfenced open="[" close="]"><mtable><mtr><mtd><msub><mi>b</mi><mn>1</mn></msub></mtd></mtr><mtr><mtd><msub><mi>b</mi><mn>2</mn></msub></mtd></mtr><mtr><mtd><mo>⋮</mo></mtd></mtr><mtr><mtd><msub><mi>b</mi><mi>n</mi></msub></mtd></mtr></mtable></mfenced><mspace width="1em"/><mi mathvariant="italic">or A</mi><mo>⋅</mo><mover><mi>y</mi><mrow><mo>⇀</mo></mrow></mover><mo>=</mo><mover><mi>b</mi><mrow><mo>⇀</mo></mrow></mover><mspace width="1em"/><mi mathvariant="italic">with</mi><mspace width="1em"/><mover><mi>y</mi><mrow><mo>⇀</mo></mrow></mover><mo>≥</mo><mn>0</mn><mspace width="1em"/><mi mathvariant="italic">and b</mi><mo>=</mo><mrow><mo>{</mo><mtable><mtr><mtd><mn>0</mn></mtd><mtd><mi mathvariant="italic">if r</mi><mo>≤</mo><mn>0</mn></mtd></mtr><mtr><mtd><mi>r</mi></mtd><mtd><mi mathvariant="italic">otherwise</mi></mtd></mtr></mtable></mrow><mo>,</mo></mrow></math><img id="ib0013" file="imgb0013.tif" wi="151" he="21" img-content="math" img-format="tif"/></maths> where <maths id="math0014" num=""><math display="inline"><mrow><msubsup><mi>a</mi><mi>i</mi><mi>j</mi></msubsup><mo>=</mo><mfrac><mrow><msub><mi mathvariant="italic">solubility of filter</mi><mi mathvariant="italic">i</mi></msub><msub><mrow><mspace width="1em"/><mi mathvariant="italic">in solvent</mi></mrow><mi mathvariant="italic">j</mi></msub></mrow><mrow><mn>100</mn><mo>−</mo><msub><mi mathvariant="italic">solubility of filter</mi><mi>i</mi></msub><msub><mrow><mspace width="1em"/><mi mathvariant="italic">in solvent</mi></mrow><mi>j</mi></msub></mrow></mfrac></mrow></math><img id="ib0014" file="imgb0014.tif" wi="64" he="13" img-content="math" img-format="tif" inline="yes"/></maths> and where the vector <o ostyle="rightarrow"><i>y</i></o> contains the concentrations of (additional) solvents. The solubilities may be obtained e. g. using a method<!-- EPO <DP n="23"> --> as described in <nplcit id="ncit0005" npl-type="s"><text>B. Herzog, J. Giesinger, M. Schnyder: "Solubility of UV Absorbers for Sunscreens is Essential for the Creation of Light Feel Formulations", SOFW Journal, 139, 7-2013, 7-14</text></nplcit>.</p>
+<p id="p0105" num="0105">The combination of minimal extra solvents <maths id="math0015" num=""><math display="inline"><mrow><mover><mi mathvariant="bold-italic">y</mi><mrow><mo>⇀</mo></mrow></mover><mo>*</mo></mrow></math><img id="ib0015" file="imgb0015.tif" wi="6" he="8" img-content="math" img-format="tif" inline="yes"/></maths> is now obtained by solving <maths id="math0016" num=""><math display="block"><mrow><mi>A</mi><mo>⋅</mo><mover><mi>y</mi><mrow><mo>⇀</mo></mrow></mover><mo>=</mo><mover><mi>b</mi><mrow><mo>⇀</mo></mrow></mover></mrow></math><img id="ib0016" file="imgb0016.tif" wi="19" he="7" img-content="math" img-format="tif"/></maths> using the Simplex method (or any other suitable method).</p>
+<p id="p0106" num="0106">Another objective relates to the similarity of the composition to a (user) provided composition. This allows for adjusting known composition in such a way that performance targets are achieved and constraints are met. The objective may be stated as follows: <maths id="math0017" num=""><math display="block"><mrow><munder><mi>min</mi><mrow><mi>x</mi><mo>∈</mo><msup><mi mathvariant="double-struck">R</mi><mi>k</mi></msup></mrow></munder><msqrt><mrow><mstyle displaystyle="false"><mrow><munderover><mrow><mo>∑</mo></mrow><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>k</mi></munderover></mrow></mstyle><mrow><msup><mfenced separators=""><msub><mi>x</mi><mi>i</mi></msub><mo>−</mo><msub><mi>u</mi><mi>i</mi></msub></mfenced><mn>2</mn></msup></mrow></mrow></msqrt><mo>,</mo></mrow></math><img id="ib0017" file="imgb0017.tif" wi="41" he="11" img-content="math" img-format="tif"/></maths> where u<sub>i</sub> relates to the amounts of filters of the user provided composition. Accordingly, it is the Euclidean distance of the composition to be determined from the suggestion provided that shall be minimized.</p>
+<p id="p0107" num="0107">The optimization will result in an adjustment that preserves the principle idea of the user as close as possible and that quickly adjusts the filter concentrations to meet the desired performance target and the constraints.</p>
+<p id="p0108" num="0108">Up to here, it has been assumed that the user has chosen a single optimization objective. However, often optimizing one specific property such as efficiency may force another property such as costs in an unacceptable range. A possible solution to this issue is to set a corresponding inequality constraint for this property.</p>
+<p id="p0109" num="0109">A much more versatile method is to search for an optimal compromise of two or more properties according to the procedure described in the following.<!-- EPO <DP n="24"> --></p>
+<p id="p0110" num="0110">First the properties of interest are identified. The sunscreen compositions are successively optimized with respect to each of these properties as described above. This yields maximum and minimum values for each of the properties of interest.</p>
+<p id="p0111" num="0111">Next, individual property boundaries <i>p<sup>min</sup>, p<sup>max</sup></i> are set. They may be automatically set to the minimum and maximum values obtained from the optimizations or set by the user, taking into account the minimum and maximum values.</p>
+<p id="p0112" num="0112">In a further step, the relative importance between the properties is chosen as a factor F. For equally important properties F = 1</p>
+<p id="p0113" num="0113">Finally, one of the properties <i>p<sub>i</sub></i> of interest is minimized using the relative importance factor(s) in linear constraint(s) as follows: <maths id="math0018" num=""><math display="block"><mrow><mi>general</mi><mo>:</mo><mfrac><mn>1</mn><mrow><msub><mi>D</mi><mi>i</mi></msub></mrow></mfrac><mo>∗</mo><msub><mi>f</mi><mi>i</mi></msub><mfenced><mover><mi>x</mi><mrow><mo>⇀</mo></mrow></mover></mfenced><mo>−</mo><mfrac><mi>F</mi><mrow><msub><mi>D</mi><mi>j</mi></msub></mrow></mfrac><mo>∗</mo><msub><mi>f</mi><mi>j</mi></msub><mfenced><mover><mi>x</mi><mrow><mo>⇀</mo></mrow></mover></mfenced><mo>=</mo><mfrac><mrow><msubsup><mi>p</mi><mi>i</mi><mi mathvariant="italic">min</mi></msubsup></mrow><mrow><msub><mi>D</mi><mi>i</mi></msub></mrow></mfrac><mo>−</mo><mfrac><mrow><mi>F</mi><mo>∗</mo><msubsup><mi>p</mi><mi>j</mi><mi mathvariant="italic">min</mi></msubsup></mrow><mrow><msub><mi>D</mi><mi>j</mi></msub></mrow></mfrac><mo>,</mo></mrow></math><img id="ib0018" file="imgb0018.tif" wi="80" he="11" img-content="math" img-format="tif"/></maths> <maths id="math0019" num=""><math display="block"><mrow><mi>weighting</mi><mo>:</mo><mfenced separators=""><mfrac><mn>1</mn><mrow><msub><mi>D</mi><mi>i</mi></msub></mrow></mfrac><mo>∗</mo><msub><mrow><mover><mi>w</mi><mrow><mo>⇀</mo></mrow></mover></mrow><mi>i</mi></msub><mo>−</mo><mfrac><mi>F</mi><mrow><msub><mi>D</mi><mi>j</mi></msub></mrow></mfrac><mo>∗</mo><msub><mrow><mover><mi>w</mi><mrow><mo>⇀</mo></mrow></mover></mrow><mi>j</mi></msub></mfenced><mo>⋅</mo><mover><mi>x</mi><mrow><mo>⇀</mo></mrow></mover><mo>=</mo><mfrac><mrow><msubsup><mi>p</mi><mi>i</mi><mi mathvariant="italic">min</mi></msubsup></mrow><mrow><msub><mi>D</mi><mi>i</mi></msub></mrow></mfrac><mo>−</mo><mfrac><mrow><mi>F</mi><mo>∗</mo><msubsup><mi>p</mi><mi>j</mi><mi mathvariant="italic">min</mi></msubsup></mrow><mrow><msub><mi>D</mi><mi>j</mi></msub></mrow></mfrac><mo>,</mo></mrow></math><img id="ib0019" file="imgb0019.tif" wi="86" he="11" img-content="math" img-format="tif"/></maths> where <maths id="math0020" num=""><math display="inline"><mrow><mover><mi>x</mi><mrow><mo>⇀</mo></mrow></mover></mrow></math><img id="ib0020" file="imgb0020.tif" wi="6" he="7" img-content="math" img-format="tif" inline="yes"/></maths> contains the concentrations of the UV filters, <maths id="math0021" num=""><math display="inline"><mrow><mover><mrow><msub><mi>w</mi><mi>n</mi></msub></mrow><mrow><mo>⇀</mo></mrow></mover></mrow></math><img id="ib0021" file="imgb0021.tif" wi="7" he="8" img-content="math" img-format="tif" inline="yes"/></maths> the weighting for the property <i>p<sub>n</sub></i> and <maths id="math0022" num=""><math display="inline"><mrow><msub><mi>D</mi><mi>n</mi></msub><mo>=</mo><msubsup><mi>p</mi><mi>n</mi><mi mathvariant="italic">max</mi></msubsup><mo>−</mo><msubsup><mi>p</mi><mi>n</mi><mi mathvariant="italic">min</mi></msubsup><mo>,</mo></mrow></math><img id="ib0022" file="imgb0022.tif" wi="36" he="9" img-content="math" img-format="tif" inline="yes"/></maths> where in the general case <maths id="math0023" num=""><math display="inline"><mrow><msub><mi>f</mi><mi>n</mi></msub><mfenced><mover><mi>x</mi><mrow><mo>⇀</mo></mrow></mover></mfenced><mo>=</mo><msubsup><mi>p</mi><mi>n</mi><mrow><mover><mi>x</mi><mrow><mo>⇀</mo></mrow></mover></mrow></msubsup></mrow></math><img id="ib0023" file="imgb0023.tif" wi="21" he="8" img-content="math" img-format="tif" inline="yes"/></maths> and for weighting <maths id="math0024" num=""><math display="inline"><mrow><msub><mi>f</mi><mi>n</mi></msub><mfenced><mover><mi>x</mi><mrow><mo>⇀</mo></mrow></mover></mfenced><mo>=</mo><msub><mrow><mover><mi>w</mi><mrow><mo>⇀</mo></mrow></mover></mrow><mi>n</mi></msub><mn>.</mn></mrow></math><img id="ib0024" file="imgb0024.tif" wi="23" he="7" img-content="math" img-format="tif" inline="yes"/></maths> <maths id="math0025" num=""><math display="inline"><mrow><mover><mi>x</mi><mrow><mo>⇀</mo></mrow></mover><mo>=</mo><msubsup><mi>p</mi><mi>n</mi><mrow><mover><mi>x</mi><mrow><mo>⇀</mo></mrow></mover></mrow></msubsup><mn>.</mn></mrow></math><img id="ib0025" file="imgb0025.tif" wi="17" he="8" img-content="math" img-format="tif" inline="yes"/></maths></p>
+<p id="p0114" num="0114">The usual performance and property constraints as described above apply as well.</p>
+<p id="p0115" num="0115">Instead of the numerical optimization, in a further embodiment the optimum sunscreen composition is automatically determined using a combinatorial approach. The <figref idref="f0002">Figure 2</figref> is a flow chart schematically illustrating this combinatorial method for finding an optimized sunscreen composition (step 100 in the process of <figref idref="f0001">Figure 1</figref>). In this context, a plurality of candidate compositions are automatically defined, and the sunscreen performance of at least some of the plurality of candidate compositions is determined using the performance simulation tool.<!-- EPO <DP n="25"> --></p>
+<p id="p0116" num="0116">Such an approach is feasible, if various measures are applied to reduce the number of calculations, which are:
+<ul id="ul0006" list-style="none" compact="compact">
+<li>1) Reducing the number of UV filters by a preselection of a maximum of 6 filters. Before continuing, it is checked whether the number of filters exceeds 6 (decision 101). If this is the case the user is asked to reduce the number of selected filters or to switch to numerical optimization.</li>
+<li>2) Choosing an increment for the automatic definition of compositions to 0.5 - 1.0 wt%, preferably to 0.5 wt%.</li>
+<li>3) Reducing the search space by:
+<ul id="ul0007" list-style="none" compact="compact">
+<li>3a) Searching for the lowest total filter amount capable to achieve the targeted performance by:
+<ol id="ol0008" ol-style="">
+<li>a. conservatively estimating the total amount of filters necessary to achieve the performance target (step 102), e.g. SPF/2 wt%, and calculate only combinations with a corresponding total amount of filters. (For SPF=30, with 6 filters, an increment of 0.5 wt% and a maximal use level of 5 wt% per filter and restricting to a total concentration of 15 wt% (SPF 30 / 2) 312620 calculations are required);</li>
+<li>b. enumerating the corresponding filter combinations in a way that combinations with most of the most efficient filters are tested first (step 103);</li>
+<li>c. next, it is checked whether the target performance can be met with the present total amount of filters, for that purpose:
+<ul id="ul0008" list-style="dash">
+<li>the performance of a candidate composition is determined using the performance simulation tool (step 104);</li>
+<li>it is checked whether the determined performance meets the performance target (decision 105); if this is not the case, it is checked whether further candidate compositions are remaining (decision 106), if this is the case, the next candidate composition (according to the enumeration) is checked</li>
+</ul><!-- EPO <DP n="26"> --></li>
+<li>d. if the determined performance of one of the candidate compositions meets the target, the calculation is stopped (this happens typically within less than 1000 calculations), the amount of filters is reduced by a fixed number, e. g. 1 wt% (step 107) and the resulting candidate compositions are enumerated and checked as described before (steps 103-106); this is repeated until the target is not achievable any more, i. e. none of the compositions meets the target (no further candidate compositions in decision 106) (backward search);</li>
+<li>e. next, the total amount of filters is increased by an increment (e.g. 0.5 wt%) (step 110) the resulting candidate compositions are enumerated (step 111) and it is checked whether the target performance can be met with the present total amount of filters, for that purpose:
+<ul id="ul0009" list-style="dash">
+<li>the performance of a candidate composition is determined using the performance simulation tool (step 112);</li>
+<li>it is checked whether the determined performance meets the performance target (decision 113); if this is not the case, it is checked whether further candidate compositions are remaining (decision 114), if this is the case, the next candidate composition (according to the enumeration) is checked</li>
+</ul></li>
+<li>f. if the determined performance of one of the candidate compositions meets the target, the calculation is stopped (this happens typically within less than 1000 calculations); if none of the candidate compositions meets the target, the amount of filters is increased once more by a fixed number, e. g. 0.5wt% (step 110) and the resulting candidate compositions are enumerated and checked as described before (steps 111-114); this is repeated until the target is achieved, i. e. at least one of the compositions meets the target (no further candidate compositions in decision 114) (forward search);</li>
+</ol></li>
+</ul>
+This will give the lowest total filter amount (most efficient filter combination(s)) capable to achieve the target performance.<!-- EPO <DP n="27"> --></li>
+<li>3b) Start from the lowest feasible total filter amount and search optimal solutions by increasing the total amount by one increment for each search e.g. 0.5 wt%. This is achieved by
+<ul id="ul0010" list-style="dash">
+<li>reducing the search space as described above (step 120);</li>
+<li>calculating the relevant properties for the remaining candidate compositions having a fixed total filter amount, starting with the determined lowest total filter amount (step 121);</li>
+<li>checking whether the property relating to the selected optimization objective has improved compared to the previous run (decision 122); if this is the case, the total filter amount is increased by the mentioned increment (step 123) and the determination is repeated with the increased value (steps 120-122);</li>
+<li>if there is no further improvement (decision 122) the best composition (or a list of best compositions) with respect to the selected optimization objective is returned for further processing.</li>
+</ul></li>
+</ul></p>
+<p id="p0117" num="0117">Many properties such as costs, extra solvent and minimal oil load normally decrease with higher total filter amount until the optimum is reached. Thus, it is often possible to continue this forward search as long as the property value decreases and stop as soon as it starts to increase again with increased total filter amount. Otherwise the search has to be continued until the maximal total amount of UV filters is reached.</p>
+<p id="p0118" num="0118">Linear objective functions (e.g. most efficient or cost-efficient UV filter combinations) can be evaluated by simple dot products and therefore very efficiently calculated by matrix operations on regular computers. In these cases, all combinations can be efficiently evaluated at once followed by sequential block wise performance predictions. The current optimum within previous blocks (e.g. lowest cost) can be used to skip all performance predictions from residual combinations with worse values compared to this optimum. Typically, this reduction of the search space (step 120) allows to find the optimum with less than 3000 calculations for a given total amount of filters.<!-- EPO <DP n="28"> --></p>
+<p id="p0119" num="0119">Using the combinatorial approach allows for displaying not only a single optimized composition but a list of best candidate compositions, e. g. 10 or 20 compositions, together with their properties. This provides additional valuable information to the user. In particular, the user is enabled to identify whether the best solutions feature a very similar composition of filter substances or whether they relate to substantially different compositions. In the latter case, based on his or her knowledge, the user might decide to choose only the second or third best composition or to continue with the next optimization step based on the second or third best composition because it appears to be a better starting point for further improvement.</p>
+<p id="p0120" num="0120">It may be possible for the user to choose between the numerical optimization and the combinatorial approach for every iteration step. As an example, once a promising composition has been found using the combinatorial approach it may be further improved by applying a numerical optimization step, starting from the identified candidate composition. This is because the numerical approach allows for more precise amounts for the constituents of the composition than the combinatorial approach where the possible values are discrete. Vice versa it is possible to double check whether the numerical approach has indeed found the true global minimum in the optimization using the combinatorial approach.</p>
+<p id="p0121" num="0121">Switching to the combinatorial approach may also be useful in order to obtain a ranked result list.</p>
+<p id="p0122" num="0122">In all embodiments of the present invention, preferably the UV-filter substances are to be selected from the group consisting of octyl methoxycinnamate (PARSOL® MCX), isoamyl methoxycinnamate (Neo Heliopan® E 1000), homosalate (3,3,5 trimethylcyclohexyl 2-hydroxybenzoate, PARSOL® HMS) ethylhexyl salicylate (also known as ethylhexyl salicylate, 2 ethylhexyl 2-hydroxybenzoate, PARSOL® EHS), octocrylene (2 ethylhexyl 2-cyano-3,3-diphenylacrylate, PARSOL® 340), polysilicone 15 (PARSOL® SLX), diethylhexyl 2,6-naphthalate (Corapan® TQ), syringylidene malonates such as e.g. diethylhexyl syringylidene malonate (Oxynex® ST liquid), benzotriazolyl dodecyl p-cresol (Tinoguard® TL) as well as benzophenone-3 and drometrizole trisiloxane, bis-ethyl¬hexyl-oxyphenol methoxyphenyl triazine (PARSOL® SHIELD), butyl methoxydibenzoyl methane (PARSOL® 1789), methy¬lene<!-- EPO <DP n="29"> --> bis-benzotriazolyl tetramethylbutylphenol (PARSOL® MAX), diethylamino hydroxybenzoyl hexyl benzoate (UVINUL® A PLUS), ethylhexyl triazone (UVINUL® T150), diethylhexyl butamido triazone (Uvasorb® HEB), Tris-Biphenyl Triazine (Uvinul® A2B) 4-methyl¬benzylidene camphor (PARSOL® 5000) and 1,4-di(benzoxazol-2'-yl)benzene bis-ethylhexyloxyphenol methoxyphenyl triazine, Phenylbenzimidazole Sulfonic Acid (PARSOL® HS) and Disodium Phenyl Dibenzimidazole Tetrasulfonate (Neoheliopan® AP), microfine (preferably coated) titanium dioxide (e.g. PARSOL® TX) and Zinc Oxid (e.g. PARSOL® ZX).</p>
+<p id="p0123" num="0123">The methods described above have been used to calculate optimized compositions of UV filter substances, subject to different constraints and optimization objectives:</p>
+<heading id="h0006"><b>Example 1</b></heading>
+<p id="p0124" num="0124">In a first example, the objective was to find the most efficient UV filter combination, i. e. achieving the desired performance target with minimal total amount of UV filters.</p>
+<p id="p0125" num="0125">The following filter substances have been chosen with the indicated boundaries and weightings:
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="73mm"/>
+<colspec colnum="2" colname="col2" colwidth="23mm"/>
+<colspec colnum="3" colname="col3" colwidth="21mm"/>
+<thead>
+<row>
+<entry valign="top"><b>INCI Name</b></entry>
+<entry align="center" valign="top"><b>Boundaries</b></entry>
+<entry align="center" valign="top"><b>Weighting</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Homomenthyl Salicylate</entry>
+<entry align="center">≤ 10 wt%</entry>
+<entry align="center">20</entry></row>
+<row>
+<entry>Butyl Methoxydibenzoylmethane</entry>
+<entry align="center">≤ 5 wt%</entry>
+<entry align="center">50</entry></row>
+<row>
+<entry>Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine</entry>
+<entry align="center">≤ 4 wt%</entry>
+<entry align="center">150</entry></row>
+<row>
+<entry>Octocrylene</entry>
+<entry align="center">≤ 10 wt%</entry>
+<entry align="center">25</entry></row>
+<row>
+<entry>Diethylhexyl Butamido Triazone</entry>
+<entry align="center">≤ 5 wt%</entry>
+<entry align="center">100</entry></row>
+<row>
+<entry>Phenylbenzimidazol Sulfonic Acid</entry>
+<entry align="center">≤ 2 wt%</entry>
+<entry align="center">50</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0126" num="0126">The performance constraints were SPF ≥ 30 and the ratio UVAPF/SPF ≥ 0.33. No property constraints were applied.</p>
+<p id="p0127" num="0127">An optimized composition has been determined using the methods described above, the optimized combinatorial approach (with an increment of 0.5wt%, up to 5.0wt%, resulting in 1.28 million possible combinations) and the numerical optimization. The results were as follows:<!-- EPO <DP n="30"> -->
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="74mm"/>
+<colspec colnum="2" colname="col2" colwidth="27mm"/>
+<colspec colnum="3" colname="col3" colwidth="21mm"/>
+<thead>
+<row>
+<entry morerows="1" valign="top"><b>INCI Name</b></entry>
+<entry namest="col2" nameend="col3" align="center" valign="top"><b>optimal wt%</b></entry></row>
+<row>
+<entry align="center" valign="top"><b>combinatorial</b></entry>
+<entry align="center" valign="top"><b>numerical</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Homomenthyl Salicylate</entry>
+<entry align="center">0.0</entry>
+<entry align="center">0.00</entry></row>
+<row>
+<entry>Butyl Methoxydibenzoylmethane</entry>
+<entry align="center">1.5</entry>
+<entry align="center">1.04</entry></row>
+<row>
+<entry>Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine</entry>
+<entry align="center">2.5</entry>
+<entry align="center">3.03</entry></row>
+<row>
+<entry>Octocrylene</entry>
+<entry align="center">0.0</entry>
+<entry align="center">0.00</entry></row>
+<row>
+<entry>Diethylhexyl Butamido Triazone</entry>
+<entry align="center">3.0</entry>
+<entry align="center">2.85</entry></row>
+<row>
+<entry>Phenylbenzimidazol Sulfonic Acid</entry>
+<entry align="center">2.0</entry>
+<entry align="center">2.00</entry></row></tbody></tgroup>
+</table>
+</tables>
+with the following properties:
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="35mm"/>
+<colspec colnum="2" colname="col2" colwidth="27mm"/>
+<colspec colnum="3" colname="col3" colwidth="22mm"/>
+<thead>
+<row>
+<entry valign="top"><b>property</b></entry>
+<entry align="center" valign="top"><b>combinatorial</b></entry>
+<entry align="center" valign="top"><b>numerical.</b></entry></row></thead>
+<tbody>
+<row>
+<entry>SPF</entry>
+<entry align="center">30.0</entry>
+<entry align="center">30.0</entry></row>
+<row>
+<entry>UVA/SPF ratio</entry>
+<entry align="center">0.35</entry>
+<entry align="center">0.33</entry></row>
+<row>
+<entry>Total amount, %</entry>
+<entry align="center">9</entry>
+<entry align="center">8.94</entry></row>
+<row>
+<entry><b>Efficiency</b></entry>
+<entry align="center"><b>3.33</b></entry>
+<entry align="center"><b>3.36</b></entry></row>
+<row>
+<entry>Weighting</entry>
+<entry align="center">8.5</entry>
+<entry align="center">8.41</entry></row>
+<row>
+<entry>Minimal Oil Load, %</entry>
+<entry align="center">25.3</entry>
+<entry align="center">29.1</entry></row>
+<row>
+<entry>CPU (2.9 GHz) time, s</entry>
+<entry align="center">5</entry>
+<entry align="center">&lt; 1</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0007"><b>Example 2</b></heading>
+<p id="p0128" num="0128">In a second example, the objective was to find the most weighting-efficient UV filter combination.</p>
+<p id="p0129" num="0129">The filter substances, their boundaries and weightings as well as the constraints have been the same as in Example 1.</p>
+<p id="p0130" num="0130">The results of the two methods were as follows:
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="74mm"/>
+<colspec colnum="2" colname="col2" colwidth="27mm"/>
+<colspec colnum="3" colname="col3" colwidth="21mm"/>
+<thead>
+<row>
+<entry morerows="1" valign="top"><b>INCI Name</b></entry>
+<entry namest="col2" nameend="col3" align="center" valign="top"><b>optimal wt%</b></entry></row>
+<row>
+<entry align="center" valign="top"><b>combinatorial</b></entry>
+<entry align="center" valign="top"><b>numerical</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Homomenthyl Salicylate</entry>
+<entry align="center">0.0</entry>
+<entry align="center">0.00</entry></row>
+<row>
+<entry>Butyl Methoxydibenzoylmethane</entry>
+<entry align="center">2.5</entry>
+<entry align="center">2.61</entry></row><!-- EPO <DP n="31"> -->
+<row>
+<entry>Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine</entry>
+<entry align="center">0.0</entry>
+<entry align="center">0.00</entry></row>
+<row>
+<entry>Octocrylene</entry>
+<entry align="center">9.0</entry>
+<entry align="center">10.00</entry></row>
+<row>
+<entry>Diethylhexyl Butamido Triazone</entry>
+<entry align="center">1.0</entry>
+<entry align="center">0.57</entry></row>
+<row>
+<entry>Phenylbenzimidazol Sulfonic Acid</entry>
+<entry align="center">2.0</entry>
+<entry align="center">2.00</entry></row></tbody></tgroup>
+</table>
+</tables>
+with the following properties:
+<tables id="tabl0006" num="0006">
+<table frame="all">
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="35mm"/>
+<colspec colnum="2" colname="col2" colwidth="27mm"/>
+<colspec colnum="3" colname="col3" colwidth="21mm"/>
+<thead>
+<row>
+<entry valign="top"><b>property</b></entry>
+<entry align="center" valign="top"><b>combinatorial</b></entry>
+<entry align="center" valign="top"><b>numerical</b></entry></row></thead>
+<tbody>
+<row>
+<entry>SPF</entry>
+<entry align="center">30.2</entry>
+<entry align="center">30.0</entry></row>
+<row>
+<entry>UVA/SPF ratio</entry>
+<entry align="center">0.41</entry>
+<entry align="center">0.44</entry></row>
+<row>
+<entry>Total amount, %</entry>
+<entry align="center">14.5</entry>
+<entry align="center">15.2</entry></row>
+<row>
+<entry>Efficiency</entry>
+<entry align="center">2.07</entry>
+<entry align="center">1.97</entry></row>
+<row>
+<entry><b>Weighting</b></entry>
+<entry align="center"><b>5.5</b></entry>
+<entry align="center"><b>4.89</b></entry></row>
+<row>
+<entry>Minimal Oil Load, %</entry>
+<entry align="center">13.0</entry>
+<entry align="center">13.2</entry></row>
+<row>
+<entry>CPU (2.9 GHz) time, s</entry>
+<entry align="center">12</entry>
+<entry align="center">0.9</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0008"><b>Example 3</b></heading>
+<p id="p0131" num="0131">In a third example, the objective was to find the UV filter combination with the minimal oil load.</p>
+<p id="p0132" num="0132">The filter substances, their boundaries and weightings have been the same as in Examples 1 and 2. The performance constraints were SPF ≥ 30 and the ratio UVAPF/SPF ≥ 0.33.. The property constraints were a maximal weighting of 6.5 and a maximum total amount of filters of 17%.</p>
+<p id="p0133" num="0133">The results of the two methods were as follows:
+<tables id="tabl0007" num="0007">
+<table frame="all">
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="74mm"/>
+<colspec colnum="2" colname="col2" colwidth="27mm"/>
+<colspec colnum="3" colname="col3" colwidth="21mm"/>
+<thead>
+<row>
+<entry morerows="1" valign="top"><b>INCI Name</b></entry>
+<entry namest="col2" nameend="col3" align="center" valign="top"><b>optimal wt%</b></entry></row>
+<row>
+<entry align="center" valign="top"><b>combinatorial</b></entry>
+<entry align="center" valign="top"><b>numerical</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Homomenthyl Salicylate</entry>
+<entry align="center">0.0</entry>
+<entry align="center">0.81</entry></row>
+<row>
+<entry>Butyl Methoxydibenzoylmethane</entry>
+<entry align="center">2.0</entry>
+<entry align="center">1.67</entry></row>
+<row>
+<entry>Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine</entry>
+<entry align="center">0.5</entry>
+<entry align="center">0.59</entry></row>
+<row>
+<entry>Octocrylene</entry>
+<entry align="center">9.0</entry>
+<entry align="center">5.76</entry></row><!-- EPO <DP n="32"> -->
+<row>
+<entry>Diethylhexyl Butamido Triazone</entry>
+<entry align="center">1.0</entry>
+<entry align="center">2.00</entry></row>
+<row>
+<entry>Phenylbenzimidazol Sulfonic Acid</entry>
+<entry align="center">2.0</entry>
+<entry align="center">2.00</entry></row></tbody></tgroup>
+</table>
+</tables>
+with the following properties:
+<tables id="tabl0008" num="0008">
+<table frame="all">
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="36mm"/>
+<colspec colnum="2" colname="col2" colwidth="15mm"/>
+<colspec colnum="3" colname="col3" colwidth="19mm"/>
+<thead>
+<row>
+<entry valign="middle"><b>property</b></entry>
+<entry align="center" valign="middle"><b>comb.</b></entry>
+<entry align="center" valign="middle"><b>num. opt.</b></entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">SPF</entry>
+<entry align="center" valign="middle">30.7</entry>
+<entry align="center" valign="middle">30.0</entry></row>
+<row>
+<entry valign="middle">UVA/SPF ratio</entry>
+<entry align="center" valign="middle">0.38</entry>
+<entry align="center" valign="middle">0.33</entry></row>
+<row>
+<entry valign="middle">Total amount, %</entry>
+<entry align="center" valign="middle">14.5</entry>
+<entry align="center" valign="middle">12.8</entry></row>
+<row>
+<entry valign="middle">Efficiency</entry>
+<entry align="center" valign="middle">2.07</entry>
+<entry align="center" valign="middle">2.34</entry></row>
+<row>
+<entry valign="middle">Weighting</entry>
+<entry align="center" valign="middle">6.0</entry>
+<entry align="center" valign="middle">6.3</entry></row>
+<row>
+<entry valign="middle"><b>Minimal Oil Load,</b> %</entry>
+<entry align="center" valign="middle"><b>12.5</b></entry>
+<entry align="center" valign="middle"><b>10.8</b></entry></row>
+<row>
+<entry valign="middle">CPU (2.9 GHz) time, s</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">20</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0009"><b>Example 4</b></heading>
+<p id="p0134" num="0134">In a fourth example, the objective was to find the most weighting-efficient UV filter combination.</p>
+<p id="p0135" num="0135">In contrast to the Examples 1 - 3, 10 instead of 6 filter substances have been selected, with the indicated boundaries and weightings:
+<tables id="tabl0009" num="0009">
+<table frame="all">
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="89mm"/>
+<colspec colnum="2" colname="col2" colwidth="23mm"/>
+<colspec colnum="3" colname="col3" colwidth="21mm"/>
+<thead>
+<row>
+<entry valign="middle"><b>INCI Name</b></entry>
+<entry align="center" valign="middle"><b>Boundaries</b></entry>
+<entry align="center" valign="middle"><b>Weighting</b></entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">Homomenthyl Salicylate</entry>
+<entry align="center" valign="middle">≤ 5 wt%</entry>
+<entry align="center" valign="middle">20</entry></row>
+<row>
+<entry valign="middle">Butyl Methoxydibenzoylmethane</entry>
+<entry align="center" valign="middle">≤ 5 wt%</entry>
+<entry align="center" valign="middle">50</entry></row>
+<row>
+<entry valign="middle">Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine</entry>
+<entry align="center" valign="middle">≤ 4 wt%</entry>
+<entry align="center" valign="middle">150</entry></row>
+<row>
+<entry valign="middle">4-Methylbenzylidene Camphor</entry>
+<entry align="center" valign="middle">≤ 4 wt%</entry>
+<entry align="center" valign="middle">75</entry></row>
+<row>
+<entry valign="middle">Ethylhexyl Salicylate</entry>
+<entry align="center" valign="middle">≤ 5 wt%</entry>
+<entry align="center" valign="middle">20</entry></row>
+<row>
+<entry valign="middle">Octocrylene</entry>
+<entry align="center" valign="middle">≤ 10 wt%</entry>
+<entry align="center" valign="middle">25</entry></row>
+<row>
+<entry valign="middle">Diethylamino Hydroxybenzoyl Hexyl Benzoate</entry>
+<entry align="center" valign="middle">≤ 10 wt%</entry>
+<entry align="center" valign="middle">75</entry></row>
+<row>
+<entry valign="middle">Ethylhexyl Triazone</entry>
+<entry align="center" valign="middle">≤ 3 wt%</entry>
+<entry align="center" valign="middle">100</entry></row>
+<row>
+<entry valign="middle">Titanium Dioxide</entry>
+<entry align="center" valign="middle">≤ 20 wt%</entry>
+<entry align="center" valign="middle">75</entry></row>
+<row>
+<entry valign="middle">Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, active</entry>
+<entry align="center" valign="middle">≤ 8 wt%</entry>
+<entry align="center" valign="middle">150</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="33"> --></p>
+<p id="p0136" num="0136">The performance constraints were SPF ≥ 50 and the ratio UVAPF/SPF ≥ 0.33. No property constraints were applied.</p>
+<p id="p0137" num="0137">An optimization using the combinatorial approach was not feasible because even with an increment of 0.5 wt% a number of 98 billion possible combinations would have been required to be checked. This is not feasible on a regular computer.</p>
+<p id="p0138" num="0138">The results of the numerical optimization were as follows:
+<tables id="tabl0010" num="0010">
+<table frame="all">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="90mm"/>
+<colspec colnum="2" colname="col2" colwidth="23mm"/>
+<thead>
+<row>
+<entry valign="top"><b>INCI Name</b></entry>
+<entry align="center" valign="top"><b>optimal wt%</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Homomenthyl Salicylate</entry>
+<entry align="center">5.00</entry></row>
+<row>
+<entry>Butyl Methoxydibenzoylmethane</entry>
+<entry align="center">5.00</entry></row>
+<row>
+<entry>Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine</entry>
+<entry align="center">0.00</entry></row>
+<row>
+<entry>4-Methylbenzylidene Camphor</entry>
+<entry align="center">0.26</entry></row>
+<row>
+<entry>Ethylhexyl Salicylate</entry>
+<entry align="center">5.00</entry></row>
+<row>
+<entry>Octocrylene</entry>
+<entry align="center">10.00</entry></row>
+<row>
+<entry>Diethylamino Hydroxybenzoyl Hexyl Benzoate</entry>
+<entry align="center">0.00</entry></row>
+<row>
+<entry>Ethylhexyl Triazone</entry>
+<entry align="center">3.00</entry></row>
+<row>
+<entry>Titanium Dioxide</entry>
+<entry align="center">2.27</entry></row>
+<row>
+<entry>Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, active</entry>
+<entry align="center">1.06</entry></row></tbody></tgroup>
+</table>
+</tables>
+with the following properties:
+<tables id="tabl0011" num="0011">
+<table frame="all">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="35mm"/>
+<colspec colnum="2" colname="col2" colwidth="13mm"/>
+<tbody>
+<row>
+<entry>SPF</entry>
+<entry align="center">50.0</entry></row>
+<row>
+<entry>UVA/SPF ratio</entry>
+<entry align="center">0.33</entry></row>
+<row>
+<entry>Total amount, %</entry>
+<entry align="center">31.6</entry></row>
+<row>
+<entry>Efficiency</entry>
+<entry align="center">1.58</entry></row>
+<row>
+<entry><b>Weighting</b></entry>
+<entry align="center"><b>13.5</b></entry></row>
+<row>
+<entry>Minimal Oil Load, %</entry>
+<entry align="center">40.2</entry></row>
+<row>
+<entry>CPU (2.9 GHz) time, s</entry>
+<entry align="center">1</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0010"><b>Example 5:</b></heading><!-- EPO <DP n="34"> -->
+<p id="p0139" num="0139">In a fifth example, the objective was to find the most efficient UV filter combination.</p>
+<p id="p0140" num="0140">The filter substances, their boundaries and weightings as well as the constraints have been the same as in Example 4.</p>
+<p id="p0141" num="0141">Again, the combinatorial method was not feasible due to the same reasons. The results of the numerical optimization was as follows:
+<tables id="tabl0012" num="0012">
+<table frame="all">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="90mm"/>
+<colspec colnum="2" colname="col2" colwidth="23mm"/>
+<thead>
+<row>
+<entry valign="top"><b>INCI Name</b></entry>
+<entry align="center" valign="top"><b>optimal wt%</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Homomenthyl Salicylate</entry>
+<entry align="center">0.00</entry></row>
+<row>
+<entry>Butyl Methoxydibenzoylmethane</entry>
+<entry align="center">0.00</entry></row>
+<row>
+<entry>Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine</entry>
+<entry align="center">4.00</entry></row>
+<row>
+<entry>4-Methylbenzylidene Camphor</entry>
+<entry align="center">0.76</entry></row>
+<row>
+<entry>Ethylhexyl Salicylate</entry>
+<entry align="center">0.00</entry></row>
+<row>
+<entry>Octocrylene</entry>
+<entry align="center">0.00</entry></row>
+<row>
+<entry>Diethylamino Hydroxybenzoyl Hexyl Benzoate</entry>
+<entry align="center">0.00</entry></row>
+<row>
+<entry>Ethylhexyl Triazone</entry>
+<entry align="center">3.00</entry></row>
+<row>
+<entry>Titanium Dioxide</entry>
+<entry align="center">0.00</entry></row>
+<row>
+<entry>Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, active</entry>
+<entry align="center">8.00</entry></row></tbody></tgroup>
+</table>
+</tables>
+with the following properties:
+<tables id="tabl0013" num="0013">
+<table frame="all">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="35mm"/>
+<colspec colnum="2" colname="col2" colwidth="14mm"/>
+<tbody>
+<row>
+<entry>SPF</entry>
+<entry align="center">50.0</entry></row>
+<row>
+<entry>UVA/SPF ratio</entry>
+<entry align="center">0.43</entry></row>
+<row>
+<entry>Total amount, %</entry>
+<entry align="center">15.76</entry></row>
+<row>
+<entry><b>Efficiency</b></entry>
+<entry align="center"><b>3.17</b></entry></row>
+<row>
+<entry>Weighting</entry>
+<entry align="center">21.6</entry></row>
+<row>
+<entry>Minimal Oil Load, %</entry>
+<entry align="center">39.2</entry></row>
+<row>
+<entry>CPU (2.9 GHz) time, s</entry>
+<entry align="center">1</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0011"><b>Example 6:</b></heading>
+<p id="p0142" num="0142">In a sixth example, the objective was to find a compromise for the weighting and the efficiency (with equal weight of the two objectives).<!-- EPO <DP n="35"> --></p>
+<p id="p0143" num="0143">The filter substances, their boundaries and weightings as well as the constraints have been the same as in Examples 4 and 5.</p>
+<p id="p0144" num="0144">Again, the combinatorial method was not feasible due to the reasons mentioned. The results of the numerical optimization was as follows:
+<tables id="tabl0014" num="0014">
+<table frame="all">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="90mm"/>
+<colspec colnum="2" colname="col2" colwidth="23mm"/>
+<thead>
+<row>
+<entry valign="top"><b>INCI Name</b></entry>
+<entry align="center" valign="top"><b>optimal wt%</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Homomenthyl Salicylate</entry>
+<entry align="center">0.00</entry></row>
+<row>
+<entry>Butyl Methoxydibenzoylmethane</entry>
+<entry align="center">4.10</entry></row>
+<row>
+<entry>Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine</entry>
+<entry align="center">0.20</entry></row>
+<row>
+<entry>4-Methylbenzylidene Camphor</entry>
+<entry align="center">3.52</entry></row>
+<row>
+<entry>Ethylhexyl Salicylate</entry>
+<entry align="center">1.73</entry></row>
+<row>
+<entry>Octocrylene</entry>
+<entry align="center">5.20</entry></row>
+<row>
+<entry>Diethylamino Hydroxybenzoyl Hexyl Benzoate</entry>
+<entry align="center">0.00</entry></row>
+<row>
+<entry>Ethylhexyl Triazone</entry>
+<entry align="center">3.00</entry></row>
+<row>
+<entry>Titanium Dioxide</entry>
+<entry align="center">0.00</entry></row>
+<row>
+<entry>Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, active</entry>
+<entry align="center">4.55</entry></row></tbody></tgroup>
+</table>
+</tables>
+with the following properties:
+<tables id="tabl0015" num="0015">
+<table frame="all">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="35mm"/>
+<colspec colnum="2" colname="col2" colwidth="14mm"/>
+<tbody>
+<row>
+<entry>SPF</entry>
+<entry align="center">50.0</entry></row>
+<row>
+<entry>UVA/SPF ratio</entry>
+<entry align="center">0.39</entry></row>
+<row>
+<entry>Total amount, %</entry>
+<entry align="center">20.57</entry></row>
+<row>
+<entry><b>Efficiency</b></entry>
+<entry align="center"><b>2.43</b></entry></row>
+<row>
+<entry><b>Weighting</b></entry>
+<entry align="center"><b>16.11</b></entry></row>
+<row>
+<entry>Minimal Oil Load, %</entry>
+<entry align="center">30.6</entry></row>
+<row>
+<entry>CPU (2.9 GHz) time, s</entry>
+<entry align="center">1</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0145" num="0145">The comparison of the properties with Examples 4 and 5, where the composition has been optimized for the single objectives, leads to the following:
+<tables id="tabl0016" num="0016">
+<table frame="all">
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="35mm"/>
+<colspec colnum="2" colname="col2" colwidth="12mm"/>
+<colspec colnum="3" colname="col3" colwidth="14mm"/>
+<colspec colnum="4" colname="col4" colwidth="14mm"/>
+<thead>
+<row>
+<entry valign="top"><b>property</b></entry>
+<entry align="center" valign="top"><b>Ex. 4</b></entry>
+<entry align="center" valign="top"><b>Ex. 5</b></entry>
+<entry align="center" valign="top"><b>Ex. 6</b></entry></row></thead>
+<tbody>
+<row>
+<entry>SPF</entry>
+<entry align="center">50.1</entry>
+<entry align="center">50.2</entry>
+<entry align="center">50.0</entry></row>
+<row>
+<entry>UVA/SPF ratio</entry>
+<entry align="center">0.33</entry>
+<entry align="center">0.48</entry>
+<entry align="center">0.39</entry></row><!-- EPO <DP n="36"> -->
+<row>
+<entry>Total amount, %</entry>
+<entry align="center">31.7</entry>
+<entry align="center">15.77</entry>
+<entry align="center">20.57</entry></row>
+<row>
+<entry><b>Efficiency</b></entry>
+<entry align="center"><b>1.58</b></entry>
+<entry align="center"><b>3.18</b></entry>
+<entry align="center"><b>2.43</b></entry></row>
+<row>
+<entry><b>Weighting</b></entry>
+<entry align="center"><b>13.6</b></entry>
+<entry align="center"><b>22.2</b></entry>
+<entry align="center"><b>16.11</b></entry></row>
+<row>
+<entry>Minimal Oil Load, %</entry>
+<entry align="center">40.1</entry>
+<entry align="center">38.5</entry>
+<entry align="center">30.6</entry></row>
+<row>
+<entry>CPU (2.9 GHz) time, s</entry>
+<entry align="center">1</entry>
+<entry align="center">1</entry>
+<entry align="center">1</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0146" num="0146">As can be seen from the results, the compromise is established as follows: <maths id="math0026" num=""><math display="block"><mrow><mfrac><mrow><mi>w</mi><mo>−</mo><msub><mi>w</mi><mi mathvariant="italic">min</mi></msub></mrow><mrow><msub><mi>w</mi><mi mathvariant="italic">max</mi></msub><mo>−</mo><msub><mi>w</mi><mi mathvariant="italic">min</mi></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>16.11</mn><mo>−</mo><mn>13.6</mn></mrow><mrow><mn>22.2</mn><mo>−</mo><mn>13.6</mn></mrow></mfrac><mo>=</mo><mn>0.29</mn><mo>≈</mo><mn>0.30</mn><mo>−</mo><mfrac><mn>1.58</mn><mn>2.43</mn></mfrac><mfrac><mrow><mn>3.18</mn><mo>−</mo><mn>2.43</mn></mrow><mrow><mn>3.18</mn><mo>−</mo><mn>1.58</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><msub><mi>E</mi><mi mathvariant="italic">min</mi></msub></mrow><mi>E</mi></mfrac><mo>⋅</mo><mfrac><mrow><msub><mi>E</mi><mi mathvariant="italic">max</mi></msub><mo>−</mo><mi>E</mi></mrow><mrow><msub><mi>E</mi><mi mathvariant="italic">max</mi></msub><mo>−</mo><msub><mi>E</mi><mi mathvariant="italic">min</mi></msub></mrow></mfrac><mo>,</mo></mrow></math><img id="ib0026" file="imgb0026.tif" wi="120" he="9" img-content="math" img-format="tif"/></maths> where it has been taken into account that the value for the weighting is minimized and that the value for the efficiency is maximized. Accordingly, the deviation of the resulting efficiency from the optimum value as well as the deviation of the resulting weighting from the optimum value are about the same.</p>
+<heading id="h0012"><b>Example 7:</b></heading>
+<p id="p0147" num="0147">In a seventh example, the objective was to find a compromise for the weighting and the efficiency, similar to the sixth example, but now with the aim of a 100/50 weighting/efficiency compromise (F=2).</p>
+<p id="p0148" num="0148">The filter substances and their boundaries have been the same as in Examples 4-6. In addition to the unchanged constraints on the SPF and the UVAPF/SPF ratio the following property constraints have been imposed:
+<ul id="ul0011" list-style="none">
+<li>maximum weighting <i>w<sub>mαx</sub></i> ≤ 18.0;</li>
+<li>maximum total amount of filters <i>a<sub>max</sub></i> ≤ 25% (i. e. <i>E<sub>min</sub></i> ≥ 2.0).</li>
+</ul></p>
+<p id="p0149" num="0149">Again, the combinatorial method was not feasible due to the reasons mentioned. The results of the numerical optimization was as follows:
+<tables id="tabl0017" num="0017">
+<table frame="all">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="90mm"/>
+<colspec colnum="2" colname="col2" colwidth="23mm"/>
+<thead>
+<row>
+<entry align="center" valign="top"><b>INCI Name</b></entry>
+<entry align="center" valign="top"><b>optimal wt%</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Homomenthyl Salicylate</entry>
+<entry align="center">0.00</entry></row>
+<row>
+<entry>Butyl Methoxydibenzoylmethane</entry>
+<entry align="center">4.26</entry></row>
+<row>
+<entry>Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine</entry>
+<entry align="center">0.00</entry></row><!-- EPO <DP n="37"> -->
+<row>
+<entry>4-Methylbenzylidene Camphor</entry>
+<entry align="center">2.41</entry></row>
+<row>
+<entry>Ethylhexyl Salicylate</entry>
+<entry align="center">0.00</entry></row>
+<row>
+<entry>Octocrylene</entry>
+<entry align="center">8.38</entry></row>
+<row>
+<entry>Diethylamino Hydroxybenzoyl Hexyl Benzoate</entry>
+<entry align="center">0.00</entry></row>
+<row>
+<entry>Ethylhexyl Triazone</entry>
+<entry align="center">3.00</entry></row>
+<row>
+<entry>Titanium Dioxide</entry>
+<entry align="center">0.00</entry></row>
+<row>
+<entry>Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, active</entry>
+<entry align="center">4.04</entry></row></tbody></tgroup>
+</table>
+</tables>
+with the following properties:
+<tables id="tabl0018" num="0018">
+<table frame="all">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="35mm"/>
+<colspec colnum="2" colname="col2" colwidth="14mm"/>
+<tbody>
+<row>
+<entry>SPF</entry>
+<entry align="center">50.0</entry></row>
+<row>
+<entry>UVA/SPF ratio</entry>
+<entry align="center">0.39</entry></row>
+<row>
+<entry>Total amount, %</entry>
+<entry align="center">22.09</entry></row>
+<row>
+<entry><b>Efficiency</b></entry>
+<entry align="center"><b>2.26</b></entry></row>
+<row>
+<entry><b>Weighting</b></entry>
+<entry align="center"><b>15.09</b></entry></row>
+<row>
+<entry>Minimal Oil Load, %</entry>
+<entry align="center">32.0</entry></row>
+<row>
+<entry>CPU (2.9 GHz) time, s</entry>
+<entry align="center">1</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0150" num="0150">Again, the check of the results shows that the compromise reflects the desired relative weight of the two objectives (F=2): <maths id="math0027" num=""><math display="block"><mrow><mfrac><mrow><mi>w</mi><mo>−</mo><msub><mi>w</mi><mi mathvariant="italic">min</mi></msub></mrow><mrow><msub><mi>w</mi><mi mathvariant="italic">max</mi></msub><mo>−</mo><msub><mi>w</mi><mi mathvariant="italic">min</mi></msub></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>15.09</mn><mo>−</mo><mn>13.6</mn></mrow><mrow><mn>18.0</mn><mo>−</mo><mn>13.6</mn></mrow></mfrac><mo>=</mo><mn>0.34</mn><mo>≈</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mn>0.69</mn><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mfrac><mn>2.0</mn><mn>2.26</mn></mfrac><mfrac><mrow><mn>3.18</mn><mo>−</mo><mn>2.26</mn></mrow><mrow><mn>3.18</mn><mo>−</mo><mn>2.00</mn></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mi>F</mi></mfrac><mo>⋅</mo><mfrac><mrow><msub><mi>E</mi><mi mathvariant="italic">min</mi></msub></mrow><mi>E</mi></mfrac><mo>⋅</mo><mfrac><mrow><msub><mi>E</mi><mi mathvariant="italic">max</mi></msub><mo>−</mo><mi>E</mi></mrow><mrow><msub><mi>E</mi><mi mathvariant="italic">max</mi></msub><mo>−</mo><msub><mi>E</mi><mi mathvariant="italic">min</mi></msub></mrow></mfrac><mn>.</mn></mrow></math><img id="ib0027" file="imgb0027.tif" wi="129" he="9" img-content="math" img-format="tif"/></maths></p>
+<p id="p0151" num="0151">The invention is not restricted to the embodiments described above. In particular, the number and succession of method steps may be different and the user may be provided more or less options to interact with the process or to enter information. Some of the required information may be automatically provided, e. g. retrieved from a database. In contrast to the described embodiment, even the iterative process may be computer assisted or computer guided, i. e. successive optimizations with different input parameters and/or objectives may suggested to the user or automatically performed.</p>
+<p id="p0152" num="0152">For the numerical optimization other algorithms may be employed. One readily available method involves a Sequential Least SQuares Programming (SLSQP) algorithm, available e.<!-- EPO <DP n="38"> --> g. in the SciPy library mentioned above. It may also be possible to optimize using further methods, such as line search methods or penalty/augmented Lagrangian algorithms.</p>
+<p id="p0153" num="0153">In summary, it is to be noted that the invention creates a method that allows for the efficient determination of optimum sunscreen compositions.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="39"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A computer-based method for determining a sunscreen composition comprising a plurality of UV filter substances, comprising the steps of:
+<claim-text>a) selecting at least one constraint for at least one characteristic of the composition to be determined, the at least one constraint comprising a sunscreen performance target;</claim-text>
+<claim-text>b) selecting an optimization objective from a plurality of optimization objectives;</claim-text>
+<claim-text>c) automatically determining the sunscreen composition as a composition of filter substances from a set of filter substances, the composition meeting the at least one constraint and being optimized with respect to the selected optimization objective, the automatic determination comprising the steps of:
+<claim-text>- generating a plurality of candidate compositions,</claim-text>
+<claim-text>- determining a sunscreen performance of the candidate compositions using a performance simulation tool and</claim-text>
+<claim-text>- comparing the determined sunscreen performance of the candidate compositions with the sunscreen performance target.</claim-text></claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The method as recited in claim 1, <b>characterized in that</b> a user is requested to select the at least one constraint.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The method as recited in claim 1 or claim 2, <b>characterized in that</b> a user is requested to select the optimization objective.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The method as recited in claim 2 or 3, <b>characterized in that</b> a sequence including the steps a)-c) is repeated, wherein the user iteratively adjusts the at least one constraint and/or the optimization objective.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The method as recited in any of claims 1 to 4, <b>characterized in that</b> the user selects an actual set of filter substances to be considered from a basic set of filter substances.<!-- EPO <DP n="40"> --></claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The method as recited in claim 5, <b>characterized in that</b> the user provides a maximum amount of at least some of the selected filter substances.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The method as recited in claim 5 or 6, <b>characterized in that</b> the user provides a minimum amount of at least some of the selected filter substances.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>The method as recited in any of claims 1 to 7, comprising the step of selecting at least one further constraint for at least one characteristic of the composition to be determined.</claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>The method as recited in claim 8, <b>characterized in that</b> the at least one further constraint is a range or a boundary value relating to one of the following properties:
+<claim-text>a) total amount of filter substances;</claim-text>
+<claim-text>b) amount of one or more distinct filter substances;</claim-text>
+<claim-text>c) costs of the composition of filter substances;</claim-text>
+<claim-text>d) weighting of the filter or the composition of filter substances;</claim-text>
+<claim-text>e) eco-friendliness;</claim-text>
+<claim-text>f) amount of extra solvent;</claim-text>
+<claim-text>g) oil load.</claim-text></claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>The method as recited in any of claims 1 to 9, <b>characterized in that</b> the sunscreen performance target is chosen from one of the following:
+<claim-text>a) in vivo or in vitro Sun Protection Factor SPF;</claim-text>
+<claim-text>b) in vivo or in vitro UVA Protection Factor UVAPF;</claim-text>
+<claim-text>c) critical wavelength;</claim-text>
+<claim-text>d) ratio of UVA to UVB protection; and</claim-text>
+<claim-text>e) blue light protection.</claim-text></claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>The method as recited in any of claims 1 to 10, <b>characterized in that</b> the plurality of optimization objectives include at least two of the following:<!-- EPO <DP n="41"> -->
+<claim-text>a) cost efficiency;</claim-text>
+<claim-text>b) weighting;</claim-text>
+<claim-text>c) filtering efficiency;</claim-text>
+<claim-text>d) eco-friendliness;</claim-text>
+<claim-text>e) amount of extra solvent;</claim-text>
+<claim-text>f) minimal oil load;</claim-text>
+<claim-text>g) most homogenous protection;</claim-text>
+<claim-text>h) highest sun protection factor and/or UVA protection factor;</claim-text>
+<claim-text>i) highest blue light protection; and</claim-text>
+<claim-text>j) similarity to a provided composition of filter substances.</claim-text></claim-text></claim>
+<claim id="c-en-0012" num="0012">
+<claim-text>The method as recited in any of claims 1 to 11, <b>characterized in that</b> the automatic determination of the sunscreen composition comprises a numerical optimization of an objective function related to the selected optimization objective, the variables of the objective function including proportions of the filter substances of the sunscreen composition to be determined.</claim-text></claim>
+<claim id="c-en-0013" num="0013">
+<claim-text>The method as recited in claim 12, <b>characterized in that</b> the numerical optimization comprises an application of a sequential quadratic programming method, in particular of an interior-point method.</claim-text></claim>
+<claim id="c-en-0014" num="0014">
+<claim-text>The method as recited in any of claims 1 to 11, <b>characterized in that</b> for the automatic determination of the sunscreen composition a plurality of candidate compositions are automatically defined and the sunscreen performance of at least some of the plurality of candidate compositions is determined using the performance simulation tool.</claim-text></claim>
+<claim id="c-en-0015" num="0015">
+<claim-text>The method as recited in claim 14, <b>characterized in that</b> in a first substep a lowest total amount of filter substances is determined for a composition that achieves the sunscreen performance target and that in a subsequent second substep a constraint on a value of the total amount of filter substances of the candidate compositions is gradually increased, starting from the determined lowest total amount, until a stop criterion is met.<!-- EPO <DP n="42"> --></claim-text></claim>
+<claim id="c-en-0016" num="0016">
+<claim-text>The method as recited in claim 15, <b>characterized in that</b> the lowest total amount of filter substances is determined by gradually reducing a total amount of filter substances of candidate compositions tested for their sunscreen performance until the sunscreen performance target is not reachable and by subsequently gradually increase the total amount of filter substances until the performance target is met again, wherein an increment of the gradual increase is smaller than an increment of the gradual reduction.</claim-text></claim>
+<claim id="c-en-0017" num="0017">
+<claim-text>The method as recited in claim 15 or 16, <b>characterized in that</b> candidate compositions to be tested are sorted according to an efficiency of comprised filter substances in such a way that candidate compositions with a high expected efficiency are tested first and that a test sequence is stopped as soon as the sunscreen performance target is met by one of the candidate compositions.</claim-text></claim>
+<claim id="c-en-0018" num="0018">
+<claim-text>The method as recited in one of claims 14 to 17, <b>characterized by</b> the step of providing a list of best candidate compositions.</claim-text></claim>
+<claim id="c-en-0019" num="0019">
+<claim-text>The method as recited in any of claims 1 to 18, <b>characterized by</b> optimizing a compromise within a plurality of optimization objectives, comprising the steps of providing acceptable ranges for values relating to each of the objectives, providing relative importance factors between the objectives and minimizing one of the values using the relative importance factors in linear constraints for the minimization.</claim-text></claim>
+<claim id="c-en-0020" num="0020">
+<claim-text>The method as recited in any of claims 1 to 19, <b>characterized by</b> the step of automatically determining an optimum solvent composition for the determined sunscreen composition.</claim-text></claim>
+<claim id="c-en-0021" num="0021">
+<claim-text>The method as recited in claim 20, <b>characterized in that</b> the optimum solvent composition is determined from a minimization of extra solvents under a constraint that all filter substances of a respective sunscreen composition are dissolved.</claim-text></claim>
+<claim id="c-en-0022" num="0022">
+<claim-text>Computer program product comprising instructions which, when executed by a computer, cause the computer to carry out the method of any of claims 1 to 21.<!-- EPO <DP n="43"> --></claim-text></claim>
+<claim id="c-en-0023" num="0023">
+<claim-text>A method of preparing a sunscreen composition, <b>characterized in that</b> it comprises the step of determining the composition as a composition of UV filter substances according to any of claims 1 to 21 and the step of combining the UV filter substances.</claim-text></claim>
+</claims>
+<amended-claims id="aclaims" lang="en" amend-claim-type="EPC">
+<heading id="h0013">Amended claims in accordance with Rule 137(2) EPC.</heading>
+<claim id="ac-en-0001" num="0001">
+<claim-text>A computer-based method for determining a sunscreen composition comprising a plurality of UV filter substances, comprising the steps of:
+<claim-text>a) selecting at least one constraint for at least one characteristic of the composition to be determined, the at least one constraint comprising a sunscreen performance target, the sunscreen performance target being chosen from one of the following:
+<claim-text>- in vivo or in vitro Sun Protection Factor SPF;</claim-text>
+<claim-text>- in vivo or in vitro UVA Protection Factor UVAPF;</claim-text>
+<claim-text>- critical wavelength;</claim-text>
+<claim-text>- ratio of UVA to UVB protection; and</claim-text>
+<claim-text>- blue light protection;</claim-text></claim-text>
+<claim-text>b) selecting an optimization objective from a plurality of optimization objectives;</claim-text>
+<claim-text>c) automatically determining the sunscreen composition as a composition of filter substances from a set of filter substances, the sunscreen composition meeting the at least one constraint and being optimized with respect to the selected optimization objective, the automatic determination comprising the steps of:
+<claim-text>- generating a plurality of candidate compositions,</claim-text>
+<claim-text>- determining a sunscreen performance of the candidate compositions using a performance simulation tool and</claim-text>
+<claim-text>- comparing the determined sunscreen performance of the candidate compositions with the sunscreen performance target.</claim-text></claim-text></claim-text></claim>
+<claim id="ac-en-0002" num="0002">
+<claim-text>The method as recited in claim 1, <b>characterized in that</b> a user is requested to select the at least one constraint.</claim-text></claim>
+<claim id="ac-en-0003" num="0003">
+<claim-text>The method as recited in claim 1 or claim 2, <b>characterized in that</b> a user is requested to select the optimization objective.</claim-text></claim>
+<claim id="ac-en-0004" num="0004">
+<claim-text>The method as recited in claim 2 or 3, <b>characterized in that</b> a sequence including the steps a)-c) is repeated, wherein the user iteratively adjusts the at least one constraint and/or the optimization objective.</claim-text></claim>
+<claim id="ac-en-0005" num="0005">
+<claim-text>The method as recited in any of claims 1 to 4, <b>characterized in that</b> the user selects an actual set of filter substances to be considered from a basic set of filter substances.</claim-text></claim>
+<claim id="ac-en-0006" num="0006">
+<claim-text>The method as recited in claim 5, <b>characterized in that</b> the user provides a maximum amount of at least some of the selected filter substances.</claim-text></claim>
+<claim id="ac-en-0007" num="0007">
+<claim-text>The method as recited in claim 5 or 6, <b>characterized in that</b> the user provides a minimum amount of at least some of the selected filter substances.</claim-text></claim>
+<claim id="ac-en-0008" num="0008">
+<claim-text>The method as recited in any of claims 1 to 7, comprising the step of selecting at least one further constraint for at least one characteristic of the composition to be determined.</claim-text></claim>
+<claim id="ac-en-0009" num="0009">
+<claim-text>The method as recited in any of claims 1 to 8, <b>characterized in that</b> the plurality of optimization objectives include at least two of the following:
+<claim-text>a) cost efficiency;</claim-text>
+<claim-text>b) weighting;</claim-text>
+<claim-text>c) filtering efficiency;</claim-text>
+<claim-text>d) eco-friendliness;</claim-text>
+<claim-text>e) amount of extra solvent;</claim-text>
+<claim-text>f) minimal oil load;</claim-text>
+<claim-text>g) most homogenous protection;</claim-text>
+<claim-text>h) highest sun protection factor and/or UVA protection factor;</claim-text>
+<claim-text>i) highest blue light protection; and</claim-text>
+<claim-text>j) similarity to a provided composition of filter substances.</claim-text></claim-text></claim>
+<claim id="ac-en-0010" num="0010">
+<claim-text>The method as recited in any of claims 1 to 9, <b>characterized in that</b> the automatic determination of the sunscreen composition comprises a numerical optimization of an objective function related to the selected optimization objective, the variables of the objective function including proportions of the filter substances of the sunscreen composition to be determined.</claim-text></claim>
+<claim id="ac-en-0011" num="0011">
+<claim-text>The method as recited in claim 10, <b>characterized in that</b> the numerical optimization comprises an application of a sequential quadratic programming method, in particular of an interior-point method.</claim-text></claim>
+<claim id="ac-en-0012" num="0012">
+<claim-text>The method as recited in any of claims 1 to 9, <b>characterized in that</b> for the automatic determination of the sunscreen composition a plurality of candidate compositions are automatically defined and the sunscreen performance of at least some of the plurality of candidate compositions is determined using the performance simulation tool.</claim-text></claim>
+<claim id="ac-en-0013" num="0013">
+<claim-text>The method as recited in claim 12, <b>characterized in that</b> in a first substep a lowest total amount of filter substances is determined for a composition that achieves the sunscreen performance target and that in a subsequent second substep a constraint on a value of the total amount of filter substances of the candidate compositions is gradually increased, starting from the determined lowest total amount, until a stop criterion is met.</claim-text></claim>
+<claim id="ac-en-0014" num="0014">
+<claim-text>The method as recited in claim 13, <b>characterized in that</b> the lowest total amount of filter substances is determined by gradually reducing a total amount of filter substances of candidate compositions tested for their sunscreen performance until the sunscreen performance target is not reachable and by subsequently gradually increase the total amount of filter substances until the performance target is met again, wherein an increment of the gradual increase is smaller than an increment of the gradual reduction.</claim-text></claim>
+<claim id="ac-en-0015" num="0015">
+<claim-text>The method as recited in claim 13 or 14, <b>characterized in that</b> candidate compositions to be tested are sorted according to an efficiency of comprised filter substances in such a way that candidate compositions with a high expected efficiency are tested first and that a test sequence is stopped as soon as the sunscreen performance target is met by one of the candidate compositions.</claim-text></claim>
+<claim id="ac-en-0016" num="0016">
+<claim-text>The method as recited in one of claims 12 to 15, <b>characterized by</b> the step of providing a list of best candidate compositions.</claim-text></claim>
+<claim id="ac-en-0017" num="0017">
+<claim-text>The method as recited in any of claims 1 to 16, <b>characterized by</b> optimizing a compromise within a plurality of optimization objectives, comprising the steps of providing acceptable ranges for values relating to each of the objectives, providing relative importance factors between the objectives and minimizing one of the values using the relative importance factors in linear constraints for the minimization.</claim-text></claim>
+<claim id="ac-en-0018" num="0018">
+<claim-text>The method as recited in any of claims 1 to 17, <b>characterized by</b> the step of automatically determining an optimum solvent composition for the determined sunscreen composition.</claim-text></claim>
+<claim id="ac-en-0019" num="0019">
+<claim-text>The method as recited in claim 18, <b>characterized in that</b> the optimum solvent composition is determined from a minimization of extra solvents under a constraint that all filter substances of a respective sunscreen composition are dissolved.</claim-text></claim>
+<claim id="ac-en-0020" num="0020">
+<claim-text>Computer program product comprising instructions which, when executed by a computer, cause the computer to carry out the method of any of claims 1 to 19.</claim-text></claim>
+<claim id="ac-en-0021" num="0021">
+<claim-text>A method of preparing a sunscreen composition, <b>characterized in that</b> it comprises the step of determining the composition as a composition of UV filter substances according to any of claims 1 to 19 and the step of combining the UV filter substances.</claim-text></claim></amended-claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="44"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="93" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="45"> -->
+<figure id="f0002" num="2"><img id="if0002" file="imgf0002.tif" wi="141" he="233" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="157" he="233" type="tif"/></search-report-data><search-report-data date-produced="20200902" id="srepxml" lang="en" srep-office="EP" srep-type="ep-sr" status="n"><!--
+ The search report data in XML is provided for the users' convenience only. It might differ from the search report of the PDF document, which contains the officially published data. The EPO disclaims any liability for incorrect or incomplete data in the XML for search reports.
+ -->
+
+<srep-info><file-reference-id>26547</file-reference-id><application-reference><document-id><country>EP</country><doc-number>20166726.8</doc-number></document-id></application-reference><applicant-name><name>DSM Nutritional Products AG</name></applicant-name><srep-established srep-established="yes"/><srep-invention-title title-approval="yes"/><srep-abstract abs-approval="yes"/><srep-figure-to-publish figinfo="by-applicant"><figure-to-publish><fig-number>1</fig-number></figure-to-publish></srep-figure-to-publish><srep-info-admin><srep-office><addressbook><text>MN</text></addressbook></srep-office><date-search-report-mailed><date>20200911</date></date-search-report-mailed></srep-info-admin></srep-info><srep-for-pub><srep-fields-searched><minimum-documentation><classifications-ipcr><classification-ipcr><text>G16C</text></classification-ipcr><classification-ipcr><text>G06F</text></classification-ipcr><classification-ipcr><text>A61Q</text></classification-ipcr></classifications-ipcr></minimum-documentation></srep-fields-searched><srep-citations><citation id="sr-cit0001"><nplcit id="sr-ncit0001" npl-type="s"><article><author><name>DIETER KOCKOTT ET AL</name></author><atl>New Approach to Develop Optimized Sunscreens that Enable Cutaneous Vitamin D Formation with Minimal Erythema Risk</atl><serial><sertitle>PLOS ONE</sertitle><pubdate>20160129</pubdate><vid>11</vid><ino>1</ino><doi>10.1371/journal.pone.0145509</doi></serial><location><pp>page e0145509</pp></location><refno>XP055726706</refno></article></nplcit><category>A</category><rel-claims>1-23</rel-claims><rel-passage><passage>* Abstract;tables 1,2,3 *</passage></rel-passage></citation><citation id="sr-cit0002"><nplcit id="sr-ncit0002" npl-type="s"><article><author><name>GRUJICIC M ET AL</name></author><atl>Application of the Materials-by-Design Methodology to Redesign a New Grade of the High-Strength Low-Alloy Class of Steels with Improved Mechanical Properties and Processability</atl><serial><sertitle>JOURNAL OF MATERIALS ENGINEERING AND PERFORMANCE, ASM INTERNATIONAL, MATERIALS PARK, OH, US</sertitle><pubdate>20151208</pubdate><vid>25</vid><ino>1</ino><doi>10.1007/S11665-015-1812-7</doi><issn>1059-9495</issn></serial><location><pp><ppf>165</ppf><ppl>178</ppl></pp></location><refno>XP035770053</refno></article></nplcit><category>A</category><rel-claims>1-23</rel-claims><rel-passage><passage>* Abstract; Chapter "3. Material-by-design Optimization Methodology"; Chapter "3.1.2 Material Constituent/Subsystem Level" *</passage></rel-passage></citation><citation id="sr-cit0003"><nplcit id="sr-ncit0003" npl-type="s"><article><author><name>BERND HERZOG ET AL</name></author><atl>Abstract</atl><serial><sertitle>PURE &amp; APPLIED CHEMISTRY</sertitle><imprint><text>GB</text></imprint><pubdate>20151001</pubdate><vid>87</vid><ino>9-10</ino><doi>10.1515/pac-2015-0401</doi><issn>0033-4545</issn></serial><location><pp><ppf>937</ppf><ppl>951</ppl></pp></location><refno>XP055726701</refno></article></nplcit><category>A</category><rel-claims>1-23</rel-claims><rel-passage><passage>* the whole document *</passage></rel-passage></citation></srep-citations><srep-admin><examiners><primary-examiner><name>Schmidt, Karsten</name></primary-examiner></examiners><srep-office><addressbook><text>Munich</text></addressbook></srep-office><date-search-completed><date>20200902</date></date-search-completed></srep-admin></srep-for-pub></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="US7096084B2"><document-id><country>US</country><doc-number>7096084</doc-number><kind>B2</kind></document-id></patcit><crossref idref="pcit0001">[0025]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="US9595012B2"><document-id><country>US</country><doc-number>9595012</doc-number><kind>B2</kind></document-id></patcit><crossref idref="pcit0002">[0025]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="WO2019207129A1"><document-id><country>WO</country><doc-number>2019207129</doc-number><kind>A1</kind></document-id></patcit><crossref idref="pcit0003">[0025]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="s"><article><author><name>B. HERZOG</name></author><author><name>U. OSTERWALDER</name></author><atl>Simulation of sunscreen performance</atl><serial><sertitle>Pure Appl. Chem.</sertitle><pubdate><sdate>20150000</sdate><edate/></pubdate><vid>87</vid><ino>9-10</ino></serial><location><pp><ppf>937</ppf><ppl>951</ppl></pp></location></article></nplcit><crossref idref="ncit0001">[0002]</crossref><crossref idref="ncit0002">[0005]</crossref></li>
+<li><nplcit id="ref-ncit0002" npl-type="s"><article><author><name>B. HERZOG</name></author><author><name>J. GIESINGER</name></author><author><name>M. SCHNYDER</name></author><atl>Solubility of UV Absorbers for Sunscreens is Essential for the Creation of Light Feel Formulations</atl><serial><sertitle>SOFW Journal</sertitle><pubdate><sdate>20130700</sdate><edate/></pubdate><vid>139</vid></serial><location><pp><ppf>7</ppf><ppl>14</ppl></pp></location></article></nplcit><crossref idref="ncit0003">[0066]</crossref><crossref idref="ncit0005">[0104]</crossref></li>
+<li><nplcit id="ref-ncit0003" npl-type="s"><article><author><name>LALEE, MARUCHA</name></author><author><name>JORGE NOCEDAL</name></author><author><name>TODD PLANTEGA</name></author><atl>On the implementation of an algorithm for large-scale equality constrained optimization</atl><serial><sertitle>SIAM Journal on Optimization</sertitle><pubdate><sdate>19980000</sdate><edate/></pubdate><vid>8.3</vid></serial><location><pp><ppf>682</ppf><ppl>706</ppl></pp></location></article></nplcit><crossref idref="ncit0004">[0094]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

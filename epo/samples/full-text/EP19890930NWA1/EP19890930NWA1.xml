@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19890930A1" file="EP19890930NWA1.xml" lang="en" country="EP" doc-number="3889236" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3889236</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19890930.1</B210><B220><date>20191128</date></B220><B240><B241><date>20210623</date></B241></B240><B250>ko</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>20180151781</B310><B320><date>20181130</date></B320><B330><ctry>KR</ctry></B330><B310>20190154524</B310><B320><date>20191127</date></B320><B330><ctry>KR</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>C09K  11/06        20060101AFI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C07F   5/02        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>H01L  51/00        20060101ALI20200605BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>H01L  51/00        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>C07F   5/02        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="3"><text>C09K  11/06        20130101 LI20200626BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>ORGANISCHES LICHTEMITTIERENDES ELEMENT MIT POLYCYCLISCHER AROMATISCHER DERIVATVERBINDUNG</B542><B541>en</B541><B542>ORGANIC LIGHT-EMITTING ELEMENT USING POLYCYCLIC AROMATIC DERIVATIVE COMPOUND</B542><B541>fr</B541><B542>ÉLÉMENT ÉLECTROLUMINESCENT ORGANIQUE UTILISANT UN COMPOSÉ DÉRIVÉ AROMATIQUE POLYCYCLIQUE</B542></B540></B500><B700><B710><B711><snm>SFC Co., Ltd.</snm><iid>101627216</iid><irf>211718 PEP</irf><adr><str>89, Gwahaksaneoup 5-ro 
+Ochang-eup 
+Cheongwon-gu</str><city>Cheongju-si, Chungcheongbuk-do 28122</city><ctry>KR</ctry></adr></B711><B711><snm>Hodogaya Chemical Co., Ltd.</snm><iid>101591716</iid><irf>211718 PEP</irf><adr><str>2-4-1, Yaesu 
+Chuo-ku</str><city>Tokyo 104-0028</city><ctry>JP</ctry></adr></B711></B710><B720><B721><snm>JOO, Sung-hoon</snm><adr><str>89, Gwahaksaneop 5-ro, Ochang-eup, Cheongwon-gu</str><city>Cheongju-si Chungcheongbuk-do 28122</city><ctry>KR</ctry></adr></B721><B721><snm>YANG, Byung-sun</snm><adr><str>89, Gwahaksaneop 5-ro, Ochang-eup, Cheongwon-gu</str><city>Cheongju-si Chungcheongbuk-do 28122</city><ctry>KR</ctry></adr></B721><B721><snm>KIM, Su-jin</snm><adr><str>89, Gwahaksaneop 5-ro, Ochang-eup, Cheongwon-gu</str><city>Cheongju-si Chungcheongbuk-do 28122</city><ctry>KR</ctry></adr></B721><B721><snm>KIM, Ji-hwan</snm><adr><str>89, Gwahaksaneop 5-ro, Ochang-eup, Cheongwon-gu</str><city>Cheongju-si Chungcheongbuk-do 28122</city><ctry>KR</ctry></adr></B721><B721><snm>JO, Hyeon-jun</snm><adr><str>89, Gwahaksaneop 5-ro, Ochang-eup, Cheongwon-gu</str><city>Cheongju-si Chungcheongbuk-do 28122</city><ctry>KR</ctry></adr></B721><B721><snm>CHOI, Sung-eun</snm><adr><str>89, Gwahaksaneop 5-ro, Ochang-eup, Cheongwon-gu</str><city>Cheongju-si Chungcheongbuk-do 28122</city><ctry>KR</ctry></adr></B721><B721><snm>SHIN, Bong-ki</snm><adr><str>89, Gwahaksaneop 5-ro, Ochang-eup, Cheongwon-gu</str><city>Cheongju-si Chungcheongbuk-do 28122</city><ctry>KR</ctry></adr></B721><B721><snm>PARK, Young-hwan</snm><adr><str>89, Gwahaksaneop 5-ro, Ochang-eup, Cheongwon-gu</str><city>Cheongju-si Chungcheongbuk-do 28122</city><ctry>KR</ctry></adr></B721><B721><snm>HAYASHI, Shuichi</snm><adr><str>HODOGAYA CHEMICAL CO., LTD., 2-4-1, Yaesu Chuo-ku</str><city>Tokyo 104--0028</city><ctry>JP</ctry></adr></B721><B721><snm>YAMAMOTO, Takeshi</snm><adr><str>Hodogaya Chemical Co., LTD., 2-4-1, Yaesu Chuo-ku</str><city>Tokyo 104--0028</city><ctry>JP</ctry></adr></B721><B721><snm>MOCHIZUKI, Shunji</snm><adr><str>Hodogaya Chemical Co., LTD., 2-4-1, Yaesu Chuo-ku</str><city>Tokyo 104--0028</city><ctry>JP</ctry></adr></B721><B721><snm>HIRAYAMA, Yuta</snm><adr><str>Hodogaya Chemical Co., LTD., 2-4-1, Yaesu Chuo-ku</str><city>Tokyo 104--0028</city><ctry>JP</ctry></adr></B721></B720><B740><B741><snm>Grosse, Felix Christopher</snm><iid>101069401</iid><adr><str>Grosse - Schumacher - Knauer - von Hirschhausen 
+Patent- und Rechtsanwälte 
+Nymphenburger Straße 14</str><city>80335 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>KR2019016612</anum></dnum><date>20191128</date></B861><B862>ko</B862></B860><B870><B871><dnum><pnum>WO2020111830</pnum></dnum><date>20200604</date><bnum>202023</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">An organic light-emitting element according to the present invention employs a polycyclic aromatic derivative compound in a light-emitting layer inside the element, and further comprises a capping layer. Thus, the organic light-emitting element can be made highly efficient and can be useful for a device selected from among a flat panel display device, a flexible display device, a monochrome or white flat panel lighting device, and a monochrome or white flexible lighting device.</p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<p id="p0001" num="0001">The present invention relates to highly efficient organic electroluminescent devices with greatly improved luminous efficiency using polycyclic aromatic compounds.</p>
+<p id="p0002" num="0002">Organic electroluminescent devices are self-luminous devices in which electrons injected from an electron injecting electrode (cathode) recombine with holes injected from a hole injecting electrode (anode) in a light emitting layer to form excitons, which emit light while releasing energy. Such organic electroluminescent devices have the advantages of low driving voltage, high luminance, large viewing angle, and short response time and can be applied to full-color light emitting flat panel displays. Due to these advantages, organic electroluminescent devices have received attention as next-generation light sources.</p>
+<p id="p0003" num="0003">The above characteristics of organic electroluminescent devices are achieved by structural optimization of organic layers of the devices and are supported by stable and efficient materials for the organic layers, such as hole injecting materials, hole transport materials, light emitting materials, electron transport materials, electron injecting materials, and electron blocking materials. However, more research still needs to be done to develop structurally optimized structures of organic layers for organic electroluminescent devices and stable and efficient materials for organic layers of organic electroluminescent devices.</p>
+<p id="p0004" num="0004">There has been much research aimed at improving the characteristics of organic electroluminescent devices by changes in the performance of organic layer materials. In addition, a technique for improving the color purity and enhancing the luminous efficiency of a device by optimizing the optical thickness of layers between an anode and a cathode is considered as a crucial factor for improving the device performance. For example, the formation of a capping layer on an electrode achieves increased<!-- EPO <DP n="2"> --> luminous efficiency and high color purity.</p>
+<p id="p0005" num="0005">Thus, there is a continued need to develop structures of organic electroluminescent devices optimized to improve their luminescent properties and new materials capable of supporting the optimized structures of organic electroluminescent devices.</p>
+<p id="p0006" num="0006">Therefore, the present invention intends to provide a highly efficient organic electroluminescent device using at least one polycyclic aromatic compound and including a capping layer.</p>
+<p id="p0007" num="0007">An organic electroluminescent device according to one aspect of the present invention has the following features:
+<ol id="ol0001" ol-style="">
+<li>(1) the organic electroluminescent device includes a first electrode, a second electrode opposite to the first electrode, and a light emitting layer interposed between the first and second electrodes;</li>
+<li>(2) the organic electroluminescent device includes a capping layer formed on one of the surfaces of the first and second electrodes opposite to the light emitting layer;</li>
+<li>(3) the light emitting layer includes a compound represented by Formula A-1 and/or A-2:
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="90" he="42" img-content="chem" img-format="tif"/></chemistry>
+and</li>
+<li>(4) the capping layer includes a compound represented by Formula B:</li>
+</ol><!-- EPO <DP n="3"> -->
+<chemistry id="chem0002" num="0002"><img id="ib0002" file="imgb0002.tif" wi="93" he="42" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0008" num="0008">A description will be given concerning the structures of the compounds of Formula A-1, Formula A-2, and Formula B, the definitions of substituents in the compounds of Formula A-1, Formula A-2, and Formula B, specific examples of compounds that can be represented by Formula A-1, Formula A-2, and Formula B, and the organic electroluminescent device including the compound of Formula A-1 and/or A-2 and the compound of Formula B.</p>
+<p id="p0009" num="0009">The formation of the light emitting layer employing the polycyclic aromatic compound and the optional capping layer makes the organic electroluminescent device of the present invention highly efficient.</p>
+<p id="p0010" num="0010">The present invention will now be described in more detail.</p>
+<p id="p0011" num="0011">An organic electroluminescent device of the present invention includes a first electrode, a second electrode opposite to the first electrode, a light emitting layer interposed between the first and second electrodes, and a capping layer formed on one of the surfaces of the first and second electrodes opposite to the light emitting layer.</p>
+<p id="p0012" num="0012">In the present invention, the light emitting layer includes a compound represented by Formula A-1:
+<chemistry id="chem0003" num="0003"><img id="ib0003" file="imgb0003.tif" wi="40" he="37" img-content="chem" img-format="tif"/></chemistry>
+wherein Q<sub>1</sub> to Q<sub>3</sub> are identical to or different from each other and are each independently a substituted<!-- EPO <DP n="4"> --> or unsubstituted C<sub>6</sub>-C<sub>50</sub> aromatic hydrocarbon ring or a substituted or unsubstituted C<sub>2</sub>-C<sub>50</sub> heteroaromatic ring, the linkers Y are identical to or different from each other and are each independently selected from N-R<sub>1</sub>, CR<sub>2</sub>R<sub>3</sub>, O, S, Se, and SiR<sub>4</sub>R<sub>5</sub>, X is selected from B, P, P=S, and P=O, and R<sub>1</sub> to R<sub>5</sub> are identical to or different from each other and are each independently selected from hydrogen, deuterium, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkyl, substituted or unsubstituted C<sub>6</sub>-C<sub>50</sub> aryl, substituted or unsubstituted C<sub>3</sub>-C<sub>30</sub> cycloalkyl, substituted or unsubstituted C<sub>2</sub>-C<sub>50</sub> heteroaryl, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkoxy, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> aryloxy, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylthioxy, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> arylthioxy, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylamine, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> arylamine, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylsilyl, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> arylsilyl, nitro, cyano, and halogen, with the proviso that each of R<sub>1</sub> to R<sub>5</sub> is optionally bonded to Q<sub>1</sub>, Q<sub>2</sub> or Q<sub>3</sub> to form an alicyclic or aromatic monocyclic or polycyclic ring, R<sub>2</sub> and R<sub>3</sub> are optionally linked to each other to form an alicyclic or aromatic monocyclic or polycyclic ring, and R<sub>3</sub> and R<sub>4</sub> are optionally linked to each other to form an alicyclic or aromatic monocyclic or polycyclic ring, and/or a compound represented by Formula A-2:
+<chemistry id="chem0004" num="0004"><img id="ib0004" file="imgb0004.tif" wi="32" he="42" img-content="chem" img-format="tif"/></chemistry>
+wherein Q<sub>1</sub>, Q<sub>2</sub>, Q<sub>3</sub>, X, and Y are as defined in Formula A-1.</p>
+<p id="p0013" num="0013">In the present invention, the capping layer includes a compound represented by Formula B:
+<chemistry id="chem0005" num="0005"><img id="ib0005" file="imgb0005.tif" wi="94" he="41" img-content="chem" img-format="tif"/></chemistry>
+wherein R<sub>41</sub> to R<sub>43</sub> are identical to or different from each other and are each independently selected<!-- EPO <DP n="5"> --> from hydrogen, deuterium, substituted or unsubstituted C<sub>1</sub>-C<sub>20</sub> alkyl, substituted or unsubstituted C<sub>6</sub>-C<sub>50</sub> aryl, substituted or unsubstituted C<sub>7</sub>-C<sub>50</sub> arylalkyl, substituted or unsubstituted C<sub>3</sub>-C<sub>30</sub> cycloalkyl, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylsilyl, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> arylsilyl, and halogen, L<sub>31</sub> to L<sub>34</sub> are identical to or different from each other and are each independently single bonds or selected from substituted or unsubstituted C<sub>6</sub>-C<sub>50</sub> arylene and substituted or unsubstituted C<sub>2</sub>-C<sub>50</sub> heteroarylene, Ar<sub>31</sub> to Ar<sub>34</sub> are identical to or different from each other and are each independently selected from substituted or unsubstituted C<sub>6</sub>-C<sub>50</sub> aryl and substituted or unsubstituted C<sub>2</sub>-C<sub>50</sub> heteroaryl, n is an integer from 0 to 4, provided that when n is 2 or greater, the aromatic rings containing R<sub>43</sub> are identical to or different from each other, m<sub>1</sub> to m<sub>3</sub> are integers from 0 to 4, provided that when both m<sub>1</sub> and m<sub>3</sub> are 2 or more, the R<sub>41</sub>, R<sub>42</sub>, and R<sub>43</sub> groups are identical to or different from each other, and hydrogen or deuterium atoms are bonded to the carbon atoms of the aromatic rings to which R<sub>41</sub> to R<sub>43</sub> are not attached.</p>
+<p id="p0014" num="0014">According to one embodiment of the present invention, the compound of Formula A-1 or A-2 may have a polycyclic aromatic skeletal structure represented by Formula A-3, A-4, A-5 or A-6:
+<chemistry id="chem0006" num="0006"><img id="ib0006" file="imgb0006.tif" wi="37" he="37" img-content="chem" img-format="tif"/></chemistry>
+wherein each Z is independently CR or N, the substituents R are identical to or different from each other and are independently selected from hydrogen, deuterium, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkyl, substituted or unsubstituted C<sub>6</sub>-C<sub>50</sub> aryl, substituted or unsubstituted C<sub>3</sub>-C<sub>30</sub> cycloalkyl, substituted or unsubstituted C<sub>2</sub>-C<sub>50</sub> heteroaryl, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkoxy, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> aryloxy, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylthioxy, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> arylthioxy, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylamine, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> arylamine, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylsilyl, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> arylsilyl, nitro, cyano, and halogen, with the proviso that the substituents R are optionally bonded to each other or are optionally linked to other adjacent substituents to form alicyclic or aromatic monocyclic or polycyclic rings whose carbon atoms are optionally substituted with one or more heteroatoms selected<!-- EPO <DP n="6"> --> from N, S, and O atoms, and X and Y are as defined in Formulae A-1 and A-2,
+<chemistry id="chem0007" num="0007"><img id="ib0007" file="imgb0007.tif" wi="30" he="44" img-content="chem" img-format="tif"/></chemistry>
+wherein X, Y, and Z are as defined in Formula A-3,
+<chemistry id="chem0008" num="0008"><img id="ib0008" file="imgb0008.tif" wi="47" he="37" img-content="chem" img-format="tif"/></chemistry>
+wherein X, Y, and Z are as defined in Formula A-3,
+<chemistry id="chem0009" num="0009"><img id="ib0009" file="imgb0009.tif" wi="30" he="44" img-content="chem" img-format="tif"/></chemistry>
+wherein X, Y, and Z are as defined in Formula A-3.</p>
+<p id="p0015" num="0015">The use of the skeletal structure meets desired requirements of the light emitting layer of the organic electroluminescent device, achieving high efficiency of the device.</p>
+<p id="p0016" num="0016">According to one embodiment of the present invention, at least one of Ar<sub>31</sub> to Ar<sub>34</sub> in Formula B is represented by Formula C:
+<chemistry id="chem0010" num="0010"><img id="ib0010" file="imgb0010.tif" wi="21" he="5" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="7"> -->
+<chemistry id="chem0011" num="0011"><img id="ib0011" file="imgb0011.tif" wi="44" he="28" img-content="chem" img-format="tif"/></chemistry>
+wherein R<sub>51</sub> to R<sub>54</sub> are identical to or different from each other and are each independently selected from hydrogen, deuterium, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkyl, substituted or unsubstituted C<sub>6</sub>-C<sub>50</sub> aryl, substituted or unsubstituted C<sub>2</sub>-C<sub>30</sub> alkenyl, substituted or unsubstituted C<sub>2</sub>-C<sub>20</sub> alkynyl, substituted or unsubstituted C<sub>3</sub>-C<sub>30</sub> cycloalkyl, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> cycloalkenyl, substituted or unsubstituted C<sub>2</sub>-C<sub>50</sub> heteroaryl, substituted or unsubstituted C<sub>2</sub>-C<sub>30</sub> heterocycloalkyl, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkoxy, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> aryloxy, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylthioxy, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> arylthioxy, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylamine, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> arylamine, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylsilyl, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> arylsilyl, nitro, cyano, and halogen, which are optionally linked to each other to form a ring, Y is a carbon or nitrogen atom, Z is a carbon, oxygen, sulfur or nitrogen atom, Ar<sub>35</sub> to Ar<sub>37</sub> are identical to or different from each other and are each independently selected from substituted or unsubstituted C<sub>5</sub>-C<sub>50</sub> aryl and substituted or unsubstituted C<sub>3</sub>-C<sub>50</sub> heteroaryl, provided that when Z is an oxygen or sulfur atom, Ar<sub>37</sub> is nothing, provided that when Y and Z are nitrogen atoms, only one of Ar<sub>35</sub>, Ar<sub>36</sub>, and Ar<sub>37</sub> is present, provided that when Y is a nitrogen atom and Z is a carbon atom, Ar<sub>36</sub> is nothing, with the proviso that one of R<sub>51</sub> to R<sub>54</sub> and Ar<sub>35</sub> to Ar<sub>37</sub> is a single bond linked to one of the linkers L<sub>31</sub> to L<sub>34</sub> in Formula B.</p>
+<p id="p0017" num="0017">As used herein, the term "substituted" in the definition of the substituents in the compounds of Formulae A-1, A-2, and B and various substituents in various compounds described below indicates substitution with one or more substituents selected from the group consisting of deuterium, cyano, halogen, hydroxyl, nitro, C<sub>1</sub>-C<sub>24</sub> alkyl, C<sub>3</sub>-C<sub>24</sub> cycloalkyl, C<sub>1</sub>-C<sub>24</sub> haloalkyl, C<sub>1</sub>-C<sub>24</sub> alkenyl, C<sub>1</sub>-C<sub>24</sub> alkynyl, C<sub>1</sub>-C<sub>24</sub> heteroalkyl, C<sub>1</sub>-C<sub>24</sub> heterocycloalkyl, C<sub>6</sub>-C<sub>24</sub> aryl, C<sub>6</sub>-C<sub>24</sub> arylalkyl, C<sub>2</sub>-C<sub>24</sub> heteroaryl, C<sub>2</sub>-C<sub>24</sub> heteroarylalkyl, C<sub>1</sub>-C<sub>24</sub> alkoxy, C<sub>1</sub>-C<sub>24</sub> alkylamino, C<sub>1</sub>-C<sub>24</sub> arylamino, C<sub>1</sub>-C<sub>24</sub> heteroarylamino, C<sub>1</sub>-C<sub>24</sub> alkylsilyl, C<sub>1</sub>-C<sub>24</sub> arylsilyl, and C<sub>1</sub>-C<sub>24</sub> aryloxy, or a combination thereof. The term "unsubstituted" in the same definition indicates having no substituent.<!-- EPO <DP n="8"> --></p>
+<p id="p0018" num="0018">In the "substituted or unsubstituted C<sub>1</sub>-C<sub>10</sub> alkyl", "substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> aryl", etc., the number of carbon atoms in the alkyl or aryl group indicates the number of carbon atoms constituting the unsubstituted alkyl or aryl moiety without considering the number of carbon atoms in the substituent(s). For example, a phenyl group substituted with a butyl group at the para-position corresponds to a C<sub>6</sub> aryl group substituted with a C<sub>4</sub> butyl group.</p>
+<p id="p0019" num="0019">As used herein, the expression "form a ring with an adjacent substituent" means that the corresponding substituent combines with an adjacent substituent to form a substituted or unsubstituted alicyclic or aromatic ring and the term "adjacent substituent" may mean a substituent on an atom directly attached to an atom substituted with the corresponding substituent, a substituent disposed sterically closest to the corresponding substituent or another substituent on an atom substituted with the corresponding substituent. For example, two substituents substituted at the ortho position of a benzene ring or two substituents on the same carbon in an aliphatic ring may be considered "adjacent" to each other.</p>
+<p id="p0020" num="0020">In the present invention, the alkyl groups may be straight or branched. The number of carbon atoms in the alkyl groups is not particularly limited but is preferably from 1 to 20. Specific examples of the alkyl groups include, but are not limited to, methyl, ethyl, propyl, n-propyl, isopropyl, butyl, n-butyl, isobutyl, tert-butyl, sec-butyl, 1-methylbutyl, 1-ethylbutyl, pentyl, n-pentyl, isopentyl, neopentyl, tert-pentyl, hexyl, n-hexyl, 1-methylpentyl, 2-methylpentyl, 4-methyl-2-pentyl, 3,3-dimethylbutyl, 2-ethylbutyl, heptyl, n-heptyl, 1-methylhexyl, cyclopentylmethyl, cyclohexylmethyl, octyl, n-octyl, tert-octyl, 1-methylheptyl, 2-ethylhexyl, 2-propylpentyl, n-nonyl, 2,2-dimethylheptyl, 1-ethylpropyl, 1,1-dimethylpropyl, isohexyl, 4-methylhexyl, and 5-methylhexyl groups.</p>
+<p id="p0021" num="0021">The alkenyl group is intended to include straight and branched ones and may be optionally substituted with one or more other substituents. The alkenyl group may be specifically a vinyl, 1-propenyl, isopropenyl, 1-butenyl, 2-butenyl, 3-butenyl, 1-pentenyl, 2-pentenyl, 3-pentenyl, 3-methyl-1-butenyl, 1,3-butadienyl, allyl, 1-phenylvinyl-1-yl, 2-phenylvinyl-1-yl, 2,2-diphenylvinyl-1-yl, 2-phenyl-2-(naphthyl-1-yl)vinyl-1-yl, 2,2-bis(diphenyl-1-yl)vinyl-1-yl, stilbenyl or styrenyl group but is not limited thereto.</p>
+<p id="p0022" num="0022">The alkynyl group is intended to include straight and branched ones and may be optionally substituted<!-- EPO <DP n="9"> --> with one or more other substituents. The alkynyl group may be, for example, ethynyl or 2-propynyl but is not limited thereto.</p>
+<p id="p0023" num="0023">The cycloalkyl group is intended to include monocyclic and polycyclic ones and may be optionally substituted with one or more other substituents. As used herein, the term "polycyclic" means that the cycloalkyl group may be directly attached or fused to one or more other cyclic groups. The other cyclic groups may be cycloalkyl groups and other examples thereof include heterocycloalkyl, aryl, and heteroaryl groups. The cycloalkyl group may be specifically a cyclopropyl, cyclobutyl, cyclopentyl, 3-methylcyclopentyl, 2,3-dimethylcyclopentyl, cyclohexyl, 3-methylcyclohexyl, 4-methylcyclohexyl, 2,3-dimethylcyclohexyl, 3,4,5-trimethylcyclohexyl, 4-tert-butylcyclohexyl, cycloheptyl or cyclooctyl group but is not limited thereto.</p>
+<p id="p0024" num="0024">The heterocycloalkyl group is intended to include monocyclic and polycyclic ones interrupted by a heteroatom such as O, S, Se, N or Si and may be optionally substituted with one or more other substituents. As used herein, the term "polycyclic" means that the heterocycloalkyl group may be directly attached or fused to one or more other cyclic groups. The other cyclic groups may be heterocycloalkyl groups and other examples thereof include cycloalkyl, aryl, and heteroaryl groups.</p>
+<p id="p0025" num="0025">The aryl groups may be monocyclic or polycyclic ones. Examples of the monocyclic aryl groups include, but are not limited to, phenyl, biphenyl, terphenyl, and terphenyl groups. Examples of the polycyclic aryl groups include naphthyl, anthracenyl, phenanthrenyl, pyrenyl, perylenyl, tetracenyl, chrysenyl, fluorenyl, acenaphthacenyl, triphenylene, and fluoranthrene groups but the scope of the present invention is not limited thereto.</p>
+<p id="p0026" num="0026">The heteroaryl groups refer to heterocyclic groups interrupted by one or more heteroatoms. Examples of the heteroaryl groups include, but are not limited to, thiophene, furan, pyrrole, imidazole, triazole, oxazole, oxadiazole, triazole, pyridyl, bipyridyl, pyrimidyl, triazine, triazole, acridyl, pyridazine, pyrazinyl, quinolinyl, quinazoline, quinoxalinyl, phthalazinyl, pyridopyrimidinyl, pyridopyrazinyl, pyrazinopyrazinyl, isoquinoline, indole, carbazole, benzoxazole, benzimidazole, benzothiazole, benzocarbazole, benzothiophene, dibenzothiophene, benzofuranyl, dibenzofuranyl, phenanthroline, thiazolyl,<!-- EPO <DP n="10"> --> isooxazolyl, oxadiazolyl, thiadiazolyl, benzothiazolyl, and phenothiazinyl groups.</p>
+<p id="p0027" num="0027">The alkoxy group may be specifically a methoxy, ethoxy, propoxy, isobutyloxy, sec-butyloxy, pentyloxy, iso-amyloxy or hexyloxy group, but is not limited thereto.</p>
+<p id="p0028" num="0028">The silyl group is intended to include alkyl-substituted silyl groups and aryl-substituted silyl groups. Specific examples of such silyl groups include trimethylsilyl, triethylsilyl, triphenylsilyl, trimethoxysilyl, dimethoxyphenylsilyl, diphenylmethylsilyl, diphenylvinylsilyl, methylcyclobutylsilyl, and dimethylfurylsilyl.</p>
+<p id="p0029" num="0029">The amine groups may be, for example, -NH<sub>2</sub>, alkylamine groups, and arylamine groups. The arylamine groups are aryl-substituted amine groups and the alkylamine groups are alkyl-substituted amine groups. Examples of the arylamine groups include substituted or unsubstituted monoarylamine groups, substituted or unsubstituted diarylamine groups, and substituted or unsubstituted triarylamine groups. The aryl groups in the arylamine groups may be monocyclic or polycyclic ones. The arylamine groups may include two or more aryl groups. In this case, the aryl groups may be monocyclic aryl groups or polycyclic aryl groups. Alternatively, the aryl groups may consist of a monocyclic aryl group and a polycyclic aryl group. The aryl groups in the arylamine groups may be selected from those exemplified above.</p>
+<p id="p0030" num="0030">The aryl groups in the aryloxy group and the arylthioxy group are the same as those described above. Specific examples of the aryloxy groups include, but are not limited to, phenoxy, p-tolyloxy, m-tolyloxy, 3,5-dimethylphenoxy, 2,4,6-trimethylphenoxy, p-tert-butylphenoxy, 3-biphenyloxy, 4-biphenyloxy, 1-naphthyloxy, 2-naphthyloxy, 4-methyl-1-naphthyloxy, 5-methyl-2-naphthyloxy, 1-anthryloxy, 2-anthryloxy, 9-anthryloxy, 1-phenanthryloxy, 3-phenanthryloxy, and 9-phenanthryloxy groups. The arylthioxy group may be, for example, a phenylthioxy, 2-methylphenylthioxy or 4-tert-butylphenylthioxy group but is not limited thereto.</p>
+<p id="p0031" num="0031">The halogen group may be, for example, fluorine, chlorine, bromine or iodine.</p>
+<p id="p0032" num="0032">More specifically, the compound of Formula A-1 or A-2 used in the organic electroluminescent device<!-- EPO <DP n="11"> --> of the present invention may be selected from the following compounds:
+<chemistry id="chem0012" num="0012"><img id="ib0012" file="imgb0012.tif" wi="143" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0013" num="0013"><img id="ib0013" file="imgb0013.tif" wi="146" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0014" num="0014"><img id="ib0014" file="imgb0014.tif" wi="148" he="35" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0015" num="0015"><img id="ib0015" file="imgb0015.tif" wi="151" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0016" num="0016"><img id="ib0016" file="imgb0016.tif" wi="148" he="37" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="12"> -->
+<chemistry id="chem0017" num="0017"><img id="ib0017" file="imgb0017.tif" wi="149" he="43" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0018" num="0018"><img id="ib0018" file="imgb0018.tif" wi="149" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0019" num="0019"><img id="ib0019" file="imgb0019.tif" wi="147" he="34" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0020" num="0020"><img id="ib0020" file="imgb0020.tif" wi="143" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0021" num="0021"><img id="ib0021" file="imgb0021.tif" wi="152" he="36" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="13"> -->
+<chemistry id="chem0022" num="0022"><img id="ib0022" file="imgb0022.tif" wi="146" he="35" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0023" num="0023"><img id="ib0023" file="imgb0023.tif" wi="149" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0024" num="0024"><img id="ib0024" file="imgb0024.tif" wi="143" he="35" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0025" num="0025"><img id="ib0025" file="imgb0025.tif" wi="151" he="29" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0026" num="0026"><img id="ib0026" file="imgb0026.tif" wi="151" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0027" num="0027"><img id="ib0027" file="imgb0027.tif" wi="151" he="28" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="14"> -->
+<chemistry id="chem0028" num="0028"><img id="ib0028" file="imgb0028.tif" wi="126" he="4" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0029" num="0029"><img id="ib0029" file="imgb0029.tif" wi="149" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0030" num="0030"><img id="ib0030" file="imgb0030.tif" wi="147" he="35" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0031" num="0031"><img id="ib0031" file="imgb0031.tif" wi="149" he="35" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0032" num="0032"><img id="ib0032" file="imgb0032.tif" wi="149" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0033" num="0033"><img id="ib0033" file="imgb0033.tif" wi="149" he="42" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="15"> -->
+<chemistry id="chem0034" num="0034"><img id="ib0034" file="imgb0034.tif" wi="151" he="42" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0035" num="0035"><img id="ib0035" file="imgb0035.tif" wi="151" he="29" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0036" num="0036"><img id="ib0036" file="imgb0036.tif" wi="140" he="35" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0037" num="0037"><img id="ib0037" file="imgb0037.tif" wi="144" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0038" num="0038"><img id="ib0038" file="imgb0038.tif" wi="148" he="34" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0039" num="0039"><img id="ib0039" file="imgb0039.tif" wi="148" he="28" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="16"> -->
+<chemistry id="chem0040" num="0040"><img id="ib0040" file="imgb0040.tif" wi="128" he="4" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0041" num="0041"><img id="ib0041" file="imgb0041.tif" wi="146" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0042" num="0042"><img id="ib0042" file="imgb0042.tif" wi="147" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0043" num="0043"><img id="ib0043" file="imgb0043.tif" wi="147" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0044" num="0044"><img id="ib0044" file="imgb0044.tif" wi="149" he="34" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0045" num="0045"><img id="ib0045" file="imgb0045.tif" wi="146" he="35" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="17"> -->
+<chemistry id="chem0046" num="0046"><img id="ib0046" file="imgb0046.tif" wi="148" he="42" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0047" num="0047"><img id="ib0047" file="imgb0047.tif" wi="143" he="42" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0048" num="0048"><img id="ib0048" file="imgb0048.tif" wi="148" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0049" num="0049"><img id="ib0049" file="imgb0049.tif" wi="143" he="43" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0050" num="0050"><img id="ib0050" file="imgb0050.tif" wi="148" he="37" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="18"> -->
+<chemistry id="chem0051" num="0051"><img id="ib0051" file="imgb0051.tif" wi="152" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0052" num="0052"><img id="ib0052" file="imgb0052.tif" wi="148" he="29" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0053" num="0053"><img id="ib0053" file="imgb0053.tif" wi="147" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0054" num="0054"><img id="ib0054" file="imgb0054.tif" wi="149" he="29" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0055" num="0055"><img id="ib0055" file="imgb0055.tif" wi="146" he="37" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="19"> -->
+<chemistry id="chem0056" num="0056"><img id="ib0056" file="imgb0056.tif" wi="151" he="29" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0057" num="0057"><img id="ib0057" file="imgb0057.tif" wi="148" he="44" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0058" num="0058"><img id="ib0058" file="imgb0058.tif" wi="151" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0059" num="0059"><img id="ib0059" file="imgb0059.tif" wi="145" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0060" num="0060"><img id="ib0060" file="imgb0060.tif" wi="148" he="34" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="20"> -->
+<chemistry id="chem0061" num="0061"><img id="ib0061" file="imgb0061.tif" wi="146" he="45" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0062" num="0062"><img id="ib0062" file="imgb0062.tif" wi="148" he="50" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0063" num="0063"><img id="ib0063" file="imgb0063.tif" wi="146" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0064" num="0064"><img id="ib0064" file="imgb0064.tif" wi="146" he="45" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0033" num="0033">The specific examples of the substituents defined above can be found in the compounds of Formulae 1 to 204 but are not intended to limit the scope of the compound represented by Formula A-1 or A-2.</p>
+<p id="p0034" num="0034">More specifically, the compound of Formula B employed in the capping layer of the organic electroluminescent device according to the present invention may be selected from the following<!-- EPO <DP n="21"> --> compounds:
+<chemistry id="chem0065" num="0065"><img id="ib0065" file="imgb0065.tif" wi="149" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0066" num="0066"><img id="ib0066" file="imgb0066.tif" wi="149" he="29" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0067" num="0067"><img id="ib0067" file="imgb0067.tif" wi="148" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0068" num="0068"><img id="ib0068" file="imgb0068.tif" wi="149" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0069" num="0069"><img id="ib0069" file="imgb0069.tif" wi="149" he="28" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0070" num="0070"><img id="ib0070" file="imgb0070.tif" wi="147" he="28" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="22"> -->
+<chemistry id="chem0071" num="0071"><img id="ib0071" file="imgb0071.tif" wi="147" he="27" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0072" num="0072"><img id="ib0072" file="imgb0072.tif" wi="136" he="35" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0073" num="0073"><img id="ib0073" file="imgb0073.tif" wi="147" he="34" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0074" num="0074"><img id="ib0074" file="imgb0074.tif" wi="147" he="34" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0075" num="0075"><img id="ib0075" file="imgb0075.tif" wi="135" he="42" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0076" num="0076"><img id="ib0076" file="imgb0076.tif" wi="145" he="28" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="23"> -->
+<chemistry id="chem0077" num="0077"><img id="ib0077" file="imgb0077.tif" wi="132" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0078" num="0078"><img id="ib0078" file="imgb0078.tif" wi="143" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0079" num="0079"><img id="ib0079" file="imgb0079.tif" wi="138" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0080" num="0080"><img id="ib0080" file="imgb0080.tif" wi="130" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0081" num="0081"><img id="ib0081" file="imgb0081.tif" wi="125" he="36" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="24"> -->
+<chemistry id="chem0082" num="0082"><img id="ib0082" file="imgb0082.tif" wi="133" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0083" num="0083"><img id="ib0083" file="imgb0083.tif" wi="140" he="29" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0084" num="0084"><img id="ib0084" file="imgb0084.tif" wi="133" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0085" num="0085"><img id="ib0085" file="imgb0085.tif" wi="122" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0086" num="0086"><img id="ib0086" file="imgb0086.tif" wi="128" he="34" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="25"> -->
+<chemistry id="chem0087" num="0087"><img id="ib0087" file="imgb0087.tif" wi="113" he="4" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0088" num="0088"><img id="ib0088" file="imgb0088.tif" wi="120" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0089" num="0089"><img id="ib0089" file="imgb0089.tif" wi="122" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0090" num="0090"><img id="ib0090" file="imgb0090.tif" wi="130" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0091" num="0091"><img id="ib0091" file="imgb0091.tif" wi="119" he="74" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="26"> -->
+<chemistry id="chem0092" num="0092"><img id="ib0092" file="imgb0092.tif" wi="150" he="42" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0093" num="0093"><img id="ib0093" file="imgb0093.tif" wi="149" he="42" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0094" num="0094"><img id="ib0094" file="imgb0094.tif" wi="149" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0095" num="0095"><img id="ib0095" file="imgb0095.tif" wi="149" he="35" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0096" num="0096"><img id="ib0096" file="imgb0096.tif" wi="149" he="36" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="27"> -->
+<chemistry id="chem0097" num="0097"><img id="ib0097" file="imgb0097.tif" wi="151" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0098" num="0098"><img id="ib0098" file="imgb0098.tif" wi="149" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0099" num="0099"><img id="ib0099" file="imgb0099.tif" wi="148" he="35" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0100" num="0100"><img id="ib0100" file="imgb0100.tif" wi="148" he="35" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0101" num="0101"><img id="ib0101" file="imgb0101.tif" wi="149" he="29" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0102" num="0102"><img id="ib0102" file="imgb0102.tif" wi="148" he="31" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="28"> -->
+<chemistry id="chem0103" num="0103"><img id="ib0103" file="imgb0103.tif" wi="117" he="4" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0104" num="0104"><img id="ib0104" file="imgb0104.tif" wi="149" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0105" num="0105"><img id="ib0105" file="imgb0105.tif" wi="149" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0106" num="0106"><img id="ib0106" file="imgb0106.tif" wi="149" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0107" num="0107"><img id="ib0107" file="imgb0107.tif" wi="149" he="29" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0035" num="0035">The specific examples of the substituents defined above can be found in the compounds of Formulae B1 to B145 but are not intended to limit the scope of the compound represented by Formula B.</p>
+<p id="p0036" num="0036">The introduction of the characteristic skeletal structures and various substituents into the compounds employed in the light emitting layer and the capping layer of the organic electroluminescent device according to the present invention allows the compounds to have inherent characteristics of the skeletal structures and the substituents. This introduction makes the organic electroluminescent device highly efficient.<!-- EPO <DP n="29"> --></p>
+<p id="p0037" num="0037">The organic electroluminescent device of the present invention may include one or more organic layers interposed between the first and second electrodes wherein at least one of the organic layers includes the compound represented by Formula A-1 or A-2. According to one embodiment of the present invention, the light emitting layer may be the organic layer including the compound represented by Formula A-1 or A-2.</p>
+<p id="p0038" num="0038">That is, according to one embodiment of the present invention, the organic electroluminescent device has a structure in which the organic layers are arranged between the first electrode and the second electrode. The organic electroluminescent device of the present invention may be fabricated by a suitable method known in the art using suitable materials known in the art, except that the compound of Formula A-1 or A-2 is used to form the corresponding organic layer.</p>
+<p id="p0039" num="0039">The organic layers of the organic electroluminescent device according to the present invention may form a monolayer structure. Alternatively, the organic layers may have a multilayer laminate structure. For example, the structure of the organic layers may include a hole injecting layer, a hole transport layer, a hole blocking layer, a light emitting layer, an electron blocking layer, an electron transport layer, and an electron injecting layer, but is not limited thereto. The number of the organic layers is not limited and may be increased or decreased. Preferred structures of the organic layers of the organic electroluminescent device according to the present invention will be explained in more detail in the Examples section that follows.</p>
+<p id="p0040" num="0040">According to one embodiment of the present invention, the organic electroluminescent device further includes a substrate. In this embodiment, the first electrode serves as an anode, the second electrode serves as a cathode, and the capping layer is formed under the first electrode (bottom emission type) or on the second electrode (top emission type).</p>
+<p id="p0041" num="0041">When the organic electroluminescent device is of a top emission type, light from the light emitting layer is emitted to the cathode and passes through the capping layer (CPL) formed using the compound of the present invention having a relatively high refractive index. The wavelength of the light is amplified in the capping layer, resulting in an increase in luminous efficiency. Also when the organic<!-- EPO <DP n="30"> --> electroluminescent device is of a bottom emission type, the compound of the present invention can be employed in the capping layer to improve the luminous efficiency of the organic electroluminescent device based on the same principle.</p>
+<p id="p0042" num="0042">A more detailed description will be given concerning one embodiment of the organic electroluminescent device according to of the present invention.</p>
+<p id="p0043" num="0043">The organic electroluminescent device includes an anode, a hole transport layer, a light emitting layer, an electron transport layer, and a cathode. The organic electroluminescent device may optionally further include a hole injecting layer between the anode and the hole transport layer and an electron injecting layer between the electron transport layer and the cathode. If necessary, the organic electroluminescent device may further include one or two intermediate layers such as a hole blocking layer or an electron blocking layer. The organic electroluminescent device may further include one or more organic layers, including the capping layer, that have various functions depending on the desired characteristics of the device.</p>
+<p id="p0044" num="0044">The light emitting layer of the organic electroluminescent device according to the present invention includes, as a host compound, an anthracene derivative represented by Formula D:
+<chemistry id="chem0108" num="0108"><img id="ib0108" file="imgb0108.tif" wi="47" he="45" img-content="chem" img-format="tif"/></chemistry>
+wherein R<sub>21</sub> to R<sub>28</sub> are identical to or different from each other and are as defined for R<sub>1</sub> to R<sub>5</sub> in Formula A-1 or A-2, Ar<sub>9</sub> and Ar<sub>10</sub> are identical to or different from each other and are each independently selected from hydrogen, deuterium, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkyl, substituted or unsubstituted C<sub>6</sub>-C<sub>50</sub> aryl, substituted or unsubstituted C<sub>2</sub>-C<sub>30</sub> alkenyl, substituted or unsubstituted C<sub>2</sub>-C<sub>20</sub> alkynyl, substituted or unsubstituted C<sub>3</sub>-C<sub>30</sub> cycloalkyl, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> cycloalkenyl, substituted or unsubstituted C<sub>2</sub>-C<sub>50</sub> heteroaryl, substituted or unsubstituted C<sub>2</sub>-C<sub>30</sub> heterocycloalkyl, substituted or<!-- EPO <DP n="31"> --> unsubstituted C<sub>1</sub>-C<sub>30</sub> alkoxy, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> aryloxy, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylthioxy, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> arylthioxy, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylamine, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> arylamine, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylsilyl, and substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> arylsilyl, L<sub>13</sub> is a single bond or is selected from substituted or unsubstituted C<sub>6</sub>-C<sub>20</sub> arylene and substituted or unsubstituted C<sub>2</sub>-C<sub>20</sub> heteroarylene, preferably a single bond or substituted or unsubstituted C<sub>6</sub>-C<sub>20</sub> arylene, and k is an integer from 1 to 3, provided that when k is 2 or more, the linkers L<sub>13</sub> are identical to or different from each other.</p>
+<p id="p0045" num="0045">Ar<sub>9</sub> in Formula D is represented by Formula D-1:
+<chemistry id="chem0109" num="0109"><img id="ib0109" file="imgb0109.tif" wi="27" he="28" img-content="chem" img-format="tif"/></chemistry>
+wherein R<sub>31</sub> to R<sub>35</sub> are identical to or different from each other and are as defined for R<sub>1</sub> to R<sub>5</sub> in Formula A-1 or A-2, and each of R<sub>31</sub> to R<sub>35</sub> is optionally bonded to an adjacent substituent to form a saturated or unsaturated ring.</p>
+<p id="p0046" num="0046">The compound of Formula D employed in the organic electroluminescent device of the present invention may be specifically selected from the compounds of Formulae D1 to D48:
+<chemistry id="chem0110" num="0110"><img id="ib0110" file="imgb0110.tif" wi="138" he="27" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0111" num="0111"><img id="ib0111" file="imgb0111.tif" wi="141" he="37" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="32"> -->
+<chemistry id="chem0112" num="0112"><img id="ib0112" file="imgb0112.tif" wi="141" he="28" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0113" num="0113"><img id="ib0113" file="imgb0113.tif" wi="144" he="28" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0114" num="0114"><img id="ib0114" file="imgb0114.tif" wi="144" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0115" num="0115"><img id="ib0115" file="imgb0115.tif" wi="146" he="29" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0116" num="0116"><img id="ib0116" file="imgb0116.tif" wi="146" he="28" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0117" num="0117"><img id="ib0117" file="imgb0117.tif" wi="144" he="28" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0118" num="0118"><img id="ib0118" file="imgb0118.tif" wi="146" he="29" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="33"> -->
+<chemistry id="chem0119" num="0119"><img id="ib0119" file="imgb0119.tif" wi="146" he="29" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0120" num="0120"><img id="ib0120" file="imgb0120.tif" wi="148" he="34" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0121" num="0121"><img id="ib0121" file="imgb0121.tif" wi="148" he="29" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0122" num="0122"><img id="ib0122" file="imgb0122.tif" wi="145" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0123" num="0123"><img id="ib0123" file="imgb0123.tif" wi="133" he="35" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="34"> -->
+<chemistry id="chem0124" num="0124"><img id="ib0124" file="imgb0124.tif" wi="142" he="42" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0125" num="0125"><img id="ib0125" file="imgb0125.tif" wi="142" he="36" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0047" num="0047">Each of the hole transport layer and the electron blocking layer may include a compound represented by Formula E:
+<chemistry id="chem0126" num="0126"><img id="ib0126" file="imgb0126.tif" wi="40" he="42" img-content="chem" img-format="tif"/></chemistry>
+wherein R<sub>61</sub> to R<sub>63</sub> are identical to or different from each other and are each independently selected from hydrogen, deuterium, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkyl, substituted or unsubstituted C<sub>6</sub>-C<sub>50</sub> aryl, substituted or unsubstituted C<sub>2</sub>-C<sub>30</sub> alkenyl, substituted or unsubstituted C<sub>2</sub>-C<sub>20</sub> alkynyl, substituted or unsubstituted C<sub>3</sub>-C<sub>30</sub> cycloalkyl, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> cycloalkenyl, substituted or unsubstituted C<sub>2</sub>-C<sub>50</sub> heteroaryl, substituted or unsubstituted C<sub>2</sub>-C<sub>30</sub> heterocycloalkyl, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkoxy, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> aryloxy, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylthioxy, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> arylthioxy, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub><!-- EPO <DP n="35"> --> alkylamine, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> arylamine, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylsilyl, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> arylsilyl, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylgermanium, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> arylgermanium, cyano, nitro, and halogen, and Ar<sub>51</sub> to Ar<sub>54</sub> are identical to or different from each other and are each independently substituted or unsubstituted C<sub>6</sub>-C<sub>40</sub> aryl or substituted or unsubstituted C<sub>2</sub>-C<sub>30</sub> heteroaryl.</p>
+<p id="p0048" num="0048">The compound of Formula E employed in the organic electroluminescent device of the present invention may be specifically selected from the compounds of Formulae E1 to E33:
+<chemistry id="chem0127" num="0127"><img id="ib0127" file="imgb0127.tif" wi="141" he="51" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0128" num="0128"><img id="ib0128" file="imgb0128.tif" wi="145" he="51" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0129" num="0129"><img id="ib0129" file="imgb0129.tif" wi="145" he="51" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="36"> -->
+<chemistry id="chem0130" num="0130"><img id="ib0130" file="imgb0130.tif" wi="144" he="52" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0131" num="0131"><img id="ib0131" file="imgb0131.tif" wi="149" he="45" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0132" num="0132"><img id="ib0132" file="imgb0132.tif" wi="146" he="50" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0133" num="0133"><img id="ib0133" file="imgb0133.tif" wi="149" he="50" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="37"> -->
+<chemistry id="chem0134" num="0134"><img id="ib0134" file="imgb0134.tif" wi="145" he="51" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0135" num="0135"><img id="ib0135" file="imgb0135.tif" wi="145" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0136" num="0136"><img id="ib0136" file="imgb0136.tif" wi="148" he="52" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0137" num="0137"><img id="ib0137" file="imgb0137.tif" wi="148" he="52" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0049" num="0049">A specific structure of the organic electroluminescent device according to the present invention, a method for fabricating the device, and materials for the organic layers will be described below.<!-- EPO <DP n="38"> --></p>
+<p id="p0050" num="0050">First, a material for the anode is coated on the substrate to form the anode. The substrate may be any of those used in general electroluminescent devices. The substrate is preferably an organic substrate or a transparent plastic substrate that is excellent in transparency, surface smoothness, ease of handling, and waterproofness. A highly transparent and conductive metal oxide, such as indium tin oxide (ITO), indium zinc oxide (IZO), tin oxide (SnO<sub>2</sub>) or zinc oxide (ZnO), is used as the anode material.</p>
+<p id="p0051" num="0051">A material for the hole injecting layer is coated on the anode by vacuum thermal evaporation or spin coating to form the hole injecting layer. Then, a material for the hole transport layer is coated on the hole injecting layer by vacuum thermal evaporation or spin coating to form the hole transport layer.</p>
+<p id="p0052" num="0052">The material for the hole injecting layer is not specially limited so long as it is usually used in the art. Specific examples of such materials include 4,4',4"-tris(2-naphthyl(phenyl)amino)triphenylamine (2-TNATA), N,N'-di(1-naphthyl)-N,N'-diphenylbenzidine (NPD), N,N'-diphenyl-N,N'-bis(3-methylphenyl)-1,1'-biphenyl-4,4'-diamine (TPD), and N,N'-diphenyl-N,N'-bis[4-(phenyl-m-tolylamino)phenyl]biphenyl-4,4'-diamine (DNTPD).</p>
+<p id="p0053" num="0053">The material for the hole transport layer is not specially limited so long as it is commonly used in the art. Examples of such materials include N,N'-bis(3-methylphenyl)-N,N'-diphenyl-[1,1-biphenyl]-4,4'-diamine (TPD) and N,N'-di(naphthalen-1-yl)-N,N'-diphenylbenzidine (a-NPD).</p>
+<p id="p0054" num="0054">Subsequently, a hole auxiliary layer and the light emitting layer are sequentially laminated on the hole transport layer. A hole blocking layer may be optionally formed on the organic light emitting layer by vacuum thermal evaporation or spin coating. The hole blocking layer blocks holes from entering the cathode through the organic light emitting layer. This role of the hole blocking layer prevents the lifetime and efficiency of the device from deteriorating. A material having a very low highest occupied molecular orbital (HOMO) energy level is used for the hole blocking layer. The hole blocking material is not particularly limited so long as it has the ability to transport electrons and a higher ionization potential than the light emitting compound. Representative examples of suitable hole blocking materials include BAIq, BCP, and TPBI.<!-- EPO <DP n="39"> --></p>
+<p id="p0055" num="0055">Examples of materials for the hole blocking layer include, but are not limited to, BAIq, BCP, Bphen, TPBI, NTAZ, BeBq<sub>2</sub>, OXD-7, Liq, and the compounds of Formulae 501 to 507:
+<chemistry id="chem0138" num="0138"><img id="ib0138" file="imgb0138.tif" wi="108" he="35" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0139" num="0139"><img id="ib0139" file="imgb0139.tif" wi="108" he="43" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0140" num="0140"><img id="ib0140" file="imgb0140.tif" wi="99" he="27" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0141" num="0141"><img id="ib0141" file="imgb0141.tif" wi="126" he="42" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0142" num="0142"><img id="ib0142" file="imgb0142.tif" wi="94" he="4" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="40"> -->
+<chemistry id="chem0143" num="0143"><img id="ib0143" file="imgb0143.tif" wi="134" he="39" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0144" num="0144"><img id="ib0144" file="imgb0144.tif" wi="45" he="36" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0056" num="0056">The electron transport layer is deposited on the hole blocking layer by vacuum thermal evaporation or spin coating, and the electron injecting layer is formed thereon. A metal for the cathode is deposited on the electron injecting layer by vacuum thermal evaporation to form the cathode, completing the fabrication of the organic electroluminescent device.</p>
+<p id="p0057" num="0057">As the metal for the formation of the cathode, there may be used, for example, lithium (Li), magnesium (Mg), aluminum (Al), aluminum-lithium (Al-Li), calcium (Ca), magnesium-indium (Mg-In) or magnesiumsilver (Mg-Ag). The organic electroluminescent device may be of top emission type. In this case, a transmissive material, such as ITO or IZO, may be used to form the cathode.</p>
+<p id="p0058" num="0058">The material for the electron transport layer functions to stably transport electrons injected from the cathode. The electron transport material may be any of those known in the art and examples thereof include, but are not limited to, quinoline derivatives, particularly, tris(8-quinolinolate)aluminum (Alq3), TAZ, BAIq, beryllium bis(benzoquinolin-10-olate (Bebq2), ADN, the compounds of Formulae 401 and 402, and oxadiazole derivatives, such as PBD, BMD, and BND:<!-- EPO <DP n="41"> -->
+<chemistry id="chem0145" num="0145"><img id="ib0145" file="imgb0145.tif" wi="99" he="33" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0146" num="0146"><img id="ib0146" file="imgb0146.tif" wi="142" he="47" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0147" num="0147"><img id="ib0147" file="imgb0147.tif" wi="142" he="21" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0059" num="0059">The light emitting layer may further include various host materials and various dopant materials.</p>
+<p id="p0060" num="0060">Each of the organic layers can be formed by a monomolecular deposition or solution process. According to the monomolecular deposition process, the material for each layer is evaporated under heat and vacuum or reduced pressure to form the layer in the form of a thin film. According to the solution process, the material for each layer is mixed with a suitable solvent, and then the mixture is formed into a thin film by a suitable method, such as ink-jet printing, roll-to-roll coating, screen printing, spray coating, dip coating or spin coating.</p>
+<p id="p0061" num="0061">The organic electroluminescent device of the present invention can be used in a display or lighting system selected from flat panel displays, flexible displays, monochromatic flat panel lighting systems, white flat panel lighting systems, flexible monochromatic lighting systems, and flexible white lighting systems.</p>
+<p id="p0062" num="0062">The present invention will be explained in more detail with reference to the following examples.<!-- EPO <DP n="42"> --></p>
+<p id="p0063" num="0063">However, it will be obvious to those skilled in the art that these examples are in no way intended to limit the scope of the invention.</p>
+<heading id="h0001"><b>&lt;Synthesis of the compounds represented by Formula A-1/Formula A-2&gt;</b></heading>
+<heading id="h0002"><u><b>Synthesis Example</b> 1: <b>Synthesis of Compound 1</b></u></heading>
+<heading id="h0003"><u>Synthesis Example 1-1: Synthesis of Intermediate 1-a</u></heading>
+<p id="p0064" num="0064">
+<chemistry id="chem0148" num="0148"><img id="ib0148" file="imgb0148.tif" wi="74" he="20" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0065" num="0065">Benzofuran (50 g, 423 mmol) and dichloromethane (500 mL) were stirred in a 1 L reactor. The mixture was cooled to -10 °C and a dilute solution of bromine (67.7 g, 423 mmol) in dichloromethane (100 mL) was added dropwise thereto. The resulting mixture was stirred at 0 °C for 2 h. After completion of the reaction, the reaction mixture was added with an aqueous sodium thiosulfate solution, stirred, and extracted with ethyl acetate and H<sub>2</sub>O. The organic layer was recrystallized from ethanol to afford Intermediate 1-a (100 g, yield 93%).</p>
+<heading id="h0004"><u>Synthesis Example 1-2: Synthesis of Intermediate 1-b</u></heading>
+<p id="p0066" num="0066">
+<chemistry id="chem0149" num="0149"><img id="ib0149" file="imgb0149.tif" wi="74" he="20" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0067" num="0067">Potassium hydroxide (48.6 g, 866 mmol) and ethanol (400 mL) were dissolved in a 1 L reactor and a solution of Intermediate 1-a (120 g, 433 mmol) in ethanol was added dropwise thereto at 0 °C. After the dropwise addition was finished, the mixture was refluxed with stirring for 2 h. After completion of the reaction, the reaction mixture was concentrated under reduced pressure to remove the ethanol and extracted with ethyl acetate and water. The organic layer was concentrated and purified by column chromatography to afford Intermediate 1-b (42 g, yield 50%)<!-- EPO <DP n="43"> --></p>
+<heading id="h0005"><u>Synthesis Example 1-3: Synthesis of Intermediate 1-c</u></heading>
+<p id="p0068" num="0068">
+<chemistry id="chem0150" num="0150"><img id="ib0150" file="imgb0150.tif" wi="90" he="20" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0069" num="0069">1-Bromo-3-iodobenzene (4.5 g, 16 mmol), aniline (5.8 g, 16 mmol), palladium acetate (0.1 g, 1 mmol), sodium tert-butoxide (3 g, 32 mmol), bis(diphenylphosphino)-1,1'-binaphthyl (0.2 g, 1 mmol), and toluene (45 mL) were placed in a 100 mL reactor. The mixture was refluxed with stirring for 24 h. After completion of the reaction, the reaction mixture was filtered. The filtrate was concentrated and purified by column chromatography to afford Intermediate 1-c (5.2 g, yield 82%).</p>
+<heading id="h0006"><u>Synthesis Example 1-4: Synthesis of Intermediate 1-d</u></heading>
+<p id="p0070" num="0070">
+<chemistry id="chem0151" num="0151"><img id="ib0151" file="imgb0151.tif" wi="88" he="28" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0071" num="0071">Intermediate 1-c (20 g,98 mmol), Intermediate 1-b (18.4 g, 98 mmol), palladium acetate (0.5 g, 2 mmol), sodium tert-butoxide (18.9 g, 196 mmol), tri-tert-butylphosphine (0.8 g, 4 mmol), and toluene (200 mL) were placed in a 250 mL reactor. The mixture was refluxed with stirring. After completion of the reaction, the reaction mixture was filtered. The filtrate was concentrated and purified by column chromatography to afford Intermediate 1-d (22 g, yield 75%)</p>
+<heading id="h0007"><u>Synthesis Example 1-5: Synthesis of Intermediate 1-e</u></heading>
+<p id="p0072" num="0072">
+<chemistry id="chem0152" num="0152"><img id="ib0152" file="imgb0152.tif" wi="93" he="28" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0073" num="0073">Intermediate 1-e (18.5 g, yield 74.1%) was synthesized in the same manner as in Synthesis Example 1-3, except that Intermediate 1-d was used instead of 1-bromo-4-iodobenzene.<!-- EPO <DP n="44"> --></p>
+<heading id="h0008"><u>Synthesis Example 1-6: Synthesis of Intermediate 1-f</u></heading>
+<p id="p0074" num="0074">
+<chemistry id="chem0153" num="0153"><img id="ib0153" file="imgb0153.tif" wi="105" he="28" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0075" num="0075">Intermediate 1-f (12 g, yield 84.1%) was synthesized in the same manner as in Synthesis Example 1-4, except that Intermediate 1-e and 1-bromo-2-iodobenzene were used instead of Intermediate 1-c and Intermediate 1-b.</p>
+<heading id="h0009"><u>Synthesis Example 1-7: Synthesis of Compound 1</u></heading>
+<p id="p0076" num="0076">
+<chemistry id="chem0154" num="0154"><img id="ib0154" file="imgb0154.tif" wi="71" he="27" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0077" num="0077">Intermediate 1-f (12 g, 23 mmol) and tert-butylbenzene (120 mL) were placed in a 300 mL reactor, and n-butyllithium (42.5 mL, 68 mmol) was added dropwise thereto at -78 °C. After the dropwise addition was finished, the mixture was stirred at 60 °C for 3 h. Thereafter, the reactor was flushed with nitrogen to remove heptane. After dropwise addition of boron tribromide (11.3 g, 45 mmol) at -78 °C, the resulting mixture was stirred at room temperature for 1 h and N,N-diisopropylethylamine (5.9 g, 45 mmol) was added dropwise thereto at 0 °C. After the dropwise addition was finished, the mixture was stirred at 120 °C for 2 h. After completion of the reaction, the reaction mixture was added with an aqueous sodium acetate solution at room temperature, stirred, and extracted with ethyl acetate. The organic layer was concentrated and purified by column chromatography to give Compound 1 (0.8 g, yield 13%).<br/>
+MS (MALDI-TOF): m/z 460.17 [M<sup>+</sup>]</p>
+<heading id="h0010"><b><u>Synthesis Example 2: Synthesis of Compound 2</u></b></heading><!-- EPO <DP n="45"> -->
+<heading id="h0011"><u>Synthesis Example 2-1: Synthesis of Intermediate 2-a</u></heading>
+<p id="p0078" num="0078">
+<chemistry id="chem0155" num="0155"><img id="ib0155" file="imgb0155.tif" wi="74" he="20" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0079" num="0079">Benzothiophene (50 g, 373 mmol) and chloroform (500 mL) were stirred in a 1 L reactor. The mixture was cooled to 0 °C and a dilute solution of bromine (59.5 g, 373 mmol) in chloroform (100 mL) was added dropwise thereto. After the dropwise addition was finished, the resulting mixture was stirred at room temperature for 4 h. After completion of the reaction, the reaction mixture was added with an aqueous sodium thiosulfate solution, stirred, and extracted. The organic layer was concentrated under reduced pressure and purified by column chromatography to afford Intermediate 2-a (70 g, yield 91%)</p>
+<heading id="h0012"><u>Synthesis Example 2-2: Synthesis of Intermediate 2-b</u></heading>
+<p id="p0080" num="0080">
+<chemistry id="chem0156" num="0156"><img id="ib0156" file="imgb0156.tif" wi="87" he="28" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0081" num="0081">Intermediate 2-b (32 g, yield 75.4%) was synthesized in the same manner as in Synthesis Example 1-4, except that Intermediate 2-a was used instead of Intermediate 1-b.</p>
+<heading id="h0013"><u>Synthesis Example 2-3: Synthesis of Intermediate 2-c</u></heading>
+<p id="p0082" num="0082">
+<chemistry id="chem0157" num="0157"><img id="ib0157" file="imgb0157.tif" wi="90" he="28" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0083" num="0083">Intermediate 2-c (24.5 g, yield 73.1%) was synthesized in the same manner as in Synthesis Example 1-3, except that Intermediate 2-b was used instead of 1-bromo-4-iodobenzene.<!-- EPO <DP n="46"> --></p>
+<heading id="h0014"><u>Synthesis Example 2-4: Synthesis of Intermediate 2-d</u></heading>
+<p id="p0084" num="0084">
+<chemistry id="chem0158" num="0158"><img id="ib0158" file="imgb0158.tif" wi="105" he="28" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0085" num="0085">Intermediate 2-d (21 g, yield 77.5%) was synthesized in the same manner as in Synthesis Example 1-4, except that Intermediate 2-c and 1-bromo-2-iodobenzene were used instead of Intermediate 1-c and Intermediate 1-b.</p>
+<heading id="h0015"><u>Synthesis Example 2-5: Synthesis of Compound 2</u></heading>
+<p id="p0086" num="0086">
+<chemistry id="chem0159" num="0159"><img id="ib0159" file="imgb0159.tif" wi="87" he="30" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0087" num="0087">Compound 2 (1.5 g, yield 10.1%) was synthesized in the same manner as in Synthesis Example 1-7, except that Intermediate 2-d was used instead of Intermediate 1-f.<br/>
+MS (MALDI-TOF) : m/z 467.15 [M<sup>+</sup>]</p>
+<heading id="h0016"><u><b>Synthesis Example</b> 3: <b>Synthesis</b> of Compound 13</u></heading>
+<heading id="h0017"><u>Synthesis Example 3-1: Synthesis of Intermediate 3-a</u></heading>
+<p id="p0088" num="0088">
+<chemistry id="chem0160" num="0160"><img id="ib0160" file="imgb0160.tif" wi="95" he="26" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0089" num="0089">1-Bromo-3(tert-butyl)-5-iodobenzene (50 g, 177 mmol), aniline (36.2 g, 389 mmol), palladium acetate (1.6 g, 7 mmol), sodium tert-butoxide (51 g, 530 mmol), bis(diphenylphosphino)-1,1'-binaphthyl (4.4 g, 7 mmol), and toluene (500 mL) were placed in a 1 L reactor. The mixture was refluxed with stirring for 24 h. After completion of the reaction, the reaction mixture was filtered, concentrated, and purified by<!-- EPO <DP n="47"> --> column chromatography to afford Intermediate 3-a (42.5 g, yield 50%).</p>
+<heading id="h0018"><u>Synthesis Example 3-2: Synthesis of Intermediate 3-b</u></heading>
+<p id="p0090" num="0090">
+<chemistry id="chem0161" num="0161"><img id="ib0161" file="imgb0161.tif" wi="102" he="34" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0091" num="0091">Intermediate 3-a (11 g, 42 mmol), Intermediate 1-b (20 g, 101 mmol), palladium acetate (1 g, 2 mmol), sodium tert-butoxide (12.2 g, 127 mmol), tri-tert-butylphosphine (0.7 g, 3 mmol), and toluene (150 mL) were placed in a 250 mL reactor. The mixture was refluxed with stirring for 5 h. After completion of the reaction, the reaction mixture was filtered. The filtrate was concentrated and purified by column chromatography to afford Intermediate 3-b (11 g, yield 65%)</p>
+<heading id="h0019"><u>Synthesis Example 3-3: Synthesis of Compound 13</u></heading>
+<p id="p0092" num="0092">
+<chemistry id="chem0162" num="0162"><img id="ib0162" file="imgb0162.tif" wi="89" he="36" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0093" num="0093">Compound 13 (0.5 g, yield 8%) was synthesized in the same manner as in Synthesis Example 1-7, except that Intermediate 3-b was used instead of Intermediate 1-f.<br/>
+MS (MALDI-TOF) : m/z 556.23 [M<sup>+</sup>]</p>
+<heading id="h0020"><b><u>Synthesis Example 4: Synthesis of Compound 65</u></b></heading><!-- EPO <DP n="48"> -->
+<heading id="h0021"><u>Synthesis Example 4-1: Synthesis of Intermediate 4-a</u></heading>
+<p id="p0094" num="0094">
+<chemistry id="chem0163" num="0163"><img id="ib0163" file="imgb0163.tif" wi="102" he="21" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0095" num="0095">Intermediate 4-a (35.6 g, yield 71.2%) was synthesized in the same manner as in Synthesis Example 1-3, except that 1-bromo-2,3-dichlorobenzene was used instead of 1-bromo-4-iodobenzene.</p>
+<heading id="h0022"><u>Synthesis Example 4-2: Synthesis of Intermediate 4-b</u></heading>
+<p id="p0096" num="0096">
+<chemistry id="chem0164" num="0164"><img id="ib0164" file="imgb0164.tif" wi="102" he="29" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0097" num="0097">Diphenylamine (60.0 g, 355 mmol), 1-bromo-3-iodobenzene (100.3 g, 355 mmol), palladium acetate (0.8 g, 4 mmol), xantphos (2 g, 4 mmol), sodium tert-butoxide (68.2 g, 709 mmol), and toluene (700 mL) were placed in a 2 L reactor. The mixture was refluxed with stirring for 2 h. After completion of the reaction, the reaction mixture was filtered at room temperature, concentrated under reduced pressure, and purified by column chromatography to afford Intermediate 4-b (97 g, yield 91.2%).</p>
+<heading id="h0023"><u>Synthesis Example 4-3: Synthesis of Intermediate 4-c</u></heading>
+<p id="p0098" num="0098">
+<chemistry id="chem0165" num="0165"><img id="ib0165" file="imgb0165.tif" wi="105" he="37" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0099" num="0099">Intermediate 4-c (31 g, yield 77.7%) was synthesized in the same manner as in Synthesis Example 1-4, except that Intermediate 4-a and Intermediate 4-b were used instead of Intermediate 1-c and Intermediate 1-b.<!-- EPO <DP n="49"> --></p>
+<heading id="h0024"><u>Synthesis Example 4-4: Synthesis of Intermediate 4-d</u></heading>
+<p id="p0100" num="0100">
+<chemistry id="chem0166" num="0166"><img id="ib0166" file="imgb0166.tif" wi="101" he="20" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0101" num="0101">3-Bromoaniline (30 g, 174 mmol), phenylboronic acid (25.5 g, 209 mmol), tetrakis(triphenylphosphine)palladium (4 g, 3 mmol), potassium carbonate (48.2 g, 349 mmol), 1,4-dioxane (150 mL), toluene (150 mL), and distilled water (90 mL) were placed in a 1 L reactor. The mixture was refluxed with stirring for 4 h. After completion of the reaction, the reaction mixture was allowed to stand for layer separation. The organic layer was concentrated under reduced pressure and purified by column chromatography to afford Intermediate 4-d (24 g, yield 80%).</p>
+<heading id="h0025"><u>Synthesis Example 4-5: Synthesis of Intermediate 4-e</u></heading>
+<p id="p0102" num="0102">
+<chemistry id="chem0167" num="0167"><img id="ib0167" file="imgb0167.tif" wi="87" he="28" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0103" num="0103">Intermediate 4-e (31.6 g, yield 68.2%) was synthesized in the same manner as in Synthesis Example 1-3, except that Intermediate 4-d and Intermediate 1-b were used instead of 1-bromo-4-iodobenzene and aniline.</p>
+<heading id="h0026"><u>Synthesis Example 4-6: Synthesis of Intermediate 4-f</u></heading>
+<p id="p0104" num="0104">
+<chemistry id="chem0168" num="0168"><img id="ib0168" file="imgb0168.tif" wi="110" he="34" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0105" num="0105">Intermediate 4-f (21 g, yield 67.7%) was synthesized in the same manner as in Synthesis Example 1-4, except that Intermediate 4-c and Intermediate 4-e were used instead of Intermediate 1-c and Intermediate 1-b.<!-- EPO <DP n="50"> --></p>
+<heading id="h0027"><u>Synthesis Example 4-7: Synthesis of Compound 65</u></heading>
+<p id="p0106" num="0106">
+<chemistry id="chem0169" num="0169"><img id="ib0169" file="imgb0169.tif" wi="108" he="36" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0107" num="0107">Intermediate 4-f (21 g, 37 mmol) and tert-butylbenzene were placed in a 250 mL reactor, and tert-butyllithium (42.4 mL, 74 mmol) was added dropwise thereto at -78 °C. After the dropwise addition was finished, the mixture was stirred at 60 °C for 3 h. Thereafter, the reactor was flushed with nitrogen to remove pentane. After dropwise addition of boron tribromide (7.1 mL, 74 mmol) at -78 °C, the resulting mixture was stirred at room temperature for 1 h and N,N-diisopropylethylamine (6 g, 74 mmol) was added dropwise thereto at 0 °C. The mixture was stirred at 120 °C for 2 h. After completion of the reaction, the reaction mixture was added with an aqueous sodium acetate solution, stirred, and extracted with ethyl acetate. The organic layer was concentrated and purified by column chromatography to give Compound 65 (2.0 g, yield 17.4%).<br/>
+MS (MALDI-TOF) : m/z 703.28 [M<sup>+</sup>]</p>
+<heading id="h0028"><b><u>Synthesis Example 5: Synthesis of Compound 73</u></b></heading>
+<heading id="h0029"><u>Synthesis Example 5-1: Synthesis of Intermediate 5-a</u></heading>
+<p id="p0108" num="0108">
+<chemistry id="chem0170" num="0170"><img id="ib0170" file="imgb0170.tif" wi="74" he="31" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0109" num="0109">4-tert-butylaniline (40 g, 236 mmol) was dissolved in methylene chloride (400 mL) in a 1 L reactor. The mixture was stirred at 0 °C. Thereafter, N-bromosuccinimide (42 g, 236 mmol) was added to the reactor. The resulting mixture was stirred at room temperature for 4 h. After completion of the reaction, H<sub>2</sub>O was added dropwise to the reaction mixture at room temperature, followed by extraction with methylene<!-- EPO <DP n="51"> --> chloride. The organic layer was concentrated and purified by column chromatography to afford Intermediate 5-a (48 g, yield 80%).</p>
+<heading id="h0030"><u>Synthesis Example 5-2: Synthesis of Intermediate 5-b</u></heading>
+<p id="p0110" num="0110">
+<chemistry id="chem0171" num="0171"><img id="ib0171" file="imgb0171.tif" wi="74" he="27" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0111" num="0111">Intermediate 5-a (80 g, 351 mmol) and water (450 mL) were stirred in a 2 L reactor. The mixture was added with sulfuric acid (104 mL) and a solution of sodium nitrite (31.5 g, 456 mmol) in water (240 mL) was added dropwise thereto at 0 °C. After the dropwise addition was finished, the resulting mixture was stirred at 0 °C for 2 h. After dropwise addition of a solution of potassium iodide (116.4 g, 701 mmol) in water (450 mL), the mixture was stirred at room temperature for 6 h. After completion of the reaction, the reaction mixture was added with an aqueous sodium thiosulfate solution at room temperature, stirred, and extracted with ethyl acetate. The organic layer was purified by column chromatography to afford Intermediate 5-b (58 g, yield 51%).</p>
+<heading id="h0031"><u>Synthesis Example 5-3: Synthesis of Intermediate 5-c</u></heading>
+<p id="p0112" num="0112">
+<chemistry id="chem0172" num="0172"><img id="ib0172" file="imgb0172.tif" wi="113" he="21" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0113" num="0113">Intermediate 5-c (95 g, yield 80.4%) was synthesized in the same manner as in Synthesis Example 3-1, except that 4-tert-butylaniline was used instead of aniline.</p>
+<heading id="h0032"><u>Synthesis Example 5-4: Synthesis of Intermediate 5-d</u></heading>
+<p id="p0114" num="0114">
+<chemistry id="chem0173" num="0173"><img id="ib0173" file="imgb0173.tif" wi="113" he="29" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0115" num="0115">Intermediate 5-d (31 g, yield 71.5%) was synthesized in the same manner as in Synthesis Example 1-4,<!-- EPO <DP n="52"> --> except that Intermediate 5-c was used instead of Intermediate 1-c.</p>
+<heading id="h0033"><u>Synthesis Example 5-5: Synthesis of Intermediate 5-e</u></heading>
+<p id="p0116" num="0116">
+<chemistry id="chem0174" num="0174"><img id="ib0174" file="imgb0174.tif" wi="121" he="35" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0117" num="0117">Intermediate 5-e (24 g, yield 67.1%) was synthesized in the same manner as in Synthesis Example 1-4, except that Intermediate 5-d and Intermediate 5-b were used instead of Intermediate 1-c and Intermediate 1-b.</p>
+<heading id="h0034"><u>Synthesis Example 5-6: Synthesis of Compound 73</u></heading>
+<p id="p0118" num="0118">
+<chemistry id="chem0175" num="0175"><img id="ib0175" file="imgb0175.tif" wi="96" he="36" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0119" num="0119">Compound 73 (2.4 g, yield 15%) was synthesized in the same manner as in Synthesis Example 1-7, except that Intermediate 5-e was used instead of Intermediate 1-f.<br/>
+MS (MALDI-TOF) : m/z 628.36 [M<sup>+</sup>]</p>
+<heading id="h0035"><u><b>Synthesis Example</b> 6: <b>Synthesis</b> of Compound 109</u></heading>
+<heading id="h0036"><u>Synthesis Example 6-1: Synthesis of Intermediate 6-a</u></heading>
+<p id="p0120" num="0120">
+<chemistry id="chem0176" num="0176"><img id="ib0176" file="imgb0176.tif" wi="77" he="26" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="53"> --></p>
+<p id="p0121" num="0121">1,5-Dichloro-2,4-dinitrobenzene (40.0 g, 123 mmol), phenylboronic acid (44.9 g, 368 mmol), tetrakis(triphenylphosphine)palladium (2.8 g, 2.5 mmol), potassium carbonate (50.9 g, 368 mmol), 1,4-dioxane (120 mL), toluene (200 mL), and water (120 mL) were placed in a 1 L reactor. The mixture was refluxed with stirring. After completion of the reaction, the reaction mixture was extracted. The organic layer was purified by column chromatography to afford Intermediate 6-a (27.5 g, yield 70%).</p>
+<heading id="h0037"><u>Synthesis Example 6-2: Synthesis of Intermediate 6-b</u></heading>
+<p id="p0122" num="0122">
+<chemistry id="chem0177" num="0177"><img id="ib0177" file="imgb0177.tif" wi="77" he="21" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0123" num="0123">Intermediate 6-a (27.5 g, 86 mmol), triphenylphosphine (57.8 g, 348 mmol), and dichlorobenzene (300 mL) were placed in a 1 L reactor. The mixture was refluxed with stirring for 3 days. After completion of the reaction, the dichlorobenzene was removed, followed by column chromatography to afford Intermediate 6-b (10.8 g, yield 49.0%).</p>
+<heading id="h0038"><u>Synthesis Example 6-3: Synthesis of Intermediate 6-c</u></heading>
+<p id="p0124" num="0124">
+<chemistry id="chem0178" num="0178"><img id="ib0178" file="imgb0178.tif" wi="105" he="28" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0125" num="0125">Intermediate 6-b (10.8 g, 42 mmol), Intermediate 2-a (11.0 g, 10.8 mmol), a copper powder (10.7 g, 1 mmol), 18-crown-6-ether (4.5 g, 17 mmol), and potassium carbonate (34.9 g, 253 mmol) were placed in a 250 mL reactor, and dichlorobenzene (110 mL) was added thereto. The mixture was refluxed with stirring at 180 °C for 24 h. After completion of the reaction, the dichlorobenzene was removed, followed by column chromatography to afford Intermediate 6-c (9.5 g, yield 52%).</p>
+<heading id="h0039"><u>Synthesis Example 6-4: Synthesis of Intermediate 6-d</u></heading><!-- EPO <DP n="54"> -->
+<p id="p0126" num="0126">
+<chemistry id="chem0179" num="0179"><img id="ib0179" file="imgb0179.tif" wi="93" he="28" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0127" num="0127">Intermediate 6-d (14 g, yield 67.1%) was synthesized in the same manner as in Synthesis Example 6-3, except that Intermediate 6-c and 1-bromo-2-iodobenzene were used instead of Intermediate 1-c and Intermediate 2-a.</p>
+<heading id="h0040"><u>Synthesis Example 6-5: Synthesis of Compound 109</u></heading>
+<p id="p0128" num="0128">
+<chemistry id="chem0180" num="0180"><img id="ib0180" file="imgb0180.tif" wi="89" he="30" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0129" num="0129">Compound 109 (2.1 g, yield 14%) was synthesized in the same manner as in Synthesis Example 1-7, except that Intermediate 6-d was used instead of Intermediate 1-f.<br/>
+MS (MALDI-TOF): m/z 472.12 [M<sup>+</sup>]</p>
+<heading id="h0041"><b><u>Synthesis Example 7: Synthesis of Compound 126</u></b></heading>
+<heading id="h0042"><b><u>Synthesis Example 7-1: Synthesis of Intermediate 7-a</u></b></heading>
+<p id="p0130" num="0130">
+<chemistry id="chem0181" num="0181"><img id="ib0181" file="imgb0181.tif" wi="102" he="29" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0131" num="0131">Intermediate 2-b (30.0 g, 150 mmol), phenol (31.2 g, 160 mmol), potassium carbonate (45.7 g, 300 mmol), and NMP (250 mL) were placed in a 500 mL reactor. The mixture was refluxed with stirring at 160 °C for 12 h. After completion of the reaction, the reaction mixture was cooled to room temperature, distilled under reduced pressure to remove the NMP, and extracted with water and ethyl acetate. The organic layer was concentrated under reduced pressure and purified by column chromatography to<!-- EPO <DP n="55"> --> afford Intermediate 7-a (22 g, yield 68%).</p>
+<heading id="h0043"><u>Synthesis Example 7-2: Synthesis of Compound 126</u></heading>
+<p id="p0132" num="0132">
+<chemistry id="chem0182" num="0182"><img id="ib0182" file="imgb0182.tif" wi="90" he="35" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0133" num="0133">Compound 126 (1.2 g, yield 13.4%) was synthesized in the same manner as in Synthesis Example 1-7, except that Intermediate 7-a was used instead of Intermediate 1-f.<br/>
+MS (MALDI-TOF) : m/z 401.10 [M<sup>+</sup>]</p>
+<heading id="h0044"><u><b>Synthesis Example</b> 8: <b>Synthesis</b> of Compound 145</u></heading>
+<heading id="h0045"><u>Synthesis Example 8-1: Synthesis of Intermediate 8-a</u></heading>
+<p id="p0134" num="0134">
+<chemistry id="chem0183" num="0183"><img id="ib0183" file="imgb0183.tif" wi="105" he="28" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0135" num="0135">Intermediate 8-a (41.6 g, yield 88.2%) was synthesized in the same manner as in Synthesis Example 1-3, except that 2-bromo-5-tert-butyl-1,3-dimethylbenzene and 4-tert-butylaniline were used instead of 1-bromo-3-iodobenzene and aniline.</p>
+<heading id="h0046"><u>Synthesis Example 8-2: Synthesis of Intermediate 8-b</u></heading><!-- EPO <DP n="56"> -->
+<p id="p0136" num="0136">
+<chemistry id="chem0184" num="0184"><img id="ib0184" file="imgb0184.tif" wi="105" he="28" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0137" num="0137">Intermediate 8-b (37.6 g, yield 78.4%) was synthesized in the same manner as in Synthesis Example 4-2, except that Intermediate 8-a was used instead of diphenylamine.</p>
+<heading id="h0047"><u>Synthesis Example 8-3: Synthesis of Intermediate 8-c</u></heading>
+<p id="p0138" num="0138">
+<chemistry id="chem0185" num="0185"><img id="ib0185" file="imgb0185.tif" wi="106" he="29" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0139" num="0139">Intermediate 8-c (31.2 g, yield 74.2%) was synthesized in the same manner as in Synthesis Example 1-3, except that Intermediate 8-b and 4-tert-butylaniline were used instead of 1-bromo-3-iodobenzene and aniline.</p>
+<heading id="h0048"><u>Synthesis Example 8-4: Synthesis of Intermediate 8-d</u></heading>
+<p id="p0140" num="0140">
+<chemistry id="chem0186" num="0186"><img id="ib0186" file="imgb0186.tif" wi="106" he="28" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0141" num="0141">Intermediate 8-d (30.3 g, yield 89.8%) was synthesized in the same manner as in Synthesis Example 1-3, except that 1-bromo-2,3-dichloro-5-methylbenzene and 4-tert-butylaniline were used instead of 1-bromo-3-iodobenzene and aniline.</p>
+<heading id="h0049"><u>Synthesis Example 8-5: Synthesis of Intermediate 8-e</u></heading><!-- EPO <DP n="57"> -->
+<p id="p0142" num="0142">
+<chemistry id="chem0187" num="0187"><img id="ib0187" file="imgb0187.tif" wi="102" he="29" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0143" num="0143">Intermediate 8-e (27.4 g, yield 77.1%) was synthesized in the same manner as in Synthesis Example 1-4, except that Intermediate 8-d and 3-bromo-5-tert-butylbenzothiophene were used instead of Intermediate 1-c and Intermediate 1-b.</p>
+<heading id="h0050"><u>Synthesis Example 8-6: Synthesis of Intermediate 8-f</u></heading>
+<p id="p0144" num="0144">
+<chemistry id="chem0188" num="0188"><img id="ib0188" file="imgb0188.tif" wi="105" he="35" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0145" num="0145">Intermediate 8-f (21 g, yield 74.1%) was synthesized in the same manner as in Synthesis Example 1-4, except that Intermediate 8-e and Intermediate 8-c were used instead of Intermediate 1-c and Intermediate 1-b.</p>
+<heading id="h0051"><u>Synthesis Example 8-7: Synthesis of Compound 145</u></heading>
+<p id="p0146" num="0146">
+<chemistry id="chem0189" num="0189"><img id="ib0189" file="imgb0189.tif" wi="110" he="44" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0147" num="0147">Compound 145 (3.4 g, yield 19.4%) was synthesized in the same manner as in Synthesis Example 1-7, except that Intermediate 8-f was used instead of Intermediate 1-f.<br/>
+MS (MALDI-TOF) : m/z 979.60 [M]<sup>+</sup><!-- EPO <DP n="58"> --></p>
+<heading id="h0052"><b><u>Synthesis Example 9: Synthesis of Compound 150</u></b></heading>
+<heading id="h0053"><u>Synthesis Example 9-1: Synthesis of Intermediate 9-a</u></heading>
+<p id="p0148" num="0148">
+<chemistry id="chem0190" num="0190"><img id="ib0190" file="imgb0190.tif" wi="90" he="26" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0149" num="0149">Intermediate 9-a (32.7 g, yield 78.2%) was synthesized in the same manner as in Synthesis Example 1-3, except that 1-bromobenzene-d5 and 4-tert-butylaniline were used instead of 1-bromo-3-iodobenzene and aniline.</p>
+<heading id="h0054"><u>Synthesis Example 9-2: Synthesis of Intermediate 9-b</u></heading>
+<p id="p0150" num="0150">
+<chemistry id="chem0191" num="0191"><img id="ib0191" file="imgb0191.tif" wi="106" he="34" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0151" num="0151">Intermediate 9-b (34.2 g, yield 84.1%) was synthesized in the same manner as in Synthesis Example 1-4, except that Intermediate 8-e and Intermediate 9-a were used instead of Intermediate 1-c and Intermediate 1-b.</p>
+<heading id="h0055"><u>Synthesis Example 9-3: Synthesis of Compound 150</u></heading>
+<p id="p0152" num="0152">
+<chemistry id="chem0192" num="0192"><img id="ib0192" file="imgb0192.tif" wi="93" he="36" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0153" num="0153">Compound 150 (2.7 g, yield 11.4%) was synthesized in the same manner as in Synthesis Example 1-7, except that Intermediate 9-b was used instead of Intermediate 1-f.<br/>
+<!-- EPO <DP n="59"> -->MS (MALDI-TOF) : m/z 663.39 [M]<sup>+</sup></p>
+<heading id="h0056"><u>Synthesis Example 10: Synthesis of Compound 153</u></heading>
+<heading id="h0057"><u>Synthesis Example 10-1: Synthesis of Intermediate 10-a</u></heading>
+<p id="p0154" num="0154">
+<chemistry id="chem0193" num="0193"><img id="ib0193" file="imgb0193.tif" wi="89" he="29" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0155" num="0155">Intermediate 10-a (25.6 g, yield 79.2%) was synthesized in the same manner as in Synthesis Example 1-3, except that 1-bromo-dibenzofuran and 4-tert-butylaniline were used instead of 1-bromo-3-iodobenzene and aniline.</p>
+<heading id="h0058"><u>Synthesis Example 10-2: Synthesis of Intermediate 10-b</u></heading>
+<p id="p0156" num="0156">
+<chemistry id="chem0194" num="0194"><img id="ib0194" file="imgb0194.tif" wi="107" he="34" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0157" num="0157">Intermediate 10-b (18.6 g, yield 74.1%) was synthesized in the same manner as in Synthesis Example 1-4, except that Intermediate 8-e and Intermediate 10-a were used instead of Intermediate 1-c and Intermediate 1-b.</p>
+<heading id="h0059"><u>Synthesis Example 10-3: Synthesis of Compound 153</u></heading><!-- EPO <DP n="60"> -->
+<p id="p0158" num="0158">
+<chemistry id="chem0195" num="0195"><img id="ib0195" file="imgb0195.tif" wi="93" he="30" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0159" num="0159">Compound 153 (3.4 g, yield 15.4%) was synthesized in the same manner as in Synthesis Example 1-7, except that Intermediate 10-b was were used instead of Intermediate 1-f.<br/>
+MS (MALDI-TOF) : m/z 748.37 [M]<sup>+</sup></p>
+<heading id="h0060"><b><u>Synthesis Example 11: Synthesis of the Compound 185</u></b></heading>
+<p id="p0160" num="0160">Compound 185 (2.1 g, yield 12%) was synthesized in the same manner as in Synthesis Example 3, except that 1-bromo-3-iodobenzene and 4-tert-butylaniline were used instead of 1-bromo-3-(tert-butyl)-5-iodobenzene and aniline (Synthesis Example 3-1), respectively, and 3-bromo-5-methylbenzofuran was used instead of 3-bromobenzofuran (Intermediate 1-b) (Synthesis Example 3-2).<br/>
+MS (MALDI-TOF) : m/z 640.33 [M]<sup>+</sup></p>
+<heading id="h0061"><b><u>Synthesis Example 12: Synthesis of the Compound 4</u></b></heading>
+<p id="p0161" num="0161">Compound 4 (1.1 g, yield 19%) was synthesized in the same manner as in Synthesis Examples 1-4 to 1-7, except that 3-bromo-1-phenyl-1H-indole was used instead of Intermediate 1-b (Synthesis Example 1-4).<br/>
+MS (MALDI-TOF) : m/z 535.22 [M]<sup>+</sup></p>
+<heading id="h0062"><b>&lt;Synthesis of the compounds represented by Formula B&gt;</b></heading>
+<heading id="h0063"><u>Synthesis Example 13: Synthesis of the Compound B101</u></heading><!-- EPO <DP n="61"> -->
+<p id="p0162" num="0162">4.2 g of 2-(4-bromophenyl)-2H-benzo[1,2,3]triazole, 2.3 g of N,N'-diphenylbenzidine, 2.0 g of sodium tert-butoxide, and 50 mL of toluene were placed in a reactor, which had been flushed with nitrogen. Nitrogen gas was passed through the reactor during sonication for 30 min. 62.0 mg of palladium acetate and 0.2 mL of tri-tert-butylphosphine was added to the reactor. The mixture was heated to 91 °C and stirred at the same temperature for 5 h. After cooling to room temperature, the reaction mixture was extracted with 50 mL of toluene. The organic layer was collected, concentrated, purified by column chromatography on NH silica gel (eluent: toluene/n-hexane), and dispersed in and washed with 100 mL of n-hexane to give the Compound B101 (3.3 g, yield 66%) as a yellow powder.</p>
+<p id="p0163" num="0163">The structure of the yellow powder was identified by NMR. The following 34 hydrogen signals were detected by <sup>1</sup>H-NMR (THF-d<sub>8</sub>).<br/>
+δ (ppm) = 8.26 (4H), 7.89 (4H), 7.60 (4H), 7.39 (4H), 7.33 (4H), 7.24 (4H), 7.21 (8H), 7.10 (2H).</p>
+<heading id="h0064"><u>Synthesis Example 14: Synthesis of the Compound B106</u></heading>
+<p id="p0164" num="0164">14.0 g of 4,4"-diiodo-1,1':4',1"-terphenyl, 18.3 g of {4-(2H-benzo[1,2,3]triazol-2-yl)phenyl}phenylamine, 13.2 g of potassium carbonate, 0.3 g of copper powder, 0.9 g of sodium hydrogen sulfite, 0.7 g of 3,5-di-tert-butylsalicylic acid, and 30 mL of dodecyl benzene were placed in a reactor, which had been flushed with nitrogen. The mixture was heated to 210 °C and stirred at the same temperature for 44 h. After the reaction mixture was allowed to cool to room temperature, 50 mL of toluene was added thereto. The precipitate was collected by filtration, dissolved in 230 mL of 1,2-dichlorobenzene by heating, and subjected to hot filtration to remove insolubles. The filtrate was concentrated, purified by crystallization from 1,2-dichlorobenzene, and dispersed in and washed with methanol to give the Compound B106 (22.2 g, yield 96%) as a yellow powder.</p>
+<p id="p0165" num="0165">The structure of the yellow powder was identified by NMR. The following 38 hydrogen signals were detected by <sup>1</sup>H-NMR (CDCl<sub>3</sub>).<br/>
+δ (ppm) = 8.24 (4H), 7.99-7.92 (4H), 7.72-7.58 (7H), 7.50-7.12 (23H).<!-- EPO <DP n="62"> --></p>
+<heading id="h0065"><u>Synthesis Example 15: Synthesis of the Compound B119</u></heading>
+<p id="p0166" num="0166">Compound B119 (12.4 g, yield 47%) as a yellow powder was synthesized in the same manner as in Synthesis Example 14, except that {4-(benzoxazol-2-yl)phenyl}phenylamine was used instead of {4-(2H-benzo[1,2,3]triazol-2-yl)phenyl}phenylamine.</p>
+<p id="p0167" num="0167">The structure of the yellow powder was identified by NMR. The following 38 hydrogen signals were detected by <sup>1</sup>H-NMR (CDCl<sub>3</sub>). <maths id="math0001" num=""><math display="block"><mi mathvariant="normal">δ</mi><mfenced><mi>ppm</mi></mfenced><mo>=</mo><mn>8.13</mn><mfenced separators=""><mn>4</mn><mi mathvariant="normal">H</mi></mfenced><mo>,</mo><mspace width="1ex"/><mn>7.80</mn><mo>−</mo><mn>7.55</mn><mfenced separators=""><mn>11</mn><mi mathvariant="normal">H</mi></mfenced><mo>,</mo><mspace width="1ex"/><mn>7.50</mn><mo>−</mo><mn>7.16</mn><mfenced separators=""><mn>23</mn><mi mathvariant="normal">H</mi></mfenced><mo>.</mo></math><img id="ib0196" file="imgb0196.tif" wi="87" he="5" img-content="math" img-format="tif"/></maths></p>
+<heading id="h0066"><u>Synthesis Example 16: Synthesis of the Compound B120</u></heading>
+<p id="p0168" num="0168">Compound of B120 (8.8 g, yield 54%) as a lemon yellow powder was synthesized in the same manner as in Synthesis Example 13, except that 2-(4-bromophenyl)benzoxazole was used instead of 2-(4-bromophenyl)-2H-benzo[1,2,3]triazole.</p>
+<p id="p0169" num="0169">The structure of the lemon yellow powder was identified by NMR. The following 34 hydrogen signals were detected by <sup>1</sup>H-NMR (CDCl<sub>3</sub>). <maths id="math0002" num=""><math display="block"><mi mathvariant="normal">δ</mi><mfenced><mi>ppm</mi></mfenced><mo>=</mo><mn>8.12</mn><mfenced separators=""><mn>4</mn><mi mathvariant="normal">H</mi></mfenced><mo>,</mo><mspace width="1ex"/><mn>7.80</mn><mo>−</mo><mn>7.72</mn><mfenced separators=""><mn>2</mn><mi mathvariant="normal">H</mi></mfenced><mo>,</mo><mspace width="1ex"/><mn>7.60</mn><mo>−</mo><mn>7.53</mn><mfenced separators=""><mn>5</mn><mi mathvariant="normal">H</mi></mfenced><mo>,</mo><mspace width="1ex"/><mn>7.41</mn><mo>−</mo><mn>7.14</mn><mfenced separators=""><mn>23</mn><mi mathvariant="normal">H</mi></mfenced><mo>.</mo></math><img id="ib0197" file="imgb0197.tif" wi="110" he="5" img-content="math" img-format="tif"/></maths></p>
+<heading id="h0067"><u>Synthesis Example 17: Synthesis of the Compound B122</u></heading>
+<p id="p0170" num="0170">Compound B122 (9.3 g, yield 62%) as a lemon yellow powder was synthesized in the same manner as in Synthesis Example 13, except that 2-(4-bromophenyl)benzothiazole was used instead of 2-(4-bromophenyl)-2H-benzo[1,2,3]triazole. The structure of the lemon yellow powder was identified by NMR. The following 34 hydrogen signals were detected by <sup>1</sup>H-NMR (CDCl<sub>3</sub>). <maths id="math0003" num=""><math display="block"><mi mathvariant="normal">δ</mi><mfenced><mi>ppm</mi></mfenced><mo>=</mo><mn>8.10</mn><mo>−</mo><mn>7.88</mn><mfenced separators=""><mn>8</mn><mi mathvariant="normal">H</mi></mfenced><mo>,</mo><mspace width="1ex"/><mn>7.60</mn><mo>−</mo><mn>7.13</mn><mfenced separators=""><mn>26</mn><mi mathvariant="normal">H</mi></mfenced><mo>.</mo></math><img id="ib0198" file="imgb0198.tif" wi="69" he="5" img-content="math" img-format="tif"/></maths></p>
+<heading id="h0068"><u>Synthesis Example 18: Synthesis of the Compound B123</u></heading><!-- EPO <DP n="63"> -->
+<p id="p0171" num="0171">9.3 g of N-{4-(benzothiazol-2-yl)phenyl}phenylamine, 7.1 g of 4,4"-diiodo-1,1':4',1"-terphenyl, 4.6 g of sodium tert-butoxide, and 140 mL of toluene were placed in a reactor, which had been flushed with nitrogen. Nitrogen gas was passed through the reactor during sonication for 30 min. 0.20 g of palladium acetate and 0.5 g of a 50% (v/v) toluene solution of tert-butylphosphine was added. The mixture was heated and refluxed with stirring for 3 h. The reaction mixture was cooled to room temperature. The precipitate was collected by filtration and purified by repeated crystallization from a mixed solvent of 1,2-dichlorobenzene/methanol to give the Compound B123 (7.0 g, yield 58%) as a yellow powder.</p>
+<p id="p0172" num="0172">The structure of the yellow powder was identified by NMR. The following 38 hydrogen signals were detected by <sup>1</sup>H-NMR (THF-d<sub>8</sub>). <maths id="math0004" num=""><math display="block"><mi mathvariant="normal">δ</mi><mfenced><mi>ppm</mi></mfenced><mo>=</mo><mn>8.07</mn><mo>−</mo><mn>7.88</mn><mfenced separators=""><mn>8</mn><mi mathvariant="normal">H</mi></mfenced><mo>,</mo><mspace width="1ex"/><mn>7.70</mn><mo>−</mo><mn>7.60</mn><mfenced separators=""><mn>8</mn><mi mathvariant="normal">H</mi></mfenced><mo>,</mo><mspace width="1ex"/><mn>7.54</mn><mo>−</mo><mn>7.46</mn><mfenced separators=""><mn>2</mn><mi mathvariant="normal">H</mi></mfenced><mo>,</mo><mspace width="1ex"/><mn>7.40</mn><mo>−</mo><mn>7.15</mn><mfenced separators=""><mn>20</mn><mi mathvariant="normal">H</mi></mfenced><mo>.</mo></math><img id="ib0199" file="imgb0199.tif" wi="117" he="5" img-content="math" img-format="tif"/></maths></p>
+<heading id="h0069"><b>&lt;Examples 1-12: Fabrication of organic electroluminescent devices&gt;</b></heading>
+<p id="p0173" num="0173">ITO glass was patterned to have a light emitting area of 2 mm × 2 mm, followed by cleaning. After the cleaned ITO glass was mounted in a vacuum chamber, the base pressure was adjusted to 1 × 10<sup>-7</sup> torr. 4,4',4"-tris[2-naphthyl(phenyl)amino]triphenyl amine (2-TNATA) (700 Å) and the compound of Formula F (600 Å) were deposited in this order on the ITO. A mixture of BH1 as a host and the compound of [Formula A-1] and [Formula A-2] of the present invention (3 wt%) was used to form a 200 Å thick light emitting layer. Thereafter, the compound of Formula E-2 was used to form a 300 Å thick electron transport layer on the light emitting layer. The compound of Formula E-1 was used to form a 10 Å thick electron injecting layer on the electron transport layer. MgAg was deposited on the electron injecting layer to form a 120 Å electrode. Finally, the compound of the present invention was used to form a 600 Å capping layer on the MgAg electrode, completing the fabrication of an organic electroluminescent device. The luminescent properties of the organic electroluminescent device were measured at 0.4 mA.
+<chemistry id="chem0196" num="0196"><img id="ib0200" file="imgb0200.tif" wi="121" he="5" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="64"> -->
+<chemistry id="chem0197" num="0197"><img id="ib0201" file="imgb0201.tif" wi="137" he="34" img-content="chem" img-format="tif"/></chemistry></p>
+<heading id="h0070"><b><u>Comparative Examples 1-8</u></b></heading>
+<p id="p0174" num="0174">Organic electroluminescent devices were fabricated in the same manner as in Example 1, except that BD1, BD2, BD3, BD4, and BD5 were used instead of the dopant compound and Alq3 and CPL-1 were used instead of the compound for the capping layer. The luminescent properties of the organic electroluminescent device were measured at 0.4 mA. The structures of BD1, BD2, BD3, BD4, BD5, and CPL-1 are as follows.
+<chemistry id="chem0198" num="0198"><img id="ib0202" file="imgb0202.tif" wi="123" he="50" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0199" num="0199"><img id="ib0203" file="imgb0203.tif" wi="124" he="37" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0175" num="0175">The organic electroluminescent devices of Examples 1-12 and Comparative Examples 1-8 were measured for driving voltage and efficiency. The results are shown in Table 1.<!-- EPO <DP n="65"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>[Table 1]</title>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" colwidth="38mm"/>
+<colspec colnum="2" colname="col2" colwidth="12mm"/>
+<colspec colnum="3" colname="col3" colwidth="16mm"/>
+<colspec colnum="4" colname="col4" colwidth="15mm"/>
+<colspec colnum="5" colname="col5" colwidth="27mm"/>
+<colspec colnum="6" colname="col6" colwidth="28mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle">Example No.</entry>
+<entry align="center" valign="middle">Host</entry>
+<entry align="center" valign="middle">Dopant</entry>
+<entry align="center" valign="middle">CPL</entry>
+<entry align="center" valign="middle">Driving voltage</entry>
+<entry align="center" valign="middle">Efficiency (Cd/A)</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Example 1</entry>
+<entry align="center" valign="middle">BH1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">B101</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">8.4</entry></row>
+<row>
+<entry align="center" valign="middle">Example 2</entry>
+<entry align="center" valign="middle">BH1</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">B101</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">9.2</entry></row>
+<row>
+<entry align="center" valign="middle">Example 3</entry>
+<entry align="center" valign="middle">BH1</entry>
+<entry align="center" valign="middle">126</entry>
+<entry align="center" valign="middle">B106</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">8.3</entry></row>
+<row>
+<entry align="center" valign="middle">Example 4</entry>
+<entry align="center" valign="middle">BH1</entry>
+<entry align="center" valign="middle">145</entry>
+<entry align="center" valign="middle">B106</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">8.3</entry></row>
+<row>
+<entry align="center" valign="middle">Example 5</entry>
+<entry align="center" valign="middle">BH1</entry>
+<entry align="center" valign="middle">145</entry>
+<entry align="center" valign="middle">B101</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">8.3</entry></row>
+<row>
+<entry align="center" valign="middle">Example 6</entry>
+<entry align="center" valign="middle">BH1</entry>
+<entry align="center" valign="middle">146</entry>
+<entry align="center" valign="middle">B106</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">9.2</entry></row>
+<row>
+<entry align="center" valign="middle">Example 7</entry>
+<entry align="center" valign="middle">BH1</entry>
+<entry align="center" valign="middle">146</entry>
+<entry align="center" valign="middle">B101</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">9.1</entry></row>
+<row>
+<entry align="center" valign="middle">Example 8</entry>
+<entry align="center" valign="middle">BH1</entry>
+<entry align="center" valign="middle">153</entry>
+<entry align="center" valign="middle">B106</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">9.1</entry></row>
+<row>
+<entry align="center" valign="middle">Example 9</entry>
+<entry align="center" valign="middle">BH1</entry>
+<entry align="center" valign="middle">157</entry>
+<entry align="center" valign="middle">B106</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">8.7</entry></row>
+<row>
+<entry align="center" valign="middle">Example 10</entry>
+<entry align="center" valign="middle">BH1</entry>
+<entry align="center" valign="middle">167</entry>
+<entry align="center" valign="middle">B106</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">8.7</entry></row>
+<row>
+<entry align="center" valign="middle">Example 11</entry>
+<entry align="center" valign="middle">BH1</entry>
+<entry align="center" valign="middle">180</entry>
+<entry align="center" valign="middle">B106</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">8.9</entry></row>
+<row>
+<entry align="center" valign="middle">Example 12</entry>
+<entry align="center" valign="middle">BH1</entry>
+<entry align="center" valign="middle">185</entry>
+<entry align="center" valign="middle">B101</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">10.6</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 1</entry>
+<entry align="center" valign="middle">BH1</entry>
+<entry align="center" valign="middle">BD1</entry>
+<entry align="center" valign="middle">B106</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">6.6</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 2</entry>
+<entry align="center" valign="middle">BH1</entry>
+<entry align="center" valign="middle">BD2</entry>
+<entry align="center" valign="middle">B106</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">6.8</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 3</entry>
+<entry align="center" valign="middle">BH1</entry>
+<entry align="center" valign="middle">BD3</entry>
+<entry align="center" valign="middle">B106</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">6.2</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 4</entry>
+<entry align="center" valign="middle">BH1</entry>
+<entry align="center" valign="middle">BD4</entry>
+<entry align="center" valign="middle">B106</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">7.8</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 5</entry>
+<entry align="center" valign="middle">BH1</entry>
+<entry align="center" valign="middle">BD5</entry>
+<entry align="center" valign="middle">B106</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">6.8</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 6</entry>
+<entry align="center" valign="middle">BH1</entry>
+<entry align="center" valign="middle">BD2</entry>
+<entry align="center" valign="middle">Alq3</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">5.5</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 7</entry>
+<entry align="center" valign="middle">BH1</entry>
+<entry align="center" valign="middle">BD2</entry>
+<entry align="center" valign="middle">CPL-1</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">5.7</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 8</entry>
+<entry align="center" valign="middle">BH1</entry>
+<entry align="center" valign="middle">BD4</entry>
+<entry align="center" valign="middle">Alq3</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">7.8</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0176" num="0176">The organic electroluminescent devices of Examples 1-12, each including the light emitting layer and the capping layer employing the compounds shown in Table 1, showed higher efficiencies than the organic electroluminescent devices of Comparative Examples 1-8.</p>
+<p id="p0177" num="0177">The formation of the light emitting layer employing the polycyclic aromatic compound and the optional capping layer makes the organic electroluminescent device of the present invention highly efficient. In addition, the organic electroluminescent device of the present invention is suitable for use in a display or lighting system selected from flat panel displays, flexible displays, monochromatic flat panel lighting systems, white flat panel lighting systems, flexible monochromatic lighting systems, and flexible white lighting systems.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="66"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>An organic electroluminescent device comprising a first electrode, a second electrode opposite to the first electrode, a light emitting layer interposed between the first and second electrodes, and a capping layer formed on one of the surfaces of the first and second electrodes opposite to the light emitting layer, wherein the light emitting layer comprises any one of compounds represented by Formula A-1 or Formula A-2 and the capping layer comprises a compound represented by Formula B:
+<chemistry id="chem0200" num="0200"><img id="ib0204" file="imgb0204.tif" wi="98" he="42" img-content="chem" img-format="tif"/></chemistry>
+wherein Q<sub>1</sub> to Q<sub>3</sub> are identical to or different from each other and are each independently a substituted or unsubstituted C<sub>6</sub>-C<sub>50</sub> aromatic hydrocarbon ring or a substituted or unsubstituted C<sub>2</sub>-C<sub>50</sub> heteroaromatic ring, the linkers Y are identical to or different from each other and are each independently selected from N-R<sub>1</sub>, CR<sub>2</sub>R<sub>3</sub>, O, S, Se, and SiR<sub>4</sub>R<sub>5</sub>, X is selected from B, P, P=S, and P=O, and R<sub>1</sub> to R<sub>5</sub> are identical to or different from each other and are each independently selected from hydrogen, deuterium, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkyl, substituted or unsubstituted C<sub>6</sub>-C<sub>50</sub> aryl, substituted or unsubstituted C<sub>3</sub>-C<sub>30</sub> cycloalkyl, substituted or unsubstituted C<sub>2</sub>-C<sub>50</sub> heteroaryl, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkoxy, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> aryloxy, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylthioxy, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> arylthioxy, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylamine, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> arylamine, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylsilyl, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> arylsilyl, nitro, cyano, and halogen, with the proviso that each of R<sub>1</sub> to R<sub>5</sub> is optionally bonded to Q<sub>1</sub>, Q<sub>2</sub> or Q<sub>3</sub> to form an alicyclic or aromatic monocyclic or polycyclic ring, R<sub>2</sub> and R<sub>3</sub> are optionally linked to each other to form an alicyclic or aromatic monocyclic or polycyclic ring, and R<sub>3</sub> and R<sub>4</sub> are optionally linked to each other to form an alicyclic or aromatic monocyclic or polycyclic ring, and<!-- EPO <DP n="67"> -->
+<chemistry id="chem0201" num="0201"><img id="ib0205" file="imgb0205.tif" wi="93" he="42" img-content="chem" img-format="tif"/></chemistry>
+wherein R<sub>41</sub> to R<sub>43</sub> are identical to or different from each other and are each independently selected from hydrogen, deuterium, substituted or unsubstituted C<sub>1</sub>-C<sub>20</sub> alkyl, substituted or unsubstituted C<sub>6</sub>-C<sub>50</sub> aryl, substituted or unsubstituted C<sub>7</sub>-C<sub>50</sub> arylalkyl, substituted or unsubstituted C<sub>3</sub>-C<sub>30</sub> cycloalkyl, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylsilyl, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> arylsilyl, and halogen, L<sub>31</sub> to L<sub>34</sub> are identical to or different from each other and are each independently single bonds or selected from substituted or unsubstituted C<sub>6</sub>-C<sub>50</sub> arylene and substituted or unsubstituted C<sub>2</sub>-C<sub>50</sub> heteroarylene, Ar<sub>31</sub> to Ar<sub>34</sub> are identical to or different from each other and are each independently selected from substituted or unsubstituted Ce-C<sub>50</sub> aryl and substituted or unsubstituted C<sub>2</sub>-C<sub>50</sub> heteroaryl, n is an integer from 0 to 4, provided that when n is 2 or greater, the aromatic rings containing R<sub>43</sub> are identical to or different from each other, m<sub>1</sub> to m<sub>3</sub> are integers from 0 to 4, provided that when both m<sub>1</sub> and m<sub>3</sub> are 2 or more, the R<sub>41</sub>, R<sub>42</sub>, and R<sub>43</sub> groups are identical to or different from each other, and hydrogen or deuterium atoms are bonded to the carbon atoms of the aromatic rings to which R<sub>41</sub> to R<sub>43</sub> are not attached.</claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The organic electroluminescent device according to claim 1, wherein the compound of Formula A-1 or A-2 is represented by Formula A-3 or Formula A-4:
+<chemistry id="chem0202" num="0202"><img id="ib0206" file="imgb0206.tif" wi="105" he="44" img-content="chem" img-format="tif"/></chemistry>
+wherein each Z is independently CR or N, the substituents R are identical to or different from<!-- EPO <DP n="68"> --> each other and are independently selected from hydrogen, deuterium, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkyl, substituted or unsubstituted C<sub>6</sub>-C<sub>50</sub> aryl, substituted or unsubstituted C<sub>3</sub>-C<sub>30</sub> cycloalkyl, substituted or unsubstituted C<sub>2</sub>-C<sub>50</sub> heteroaryl, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkoxy, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> aryloxy, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylthioxy, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> arylthioxy, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylamine, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> arylamine, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylsilyl, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> arylsilyl, nitro, cyano, and halogen, with the proviso that the substituents R are optionally bonded to each other or are optionally linked to other adjacent substituents to form alicyclic or aromatic monocyclic or polycyclic rings whose carbon atoms are optionally substituted with one or more heteroatoms selected from N, S, and O atoms, and X and Y are as defined in Formulae A-1 and A-2.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The organic electroluminescent device according to claim 1, wherein the compound of Formula A-1 or A-2 is represented by Formula A-5 or Formula A-6:
+<chemistry id="chem0203" num="0203"><img id="ib0207" file="imgb0207.tif" wi="112" he="44" img-content="chem" img-format="tif"/></chemistry>
+wherein each Z is independently CR or N, the substituents R are identical to or different from each other and are independently selected from hydrogen, deuterium, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkyl, substituted or unsubstituted C<sub>6</sub>-C<sub>50</sub> aryl, substituted or unsubstituted C<sub>3</sub>-C<sub>30</sub> cycloalkyl, substituted or unsubstituted C<sub>2</sub>-C<sub>50</sub> heteroaryl, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkoxy, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> aryloxy, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylthioxy, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> arylthioxy, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylamine, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> arylamine, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylsilyl, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> arylsilyl, nitro, cyano, and halogen, with the proviso that the substituents R are optionally bonded to each other or are optionally linked to other adjacent substituents to form alicyclic or aromatic monocyclic or<!-- EPO <DP n="69"> --> polycyclic rings whose carbon atoms are optionally substituted with one or more heteroatoms selected from N, S, and O atoms, and X and Y are as defined in Formulae A-1 and A-2.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The organic electroluminescent device according to claim 1, wherein at least one of Ar<sub>31</sub> to Ar<sub>34</sub> in Formula B is represented by Formula C:
+<chemistry id="chem0204" num="0204"><img id="ib0208" file="imgb0208.tif" wi="45" he="36" img-content="chem" img-format="tif"/></chemistry>
+wherein R<sub>51</sub> to R<sub>54</sub> are identical to or different from each other and are each independently selected from hydrogen, deuterium, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkyl, substituted or unsubstituted C<sub>6</sub>-C<sub>50</sub> aryl, substituted or unsubstituted C<sub>2</sub>-C<sub>30</sub> alkenyl, substituted or unsubstituted C<sub>2</sub>-C<sub>20</sub> alkynyl, substituted or unsubstituted C<sub>3</sub>-C<sub>30</sub> cycloalkyl, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> cycloalkenyl, substituted or unsubstituted C<sub>2</sub>-C<sub>50</sub> heteroaryl, substituted or unsubstituted C<sub>2</sub>-C<sub>30</sub> heterocycloalkyl, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkoxy, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> aryloxy, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylthioxy, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> arylthioxy, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylamine, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> arylamine, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylsilyl, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> arylsilyl, nitro, cyano, and halogen, which are optionally linked to each other to form a ring, Y is a carbon or nitrogen atom, Z is a carbon, oxygen, sulfur or nitrogen atom, Ar<sub>35</sub> to Ar<sub>37</sub> are identical to or different from each other and are each independently selected from substituted or unsubstituted C<sub>5</sub>-C<sub>50</sub> aryl and substituted or unsubstituted C<sub>3</sub>-C<sub>50</sub> heteroaryl, provided that when Z is an oxygen or sulfur atom, Ar<sub>37</sub> is nothing, provided that when Y and Z are nitrogen atoms, only one of Ar<sub>35</sub>, Ar<sub>36</sub>, and Ar<sub>37</sub> is present, provided that when Y is a nitrogen atom and Z is a carbon atom, Ar<sub>36</sub> is nothing, with the proviso that one of R<sub>51</sub> to R<sub>54</sub> and Ar<sub>35</sub> to Ar<sub>37</sub> is a single bond linked to one of the linkers L<sub>31</sub> to L<sub>34</sub> in Formula B.<!-- EPO <DP n="70"> --></claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The organic electroluminescent device according to claim 1, wherein the compound of Formula A-1 or A-2 is selected from the compounds of 1 to 204:
+<chemistry id="chem0205" num="0205"><img id="ib0209" file="imgb0209.tif" wi="144" he="34" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0206" num="0206"><img id="ib0210" file="imgb0210.tif" wi="146" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0207" num="0207"><img id="ib0211" file="imgb0211.tif" wi="149" he="35" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0208" num="0208"><img id="ib0212" file="imgb0212.tif" wi="151" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0209" num="0209"><img id="ib0213" file="imgb0213.tif" wi="149" he="37" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="71"> -->
+<chemistry id="chem0210" num="0210"><img id="ib0214" file="imgb0214.tif" wi="148" he="43" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0211" num="0211"><img id="ib0215" file="imgb0215.tif" wi="148" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0212" num="0212"><img id="ib0216" file="imgb0216.tif" wi="146" he="34" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0213" num="0213"><img id="ib0217" file="imgb0217.tif" wi="143" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0214" num="0214"><img id="ib0218" file="imgb0218.tif" wi="145" he="36" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="72"> -->
+<chemistry id="chem0215" num="0215"><img id="ib0219" file="imgb0219.tif" wi="147" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0216" num="0216"><img id="ib0220" file="imgb0220.tif" wi="150" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0217" num="0217"><img id="ib0221" file="imgb0221.tif" wi="144" he="35" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0218" num="0218"><img id="ib0222" file="imgb0222.tif" wi="152" he="29" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0219" num="0219"><img id="ib0223" file="imgb0223.tif" wi="152" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0220" num="0220"><img id="ib0224" file="imgb0224.tif" wi="152" he="29" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="73"> -->
+<chemistry id="chem0221" num="0221"><img id="ib0225" file="imgb0225.tif" wi="122" he="4" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0222" num="0222"><img id="ib0226" file="imgb0226.tif" wi="148" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0223" num="0223"><img id="ib0227" file="imgb0227.tif" wi="146" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0224" num="0224"><img id="ib0228" file="imgb0228.tif" wi="148" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0225" num="0225"><img id="ib0229" file="imgb0229.tif" wi="148" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0226" num="0226"><img id="ib0230" file="imgb0230.tif" wi="148" he="42" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="74"> -->
+<chemistry id="chem0227" num="0227"><img id="ib0231" file="imgb0231.tif" wi="152" he="42" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0228" num="0228"><img id="ib0232" file="imgb0232.tif" wi="152" he="30" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0229" num="0229"><img id="ib0233" file="imgb0233.tif" wi="141" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0230" num="0230"><img id="ib0234" file="imgb0234.tif" wi="144" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0231" num="0231"><img id="ib0235" file="imgb0235.tif" wi="149" he="34" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0232" num="0232"><img id="ib0236" file="imgb0236.tif" wi="149" he="28" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="75"> -->
+<chemistry id="chem0233" num="0233"><img id="ib0237" file="imgb0237.tif" wi="124" he="4" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0234" num="0234"><img id="ib0238" file="imgb0238.tif" wi="145" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0235" num="0235"><img id="ib0239" file="imgb0239.tif" wi="146" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0236" num="0236"><img id="ib0240" file="imgb0240.tif" wi="145" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0237" num="0237"><img id="ib0241" file="imgb0241.tif" wi="148" he="34" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0238" num="0238"><img id="ib0242" file="imgb0242.tif" wi="145" he="35" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="76"> -->
+<chemistry id="chem0239" num="0239"><img id="ib0243" file="imgb0243.tif" wi="149" he="42" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0240" num="0240"><img id="ib0244" file="imgb0244.tif" wi="144" he="42" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0241" num="0241"><img id="ib0245" file="imgb0245.tif" wi="149" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0242" num="0242"><img id="ib0246" file="imgb0246.tif" wi="144" he="43" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0243" num="0243"><img id="ib0247" file="imgb0247.tif" wi="149" he="37" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="77"> -->
+<chemistry id="chem0244" num="0244"><img id="ib0248" file="imgb0248.tif" wi="151" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0245" num="0245"><img id="ib0249" file="imgb0249.tif" wi="147" he="29" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0246" num="0246"><img id="ib0250" file="imgb0250.tif" wi="146" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0247" num="0247"><img id="ib0251" file="imgb0251.tif" wi="148" he="29" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0248" num="0248"><img id="ib0252" file="imgb0252.tif" wi="145" he="37" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="78"> -->
+<chemistry id="chem0249" num="0249"><img id="ib0253" file="imgb0253.tif" wi="151" he="29" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0250" num="0250"><img id="ib0254" file="imgb0254.tif" wi="149" he="44" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0251" num="0251"><img id="ib0255" file="imgb0255.tif" wi="151" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0252" num="0252"><img id="ib0256" file="imgb0256.tif" wi="146" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0253" num="0253"><img id="ib0257" file="imgb0257.tif" wi="148" he="34" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="79"> -->
+<chemistry id="chem0254" num="0254"><img id="ib0258" file="imgb0258.tif" wi="146" he="45" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0255" num="0255"><img id="ib0259" file="imgb0259.tif" wi="148" he="50" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0256" num="0256"><img id="ib0260" file="imgb0260.tif" wi="146" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0257" num="0257"><img id="ib0261" file="imgb0261.tif" wi="146" he="45" img-content="chem" img-format="tif"/></chemistry></claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The organic electroluminescent device according to claim 1, wherein the compound of Formula B is selected from the following the compounds of Formula B1 to B79:<!-- EPO <DP n="80"> -->
+<chemistry id="chem0258" num="0258"><img id="ib0262" file="imgb0262.tif" wi="150" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0259" num="0259"><img id="ib0263" file="imgb0263.tif" wi="150" he="30" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0260" num="0260"><img id="ib0264" file="imgb0264.tif" wi="149" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0261" num="0261"><img id="ib0265" file="imgb0265.tif" wi="150" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0262" num="0262"><img id="ib0266" file="imgb0266.tif" wi="150" he="28" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0263" num="0263"><img id="ib0267" file="imgb0267.tif" wi="148" he="28" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="81"> -->
+<chemistry id="chem0264" num="0264"><img id="ib0268" file="imgb0268.tif" wi="146" he="27" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0265" num="0265"><img id="ib0269" file="imgb0269.tif" wi="135" he="35" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0266" num="0266"><img id="ib0270" file="imgb0270.tif" wi="150" he="34" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0267" num="0267"><img id="ib0271" file="imgb0271.tif" wi="145" he="34" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0268" num="0268"><img id="ib0272" file="imgb0272.tif" wi="135" he="42" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0269" num="0269"><img id="ib0273" file="imgb0273.tif" wi="147" he="28" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="82"> -->
+<chemistry id="chem0270" num="0270"><img id="ib0274" file="imgb0274.tif" wi="133" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0271" num="0271"><img id="ib0275" file="imgb0275.tif" wi="143" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0272" num="0272"><img id="ib0276" file="imgb0276.tif" wi="138" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0273" num="0273"><img id="ib0277" file="imgb0277.tif" wi="131" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0274" num="0274"><img id="ib0278" file="imgb0278.tif" wi="126" he="36" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="83"> -->
+<chemistry id="chem0275" num="0275"><img id="ib0279" file="imgb0279.tif" wi="132" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0276" num="0276"><img id="ib0280" file="imgb0280.tif" wi="139" he="29" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0277" num="0277"><img id="ib0281" file="imgb0281.tif" wi="133" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0278" num="0278"><img id="ib0282" file="imgb0282.tif" wi="122" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0279" num="0279"><img id="ib0283" file="imgb0283.tif" wi="127" he="34" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="84"> -->
+<chemistry id="chem0280" num="0280"><img id="ib0284" file="imgb0284.tif" wi="115" he="4" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0281" num="0281"><img id="ib0285" file="imgb0285.tif" wi="120" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0282" num="0282"><img id="ib0286" file="imgb0286.tif" wi="123" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0283" num="0283"><img id="ib0287" file="imgb0287.tif" wi="130" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0284" num="0284"><img id="ib0288" file="imgb0288.tif" wi="120" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0285" num="0285"><img id="ib0289" file="imgb0289.tif" wi="37" he="36" img-content="chem" img-format="tif"/></chemistry></claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The organic electroluminescent device according to claim 1, wherein the compound of Formula B is selected from the following the compounds of Formula B101 to B145:<!-- EPO <DP n="85"> -->
+<chemistry id="chem0286" num="0286"><img id="ib0290" file="imgb0290.tif" wi="148" he="42" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0287" num="0287"><img id="ib0291" file="imgb0291.tif" wi="148" he="42" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0288" num="0288"><img id="ib0292" file="imgb0292.tif" wi="148" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0289" num="0289"><img id="ib0293" file="imgb0293.tif" wi="148" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0290" num="0290"><img id="ib0294" file="imgb0294.tif" wi="148" he="36" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="86"> -->
+<chemistry id="chem0291" num="0291"><img id="ib0295" file="imgb0295.tif" wi="152" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0292" num="0292"><img id="ib0296" file="imgb0296.tif" wi="149" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0293" num="0293"><img id="ib0297" file="imgb0297.tif" wi="149" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0294" num="0294"><img id="ib0298" file="imgb0298.tif" wi="149" he="35" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0295" num="0295"><img id="ib0299" file="imgb0299.tif" wi="149" he="29" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0296" num="0296"><img id="ib0300" file="imgb0300.tif" wi="149" he="37" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="87"> -->
+<chemistry id="chem0297" num="0297"><img id="ib0301" file="imgb0301.tif" wi="148" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0298" num="0298"><img id="ib0302" file="imgb0302.tif" wi="149" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0299" num="0299"><img id="ib0303" file="imgb0303.tif" wi="149" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0300" num="0300"><img id="ib0304" file="imgb0304.tif" wi="149" he="29" img-content="chem" img-format="tif"/></chemistry></claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>The organic electroluminescent device according to claim 1, wherein the light emitting layer comprises, as a host compound, an anthracene derivative represented by Formula D:
+<chemistry id="chem0301" num="0301"><img id="ib0305" file="imgb0305.tif" wi="47" he="45" img-content="chem" img-format="tif"/></chemistry>
+wherein R<sub>21</sub> to R<sub>28</sub> are identical to or different from each other and are as defined for R<sub>1</sub> to R<sub>5</sub> in Formula A-1 or A-2, Ar<sub>9</sub> and Ar<sub>10</sub> are identical to or different from each other and are each<!-- EPO <DP n="88"> --> independently selected from hydrogen, deuterium, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkyl, substituted or unsubstituted C<sub>6</sub>-C<sub>50</sub> aryl, substituted or unsubstituted C<sub>2</sub>-C<sub>30</sub> alkenyl, substituted or unsubstituted C<sub>2</sub>-C<sub>20</sub> alkynyl, substituted or unsubstituted C<sub>3</sub>-C<sub>30</sub> cycloalkyl, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> cycloalkenyl, substituted or unsubstituted C<sub>2</sub>-C<sub>50</sub> heteroaryl, substituted or unsubstituted C<sub>2</sub>-C<sub>30</sub> heterocycloalkyl, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkoxy, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> aryloxy, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylthioxy, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> arylthioxy, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylamine, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> arylamine, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylsilyl, and substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> arylsilyl, L<sub>13</sub> is a single bond or is selected from substituted or unsubstituted C<sub>6</sub>-C<sub>20</sub> arylene and substituted or unsubstituted C<sub>2</sub>-C<sub>20</sub> heteroarylene, and k is an integer from 1 to 3, provided that when k is 2 or more, the linkers L<sub>13</sub> are identical to or different from each other.</claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>The organic electroluminescent device according to claim 8, wherein the compound of Formula D is selected from the compounds of Formulae D1 to D48:
+<chemistry id="chem0302" num="0302"><img id="ib0306" file="imgb0306.tif" wi="139" he="27" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0303" num="0303"><img id="ib0307" file="imgb0307.tif" wi="141" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0304" num="0304"><img id="ib0308" file="imgb0308.tif" wi="141" he="28" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="89"> -->
+<chemistry id="chem0305" num="0305"><img id="ib0309" file="imgb0309.tif" wi="143" he="28" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0306" num="0306"><img id="ib0310" file="imgb0310.tif" wi="143" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0307" num="0307"><img id="ib0311" file="imgb0311.tif" wi="145" he="29" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0308" num="0308"><img id="ib0312" file="imgb0312.tif" wi="146" he="28" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0309" num="0309"><img id="ib0313" file="imgb0313.tif" wi="143" he="28" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0310" num="0310"><img id="ib0314" file="imgb0314.tif" wi="145" he="29" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0311" num="0311"><img id="ib0315" file="imgb0315.tif" wi="146" he="29" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="90"> -->
+<chemistry id="chem0312" num="0312"><img id="ib0316" file="imgb0316.tif" wi="149" he="34" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0313" num="0313"><img id="ib0317" file="imgb0317.tif" wi="149" he="29" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0314" num="0314"><img id="ib0318" file="imgb0318.tif" wi="146" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0315" num="0315"><img id="ib0319" file="imgb0319.tif" wi="134" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0316" num="0316"><img id="ib0320" file="imgb0320.tif" wi="141" he="42" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="91"> -->
+<chemistry id="chem0317" num="0317"><img id="ib0321" file="imgb0321.tif" wi="141" he="36" img-content="chem" img-format="tif"/></chemistry></claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>The organic electroluminescent device according to claim 1, further comprising a hole transport layer and an electron blocking layer interposed between the first electrode and the second electrode wherein each of the hole transport layer and the electron blocking layer comprises a compound represented by Formula E:
+<chemistry id="chem0318" num="0318"><img id="ib0322" file="imgb0322.tif" wi="40" he="42" img-content="chem" img-format="tif"/></chemistry>
+wherein R<sub>61</sub> to R<sub>63</sub> are identical to or different from each other and are each independently selected from hydrogen, deuterium, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkyl, substituted or unsubstituted C<sub>6</sub>-C<sub>50</sub> aryl, substituted or unsubstituted C<sub>2</sub>-C<sub>30</sub> alkenyl, substituted or unsubstituted C<sub>2</sub>-C<sub>20</sub> alkynyl, substituted or unsubstituted C<sub>3</sub>-C<sub>30</sub> cycloalkyl, substituted or unsubstituted C<sub>5</sub>-C<sub>30</sub> cycloalkenyl, substituted or unsubstituted C<sub>2</sub>-C<sub>50</sub> heteroaryl, substituted or unsubstituted C<sub>2</sub>-C<sub>30</sub> heterocycloalkyl, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkoxy, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> aryloxy, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylthioxy, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> arylthioxy, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylamine, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> arylamine, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylsilyl, substituted or unsubstituted C<sub>6</sub>-C<sub>30</sub> arylsilyl, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> alkylgermanium, substituted or unsubstituted C<sub>1</sub>-C<sub>30</sub> arylgermanium, cyano, nitro, and halogen, and Ar<sub>51</sub> to Ar<sub>54</sub> are identical to or different from each other and are each independently substituted or unsubstituted C<sub>6</sub>-C<sub>40</sub> aryl or substituted or unsubstituted C<sub>2</sub>-C<sub>30</sub> heteroaryl.<!-- EPO <DP n="92"> --></claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>The organic electroluminescent device according to claim 10, wherein the compound of Formula E is selected from the compounds of Formulae E1 to E33:
+<chemistry id="chem0319" num="0319"><img id="ib0323" file="imgb0323.tif" wi="141" he="51" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0320" num="0320"><img id="ib0324" file="imgb0324.tif" wi="147" he="51" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0321" num="0321"><img id="ib0325" file="imgb0325.tif" wi="147" he="51" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="93"> -->
+<chemistry id="chem0322" num="0322"><img id="ib0326" file="imgb0326.tif" wi="143" he="52" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0323" num="0323"><img id="ib0327" file="imgb0327.tif" wi="148" he="45" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0324" num="0324"><img id="ib0328" file="imgb0328.tif" wi="145" he="50" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0325" num="0325"><img id="ib0329" file="imgb0329.tif" wi="148" he="50" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="94"> -->
+<chemistry id="chem0326" num="0326"><img id="ib0330" file="imgb0330.tif" wi="147" he="51" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0327" num="0327"><img id="ib0331" file="imgb0331.tif" wi="147" he="37" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0328" num="0328"><img id="ib0332" file="imgb0332.tif" wi="149" he="52" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0329" num="0329"><img id="ib0333" file="imgb0333.tif" wi="149" he="52" img-content="chem" img-format="tif"/></chemistry></claim-text></claim>
+</claims>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="160" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="160" he="233" type="tif"/></search-report-data>
+</ep-patent-document>

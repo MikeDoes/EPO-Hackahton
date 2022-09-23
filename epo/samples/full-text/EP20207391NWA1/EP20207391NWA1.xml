@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP20207391A1" file="EP20207391NWA1.xml" lang="en" country="EP" doc-number="3889975" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3889975</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>20207391.2</B210><B220><date>20201113</date></B220><B240><B241><date>20201113</date></B241></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>202010237699</B310><B320><date>20200330</date></B320><B330><ctry>CN</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>H01C   7/112       20060101AFI20210504BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>H01C   7/12        20060101ALI20210504BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>H01H  37/08        20060101ALI20210504BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>H01H   9/16        20060101ALI20210504BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>H01H   9/32        20060101ALI20210504BHEP        </text></classification-ipcr><classification-ipcr sequence="6"><text>H01H  37/76        20060101ALI20210504BHEP        </text></classification-ipcr><classification-ipcr sequence="7"><text>H01H  83/10        20060101ALI20210504BHEP        </text></classification-ipcr><classification-ipcr sequence="8"><text>H01T   1/12        20060101ALI20210504BHEP        </text></classification-ipcr><classification-ipcr sequence="9"><text>H01T   1/14        20060101ALI20210504BHEP        </text></classification-ipcr><classification-ipcr sequence="10"><text>H01T   4/04        20060101ALI20210504BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>H01T   1/14        20130101 LI20210426BHEP        </text></classification-cpc><classification-cpc sequence="2"><text>H01H2300/044       20130101 LA20210429BHEP        </text></classification-cpc><classification-cpc sequence="3"><text>H01C   7/112       20130101 FI20210428BHEP        </text></classification-cpc><classification-cpc sequence="4"><text>H01T   1/12        20130101 LI20210426BHEP        </text></classification-cpc><classification-cpc sequence="5"><text>H01H  37/08        20130101 LI20210429BHEP        </text></classification-cpc><classification-cpc sequence="6"><text>H01H  37/761       20130101 LI20210426BHEP        </text></classification-cpc><classification-cpc sequence="7"><text>H01H   9/32        20130101 LI20210426BHEP        </text></classification-cpc><classification-cpc sequence="8"><text>H01H   9/16        20130101 LA20210426BHEP        </text></classification-cpc><classification-cpc sequence="9"><text>H01C   7/126       20130101 LI20210426BHEP        </text></classification-cpc><classification-cpc sequence="10"><text>H01T   4/04        20130101 LI20210426BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>SPD-STECKMODUL, SPD-SOCKEL UND SPD-STECKVERBINDER</B542><B541>en</B541><B542>SPD PLUG-IN MODULE, SPD BASE AND PLUG-IN SPD</B542><B541>fr</B541><B542>MODULE ENFICHABLE SPD, BASE SPD ET SPD ENFICHABLE</B542></B540><B590><B598>2</B598></B590></B500><B700><B710><B711><snm>Longke Electronics (Huiyang) Co., Ltd.</snm><iid>101877418</iid><irf>8423 EP</irf><adr><str>No. 73, Jinqiu Ave., Qiuchang 
+Huiyang District</str><city>Huizhou City, Guangdong Province 516221</city><ctry>CN</ctry></adr></B711></B710><B720><B721><snm>TSENG, Chinglung</snm><adr><str>11/F, No. 2, 136 Lane, 2nd Section of Longshan
+Road No. 5 Neighbour, Tianwenli</str><city>Zhunan Town, Miaoli County, Taiwan 35010</city><ctry>CN</ctry></adr></B721><B721><snm>CHEN, Zetong</snm><adr><str>No. 73, Jinqiu Ave., Qiuchang, Huiyang District</str><city>Huizhou City, Guangdong Province 516221</city><ctry>CN</ctry></adr></B721></B720><B740><B741><snm>Meyer, Thorsten</snm><iid>100798663</iid><adr><str>Meyer Patentanwaltskanzlei 
+Pfarrer-Schultes-Weg 14</str><city>89077 Ulm</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">The present invention relates to the technical field of surge protective devices, and specifically discloses an SPD plug-in module, an SPD base and a plug-in SPD. The SPD plug-in module includes a rectangular outer shell and an internal assembly. The rectangular outer shell is provided with a first plugging locking structure, a first guiding plugging structure, a window, an internal assembly clasping structure and a mis-installation-proof structure, etc., which are easy for plugging as well as for fixing the internal assembly. The internal assembly can be in a multi-chip tripping structure, such as an interruption turnable, which has a wide range of applications. The rectangular outer shell and an inner shell of the internal assembly are integrally formed, so that the product is simple and pretty, easy to assemble, and has a reliable structure, and costs are effectively controlled. The SPD base adopts upper and lower bottom shells formed integrally, which divide the internal space into multiple preset spaces, and wiring assemblies, alarm components, etc. are disposed in the respective spaces. The upper and lower bottom shells can be closed to complete assembly. The assembly process is convenient and the structure is firm. The plug-in SPD is composed of the SPD plug-in module and the SPD base, and can be widely used for AC/DC surge protection of low voltage systems below 2000V.
+<img id="iaf01" file="imgaf001.tif" wi="78" he="106" img-content="drawing" img-format="tif"/></p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001"><b>TECHNICAL FIELD</b></heading>
+<p id="p0001" num="0001">The present invention relates to the field of surge protective devices, and specifically discloses an SPD plug-in module, an SPD base and a plug-in SPD.</p>
+<heading id="h0002"><b>BACKGROUND</b></heading>
+<p id="p0002" num="0002">A voltage-limiting surge protective device (SPD) is mainly assembled by passive electronic components, chips of metal oxide varistors (MOV, zinc oxide varistors), and has a special nonlinear volt-ampere characteristic, that is, a nonlinear relationship between current and voltage, which is generally characterized by a nonlinearity parameter. In the case of abnormal conditions, such as lightning strikes, electromagnetic field interference, frequent switching of power supply, power system failures, or the like, the voltage on the line increases suddenly and exceeds the conduction voltage of an SPD, the SPD will enter the conduction zone. In this case, the nonlinearity parameter can reach tens or hundreds, and the impedance of the SPD will be low, only a few ohms, so that the overvoltage will form a surge current to flow out, thereby protecting connected electronic products or expensive components.</p>
+<p id="p0003" num="0003">At present, a plug-in SPD is mainly composed of a plug-in base and a plug-in module. The plug-in module is mainly used to install the SPD chip, and the plug-in base is mainly used to connect to the power line. When abnormal conditions occur, the SPD chip and its electrode pins are separated, and the plug-in module needs to be replaced. At present, there are still some problems in the current plug-in modules and plug-in bases, such as inaccurate and unreliable in physical design, difficult in assembly, and error-prone during assembly, affected abilities of the MOV chip by unreasonable structure, and high overall costs.</p>
+<heading id="h0003"><b>SUMMARY</b></heading>
+<p id="p0004" num="0004">The present application provides an SPD plug-in module, an SPD base and a plug-in SPD, and solves the technical problems in the current plug-in SPDs: inaccurate and unreliable in physical design, difficult in assemble, and error-prone during assembly, affected abilities of the MOV chip by unreasonable structure, and high overall costs.</p>
+<p id="p0005" num="0005">In order to solve the above technical problems, the present invention provides an SPD plug-in module which includes:
+<ul id="ul0001" list-style="none" compact="compact">
+<li>a rectangular outer shell with a bottom opening; and</li>
+<li>an internal assembly drawn into the rectangular outer shell from the bottom opening of the rectangular outer shell, including an inner shell as well as an SPD chip structure and a thermal<!-- EPO <DP n="2"> --> disconnection structure fixed to the inner shell;</li>
+<li>the SPD chip structure is provided with a non-tripping electrode pin and a tripping electrode pin which are respectively fixed to lower middle portions of left and right side surfaces of the inner shell and extend out of a bottom surface of the inner shell.</li>
+</ul></p>
+<p id="p0006" num="0006">Further, upper portions of two side surfaces of the rectangular outer shell are each provided with an anti-skid structure, lower portions of the two side surfaces are each provided with an internal assembly fixing structure, and an inner side of one side surface of the rectangular outer shell is provided with a mis-installation-proof structure; and a first plugging locking structure and a first guiding plugging structure are provided below the anti-skid structure;<br/>
+lower portions of two side surfaces of the inner shell are each provided with an internal assembly buckling structure that matches and assembles with the internal assembly fixing structure, and an upper portion of one side surface of the inner shell is provided with a mis-installation-proof matching structure that matches with the mis-installation-proof structure;<br/>
+a window is also embedded in a top surface of the rectangular outer shell;<br/>
+a bottom surface of the inner shell is also provided with a first through hole which directly faces an alarm bump at a bottom of the thermal disconnection structure.</p>
+<p id="p0007" num="0007">In a preferable embodiment, the anti-skid structure is configured as a rough surface;<br/>
+the first plugging locking structure is configured as a horizontal groove arranged under the rough surface;<br/>
+the first guiding plugging structures extend upward from a lower portion of the two side surfaces of the rectangular outer shell, and include at least two vertical grooves with the same or different heights; a bottom surface of the internal assembly is provided with an identification structure which is configured as an identification pile arranged at a bottom of the inner shell;<br/>
+the internal assembly fixing structure is configured as a clasping hole, and the internal assembly clasping structure is configured as a clasp which is embedded in the clasping hole;<br/>
+the mis-installation-proof structure is configured as a mis-installation-proof short protrusion, the mis-installation-proof matching structure is configured as a notch that matches with the mis-installation-proof short protrusion; and<br/>
+the non-tripping electrode pin and the tripping electrode pin are respectively provided with a second through hole and a third through hole, and the clasp passes through the second through hole and the third through hole and then is clasped in the clasping hole.</p>
+<p id="p0008" num="0008">The present invention also provides an SPD base which matches the aforementioned SPD plug-in module, the SPD base includes:
+<ul id="ul0002" list-style="none" compact="compact">
+<li>a lower bottom shell formed integrally;</li>
+<li>an upper bottom shell formed integrally and covered on the lower bottom shell, including<!-- EPO <DP n="3"> --> a left column, a right column and a transverse bridge connected between the left column and the right column; the left column, the transverse bridge and the lower bottom shell being defined by each other to form a first preset placement space; the right column, the transverse bridge and the lower bottom shell being defined by each other to form a second preset placement space; and the transverse bridge and the lower bottom shell being defined by each other to form a third preset placement space;</li>
+<li>a first wiring assembly installed in the first preset placement space, suitable for establishing an electrical connection between an electrode pin of a SPD plug-in module and an external power line;</li>
+<li>a second wiring assembly installed in the second preset placement space, suitable for establishing an electrical connection between another electrode pin of the SPD plug-in module and an external power line; and</li>
+<li>an alarm component installed in the third preset placement space;</li>
+<li>left and right sides of a top surface of the transverse bridge are respectively provided with a fourth through hole and a fifth through hole for plugging two electrode pins of the SPD plug-in module in the first wiring assembly and the second wiring assembly.</li>
+</ul></p>
+<p id="p0009" num="0009">Further, top surfaces of the left column and/or the right column are each provided with a second plugging locking structure suitable for cooperating with the first plugging locking structures of the SPD plug-in module to achieve locking when the two electrode pins of the SPD plug-in module are completely plugged in the first wiring assembly and the second wiring assembly;<br/>
+inner side surfaces of the left column and/or the right column are each provided with a second guiding plugging structure suitable for cooperating with the first guiding plugging structures of the SPD plug-in module to guide the SPD plug-in module to be plugged in the first wiring assembly and the second wiring assembly;<br/>
+the top surface of the transverse bridge is also provided with a sixth through hole for an alarm tentacle of the alarm component passing through to press against an alarm bump of the SPD plug-in module.</p>
+<p id="p0010" num="0010">In a preferable embodiment, when the first guiding plugging structures of the SPD plug-in module are configured as two vertical grooves with the same or different heights, the second guiding plugging structures are configured as vertical guide pieces embedded into the vertical grooves;<br/>
+the top surface of the transverse bridge is provided with a seventh through hole for embedding an identification pile arranged on a bottom surface of the SPD plug-in module.</p>
+<p id="p0011" num="0011">In a preferable embodiment, when the first plugging locking structure of the SPD plug-in module are configured as horizontal grooves, the second plugging locking structures each include a<!-- EPO <DP n="4"> --> slider and an elastic member which are matched and assembled; the sliders are provided with horizontal projections which can be embedded in the horizontal grooves, and the elastic members are used to limit the sliders in a locked or unlocked state in which the horizontal grooves and the horizontal protrusions are fitted or separated.</p>
+<p id="p0012" num="0012">In a preferable embodiment, the first wiring assembly and the second wiring assembly are each provided with an electrode extension pin, a crimping frame, and an adjusting member that are electrically connected;<br/>
+the electrode extension pin is provided with a plug-in end, and the plug-in end is detachably installed with an elastic pin facing the fourth through hole or the fifth through hole; and<br/>
+outer side surfaces of the left column and the right column are each provided with an eighth through hole facing an opening of the crimping frame.</p>
+<p id="p0013" num="0013">In a preferable embodiment, an internal space between the lower bottom shell and the upper bottom shell is configured to uniquely define the electrode extension pins and the alarm component; top surfaces of the left column and the right column are each provided with a ninth through hole, through which the adjusting members are adjusted to freely adjust positions of the crimping frames relative to the electrode extension pins.</p>
+<p id="p0014" num="0014">The present invention further provides a plug-in SPD which is composed of the SPD plug-in module of any one of claims 1 to 3 and the SPD base of any one of claims 4 to 9, and the SPD plug-in module is plugged in the SPD base.</p>
+<p id="p0015" num="0015">In the SPD plug-in module provided by the present invention:<br/>
+The rectangular outer shell is provided with the first plugging locking structures which can cooperate with the second plugging locking structures arranged on the SPD base when the SPD plug-in module is plugged in the SPD base, so as to achieve "locking" or "unlocking" of the SPD plug-in module;<br/>
+The first guiding plugging structures are also provided to cooperate with the second guiding plugging structures of the SPD base, which can guide installation personnel to plug the SPD plug-in module in the SPD base quickly and accurately, and limit the SPD plug-in module so that it cannot be shaken;<br/>
+The window is also arranged to observe operation status of the SPD plug-in module;<br/>
+The mis-installation-proof structure is also provided, which cooperates with the mis-installation-proof matching structure arranged on the inner shell to realize mis-installation-proof of the internal assembly;</p>
+<p id="p0016" num="0016">The internal assembly fixing structure is also provided, which cooperate the internal assembly clasping structure, so that the internal assembly can be firmly installed in the rectangular outer shell under the guidance and limitation of the reverse installation-proof slot on the side wall of<!-- EPO <DP n="5"> --> the internal assembly;<br/>
+The anti-skid structures are also provided for easy plugging in and plugging out;<br/>
+The internal assembly can be in a multi-chip tripping structure, such as an interruption turnable, which has a wide range of applications; and<br/>
+In implementation, the anti-skid structures are preferably configured as rough surfaces, the first plugging locking structures are preferably configured as horizontal grooves, the first guiding plugging structures are preferably configured as vertical grooves, the internal assembly fixing structures are preferably configured as clasping holes, the internal assembly clasping structure re preferably configured as clasps, the mis-installation-proof structures are preferably configured as mis-installation-proof short protrusions, and the mis-installation-proof matching structures are preferably configured as notches; the rough surfaces, the horizontal grooves, the vertical grooves, the clasping holes, the clasps, the mis-installation-proof short protrusions, and the notches only need to be designed for the rectangular outer shell or the inner shell of the internal assembly when the mold is opened, and then they can be integrated, so that the product is simple and pretty, easy to assemble, and has a reliable structure, and costs are controlled effectively.</p>
+<p id="p0017" num="0017">In the SPD base provided in the present invention:<br/>
+The second plugging locking structures arranged on the upper bottom shell, after the SPD plug-in module is plugged in position, cooperates with the first plugging locking structures to achieve "locking" or "unlocking" of the SPD plug-in module, thereby preventing SPD plug-in module from loosening during transportation or use;<br/>
+The second guiding plugging structures are arranged on the upper bottom shell to guide the SPD plug-in module to plug smoothly; if the first guiding plugging structures of the SPD plug-in module are configured as different vertical grooves, the second guiding plugging structures are configured as vertical guide pieces with corresponding heights to achieve reverse assembly-proof;<br/>
+The upper bottom shell is correspondingly provided with a plurality of through holes for the electrode pins and the identification pile of the SPD plug-in module, external power lines, and remote communication interface passing through, thereby meeting actual needs;<br/>
+Elastic pins used to receive the electrode pins of the SPD plug-in module are configured to be detachable, so that elastic pins of different materials can be replaced or elastic force of the elastic pins can be adjusted so as to meet different requirements on tightness of plug-in and plug-out;<br/>
+The upper and lower bottom shells are integrally formed, and the internal space is strictly divided into multiple preset spaces; the first wiring assembly, the second wiring assembly, the alarm component (and the remote communication interface) are placed at corresponding positions of the lower bottom shell, then the upper and lower bottom shells are closed and riveting tubes are plugged to complete assembly, which has the advantages of accurate positioning, convenient assembly and<!-- EPO <DP n="6"> --> reliable structure; and<br/>
+The corresponding internal space and openings only need to be designed for the upper and lower bottom shells when the mold is opened, and then they can be integrated, so that the product is simple and pretty, easy to assemble, and has a reliable structure, and costs are controlled effectively.</p>
+<p id="p0018" num="0018">The plug-in SPD provided by the present invention is composed of the SPD plug-in module and the SPD base provided by the present invention, which has the advantages of both SPD plug-in module and the SPD base. It is easy to assemble as a whole, reliable in structure, high in protection level, low in cost, and can be widely used for AC/DC surge protection of low voltage systems below 2000V. Therefore, the plug-in SPD has a wide range of applications and is cost-effective.</p>
+<heading id="h0004"><b>BRIEF DESCRIPTION OF DRAWINGS</b></heading>
+<p id="p0019" num="0019">
+<ul id="ul0003" list-style="none" compact="compact">
+<li><figref idref="f0001">FIG. 1</figref> is a stereogram of an SPD plug-in module provided in Embodiment 1 of the present invention;</li>
+<li><figref idref="f0001">FIG. 2</figref> is a schematic diagram showing assembly of the SPD plug-in module in <figref idref="f0001">FIG. 1</figref> provided by Embodiment 1 of the present invention;</li>
+<li><figref idref="f0002">FIG. 3</figref> is an exploded view of an internal assembly (without an interruption turnable) of the SPD plug-in module in <figref idref="f0001">FIG. 2</figref> provided by Embodiment 1 of the present invention;</li>
+<li><figref idref="f0002">FIG. 4</figref> is a schematic diagram of the specific structure of an interruption turnable of the SPD plug-in module in <figref idref="f0001">FIG. 2</figref> provided by Embodiment 1 of the present invention;</li>
+<li><figref idref="f0003">FIG. 5</figref> is a schematic diagram of the specific structure of a rectangular outer shell of the SPD plug-in module in <figref idref="f0001">FIG. 2</figref> provided by Embodiment 1 of the present invention;</li>
+<li><figref idref="f0003">FIG. 6</figref> is a stereogram of an SPD base provided in embodiment 2 of the present invention;</li>
+<li><figref idref="f0004">FIG. 7</figref> is a preliminary exploded view of the SPD base provided in Embodiment 2 of the present invention;</li>
+<li><figref idref="f0005">FIG. 8</figref> is a complete exploded view of the SPD base provided in Embodiment 2 of the present invention;</li>
+<li><figref idref="f0006">FIG. 9</figref> is a schematic diagram showing a plug-in SPD provided in Embodiment 3 of the present invention, where the SPD plug-in module is being plugged in the SPD base; and</li>
+<li><figref idref="f0006">FIG. 10</figref> is a diagram showing the plugging status of the plug-in SPD provided in Embodiment 3 of the present invention.</li>
+</ul><!-- EPO <DP n="7"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>Reference numerals:</title>
+<tgroup cols="8">
+<colspec colnum="1" colname="col1" colwidth="20mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<colspec colnum="3" colname="col3" colwidth="20mm"/>
+<colspec colnum="4" colname="col4" colwidth="19mm"/>
+<colspec colnum="5" colname="col5" colwidth="20mm"/>
+<colspec colnum="6" colname="col6" colwidth="22mm"/>
+<colspec colnum="7" colname="col7" colwidth="23mm"/>
+<colspec colnum="8" colname="col8" colwidth="28mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle">Reference numeral</entry>
+<entry align="center" valign="middle">Name</entry>
+<entry align="center" valign="middle">Reference numeral</entry>
+<entry namest="col4" nameend="col6" align="center" valign="middle">Name</entry>
+<entry align="center" valign="middle">Reference numeral</entry>
+<entry align="center" valign="middle">Name</entry></row></thead>
+<tbody>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry morerows="5" align="center" valign="middle">A1</entry>
+<entry namest="col4" nameend="col6" morerows="5" align="center" valign="middle">Rectangular outer shell</entry>
+<entry align="center" valign="middle">A1-1</entry>
+<entry align="center" valign="middle">Window</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A1-2/A10</entry>
+<entry align="center" valign="middle">Rough surface/ anti-skid structure</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A1-3/A11</entry>
+<entry align="center" valign="middle">Horizontal groove/ first plugging locking structure</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A1-4/A12</entry>
+<entry align="center" valign="middle">Clasping hole/ internal assembly fixing structure</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A1-5/A13</entry>
+<entry align="center" valign="middle">Vertical groove/ first guiding plugging structure</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A1-6/A14</entry>
+<entry align="center" valign="middle">Mis-installation-proof short protrusion/ mis-installation - proof structure</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">Reference numeral</entry>
+<entry align="center" valign="middle">Name</entry>
+<entry align="center" valign="middle">Reference numeral</entry>
+<entry align="center" valign="middle">Name</entry>
+<entry align="center" valign="middle">Reference numeral</entry>
+<entry align="center" valign="middle">Name</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A2-11</entry>
+<entry align="center" valign="middle">Internal assembly dividing part</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry align="center" valign="middle">A2-12</entry>
+<entry align="center" valign="middle">Rectangular through hole</entry></row>
+<row>
+<entry morerows="2" rowsep="0" align="center" valign="middle">A</entry>
+<entry morerows="2" rowsep="0" align="center" valign="middle">SPD plug-in module</entry>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry align="center" valign="middle">A2-13</entry>
+<entry align="center" valign="middle">Central shaft</entry></row>
+<row>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry align="center" valign="middle">A2-14</entry>
+<entry align="center" valign="middle">Spring pile</entry></row>
+<row>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry align="center" valign="middle">A2-15</entry>
+<entry align="center" valign="middle">Curved top</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry align="center" valign="middle">A2-16</entry>
+<entry align="center" valign="middle">Deeper portion</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry morerows="2" rowsep="0" align="center" valign="middle">A2</entry>
+<entry morerows="2" rowsep="0" align="center" valign="middle">Internal assembly</entry>
+<entry morerows="2" rowsep="0" align="center" valign="middle">A2-1</entry>
+<entry morerows="2" rowsep="0" align="center" valign="middle">Inner shell</entry>
+<entry align="center" valign="middle">A2-17</entry>
+<entry align="center" valign="middle">First electrode installing groove</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A2-18/A21</entry>
+<entry align="center" valign="middle">Clasp/internal assembly clasping structure</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A2-19</entry>
+<entry align="center" valign="middle">First through hole</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry align="center" valign="middle">A2-110</entry>
+<entry align="center" valign="middle">Second electrode installing groove</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry align="center" valign="middle">A2-111</entry>
+<entry align="center" valign="middle">First electrode installing hole</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry align="center" valign="middle">A2-112</entry>
+<entry align="center" valign="middle">Reverse assembly-proof groove</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry align="center" valign="middle">A2-113/A23</entry>
+<entry align="center" valign="middle">Identification pile/identification structure</entry></row>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry/>
+<entry/>
+<entry align="center" valign="middle">A2-114/A22</entry>
+<entry align="center" valign="middle">Notch/mis-installation - proof matching structure</entry></row><!-- EPO <DP n="8"> -->
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry morerows="5" align="center" valign="middle">A2-2</entry>
+<entry morerows="5" align="center" valign="middle">Interruption turnable</entry>
+<entry align="center" valign="middle">A2-21</entry>
+<entry align="center" valign="middle">Central shaft hole</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A2-22</entry>
+<entry align="center" valign="middle">Display panel</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A2-23</entry>
+<entry align="center" valign="middle">Spring pile</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A2-24</entry>
+<entry align="center" valign="middle">Through hole in disc</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A2-25</entry>
+<entry align="center" valign="middle">Alarm bump</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A2-26</entry>
+<entry align="center" valign="middle">Arc hole in disc</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry morerows="4" align="center" valign="middle">A2-3</entry>
+<entry morerows="4" align="center" valign="middle">MOV chip</entry>
+<entry align="center" valign="middle">A2-31</entry>
+<entry align="center" valign="middle">chip</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A2-32</entry>
+<entry align="center" valign="middle">Ring electrode</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A2-33</entry>
+<entry align="center" valign="middle">Boss</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A2-34</entry>
+<entry align="center" valign="middle">Erect electrode</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A2-35</entry>
+<entry align="center" valign="middle">Chip electrode</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry morerows="3" align="center" valign="middle">A2-4</entry>
+<entry morerows="3" align="center" valign="middle">Tripping electrode pin</entry>
+<entry align="center" valign="middle">A2-41</entry>
+<entry align="center" valign="middle">Welding claw</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A2-42</entry>
+<entry align="center" valign="middle">Second through hole</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A2-43</entry>
+<entry align="center" valign="middle">First leading-out pin</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A2-44</entry>
+<entry align="center" valign="middle">Curved surface</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry morerows="2" align="center" valign="middle">A2-5</entry>
+<entry morerows="2" align="center" valign="middle">Non-tripping electrode pin</entry>
+<entry align="center" valign="middle">A2-51</entry>
+<entry align="center" valign="middle">Solder side</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A2-52</entry>
+<entry align="center" valign="middle">Third through hole</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A2-53</entry>
+<entry align="center" valign="middle">Second leading-out pin</entry></row>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center" valign="middle">A2-6</entry>
+<entry align="center" valign="middle">Spring</entry>
+<entry align="center" valign="middle">A2</entry>
+<entry align="center" valign="middle">Internal assembly</entry></row>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">A2-7</entry>
+<entry align="center" valign="middle">Impedance temperatur e line</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/></row></tbody></tgroup>
+</table>
+</tables>
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="31mm"/>
+<colspec colnum="2" colname="col2" colwidth="52mm"/>
+<colspec colnum="3" colname="col3" colwidth="31mm"/>
+<colspec colnum="4" colname="col4" colwidth="53mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle">Reference numeral</entry>
+<entry align="center" valign="middle">Name</entry>
+<entry align="center" valign="middle">Reference numeral</entry>
+<entry align="center" valign="middle">Name</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">B</entry>
+<entry align="center" valign="middle">SPD base</entry>
+<entry align="center" valign="middle">B11</entry>
+<entry align="center" valign="middle">Second plugging locking structure</entry></row>
+<row>
+<entry align="center" valign="middle">B1</entry>
+<entry align="center" valign="middle">Upper bottom shell</entry>
+<entry align="center" valign="middle">B12</entry>
+<entry align="center" valign="middle">Second guiding plugging structure</entry></row>
+<row>
+<entry align="center" valign="middle">B2</entry>
+<entry align="center" valign="middle">Lower bottom shell</entry>
+<entry align="center" valign="middle">B1-1</entry>
+<entry align="center" valign="middle">Vertical guiding piece</entry></row>
+<row>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">Left column</entry>
+<entry align="center" valign="middle">B1-2</entry>
+<entry align="center" valign="middle">Slider</entry></row>
+<row>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">Right column</entry>
+<entry align="center" valign="middle">B1-3</entry>
+<entry align="center" valign="middle">Elastic member</entry></row>
+<row>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">Traverse bridge</entry>
+<entry align="center" valign="middle">B1-4</entry>
+<entry align="center" valign="middle">Horizontal projection</entry></row>
+<row>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">First wiring assembly</entry>
+<entry align="center" valign="middle">B1-5</entry>
+<entry align="center" valign="middle">Electrode extension pin</entry></row><!-- EPO <DP n="9"> -->
+<row>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">Second wiring assembly</entry>
+<entry align="center" valign="middle">B1-6</entry>
+<entry align="center" valign="middle">Crimping frame</entry></row>
+<row>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">Alarm component</entry>
+<entry align="center" valign="middle">B1-7</entry>
+<entry align="center" valign="middle">Adjusting member (screw)</entry></row>
+<row>
+<entry align="center" valign="middle">61</entry>
+<entry align="center" valign="middle">Alarm tentacle</entry>
+<entry align="center" valign="middle">B1-8</entry>
+<entry align="center" valign="middle">Plug-in end</entry></row>
+<row>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">Remote communication interface</entry>
+<entry align="center" valign="middle">B1-9</entry>
+<entry align="center" valign="middle">Elastic pin</entry></row>
+<row>
+<entry align="center" valign="middle">31</entry>
+<entry align="center" valign="middle">Fourth through hole</entry>
+<entry align="center" valign="middle">B1-10</entry>
+<entry align="center" valign="middle">Riveting hole</entry></row>
+<row>
+<entry align="center" valign="middle">32</entry>
+<entry align="center" valign="middle">Fifth through hole</entry>
+<entry align="center" valign="middle">B1-11</entry>
+<entry align="center" valign="middle">Riveting tube</entry></row>
+<row>
+<entry align="center" valign="middle">33</entry>
+<entry align="center" valign="middle">Sixth through hole</entry>
+<entry align="center" valign="middle">B1-12</entry>
+<entry align="center" valign="middle">Position-limiting structure</entry></row>
+<row>
+<entry align="center" valign="middle">34</entry>
+<entry align="center" valign="middle">Seventh through hole</entry>
+<entry align="center" valign="middle">B1-13</entry>
+<entry align="center" valign="middle">Enclosure</entry></row>
+<row>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">Eight through hole</entry>
+<entry align="center" valign="middle">B2-1</entry>
+<entry align="center" valign="middle">Alarm switch position</entry></row>
+<row>
+<entry align="center" valign="middle">36</entry>
+<entry align="center" valign="middle">Ninth through hole</entry>
+<entry align="center" valign="middle">B2-2</entry>
+<entry align="center" valign="middle">Crimping frame position</entry></row>
+<row>
+<entry align="center" valign="middle">S1</entry>
+<entry align="center" valign="middle">First preset placement space</entry>
+<entry align="center" valign="middle">B2-3</entry>
+<entry align="center" valign="middle">Elastic pin position</entry></row>
+<row>
+<entry align="center" valign="middle">S2</entry>
+<entry align="center" valign="middle">Second preset placement space</entry>
+<entry align="center" valign="middle">B2-4</entry>
+<entry align="center" valign="middle">Follow block</entry></row>
+<row>
+<entry align="center" valign="middle">S3</entry>
+<entry align="center" valign="middle">Third preset placement space</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0005"><b>DETAILED DESCRIPTION</b></heading>
+<p id="p0020" num="0020">Hereafter, the implementation of the present invention will be clearly and completely described with reference to accompanying drawings. Embodiments are set forth for illustrative purposes only and should not be understood as limiting the present invention. The accompanying drawings are for reference and illustrative purposes only, and do not limit the scope of protection of the present invention, because many changes can be made to the present invention without departing from the spirit and scope of the present invention.</p>
+<heading id="h0006">Embodiment 1</heading>
+<p id="p0021" num="0021">Refer to the stereogram of <figref idref="f0001">FIG.1</figref> and the exploded view of <figref idref="f0001">FIG. 2</figref>. An SPD plug-in module A according to the embodiment of the present invention includes a rectangular outer shell A1 and an internal assembly A2 which is drawn into the rectangular outer shell A1 from the bottom opening of the rectangular outer shell A1.</p>
+<p id="p0022" num="0022">Further, as shown in Table 1 below, one end of a top surface of the rectangular outer shell A1 is provided with a window A1-1, upper portions of two side surfaces of the rectangular outer shell A1 are each provided with a rough surface A1-2 (i.e., an anti-skid structure A10), horizontal grooves A1-3 (i.e., first plugging locking structures A11) are provided below the rough surfaces A1-2,<!-- EPO <DP n="10"> --> and clasping holes A1-4 (i.e., internal assembly fixing structures A12) are provided below the horizontal grooves A1-3. Four vertical grooves A1-5 (i.e., first guiding plugging structures A13) extending from bottoms of two side surfaces of the SPD plug-in module A are provided for guiding the SPD plug-in module to be plugged in a SPD base. Two vertical grooves A1-5 on one side surface have different heights and can also prevent improper plugging. As shown in <figref idref="f0003">FIG. 5</figref>, an inner side of one side surface of the rectangular outer shell A1 (corresponding to the anti-skid structure A10) is provided with a mis-installation-proof short protrusion A1-6 (i.e., a mis-installation-proof structure A14).
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>Table 1</title>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" colwidth="20mm"/>
+<colspec colnum="2" colname="col2" colwidth="23mm"/>
+<colspec colnum="3" colname="col3" colwidth="20mm"/>
+<colspec colnum="4" colname="col4" colwidth="21mm"/>
+<colspec colnum="5" colname="col5" colwidth="34mm"/>
+<colspec colnum="6" colname="col6" colwidth="49mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Reference numeral</entry>
+<entry align="center" valign="top">Name</entry>
+<entry align="center" valign="top">Reference numeral</entry>
+<entry align="center" valign="top">Name</entry>
+<entry align="center" valign="top">Function</entry>
+<entry align="center" valign="top">Notes</entry></row></thead>
+<tbody>
+<row>
+<entry rowsep="0" align="center"/>
+<entry rowsep="0" align="center"/>
+<entry align="center">A1-1</entry>
+<entry align="center">Window</entry>
+<entry align="center">Indicating deterioration</entry>
+<entry align="center">Green: good chip; red: damaged chip</entry></row>
+<row>
+<entry morerows="1" rowsep="0" align="center">A1</entry>
+<entry morerows="1" rowsep="0" align="center">Rectangular outer shell</entry>
+<entry align="center">A1-2</entry>
+<entry align="center">Rough surface</entry>
+<entry align="center">Symmetrical two anti-skid structures A10, for easy plugging-in and plugging-out</entry>
+<entry align="center">Increasing frictional force between hands and module</entry></row>
+<row>
+<entry align="center">A1-3</entry>
+<entry align="center">Horizontal groove</entry>
+<entry align="center">first plugging locking structure A11, for a slider of the base to be clasped</entry>
+<entry>Cooperating with the base to achieve "locking" or "unlocking", and preventing the module and the base from separating due to vibration</entry></row>
+<row>
+<entry rowsep="0" align="center"/>
+<entry rowsep="0" align="center"/>
+<entry align="center">A1-4</entry>
+<entry align="center">Clasping hole</entry>
+<entry align="center">internal assembly fixing structure A12, for clasping an inner shell of the module</entry>
+<entry align="center">For clasping the clasps A2-18 on two sides of the inner shell of the module, and fixing</entry></row>
+<row>
+<entry rowsep="0" align="center"/>
+<entry rowsep="0" align="center"/>
+<entry align="center">A1-5</entry>
+<entry align="center">Vertical groove</entry>
+<entry align="center">first guiding plugging structure A13, guiding plugging-in and plugging-out</entry>
+<entry align="center">With different heights, preventing reverse assembly of the outer shell and the internal assembly A2</entry></row>
+<row>
+<entry align="center"/>
+<entry align="center"/>
+<entry align="center">A1-6</entry>
+<entry align="center">Mis-installation - proof short protrusion</entry>
+<entry align="center">Mis-installation-proof structure A14</entry>
+<entry align="center">preventing reverse assembly of the internal assembly A2</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0023" num="0023">Further, lower portions of two side surfaces of the inner shell A2-1 are provided with internal assembly clasping structures A21 (i.e., clasps A2-18) that match and assemble with the internal assembly fixing structures A21 (i.e., clasping holes A1-4), and a top end of one side surface<!-- EPO <DP n="11"> --> of the inner shell is provided with a notch A2-114 (i.e., a mis-installation-proof matching structure A22) which matches the mis-installation-proof short protrusion A1-6. The internal assembly A2 includes an inner shell A2-1 as well as an SPD chip structure and a thermal disconnection structure fixed to the inner shell A2-1. The inner shell A2-1 is configured to be in a double-sided assembly structure separated by a middle partition, the deeper portion (occupying about 2/3 of the space) is equipped with the SPD chip structure, and the shallower portion (occupying about 1/3 of the space) is equipped with the thermal disconnection structure. An indication structure A23 is provided on a bottom surface of the internal assembly 2, which is an identification pile A2-113 installed at the bottom of the inner shell A2-1.</p>
+<p id="p0024" num="0024">As shown in <figref idref="f0001">FIG.2</figref>, the SPD chip structure includes a non-tripping electrode pin A2-5, a tripping electrode pin A2-4, a MOV chip A2-3, and an impedance temperature line A2-7; the thermal disconnection structure includes an interruption turnable A2-2 and a spring A2-6.</p>
+<p id="p0025" num="0025">The more specific structures of the inner shell A2-1 and the MOV chip A2-3 are shown in <figref idref="f0002">FIG. 3</figref>, and the more specific structure of the interruption turnable A2-2 is shown in <figref idref="f0002">FIG.4</figref>. Names and reference numerals of the structures contained in the inner shell A2-1 are shown in Table 2 below. Names and reference numerals of the structures contained in the interruption turnable A2-2, the tripping electrode pin A2-4, and the non-tripping electrode pin A2-5 are shown in Table 3 below.
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title>Table 2</title>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" colwidth="20mm"/>
+<colspec colnum="2" colname="col2" colwidth="14mm"/>
+<colspec colnum="3" colname="col3" colwidth="20mm"/>
+<colspec colnum="4" colname="col4" colwidth="24mm"/>
+<colspec colnum="5" colname="col5" colwidth="37mm"/>
+<colspec colnum="6" colname="col6" colwidth="52mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Reference numeral</entry>
+<entry align="center" valign="top">Name</entry>
+<entry align="center" valign="top">Reference numeral</entry>
+<entry align="center" valign="top">Name</entry>
+<entry align="center" valign="top">Function</entry>
+<entry align="center" valign="top">Notes</entry></row></thead>
+<tbody>
+<row>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry rowsep="0" align="center" valign="middle"/>
+<entry align="center">A2-11</entry>
+<entry align="center">Internal assembly dividing part</entry>
+<entry align="center">Dividing the internal assembly into a deeper portion and a shallower portion</entry>
+<entry align="center">Deeper portion used to be installed with the MOV chip, a side used to be installed with the electrode pins, and shallower portion used to be installed with the thermal disconnection structure</entry></row>
+<row>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry align="center">A2-12</entry>
+<entry align="center">Rectangular through hole</entry>
+<entry align="center">For installing the protruding electrode of the chip</entry>
+<entry align="center">The protruding electrode of the chip protruding the dividing structure after installation to facilitate welding</entry></row>
+<row>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry align="center">A2-13</entry>
+<entry align="center">Central shaft</entry>
+<entry align="center">Sleeved with the interruption turnable A2-2</entry>
+<entry align="center">For rotating</entry></row>
+<row>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry align="center">A2-14</entry>
+<entry align="center">Spring pile</entry>
+<entry align="center">Fixing one end of the spring A2-6</entry>
+<entry align="center"/></row>
+<row>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry align="center">A2-15</entry>
+<entry align="center">Curved top</entry>
+<entry align="center">Poor display swing space</entry>
+<entry align="center"/></row>
+<row>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry align="center">A2-16</entry>
+<entry align="center">Deeper portion</entry>
+<entry align="center">For installing the MOV chip A2-3</entry>
+<entry align="center"/></row>
+<row>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry align="center">A2-17</entry>
+<entry align="center">First electrode mounting groove</entry>
+<entry align="center">For installing the non-tripping electrode pin A2-5</entry>
+<entry align="center"/></row>
+<row>
+<entry rowsep="0" align="center" valign="middle">A2-1</entry>
+<entry rowsep="0" align="center" valign="middle">Inner shell</entry>
+<entry align="center">A2-18</entry>
+<entry align="center">Buckle</entry>
+<entry align="center">Internal assembly clasping structure A21, passing through the second through hole A2-52, being clasped in the clasping hole A1-4</entry>
+<entry align="center">Fixing the two electrode pins to the inner shell A2-1, the inner shell A2-1 being fixing to the rectangular outer shell A1</entry></row>
+<row>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry align="center">A2-19</entry>
+<entry align="center">First through hole</entry>
+<entry align="center">Interruption turnable A2-2 rotating to drive an alarm switch</entry>
+<entry align="center"/></row>
+<row>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry align="center">A2-110</entry>
+<entry align="center">Second electrode mounting groove</entry>
+<entry align="center">For installing the tripping electrode pin A2-4</entry>
+<entry align="center"/></row>
+<row>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry align="center">A2-111</entry>
+<entry align="center">First electrode mounting hole</entry>
+<entry align="center">For installing erect electrode A2-34 of the chip</entry>
+<entry align="center">Passing the chip A2-31 through the hole to electrically connect with the tripping electrode pin A2-4 through the impedance temperature line A2-7</entry></row>
+<row>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry align="center">A2-112</entry>
+<entry align="center">Reverse assembly-proof groove</entry>
+<entry align="center">Cooperating with inner side of a top surface of the rectangular outer shell A1, optional</entry>
+<entry align="center">Preventing the internal assembly A2 from reversely installing in the rectangular outer shell A1</entry></row>
+<row>
+<entry rowsep="0"/>
+<entry rowsep="0"/>
+<entry align="center">A2-113</entry>
+<entry align="center">Identification pile</entry>
+<entry align="center">Identification structure A23, preventing the SPD plug-in module from plugging in its base wrongly, optional</entry>
+<entry align="center"/></row>
+<row>
+<entry/>
+<entry/>
+<entry align="center">A2-114</entry>
+<entry align="center">Notch</entry>
+<entry align="center">Mis-installation-proof matching structure A22, matching with the mis-installation-proof short protrusion A1-6</entry>
+<entry align="center">Preventing the internal assembly A2 from being assembled reversely</entry></row></tbody></tgroup><!-- EPO <DP n="12"> -->
+</table>
+</tables>
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<title>Table 3</title>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" colwidth="20mm"/>
+<colspec colnum="2" colname="col2" colwidth="24mm"/>
+<colspec colnum="3" colname="col3" colwidth="20mm"/>
+<colspec colnum="4" colname="col4" colwidth="19mm"/>
+<colspec colnum="5" colname="col5" colwidth="54mm"/>
+<colspec colnum="6" colname="col6" colwidth="30mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Reference numeral</entry>
+<entry align="center" valign="top">Name</entry>
+<entry align="center" valign="top">Reference numeral</entry>
+<entry align="center" valign="top">Name</entry>
+<entry align="center" valign="top">Function</entry>
+<entry align="center" valign="top">Notes</entry></row></thead>
+<tbody>
+<row>
+<entry morerows="5" align="center" valign="middle">A2-2</entry>
+<entry morerows="5" align="center" valign="middle">Interruption turnable</entry>
+<entry align="center">A2-21</entry>
+<entry align="center">Central shaft hole</entry>
+<entry align="center">For rotating and positioning the turnable</entry>
+<entry align="center"/></row>
+<row>
+<entry align="center">A2-22</entry>
+<entry align="center">Display board</entry>
+<entry align="center">For displaying deterioration</entry>
+<entry align="center">Observing through the window A1-1</entry></row>
+<row>
+<entry align="center">A2-23</entry>
+<entry align="center">Spring pile</entry>
+<entry align="center">For fixing another end of the spring A2-6</entry>
+<entry align="center"/></row>
+<row>
+<entry align="center">A2-24</entry>
+<entry align="center">Turnable through hole</entry>
+<entry align="center">Primary current drainage channel</entry>
+<entry align="center">Being available for b oth AC and DC</entry></row>
+<row>
+<entry align="center">A2-25</entry>
+<entry align="center">Alarm bump</entry>
+<entry align="center">For triggering the alarm switch when rotating</entry>
+<entry align="center"/></row>
+<row>
+<entry align="center">A2-26</entry>
+<entry align="center">Arc hole in the turnable</entry>
+<entry align="center">Secondary current drainage channel</entry>
+<entry align="center">Being not available for AC</entry></row><!-- EPO <DP n="13"> -->
+<row>
+<entry morerows="4" align="center" valign="middle">A2-3</entry>
+<entry morerows="4" align="center" valign="middle">MOV chip</entry>
+<entry align="center">A2-31</entry>
+<entry align="center">Chip</entry>
+<entry align="center">Nonlinear element</entry>
+<entry align="center"/></row>
+<row>
+<entry align="center">A2-32</entry>
+<entry align="center">Ring electrode</entry>
+<entry align="center">Electrode on one side of the chip A2-31</entry>
+<entry align="center"/></row>
+<row>
+<entry align="center">A2-33</entry>
+<entry align="center">Boss</entry>
+<entry align="center">Passing through the Rectangular through hole A2-12 and the through hole in turnable A2-24, being welded with the welding claw A2-41</entry>
+<entry align="center">Primary current drainage channel</entry></row>
+<row>
+<entry align="center">A2-34</entry>
+<entry align="center">Erect electrode</entry>
+<entry align="center">Passing through the erect electrode installing hole A2-111, and the arc hole in turnableA2-26 being welded with the Tripping electrode pin A2-4 with an alloy</entry>
+<entry align="center">Being not available for AC</entry></row>
+<row>
+<entry align="center">A2-35</entry>
+<entry align="center">Electrode of the chip</entry>
+<entry align="center">An electrode at the other end of the chip A2-31</entry>
+<entry align="center">Electrically connected with the solder side A2-51</entry></row>
+<row>
+<entry morerows="3" align="center" valign="middle">A2-4</entry>
+<entry morerows="3" align="center" valign="middle">Tripping electrode pin (elastic member)</entry>
+<entry align="center">A2-41</entry>
+<entry align="center">Welding claw</entry>
+<entry align="center">Welded with the boss A2-33</entry>
+<entry align="center">By using a cryogenic alloy</entry></row>
+<row>
+<entry align="center">A2-42</entry>
+<entry align="center">Second through hole</entry>
+<entry align="center">For clasping of the clasp A2-18</entry>
+<entry align="center"/></row>
+<row>
+<entry align="center">A2-43</entry>
+<entry align="center">First leading-out pin</entry>
+<entry align="center">Electrically connected with the elastic pin at a corresponding position of the base</entry>
+<entry align="center"/></row>
+<row>
+<entry align="center">A2-44</entry>
+<entry align="center">Curved surface</entry>
+<entry align="center">Forming detachment elasticity</entry>
+<entry align="center"/></row>
+<row>
+<entry morerows="2" align="center" valign="middle">A2-5</entry>
+<entry morerows="2" align="center" valign="middle">Non-tripping electrode pin (elastic member)</entry>
+<entry align="center">A2-51</entry>
+<entry align="center">Solder side</entry>
+<entry align="center">Welded with the electrode A2-35 of the chip</entry>
+<entry align="center"/></row>
+<row>
+<entry align="center">A2-52</entry>
+<entry align="center">Third through hole</entry>
+<entry align="center">For clasping of the clasp A2-18</entry>
+<entry align="center"/></row>
+<row>
+<entry align="center">A2-53</entry>
+<entry align="center">Second leading-out pin</entry>
+<entry align="center">Electrically connected with the elastic pin at a corresponding position of the base</entry>
+<entry align="center"/></row><!-- EPO <DP n="14"> -->
+<row>
+<entry align="center">A2-6</entry>
+<entry align="center">Spring</entry>
+<entry align="center"/>
+<entry align="center"/>
+<entry align="center">For providing rotational power</entry>
+<entry align="center"/></row>
+<row>
+<entry align="center">A2-7</entry>
+<entry align="center">Impedance temperature line</entry>
+<entry align="center"/>
+<entry align="center"/>
+<entry align="center">For connecting the erect electrode A2-34 and the tripping electrode pin A2-4</entry>
+<entry align="center">Secondary current drainage channel, providing double fuse protection</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0026" num="0026">Regarding the principle and process of double fuse protection resulted from cooperation between the SPD chip element and the thermal disconnection component in this embodiment, refer to CN patent application No.<patcit id="pcit0001" dnum="CN110601164A"><text>CN110601164A</text></patcit>, "Thermal disconnection device capable of sequential interruption with rotation linkage", which made detailed description. The internal assembly A2 according to the embodiment of the present invention can also adopt other structures in this patent. Of course, the internal assembly A2 is not limited to this patent application, and other structures with the same disconnection effect are also within the protection scope of the present invention.</p>
+<p id="p0027" num="0027">It should be particularly noted that the embodiment of the present invention focuses on protecting the structure of the rectangular outer shell A1 and the inner shell A2, mainly including the first plugging locking structures A11, the anti-skid structures A10, the internal assembly A12, and the first guiding plugging structures A13 arranged on the rectangular outer shell A1, as well as the inner shell A2-1, and the internal assembly clasping structure A21. In addition to the specific preferred examples of these structures shown in this embodiment, other structural designs that can play the same roles are also within the protection scope of this application.</p>
+<p id="p0028" num="0028">In particular, a bottom surface of the inner shell A2-1 is provided with a first through hole A2-19 which directly faces an alarm bump A2-25 at a bottom of the thermal disconnection component. The tripping electrode pin A2-4 and the non-tripping electrode pin A2-5 are respectively provided with a second through hole A2-42 and a third through hole A2-52, clasps A2-18 arranged on the respective leading-out pins passes through the corresponding second through hole A2-42 and third through hole A2-52 and then are clasped in the corresponding clasping holes.</p>
+<p id="p0029" num="0029">During installation, the SPD chip structure and the thermal disconnection structure are assembled and welded to the inner shell A2-1 to form an internal assembly A2, and then the internal assembly A2 is drawn into rectangular outer shell A1 along the reverse installation-proof slots A2-112 arranged on the left and right sides of the inner shell A2-1 and the mis-installation-proof short protrusions A1-6, so that the clasps A2-18 on the inner shell A2-1 are clasped in the clasping holes of the rectangular outer shell A1, and the notches A2-114 on the inner shell A2-1 cooperate with the mis-installation proof short protrusions A1-6. The clasps A2-18 can be configured to have a certain slope and elasticity, so that the clasps A2-18 can be plugged in more smoothly, but it cannot come out naturally.<!-- EPO <DP n="15"> --></p>
+<p id="p0030" num="0030">In the SPD plug-in module A provided by the embodiment of the present invention:
+<ul id="ul0004" list-style="none" compact="compact">
+<li>The rectangular outer shell A1 is provided with the first plugging locking structures A11 which can cooperate with the second plugging locking structures arranged on the SPD base when the SPD plug-in module is plugged in the SPD base, so as to achieve "locking" or "unlocking" of the SPD plug-in module;</li>
+<li>The first guiding plugging structures A13 are also provided to cooperate with the second guiding plugging structures of the SPD base, which can guide installation personnel to plug the SPD plug-in module in the SPD base quickly and accurately, and limit the SPD plug-in module so that it cannot be shaken;</li>
+<li>The window A1-1 is also arranged to provide a window observe operation status of the SPD plug-in module, and changes of the internal assembly A2 (the arc top A2-15) can be observed;</li>
+<li>The mis-installation-proof structure A14 is also provided, which cooperates with the mis-installation-proof matching structure A22 arranged on the inner shell A2-1 to realize mis-installation-proof of the internal assembly 2;</li>
+<li>The internal assembly fixing structure A12 is also provided, which cooperates the internal assembly clasping structure A12, so that the internal assembly A2 can be firmly installed in the rectangular outer shell A1 under the guidance and limitation of the reverse installation-proof slot A2-112 on the side wall of the internal assembly;</li>
+<li>The anti-skid structures A10 are also provided for easy plugging-in and plugging-out;</li>
+<li>The internal assembly A2 can be in a multi-chip tripping structure, such as an interruption turnable, which has a wide range of applications; and</li>
+<li>In implementation, the anti-skid structures A1-2 are preferably configured as rough surfaces A1-2, the first plugging locking structures are preferably configured as horizontal grooves A1-3, the first guiding plugging structures A11 are preferably configured as vertical grooves A1-5, the internal assembly fixing structures A12 are preferably configured as a clasping hole A1-4, the internal assembly clasping structures A21 are preferably configured as clasps A2-18, the mis-installation-proof structures A14 are preferably configured as mis-installation-proof short protrusions A1-6, and the mis-installation-proof matching structures A22 are preferably configured as notches A2-114; the rough surface A1-2s, the horizontal grooves A1-3, the vertical grooves A1-5, the clasping holes A1-4, the clasps A2-18, the mis-installation-proof short protrusions A1-6, and the notches A2-114 only need to be designed for the rectangular outer shell A1 or the inner shell A2-1 of the internal assembly when the mold is opened, and then they can be integrated, so that the product is simple and pretty, easy to assemble, and has a reliable structure, and costs are controlled effectively.</li>
+</ul></p>
+<heading id="h0007">Embodiment 2</heading><!-- EPO <DP n="16"> -->
+<p id="p0031" num="0031">As shown in <figref idref="f0003 f0004 f0005">FIGs. 6-8</figref>, the present invention also provides a SPD base B which can be applied to the SPD plug-in module A, the SPD base B includes:
+<ul id="ul0005" list-style="none" compact="compact">
+<li>a lower bottom shell B2 formed integrally;</li>
+<li>an upper bottom shell B1 formed integrally and covered on the lower bottom shell B2, including a left column 1, a right column 2 and a transverse bridge 3 connected between the left column 1 and the right column 2; wherein the left column 1, the transverse bridge 3 and the lower bottom shell B2 are defined by each other to form a first preset placement space S1; the right column 2, the transverse bridge 3 and the lower bottom shell B2 are defined by each other to form a second preset placement space S2; and the transverse bridge 3 and the lower bottom shell B2 are defined by each other to form a third preset placement space S3;</li>
+<li>a first wiring assembly 4 installed in the first preset placement space, S1 suitable for establishing an electrical connection between an electrode pin of the SPD plug-in module A and an external power line;</li>
+<li>a second wiring assembly 5 installed in the second preset placement space S2, suitable for establishing an electrical connection between another electrode pin of the SPD plug-in module A and an external power line; and</li>
+<li>an alarm component 6 installed in the third preset placement space S3;</li>
+<li>left and right sides of a top surface of the transverse bridge 3 are respectively provided with a fourth through hole 31 and a fifth through hole 32 for plugging two electrode pins of the SPD plug-in module A in the first wiring assembly 4 and the second wiring assembly 5; the top surface of the transverse bridge 3 is also provided with a sixth through hole 33 for an alarm tentacle 61 of the alarm component 6 passing through to press against an alarm bump A2-25 of the SPD plug-in module A.</li>
+<li>top surfaces of the left column 1 and/or the right column 2 are each provided with a second plugging locking structure B11 suitable for cooperating with the first plugging locking structures A11 of the SPD plug-in module A to achieve locking when the two electrode pins of the SPD plug-in module A are completely plugged in the first wiring assembly 4 and the second wiring assembly 5;</li>
+<li>inner side surfaces of the left column 1 and/or the right column 2 are each provided with second guiding plugging structure B12 suitable for cooperating with the first guiding plugging structures A13 of the SPD plug-in module A to guide the SPD plug-in module A to be plugged in the first wiring assembly 4 and the second wiring assembly 5;</li>
+<li>Preferably, when the first guiding plugging structures A13 of the SPD plug-in module A are configured as two vertical grooves A1-5 with the same or different heights, the second guiding plugging structures B12 are configured as vertical guide pieces B1-1 embedded into the vertical<!-- EPO <DP n="17"> --> grooves A1-5;</li>
+<li>the top surface of the transverse bridge 3 is provided with a seventh through hole 34 for embedding an identification pile A2-113 arranged on a bottom surface of the SPD plug-in module A.</li>
+</ul></p>
+<p id="p0032" num="0032">Preferably, when the first plugging locking structures A11 of the SPD plug-in module are horizontal grooves A1-3, the second plugging locking structures B11 each include a slider B1-2 and an elastic member B1-3 which are matched and assembled. The sliders B1-2 are provided with horizontal projections B1-4 which can be embedded in the horizontal grooves A1-3, and the elastic members B1-3 are used to limit the sliders B1-2 in a locked or unlocked state in which the horizontal grooves A1-3 and the horizontal protrusions B 1-4 are fitted or separated.</p>
+<p id="p0033" num="0033">The first wiring assembly 4 and the second wiring assembly 5 are each provided with an electrode extension pin B1-5, a crimping frame B1-6, and an adjusting member B1-7 (which is a screw in this embodiment) that are electrically connected.</p>
+<p id="p0034" num="0034">The electrode extension pin B1-5 is provided with a plug-in end B1-8, and the plug-in end B1-8 is detachably installed with an elastic pin B1-9 facing the fourth through hole 31 or the fifth through hole 32.</p>
+<p id="p0035" num="0035">Outer side surfaces of the left column 1 and the right column 2 are each provided with an eighth through hole 35 (including two through holes with the same nature) facing an opening of the crimping frame B1-6.</p>
+<p id="p0036" num="0036">In particular, an internal space between the lower bottom shell B2 and the upper bottom shell 1 is configured to uniquely define the electrode extension pins B 1-5 and the alarm component 6. Top surfaces of the left column 1 and the right column 2 are each provided with a ninth through hole 36 (including two through holes with the same nature), through which the adjusting members B1-7 (i.e., screws) are adjusted to freely adjust positions of the crimping frames B1-6 relative to the electrode extension pins B1-5.</p>
+<p id="p0037" num="0037">In addition to the structure specifically described above, as shown in <figref idref="f0006">FIG. 9</figref>, in order to fasten the elastic members B1-3 in the left column 1 and the right column 2, the elastic members B1-3 and the bottom shell B1 are adapted to the riveting tubes B1-11 and four riveting holes B1-10 are arranged in this embodiment. In order to achieve fastening between the upper bottom shell B 1 and the lower bottom shell B2, the portion which is formed when the upper bottom shell B 1 and the lower bottom shell B2 are closed is provided with a total of eight riveting holes B1-10, so that when the riveting tubes B 1-11 are inserted into the corresponding through holes, the upper bottom shell B1 and the lower bottom shell B2 are fastened. In particular, the elastic members B1-3 are provided with position-limiting protrusions B1-12, and two clamping grooves (not shown in the figure but easy to imagine) are arranged at positions on the backs of the top surfaces of the sliders B1-2 corresponding to the position-limiting protrusions B1-12, so that the position-limiting protrusions<!-- EPO <DP n="18"> --> B1-12 are embedded in the clamping grooves to realize "locking" or "unlocking".</p>
+<p id="p0038" num="0038">In particular, the lower bottom shell B2 is provided with an alarm switch position B2-1 for installing the alarm switch 6, a crimping frame position B2-2 for installing the crimping frame B1-6, and an elastic pin position B2-3 for installing the plug-in end B1-8. An abutting plate B2-4 is also provided between the elastic pin position B2-3 and the crimping frame position B2-2, which is used to electrically separate the crimping frame B1-6 from the plug-in end B1-8 when installation is completed.</p>
+<p id="p0039" num="0039">During installation, the crimping frames B1-6 and the electrode extension pins B1-5 are assembled with the adjusting members B1-7 (screws) into the first wiring assembly 4 and the second wiring assembly 5 as shown in <figref idref="f0005">FIG.8</figref>. The first wiring assembly 4 and the second wiring assembly 5 are placed at the corresponding positions of the lower bottom shell B2, and the upper bottom shell B1 is covered (or, the first wiring assembly 4 and the second wiring assembly 5 are placed at the corresponding positions of the upper bottom shell B1, and then the lower bottom shell B2 is covered), then the riveting tubes B1-11 are plugged in the respective riveting holes B1-10 to complete fixation. The elastic members B1-3 are placed at installation positions of the left column 1 and the right column 2, the sliders B1-2 are placed thereon, and then the riveting tubes B1-11 are plugged in the respective riveting holes B1-10 (passing through the elastic members B1-3 and the sliders B1-2) to complete fixation.</p>
+<p id="p0040" num="0040">In use, under guidance of the vertical guide pieces B1-1, the two electrode pins of the SPD plug-in module are completely plugged in the elastic pins B1-9 through the fourth through hole 31 and the fifth through hole 32. When the SPD base B is connected to a circuit, the corresponding power lines are plugged in the crimping frames B1-6 corresponding to the eighth through holes 35, and the adjusting elements B1-7 are adjusted to tighten the plugged power lines. In addition, in specific implementation, enclosures B1-13 are provided outside the eighth through holes 35, which can protect access ends of the power lines from being touched.</p>
+<p id="p0041" num="0041">In other embodiments, the SPD base further includes a remote communication interface 7 as shown in <figref idref="f0005">FIG.8</figref>. The lower bottom shell B2 and upper bottom shell B1 are adapted to the remote communication interface 7, so that the remote communication interface 7 is fixed in an accommodating space defined by the lower bottom shell B2 and the upper bottom shell B1, and is electrically connected to the alarm component 6.</p>
+<p id="p0042" num="0042">In the SPD base B provided in the present invention:
+<ul id="ul0006" list-style="none" compact="compact">
+<li>The second plugging locking structures B11 (i.e., the sliders B1-2 and the elastic members B1-3) arranged on the upper bottom shell B1, after the SPD plug-in module is plugged in position, cooperates with the first plugging locking structures (i.e., the horizontal grooves A1-3) to achieve "locking" or "unlocking" of the SPD plug-in module, thereby preventing SPD plug-in<!-- EPO <DP n="19"> --> module from loosening during transportation or use;</li>
+<li>The second guiding plugging structures B12 are arranged on the upper bottom shell B1 to guide the SPD plug-in module A to plug in smoothly; if the first guiding plugging structures A13 of the SPD plug-in module A are configured as different vertical grooves A1-5, the second guiding plugging structures are configured as vertical guide pieces B1-1 with corresponding heights to achieve reverse assembly-proof;</li>
+<li>The upper bottom shell B1 is correspondingly provided with a plurality of through holes for the electrode pins (the first leading-out pin A2-43 and the second leading-out pin A2-53) and the identification pile of the SPD plug-in module A, external power lines, and the remote communication interface 7 passing through, thereby meeting actual needs;</li>
+<li>Elastic pins B1-9 used to receive the electrode pins of the SPD plug-in module are configured to be detachable, so that elastic pins B1-9 of different materials can be replaced or elastic force of the elastic pins B1-9 can be adjusted so as to meet different requirements on tightness of plugging-in and plugging-out;</li>
+<li>The upper and lower bottom shells (B1, B2) are integrally formed, and the internal space is strictly divided into multiple preset spaces (S1 to S3); the first wiring assembly 4, the second wiring assembly 5, the alarm component 6 (and the remote communication interface 7) are placed at corresponding positions of the upper bottom shell B1 (or the lower bottom shell B2), then the upper and lower bottom shells are closed and riveting tubes B1-11 are plugged in to complete assembly, which has the advantages of accurate positioning, convenient assembly and reliable structure;</li>
+<li>The corresponding internal space and openings only need to be designed for the upper and lower bottom shells (B1, B2) when the mold is opened, and then they can be integrated, so that the product is simple and pretty, easy to assemble, and has a reliable structure, and costs are controlled effectively.</li>
+</ul></p>
+<heading id="h0008">Embodiment 3</heading>
+<p id="p0043" num="0043">This embodiment mainly protects a plug-in SPD, which is composed of the SPD plug-in module A provided in Embodiment 1 of the present invention and the SPD base B provided in Embodiment 2. As shown in <figref idref="f0006">FIGs. 9 and 10</figref>, the SPD plug-in module A is plugged in the SPD base B. The plug-in SPD protected by this embodiment provides installation positions for each functional components (the internal assembly A2, the first wiring assembly 4, the second wiring assembly 5, the alarm component 6, the remote communication interface 7, etc.), and the mis-installation-proof structures A14 and the mis-installation proof matching structures A22 cooperate, the first guiding plugging structures A13 and the second guiding plugging structures B12 cooperate, and the identification structure A23 and the seventh through hole 34 cooperate directionally. In order to ensure a reliable structure, the internal assembly fixing structures A12 and the internal assembly<!-- EPO <DP n="20"> --> clamping structures A21 are also provided to cooperate with each other, and the first plugging locking structures A11 and the second plugging locking structures B11 are also provided to cooperate with each other. In this way, any part of the plug-in SPD is positioned in its own space, and no wrong installation will occur. Such a structure has the advantages of easy assembly, high reliability, anti-bumping, anti-vibration, and low cost. It can be widely used in AC and DC surge protection of low voltage systems below 2000V, and it has wide application and high cost performance.</p>
+<p id="p0044" num="0044">The above-mentioned embodiments are preferred embodiments of the present invention, but the embodiments of the present invention are not limited by the above-mentioned embodiments, and any other changes, modifications, substitutions, combinations, etc. made without departing from the spirit and principle of the present invention are equivalent replacement, and shall fall within the protection scope of the present invention.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="21"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>An SPD plug-in module, <b>characterized in that</b> the SPD plug-in module includes:
+<claim-text>a rectangular outer shell with a bottom opening; and</claim-text>
+<claim-text>an internal assembly drawn into the rectangular outer shell from the bottom opening of the rectangular outer shell, including an inner shell as well as an SPD chip structure and a thermal disconnection structure fixed to the inner shell;</claim-text>
+<claim-text>the SPD chip structure is provided with a non-tripping electrode pin and a tripping electrode pin which are respectively fixed to lower middle portions of left and right side surfaces of the inner shell and extend out of a bottom surface of the inner shell.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The SPD plug-in module of claim 1, <b>characterized in that</b> upper portions of two side surfaces of the rectangular outer shell are each provided with an anti-skid structure, lower portions of the two side surfaces are each provided with an internal assembly fixing structure, and an inner side of one side surface of the rectangular outer shell is provided with a mis-installation-proof structure; and a first plugging locking structure and a first guiding plugging structure are provided below the anti-skid structure;<br/>
+lower portions of two side surfaces of the inner shell are each provided with an internal assembly buckling structure that matches and assembles with the internal assembly fixing structure, and an upper portion of one side surface of the inner shell is provided with a mis-installation-proof matching structure that matches with the mis-installation-proof structure;<br/>
+a window is also embedded in a top surface of the rectangular outer shell;<br/>
+a bottom surface of the inner shell is also provided with a first through hole which directly faces an alarm bump at a bottom of the thermal disconnection structure.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The SPD plug-in module of claim 2, <b>characterized in that</b>,<br/>
+the anti-skid structure is configured as a rough surface;<br/>
+the first plugging locking structure is configured as a horizontal groove arranged under the rough surface;<br/>
+the first guiding plugging structures extend upward from a lower portion of the two side surfaces of the rectangular outer shell, and include at least two vertical grooves with the same or different heights; a bottom surface of the internal assembly is provided with an identification structure which is configured as an identification pile arranged at a bottom of the inner shell;<br/>
+the internal assembly fixing structure is configured as a clasping hole, and the internal assembly clasping structure is configured as a clasp which is embedded in the clasping hole;<br/>
+the mis-installation-proof structure is configured as a mis-installation-proof short protrusion,<!-- EPO <DP n="22"> --> the mis-installation-proof matching structure is configured as a notch that matches with the mis-installation-proof short protrusion; and<br/>
+the non-tripping electrode pin and the tripping electrode pin are respectively provided with a second through hole and a third through hole, and the clasp passes through the second through hole and the third through hole and then is clasped in the clasping hole.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>An SPD base, <b>characterized in that</b> the SPD base includes:
+<claim-text>a lower bottom shell formed integrally;</claim-text>
+<claim-text>an upper bottom shell formed integrally and covered on the lower bottom shell, including a left column, a right column and a transverse bridge connected between the left column and the right column; the left column, the transverse bridge and the lower bottom shell being defined by each other to form a first preset placement space; the right column, the transverse bridge and the lower bottom shell being defined by each other to form a second preset placement space; and the transverse bridge and the lower bottom shell being defined by each other to form a third preset placement space;</claim-text>
+<claim-text>a first wiring assembly installed in the first preset placement space, suitable for establishing an electrical connection between an electrode pin of a SPD plug-in module and an external power line;</claim-text>
+<claim-text>a second wiring assembly installed in the second preset placement space, suitable for establishing an electrical connection between another electrode pin of the SPD plug-in module and an external power line; and</claim-text>
+<claim-text>an alarm component installed in the third preset placement space;</claim-text>
+<claim-text>left and right sides of a top surface of the transverse bridge are respectively provided with a fourth through hole and a fifth through hole for plugging two electrode pins of the SPD plug-in module in the first wiring assembly and the second wiring assembly.</claim-text></claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The SPD base of claim 4, <b>characterized in that</b>,<br/>
+top surfaces of the left column and/or the right column are each provided with a second plugging locking structure suitable for cooperating with the first plugging locking structures of the SPD plug-in module to achieve locking when the two electrode pins of the SPD plug-in module are completely plugged in the first wiring assembly and the second wiring assembly;<br/>
+inner side surfaces of the left column and/or the right column are each provided with a second guiding plugging structure suitable for cooperating with the first guiding plugging structures of the SPD plug-in module to guide the SPD plug-in module to be plugged in the first wiring assembly and the second wiring assembly;<br/>
+<!-- EPO <DP n="23"> -->the top surface of the transverse bridge is also provided with a sixth through hole for an alarm tentacle of the alarm component passing through to press against an alarm bump of the SPD plug-in module.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The SPD base of claim 5, <b>characterized in that</b> when the first guiding plugging structures of the SPD plug-in module are configured as two vertical grooves with the same or different heights, the second guiding plugging structures are configured as vertical guide pieces embedded into the vertical grooves;<br/>
+the top surface of the transverse bridge is provided with a seventh through hole for embedding an identification pile arranged on a bottom surface of the SPD plug-in module.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The SPD base of claim 6, <b>characterized in that</b> when the first plugging locking structure of the SPD plug-in module are configured as horizontal grooves, the second plugging locking structures each include a slider and an elastic member which are matched and assembled; the sliders are provided with horizontal projections which can be embedded in the horizontal grooves, and the elastic members are used to limit the sliders in a locked or unlocked state in which the horizontal grooves and the horizontal protrusions are fitted or separated.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>The SPD base of claim 6, <b>characterized in that</b> the first wiring assembly and the second wiring assembly are each provided with an electrode extension pin, a crimping frame, and an adjusting member that are electrically connected;<br/>
+the electrode extension pin is provided with a plug-in end, and the plug-in end is detachably installed with an elastic pin facing the fourth through hole or the fifth through hole; and<br/>
+outer side surfaces of the left column and the right column are each provided with an eighth through hole facing an opening of the crimping frame.</claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>The SPD base of claim 8, <b>characterized in that</b> an internal space between the lower bottom shell and the upper bottom shell is configured to uniquely define the electrode extension pins and the alarm component; top surfaces of the left column and the right column are each provided with a ninth through hole, through which the adjusting members are adjusted to freely adjust positions of the crimping frames relative to the electrode extension pins.</claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>A plug-in SPD, <b>characterized in that</b> the plug-in SPD is composed of the SPD plug-in module of any one of claims 1 to 3 and the SPD base of any one of claims 4 to 9, and the SPD plug-in module is plugged in the SPD base.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="24"> -->
+<figure id="f0001" num="1,2"><img id="if0001" file="imgf0001.tif" wi="93" he="220" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="25"> -->
+<figure id="f0002" num="3,4"><img id="if0002" file="imgf0002.tif" wi="161" he="221" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="26"> -->
+<figure id="f0003" num="5,6"><img id="if0003" file="imgf0003.tif" wi="146" he="153" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="27"> -->
+<figure id="f0004" num="7"><img id="if0004" file="imgf0004.tif" wi="116" he="134" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="28"> -->
+<figure id="f0005" num="8"><img id="if0005" file="imgf0005.tif" wi="141" he="183" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="29"> -->
+<figure id="f0006" num="9,10"><img id="if0006" file="imgf0006.tif" wi="83" he="205" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="157" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="155" he="233" type="tif"/></search-report-data><search-report-data date-produced="20210430" id="srepxml" lang="en" srep-office="EP" srep-type="ep-sr" status="n"><!--
+ The search report data in XML is provided for the users' convenience only. It might differ from the search report of the PDF document, which contains the officially published data. The EPO disclaims any liability for incorrect or incomplete data in the XML for search reports.
+ -->
+
+<srep-info><file-reference-id>8423 EP</file-reference-id><application-reference><document-id><country>EP</country><doc-number>20207391.2</doc-number></document-id></application-reference><applicant-name><name>Longke Electronics (Huiyang) Co., Ltd.</name></applicant-name><srep-established srep-established="yes"/><srep-invention-title title-approval="yes"/><srep-abstract abs-approval="yes"/><srep-figure-to-publish figinfo="by-applicant"><figure-to-publish><fig-number>2</fig-number></figure-to-publish></srep-figure-to-publish><srep-info-admin><srep-office><addressbook><text>BE</text></addressbook></srep-office><date-search-report-mailed><date>20210511</date></date-search-report-mailed></srep-info-admin></srep-info><srep-for-pub><srep-fields-searched><minimum-documentation><classifications-ipcr><classification-ipcr><text>H01C</text></classification-ipcr><classification-ipcr><text>H01H</text></classification-ipcr><classification-ipcr><text>H01T</text></classification-ipcr></classifications-ipcr></minimum-documentation></srep-fields-searched><srep-citations><citation id="sr-cit0001"><patcit dnum="EP3422370A1" id="sr-pcit0001" url="http://v3.espacenet.com/textdoc?DB=EPODOC&amp;IDX=EP3422370&amp;CY=ep"><document-id><country>EP</country><doc-number>3422370</doc-number><kind>A1</kind><name>SHANGHAI HANGHAI CHENZHU INSTR CO LTD [CN] ET AL.</name><date>20190102</date></document-id></patcit><category>X</category><rel-claims>1-10</rel-claims><rel-passage><passage>* figures 1-17 *</passage></rel-passage></citation><citation id="sr-cit0002"><patcit dnum="WO2007017736A1" id="sr-pcit0002" url="http://v3.espacenet.com/textdoc?DB=EPODOC&amp;IDX=WO2007017736&amp;CY=ep"><document-id><country>WO</country><doc-number>2007017736</doc-number><kind>A1</kind><name>KIWA SPOL S R O [SK]; CERNICKA JOZEF [SK]</name><date>20070215</date></document-id></patcit><category>X</category><rel-claims>1,2,4,5,10</rel-claims><category>Y</category><rel-claims>3,6-9</rel-claims><rel-passage><passage>* figure 7 *</passage></rel-passage></citation><citation id="sr-cit0003"><patcit dnum="DE102015000329B3" id="sr-pcit0003" url="http://v3.espacenet.com/textdoc?DB=EPODOC&amp;IDX=DE102015000329&amp;CY=ep"><document-id><country>DE</country><doc-number>102015000329</doc-number><kind>B3</kind><name>DEHN + SÖHNE GMBH + CO KG [DE]</name><date>20160519</date></document-id></patcit><category>X</category><rel-claims>1</rel-claims><category>Y</category><rel-claims>3,6-9</rel-claims><rel-passage><passage>* figures 1,2,4,7 *</passage></rel-passage></citation><citation id="sr-cit0004"><patcit dnum="WO2007093572A1" id="sr-pcit0004" url="http://v3.espacenet.com/textdoc?DB=EPODOC&amp;IDX=WO2007093572&amp;CY=ep"><document-id><country>WO</country><doc-number>2007093572</doc-number><kind>A1</kind><name>DEHN &amp; SOEHNE [DE]; ZAHLMANN PETER [DE] ET AL.</name><date>20070823</date></document-id></patcit><category>X</category><rel-claims>1</rel-claims><category>Y</category><rel-claims>3</rel-claims><rel-passage><passage>* figure 2 *</passage></rel-passage></citation><citation id="sr-cit0005"><patcit dnum="CN108933066A" id="sr-pcit0005" url="http://v3.espacenet.com/textdoc?DB=EPODOC&amp;IDX=CN108933066&amp;CY=ep"><document-id><country>CN</country><doc-number>108933066</doc-number><kind>A</kind><name>SHANGHAI CHENZHU INSTR CO LTD; DINKLE ENTPR CO LTD ET AL.</name><date>20181204</date></document-id></patcit><category>X</category><rel-claims>1</rel-claims><rel-passage><passage>* figure 1 *</passage></rel-passage></citation></srep-citations><srep-admin><examiners><primary-examiner><name>Rodríguez-Gironés, M</name></primary-examiner></examiners><srep-office><addressbook><text>Berlin</text></addressbook></srep-office><date-search-completed><date>20210430</date></date-search-completed></srep-admin><!--							The annex lists the patent family members relating to the patent documents cited in the above mentioned European search report.							The members are as contained in the European Patent Office EDP file on							The European Patent Office is in no way liable for these particulars which are merely given for the purpose of information.							For more details about this annex : see Official Journal of the European Patent Office, No 12/82						--><srep-patent-family><patent-family><priority-application><document-id><country>EP</country><doc-number>3422370</doc-number><kind>A1</kind><date>20190102</date></document-id></priority-application><text>NONE</text></patent-family><patent-family><priority-application><document-id><country>WO</country><doc-number>2007017736</doc-number><kind>A1</kind><date>20070215</date></document-id></priority-application><family-member><document-id><country>AU</country><doc-number>2006277738</doc-number><kind>A1</kind><date>20070215</date></document-id></family-member><family-member><document-id><country>BR</country><doc-number>PI0614137</doc-number><kind>A2</kind><date>20121120</date></document-id></family-member><family-member><document-id><country>EP</country><doc-number>1911046</doc-number><kind>A1</kind><date>20080416</date></document-id></family-member><family-member><document-id><country>US</country><doc-number>2009302992</doc-number><kind>A1</kind><date>20091210</date></document-id></family-member><family-member><document-id><country>WO</country><doc-number>2007017736</doc-number><kind>A1</kind><date>20070215</date></document-id></family-member></patent-family><patent-family><priority-application><document-id><country>DE</country><doc-number>102015000329</doc-number><kind>B3</kind><date>20160519</date></document-id></priority-application><family-member><document-id><country>CN</country><doc-number>107112101</doc-number><kind>A</kind><date>20170829</date></document-id></family-member><family-member><document-id><country>DE</country><doc-number>102015000329</doc-number><kind>B3</kind><date>20160519</date></document-id></family-member><family-member><document-id><country>EP</country><doc-number>3243209</doc-number><kind>A1</kind><date>20171115</date></document-id></family-member><family-member><document-id><country>ES</country><doc-number>2821248</doc-number><kind>T3</kind><date>20210423</date></document-id></family-member><family-member><document-id><country>PL</country><doc-number>3243209</doc-number><kind>T3</kind><date>20201214</date></document-id></family-member><family-member><document-id><country>SI</country><doc-number>3243209</doc-number><kind>T1</kind><date>20200831</date></document-id></family-member><family-member><document-id><country>WO</country><doc-number>2016110359</doc-number><kind>A1</kind><date>20160714</date></document-id></family-member></patent-family><patent-family><priority-application><document-id><country>WO</country><doc-number>2007093572</doc-number><kind>A1</kind><date>20070823</date></document-id></priority-application><family-member><document-id><country>AT</country><doc-number>413684</doc-number><kind>T</kind><date>20081115</date></document-id></family-member><family-member><document-id><country>CN</country><doc-number>101361145</doc-number><kind>A</kind><date>20090204</date></document-id></family-member><family-member><document-id><country>DE</country><doc-number>102006037551</doc-number><kind>A1</kind><date>20070830</date></document-id></family-member><family-member><document-id><country>EP</country><doc-number>1854109</doc-number><kind>A1</kind><date>20071114</date></document-id></family-member><family-member><document-id><country>JP</country><doc-number>5050147</doc-number><kind>B2</kind><date>20121017</date></document-id></family-member><family-member><document-id><country>JP</country><doc-number>2009527072</doc-number><kind>A</kind><date>20090723</date></document-id></family-member><family-member><document-id><country>WO</country><doc-number>2007093572</doc-number><kind>A1</kind><date>20070823</date></document-id></family-member></patent-family><patent-family><priority-application><document-id><country>CN</country><doc-number>108933066</doc-number><kind>A</kind><date>20181204</date></document-id></priority-application><text>NONE</text></patent-family></srep-patent-family></srep-for-pub></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="CN110601164A"><document-id><country>CN</country><doc-number>110601164</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0026]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

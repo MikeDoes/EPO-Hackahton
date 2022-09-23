@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP20802035A1" file="EP20802035NWA1.xml" lang="en" country="EP" doc-number="3890093" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3890093</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>20802035.4</B210><B220><date>20200406</date></B220><B240><B241><date>20210629</date></B241></B240><B250>ko</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>20190054063</B310><B320><date>20190509</date></B320><B330><ctry>KR</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>H01M  10/058       20100101AFI20201113BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>H01M  10/44        20060101ALI20201113BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>H01M   4/04        20060101ALI20201113BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>G01R  31/385       20190101ALI20201113BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>G01R  31/388       20190101ALI20201113BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>Y02E  60/10        20130101 LA20201215BGEP        </text></classification-cpc><classification-cpc sequence="2"><text>G01R  31/388       20190101 LI20201211BCEP        </text></classification-cpc><classification-cpc sequence="3"><text>H01M   4/04        20130101 LI20201211BCEP        </text></classification-cpc><classification-cpc sequence="4"><text>G01R  31/385       20190101 LI20201211BCEP        </text></classification-cpc><classification-cpc sequence="5"><text>Y02P  70/50        20151101 LA20210630BGEP        </text></classification-cpc><classification-cpc sequence="6"><text>H01M  10/44        20130101 LI20201211BCEP        </text></classification-cpc><classification-cpc sequence="7"><text>H01M  10/058       20130101 LI20201211BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>VERFAHREN ZUR HERSTELLUNG EINER SEKUNDÄRBATTERIE</B542><B541>en</B541><B542>METHOD FOR MANUFACTURING SECONDARY BATTERY</B542><B541>fr</B541><B542>PROCÉDÉ DE FABRICATION DE BATTERIE SECONDAIRE</B542></B540><B590><B598>3</B598></B590></B500><B700><B710><B711><snm>LG ENERGY SOLUTION, LTD.</snm><iid>101894536</iid><irf>BS/B21101294EP/NN</irf><adr><str>Tower 1, 108, Yeoui-daero 
+Yeongdeungpo-gu</str><city>Seoul 07335</city><ctry>KR</ctry></adr></B711></B710><B720><B721><snm>KIM, Sung Tae</snm><adr><str>188, Munji-ro, Yuseong-Gu</str><city>Daejeon 34122</city><ctry>KR</ctry></adr></B721><B721><snm>SUNG, Nak Gi</snm><adr><str>188, Munji-ro, Yuseong-Gu</str><city>Daejeon 34122</city><ctry>KR</ctry></adr></B721><B721><snm>KANG, Joon Sup</snm><adr><str>188, Munji-ro, Yuseong-Gu</str><city>Daejeon 34122</city><ctry>KR</ctry></adr></B721></B720><B740><B741><snm>Plasseraud IP</snm><iid>101568050</iid><adr><str>66, rue de la Chaussée d'Antin</str><city>75440 Paris Cedex 09</city><ctry>FR</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>KR2020004616</anum></dnum><date>20200406</date></B861><B862>ko</B862></B860><B870><B871><dnum><pnum>WO2020226285</pnum></dnum><date>20201112</date><bnum>202046</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">The present invention relates to a method for manufacturing a secondary battery comprising: a formation step for charging an assembled secondary battery to an SOC of 45% to 65%; an aging step for aging the secondary battery for which the formation has been completed; and a low voltage testing step for measuring the change in voltage value, wherein, in the low voltage testing step, a voltage value is measured in an SOC interval of 30% or lower. Since an SEI coating is stably formed in the method for manufacturing a secondary battery of the present invention, charging time is shortened and thus the secondary battery can be mass-produced. In addition, since a low voltage test is performed in an interval in which the voltage change rate per capacity of a negative electrode is high, a low voltage defect due to non-uniformity of the formation process can be detected in the method for manufacturing the secondary battery of the present invention.<img id="iaf01" file="imgaf001.tif" wi="78" he="74" img-content="drawing" img-format="tif"/></p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">[Technical Field]</heading>
+<p id="p0001" num="0001">This application claims the benefit of priority based on <patcit id="pcit0001" dnum="KR1020190054063"><text>Korean Patent Application No. 10-2019-0054063, filed on May 9, 2019</text></patcit>, and the entire contents of the Korean patent application are incorporated herein by reference.</p>
+<p id="p0002" num="0002">The present invention relates to a method for manufacturing a secondary battery, and more particularly, to a method for manufacturing a secondary battery, capable of shortening the charging time to ensure mass production of secondary batteries, reducing the variation in the performance of the manufactured secondary battery and facilitating the detection of low-voltage defects, detecting low-voltage defects caused by foreign materials or internal short circuits and defects due to non-uniformity of formation conditions such as lithium plating, wetting, and gas, and shortening the detection time of low-voltage defects.</p>
+<heading id="h0002">[Background Art]</heading>
+<p id="p0003" num="0003">As technologies for mobile devices are developed and demand for the mobile devices increases, there has been a rapid increase in demand for secondary batteries as energy sources. Among such secondary batteries, lithium secondary batteries, which exhibit a high energy density and operational potential, a long cycle life, and a low self-discharge rate have been<!-- EPO <DP n="2"> --> commercialized and widely used.</p>
+<p id="p0004" num="0004">The lithium secondary battery undergoes an activation process after the electrode assembly is assembled in the battery case together with the electrolyte. The activation process stabilizes the battery structure and makes it usable through charging, aging, and discharging the assembled battery.</p>
+<p id="p0005" num="0005">In the lithium secondary battery, various types of defects may occur due to various causes during a manufacturing process or use. In particular, some of secondary batteries that have been manufactured have a phenomenon of exhibiting a voltage drop behavior over a self-discharge rate, and this phenomenon is called low voltage.</p>
+<p id="p0006" num="0006">The low voltage failure phenomenon of the secondary battery is often due to a foreign metal material located therein. In particular, when a metal foreign material such as iron or copper is present in the positive electrode plate of the secondary battery, the metal foreign material may grow as a dendrite at the negative electrode. In addition, such a dendrite causes an internal short circuit of the secondary battery, which may cause failure or damage of the secondary battery or, in severe cases, ignition.</p>
+<p id="p0007" num="0007">Conventionally, the pre-aged battery is first charged in the range of 10% to 30% SOC, and the OCV (Open Circuit Voltage) is measured at two selected time points during the aging process. Then the change value (voltage drop amount) of OCV is compared with a reference value, and a secondary battery having a voltage drop amount below the reference value is determined as a good product. In this way, low voltage defects have been detected.</p>
+<p id="p0008" num="0008">However, the method described above has a region in which the voltage drop amount of<!-- EPO <DP n="3"> --> a good product and the voltage drop amount of a bad product appear at the same level, so it is difficult to accurately select a low voltage defect. In addition, the conventional method has a disadvantage in that it is not possible to sort out defects due to non-uniformity of formation states such as lithium plating and gas. Therefore, there is a need for an activation method that reduces the amount of voltage drop of a good product and detects a low voltage defect due to formation non-uniformity.</p>
+<heading id="h0003">[Disclosure]</heading>
+<heading id="h0004">[Technical Problem]</heading>
+<p id="p0009" num="0009">The present invention is proposed to solve the above problems, and an object of the present invention is to provide a method of activating a secondary battery that improves dispersion by reducing a voltage drop amount of a good product and increases a detection power of a low voltage defect.</p>
+<p id="p0010" num="0010">In addition, another object of the present invention is to provide a method of manufacturing a secondary battery that secures mass productivity by shortening a charging time and a detection time of a low voltage defect.</p>
+<p id="p0011" num="0011">In addition, another object of the present invention is to provide a method for detecting a defect due to a non-uniformity of formation as well as a low voltage defect caused by foreign materials.</p>
+<heading id="h0005">[Technical Solution]</heading><!-- EPO <DP n="4"> -->
+<p id="p0012" num="0012">The method for manufacturing a secondary battery of the present invention includes: a formation step of charging an assembled secondary battery to SOC 45% to 65%; an aging step of aging the formed secondary battery; and a low voltage test step of measuring a change in a voltage value, wherein in the low voltage test step, the voltage value is measured in a section of SOC 30% or less.</p>
+<p id="p0013" num="0013">In one embodiment of the present invention, in the formation step, charging and pressurizing may be simultaneously performed.</p>
+<p id="p0014" num="0014">At this time, the formation step may be performed at a temperature of 30°C to 65°C.</p>
+<p id="p0015" num="0015">In one embodiment of the present invention, the formation step may include three initial, middle, and last stage formation sections according to SOC, and formation conditions of charging speed or pressing force for each section are different.</p>
+<p id="p0016" num="0016">At this time, the formation for the secondary battery may be performed at the charge rate of 0.1C to 0.3C and the pressure of 0.1 kgf/cm' to 1.0kgf/cm<sup>2</sup> in the initial section, at the charge rate of 0.7C to 1.3C and the pressure of 0.1 kgf/cm<sup>2</sup> to 1.0kgf/cm<sup>2</sup> in the middle section, and at the charge rate of 0.7C to 1.3C and the pressure of 7 kgf/cm<sup>2</sup> to 13 kgf/cm<sup>2</sup> in the last section.</p>
+<p id="p0017" num="0017">Further, an upper limit of the initial section may be SOC 1% to 7%, and an upper limit of the middle section may be SOC 15% to 19%.</p>
+<p id="p0018" num="0018">In one embodiment of the present invention, in the aging step, the secondary battery may be stabilized at a temperature above 60°C.<!-- EPO <DP n="5"> --></p>
+<p id="p0019" num="0019">In one embodiment of the present invention, the method may further include a room temperature aging step of stabilizing the secondary battery at a temperature of 20°C to 30°C.</p>
+<p id="p0020" num="0020">In one embodiment of the present invention, the method may further include: a step of degassing after the aging step; and a full charge and full discharge step.</p>
+<p id="p0021" num="0021">In one embodiment of the present invention, the method may further include a shipping charge step after the full charge and full discharge step.</p>
+<p id="p0022" num="0022">In one embodiment of the present invention, the method may further include a pre-aging step of aging the assembled secondary battery at room temperature, before the formation step.</p>
+<p id="p0023" num="0023">In one embodiment of the present invention, the low voltage test step may include sorting out a defective secondary battery from a voltage drop amount.</p>
+<p id="p0024" num="0024">In one embodiment of the present invention, the low voltage test step may be performed in a section of SOC 10% to 30%.</p>
+<p id="p0025" num="0025">The present invention provides a lithium secondary battery manufactured by the above method.</p>
+<heading id="h0006">[Advantageous Effects]</heading>
+<p id="p0026" num="0026">The method for manufacturing a secondary battery of the present invention shows an effect of reducing a voltage drop amount of a good product, increasing a voltage drop amount of a defective product, and thereby improving a low voltage defect detection power to shorten the time required for low voltage inspection.</p>
+<p id="p0027" num="0027">In addition, according to the method for manufacturing a secondary battery of the<!-- EPO <DP n="6"> --> present invention, since the SEI film is stably formed, the time required for charging is shortened, and thus, the mass productivity of the secondary battery is secured.</p>
+<p id="p0028" num="0028">In addition, according to the method for manufacturing a secondary battery of the present invention, since a low voltage test is performed in a section where the rate of voltage change per capacity of the negative electrode is large, there is an effect of detecting a low voltage defect due to non-uniformity of the formation process.</p>
+<heading id="h0007">[Brief Description of the Drawings]</heading>
+<p id="p0029" num="0029">
+<ul id="ul0001" list-style="none" compact="compact">
+<li><figref idref="f0001">FIG. 1</figref> is a schematic view showing a step in which lithium ions are inserted into a negative electrode active material through charging.</li>
+<li><figref idref="f0002">FIG. 2</figref> is a view showing a sequence of a secondary battery manufacturing method according to an embodiment of the present invention.</li>
+<li><figref idref="f0003">FIG. 3</figref> is a view showing a sequence of a secondary battery manufacturing method according to another embodiment of the present invention.</li>
+<li><figref idref="f0004">FIG. 4</figref> is a graph showing voltage and dV/dSOC according to SOC of a battery.</li>
+<li><figref idref="f0005">FIG. 5</figref> is a graph showing voltage according to SOC of the negative electrode.</li>
+</ul></p>
+<heading id="h0008">[Detailed Description of the Preferred Embodiments]</heading>
+<p id="p0030" num="0030">Hereinafter, preferred embodiments of the present invention will be described in detail with reference to the accompanying drawings. The terms and words used in the present specification and claims should not be construed as limited to ordinary or dictionary terms and the inventor may properly define the concept of the terms in order to best describe its invention.<!-- EPO <DP n="7"> --> The terms and words should be construed as meaning and concept consistent with the technical idea of the present invention.</p>
+<p id="p0031" num="0031">Accordingly, the embodiments described in the specification and the configurations described in the drawings are only the most preferred embodiments of the present invention, and do not represent all of the technical ideas of the present invention. It is to be understood that there may be various equivalents and variations in place of them at the time of filing the present application.</p>
+<p id="p0032" num="0032"><figref idref="f0002">FIG. 2</figref> shows a sequence of a secondary battery manufacturing method according to an embodiment of the present invention. Referring to <figref idref="f0002">FIG. 2</figref>, the method for manufacturing a secondary battery according to an embodiment of the present invention includes: a formation step of charging the assembled secondary battery from SOC 45% to 65%; an aging step of aging the formed secondary battery; and a low voltage test step to measure the change in voltage value, in which in the low voltage test step, the voltage value is measured in a section of SOC 30% or less.</p>
+<p id="p0033" num="0033">The formation step is a step of forming a coating layer of SEI (solid electrolyte interface) of the negative electrode and is characterized in that the assembled secondary battery is charged at a high rate of 45% to 65% of the capacity of the secondary battery (SOC).</p>
+<p id="p0034" num="0034">In order to improve the dispersion by reducing the voltage drop of a good quality secondary battery, the SEI film of the negative electrode should be formed uniformly and stably, which can be achieved only when the volume of the negative electrode is expanded to the<!-- EPO <DP n="8"> --> maximum. The inventors of the present invention found that the SEI film is formed as uniformly as possible when the charge is performed at SOC 45% to 65% during the primary charging, and the voltage drop amount of the good product is reduced, which has led the inventors to the present invention.</p>
+<p id="p0035" num="0035"><figref idref="f0001">FIG. 1</figref> is a schematic view showing a step in which lithium ions are inserted into a negative electrode active material through charging. Referring to <figref idref="f0001">FIG. 1</figref>, as charging proceeds, lithium ions are inserted into the layered structure of the negative electrode, stabilizing from stage 4 to stage 1. In the primary charging step, a stable SEI layer may be formed only when charging is performed until the stage 2 is completed. Here, the charge point at which stage 2 is completed is different depending on the type of the negative electrode active material, but is generally at a level of SOC 45% to SOC 65%. In the prior art, during the primary charging of the activation process, it was charged to a point at which SOC becomes 30%. This is a section converted from stage 3 to stage 2, and the charging is terminated when the negative electrode volume is not sufficiently expanded. As such, the SEI film was not formed stably.</p>
+<p id="p0036" num="0036">Therefore, during the primary charging of the formation process, if the charging is performed at less than 45% of SOC, it may be difficult to achieve the object of the present invention, which is not preferable.</p>
+<p id="p0037" num="0037">The charging conditions of the formation step may be performed according to a method known in the art. Specifically, charging may be performed with a charging voltage of 3.0 to 4.0V and a C-rate of 1.3C or less. However, the charging voltage and the charging speed may vary according to the type or characteristics of the secondary battery, but are not limited thereto.<!-- EPO <DP n="9"> --></p>
+<p id="p0038" num="0038">In one preferred embodiment of the present invention, in order to prevent a gas trap phenomenon and lithium plating in which gas generated during charging of the formation process is trapped between the electrode and the separator, it is preferable that the secondary battery is pressurized at the same time as charging in the formation step.</p>
+<p id="p0039" num="0039">As described above, by pressurizing the secondary battery in the formation step, the SEI film is uniformly formed on the negative electrode, which has the advantage of maximizing the performance of the battery, such as capacity and resistance, and has the effect of shortening the charging and discharging time. The pressing may be performed using a jig or the like, but is not limited if it is a means capable of pressing the secondary battery.</p>
+<p id="p0040" num="0040">In one embodiment of the invention, the formation step is preferably carried out at a temperature of 30°C to 65°C.</p>
+<p id="p0041" num="0041">In one embodiment of the present invention, the formation step may include three initial, middle, and last stage formation sections according to SOC, and the formation conditions of the charging speed or the pressing force for each section may be set to be different.</p>
+<p id="p0042" num="0042">Specifically, the formation for the secondary battery is performed at the charge rate of 0.1C to 0.3C and the pressure of 0.1 kgf/cm<sup>2</sup> to 1.0kgf/cm<sup>2</sup> in the initial section, at the charge rate of 0.7C to 1.3C and the pressure of 0.1 kgf/cm<sup>2</sup> to 1.0kgf/cm<sup>2</sup> in the middle section, and at the charge rate of 0.7C to 1.3C and the pressure of 7 kgf/cm<sup>2</sup> to 13 kgf/cm<sup>2</sup> in the last section.</p>
+<p id="p0043" num="0043">Herein, the initial section may mean the formation section of from SOC 0% to a point between SOC 1% to SOC 7%, the middle section may mean the formation section of from a<!-- EPO <DP n="10"> --> point after the initial section to a point between SOC 15% to SOC 19%, and the last section may mean the formation section of from a point after the middle section to a point between SOC 45% to SOC 65%.</p>
+<p id="p0044" num="0044">In this way, the formation section is set in multiple stages, and the charging speed and the pressing force are set differently for each formation section for formation, thereby improving the capacity and resistance performance of the secondary battery and reducing the performance variation of the good product, which shows an effect of improving the detection power of the defective battery.</p>
+<p id="p0045" num="0045">Thereafter, an aging step of stabilizing the formed secondary battery is performed. The aging step is a step of further stabilizing the battery by maintaining at a constant temperature and humidity.</p>
+<p id="p0046" num="0046">The aging step may include a high temperature aging step for aging in a high temperature environment of 60°C or higher and/or a normal temperature aging step for stabilizing a secondary battery at a temperature of 20°C to 30°C.</p>
+<p id="p0047" num="0047">The high temperature aging step is a step of stabilizing the SEI film formed in the formation step above, which has an advantage that when the formed battery is aged at a high temperature rather than room temperature, the stabilization of the SEI film is further accelerated. For the purpose of the present invention to stabilize the SEI film to reduce the performance variation of the secondary battery, it is preferable to perform high temperature aging after the formation process.</p>
+<p id="p0048" num="0048">In the present invention, the high-temperature aging step is performed at 60°C or higher,<!-- EPO <DP n="11"> --> preferably 65°C to 75°C, thereby accelerating stabilization of the SEI film of good products and reducing the amount of self-discharge of good products to improve low voltage detection. When the high temperature aging is performed at a temperature of less than 60°C, it is difficult to achieve the object of the present invention, and when the temperature is too high, there is a problem that battery performance, such as capacity and life, is deteriorated, which is not desirable.</p>
+<p id="p0049" num="0049">In one embodiment of the present invention, the high-temperature aging step may be performed for 18 hours to 36 hours, more preferably 21 hours to 24 hours. If the high temperature aging time is less than 18 hours, the stabilization of the SEI film may not be sufficient to achieve the object of the present invention, and when the high temperature aging time exceeds 36 hours, the aging time is prolonged, which is undesirable in terms of productivity.</p>
+<p id="p0050" num="0050">The secondary battery in which the SEI film is stabilized by a high temperature aging can be subjected to room temperature aging to be stabilized at a room temperature. The room temperature aging step may be performed at 20°C to 30°C, specifically 22°C to 28°C, more specifically 23°C to 27°C, and even more specifically 25°C to 27°C.</p>
+<p id="p0051" num="0051">In one embodiment of the present invention, at the same time as the room temperature aging process or after the end of the room temperature aging process, a process of inspecting whether an electrolyte is impregnated, whether a side reaction occurs, and whether assembly parts are abnormal may be performed. In the test, the OCV of the secondary battery is measured at the starting point at which room temperature aging starts, and the OCV is measured at the end<!-- EPO <DP n="12"> --> point at which room temperature aging is completed to confirm the change in the voltage value. And if the difference between the voltage values exceeds a preset reference value, the produced battery may be determined as defective.</p>
+<p id="p0052" num="0052"><figref idref="f0003">FIG. 3</figref> is a flowchart illustrating a method of manufacturing a secondary battery according to an embodiment of the present invention. Referring to <figref idref="f0003">FIG. 3</figref>, after the aging step, the method of manufacturing a secondary battery includes: a step of performing a degassing process; a step of performing full charge and full discharge processes; a step of performing a shipping charge; and a step of measuring the change in voltage value.</p>
+<p id="p0053" num="0053">The degassing process is for removing side reaction gases generated inside the secondary battery while going through the formation process and the aging step. In the degassing process, various degassing techniques known at the time of filing the present invention can be employed. For example, the degassing process may be performed by cutting an extended portion and sealing the cut portion in a pouch-type secondary battery having one side extended. However, since such a degassing technique is widely known to those skilled in the art, a more detailed description is omitted here.</p>
+<p id="p0054" num="0054">The full charge and full discharge process is a process of completely charging and completely discharging the battery in order to activate the battery and sort out defective batteries.</p>
+<p id="p0055" num="0055">The shipping charge step is a step of charging the battery for shipping after the product is completely discharged.</p>
+<p id="p0056" num="0056">The secondary battery whose shipping charge has been completed detects a low voltage defect through a step of measuring a change in the voltage value. The step of measuring the<!-- EPO <DP n="13"> --> change in the voltage value includes stabilizing the shipping-charged battery under constant temperature and humidity conditions and measuring the voltage (OCV). Specifically, the OCV of the battery is measured at the starting point of the stabilization of the battery that has been shipping-charged. Thereafter, the OCV of the battery is measured at a time point after 12 hours to 300 hours, 24 hours to 240 hours, or 36 hours to 120 hours from the starting point, and the change in the voltage value is checked. If the difference between the voltage values exceeds a preset reference value, the produced battery may be determined as defective.</p>
+<p id="p0057" num="0057"><figref idref="f0004">FIG. 4</figref> shows voltage and dV/dSOC according to SOC of a battery. Referring to this, the point having SOC 17% and SOC 54% has the largest dV/dSOC. When performing a low voltage test by measuring the voltage drop in the SOC section where the dV/dSOC is large as described above, since the self-discharge amount of the defective product is much larger than that of the good product, the detection power of the defective product is improved. However, performing the low voltage test by simply setting the low voltage test section as a section, in which the dV/dSOC or dV/dQ of the battery is large, is not sufficient to detect a low voltage defective cell in which the negative electrode film state is uneven due to poor formation. This is because even if the dV/dSOC or dV/dQ is a large section, a battery with poor formation may not be detected.</p>
+<p id="p0058" num="0058">Accordingly, the present invention is characterized in that a low voltage test is performed by measuring the voltage drop in a section where the dV/dSOC of the negative electrode is large. In the case of a battery with an uneven negative electrode film condition due to poor formation such as lithium electrode plating, insufficient electrolyte impregnation, gas trap, etc., the self-discharge amount becomes large, thereby improving the detection sensitivity<!-- EPO <DP n="14"> --> of defective products.</p>
+<p id="p0059" num="0059"><figref idref="f0005">FIG. 5</figref> shows the voltage according to the SOC of the negative electrode. Referring to this, since dV/dSOC (slope of the graph) is large in a section with SOC of 30% or less, it is easy to detect a formation-defective battery when performing a low voltage test in the SOC section. In terms of improving detection power, it is more preferable to perform a low voltage test in a section of SOC 5% to 25%. If there is a practical difficulty in setting the SOC to less than 10% SOC, the low voltage test may be performed in the SOC 10% to SOC 30% charge amount range, preferably SOC 10% to SOC 20% range.</p>
+<p id="p0060" num="0060">In a method of manufacturing a secondary battery according to an embodiment of the present invention, before performing the formation process, a pre-aging step of aging the assembled secondary battery under constant temperature and humidity conditions may be performed.</p>
+<p id="p0061" num="0061">First, in the pre-aging step, an electrode mixture including an electrode active material and a binder is applied to an electrode current collector to prepare a positive electrode and a negative electrode, respectively, and then an electrode assembly is prepared by interposing a separator between the positive electrode and the negative electrode.</p>
+<p id="p0062" num="0062">After the electrode assembly thus prepared is accommodated in a battery case, an electrolyte is injected, and the battery case is sealed to manufacture a battery.</p>
+<p id="p0063" num="0063">The step of manufacturing such a battery is not particularly limited and can be performed according to a known method.</p>
+<p id="p0064" num="0064">In addition, the electrode assembly is not particularly limited as long as it is a structure<!-- EPO <DP n="15"> --> including a positive electrode, a negative electrode, and a separator interposed between the positive electrode and the negative electrode, and may be, for example, a jelly-roll type, a stack type, or a stack/folding type.</p>
+<p id="p0065" num="0065">The battery case is not particularly limited as long as it is used as an exterior material for packaging the battery, and a cylindrical, square, or pouch type may be used.</p>
+<p id="p0066" num="0066">The electrolyte includes an organic solvent and a lithium salt, and may optionally further contain an additive.</p>
+<p id="p0067" num="0067">The organic solvent is not limited as long as decomposition by an oxidation reaction or the like during charging and discharging of the battery can be minimized, and may be, for example, cyclic carbonate, linear carbonate, ester, ether, or ketone. These may be used alone, or two or more of them may be used in combination.</p>
+<p id="p0068" num="0068">Among the organic solvents, carbonate-based organic solvents can be preferably used. Examples of cyclic carbonates include ethylene carbonate (EC), propylene carbonate (PC) and butylene carbonate (BC). Linear carbonates include dimethyl carbonate (DMC), diethyl carbonate (DEC), dipropyl carbonate (DPC), ethyl methyl carbonate (EMC), methylpropyl carbonate (MPC), and ethylpropyl carbonate (EPC).</p>
+<p id="p0069" num="0069">Lithium salts commonly used in electrolytes of lithium secondary batteries such as LiPF<sub>6</sub>, LiAsF<sub>6</sub>, LiCF<sub>3</sub>SO<sub>3</sub>, LiN(CF<sub>3</sub>SO<sub>2</sub>)<sub>2</sub>, LiBF<sub>4</sub>, LiBF<sub>6</sub>, LiSbF<sub>6</sub>, LiN(C<sub>2</sub>F<sub>5</sub>SO<sub>2</sub>)<sub>2</sub>, LiA1O<sub>4</sub>, LiA1C1<sub>4</sub>, LiSO<sub>3</sub>CF<sub>3</sub> and LiC1O<sub>4</sub>, etc. can be used for the lithium salt without limitation, and these can be used alone, two or more can be used in combination.</p>
+<p id="p0070" num="0070">In addition, the electrolyte may optionally further include an additive. Any one or a<!-- EPO <DP n="16"> --> mixture of two or more selected from a group consisting of vnylene carbonate, vinylethylene carbonate, fluoroethylene carbonate, cyclic sulfite, saturated sultone, unsaturated sultone, acyclic sulfone, lithium oxalyl difluoroborate (LiODFB), and derivatives thereof may be used as the additive in order to stably form an SEI film, but not limited thereto.</p>
+<p id="p0071" num="0071">The cyclic sulfite may include ethylene sulfite, methyl ethylene sulfite, ethyl ethylene sulfite, 4,5-dimethyl ethylene sulfite, 4,5-diethyl ethylene sulfite, propylene sulfite, 4,5-dimethyl propylene sulfite, 4,5-diethyl propylene sulfite, 4,6-dimethyl propylene sulfite, 4,6-diethyl propylene sulfite, 1,3-butylene glycol sulfite, etc. Saturated sultone may include 1,3-propane sultone and 1,4-butane sultone, etc. Unsaturated sultone may include ethene sultone, 1,3-propene sultone, 1,4-butene sultone, and 1-methyl-1,3-propene sultone. The acyclic sulfone may include divinyl sulfone, dimethyl sulfone, diethyl sulfone, methylethyl sulfone, and methylvinyl sulfone.</p>
+<p id="p0072" num="0072">These additives are added to the electrolyte to improve low temperature output characteristics by forming a solid SEI film on the negative electrode, as well as to suppress decomposition of the positive electrode surface and prevent oxidation reaction of the electrolyte during high temperature cycle operation.</p>
+<p id="p0073" num="0073">When the battery case is of a pouch type, an aluminum laminated pouch including an aluminum layer may be used. After the electrolyte is injected, the opened portion of the aluminum laminated pouch can be sealed by heat welding.</p>
+<p id="p0074" num="0074">In the pre-aging step (S100), wetting of the battery by the electrolyte injected is performed.</p>
+<p id="p0075" num="0075">More specifically, when the secondary battery is charged, if the electrons move to the<!-- EPO <DP n="17"> --> negative electrode and charged, lithium ions are intercalated to the negative electrode to achieve charge neutrality. At this time, lithium ions can be occluded at the site where the electrolyte is impregnated, that is, where the ion migration path is maintained (wetting area), but occlusion is relatively difficult at the electrolyte non-wetting area.</p>
+<p id="p0076" num="0076">Therefore, through the pre-aging step, the battery can be aged for 0.5 to 72 hours at room temperature and atmospheric pressure so that the electrolyte can be permeated into the positive and negative electrodes. For example, the pre-aging step may be performed at 20°C to 30°C, specifically 22°C to 28°C, more specifically 23°C to 27°C, and even more specifically 25°C to 27°C.</p>
+<p id="p0077" num="0077">Hereinafter, the present invention will be described in detail with reference to examples. However, the embodiments according to the present invention may be modified into various other forms, and the scope of the present invention should not be construed as being limited to the examples described below. The examples of the present invention are provided to more fully describe the present invention to those skilled in the art.</p>
+<heading id="h0009"><u>Preparation Example 1</u></heading>
+<p id="p0078" num="0078">A positive electrode mixture was prepared by mixing 96.7 parts by weight of Li[Ni<sub>0</sub>.<sub>6</sub>Mn<sub>0</sub>.<sub>2</sub>Co<sub>0</sub>.<sub>2]</sub>O<sub>2</sub> serving as a positive electrode active material, 1.3 parts by weight of graphite serving as a conductive material, and 2.0 parts by weight of polyvinylidene fluoride (PVdF) serving as a binder. The positive electrode mixture slurry was prepared by dispersing the<!-- EPO <DP n="18"> --> obtained positive electrode mixture in 1-methyl-2-pyrrolidone functioning as a solvent. A positive electrode was prepared by coating, drying, and pressing the slurry on both sides of an aluminum foil having a thickness of 20 µm, respectively.</p>
+<p id="p0079" num="0079">A negative electrode mixture was prepared by mixing 97.6 parts by weight of artificial graphite and natural graphite that function as negative electrode active materials (weight ratio: 90 : 10), 1.2 parts by weight of styrene-butadiene rubber (SBR) that functions as a binder, and 1.2 parts by weight of carboxymethyl cellulose (CMC). The negative electrode mixture slurry was prepared by dispersing the negative electrode mixture in ion-exchanged water functioning as a solvent. A negative electrode was prepared by coating, drying, and pressing the slurry on both sides of an copper foil having a thickness of 20 µm.</p>
+<p id="p0080" num="0080">A non-aqueous electrolyte solution was prepared by dissolving LiPF<sub>6</sub> in an organic solvent, in which ethylene carbonate (EC), propylene carbonate (PC), and diethyl carbonate (DEC) were mixed in a composition of 3 : 3 : 4 (volume ratio). Herein, LiPF<sub>6</sub> was dissolved in the organic solvent to be a concentration of 1.0M.</p>
+<p id="p0081" num="0081">The assembly of the lithium secondary battery was completed by laminating a porous polyethylene separator between the positive electrode and the negative electrode prepared above and storing them in a pouch, and then injecting the electrolyte.</p>
+<heading id="h0010"><u>Preparation Example 2</u></heading>
+<p id="p0082" num="0082">A lithium secondary battery was manufactured as in the above manufacturing example, but in the process of assembling a positive electrode, a negative electrode, and a separator, 100<!-- EPO <DP n="19"> --> µm of copper particles were added so that the micro short-circuit resistance became 1 kΩ level, and the assembly of the defective battery was completed.</p>
+<heading id="h0011"><u>Example 1</u></heading>
+<p id="p0083" num="0083">10 assembled lithium secondary batteries of Preparation Example 1 were prepared, aged at room temperature of 25°C for 24 hours, and pre-aged. Thereafter, the pre-aged secondary battery was mounted on a formation jig, and a jig formation process was then performed in which charging was performed at a temperature of 45°C. At this time, the formation process is divided into three stages according to SOC. For the initial section from SOC 0% to SOC 1%, the formation process was performed at the 0.2C charging rate and 0.5kgf/cm<sup>2</sup> pressure. For the middle section from SOC 1% to SOC 17%, the formation process was performed at 1C charging rate and 0.5kgf/cm<sup>2</sup> pressure. For the last section from SOC 17% to SOC 60%, the formation process was performed at 1C charging rate and 10kgf/cm<sup>2</sup> pressure. Then, high temperature aging was performed at a temperature of 65°C for 24 hours, and room temperature aging was performed at a normal temperature of 25°C for 12 hours.</p>
+<p id="p0084" num="0084">Subsequently, a degassing process was performed, and the degassed battery was fully charged and fully discharged, followed by shipping charge at SOC 17%.</p>
+<heading id="h0012"><u>Example 2</u></heading><!-- EPO <DP n="20"> -->
+<p id="p0085" num="0085">In Example 2, a lithium secondary battery was manufactured in the same manner as in Example 1, except that the terminal section was charged to 50% SOC during the formation process.</p>
+<heading id="h0013"><u>Example 3</u></heading>
+<p id="p0086" num="0086">In Example 3, a lithium secondary battery was manufactured in the same manner as in Example 1, except that the shipping charge was performed to the SOC 30% level.</p>
+<heading id="h0014"><u>Comparative Example 1</u></heading>
+<p id="p0087" num="0087">10 assembled lithium secondary batteries of Preparation Example 1 were prepared, aged at room temperature of 25°C for 24 hours, and pre-aged. Thereafter, the pre-aged secondary battery was mounted on a formation jig, and a jig formation process was then performed in which charging was performed. At this time, the formation process is divided into three stages according to SOC. For the initial section from SOC 0% to SOC 5%, the formation process was performed at the 0.2C charging rate and 0.5kgf/cm<sup>2</sup> pressure. For the middle section from SOC 5% to SOC 17%, the formation process was performed at 0.7C charging rate and 0.5kgf/cm<sup>2</sup> pressure. For the last section from SOC 17% to SOC 30%, the formation process was performed at 0.7C charging rate and 10kgf/cm<sup>2</sup> pressure. Then, high temperature aging was performed at a<!-- EPO <DP n="21"> --> temperature of 65°C for 24 hours, and room temperature aging was performed at a normal temperature of 25°C for 12 hours.</p>
+<p id="p0088" num="0088">Subsequently, a degassing process was performed, and the degassed battery was fully charged and fully discharged, followed by shipping charge at SOC 30%.</p>
+<heading id="h0015"><u>Reference Example 1</u></heading>
+<p id="p0089" num="0089">Ten batteries of the Preparation Example 2 were prepared, and a secondary battery was manufactured in the same manner as in Example 1.</p>
+<heading id="h0016"><u>Reference Example 2</u></heading>
+<p id="p0090" num="0090">Ten batteries of the Preparation Example 2 were prepared, and a secondary battery was manufactured in the same manner as in Example 3.</p>
+<heading id="h0017"><u>Reference Example 3</u></heading>
+<p id="p0091" num="0091">Ten batteries of the Preparation Example 2 were prepared, and a secondary battery was manufactured in the same manner as in Comparative example 1.</p>
+<heading id="h0018"><u>Experimental Example 1-Charging time measurement</u></heading>
+<p id="p0092" num="0092">In the manufacturing process of Examples 1 and 2 and Comparative Example 1, the charging time (primary charging time) and full charging time of the formation process were measured, respectively, and the average value was calculated, and the results are shown in Table<!-- EPO <DP n="22"> --> 1.
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>[Table 1]</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="38mm"/>
+<colspec colnum="2" colname="col2" colwidth="33mm"/>
+<colspec colnum="3" colname="col3" colwidth="28mm"/>
+<colspec colnum="4" colname="col4" colwidth="30mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry valign="top">Primary charge time</entry>
+<entry valign="top">Full charge time</entry>
+<entry valign="top">Total charge time</entry></row></thead>
+<tbody>
+<row>
+<entry>Example 1</entry>
+<entry>39.4</entry>
+<entry>91</entry>
+<entry>130.4</entry></row>
+<row>
+<entry>Example 2</entry>
+<entry>33.4</entry>
+<entry>109</entry>
+<entry>142.4</entry></row>
+<row>
+<entry>Comparative Example 1</entry>
+<entry>36.4</entry>
+<entry>131</entry>
+<entry>167.4</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0093" num="0093">Referring to Table 1, in the first formation, the battery of Example 1 charged to a level of SOC 60% has a shorter charging time compared to the battery of Comparative Example 1 charged to a level of SOC 30%, thereby showing the effect of securing mass productivity.</p>
+<heading id="h0019"><u>Experimental Example 2</u></heading>
+<p id="p0094" num="0094">For each of the batteries of Example 1, OCV (OCV 1) was measured after each shipping charge was completed, from which OCV (OCV 2) was measured at each time point shown in Table 2. ΔOCV (= OCV1 - OCV2) was calculated using the measured OCV1 and OCV2, and the maximum value of ΔOCV (the maximum value of ΔOCV of good products) was obtained.</p>
+<p id="p0095" num="0095">For the batteries of Reference Example 1, OCV (OCV 1) was measured after each shipping charge was completed, from which OCV (OCV 2) was measured at each time point shown in Table 2. ΔOCV (= OCV1 - OCV2) was calculated using the measured OCV1 and OCV2, and the minimum value of ΔOCV (the minimum value of ΔOCV of the defective<!-- EPO <DP n="23"> --> product) was obtained.</p>
+<p id="p0096" num="0096">And the value obtained by subtracting the ΔOCV maximum value of the good product from the ΔOCV minimum value of the defective product is shown in Table 2.</p>
+<p id="p0097" num="0097">For the batteries of Example 3 and the batteries of Reference Example 2, a value obtained by subtracting the ΔOCV maximum value of the good product from the ΔOCV minimum value of the defective product in the same manner as above is shown in Table 2, and for the batteries of Comparative Example 1 and Reference Example 3, a value obtained by subtracting the maximum value of ΔOCV of the good product is shown in Table 2 in the same manner as above.
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>[Table 2]</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="12mm"/>
+<colspec colnum="2" colname="col2" colwidth="50mm"/>
+<colspec colnum="3" colname="col3" colwidth="50mm"/>
+<colspec colnum="4" colname="col4" colwidth="55mm"/>
+<thead>
+<row>
+<entry valign="middle">DAY</entry>
+<entry valign="middle">Minimum value of ΔOCV in Reference Example 1 - maximum value of ΔOCV in Example 1 (mV)</entry>
+<entry valign="middle">Minimum value of ΔOCV in Reference Example 2 - maximum value of ΔOCV in Example 3 (mV)</entry>
+<entry valign="middle">Minimum value of ΔOCV in Reference Example 3 - maximum value of ΔOCV in Comparative Example 1 (mV)</entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">1.5</entry>
+<entry valign="middle">0.2</entry>
+<entry valign="middle">0</entry>
+<entry valign="middle">0</entry></row>
+<row>
+<entry valign="middle">2.5</entry>
+<entry valign="middle">0.4</entry>
+<entry valign="middle">0.2</entry>
+<entry valign="middle">0</entry></row>
+<row>
+<entry valign="middle">3.0</entry>
+<entry valign="middle">0.5</entry>
+<entry valign="middle">0.3</entry>
+<entry valign="middle">0</entry></row>
+<row>
+<entry valign="middle">3.5</entry>
+<entry valign="middle">0.6</entry>
+<entry valign="middle">0.4</entry>
+<entry valign="middle">0</entry></row>
+<row>
+<entry valign="middle">4.0</entry>
+<entry valign="middle">0.8</entry>
+<entry valign="middle">0.4</entry>
+<entry valign="middle">0</entry></row><!-- EPO <DP n="24"> -->
+<row>
+<entry valign="middle">4.5</entry>
+<entry valign="middle">1</entry>
+<entry valign="middle">0.5</entry>
+<entry valign="middle">0.1</entry></row>
+<row>
+<entry valign="middle">5.5</entry>
+<entry valign="middle">1.2</entry>
+<entry valign="middle">0.6</entry>
+<entry valign="middle">0.2</entry></row>
+<row>
+<entry valign="middle">6.5</entry>
+<entry valign="middle">1.5</entry>
+<entry valign="middle">0.9</entry>
+<entry valign="middle">0.2</entry></row>
+<row>
+<entry valign="middle">7.5</entry>
+<entry valign="middle">1.8</entry>
+<entry valign="middle">1</entry>
+<entry valign="middle">0.3</entry></row>
+<row>
+<entry valign="middle">13.5</entry>
+<entry valign="middle">3.5</entry>
+<entry valign="middle">1.8</entry>
+<entry valign="middle">0.7</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0098" num="0098">Referring to Table 2, when the activation process and the low voltage test are performed by the method of Example 1, it can be seen that the voltage drop amount of the good product is reduced, and the voltage drop amount of the defective product is increased, so that the difference between the minimum value of the voltage drop amount of the good product and the maximum value of the voltage drop amount of the bad product becomes 0.8 mV on the fourth day.</p>
+<p id="p0099" num="0099">On the other hand, when performing the activation process and the low voltage test in the method of Comparative Example 1, it can be seen that the difference between the minimum value of the voltage drop amount of a good product and the maximum value of the voltage drop amount of a defective product becomes 0.7 mV only after 13.5 days.</p>
+<p id="p0100" num="0100">As described above, in the first formation, the method for manufacturing a secondary battery of the present invention, which increases the charging SOC and sets the low voltage test section to SOC 30% or less, shows an effect of clearly distinguishing good and bad products within a short time.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="25"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A method for manufacturing a secondary battery, the method comprising:
+<claim-text>a formation step of charging an assembled secondary battery to state of charge(SOC) 45% to 65%;</claim-text>
+<claim-text>an aging step of aging the formed secondary battery; and</claim-text>
+<claim-text>a low voltage test step of measuring a change in a voltage value,</claim-text>
+<claim-text>wherein in the low voltage test step, the voltage value is measured in a section of SOC 30% or less.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The method of claim 1, wherein in the formation step, charging and pressurizing are simultaneously performed.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The method of claim 1, wherein the formation step is performed at a temperature of 30°C to 65°C.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The method of claim 1, wherein the formation step includes three initial, middle, and last stage formation sections according to SOC, and formation conditions of charging speed or<!-- EPO <DP n="26"> --> pressing force for each section are different.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The method of claim 4, wherein the formation is performed at a charge rate of 0.1C to 0.3C and a pressure of 0.1 kgf/cm<sup>2</sup> to 1.0 kgf/cm<sup>2</sup> in the initial section,
+<claim-text>wherein the formation is performed at a charge rate of 0.7C to 1.3C and a pressure of 0.1 kgf/cm<sup>2</sup> to 1.0 kgf/cm<sup>2</sup> in the middle section, and</claim-text>
+<claim-text>wherein the formation is performed at a charge rate of 0.7C to 1.3C and a pressure of 7 kgf/cm<sup>2</sup> to 13 kgf/cm<sup>2</sup> in the last section.</claim-text></claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The method of claim 5, wherein an upper limit of the initial section is SOC 1% to 7%, and an upper limit of the middle section is SOC 15% to 19%.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The method of claim 1, wherein in the aging step, the secondary battery is stabilized at a temperature above 60°C.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>The method of claim 7, further comprising a room temperature aging step of stabilizing the secondary battery at a temperature of 20°C to 30°C.</claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text><!-- EPO <DP n="27"> --> The method of claim 1, further comprising: a step of degassing after the aging step; and a full charge and full discharge step.</claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>The method of claim 9, further comprising a shipping charge step after the full charge and full discharge step.</claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>The method of claim 1, further comprising a pre-aging step of aging the assembled secondary battery at room temperature, before the formation step.</claim-text></claim>
+<claim id="c-en-0012" num="0012">
+<claim-text>The method of claim 1, wherein the low voltage test step includes sorting out a defective secondary battery from a voltage drop amount.</claim-text></claim>
+<claim id="c-en-0013" num="0013">
+<claim-text>The method of claim 1, wherein the step of measuring a change in the voltage value is performed in a section of SOC 5% to 25%.</claim-text></claim>
+<claim id="c-en-0014" num="0014">
+<claim-text>A lithium secondary battery manufactured by the method of claim 1.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="28"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="133" he="224" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="29"> -->
+<figure id="f0002" num="2"><img id="if0002" file="imgf0002.tif" wi="161" he="83" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="30"> -->
+<figure id="f0003" num="3"><img id="if0003" file="imgf0003.tif" wi="162" he="156" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="31"> -->
+<figure id="f0004" num="4"><img id="if0004" file="imgf0004.tif" wi="159" he="115" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="32"> -->
+<figure id="f0005" num="5"><img id="if0005" file="imgf0005.tif" wi="161" he="128" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="156" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="156" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="KR1020190054063"><document-id><country>KR</country><doc-number>1020190054063</doc-number><date>20190509</date></document-id></patcit><crossref idref="pcit0001">[0001]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

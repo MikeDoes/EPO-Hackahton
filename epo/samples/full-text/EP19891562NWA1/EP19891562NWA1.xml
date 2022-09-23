@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19891562A1" file="EP19891562NWA1.xml" lang="en" country="EP" doc-number="3890275" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3890275</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19891562.1</B210><B220><date>20191127</date></B220><B240><B241><date>20210506</date></B241></B240><B250>ko</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>201862771873 P</B310><B320><date>20181127</date></B320><B330><ctry>US</ctry></B330><B310>201862771910 P</B310><B320><date>20181127</date></B320><B330><ctry>US</ctry></B330><B310>201962846257 P</B310><B320><date>20190510</date></B320><B330><ctry>US</ctry></B330><B310>201962869256 P</B310><B320><date>20190701</date></B320><B330><ctry>US</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>H04L  29/08        20060101AFI20200605BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>H04L   1/08        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>H04L  29/08        20130101 LI20200626BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>VERFAHREN UND VORRICHTUNG ZUR WIEDERHOLTEN ÜBERTRAGUNG EINER NACHRICHT IN EINEM M2M-SYSTEM</B542><B541>en</B541><B542>METHOD AND DEVICE FOR REPEATEDLY TRANSMITTING MESSAGE IN M2M SYSTEM</B542><B541>fr</B541><B542>PROCÉDÉ ET DISPOSITIF DE TRANSMISSION RÉPÉTÉE DE MESSAGE DANS UN SYSTÈME M2M</B542></B540><B590><B598>9</B598></B590></B500><B700><B710><B711><snm>HYUNDAI MOTOR COMPANY</snm><iid>101817647</iid><irf>P81415</irf><adr><str>12, Heolleung-ro, Seocho-gu</str><city>Seoul 06797</city><ctry>KR</ctry></adr></B711><B711><snm>Kia Corporation</snm><iid>101898398</iid><irf>P81415</irf><adr><str>12, Heolleung-ro</str><city>Seocho-gu
+Seoul 06797</city><ctry>KR</ctry></adr></B711></B710><B720><B721><snm>NA, Young Jin</snm><adr><str>150, Hyundaiyeonguso-ro Namyang-eup</str><city>Hwaseong-si Gyeonggi-do 18280</city><ctry>KR</ctry></adr></B721><B721><snm>LEE, Min Byeong</snm><adr><str>150, Hyundaiyeonguso-ro Namyang-eup</str><city>Hwaseong-si Gyeonggi-do 18280</city><ctry>KR</ctry></adr></B721><B721><snm>SONG, Jae Seung</snm><adr><str>209, Neungdong-ro, Gwangjin-gu</str><city>Seoul 05006</city><ctry>KR</ctry></adr></B721></B720><B740><B741><snm>Viering, Jentschura &amp; Partner mbB 
+Patent- und Rechtsanwälte</snm><iid>101265175</iid><adr><str>Am Brauhaus 8</str><city>01099 Dresden</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>KR2019016438</anum></dnum><date>20191127</date></B861><B862>ko</B862></B860><B870><B871><dnum><pnum>WO2020111761</pnum></dnum><date>20200604</date><bnum>202023</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">A method for performing resource offloading in an M2M system is provided. The method is performed based on an offloaded resource and offloaded attributes. The method includes generating an offloading request message that requests offloading of a source resource. In response to the offloading request message, the method includes offloading the source resource for which the offloading is requested. An offloaded resource is generated using the offloaded source resource. Herein, the offloaded resource includes synchronization modes designating synchronization methods with the offloaded source resource as offloaded attributes.<img id="iaf01" file="imgaf001.tif" wi="78" he="92" img-content="drawing" img-format="tif"/></p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001"><b>Technical Field</b></heading>
+<p id="p0001" num="0001">The present invention relates to a machine-to-machine (M2M) system. More particularly, the present invention relates to a message repetition transmission method and apparatus in an M2M system. The present invention also relates to a message retransmission method and apparatus in an M2M system.</p>
+<heading id="h0002"><b>Background Art</b></heading>
+<p id="p0002" num="0002">Recently, introduction of Machine-to-Machine (M2M) system has become active. M2M communication refers to a communication executed between machines without human intervention. M2M may refer to Machine Type Communication (MTC), Internet of Things (IoT) or Device-to-Device (D2D). In the following description, the term "M2M" is uniformly used for convenience of explanation, but the present invention is not limited thereto. A terminal used for M2M communication may be an M2M terminal or an M2M device. An M2M terminal may generally be a device having low mobility while transmitting a small amount of data. Herein, the M2M terminal may be used in connection with an M2M server that centrally stores and manages inter-machine communication information. In addition, an M2M terminal may be applied to various systems such as object tracking, automobile linkage, and power metering.</p>
+<p id="p0003" num="0003">Meanwhile, with respect to an M2M terminal, the oneM2M standardization organization provides requirements for M2M communication, things to things communication and IoT technology, and technologies for architecture, Application Program Interface (API) specifications, security solutions and interoperability. The specifications of the oneM2M standardization organization provide a framework to support a variety of applications and services such as smart cities, smart grids, connected cars, home automation, security and health.</p>
+<heading id="h0003"><b>Technical problem</b></heading>
+<p id="p0004" num="0004">The present invention may provide a message repetition transmission method and apparatus. The present invention may provide a message retransmission method and apparatus. The present invention may provide a message repetition transmission method<!-- EPO <DP n="2"> --> and apparatus in an M2M system. The present invention may provide a method and apparatus for managing message repetition transmission by newly defining a message repetition resource in an M2M system.</p>
+<p id="p0005" num="0005">The present invention may provide a method and apparatus for managing message repetition transmission by newly defining message repetition transmission attribute information in an M2M system. The present invention may provide a method and apparatus for managing message retransmission by newly defining a message retransmission resource in an M2M system. The present invention may provide a method and apparatus for managing message retransmission by newly defining message retransmission attribute information in an M2M system.</p>
+<heading id="h0004"><b>Technical Solution</b></heading>
+<p id="p0006" num="0006">According to an embodiment of the present invention, a message repetition transmission method includes setting attribute information for message repetition transmission, configuring a first resource that includes the set attribute information and is applied to message repetition transmission, and performing message repetition transmission according to the configured first resource. The attribute information for the message repetition transmission includes at least information (targetResource) designating a target resource of message repetition transmission and information (valueForRepetition) designating a transmission value that is a message repetition transmission target.</p>
+<p id="p0007" num="0007">Additionally, in a message repetition transmission method according to an embodiment of the present invention, the attribute information for message repetition transmission includes information (repetitionOriginator) that designates an originator requesting message repetition transmission. In a message repetition transmission method according to an embodiment of the present invention, the attribute information for message repetition transmission includes information (targetOperation) that designates an operation method of message repetition transmission.</p>
+<p id="p0008" num="0008">In addition, in a message repetition transmission method according to an embodiment of the present invention, the attribute information for message repetition transmission includes information (nextForcedvalue) designating a value that is applied to next message repetition transmission. In a message repetition transmission method according to an embodiment of the present invention, when the nextForcedvalue attribute information is<!-- EPO <DP n="3"> --> updated in the first resource, next message repetition transmission may be performed with a value designated by the nextForcedvalue attribute instead of a transmission value designated by the valueForRepetition attribute.</p>
+<p id="p0009" num="0009">Additionally, in a message repetition transmission method according to an embodiment of the present invention, the attribute information for message repetition transmission includes information (intervalRep) designating an interval at which a message repetition transmission operation is performed. In a message repetition transmission method according to an embodiment of the present invention, the attribute information for message repetition transmission includes information (repetitionDuration) designating a number of times a repetition transmission operation is performed.</p>
+<p id="p0010" num="0010">In addition, in a message repetition transmission method according to an embodiment of the present invention, the attribute information for message repetition transmission includes information (responseMode) that designates a method of receiving a response message. In a message repetition transmission method according to an embodiment of the present invention, the first resource may be a repeated creation resource (msgRepetition). In a message repetition transmission method according to an embodiment of the present invention, the first resource may include a schedule resource as a child resource.</p>
+<p id="p0011" num="0011">Additionally, in a message repetition transmission method according to an embodiment of the present invention, the first resource may be included under a message repetition transmission list (msgRepetitionList) resource that is a parent resource. In a message repetition transmission method according to an embodiment of the present invention, the first resource may be a subscription resource. In a message repetition transmission method according to an embodiment of the present invention, the first resource may be a group resource. In a message repetition transmission method according to an embodiment of the present invention, apart from the first resource, a second resource for managing message repetition transmission may be included, and the second resource may be any one of a subscription resource and a group resource.</p>
+<p id="p0012" num="0012">In addition, according to an embodiment of the present invention, a message repetition transmission method includes receiving a request message, which requests message repetition transmission, configuring, in response to the request message, a first resource that includes attribute information for message repetition transmission and is applied to message repetition transmission, and according to the configured first resource, performing message<!-- EPO <DP n="4"> --> repetition transmission. The attribute information for the message repetition transmission includes at least information (targetResource) designating a target resource of message repetition transmission and information (valueForRepetition) designating a transmission value that is a message repetition transmission target.</p>
+<p id="p0013" num="0013">According to an embodiment of the present invention, a message retransmission method includes setting attribute information for message retransmission, configuring a first resource that includes the set attribute information and is applied to message retransmission, and according to the configured first resource, performing message retransmission. The attribute information for the message retransmission includes at least information (maxNrOfRetransmission) designating a maximum number of times retransmission is performed and information (memberNotDelivered) designating a member to which a retransmitted message is not delivered.</p>
+<p id="p0014" num="0014">In addition, according to an embodiment of the present invention, a message retransmission method includes checking whether there is a failed node that fails to receive multicast transmission and performing, for the failed node, retransmission up to a maximum number of retransmission times according to the information (maxNrOfRetransmission) designating the maximum number of times the retransmission is performed. In a message retransmission method according to an embodiment of the present invention, the performing of message retransmission to the failed node may retransmit by a unicast transmission method. In a message retransmission method according to an embodiment of the present invention, the attribute information for message retransmission may include information (RetransmissionMode) that designates at least one of a unicast transmission method and an MBMS transmission method as a retransmission method.</p>
+<p id="p0015" num="0015">According to an embodiment of the present invention, a message repetition transmission apparatus includes at least one or more processors and at least one or more memories coupled to the at least one or more processors. The at least one or more processors, which are operably coupled to the at least one or more memories and execute a program instruction stored in the at least one or more memories, set attribute information for message repetition transmission, configure a first resource that includes the set attribute information and is applied to message repetition transmission, and perform message repetition transmission according to the configured first resource. The attribute information for the message repetition transmission includes at least information (targetResource) designating a target resource of message repetition transmission and information<!-- EPO <DP n="5"> --> (valueForRepetition) designating a transmission value that is a message repetition transmission target.</p>
+<p id="p0016" num="0016">According to an embodiment of the present invention, a message repetition transmission apparatus includes at least one or more processors and at least one or more memories coupled to the at least one or more processors. The at least one or more processors, which are operably coupled to the at least one or more memories and execute a program instruction stored in the at least one or more memories, receive a request message that requests message repetition transmission, configure, in response to the request message, a first resource that includes attribute information for message repetition transmission and is applied to message repetition transmission, and perform message repetition transmission according to the configured first resource. The attribute information for the message repetition transmission includes at least information (targetResource) designating a target resource of message repetition transmission and information (valueForRepetition) designating a transmission value that is a message repetition transmission target.</p>
+<p id="p0017" num="0017">Additionally, according to an embodiment of the present invention, a message retransmission apparatus includes at least one or more processors and at least one or more memories coupled to the at least one or more processors. The at least one or more processors, which are operably coupled to the at least one or more memories and execute a program instruction stored in the at least one or more memories, set attribute information for message retransmission, configure a first resource that includes the set attribute information and is applied to message retransmission, and perform message retransmission according to the configured first resource. The attribute information for the message retransmission includes at least information (maxNrOfRetransmission) designating a maximum number of times retransmission is performed and information (memberNotDelivered) designating a member to which a retransmitted message is not delivered.</p>
+<heading id="h0005"><b>Advantageous Effect</b></heading>
+<p id="p0018" num="0018">According to the present invention, a method and apparatus for efficiently managing message repetition transmission may be provided. According to the present invention, a method and apparatus for efficiently managing message retransmission may be provided. According to the present invention, a method and apparatus for efficiently managing message repetition transmission in an M2M system may be provided.</p>
+<p id="p0019" num="0019">According to the present invention, a method and apparatus for efficiently managing<!-- EPO <DP n="6"> --> message retransmission in an M2M system may be provided. According to the present invention, through periodic message repetition transmission in an M2M system, it becomes possible to provide useful information a terminal that has newly joined a danger warning area. According to the present invention, through message retransmission in an M2M message, it becomes possible to provide an emergency warning message to every terminal existing in a danger warning area.</p>
+<p id="p0020" num="0020">Effects obtained in the present invention are not limited to the above-mentioned effects, and other effects not mentioned above may be clearly understood by those skilled in the art from the following description.</p>
+<heading id="h0006"><b>Brief Description of the Drawings</b></heading>
+<p id="p0021" num="0021">
+<ul id="ul0001" list-style="none">
+<li><figref idref="f0001">FIG. 1</figref> is a view illustrating a layered structure of an M2M system according to the present invention.</li>
+<li><figref idref="f0001">FIG. 2</figref> is a view illustrating a reference point according to the present invention.</li>
+<li><figref idref="f0002">FIG. 3</figref> is a view illustrating each node according to the present invention.</li>
+<li><figref idref="f0003">FIG. 4</figref> is a view illustrating a common service function according to the present invention.</li>
+<li><figref idref="f0004">FIG. 5</figref> and <figref idref="f0005">FIG. 6</figref> illustrate examples of scenarios in which message repetition transmission and/or retransmission are necessary according to the present invention.</li>
+<li><figref idref="f0005">FIG. 7</figref> is a view for explaining an information exchange method based on use of a request message and a response message in an M2M system according to the present invention.</li>
+<li><figref idref="f0006 f0007 f0008">FIG. 8 to FIG. 10</figref> are views for explaining a process of implementing a message repetition transmission method according to an embodiment of the present invention.</li>
+<li><figref idref="f0009 f0010 f0011 f0012">FIG. 11 to FIG. 14</figref> illustrate an example of a process of implementing a message retransmission method according to an embodiment of the present invention.</li>
+<li><figref idref="f0013 f0014">FIG. 15 to FIG. 16</figref> simply illustrate an example of message repetition transmission according to the present invention.</li>
+<li><figref idref="f0015">FIG. 17</figref> is a view illustrating an example of an apparatus configuration according to the present invention.</li>
+<li><figref idref="f0016">FIG. 18</figref> is a view illustrating another example of an apparatus configuration according<!-- EPO <DP n="7"> --> to the present invention.</li>
+</ul></p>
+<heading id="h0007"><b>Detailed Description</b></heading>
+<p id="p0022" num="0022">Hereinafter, embodiments of the present disclosure will be described in detail with reference to the accompanying drawings, which will be easily implemented by those skilled in the art. However, the present disclosure may be embodied in many different forms and is not limited to the exemplary embodiments described herein.</p>
+<p id="p0023" num="0023">In the present disclosure, the terms first, second, etc. are used only for the purpose of distinguishing one component from another, and do not limit the order or importance of components, etc. unless specifically stated otherwise. Thus, within the scope of this disclosure, a first component in one exemplary embodiment may be referred to as a second component in another embodiment, and similarly a second component in one exemplary embodiment may be referred to as a first component.</p>
+<p id="p0024" num="0024">In the present disclosure, when a component is referred to as being "linked", "coupled", or "connected" to another component, it is understood that not only a direct connection relationship but also an indirect connection relationship through an intermediate component may also be included. Also, when a component is referred to as "comprising" or "having" another component, it may mean further inclusion of another component not the exclusion thereof, unless explicitly described to the contrary.</p>
+<p id="p0025" num="0025">In the present disclosure, components that are distinguished from each other are intended to clearly illustrate each feature. However, it does not necessarily mean that the components are separate. That is, a plurality of components may be integrated into one hardware or software unit, or a single component may be distributed into a plurality of hardware or software units. Thus, unless otherwise noted, such integrated or distributed embodiments are also included within the scope of the present disclosure.</p>
+<p id="p0026" num="0026">In the present disclosure, components described in the various embodiments are not necessarily essential components, and some may be optional components. Accordingly, embodiments consisting of a subset of the components described in one embodiment are also included within the scope of the present disclosure. Also, exemplary embodiments that include other components in addition to the components described in the various embodiments are also included in the scope of the present disclosure.</p>
+<p id="p0027" num="0027">In the following description of the exemplary embodiments of the present disclosure, a detailed description of known functions and configurations incorporated herein will be<!-- EPO <DP n="8"> --> omitted when it may make the subject matter of the present disclosure rather unclear. Parts not related to the description of the present disclosure in the drawings are omitted, and like parts are denoted by similar reference numerals.</p>
+<p id="p0028" num="0028">In addition, the present specification describes a network based on Machine-to-Machine (M2M) communication, and a work in M2M communication network may be performed in a process of network control and data transmission in a system managing the communication network.</p>
+<p id="p0029" num="0029">In addition, in the present specification, an M2M terminal may be a terminal performing M2M communication. However, in consideration of backward compatibility, it may be a terminal operating in a wireless communication system. In other words, an M2M terminal may refer to a terminal operating based on M2M communication network but is not limited thereto.. An M2M terminal may operate based on another wireless communication network and is not limited to the embodiment described above.</p>
+<p id="p0030" num="0030">In addition, an M2M terminal may be fixed or have mobility. In addition, an M2M server refers to a server for M2M communication and may be a fixed station or a mobile station. In addition, in the present specification, an entity may refer to hardware like M2M device, M2M gateway and M2M server. In addition, for example, an entity may be used to refer to software configuration in a layered structure of M2M system and is not limited to the embodiment described above.</p>
+<p id="p0031" num="0031">In addition, for example, the present invention mainly describes an M2M system but is not solely applied thereto. In addition, an M2M server may be configured to perform communication with an M2M terminal or another M2M server. In addition, an M2M gateway may be a connection point between an M2M terminal and an M2M server. For example, when an M2M terminal and an M2M server have different networks, the M2M terminal and the M2M server may be connected to each other via an M2M gateway. Herein, for example, both an M2M gateway and an M2M server may be M2M terminals and are not limited to the exemplary embodiment described above.</p>
+<p id="p0032" num="0032"><figref idref="f0001">FIG. 1</figref> is a view illustrating a layered structure of an M2M system. Referring to <figref idref="f0001">FIG. 1</figref>, a layered structure of an M2M system may include an application layer 110, a common services layer 120 and a network services layer 130. Herein, the application layer 110 may be a layer that operates based on a specific application. For example, an application may be a fleet tracking application, a remote blood sugar monitoring application,<!-- EPO <DP n="9"> --> a power metering application or a controlling application. In other words, an application layer may be a layer for a specific application. Herein, an entity operating based on an application layer may be an application entity (AE).</p>
+<p id="p0033" num="0033">The common services layer 120 may be a layer for a common service function (CSF). For example, the common services layer 120 may be a layer configured to provide common services like data management, device management, M2M service subscription management and location service. For example, an entity operating based on the common services layer 120 may be a common service entity (CSE). The network services layer 130 may provide the common services layer 120 with services such as device management, location service and device triggering. Herein, an entity operating based on the network services layer 130 may be a network service entity (NSE)..</p>
+<p id="p0034" num="0034"><figref idref="f0001">FIG. 2</figref> is a view illustrating an M2M system structure. Referring to <figref idref="f0001">FIG. 2</figref>, an M2M system structure may be distinguished into a field domain and an infrastructure domain. Herein, in each domain, each of the entities may be configured to perform communication through a reference point. For example, a reference point may indicate a communication flow between each entity. Herein, referring to <figref idref="f0001">FIG. 2</figref>, the reference point Mca between AE and CSE, the reference point Mcc between different CSEs and the Mcn reference point between CSE and NSE may be set.</p>
+<p id="p0035" num="0035"><figref idref="f0002">FIG. 3</figref> is a view illustrating the setting of an M2M system structure.. Referring to <figref idref="f0002">FIG. 3</figref>, an infrastructure domain of a specific M2M service provider may provide a specific infrastructure node (IN) 310. Herein, the CSE of the IN may be configured to perform communication based on the AE and the reference point Mca of another infrastructure node. In particular, one IN may be set for each M2M service provider. In other words, the IN may be a node configured to perform communication with the M2M terminal of another infrastructure based on an infrastructure structure. In addition, for example, conceptually, a node may be a logical entity or a software configuration.</p>
+<p id="p0036" num="0036">Furthermore, an application dedicated node (ADN) 320 may be a node including at least one AE but not CSE. Herein, an ADN may be set in the field domain. In other words, an ADN may be a dedicated node for AE. For example, an ADN may be a node that is set in an M2M terminal in hardware. In addition, an application service node (ASN) 330 may be a node including one CSE and at least one AE. ASN may be set in the field domain. In other words, it may be a node including AE and CSE. Herein, an ASN may be a node<!-- EPO <DP n="10"> --> connected to an IN. For example, an ASN may be a node that is set in an M2M terminal in hardware..</p>
+<p id="p0037" num="0037">In addition, a middle node (MN) 340 may be a node including a CSE and including zero or more AEs Herein, the MN may be set in the field domain. An MN may be connected to another MN or IN based on a reference point. In addition, for example, an MN may be set in an M2M gateway in hardware.. In addition, as an example, a non-M2M terminal node 350 (Non-M2M device node, NoDN) is a node that does not include M2M entities. It may be a node that performs management or collaboration together with an M2M system.</p>
+<p id="p0038" num="0038"><figref idref="f0003">FIG. 4</figref> is a view illustrating a common service function. Referring to <figref idref="f0003">FIG. 4</figref>, common service functions may be provided. For example, a common service function may provide at least any one function among application and service layer management, communication management and delivery handling, data management and repository, device management, discovery, group management, location, network service exposure/service execution and triggering, registration, security, service charging and accounting, service session management, and subscription/notification. Herein, M2M terminals may be configured to operate based on a common service function. In addition, a common service function may be possible in other exemplary embodiments and is not limited to the above-described exemplary embodiment..</p>
+<p id="p0039" num="0039">In addition, for example, at least any one of an M2M platform, an M2M gateway, an M2M device and an application entity (AE) may be included in an M2M system. For example, an IN may serve as an M2M platform, an MN may serve as an M2M gateway. In addition, an ASN or ADN may be an M2M device and may operate based on the above description. In addition, for example, a CSE is used as a common functional element of an M2M system and may perform a common function, as described above. Herein, to implement the function, the CSE may be included in an ASN that is used as an M2M platform, an M2M gateway and an M2M device, as described above. In addition, for example, an AE may be included in any one of an M2M platform, an M2M gateway, an ASN, and an AND In addition, for example, an AE may be used alone and is not limited to the embodiment described above.</p>
+<p id="p0040" num="0040">Herein, for example, a hosting common service entity (H-CSE) may be an entity that holds a resource or attribute, and a registrar common service entity (R-CSE) is may be a CSE<!-- EPO <DP n="11"> --> with a terminal (or M2M terminal) registered therein. Herein, for example, the terminal may be at least one of ADN, ASN and MN In addition, for example, R-CSE and H-CSE may be at least one or more among ASN, MN and IN.</p>
+<p id="p0041" num="0041">For example, a terminal may be configured to acquire a resource from a H-CSE through a R-CSE. Meanwhile, a resource may be expressed based on an object operated in an M2M system. For example, a resource may be defined based on terminal operation information for a specific service and may be indicated based on create/retrieve/update/delete (CRUD). For a more specific example, a terminal (or AE) may obtain attribute information of a resource and a target resource from a H-CSE through a R-CSE. Herein, as described above, the H-CSE may provide the AE with the resource and the attribute information thereof for a specific service. For example, an H-CSE may be a resource server for a special service. For example, a resource server may be a vehicle driving server or a vehicle management server. In other words, a terminal may be configured to obtain information for a specific service from a server based on a resource and operate based on the information. Meanwhile, for example, a CSE in an M2M system may include a transceiver, a processor, and a memory. Based on this, the CSE may be configured to transmit and receive a data packet to and from other nodes to process the data packet. An apparatus configuration will be described later.</p>
+<p id="p0042" num="0042">In addition, for example, a resource may be configured to store related information through a container and share data with another entity. Herein, the content instance (contentInstance) may be a child resource. In addition, for example, the attribute information of each resource may be a specific description of the resource. Herein, the resource attribute information may be configured to store attribute data of the resource.. Based on the above, a terminal (AE) may be configured to obtain a specific resource from an H-CSE through a R-CSE. Herein, the resource may include attribute information as target attribute information. A terminal may be configured to perform an operation for a specific service based on the obtained resource and attribute information.</p>
+<p id="p0043" num="0043"><figref idref="f0004">FIG. 5</figref> and <figref idref="f0005">FIG. 6</figref> illustrate examples of scenarios in which message repetition transmission and/or retransmission are necessary according to the present invention. In particular, 3GPP multimedia broadcast multicast service (MBMS) is generally known to specify various multicast functions including service notification, search, and message delivery. In addition, according to oneM2M TS-0026 document, it is specified that interworking function with 3GPP including MBMS is supported. Accordingly, in an M2M<!-- EPO <DP n="12"> --> environment, there is also a scenario in which a same content should be repeatedly transmitted or retransmitted to a user group where a user terminal or member frequently changes.</p>
+<p id="p0044" num="0044">First, for example, as illustrated in <figref idref="f0004">FIG. 5</figref>, a message transmission node 500 may be configured to operate a service of transmitting periodically traffic information to a vehicle group located in a specific area 510 (Hereinafter, referred to as "traffic communication area") on a road. Accordingly, when a new user group 520 occurs within the traffic communication area 510, the message transmission node 500 should also be capable of constantly providing same traffic information. In relation to this, a new provision is needed to transmit a message to the new user group 520 in an M2M system. For example, first, unicast transmission for each user terminal may be performed, and then multicast transmission for all the user terminals may be performed. Additionally, as an alternative, for example, after creating or generating and transmitting a temporary multicast group, multicast transmission may be performed by incorporating the temporary multicast group into an original multicast group. Hereinafter, the present invention will describe in detail an efficient message repetition transmission method and/or message retransmission method in an M2M system in a scenario like <figref idref="f0004">FIG. 5</figref>.</p>
+<p id="p0045" num="0045">Second, for example, as illustrated in <figref idref="f0005">FIG. 6</figref>, a message transmission node 600 may be configured to operate a service of transmitting a danger warning message to all user terminals located in a specific area (Hereinafter, referred to as "danger warning area") in which a forest fire occurs. Accordingly, it is necessary to provide repeatedly and periodically a same danger warning message to all user terminals existing within the emergency danger warning area. Herein, when a specific user terminal 610 existing within the emergency danger warning area does not receive the danger warning message, it is necessary to retransmit the danger warning message so that the specific user terminal 610 may receive the danger warning message (620). In addition, according to development of a dangerous situation, it is also necessary to update a danger warning message and to repeatedly transmit the updated warning message again. Accordingly, it is necessary to keep activating the emergency danger warning area as a communication area. Hereinafter, the present invention will describe in detail an efficient message repetition transmission method and/or message retransmission method in an M2M system in a scenario like <figref idref="f0005">FIG. 6</figref>.</p>
+<p id="p0046" num="0046">In addition, as in the above-described scenarios of <figref idref="f0004">FIG. 5</figref> and <figref idref="f0005">FIG. 6</figref>, when message repetition transmission is needed, a provision is needed to reduce overhead caused by<!-- EPO <DP n="13"> --> message repetition transmission between the message transmission nodes 500 and 600 and a user terminal. In other words, a method for reducing overhead caused by message repetition between two entities having mutual communication in an M2M system is also required.</p>
+<p id="p0047" num="0047"><figref idref="f0005">FIG. 7</figref> is a view for explaining an information exchange method based on use of a request message 711 and a response message 721 in an M2M system. A message exchange process including a CSE and an AE is implemented by a message exchange between reference points. For example, the request message and the response message may be applied to communication between an AE and a CSE (Mca reference point) or between CSEs (Mcc reference point). In addition, the communication may be disclosed either by an AE or by a CSE according to a content of a request message. An entity disclosing a request message is especially called "Originator" 710. On the other hand, an entity receiving a request message and sending a corresponding response message is especially called "Receiver" 720.</p>
+<p id="p0048" num="0048">Accordingly, hereinafter, a method and apparatus for message repetition transmission and retransmission according to the present invention will specify the use of the request message 711 and the response message 721 as a basic process. In addition, as a method and apparatus for message repetition transmission and message retransmission may be configured in various embodiments, the method and apparatus will be separately described in detail according to each embodiment.</p>
+<heading id="h0008"><b>1. Embodiment of message repetition transmission using a message repetition transmission resource</b></heading>
+<p id="p0049" num="0049"><figref idref="f0006 f0007 f0008">FIG. 8 to FIG. 10</figref> are views for explaining a process of implementing a message repetition transmission method according to an embodiment of the present invention. Especially, an embodiment of the present invention has a characteristic of newly specifying a message repetition resource (e.g., &lt;msgRepetition&gt;) and attribute information of the resource.</p>
+<p id="p0050" num="0050"><figref idref="f0006">FIG. 8</figref> illustrates an example of a message repetition resource according to an embodiment of the present invention. For message repetition transmission, it is possible to create a separate &lt;msgRepetition&gt; resource 810. Herein, for efficient utilization of the &lt;msgRepetition&gt; resource 810, it is possible to create a &lt;msgRepetitionList&gt; resource 800 above the position of the &lt;msgRepetition&gt; resource. On the other hand, it is also possible to create the &lt;msgRepetition&gt; resource 810 under a conventional &lt;node&gt; resource, instead of creating the &lt;msgRepetition&gt; resource 810 under the specific &lt;msggRepetitionList&gt; resource<!-- EPO <DP n="14"> --> 800. However, in this case, an entity processor has a burden of continuously checking whether the &lt;msgRepetition&gt; resource 810 exists.</p>
+<p id="p0051" num="0051">In relation to this, the &lt;msgRepetition&gt; resource 810 may be configured with sub-resources 811 to 818 including at least one or more message repetition (msgRepetition) attributes. Especially, to efficiently perform message repetition transmission, it is necessary to define the attributes. For example, overhead of message repetition transmission may be reduced through the attributes.</p>
+<p id="p0052" num="0052">Table 1 discloses an example of message repetition (msgRepetition) attributes that are included in the &lt;msgRepetition&gt; resource 810.
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>Table 1</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="33mm"/>
+<colspec colnum="2" colname="col2" colwidth="133mm"/>
+<thead>
+<row>
+<entry valign="top">Attribute Name</entry>
+<entry valign="top">Description</entry></row></thead>
+<tbody>
+<row>
+<entry>targetResource</entry>
+<entry>Which resource should be created (e.g., contentInstance)</entry></row>
+<row>
+<entry>targetOperation</entry>
+<entry>Which operation should be performed (CREATE, UPDATE)</entry></row>
+<row>
+<entry>intervalRep</entry>
+<entry>How often the given operation should be performed to the target resource (e.g., every 10 minutes)</entry></row>
+<row>
+<entry valign="middle">repetitionDuration</entry>
+<entry>How many times the repetition should be performed (e.g., 0, 1∼finite number, infinite number). After complete repetition during the given amount of time, the parent resource, i.e., &lt;msgRepetition&gt; is removed.</entry></row>
+<row>
+<entry>valueForRepetition</entry>
+<entry>What is the value to be repeated (e.g., temperature 15 Celsius)</entry></row>
+<row>
+<entry>responseMode</entry>
+<entry>How to receive response (only once, every 10 minutes, accumulated response, etc.)</entry></row>
+<row>
+<entry valign="middle">nextForcedValue</entry>
+<entry>The value to be operated for the next operation. This value is different from the value for &lt;valueForRepetition&gt;. This value becomes None after consumed. If there is value (which is not NONE), the platform must use this value instead of &lt;valueForRepetition&gt;.</entry></row>
+<row>
+<entry>repetitionOriginator</entry>
+<entry>The originator of the message repetition.</entry></row>
+<row>
+<entry>lastResponse</entry>
+<entry>Information about the last response to the Originator.</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0053" num="0053">Specifically, a "targetResource" attribute 811 is information that designates a target<!-- EPO <DP n="15"> --> resource requiring message repetition transmission. For example, it may mean traffic information, danger warning information and the like and may be indicated by "contentInstance" .</p>
+<p id="p0054" num="0054">In addition, an "intervalRep" attribute 812 is information that designates an interval at which a message repetition transmission operation is performed. For example, it is possible to set an interval time like every one minute, every ten minutes, and every one hour. Accordingly, it is possible to determine the "intervalRep" attribute 812 variously according to types of repetition transmission services. For example, in the case of a danger warning message invoking emergency as in the scenario of <figref idref="f0005">FIG. 6</figref>, a short interval is preferred.</p>
+<p id="p0055" num="0055">In addition, a "repetitionDuration" attribute 813 is information that designates the number of times a message repetition transmission operation is performed. For example, it is possible to set the number of times to once, a determined finite number of times, infinite repetition and the like. Accordingly, when repetition is completely performed as many times as specified by the "repetitionDuration" attribute 813, the &lt;msgRepetition&gt; resource may be deleted.</p>
+<p id="p0056" num="0056">In addition, a "valueForRepetition" attribute 814 is information that designates a target transmission value of message repetition transmission. For example, like a specific temperature and a specific air pollution level, it means specific information to be obtained from repetition transmission. In relation to this, the "valueForRepetition" attribute 814 may be used to define a repeatedly transmitted target resource (e.g., target application service) and a target repetition transmission value by being applied together with the above-described "targetResource" attribute 811. In particular, such attributes are effective in reducing overhead of message repetition transmission as they clarify a target of a repetition transmission message.</p>
+<p id="p0057" num="0057">In addition, a "responseMode" attribute 815 is information that designates a method of receiving a response message. For example, it may designate a method of configuring a response message like immediately, every 10 minutes, and cumulative response. In addition, a "nextForcedvalue" attribute 816 is information that designates a value applied in next message repetition transmission. Herein, the "nextForcedvalue" attribute 816 is contrasted with the above-described "valueForRepetition" attribute 814. In other words, it means that, while repetition transmission is being performed by the valueForRepetition" attribute 814, if the "nextForcedvalue" attribute 816 is updated, next message repetition<!-- EPO <DP n="16"> --> transmission should be performed using a value designated by the "nextForcedvalue" attribute, instead of the "valueForRepetition" attribute 814.</p>
+<p id="p0058" num="0058">In addition, a "repetitionOriginator" attribute 817 is information that designates a transmission node (Originator) requesting message repetition transmission. In addition, a "lastResponse" attribute 818 includes information on a last response that is transmitted to the transmission node (Originator). In addition, a "targetOperation" attribute is information that designates an operation method of message repetition transmission. For example, this may distinguish the operation either as a message creation operation ("CREATE") or as a message update operation ("UPDATE"). Herein, the message creation operation ("CREATE") refers to generating a same message repeatedly, and the message update operation ("UPDATE") refers to transmitting an updated message during repetition transmission.</p>
+<p id="p0059" num="0059">In addition, although not disclosed in Table 1, a "repetitionMode" attribute may be set. The "repetitionMode" attribute may be information that sets a mode of performing repetition transmission, that is, any one mode, for example, among a unicast mode or a multicast mode or another transmission mode, and designates a mixed use of the transmission modes (e.g., "multicast" followed by "unicast").</p>
+<p id="p0060" num="0060"><figref idref="f0007">FIG. 9</figref> illustrates an example of a process of message repetition transmission according to an embodiment of the present invention. Especially, <figref idref="f0007">FIG. 9</figref> is one example showing a detailed response process of an IN-CSE 920, when message repetition attribute information is requested. In other words, when an originator 910 requests message repetition transmission to an IN-CSE 920, a detailed response process of the IN-CSE 920 is as follows. First, for example, the originator 910 may be configured to request the IN-CSE 920 to create information 'x' under a container 'y' every 10 minutes for a day through a request message. Herein, the request message may include at least one or more among the message repetition (msgRepetition) attributes disclosed in the above-described Table 1.</p>
+<p id="p0061" num="0061">When receiving the request message, first, the IN-CSE 920 may be configured to generate the above-described &lt;msgRepetition&gt; resource under &lt;msgRepetitionList&gt; (921). In addition, it may configure a sub-resource of the &lt;msgRepetition&gt; resource (922). For example, as illustrated in <figref idref="f0006">FIG. 8</figref> above, the sub-resource may be configured using a message repetition attribute included in the request message.</p>
+<p id="p0062" num="0062">Next, the IN-CSE 920 checks the message repetition transmission by an internal processor (923). For example, the IN-CSE 920 may be configured to determine whether<!-- EPO <DP n="17"> --> message repetition transmission is performed, based on the created &lt;msgRepetition&gt; resource and a sub-resource in which a message repetition attribute is set. In other words, based on a set message repetition attribute, it is possible to determine at least a target, an interval, a duration and a value of message repetition transmission. In addition, when scheduled message repetition exists, the IN-CSE 920 may be configured to perform a responding operation.</p>
+<p id="p0063" num="0063">Herein, when the originator 910 wants to receive a new repetition transmission value, the originator 910 may be configured to update the above-described nextForcedValue attribute. Next, the IN-CSE 920 performs next message repetition transmission using a value designated by the nextForcedValue attribute (924). In addition, the IN-CSE 920 may be configured to set a response policy based on the above-described responseMode attribute, create a session for transmitting a response message to the originator 910, and start transmitting the response message (925). Next, when it is confirmed, based on the above-described repetitionDuration attribute, that message repetition duration is completed, the IN-CSE 920 may be configured to delete the &lt;msgRepetition&gt; resource and finish message repetition transmission (926).</p>
+<p id="p0064" num="0064"><figref idref="f0008">FIG. 10</figref> illustrates an example of another process of message repetition transmission according to an embodiment of the present invention. Especially, <figref idref="f0008">FIG. 10</figref> is a specific example showing how a message repetition attribute is used in a repetition transmission process. AE#1 1010 transmits a request message requesting message repetition transmission (001). Herein, for example, for &lt;container-x&gt; of CREATE &lt;contentInstance&gt;, it is possible to designate a repetition transmission attribute every 't' time until date 'd'.</p>
+<p id="p0065" num="0065">IN-CSE 1020 verifies reliability of the AE#1 1010. For example, it checks &lt;container-x&gt; and an access control policy of AE#1 1010. Herein, when there is no error, the IN-CSE 1020 may be configured to generate &lt;msgRepetition&gt; under &lt;msgRepetitionList&gt; together with requested information (002). In addition, the IN-CSE 1020 may be configured to transmit the successful creation of the &lt;msgRepetition&gt; as a response to a request message of the AE#1 1010 (003). For example, such a response may be an Ack message.</p>
+<p id="p0066" num="0066">Herein, another AE#2 1030 may be configured to request subscription of &lt;container-x&gt; to the IN-CSE 1020 (004). After time 't', the IN-CSE 1020 checks the existence of &lt;msgRepetition&gt; related to &lt;container-x&gt; and creates &lt;contentInstance&gt; for the &lt;container-x&gt;<!-- EPO <DP n="18"> --> (005). Herein, for example, &lt;contentIstance&gt; with value 'y' may be created.</p>
+<p id="p0067" num="0067">Herein, the AE#2 1030 receives a notification of creation of new &lt;contentInstance&gt; in the &lt;container-x&gt; (006). In addition, when the AE#1 1010 wants to request a value (e.g., 'z') different from a value ('y') designated by a previously configured valueForRepetition attribute, the AE#1 1010 may be configured to transmit a request message that requests to update nextForcedValue among message repetition attributes of &lt;msgRepetition&gt; resource (007).</p>
+<p id="p0068" num="0068">The IN-CSE 1020 updates the nextForcedValue attribute. Next, after time 't', it checks the existence of &lt;msgRepetition&gt; resource related to &lt;container-x&gt; and creates (CREATE) &lt;contentInstance&gt; for the &lt;container-x&gt; (008). Herein, &lt;contentInstance&gt; with the updated value 'z' may be generated. Next, the IN-CSE 1020 may internally remove the nextForcedValue attribute. This aims to prepare for receiving nextForcedValue again.</p>
+<p id="p0069" num="0069">Finally, the AE#2 1030 receives notification of creation of new &lt;contentInstance&gt; with &lt;container-x&gt; 'z' value (009). Accordingly, by applying the message repetition transmission processes of <figref idref="f0007">FIG. 9</figref> and <figref idref="f0008">FIG. 10</figref>, it is possible to solve the problem of message repetition transmission, which is required in the above-described scenarios of <figref idref="f0004">FIG. 5</figref> and <figref idref="f0005">FIG. 6</figref>. For example, when a traffic information application service operator (e.g., AE) transmits a request message including the message repetition attribute information to a communication base station (e.g., IN-CSE), the communication base station (e.g., IN-CSE) becomes capable of repeatedly transmitting a traffic information message to user terminals within a traffic communication area based on set message repetition attribute information.</p>
+<heading id="h0009"><b>2. Embodiment of message repetition transmission using publish-subscribe resource</b></heading>
+<p id="p0070" num="0070">Hereinafter, based on another embodiment of the present invention, a process of performing the message repetition transmission will be described. <figref idref="f0013 f0014">FIG. 15 to FIG. 16</figref> simply illustrate an example of message repetition transmission according to the present invention. For example, a oneM2M system is described as an example. However, the present invention is not limited to a oneM2M system.</p>
+<p id="p0071" num="0071">In a oneM2M system, which was being developed before the present invention, for message repetition delivery, an application entity (AE) had to constantly transmit a delivery request for a registered resource. This may be a significant burden of overhead for AE. To reduce a burden required to the AE, the present invention proposes to use a repetition transmission resource and repetition transmission attribute information.<!-- EPO <DP n="19"> --></p>
+<p id="p0072" num="0072">For example, as illustrated in <figref idref="f0013">FIG. 15</figref>, the present invention proposes a process in which an AE 1510 sets attribute information for repetition transmission of a specific resource A within a message repetition transmission resource (1511) and delivers this in a request message form to a hosting CSE 1520. For example, the message repetition transmission resource may be a &lt;Request&gt; resource and/or a &lt;Schedule&gt; resource. Accordingly, the hosting CSE 1520 receiving the request message becomes capable of repeatedly delivering the resource A to another CSE 1530 in response to the request message. Accordingly, the process may minimize an overhead burden for AE by minimizing a repetition delivery request of AE 1510.</p>
+<p id="p0073" num="0073">Additionally, a oneM2M system, which was being developed before the present invention, adopted a Publish-Subscribe based message delivery method. Accordingly, in a oneM2M system before the present invention, for example, when constant notification of a specific resource (e.g., a resource requesting notification of particulate matter (PM) levels) was wanted, it was necessary to create a multiple number of same subscription conditions. Thus, it is possible to receive a multiple number of corresponding notifications, but this method is inefficient. To improve inefficiency required to the AE, the present invention proposes to use a repetition transmission resource (e.g., &lt;subscription&gt; resource) and repetition transmission attribute information.</p>
+<p id="p0074" num="0074">For example, as illustrated in <figref idref="f0014">FIG. 16</figref>, a CSE2 1620 requesting repeated subscription to the resource A may be configured to transmit a subscription request message 1621 including repetition attribute information within &lt;subscription&gt; resource. A CSE1 1610 receiving the subscription request message 1621 becomes capable of repeatedly performing notification for the resource A based on the set repetition attribute information.</p>
+<p id="p0075" num="0075">Hereinafter, a detailed message repetition transmission resource and repetition transmission attribute information, which support the basic processes of <figref idref="f0013">FIG. 15</figref> and <figref idref="f0014">FIG. 16</figref> above, will be described in detail. In relation to this, the subscription resource may include a notification policy that defines a time and method of sending a corresponding notification. Herein, repetition transmission may be set as one of the notification policy. For example, as a method of configuring a message repetition transmission resource, it is possible to add repetition attribute information into a message repetition transmission resource. In addition, a subscriber may configure a method of receiving a repetition transmission notification within a message repetition transmission resource. In addition, a source creator may define a resource attribute forcing message repetition within a message repetition transmission<!-- EPO <DP n="20"> --> resource.</p>
+<p id="p0076" num="0076">Generally, a subscriber may request notification of a specific resource as a subscription mode. For example, an alarm or warning message request for a specific resource may be one example. However, in general, as a subscriber is not convinced that a corresponding message notification is received, the subscriber may want to repeatedly receive the message notification. In the present invention, such a case is referred to as a subscriber oriented message repetition request. In addition, for example, when a source creator is an emergency management center or a traffic management center corresponding to the above-described scenarios of <figref idref="f0004">FIG. 5</figref> and <figref idref="f0005">FIG. 6</figref>, the source creator itself may want forced message repetition transmission. In the present invention, such a case is referred to as a creator oriented message repetition request.</p>
+<p id="p0077" num="0077">Hereinafter, specific ways of implementing the subscriber oriented message repetition request method and the creator oriented message repetition request method respectively are proposed.</p>
+<heading id="h0010">(1) Subscriber oriented message repetition request</heading>
+<p id="p0078" num="0078">The present invention proposes to use a &lt;subscription&gt; resource and to use a &lt;schedule&gt; resource respectively as the subscriber oriented message repetition request method.</p>
+<p id="p0079" num="0079">First, according to the present invention, characteristics of the &lt;subscription&gt; resource may be summarized as follows. The &lt;subscription&gt; resource includes subscription information for a resource to be subscribed. For example, for subscription of a specific resource, the &lt;subscription&gt; resource may be requested to an M2M architecture entity. In other words, &lt;subscription&gt; resource refers to subscription to a specific resource. To complete subscription, it is necessary to create the &lt;subscription&gt; resource as a sub-resource of a resource to be subscribed. Accordingly, the sub-&lt;subscription&gt; resource should include an accurate subscription scope and information on an object to be notified. For example, when the &lt;subscription&gt; resource exists as a child resource under a parent &lt;container&gt; resource, it should be configured as a child &lt;subscription&gt; resource that meets a notification event criterion described in the parent &lt;container&gt; resource. In addition, for example, a child &lt;subscription&gt; resource may also be deleted when a parent resource to be subscribed is deleted.</p>
+<p id="p0080" num="0080">In addition, in general, when an originator has RETRIEVE permission for a<!-- EPO <DP n="21"> --> &lt;subscription&gt; resource, the originator should be capable of creating a resource of the &lt;subscription&gt; resource type. In other words, an originator creating a &lt;subscription&gt; resource may be a resource subscriber. In addition, a &lt;subscription&gt; resource may be configured to reject and block "UPDATE" for an "UPDATE" request to change a resource or a resource attribute. In addition, a &lt;subscription&gt; resource may include a notification policy that designates a target to be notified, a time and a method. In addition, when a &lt;subscription&gt; resource is deleted, if there is a target indicated by a subscriber, it should be possible to transmit a notification request to the target. Herein, the target to be notified may be designated by a subscriberURI attribute.</p>
+<p id="p0081" num="0081">Table 2 discloses examples of attribute information within the &lt;subscription&gt; resource at the subscriber oriented message repetition request.
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>Table 2</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="26mm"/>
+<colspec colnum="2" colname="col2" colwidth="20mm"/>
+<colspec colnum="3" colname="col3" colwidth="12mm"/>
+<colspec colnum="4" colname="col4" colwidth="108mm"/>
+<thead>
+<row>
+<entry valign="middle">Attributes of &lt;subscription&gt;</entry>
+<entry valign="middle">Multiplicity</entry>
+<entry valign="middle">RW/ RO/ WO</entry>
+<entry valign="middle">Description</entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">notiRepetition</entry>
+<entry valign="middle">0..1</entry>
+<entry valign="middle">RW</entry>
+<entry valign="middle">Indicates that the subscriber wants to get a notification for a given number of times. If this value is 1, then the notification is sent as a normal way, i.e., sent once. But If this value is greater than 1, notification should be sent the given number of times. For example, if the value is 3, notification should be sent three times.</entry></row>
+<row>
+<entry valign="middle">notiInterval</entry>
+<entry valign="middle">0..1</entry>
+<entry valign="middle">RW</entry>
+<entry valign="middle">Indicates that repeated notifications should be sent in a given interval.</entry></row>
+<row>
+<entry valign="middle">startRepetition</entry>
+<entry valign="middle">0..1</entry>
+<entry valign="middle">RW</entry>
+<entry valign="middle">This attribute is an optional attribute to be used with notiRepetition to indicate when to start notification repetition.</entry></row>
+<row>
+<entry valign="middle">endRepetition</entry>
+<entry valign="middle">0..1</entry>
+<entry valign="middle">RW</entry>
+<entry valign="middle">This attribute is an optional attribute to be used with notiRepetition in order to indicate when to finish repeating notification.</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="22"> --></p>
+<p id="p0082" num="0082">Herein, to configure a message repetition policy, a subscriber may be equipped with additional attribute information within the &lt;subscription&gt; resource.</p>
+<p id="p0083" num="0083">When a corresponding value is 0 or 1, the "notiRepetition" attribute may perform response notification in a predetermined way (e.g., no notification or once). On the other hand, when the "notRepetition" attribute value is greater than 1, response notification may be performed as many times as the value. For example, when the corresponding value is designated as 3, response notification may be repeated three times.</p>
+<p id="p0084" num="0084">Additionally, the "notilnterval" attribute is information that designates an interval of repeated notifications. The "startRepetition" attribute is information that designates a start time of repetition transmission. In addition, the "endRepetition" attribute is information that designates an end time of repetition transmission. In relation to this, further detailed disclosures for the attributes are presented in the description part of Table 2.</p>
+<p id="p0085" num="0085">Accordingly, by setting additional attribute information in a &lt;subscription&gt; resource, it is possible to implement message repetition transmission according to the present invention. This will be an example in which a message repetition transmission process is implemented while maintaining compatibility with an existing M2M system.</p>
+<p id="p0086" num="0086">Next, using a &lt;schedule&gt; resource of an M2M system is proposed as another method of implementing message repetition transmission at a subscriber oriented message repetition request according to the present invention. The &lt;schedule&gt; resource may include scheduling information. In addition, the &lt;schedule&gt; resource may be a child resource of the above-described repeated creation resource &lt;megRepetition&gt;. In addition, the &lt;schedule&gt; resource may be a child resource of the subscription resource &lt;subscription&gt;.</p>
+<p id="p0087" num="0087">Table 3 discloses examples of attribute information within the &lt;schedule&gt; resource at the subscriber oriented message repetition request.
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>Table 3</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="30mm"/>
+<colspec colnum="2" colname="col2" colwidth="20mm"/>
+<colspec colnum="3" colname="col3" colwidth="17mm"/>
+<colspec colnum="4" colname="col4" colwidth="100mm"/>
+<thead>
+<row>
+<entry valign="middle">Attributes of &lt;schedule&gt;</entry>
+<entry valign="middle">Multiplicity</entry>
+<entry valign="middle">RW/ RO/ WO</entry>
+<entry valign="middle">Description</entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">repetitionPolicy</entry>
+<entry valign="middle">0..1</entry>
+<entry valign="middle">RW</entry>
+<entry valign="middle">Indicates how to handle consecutive notifications. If the value is 0, all the scheduled</entry></row><!-- EPO <DP n="23"> -->
+<row>
+<entry valign="middle"/>
+<entry valign="middle"/>
+<entry valign="middle"/>
+<entry valign="middle">notifications regardless of the order will be sent out. If the value is 1, the remaining notifications for the previous notification will be ignored.</entry></row>
+<row>
+<entry valign="middle">scheduleElement</entry>
+<entry valign="middle">1(L)</entry>
+<entry valign="middle">RW</entry>
+<entry valign="middle">Each item of the scheduleElement list shall be OA composed from seven fields of second, minute, hour, day of month, month, day of week and year. Optionally, notification identifier can be added to distinguish notifications.</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0088" num="0088">Herein, to configure a message repetition policy, a subscriber may be equipped with additional attribute information within the &lt;schedule&gt; resource. The "repetitionPolicy" attribute is information that designates how to perform repeated notification. For example, when a corresponding value is 0, all the scheduled notifications may be transmitted regardless of the notification order. On the other hand, when a corresponding value is 1, notification left behind a previous notification may not be transmitted but be ignored.</p>
+<p id="p0089" num="0089">Additionally, the "scheduleElement" attribute may include seven fields constituting repeated notification schedule time. For example, the seven fields may be composed of second, minute, hour, day of month, month, day of week, and year. In addition, selectively, a "Notification Identifier" attribute may further be added to distinguish repeatedly transmitted notifications. For example, to distinguish repeatedly transmitted notifications, the "Notification Identifier" attribute value may be implemented to increase by 1. (e.g., noti-00001, noti-00002, ...)</p>
+<p id="p0090" num="0090">In relation to this, further detailed disclosures for the attributes are presented in the description part of Table 3. Accordingly, by setting additional attribute information in a &lt;schedule&gt; resource, it is possible to implement message repetition transmission according to the present invention. This will be an example in which a message repetition transmission process is implemented while maintaining compatibility with an existing M2M system.</p>
+<heading id="h0011">(2) Creator oriented message repetition request</heading>
+<p id="p0091" num="0091">The present invention proposes to use a &lt;resource name&gt; resource as the creator oriented message repetition request method. A creator may mean a publisher. A creator, which creates a source resource (e.g., container resource), may configure a repetition<!-- EPO <DP n="24"> --> transmission policy of the created source resource.</p>
+<p id="p0092" num="0092">Table 4 discloses examples of attribute information within the &lt;resource name&gt; resource at the creator oriented message repetition request.
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title>Table 4</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="33mm"/>
+<colspec colnum="2" colname="col2" colwidth="20mm"/>
+<colspec colnum="3" colname="col3" colwidth="12mm"/>
+<colspec colnum="4" colname="col4" colwidth="101mm"/>
+<thead>
+<row>
+<entry valign="middle">Attributes of &lt;resource name&gt;</entry>
+<entry valign="middle">Multiplicity</entry>
+<entry valign="middle">RW/ RO/ WO</entry>
+<entry valign="middle">Description</entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">notiRepetitionMode</entry>
+<entry valign="middle">0..1</entry>
+<entry valign="middle">RW</entry>
+<entry valign="middle">Indicates that the subscriber wants to get a notification for a given number of times. If this value is 1, then the notification is sent as a normal way, i.e., sent once. But If this value is greater than 1, notification should be sent the given number of times. For example, if the value is 3, notification should be sent three times.</entry></row>
+<row>
+<entry valign="middle">notilnterval</entry>
+<entry valign="middle">0..1</entry>
+<entry valign="middle">RW</entry>
+<entry valign="middle">Indicates that repeated notifications should be sent in a given interval.</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0093" num="0093">In particular, to configure a message repetition policy, a source resource creator may include a message repetition transmission policy in the &lt;resource name&gt; resource. The "notiRepetitionMode" attribute is information that designates a repetition transmission mode. For example, when a corresponding value is 1, response notification may be performed in a predetermined usual way (e.g., one-time notification). On the other hand, when a corresponding value is greater than 1, response notification may be repeatedly transmitted as many times as a set number. For example, when a corresponding value is set to 3, repetition transmission may be performed three times.</p>
+<p id="p0094" num="0094">In addition, the "notilnterval" attribute is information that designates an interval at which repeated notification of message is performed. For example, it may be set to every 10 minutes, every hour, etc. When a specific subscriber creates a subscription resource for the source resource, the creator may be configured to set a message repetition transmission policy by using the attributes. In particular, when repetition transmission attributes as in Table 2<!-- EPO <DP n="25"> --> described above are set in a &lt;subscription&gt; resource of a subscriber, if a creator receives a repetition transmission attribute request of the subscriber, a reception message (e.g., Ack) may be transmitted. On the other hand, when repetition transmission attribute information in a &lt;subscription&gt; resource of a subscriber violates a repetition transmission policy set by a creator, a message (e.g., Nack) for rejecting a repetition transmission attribute request of the subscriber may be transmitted. In relation to this, as described above, when message repetition transmission policies are different between a creator and a subscriber, it may be necessary to prepare an arbitration policy for solving the difference in an M2M system. For example, it is possible to set which message repetition transmission policy is to be preferred between a creator and a subscriber according to scenarios, and such message repetition transmission policy may be used as an arbitration policy.</p>
+<p id="p0095" num="0095">Also, Table 5 discloses examples of other attribute information within the &lt;resource name&gt; resource at the creator oriented message repetition request.
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<title>Table 5</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="37mm"/>
+<colspec colnum="2" colname="col2" colwidth="20mm"/>
+<colspec colnum="3" colname="col3" colwidth="18mm"/>
+<colspec colnum="4" colname="col4" colwidth="92mm"/>
+<thead>
+<row>
+<entry valign="middle">Attributes of &lt;resource name&gt;</entry>
+<entry valign="middle">Multiplicity</entry>
+<entry valign="middle">RW/ RO/ WO</entry>
+<entry valign="middle">Description</entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">notiRepetition</entry>
+<entry valign="middle">0..1</entry>
+<entry valign="middle">RW</entry>
+<entry valign="middle">Indicates that the current content should be notified repeatedly to its subscribers. The value of this attributes indicates the number of repetition times.</entry></row>
+<row>
+<entry valign="middle">notiInterval</entry>
+<entry valign="middle">0..1</entry>
+<entry valign="middle">RW</entry>
+<entry valign="middle">Indicates that repeated notifications should be sent in a given interval.</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0096" num="0096">The "notiRepetition" attribute is information that designates forced repetition transmission. For example, regardless of a repeated subscription request or repetition transmission request of a subscriber or a requester, a source creator may be configured to repeatedly transmit a specific resource to all the related subscribers and requesters in a forcible way. For example, when a corresponding source resource is an emergency resource of the above-described scenario in <figref idref="f0005">FIG. 6</figref>, forced repetition transmission may be performed.</p>
+<p id="p0097" num="0097">In relation to this, the number of times of being repeatedly transmitted needs to be set<!-- EPO <DP n="26"> --> separately. For example, the above-described "notiRepetitionMode" attribute in Table 4 may be utilized. Additionally, the "notilnterval" attribute is information that designates an interval at which repeated notification of message is performed. For example, it may be set to every 10 minutes, every hour, etc.</p>
+<p id="p0098" num="0098">Accordingly, by setting additional attribute information in a &lt;resource name&gt; resource, it is possible to implement creator-oriented message repetition transmission according to the present invention. This will be an example in which a message repetition transmission process is implemented while maintaining compatibility with an existing M2M system.</p>
+<heading id="h0012">3. Embodiment of message repetition transmission using a group resource</heading>
+<p id="p0099" num="0099">Hereinafter, according to an embodiment of the present invention, a message repetition transmission method using a group resource and corresponding resource attribute information will be described. For example, a oneM2M system is described as an example. However, the present invention is not limited to a oneM2M system.</p>
+<p id="p0100" num="0100">A oneM2M system, which was being developed before the present invention, was capable of using a &lt;group&gt; resource to transmit a request message or a response message simultaneously to a multiplicity of users of a same group. However, the &lt;group&gt; resource had a limitation in implementing message repetition transmission according to the present invention. Accordingly, it is proposed that a message repetition transmission process according to the present invention is implemented by newly defining attribute information for repetition transmission within the &lt;group&gt; resource.</p>
+<p id="p0101" num="0101">Table 6 discloses examples of attribute information for repetition transmission that is additionally set within the &lt;group&gt; resource in order to implement a message repetition transmission process according to the present invention.
+<tables id="tabl0006" num="0006">
+<table frame="all">
+<title>Table 6</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="39mm"/>
+<colspec colnum="2" colname="col2" colwidth="21mm"/>
+<colspec colnum="3" colname="col3" colwidth="23mm"/>
+<colspec colnum="4" colname="col4" colwidth="84mm"/>
+<thead>
+<row>
+<entry valign="middle">Attributes of &lt;group&gt;</entry>
+<entry valign="middle">Multiplic ity</entry>
+<entry valign="middle">RW/ RO/ WO</entry>
+<entry valign="middle">Description</entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">startMulticastRepetition</entry>
+<entry valign="middle"/>
+<entry valign="middle"/>
+<entry valign="middle">starting time of multicast repetition</entry></row><!-- EPO <DP n="27"> -->
+<row>
+<entry>endMulticastRepetition</entry>
+<entry/>
+<entry/>
+<entry>finishing time of multicast repetition</entry></row>
+<row>
+<entry>maxNrOfRepetition</entry>
+<entry/>
+<entry/>
+<entry>maximum number of repetition</entry></row>
+<row>
+<entry>currentNrOfRepetition</entry>
+<entry/>
+<entry/>
+<entry>how many times the message is sent out</entry></row>
+<row>
+<entry>currentSessionID</entry>
+<entry/>
+<entry/>
+<entry>identifier of the current message</entry></row>
+<row>
+<entry>repetitionMode</entry>
+<entry/>
+<entry/>
+<entry>how to handle newly joined members (unicast? Temporary multicast? No action?)</entry></row>
+<row>
+<entry>memberNewlyJoined</entry>
+<entry/>
+<entry/>
+<entry>list of members that join the group but not yet informed</entry></row>
+<row>
+<entry>membersNotRead</entry>
+<entry/>
+<entry/>
+<entry>list of members that didn't read message</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0102" num="0102">The "startMulticastRepetition" attribute is information that designates a start time of multicast repetition. The "endMulticastRepetition" attribute is information that designates an end time of multicast repetition. The "maxNrOfRepetition" attribute is information that designates a maximum number of repetition transmission. The "currentNrOfRepetition" attribute is information that designates a number of times repetition transmission is performed. The "currentSessionID" attribute is information that designates identification of a current message.</p>
+<p id="p0103" num="0103">In addition, the "repetitionMode" attribute is information that designates which transmission mode is to be applied to members that newly join a group (e.g., user terminals). For example, any one among unicast transmission, temporary multicast and no-action may be selected. Particularly, the "repetitionMode" attribute may be used as attribute information to determine how to perform message transmission to vehicles that newly join a traffic communication area in the above-described scenario of <figref idref="f0004">FIG. 5</figref>. In addition, it may be used<!-- EPO <DP n="28"> --> as attribute information to determine how to perform message transmission to user terminals in an emergency danger warning area where a dangerous situation occurs in the above-described scenario of <figref idref="f0005">FIG. 6</figref>.</p>
+<p id="p0104" num="0104">Additionally, the "memberNewlyJoined" attribute is information that sets a list of users that are new members (e.g., user terminals) of a group but have not received a message yet. The "membersNotRead" attribute is information that sets a list of users that are new members (e.g., user terminals) of a group but have not read a transmitted message yet. In particular, the "memberNewlyJoined" attribute and the "membersNotRead" attribute may be used as attribute information to identify vehicles, which newly join a traffic communication area in the above-described scenario of <figref idref="f0004">FIG. 5</figref>, and to identify a user not having received a message yet among the vehicles. In addition, they may be used as attribute information to identify user terminals, which newly join an emergency danger warning area, in which a dangerous situation occurs, in the above-described scenario of <figref idref="f0005">FIG. 6</figref> and to identify a user terminal not having received a message yet among the user terminals.</p>
+<p id="p0105" num="0105">In relation to this, to implement a message repetition transmission process according to the present invention, it is also possible to generate a &lt;multicastrepetition&gt; resource as a child resource under the &lt;group&gt; resource and to define attributes for performing multicast repetition transmission. In addition, to implement a message repetition transmission process according to the present invention, it is possible to generate a &lt;fanoutPoint&gt; resource as a child resource under the &lt;group&gt; resource and, when performing multicast repetition transmission, to update every &lt;fanoutPoint&gt; resource attribute value to a same value.</p>
+<p id="p0106" num="0106">Herein, a method of implementing multicast repetition transmission for a new member, which newly joins a multicast group, is as follows. First, which transmission mode between unicast and multicast is applied to a new member is confirmed by checking the "repetitionMode" attribute. When unicast transmission is set, a group hosting CSE first performs unicast message transmission for a member that newly joins and removes the new member from the multicast group after the unicast transmission. On the other hand, when multicast transmission is set, a group hosting CSE generates a new sub-multicast group composed of members, which newly join, and performs multicast (e.g., &lt;fanoutPoint&gt; resource update) for the newly created sub-multicast group. After the multicast transmission, the new sub-multicast group is removed from the multicast group.</p>
+<p id="p0107" num="0107">Table 7 discloses examples of attribute information for repetition transmission that is<!-- EPO <DP n="29"> --> additionally set within a &lt;schedule&gt; resource to implement a message repetition transmission process according to the present invention.
+<tables id="tabl0007" num="0007">
+<table frame="all">
+<title>Table 7</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="40mm"/>
+<colspec colnum="2" colname="col2" colwidth="21mm"/>
+<colspec colnum="3" colname="col3" colwidth="24mm"/>
+<colspec colnum="4" colname="col4" colwidth="61mm"/>
+<thead>
+<row>
+<entry valign="top">Attributes of &lt;schedule&gt;</entry>
+<entry valign="top">Multiplic ity</entry>
+<entry valign="top">RW/ RO/ WO</entry>
+<entry valign="top">Description</entry></row></thead>
+<tbody>
+<row>
+<entry>startMulticastSchedule</entry>
+<entry/>
+<entry/>
+<entry>starting time of multicast repetition</entry></row>
+<row>
+<entry>endMulticastSchedule</entry>
+<entry/>
+<entry/>
+<entry>finishing time of multicast repetition</entry></row>
+<row>
+<entry>maxNrOfRepetition</entry>
+<entry/>
+<entry/>
+<entry>maximum number of repetition</entry></row>
+<row>
+<entry>currentNrOfRepetition</entry>
+<entry/>
+<entry/>
+<entry>how many times the message is sent out</entry></row>
+<row>
+<entry>currentSessionID</entry>
+<entry/>
+<entry/>
+<entry>identifier of the current message</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0108" num="0108">The "startMulticastSchedule" attribute is information that designates a start time of multicast repetition. The "endMulticastSchedule" attribute is information that designates an end time of multicast repetition. The "maxNrOfRepetition" attribute is information that designates a maximum number of repetition transmission. The "currentNrOfRepetition" attribute is information that designates a number of times repetition transmission is performed. The "currentSessionID" attribute is information that designates identification of a current message.</p>
+<p id="p0109" num="0109">For example, as a child resource of a &lt;node&gt; resource, a &lt;schedule&gt; resource is available when a corresponding node designates a time interval, at which communication is possible through a network. Accordingly, by adding message repetition transmission attribute information of the present invention to the &lt;schedule&gt; resource, message repetition may be implemented at a time when communication is possible.</p>
+<heading id="h0013">4. Embodiment of message retransmission using a resource and attribute information</heading>
+<p id="p0110" num="0110">Hereinafter, according to the present invention, a message retransmission method<!-- EPO <DP n="30"> --> using an M2M resource and attribute information will be described. As described in the scenarios of <figref idref="f0004">FIG. 5</figref> and <figref idref="f0005">FIG. 6</figref> above, there may be information that should be transmitted to all the user terminals in a specific area. For example, such information may be traffic accident information and forest fire warning information. In particular, since such warning information should be transmitted to all the user terminals in a corresponding area, when transmission failure occurs in a specific user terminal or all the user terminals, a retransmission function is required. In addition, as recent vehicle terminals frequently fail to receive the main warning information due to a fast driving speed, a solution to this is also required. Accordingly, when multicast transmission fails, a process of retransmitting a corresponding failed message needs to be implemented.</p>
+<p id="p0111" num="0111">Table 8 discloses examples of attribute information for repetition transmission that is additionally set within the &lt;group&gt; resource in order to implement a message retransmission process according to the present invention.
+<tables id="tabl0008" num="0008">
+<table frame="all">
+<title>Table 8</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="41mm"/>
+<colspec colnum="2" colname="col2" colwidth="20mm"/>
+<colspec colnum="3" colname="col3" colwidth="12mm"/>
+<colspec colnum="4" colname="col4" colwidth="94mm"/>
+<thead>
+<row>
+<entry valign="middle">Attributes of &lt;group&gt;</entry>
+<entry valign="middle">Multiplic ity</entry>
+<entry valign="middle">RW/ RO/ WO</entry>
+<entry valign="middle">Description</entry></row></thead>
+<tbody>
+<row>
+<entry>maxNrOfRetransmissi on</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>maximum number of retransmissions</entry></row>
+<row>
+<entry>currentNrOfRetransm ission</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>current number of retransmissions. It shall not be larger than maxNrOfRetransmission.</entry></row>
+<row>
+<entry>memberNotDelivered</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>Identifier of members not delivered</entry></row>
+<row>
+<entry>membersNotRead</entry>
+<entry/>
+<entry/>
+<entry>list of members that didn't read message</entry></row>
+<row>
+<entry>RetransmissionMode</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>Unicast or MBMS</entry></row>
+<row>
+<entry>maxRetransmissionTi me</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>Time limitation</entry></row><!-- EPO <DP n="31"> -->
+<row>
+<entry>startWindowRetransm ission</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>Retransmission should start within the given time window</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0112" num="0112">The "maxNrOfRetransmission" attribute is information that designates a maximum number of times retransmission is performed. The "currentNrOfRetransmission" attribute is information that designates a current number of times retransmission is performed. For example, a "currentNrOfRetransmission" attribute value cannot be greater than a maximum number of times retransmission is performed.</p>
+<p id="p0113" num="0113">In addition, the "memberNotDelivered" attribute is information that designates a member to which a retransmitted message is not delivered. The "memberNotRead" attribute is information that designates a member which has received a transmitted message but not read the message yet. The "RetransmissionMode" attribute is information that designates a retransmission mode. For example, it may select one of unicast transmission and MBMS transmission (e.g., 3GPP). The "maxRetransmissionTime" attribute is information that designates a retransmission time limitation. The "startWindowRetransmission" attribute is information that designates a time window interval in which retransmission is to be performed.</p>
+<p id="p0114" num="0114">Particularly, the "memberNotDelivered" attribute and the "membersNotRead" attribute may be used as attribute information to identify vehicles, which newly join a traffic communication area in the above-described scenario of <figref idref="f0004">FIG. 5</figref>, and to identify a user not having received a message yet among the vehicles. In addition, especially, they may be used as attribute information to identify user terminals, which newly join an emergency danger warning area, in which a dangerous situation occurs, in the above-described scenario of <figref idref="f0005">FIG. 6</figref> and to identify a user terminal not having received a message yet among the user terminals. Also, the "RetransmissionMode" attribute may be used to determine a communication mode that is applied to user terminals requiring the retransmission.</p>
+<p id="p0115" num="0115">Table 9 discloses examples of attribute information for retransmission that is additionally set within a &lt;localMulticastGroup&gt; resource to implement a message<!-- EPO <DP n="32"> --> retransmission process according to the present invention.
+<tables id="tabl0009" num="0009">
+<table frame="all">
+<title>Table 9</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="34mm"/>
+<colspec colnum="2" colname="col2" colwidth="20mm"/>
+<colspec colnum="3" colname="col3" colwidth="19mm"/>
+<colspec colnum="4" colname="col4" colwidth="94mm"/>
+<thead>
+<row>
+<entry valign="middle">Attributes of &lt; localMulticastGroup &gt;</entry>
+<entry valign="middle">Multiplicity</entry>
+<entry valign="middle">RW/ RO/ WO</entry>
+<entry valign="middle">Description</entry></row></thead>
+<tbody>
+<row>
+<entry>TMGI</entry>
+<entry>0..1</entry>
+<entry>RW</entry>
+<entry>The Temporary Mobile Group Identity is allocated to identify the MBMS bearer service as specified in 3GPP TS 23.246. It's used to uniquely identify the 3GPP multicast or broadcast message with externalGroupID together.</entry></row>
+<row>
+<entry>retransmissionTMGI</entry>
+<entry/>
+<entry/>
+<entry>TMGI for retransmission</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0116" num="0116">Existing in an existing &lt;localMulticastGroup&gt; resource, the "TMGI" attribute is information indicating whether a local multicast group supports an MBMS service that is defined in 3GPP. For example, as an M2M system has an interworking function with 3GPP MBMS, the attribute is information for requesting and identifying it. In other words, for example, when "TMGI = 1", it may be defined that MBMS is supported. On the other hand, when "TMGI = 0" , it may be defined that MBMS is not supported. Additionally, the "retransmissionTMGI" attribute is information that indicates TMGI in retransmission.</p>
+<p id="p0117" num="0117"><figref idref="f0009 f0010 f0011 f0012">FIG. 11 to FIG. 14</figref> illustrate an example of a process of implementing a message retransmission method according to an embodiment of the present invention. In particular, <figref idref="f0009">FIG. 11</figref>, <figref idref="f0010">FIG. 12</figref> and <figref idref="f0012">FIG. 14</figref> illustrate a message retransmission method that creates the MBMS group and uses the corresponding MBMS group. On the other hand, <figref idref="f0011">FIG. 13</figref> illustrates a message retransmission method that does not use an MBMS group but uses a multicast mode.</p>
+<p id="p0118" num="0118"><figref idref="f0009">FIG. 11</figref> illustrates an example of a process of creating an MBMS group according to an embodiment of the present invention. Herein, MBMS service area information provided by an operator may be configured in an M2M system. In addition, in an M2M system, an external group identifier for an apparatus may be pre-provisioned.<!-- EPO <DP n="33"> --></p>
+<p id="p0119" num="0119">First, an IN-AE 1150 transmits a &lt;group&gt; resource creation request to a group hosting CSE 1140. Next, the group hosting CSE 1140 checks whether or not a multicast capacity feature of a &lt;remoteCSE&gt; resource for two or more member hosting CSEs 1110 is composed of an MBMS value and has a same external group identifier (externalGroupID). Next, the group hosting CSE 1140 transmits a response to the IN-AE/CSE 1150.</p>
+<p id="p0120" num="0120">Next, the group hosting CSE 1140 transmits a request of TMGI allocation to SCEF 1130. The request should include the following information that is specified in 3GPP TS 29.122 [5].
+<ul id="ul0002" list-style="dash">
+<li>A HTTP POST method should be used.</li>
+<li>URI should be set to {apiRoot}/3gpp-group-message-delivery-mb2 /v1/{scsAsId}/tmgi-allocation. {apiRoot} and {scsAsId} segments are based on Service Provider and MNO policies.</li>
+<li>The request payload should include a TMGIAllocation data structure as specified in 3GPP TS 29.122 [5] and should include the following attributes. In other words externalGroupID should be set to externalGroupID of the member hosting CSE 1110.</li>
+</ul></p>
+<p id="p0121" num="0121">In addition, mbmsLocArea may be set as location information of the member hosting CSE 1110 according to an accuracy policy. In addition, supportedFeatures should set to a string value of '0' indicating that there is no support for notification through a website or a notification test event.</p>
+<p id="p0122" num="0122">However, when a hosting CSE (that is, IN-CSE 1140) wants to transmit a TMGI allocation request, there may be a case in which SCEF is unreachable. In particular, the IN-CSE 1140 may not obtain a TMGI that is allocated in a basic 3GPP network. Accordingly, the IN-CSE 1140 may be incapable of using a multicast function for a corresponding group. In particular, the IN-CSE 1140 may process a request for group using a unicast function.</p>
+<p id="p0123" num="0123">Next, a TMGI allocation request may be processed by the basic 3GPP network according to a procedure defined in 3GPP TS 23.682[2]. Herein, the SCEF 1130 transmits an allocation TMGI response to the group hosting CSE 1140. The response includes the following information that is specified in 3GPP TS 29.122 [5].
+<ul id="ul0003" list-style="dash">
+<li>201 CREATED response code</li>
+<li>URI of CPC (communication pattern configuration) subscription resource created in SCEF In HTTP Location header, the URI is returned in the form of {apiRoot}/3gpp-group-message-delivery-mb2/v1/{scsAsId}/tmgi-allocation/{tmgi}.<!-- EPO <DP n="34"> --> {apiRoot} and {scsAsId} segments may be configured based on a service provider and an MNO policy. Herein, {tmgi} segment may be configured by SCEF.</li>
+<li>The response payload may include a TMGIAllocation data structure as specified in 3GPP TS 29.122 [5] including an attribute existing in a request and may include the following additional attributes. In other words, it is possible to configure a link for {apiRoot}/3gpp-group-message-delivery-mb2 /v1/{scsAsId}/tmgi-allocation/{tmgi} resource that is created by SCEF. Additionally, tmgi is configured by ID of a specific MBMS bearer service and tmgiExpiration is configured by an absolute time in which TMGI is considered to expire.</li>
+</ul></p>
+<p id="p0124" num="0124">Next, the group hosting CSE 1140 stores tmgi and tmgiExpiration in local multicast group information and transmits a &lt;localMulticastGroup&gt; creation request to a member hosting CSE 1110 through unicast including a necessary attribute. In the case of multicast, the type is 3GPP_MBMS_group, and a request includes tmgi and responseTimeWindow.</p>
+<p id="p0125" num="0125"><figref idref="f0010">FIG. 12</figref> illustrates an example of a process of transmitting a group message by using the MBMS group that is generated through the above-described process of <figref idref="f0009">FIG. 11</figref>. First, effective TMGI allocation may be made through step S1 to step S4 of <figref idref="f0010">FIG. 12</figref>.</p>
+<p id="p0126" num="0126">Next, an IN-AE/CSE 1250 transmits a request, which includes a group access identifier for access to a member resource, to a group hosting CSE 1240. For example, in the case of multicast, the type is 3GPP_MBMS_group, and the group hosting CSE 1240 checks an existing &lt;schedule&gt; resource, which is a child resource, for every member hosting CSE 1210 as a &lt;node&gt; resource. When there is no time intersection of an existing &lt;schedule&gt; resource, the group hosting CSE 1240 transmits an error response to the IN-AE/CSE 1250 after the process ends. On the other hand, when there is a time intersection, the group hosting CSE 1240 checks whether operation execution time and request expiration timestamp are within a range of intersection when the operation execution time or the request expiration timestamp is included in a request. Otherwise, the group hosting CSE 1240 transmits an error response to the IN-AE/CSE 1250 after the process ends.</p>
+<p id="p0127" num="0127">Next, after activating an MBMS bearer by transmitting a group message delivery request to SCEF 1230, the group hosting CSE 1240 should provide an MBMS communication network resource for an MBMS member from a next start time of a time intersection. The request may include information that is specified in 3GPP TS 29.122 [5].<!-- EPO <DP n="35"> --> Next, an MBMS bearer activation process may be processed by the basic 3GPP network according to a procedure defined in 3GPP TS 23.682[2]. In addition, the SCEF 1230 transmits a group message response to the group hosting CSE 1240. The response may include information that is specified in 3GPP TS 29.122 [5].</p>
+<p id="p0128" num="0128">Group message delivery by an MBMS procedure may be processed by the basic 3GPP network based on a procedure defined in 3GPP TS 23.682[2]. Next, the SCEF 1230 transmits group message delivery notification to the group hosting CSE 1240. The notification message may include information that is specified in 3GPP TS 29.122 [5].</p>
+<p id="p0129" num="0129">Next, after receiving group message delivery notification, the group hosting CSE (IN-CSE) 1240 may transmit a response that has a specific response code (e.g., 204 NO CONTENT). Next, the member hosting CSE 1210 may be configured to transmit a response message within a response TimeWindow range. Herein, the group hosting CSE 1240 receives a response message from the member hosting CSE 1210 until ResponseTimeWindow expires and returns a collected group member response to an IN-AE/CSE 1250.</p>
+<p id="p0130" num="0130"><figref idref="f0011">FIG. 13</figref> illustrates an example of a message retransmission process according to an embodiment of the present invention. In particular, <figref idref="f0011">FIG. 13</figref> relates to a message retransmission process using multicast.</p>
+<p id="p0131" num="0131">When multicast message delivery fails, a group hosting CSE 1230 retransmits a message to a failed node through unicast. In other words, the group hosting CSE 1230 identifies a member, for which delivery fails, among members from memberNotDelivered attribute and transmits unicast message delivery to the member. When unicast delivery is successful, the group hosting CSE 1230 deletes memberNotDelivered. After a designated number of retransmissions, the group hosting CSE 1230 considers a failed node as not available anymore and removes a corresponding member from a &lt;group&gt; resource.</p>
+<p id="p0132" num="0132">In addition, when there is still a failed node member that has not succeeded in receiving the retransmitted message, an AE 1250 may perform request repeatedly until a maximum number of retransmissions (maxNrOfRetransmission) is reached. On the other hand, when a given maximum number of retransmissions (maxNrOfRetransmission) runs out, the group hosting CSE 1230 may consider a failed node as not available anymore and remove a corresponding failed node member from a &lt;group&gt; resource. For example, the message retransmission process of <figref idref="f0011">FIG. 13</figref> is implemented without applying MEMS group<!-- EPO <DP n="36"> --> transmission by 3GPP 1320.</p>
+<p id="p0133" num="0133"><figref idref="f0012">FIG. 14</figref> illustrates an example of a message retransmission process according to an embodiment of the present invention. Especially, <figref idref="f0012">FIG. 14</figref> relates to a message retransmission process using MBMS.</p>
+<p id="p0134" num="0134">The present invention proposes a &lt;Retransmission&gt; resource to support multicast retransmission. When there is failure in multicast message delivery, the &lt;Retransmission&gt; resource is created as a sub-resource of a &lt;group&gt; resource. A group hosting CSE 1430 performs multicast for members 1510 listed in a &lt;Retransmission&gt; group for a given number of times. In the case of each retransmission, when a node successfully receives a message, the members may be removed from the &lt;Retransmission&gt; resource. In addition, after multicast is performed as many times as a given maximum number, the &lt;Retransmission&gt; may be removed. In particular, it is necessary to create and configure relevant information for performing 3GPP MBMS TMGI and 3GPP MBMS for a designated member in a &lt;Retransmission&gt; resource. The &lt;Retransmission&gt; resource may be a child resource of a &lt;group&gt; resource or a temporary independent resource. For example, in the case of the temporary independent resource, it is necessary to maintain a link with the original &lt;group&gt; resource.</p>
+<p id="p0135" num="0135"><figref idref="f0015">FIG. 17</figref> is a view illustrating an example of an apparatus configuration according to the present invention. Referring to <figref idref="f0015">FIG. 17</figref>, a device 1700 may include a memory 1710, a processor 1720, a transceiver 1730 and a peripheral apparatus 1740. In addition, for example, a device 1700 may further include another configuration and is not limited to the above-described embodiment. Herein, as an example, the device may be an apparatus operating based on the above-described M2M system. More specifically, the device 1700 of <figref idref="f0015">FIG. 17</figref> may be an illustrative hardware/software architecture of an M2M network node such as an M2M device, an M2M gateway and an M2M server. In particular, for example, the memory 1710 may be a non-removable memory or a removable memory. In addition, for example, the peripheral apparatus 1740 may include a display, GPS or other peripherals and is not limited to the above-described embodiment. In addition, for example, the above-described device 1700 may be a node. Particularly, like the transceiver 1730, the node may include a communication circuit. Based on this, the node may perform communication with an external device.</p>
+<p id="p0136" num="0136">In addition, as an example, the processor 1720 may be at least one of a general-purpose<!-- EPO <DP n="37"> --> processor, a digital signal processor (DSP), a DSP core controller, a micro controller, application specific integrated circuits (ASICs), field programmable gate array (FPGA) circuits, any other type of integrated circuit (IC), and one or more microprocessors related to a state machine. In other words, it may be a hardware/software configuration playing a controlling role for operating the above-described device 1700. Particularly, the processor 1720 may be configured to execute computer-executable commands stored in the memory 1710 to implement various necessary functions of node. For example, the processor 1720 may be configured to execute at least any one operation among signal coding, data processing, power controlling, input and output processing, and communication. In addition, the processor 1720 may control a physical layer, an MAC layer and an application layer. In addition, for example, the processor 1720 may execute an authentication and security process in an access layer and/or an application layer, which is not limited to the above-described embodiment.</p>
+<p id="p0137" num="0137">In addition, for example, the processor 1720 may be configured to perform communication with other devices through the transceiver 1730. For example, the processor 1720 may be configured to execute computer-executable commands so that a node can be controlled to perform communication with other nodes through a network. In other words, communication performed in the present invention may be controlled. As an example, other nodes may be an M2M gateway, an M2M server and other devices. For example, the transceiver 1730 may be configured to transmit a RF signal through an antenna. It may transmit a signal based on various communication networks. In addition, as an example, MIMO technology and beam forming technology may be applied as antenna technology but are not limited to the above-described embodiment. In addition, a signal transmitted and received through the transceiver 1730 may be operated by the processor 1720 by being modulated and demodulated, which is not limited to the above-described embodiment.</p>
+<p id="p0138" num="0138"><figref idref="f0016">FIG. 18</figref> may be another apparatus configuration for a device. Referring to FIG. 35, as described above, it may be operated by a processor. Herein, as an example, a memory, RAM, ROM and a network may be included. In addition, another movable memory may be further included and is not limited to the above-described embodiment. Herein, the processor may be controlled to execute a command based on information stored in the above-described memories and to perform the operations described in the present invention. In addition, the processor may be provided with power by a power supply and be offered input information by peripherals, which is not limited to the above-described embodiment. In<!-- EPO <DP n="38"> --> addition, as an example, a device may obtain location information and related information based on GPS and the like. In addition, as an example, a device may receive input information based on other input devices and is not limited to the above-described embodiment.</p>
+<p id="p0139" num="0139">The above-described exemplary embodiments of the present invention may be implemented by various means. For example, the embodiments of the present invention may be implemented by hardware, firmware, software, or a combination thereof.</p>
+<p id="p0140" num="0140">The foregoing description of the preferred embodiments of the present invention has been presented for those skilled in the art to implement and perform the invention. While the foregoing description has been presented with reference to the preferred embodiments of the present invention, it will be apparent to those skilled in the art that various modifications and variations can be made in the present invention without departing from the spirit or scope of the present invention as defined by the following claims. Accordingly, the present invention is not intended to be limited to the embodiments shown herein but is to be accorded the widest scope consistent with the principles and novel features disclosed herein.</p>
+<p id="p0141" num="0141">In addition, while the preferred embodiments of the present specification have been particularly shown and described, it is to be understood that the present specification is not limited to the above-described embodiments, but, on the contrary, it will be understood by those skilled in the art that various changes and modifications may be made without departing from the spirit and scope of the present specification as defined by the claims below, and such changes and modifications should not be individually understood from the technical thought and outlook of the present specification.</p>
+<p id="p0142" num="0142">In this specification, both the invention and the method invention are explained, and the description of both inventions may be supplemented as necessary. In addition, the present invention has been described with reference to preferred embodiments thereof. It will be understood by those skilled in the art that various changes in form and details may be made therein without departing from the essential characteristics of the present invention. Therefore, the disclosed embodiments should be considered in an illustrative rather than a restrictive sense. The scope of the present invention is defined by the appended claims rather than by the foregoing description, and all differences within the scope of equivalents thereof should be construed as being included in the present invention.</p>
+<p id="p0143" num="0143">The present invention may be applied not only to a oneM2M system but also to<!-- EPO <DP n="39"> --> various systems.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="40"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A message repetition transmission method, the method comprising:
+<claim-text>setting attribute information for message repetition transmission;</claim-text>
+<claim-text>configuring a first resource that includes the attribute information and is applied to message repetition transmission; and</claim-text>
+<claim-text>performing message repetition transmission according to the configured first resource,</claim-text>
+<claim-text>wherein the attribute information for message repetition transmission includes at least information (targetResource) designating a target resource of message repetition transmission and information (valueForRepetition) designating a transmission value that is a message repetition transmission target.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The message repetition transmission method of claim 1, wherein the attribute information for message repetition transmission comprises information (repetitionOriginator) that designates an originator requesting message repetition transmission.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The message repetition transmission method of claim 1, wherein the attribution information for message repetition transmission includes information (targetOperation) that designates an operation method of message repetition transmission.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The message repetition transmission method of claim 1, wherein the attribute information for message repetition transmission includes information (nextForcedvalue) designating a value that is applied to next message repetition transmission.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The message repetition transmission method of claim 4, wherein, when the nextForcedvalue attribute information is updated in the first resource, next message repetition transmission is performed with a value designated by the nextForcedvalue attribute instead of a transmission value designated by the valueForRepetition attribute.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The message repetition transmission method of claim 1, wherein the attribution<!-- EPO <DP n="41"> --> information for message repetition transmission includes information (intervalRep) designating an interval at which a message repetition transmission operation is performed.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The message repetition transmission method of claim 1, wherein the attribution information for message repetition transmission includes information (repetitionDuration) designating a number of times a message repetition transmission operation is performed.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>The message repetition transmission method of claim 1, wherein the attribution information for message repetition transmission includes information (responseMode) that designates a method of receiving a response message.</claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>The message repetition transmission method of claim 1, wherein the first resource is a repeated creation resource (msgRepetition).</claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>The message repetition transmission method of claim 1, wherein the first resource includes a schedule resource as a child resource.</claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>The message repetition transmission method of claim 1, wherein the first resource is comprised under a message repetition transmission list resource (msgRepetitionList) that is a parent resource.</claim-text></claim>
+<claim id="c-en-0012" num="0012">
+<claim-text>The message repetition transmission method of claim 1, wherein the first resource is a subscription resource.</claim-text></claim>
+<claim id="c-en-0013" num="0013">
+<claim-text>The message repetition transmission method of claim 1, wherein the first resource is a group resource.</claim-text></claim>
+<claim id="c-en-0014" num="0014">
+<claim-text>The message repetition transmission method of claim 1 comprising, apart from the first resource, a second resource for managing message repetition transmission.<!-- EPO <DP n="42"> --></claim-text></claim>
+<claim id="c-en-0015" num="0015">
+<claim-text>The message repetition transmission method of claim 14, wherein the second resource is any one of a subscription resource and a group resource.</claim-text></claim>
+<claim id="c-en-0016" num="0016">
+<claim-text>A message repetition transmission method, the method comprising:
+<claim-text>receiving a request message that requests message repetition transmission;</claim-text>
+<claim-text>configuring, in response to the request message, a first resource that includes attribute information for message repetition transmission and is applied to message repetition transmission; and</claim-text>
+<claim-text>according to the configured first resource, performing message repetition transmission,</claim-text>
+<claim-text>wherein the attribute information for message repetition transmission includes at least information (targetResource) designating a target resource of message repetition transmission and information (valueForRepetition) designating a transmission value that is a message repetition transmission target.</claim-text></claim-text></claim>
+<claim id="c-en-0017" num="0017">
+<claim-text>A message retransmission method, the method comprising:
+<claim-text>setting attribute information for message retransmission;</claim-text>
+<claim-text>configuring a first resource that includes the set attribute information and is applied to message retransmission; and</claim-text>
+<claim-text>according to the configured first resource, performing message retransmission,</claim-text>
+<claim-text>wherein the attribute information for message retransmission includes at least information (maxNrOfRetransmission) designating a maximum number of times retransmission is performed and information (memberNotDelivered) designating a member to which a retransmitted message is not delivered.</claim-text></claim-text></claim>
+<claim id="c-en-0018" num="0018">
+<claim-text>The message retransmission method of claim 17 comprising:
+<claim-text>determining whether there is a failed node that fails to receive multicast transmission; and<!-- EPO <DP n="43"> --></claim-text>
+<claim-text>performing, for the failed node, retransmission up to a maximum number of retransmission times according to the information (maxNrOfRetransmission) designating the maximum number of times the retransmission is performed.</claim-text></claim-text></claim>
+<claim id="c-en-0019" num="0019">
+<claim-text>The message retransmission method of claim 18, wherein the performing of retransmission to the failed node retransmits by a unicast transmission method.</claim-text></claim>
+<claim id="c-en-0020" num="0020">
+<claim-text>The message retransmission method of claim 17, wherein the attribute information for message retransmission includes information (RetransmissionMode) that designates at least one of a unicast transmission method and an MBMS transmission method as a retransmission method.</claim-text></claim>
+<claim id="c-en-0021" num="0021">
+<claim-text>A message repetition transmission apparatus, the apparatus comprising:
+<claim-text>at least one or more processors;</claim-text>
+<claim-text>and at least one or more memories coupled to the at least one or more processors,</claim-text>
+<claim-text>wherein the at least one or more processors, which are operably coupled to the at least one or more memories and execute a program instruction stored in the at least one or more memories, set attribute information for message repetition transmission, configure a first resource that includes the set attribute information and is applied to message repetition transmission, and perform message repetition transmission according to the configured first resource, and</claim-text>
+<claim-text>wherein the attribute information for message repetition transmission includes at least information (targetResource) designating a target resource of message repetition transmission and information (valueForRepetition) designating a transmission value that is a message repetition transmission target.</claim-text></claim-text></claim>
+<claim id="c-en-0022" num="0022">
+<claim-text>A message repetition transmission apparatus, the apparatus comprising:
+<claim-text>at least one or more processors; and</claim-text>
+<claim-text>at least one or more memories coupled to the at least one or more processors,<!-- EPO <DP n="44"> --></claim-text>
+<claim-text>wherein the at least one or more processors, which are operably coupled to the at least one or more memories and execute a program instruction stored in the at least one or more memories, receive a request message that requests message repetition transmission, configure, in response to the request message, a first resource that includes attribute information for message repetition transmission and is applied to message repetition transmission, and perform message repetition transmission according to the configured first resource, and</claim-text>
+<claim-text>wherein the attribute information for message repetition transmission includes at least information (targetResource) designating a target resource of message repetition transmission and information (valueForRepetition) designating a transmission value that is a message repetition transmission target.</claim-text></claim-text></claim>
+<claim id="c-en-0023" num="0023">
+<claim-text>A message retransmission apparatus, the apparatus comprising:
+<claim-text>at least one or more processors; and</claim-text>
+<claim-text>at least one or more memories coupled to the at least one or more processors,</claim-text>
+<claim-text>wherein the at least one or more processors, which are operably coupled to the at least one or more memories and execute a program instruction stored in the at least one or more memories, set attribute information for message retransmission, configure a first resource that includes the set attribute information and is applied to message retransmission, and perform message retransmission according to the configured first resource, and</claim-text>
+<claim-text>wherein the attribute information for the message retransmission includes at least information (maxNrOfRetransmission) designating a maximum number of times retransmission is performed and information (memberNotDelivered) designating a member to which a retransmitted message is not delivered.</claim-text></claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="45"> -->
+<figure id="f0001" num="1,2"><img id="if0001" file="imgf0001.tif" wi="131" he="156" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="46"> -->
+<figure id="f0002" num="3"><img id="if0002" file="imgf0002.tif" wi="155" he="199" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="47"> -->
+<figure id="f0003" num="4"><img id="if0003" file="imgf0003.tif" wi="149" he="192" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="48"> -->
+<figure id="f0004" num="5"><img id="if0004" file="imgf0004.tif" wi="148" he="131" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="49"> -->
+<figure id="f0005" num="6,7"><img id="if0005" file="imgf0005.tif" wi="142" he="196" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="50"> -->
+<figure id="f0006" num="8"><img id="if0006" file="imgf0006.tif" wi="125" he="172" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="51"> -->
+<figure id="f0007" num="9"><img id="if0007" file="imgf0007.tif" wi="154" he="183" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="52"> -->
+<figure id="f0008" num="10"><img id="if0008" file="imgf0008.tif" wi="150" he="169" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="53"> -->
+<figure id="f0009" num="11"><img id="if0009" file="imgf0009.tif" wi="161" he="148" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="54"> -->
+<figure id="f0010" num="12"><img id="if0010" file="imgf0010.tif" wi="159" he="171" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="55"> -->
+<figure id="f0011" num="13"><img id="if0011" file="imgf0011.tif" wi="153" he="150" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="56"> -->
+<figure id="f0012" num="14"><img id="if0012" file="imgf0012.tif" wi="153" he="149" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="57"> -->
+<figure id="f0013" num="15"><img id="if0013" file="imgf0013.tif" wi="160" he="107" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="58"> -->
+<figure id="f0014" num="16"><img id="if0014" file="imgf0014.tif" wi="129" he="70" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="59"> -->
+<figure id="f0015" num="17"><img id="if0015" file="imgf0015.tif" wi="122" he="64" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="60"> -->
+<figure id="f0016" num="18"><img id="if0016" file="imgf0016.tif" wi="143" he="88" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="155" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="155" he="233" type="tif"/></search-report-data>
+</ep-patent-document>

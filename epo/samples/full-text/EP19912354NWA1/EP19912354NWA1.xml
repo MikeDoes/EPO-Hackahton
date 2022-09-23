@@ -1,0 +1,2277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19912354A1" file="EP19912354NWA1.xml" lang="en" country="EP" doc-number="3889282" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3889282</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19912354.8</B210><B220><date>20191018</date></B220><B240><B241><date>20210628</date></B241></B240><B250>ja</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>2019013797</B310><B320><date>20190130</date></B320><B330><ctry>JP</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>C22C  38/00        20060101AFI20200807BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C21D   9/46        20060101ALI20200807BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>C22C  38/14        20060101ALI20200807BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>C22C  38/60        20060101ALI20200807BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>C23C   2/06        20060101ALI20200807BHEP        </text></classification-ipcr><classification-ipcr sequence="6"><text>C23C   2/28        20060101ALI20200807BHEP        </text></classification-ipcr><classification-ipcr sequence="7"><text>C23C   2/40        20060101ALI20200807BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>C22C  38/00        20130101 LI20200827BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>C22C  38/60        20130101 LI20200827BCEP        </text></classification-cpc><classification-cpc sequence="3"><text>C22C  38/14        20130101 LI20200827BCEP        </text></classification-cpc><classification-cpc sequence="4"><text>C23C   2/28        20130101 LI20200827BCEP        </text></classification-cpc><classification-cpc sequence="5"><text>C21D   9/46        20130101 LI20200827BCEP        </text></classification-cpc><classification-cpc sequence="6"><text>C23C   2/06        20130101 LI20200827BCEP        </text></classification-cpc><classification-cpc sequence="7"><text>C23C   2/40        20130101 LI20200827BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>HOCHFESTES STAHLBLECH UND VERFAHREN ZUR HERSTELLUNG DAVON</B542><B541>en</B541><B542>HIGH-STRENGTH STEEL SHEET AND METHOD FOR PRODUCING SAME</B542><B541>fr</B541><B542>TÔLE D'ACIER HAUTE RÉSISTANCE ET PROCÉDÉ DE FABRICATION DE CELLE-CI</B542></B540></B500><B700><B710><B711><snm>JFE Steel Corporation</snm><iid>101159443</iid><irf>237 573 a/ses/fha</irf><adr><str>2-3, Uchisaiwai-cho 2-chome 
+Chiyoda-ku</str><city>Tokyo 100-0011</city><ctry>JP</ctry></adr></B711></B710><B720><B721><snm>YANG Lingling</snm><adr><str>c/o Intellectual Property Dept., JFE STEEL  
+CORPORATION, 2-3, Uchisaiwai-cho 2-chome, Chiyoda-
+ku</str><city>Tokyo 100-0011</city><ctry>JP</ctry></adr></B721><B721><snm>NAKAGAITO Tatsuya</snm><adr><str>c/o Intellectual Property Dept., JFE STEEL  
+CORPORATION, 2-3, Uchisaiwai-cho 2-chome, Chiyoda-
+ku</str><city>Tokyo 100-0011</city><ctry>JP</ctry></adr></B721><B721><snm>TAKEDA Yuki</snm><adr><str>c/o Intellectual Property Dept., JFE STEEL  
+CORPORATION, 2-3, Uchisaiwai-cho 2-chome, Chiyoda-
+ku</str><city>Tokyo 100-0011</city><ctry>JP</ctry></adr></B721></B720><B740><B741><snm>Hoffmann Eitle</snm><iid>100061036</iid><adr><str>Patent- und Rechtsanwälte PartmbB 
+Arabellastraße 30</str><city>81925 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>JP2019041132</anum></dnum><date>20191018</date></B861><B862>ja</B862></B860><B870><B871><dnum><pnum>WO2020158066</pnum></dnum><date>20200806</date><bnum>202032</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">A high-strength steel sheet that can improve the fatigue strength of a resistance spot welded portion is provided.</p>
+<p id="pa02" num="0002">A high-strength steel sheet that has a predetermined component composition, that has a steel microstructure in which an area percentage of ferrite ranges from 5% to 50% in a thickness cross-section in a rolling direction, a total area percentage of fresh martensite and retained γ ranges from 2% to 30%, each of the fresh martensite and the retained γ has an average grain size of 5 µm or less, and a ratio of the fresh martensite and the retained γ adjacent only to ferrite with respect to the fresh martensite and the retained γ from a surface to 200 µm in the thickness direction is 30% or less in total area percentage, and that has a yield strength of 550 MPa or more.</p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">Technical Field</heading>
+<p id="p0001" num="0001">The present invention relates to a high-strength steel sheet that is suitable for members to be used in transports, such as automobiles, has high workability, and has good fatigue properties even when subjected to repeated loads, and a method for producing the high-strength steel sheet.</p>
+<heading id="h0002">Background Art</heading>
+<p id="p0002" num="0002">In recent years, in the moving body industry, for example, in the automobile industry, from the perspective of protecting the global environment, improved fuel efficiency of automobiles has always been an important issue to reduce carbon dioxide (CO<sub>2</sub>) emission. To improve the fuel efficiency of automobiles, it is effective to decrease the weight of automotive bodies, and it is necessary to decrease the weight of automotive bodies while maintaining the strength of the automotive bodies. Weight reduction can be achieved by reinforcing a steel sheet used as a material for automotive components, simplifying the structure, and decreasing the number of components.</p>
+<p id="p0003" num="0003"><!-- EPO <DP n="2"> --> High-strength steel sheets with a yield strength of 550 MPa or more, however, typically contain large amounts of alloying elements required for reinforcement, and a heat-affected zone around a melted and solidified zone called a nugget has insufficient toughness particularly in resistance spot welding. Thus, when the shape of a welded portion is changed, the welded portion has a decreased fatigue strength. If the decrease in fatigue strength of welded portions can be reduced, the entire collision strength of automobiles can be sufficiently maintained. Although various techniques have been proposed, they are not directly focused on the fatigue strength of welded portions.</p>
+<p id="p0004" num="0004">Patent Literature 1 discloses a high-strength cold-rolled steel sheet excellent in weldability and workability and a method for producing the high-strength cold-rolled steel sheet. Patent Literature 2 discloses a high-strength thin steel sheet and a hot-dip galvanized steel sheet each having a tensile strength of 780 MPa or more and good bending fatigue properties, and methods for producing the high-strength thin steel sheet and the hot-dip galvanized steel sheet. Patent Literature 3 discloses a high-strength hot-dip galvanized steel sheet with a tensile strength of 980 MPa or more and with high workability, high weldability, and good fatigue properties, and a method for producing the<!-- EPO <DP n="3"> --> high-strength hot-dip galvanized steel sheet.</p>
+<heading id="h0003">Citation List</heading>
+<heading id="h0004">Patent Literature</heading>
+<p id="p0005" num="0005">
+<ul id="ul0001" list-style="none" compact="compact">
+<li>PTL 1: <patcit id="pcit0001" dnum="JP2016188395A"><text>Japanese Unexamined Patent Application Publication No. 2016-188395</text></patcit></li>
+<li>PTL 2: <patcit id="pcit0002" dnum="JP6292353B"><text>Japanese Patent No. 6292353</text></patcit></li>
+<li>PTL 3: <patcit id="pcit0003" dnum="JP4924730B"><text>Japanese Patent No. 4924730</text></patcit></li>
+</ul></p>
+<heading id="h0005">Summary of Invention</heading>
+<heading id="h0006">Technical Problem</heading>
+<p id="p0006" num="0006">The high-strength cold-rolled steel sheet disclosed in Patent Literature 1 is applied to a welded portion and a shock absorber. After a welded portion is changed in shape, however, the welded portion has a decreased fatigue strength and is finally broken, which leaves a problem in practical applications.</p>
+<p id="p0007" num="0007">The high-strength hot-dip galvanized steel sheets described in Patent Literature 2 and Patent Literature 3 are effective for conventional static tensile shearing. It is, however, more preferable to reduce the decrease in fatigue strength of a welded portion after the welded portion is changed in shape.</p>
+<p id="p0008" num="0008"><!-- EPO <DP n="4"> --> As described above, these known techniques have a problem in the fatigue strength of a welded portion when the welded portion is changed in shape, and the problem is practically avoided by using a reinforcing member. This significantly limits the weight reduction effect.</p>
+<p id="p0009" num="0009">The present invention advantageously solves these problems of the related art and aims to provide a high-strength steel sheet that can improve the fatigue strength of a resistance spot welded portion and a method for producing the high-strength steel sheet.</p>
+<heading id="h0007">Solution to Problem</heading>
+<p id="p0010" num="0010">To achieve these objects, the present inventors have extensively studied the fatigue strength of a resistance spot welded portion (hereinafter sometimes referred to simply as the fatigue strength of a welded portion), variously changed the microstructure before the thermal effects of welding were exerted in order to increase the toughness of a heat-affected zone, and have obtained the following knowledge.
+<ol id="ol0001" compact="compact" ol-style="">
+<li>(1) Cracking due to a decrease in fatigue strength of a spot welded portion after the welded portion is changed in shape can be suppressed by controlling the steel microstructure in the rolling direction such that the<!-- EPO <DP n="5"> --> microstructure contains 2% to 30% of fresh martensite and retained γ in total, the total area percentage of the fresh martensite and the retained γ ranges from 2% to 30%, each of the fresh martensite and the retained γ has an average grain size of 5 µm or less, and the ratio of the fresh martensite and the retained γ adjacent only to ferrite with respect to the fresh martensite and the retained γ from the surface layer to a portion with a thickness of 200 µm in the thickness direction is 30% or less in total area percentage.</li>
+<li>(2) In a heat-affected zone, due to a difference in hardness of the microstructure, voids are easily formed at the interface between fresh martensite and ferrite, and voids are connected and cause a crack around a nugget. Thus, the total area percentage of fresh martensite and retained γ adjacent only to ferrite can be controlled to suppress the formation of voids. Fine fresh martensite can prevent the development of formed cracks.</li>
+</ol></p>
+<p id="p0011" num="0011">More specifically, the present invention provides the following.
+<ol id="ol0002" compact="compact" ol-style="">
+<li>[1] A high-strength steel sheet that has a component composition containing, on a mass percent basis:<br/>
+C: 0.07% to 0.25%, Si: 0.01% to 1.80%, Mn: 1.8% to 3.2%, P: 0.05% or less, S: 0.02% or less, Al: 0.01% to 2.0%, and N: 0.01% or less, at least one of B: 0.0001% to 0.005%,<!-- EPO <DP n="6"> --> Ti: 0.005% to 0.04%, and Nb: 0.005% to 0.06%, and a balance being Fe and incidental impurities,
+<ul id="ul0002" list-style="none" compact="compact">
+<li>that has a steel microstructure in which an area percentage of ferrite ranges from 5% to 50% in a thickness cross-section in a rolling direction, a total area percentage of fresh martensite and retained γ ranges from 2% to 30%, each of the fresh martensite and the retained γ has an average grain size of 5 µm or less, and a ratio of the fresh martensite and the retained γ adjacent only to ferrite with respect to the fresh martensite and the retained γ from a surface to 200 µm in the thickness direction is 30% or less in total area percentage, and</li>
+<li>that has a yield strength of 550 MPa or more.</li>
+</ul></li>
+<li>[2] The high-strength steel sheet according to [1], further containing: in addition to the component composition, at least one of Mo: 0.03% to 0.50% and Cr: 0.1% to 1.0% in a total of 1% or less on a mass percent basis.</li>
+<li>[3] The high-strength steel sheet according to [1] or [2], further containing: in addition to the component composition, a total of 0.5% or less of at least one of Cu, Ni, Sn, As, Sb, Ca, Mg, Pb, Co, Ta, W, REM, Zn, V, Sr, Cs, and Hf on a mass percent basis.</li>
+<li>[4] The high-strength steel sheet according to any one of [1] to [3], further including a coated layer on a surface of the steel sheet.<!-- EPO <DP n="7"> --></li>
+<li>[5] The high-strength steel sheet according to [4], wherein the coated layer is a hot-dip galvanized layer or a galvannealed layer.</li>
+<li>[6] A method for producing a high-strength steel sheet, including:
+<ul id="ul0003" list-style="none" compact="compact">
+<li>a hot-rolling step of hot-rolling a steel slab with the component composition according to any one of [1] to [3], cooling the hot-rolled steel sheet at an average cooling rate in the range of 10°C/s to 30°C/s, and coiling the hot-rolled steel sheet at a coiling temperature in the range of 400°C to 700°C;</li>
+<li>a cold-rolling step of cold-rolling the hot-rolled steel sheet formed in the hot-rolling step; and</li>
+<li>an annealing step of heating the cold-rolled steel sheet formed in the cold-rolling step to an annealing temperature at an average heating rate of 13°C/s or more in the temperature range of 600°C to 700°C, then annealing the cold-rolled steel sheet in an annealing temperature range of 750°C to 900°C for an annealing time in the range of 30 to 200 seconds, reverse bending the cold-rolled steel sheet with a roll 800 mm or less in radius 7 to 13 times in total while annealing, cooling the cold-rolled steel sheet from the annealing temperature to a temperature range of 200°C to 340°C at an average cooling rate of 10°C/s or more, reheating the cold-rolled steel sheet to a temperature range of 350°C<!-- EPO <DP n="8"> --> to 600°C, and holding the temperature for 10 to 300 seconds.</li>
+</ul></li>
+<li>[7] The method for producing a high-strength steel sheet according to [6], further including a coating step of performing a coating treatment after the annealing step.</li>
+<li>[8] The method for producing a high-strength steel sheet according to [7], wherein the coating treatment is a hot-dip galvanizing treatment or a galvannealing treatment. Advantageous Effects of Invention</li>
+</ol></p>
+<p id="p0012" num="0012">The present invention can provide a high-strength steel sheet that can improve the fatigue strength of a resistance spot welded portion.</p>
+<p id="p0013" num="0013">The high-strength in the present invention refers to a yield strength (yield point, YP) of 550 MPa or more. Description of Embodiments</p>
+<p id="p0014" num="0014">The present invention is specifically described below. The present invention is not limited to the following embodiments.</p>
+<p id="p0015" num="0015">A steel sheet according to the present invention has a particular component composition and a particular steel microstructure. Thus, a steel sheet according to the present invention is described below in the order of the<!-- EPO <DP n="9"> --> component composition and steel microstructure.</p>
+<p id="p0016" num="0016">A steel sheet according to the present invention has the following component composition. The unit "%" of the component content in the following description means "% by mass".</p>
+<heading id="h0008">C: 0.07% to 0.25%</heading>
+<p id="p0017" num="0017">C is an element necessary to form martensite and increase strength. A C content of less than 0.07% results in martensite with low hardness and a yield strength of less than 550 MPa. On the other hand, a C content of more than 0.25% results in the formation of a large amount of cementite in a heat-affected zone, which decreases the toughness of a martensite portion in the heat-affected zone and decreases the fatigue strength of a welded portion. Thus, the C content ranges from 0.07% to 0.25%, preferably 0.09% or more, preferably 0.20% or less, more preferably 0.11% or more, preferably 0.16% or less.</p>
+<heading id="h0009">Si: 0.01% to 1.80%</heading>
+<p id="p0018" num="0018">Si is an element that increases the hardness of steel sheets by solid-solution strengthening. To consistently ensure high yield strength, the Si content should be 0.01% or more. A Si content of more than 1.80%, however, results<!-- EPO <DP n="10"> --> in a welded portion with low toughness and a welded portion with low fatigue strength. Thus, the upper limit is 1.80%. Preferably, 0.3% or more, preferably 1.6% or less.</p>
+<heading id="h0010">Mn: 1.8% to 3.2%</heading>
+<p id="p0019" num="0019">Mn is an element that increases the hardness of steel sheets by solid-solution strengthening. Mn is also an element that suppresses ferrite transformation and bainite transformation, forms martensite, and thereby increases the strength of the material. To consistently ensure high yield strength, the Mn content should be 1.8% or more. An increased amount of Mn, however, results in the formation of cementite by tempering, a heat-affected zone with low toughness, and a welded portion with low fatigue strength. Thus, the upper limit of Mn is 3.2%. Preferably, 2.3% or more, preferably 3.0% or less.</p>
+<heading id="h0011">P: 0.05% or less</heading>
+<p id="p0020" num="0020">P segregates at grain boundaries and reduces workability. Thus, the P content is 0.05% or less, preferably 0.03% or less, more preferably 0.02% or less. Although not particularly specified, the lower limit is preferably 0.0005% or more from the perspective of the economic efficiency of melting.<!-- EPO <DP n="11"> --></p>
+<heading id="h0012">S: 0.02% or less</heading>
+<p id="p0021" num="0021">S binds to Mn and forms coarse MnS, which reduces toughness. Thus, the S content is preferably minimized and may be 0.02% or less, preferably 0.01% or less, more preferably 0.002% or less. Although not particularly specified, the lower limit is preferably 0.0005% or more from the perspective of the economic efficiency of melting.</p>
+<heading id="h0013">Al: 0.01% to 2.0%</heading>
+<p id="p0022" num="0022">Al is an element that acts as a deoxidizer. Deoxidation is important because a large amount of oxide in steel reduces toughness. Al may suppress the precipitation of cementite, and the Al content should be 0.01% or more to produce this effect. An Al content of more than 2.0%, however, results in the formation of coarse oxide or nitride aggregates, which reduce toughness. Thus, the Al content is 2.0% or less. Preferably 0.03% or more, preferably 0.1% or less.</p>
+<heading id="h0014">N: 0.01% or less</heading>
+<p id="p0023" num="0023">In the present invention, N is a harmful element and is preferably minimized. N binds to Ti and forms TiN. A N content of more than 0.01% results in an increased amount of TiN formed, which reduces the toughness of a welded portion. Thus, the N content is 0.01% or less, preferably 0.006% or<!-- EPO <DP n="12"> --> less. Although not particularly specified, the lower limit is preferably 0.0005% or more from the perspective of the economic efficiency of melting.</p>
+<p id="p0024" num="0024">At least one of B: 0.0001% to 0.005%, Ti: 0.005% to 0.04%, and Nb: 0.005% to 0.06%</p>
+<heading id="h0015">B: 0.0001% to 0.005%</heading>
+<p id="p0025" num="0025">B strengthens grain boundaries and is therefore an element necessary to improve toughness. To sufficiently produce this effect, the B content should be 0.0001% or more. At a B content of more than 0.005%, however, B forms Fe<sub>23</sub>(CB)<sub>6</sub> and reduces toughness. Thus, the B content is limited to the range of 0.0001% to 0.005%.</p>
+<heading id="h0016">Ti: 0.005% to 0.04%</heading>
+<p id="p0026" num="0026">Ti binds to N, forms a nitride, suppresses the formation of BN, induces the effects of B, forms TiN and makes crystal grains finer, and improves toughness. To produce these effects, the Ti content should be 0.005% or more. These effects are saturated at a content of more than 0.04%. Furthermore, a content of more than 0.04% results in increased rolling load, which makes it difficult to consistently produce a steel sheet. Thus, the Ti content is limited to the range of 0.005% to 0.04%.<!-- EPO <DP n="13"> --></p>
+<heading id="h0017">Nb: 0.005% to 0.06%</heading>
+<p id="p0027" num="0027">Nb is an element that further enhances the advantages of the present invention. Nb decreases the size of martensite, prevents coarsening of crystal grains in a heat-affected zone, and improves the toughness of the heat-affected zone. To produce these effects, the Nb content should be 0.005% or more. A Nb content of more than 0.06%, however, results in the precipitation of Nb carbide and low toughness. Thus, the Nb content is limited to 0.06% or less, preferably 0.01% or more, preferably 0.04% or less.</p>
+<p id="p0028" num="0028">These are base components. A high-strength steel sheet according to the present invention has a component composition that contains the base components and the remainder containing Fe (iron) and incidental impurities other than the base components. A high-strength steel sheet according to the present invention preferably has a component composition that contains the base components and the remainder composed of Fe and incidental impurities.</p>
+<p id="p0029" num="0029">A high-strength steel sheet according to the present invention may contain the following components as optional components in addition to the above component composition.</p>
+<p id="p0030" num="0030">A high-strength steel sheet according to the present<!-- EPO <DP n="14"> --> invention may contain at least one of Mo: 0.03% to 0.50% and Cr: 0.1% to 1.0% in a total of 1% or less as an optional element in addition to the above component composition.</p>
+<heading id="h0018">Mo: 0.03% to 0.50%</heading>
+<p id="p0031" num="0031">Mo promotes the nucleation of austenite and makes martensite finer. To produce these effects, Mo, if present, constitutes 0.03% or more. Segregation of Mo at grain boundaries stops the grain growth of ferrite and decreases the ferrite fraction. To prevent this, Mo, if present, constitutes 0.50% or less, more preferably 0.30% or less.</p>
+<heading id="h0019">Cr: 0.1% to 1.0%</heading>
+<p id="p0032" num="0032">Cr is an element that has the effect of suppressing temper embrittlement. Thus, Cr further enhances the advantages of the present invention. Thus, Cr, if present, constitutes 0.1% or more. A Cr content of more than 1.0%, however, results in the formation of Cr carbide and reduces the toughness of a heat-affected zone. Thus, Cr, if present, constitutes 1.0% or less.</p>
+<p id="p0033" num="0033">A high-strength steel sheet according to the present invention may further contain, as an optional element, a total of 0.5% or less, preferably 0.1% or less, more preferably 0.03% or less, of at least one of Cu, Ni, Sn, As,<!-- EPO <DP n="15"> --> Sb, Ca, Mg, Pb, Co, Ta, W, REM, Zn, V, Sr, Cs, and Hf, in addition to the above component composition.</p>
+<p id="p0034" num="0034">Although the component composition of a high-strength steel sheet according to the present invention is described above, to produce the desired advantages of the present invention, it is insufficient to only adjust the component composition in the above ranges, and it is important to control the steel microstructure to satisfy specific ranges.</p>
+<p id="p0035" num="0035">A steel microstructure in the present invention is described below. A steel microstructure in the present invention is a microstructure in a thickness cross-section in the rolling direction.</p>
+<heading id="h0020">Area percentage of ferrite: 5% to 50%</heading>
+<p id="p0036" num="0036">Ferrite has an effect of improving toughness. To produce such an effect, the area percentage is 5% or more. An area percentage of ferrite above 50%, however, results in a yield strength of less than 550 MPa. Thus, the area percentage of ferrite ranges from 5% to 50%. Preferably 10% or more, preferably 40% or less.</p>
+<p id="p0037" num="0037">Total area percentage of fresh martensite and retained γ: 2% to 30%<!-- EPO <DP n="16"> --> Fresh martensite is a hard phase and has an effect of increasing the strength of a steel sheet. Retained γ in the present invention is transformed to fresh martensite even by a small amount of strain. Thus, the total area percentage of fresh martensite and retained γ should be 2% or more to achieve the yield strength of 550 MPa. At an area percentage of more than 30%, however, the interface between fresh martensite and ferrite acts as a starting point for void formation and causes a crack. Thus, the total area percentage of fresh martensite and retained γ ranges from 2% to 30%, preferably 3% or more, preferably 25% or less.</p>
+<p id="p0038" num="0038">Fresh martensite cannot be distinguished from retained γ with a scanning electron microscope. Thus, in the present invention, the total area percentage of fresh martensite and retained γ is the area percentage of the microstructure without cementite in grains and with a higher contrast than the ferrite phase when observed with a scanning electron microscope at a magnification of 3000 times.</p>
+<p id="p0039" num="0039">Average grain size of each of fresh martensite and retained γ: 5 µm or less</p>
+<p id="p0040" num="0040">Fine fresh martensite and retained γ can prevent the development of formed cracks. To obtain such a result, each of fresh martensite and retained γ should have an average<!-- EPO <DP n="17"> --> grain size of 5 µm or less, preferably 3 µm or less. The lower limit is preferably, but is not limited to, 1 µm or more.</p>
+<p id="p0041" num="0041">Ratio of fresh martensite and retained γ adjacent only to ferrite with respect to fresh martensite and retained γ from surface to 200 µm in thickness direction: 30% or less in total area percentage</p>
+<p id="p0042" num="0042">Due to a difference in hardness of the microstructure, voids are easily formed at the interface between fresh martensite and ferrite, and voids are connected and cause a crack around a nugget. To prevent the formation of voids, the total area percentage of fresh martensite and retained γ adjacent to only ferrite should be 30% or less. A crack tends to occur from the surface. Thus, to prevent cracking, the surface to 200 µm in the thickness direction was chosen.</p>
+<p id="p0043" num="0043">Residual microstructures include tempered martensite, bainite, and pearlite and may constitute 93% or less. Tempered martensite may range from 40% to 85%. Bainite and pearlite may be 16% or less in total.</p>
+<p id="p0044" num="0044">A high-strength steel sheet according to the present invention may have a coated layer. The coated layer may be of any type. Examples include hot-dip galvanized layers and<!-- EPO <DP n="18"> --> galvannealed layers. In the presence of a coated layer, a surface specified in the present invention refers to an interface between the coated layer and a steel sheet.</p>
+<p id="p0045" num="0045">A method for producing a high-strength steel sheet according to the present invention is described below.</p>
+<p id="p0046" num="0046">A method for producing a high-strength steel sheet according to the present invention includes a hot-rolling step, a cold-rolling step, and an annealing step. When a high-strength steel sheet according to the present invention has a coated layer, a coating step is further included. Each of these steps is described below.</p>
+<p id="p0047" num="0047">The hot-rolling step is the step of hot-rolling a steel slab with the above component composition, cooling the steel sheet at an average cooling rate in the range of 10°C/s to 30°C/s, and coiling the steel sheet at a coiling temperature in the range of 400°C to 700°C.</p>
+<p id="p0048" num="0048">In the present invention, steel can be melted by any method, for example, by a known melting method using a converter or an electric furnace. After the melting process, in consideration of problems, such as segregation, a steel slab (steel) is preferably produced by a continuous<!-- EPO <DP n="19"> --> casting process. A steel slab may also be produced by a known casting process, such as an ingot making and blooming process or a thin slab continuous casting process. When the steel slab is hot-rolled after casting, the steel slab may be reheated in a furnace before rolling or may be directly rolled without being heated if a predetermined temperature or higher is maintained.</p>
+<p id="p0049" num="0049">The steel thus produced is subjected to hot rolling including rough rolling and finish rolling. In the present invention, carbide in the steel is preferably dissolved before rough rolling. Thus, the steel slab is preferably heated to 1100°C or more to dissolve carbide or prevent an increase in rolling force. The steel slab is preferably heated to 1300°C or less to prevent an increase in scale loss. As described above, when the steel before rough rolling has a predetermined temperature or more and when carbide in the steel is dissolved, the steel is not necessarily heated before rough rolling. The rough rolling conditions are not particularly limited. The finish rolling is also not particularly limited.</p>
+<heading id="h0021">Average cooling rate after hot rolling: 10°C/s to 30°C/s</heading>
+<p id="p0050" num="0050">When the average cooling rate to the coiling temperature after hot rolling is less than 10°C/s, ferrite<!-- EPO <DP n="20"> --> grains do not grow, and the heat-affected zone has low toughness. On the other hand, when the average cooling rate is more than 30°C/s, ferrite grains grow excessively, and the strength is decreased. Thus, the average cooling rate ranges from 10°C/s to 30°C/s, preferably 15°C or more, preferably 25°C/s or less.</p>
+<heading id="h0022">Coiling temperature: 400°C to 700°C</heading>
+<p id="p0051" num="0051">A coiling temperature of less than 400°C results in the formation of a low-temperature transformed phase, such as bainite, and softening in a weld heat-affected zone. On the other hand, a coiling temperature of more than 700°C results in an increased ferrite grain size and a ferrite area percentage of 50% or more. Thus, the coiling temperature ranges from 400°C to 700°C, preferably 450°C or more, preferably 650°C or less.</p>
+<p id="p0052" num="0052">The cold-rolling step is then performed. The cold-rolling step is the step of cold-rolling the hot-rolled steel sheet formed by the above method.</p>
+<p id="p0053" num="0053">In the cold-rolling step, the rolling reduction is not particularly limited. For example, the rolling reduction is preferably adjusted in the range of 30% to 80%.</p>
+<p id="p0054" num="0054"><!-- EPO <DP n="21"> --> The annealing step is then performed. The annealing step is the step of heating the cold-rolled steel sheet formed in the cold-rolling step to an annealing temperature at an average heating rate of 13°C/s or more in the temperature range of 600°C to 700°C, then annealing the cold-rolled steel sheet in an annealing temperature range of 750°C to 900°C for an annealing time in the range of 30 to 200 seconds, reverse bending the cold-rolled steel sheet with a roll 800 mm or less in radius 7 to 13 times in total while annealing, cooling the cold-rolled steel sheet from the annealing temperature to a temperature range of 200°C to 340°C at an average cooling rate of 10°C/s or more, reheating the cold-rolled steel sheet to a temperature range of 350°C to 600°C, and holding the temperature for 10 to 300 seconds.</p>
+<p id="p0055" num="0055">Heating conditions in annealing: heating to the annealing temperature at an average heating rate of 13°C/s or more in the temperature range of 600°C to 700°C</p>
+<p id="p0056" num="0056">In the temperature range of 600°C to the annealing temperature, rapid heating promotes austenite nucleation during reverse transformation and makes fresh martensite and retained γ finer. In the present invention, the average heating rate from 600°C to 700°C is 13°C/s or more so that each of fresh martensite and retained γ has an average grain size of 5 µm or less. The average heating rate from more<!-- EPO <DP n="22"> --> than 700°C to the annealing temperature is not particularly limited.</p>
+<heading id="h0023">Annealing in annealing temperature range of 750°C to 900°C for annealing time in the range of 30 to 200 seconds</heading>
+<p id="p0057" num="0057">An annealing temperature of less than 750°C or a holding time of less than 30 seconds results in low toughness due to residual unrecrystallized grains. On the other hand, an annealing temperature of more than 900°C results in an increased fraction of fresh martensite and retained γ, an increased tempered region, and a heat-affected zone with low toughness. An annealing time of more than 200 seconds may result in low ductility and toughness due to a large amount of precipitated iron carbide. Thus, the annealing temperature ranges from 750°C to 900°C, preferably 800°C or more, preferably 900°C or less. The holding time ranges from 30 to 200 seconds, preferably 50 seconds or more, preferably 150 seconds or less.</p>
+<heading id="h0024">Reverse bending with a roll 800 mm or less in radius 7 to 13 times in total while annealing</heading>
+<p id="p0058" num="0058">A desired microstructure cannot be formed only by simple annealing. To adjust the ratio of fresh martensite and retained γ adjacent only to ferrite with respect to fresh martensite and retained γ from the surface layer to<!-- EPO <DP n="23"> --> 200 µm in the thickness direction to 30% or less in total area percentage, it is necessary to perform reverse bending with a roll 800 mm or less in radius 7 to 13 times in total while annealing (in the annealing temperature range of 750°C to 900°C for 30 to 200 seconds). When the number of times of reverse bending is less than 7 or more than 13, the ratio of fresh martensite and retained γ adjacent only to ferrite with respect to fresh martensite and retained γ is more than 30% in total area percentage. Thus, the number of times of reverse bending ranges from 7 to 13, preferably 8 to 12.</p>
+<p id="p0059" num="0059">The number of times of reverse bending is not the number of reverse bending cycles but the sum of the number of times of bending and the number of times of unbending. The roll size is preferably 700 mm or less in radius. The roll size is preferably 200 mm or more in radius. Now, the term "reverse bending" means bending in one direction, and bending in the opposite direction repeatedly.</p>
+<heading id="h0025">Average cooling rate from annealing temperature to temperature range of 200°C to 340°C: 10°C/s or more</heading>
+<p id="p0060" num="0060">An average cooling rate of less than 10°C/s results in the growth of ferrite grains and an area percentage of ferrite above 50% and therefore results in a heat-affected zone with low toughness. Cooling from the annealing temperature to a temperature range of less than 200°C<!-- EPO <DP n="24"> --> results in a decreased total area percentage of fresh martensite and retained γ. On the other hand, cooling to a temperature range of more than 340°C results in an increased total area percentage of fresh martensite and tends to result in the formation of cracks. Thus, the average cooling rate from the annealing temperature to the temperature range of 200°C to 340°C is 10°C/s or more.</p>
+<heading id="h0026">Reheating temperature: 350°C to 600°C, reheating time: 10 to 300 seconds</heading>
+<p id="p0061" num="0061">Reheating in a temperature range of less than 350°C results in a total area percentage of fresh martensite and retained γ below 2% and tends to result in the formation of cracks. On the other hand, reheating at more than 600°C or for less than 10 seconds results in an increased area percentage of ferrite from the surface layer to 200 µm in the thickness direction and a total area percentage of fresh martensite and retained γ adjacent only to ferrite above 30%. A reheating time of more than 300 seconds is undesirable in terms of productivity and results in promoted bainite transformation and a decreased strength. Thus, the reheating temperature ranges from 350°C to 600°C, and the holding time ranges from 10 to 300 seconds.</p>
+<p id="p0062" num="0062">The annealing step may be followed by a coating step of<!-- EPO <DP n="25"> --> coating the surface of the steel sheet. As described above, the coated layer may be of any type in the present invention. Thus, the coating treatment may also be of any type. Examples include a hot-dip galvanizing treatment and a coating treatment including alloying after the hot-dip galvanizing treatment.</p>
+<heading id="h0027">EXAMPLES</heading>
+<p id="p0063" num="0063">Slabs with component compositions listed in Table 1 were subjected to hot rolling, cold rolling, and annealing under the conditions listed in Table 2 to produce steel sheets. The roll size for reverse bending in the annealing step was 425 mm in radius. The steel sheets produced under the conditions listed in Table 2 were immersed in a coating bath to form 20 to 80 g/m<sup>2</sup> of a hot-dip galvanized layer. Part of the steel sheets were subjected to an alloying treatment after the formation of the hot-dip galvanized layer to form galvannealed steel sheets. The material classes are also listed in Table 2. The coating treatment was followed by cooling. Examination methods are described below.<!-- EPO <DP n="26"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>[Table 1]</title>
+<tgroup cols="12">
+<colspec colnum="1" colname="col1" colwidth="27mm"/>
+<colspec colnum="2" colname="col2" colwidth="12mm"/>
+<colspec colnum="3" colname="col3" colwidth="12mm"/>
+<colspec colnum="4" colname="col4" colwidth="10mm"/>
+<colspec colnum="5" colname="col5" colwidth="10mm"/>
+<colspec colnum="6" colname="col6" colwidth="12mm"/>
+<colspec colnum="7" colname="col7" colwidth="10mm"/>
+<colspec colnum="8" colname="col8" colwidth="12mm"/>
+<colspec colnum="9" colname="col9" colwidth="12mm"/>
+<colspec colnum="10" colname="col10" colwidth="10mm"/>
+<colspec colnum="11" colname="col11" colwidth="12mm"/>
+<colspec colnum="12" colname="col12" colwidth="31mm"/>
+<thead>
+<row>
+<entry morerows="1" align="center" valign="top">Steel designation</entry>
+<entry namest="col2" nameend="col12" align="center" valign="top">Component composition (mass%)</entry></row>
+<row>
+<entry align="center" valign="top">C</entry>
+<entry align="center" valign="top">Si</entry>
+<entry align="center" valign="top">Mn</entry>
+<entry align="center" valign="top">P</entry>
+<entry align="center" valign="top">S</entry>
+<entry align="center" valign="top">Al</entry>
+<entry align="center" valign="top">N</entry>
+<entry align="center" valign="top">B</entry>
+<entry align="center" valign="top">Ti</entry>
+<entry align="center" valign="top">Nb</entry>
+<entry align="center" valign="top">Others</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">A</entry>
+<entry align="center">0.134</entry>
+<entry align="center">0.62</entry>
+<entry align="center">2.68</entry>
+<entry align="center">0.01</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.04</entry>
+<entry align="center">0.002</entry>
+<entry align="center">0.002</entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.018</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">B</entry>
+<entry align="center">0.121</entry>
+<entry align="center">0.68</entry>
+<entry align="center">2.52</entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.03</entry>
+<entry align="center">0.004</entry>
+<entry align="center">0.002</entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.012</entry>
+<entry align="center">Sn:0.002,Cu:0.02</entry></row>
+<row>
+<entry align="center">C</entry>
+<entry align="center">0.145</entry>
+<entry align="center">0.05</entry>
+<entry align="center">2.12</entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.002</entry>
+<entry align="center">0.04</entry>
+<entry align="center">0.003</entry>
+<entry align="center">-</entry>
+<entry align="center">0.03</entry>
+<entry align="center">-</entry>
+<entry align="center">V:0.005</entry></row>
+<row>
+<entry align="center"><u>D</u></entry>
+<entry align="center"><u>0.058</u></entry>
+<entry align="center">1.20</entry>
+<entry align="center">2.50</entry>
+<entry align="center">0.01</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.05</entry>
+<entry align="center">0.004</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.012</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">E</entry>
+<entry align="center">0.126</entry>
+<entry align="center">0.58</entry>
+<entry align="center">2.68</entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.003</entry>
+<entry align="center">0.04</entry>
+<entry align="center">0.004</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.03</entry>
+<entry align="center">0.028</entry>
+<entry align="center">Cr:0.12</entry></row>
+<row>
+<entry align="center">F</entry>
+<entry align="center">0.086</entry>
+<entry align="center">1.10</entry>
+<entry align="center">3.12</entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.04</entry>
+<entry align="center">0.005</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.01</entry>
+<entry align="center">0.011</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">G</entry>
+<entry align="center">0.121</entry>
+<entry align="center">1.71</entry>
+<entry align="center">2.56</entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.018</entry>
+<entry align="center">0.03</entry>
+<entry align="center">0.007</entry>
+<entry align="center">0.003</entry>
+<entry align="center">0.01</entry>
+<entry align="center">0.011</entry>
+<entry align="center">Ni:0.011</entry></row>
+<row>
+<entry align="center">H</entry>
+<entry align="center">0.127</entry>
+<entry align="center">0.65</entry>
+<entry align="center">2.79</entry>
+<entry align="center">0.01</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.03</entry>
+<entry align="center">0.003</entry>
+<entry align="center">0.002</entry>
+<entry align="center">0.01</entry>
+<entry align="center">0.015</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">I</entry>
+<entry align="center">0.115</entry>
+<entry align="center">1.52</entry>
+<entry align="center">2.71</entry>
+<entry align="center">0.01</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.04</entry>
+<entry align="center">0.004</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.02</entry>
+<entry align="center">-</entry>
+<entry align="center">Mo:0.04</entry></row>
+<row>
+<entry align="center"><u>J</u></entry>
+<entry align="center"><u>0.256</u></entry>
+<entry align="center">0.72</entry>
+<entry align="center">1.96</entry>
+<entry align="center">0.01</entry>
+<entry align="center">0.002</entry>
+<entry align="center">0.03</entry>
+<entry align="center">0.003</entry>
+<entry align="center">0.002</entry>
+<entry align="center">0.02</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center"><u>K</u></entry>
+<entry align="center">0.101</entry>
+<entry align="center">0.65</entry>
+<entry align="center"><u>1.64</u></entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.003</entry>
+<entry align="center">0.05</entry>
+<entry align="center">0.006</entry>
+<entry align="center">0.002</entry>
+<entry align="center">0.01</entry>
+<entry align="center">0.045</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">L</entry>
+<entry align="center">0.119</entry>
+<entry align="center">0.63</entry>
+<entry align="center">2.46</entry>
+<entry align="center">0.01</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.03</entry>
+<entry align="center">0.004</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.022</entry>
+<entry align="center">Pb:0.004,Cs:0.005</entry></row>
+<row>
+<entry align="center"><u>M</u></entry>
+<entry align="center">0.125</entry>
+<entry align="center"><u>2.05</u></entry>
+<entry align="center">2.64</entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.002</entry>
+<entry align="center">0.03</entry>
+<entry align="center">0.005</entry>
+<entry align="center">0.003</entry>
+<entry align="center">0.01</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center"><u>N</u></entry>
+<entry align="center">0.134</entry>
+<entry align="center"><u>0.006</u></entry>
+<entry align="center">2.52</entry>
+<entry align="center">0.01</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.05</entry>
+<entry align="center">0.003</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.03</entry>
+<entry align="center">0.032</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">O</entry>
+<entry align="center">0.125</entry>
+<entry align="center">0.79</entry>
+<entry align="center">2.62</entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.002</entry>
+<entry align="center">0.03</entry>
+<entry align="center">0.005</entry>
+<entry align="center">0.004</entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.021</entry>
+<entry align="center">Ta:0.002,Hf:0.004</entry></row>
+<row>
+<entry align="center"><u>P</u></entry>
+<entry align="center">0.095</entry>
+<entry align="center">0.62</entry>
+<entry align="center"><u>3.41</u></entry>
+<entry align="center">0.01</entry>
+<entry align="center">0.002</entry>
+<entry align="center">0.04</entry>
+<entry align="center">0.004</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.026</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">Q</entry>
+<entry align="center">0.105</entry>
+<entry align="center">0.75</entry>
+<entry align="center">2.62</entry>
+<entry align="center">0.01</entry>
+<entry align="center">0.015</entry>
+<entry align="center">0.05</entry>
+<entry align="center">0.004</entry>
+<entry align="center">0.002</entry>
+<entry align="center">0.02</entry>
+<entry align="center">-</entry>
+<entry align="center">As:0.006,Mo:0.09</entry></row>
+<row>
+<entry align="center">R</entry>
+<entry align="center">0.115</entry>
+<entry align="center">0.63</entry>
+<entry align="center">2.58</entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.04</entry>
+<entry align="center">0.005</entry>
+<entry align="center">0.004</entry>
+<entry align="center">0.03</entry>
+<entry align="center">0.015</entry>
+<entry align="center">REM:0.24</entry></row>
+<row>
+<entry align="center">S</entry>
+<entry align="center">0.117</entry>
+<entry align="center">0.60</entry>
+<entry align="center">2.55</entry>
+<entry align="center">0.01</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.06</entry>
+<entry align="center">0.003</entry>
+<entry align="center">0.002</entry>
+<entry align="center">0.01</entry>
+<entry align="center">0.015</entry>
+<entry align="center">W:0.006</entry></row>
+<row>
+<entry align="center">T</entry>
+<entry align="center">0.128</entry>
+<entry align="center">0.75</entry>
+<entry align="center">2.25</entry>
+<entry align="center">0.01</entry>
+<entry align="center">0.002</entry>
+<entry align="center">0.03</entry>
+<entry align="center">0.005</entry>
+<entry align="center">0.004</entry>
+<entry align="center">0.02</entry>
+<entry align="center">-</entry>
+<entry align="center">Zn:0.08,V:0.05</entry></row>
+<row>
+<entry align="center">U</entry>
+<entry align="center">0.109</entry>
+<entry align="center">0.86</entry>
+<entry align="center">2.45</entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.003</entry>
+<entry align="center">0.09</entry>
+<entry align="center">0.004</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.03</entry>
+<entry align="center">0.012</entry>
+<entry align="center">Ca:0.003</entry></row>
+<row>
+<entry align="center">V</entry>
+<entry align="center">0.124</entry>
+<entry align="center">1.62</entry>
+<entry align="center">2.65</entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.002</entry>
+<entry align="center">0.04</entry>
+<entry align="center">0.007</entry>
+<entry align="center">0.004</entry>
+<entry align="center">0.03</entry>
+<entry align="center">0.025</entry>
+<entry align="center">Co:0.015</entry></row>
+<row>
+<entry align="center">W</entry>
+<entry align="center">0.124</entry>
+<entry align="center">0.24</entry>
+<entry align="center">2.51</entry>
+<entry align="center">0.01</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.06</entry>
+<entry align="center">0.003</entry>
+<entry align="center">0.005</entry>
+<entry align="center">0.03</entry>
+<entry align="center">0.012</entry>
+<entry align="center">Sb:0.003</entry></row>
+<row>
+<entry align="center">X</entry>
+<entry align="center">0.119</entry>
+<entry align="center">0.58</entry>
+<entry align="center">3.05</entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.002</entry>
+<entry align="center">0.05</entry>
+<entry align="center">0.004</entry>
+<entry align="center">0.002</entry>
+<entry align="center">0.01</entry>
+<entry align="center">-</entry>
+<entry align="center">Mg:0.0004</entry></row>
+<row>
+<entry align="center">Y</entry>
+<entry align="center">0.124</entry>
+<entry align="center">0.58</entry>
+<entry align="center">2.15</entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.05</entry>
+<entry align="center">0.005</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.02</entry>
+<entry align="center">-</entry>
+<entry align="center">Sr:0.008</entry></row>
+<row>
+<entry align="center">Z</entry>
+<entry align="center">0.124</entry>
+<entry align="center">0.52</entry>
+<entry align="center">2.58</entry>
+<entry align="center">0.01</entry>
+<entry align="center">0.002</entry>
+<entry align="center">0.04</entry>
+<entry align="center">0.003</entry>
+<entry align="center"/>
+<entry align="center">-</entry>
+<entry align="center">0.045</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center"><u>AA</u></entry>
+<entry align="center">0.121</entry>
+<entry align="center">0.75</entry>
+<entry align="center">2.52</entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.002</entry>
+<entry align="center">0.03</entry>
+<entry align="center">0.005</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.02</entry>
+<entry align="center"><u>0.075</u></entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center"><u>AB</u></entry>
+<entry align="center">0.123</entry>
+<entry align="center">0.58</entry>
+<entry align="center">2.69</entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.002</entry>
+<entry align="center">0.03</entry>
+<entry align="center">0.004</entry>
+<entry align="center">0.001</entry>
+<entry align="center">0.02</entry>
+<entry align="center"><u>0.003</u></entry>
+<entry align="center">-</entry></row></tbody></tgroup>
+<tgroup cols="12" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="27mm"/>
+<colspec colnum="2" colname="col2" colwidth="12mm"/>
+<colspec colnum="3" colname="col3" colwidth="12mm"/>
+<colspec colnum="4" colname="col4" colwidth="10mm"/>
+<colspec colnum="5" colname="col5" colwidth="10mm"/>
+<colspec colnum="6" colname="col6" colwidth="12mm"/>
+<colspec colnum="7" colname="col7" colwidth="10mm"/>
+<colspec colnum="8" colname="col8" colwidth="12mm"/>
+<colspec colnum="9" colname="col9" colwidth="12mm"/>
+<colspec colnum="10" colname="col10" colwidth="10mm"/>
+<colspec colnum="11" colname="col11" colwidth="12mm"/>
+<colspec colnum="12" colname="col12" colwidth="31mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col12" align="justify">* The underlines are outside the scope of the present invention.</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="27"> -->
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>[Table 2]</title>
+<tgroup cols="17">
+<colspec colnum="1" colname="col1" colwidth="8mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<colspec colnum="3" colname="col3" colwidth="17mm"/>
+<colspec colnum="4" colname="col4" colwidth="17mm"/>
+<colspec colnum="5" colname="col5" colwidth="13mm"/>
+<colspec colnum="6" colname="col6" colwidth="17mm"/>
+<colspec colnum="7" colname="col7" colwidth="14mm"/>
+<colspec colnum="8" colname="col8" colwidth="12mm"/>
+<colspec colnum="9" colname="col9" colwidth="17mm"/>
+<colspec colnum="10" colname="col10" colwidth="14mm"/>
+<colspec colnum="11" colname="col11" colwidth="12mm"/>
+<colspec colnum="12" colname="col12" colwidth="13mm"/>
+<colspec colnum="13" colname="col13" colwidth="17mm"/>
+<colspec colnum="14" colname="col14" colwidth="17mm"/>
+<colspec colnum="15" colname="col15" colwidth="17mm"/>
+<colspec colnum="16" colname="col16" colwidth="12mm"/>
+<colspec colnum="17" colname="col17" colwidth="17mm"/>
+<thead>
+<row>
+<entry morerows="1" align="center" valign="middle">No.</entry>
+<entry morerows="1" align="center" valign="middle">Steel designation</entry>
+<entry namest="col3" nameend="col6" align="center" valign="middle">Hot rolling</entry>
+<entry align="center" valign="middle">Cold rolling</entry>
+<entry namest="col8" nameend="col15" align="center" valign="middle">Annealing</entry>
+<entry morerows="1" align="center" valign="middle">Material class</entry>
+<entry morerows="1" align="center" valign="middle">Note</entry></row>
+<row>
+<entry align="center" valign="middle">Slab heating temperature (°C)</entry>
+<entry align="center" valign="middle">Finishing temperature (°C)</entry>
+<entry align="center" valign="middle">Average cooling rate (°C/s)</entry>
+<entry align="center" valign="middle">Coiling temperature (°C)</entry>
+<entry align="center" valign="middle">Rolling reduction (%)</entry>
+<entry align="center" valign="middle">Heating rate)*1 (°C/s)</entry>
+<entry align="center" valign="middle">Annealing temperature (°C)</entry>
+<entry align="center" valign="middle">Annealing time (s)</entry>
+<entry align="center" valign="middle">Number of times of reverse bending with roll 800 mm or less in radius</entry>
+<entry align="center" valign="middle">Average cooling rats*<sup>2</sup> (°C/s)</entry>
+<entry align="center" valign="middle">Cooling stop temperature (°C)</entry>
+<entry align="center" valign="middle">Reheating temperature (°C)</entry>
+<entry align="center" valign="middle">Holding time at reheating temperature (s)</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">A</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">22</entry>
+<entry align="center" valign="middle">520</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">790</entry>
+<entry align="center" valign="middle">85</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">16</entry>
+<entry align="center" valign="middle">200</entry>
+<entry align="center" valign="middle">405</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">A</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">500</entry>
+<entry align="center" valign="middle">46</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">770</entry>
+<entry align="center" valign="middle">85</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">16</entry>
+<entry align="center" valign="middle">200</entry>
+<entry align="center" valign="middle">400</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>3</u></entry>
+<entry align="center" valign="middle">A</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle"><u>8</u></entry>
+<entry align="center" valign="middle">500</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">790</entry>
+<entry align="center" valign="middle">85</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">200</entry>
+<entry align="center" valign="middle">405</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>4</u></entry>
+<entry align="center" valign="middle">A</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle"><u>38</u></entry>
+<entry align="center" valign="middle">500</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">790</entry>
+<entry align="center" valign="middle">85</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">200</entry>
+<entry align="center" valign="middle">405</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">B</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">500</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">790</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">250</entry>
+<entry align="center" valign="middle">410</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">B</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">500</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">810</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">250</entry>
+<entry align="center" valign="middle">410</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>7</u></entry>
+<entry align="center" valign="middle">B</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">22</entry>
+<entry align="center" valign="middle"><u>350</u></entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">790</entry>
+<entry align="center" valign="middle">85</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">240</entry>
+<entry align="center" valign="middle">410</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>8</u></entry>
+<entry align="center" valign="middle">B</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">22</entry>
+<entry align="center" valign="middle"><u>710</u></entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">790</entry>
+<entry align="center" valign="middle">85</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">240</entry>
+<entry align="center" valign="middle">410</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">C</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">510</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">16</entry>
+<entry align="center" valign="middle">780</entry>
+<entry align="center" valign="middle">85</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">220</entry>
+<entry align="center" valign="middle">420</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>10</u></entry>
+<entry align="center" valign="middle">C</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">510</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">16</entry>
+<entry align="center" valign="middle">780</entry>
+<entry align="center" valign="middle">85</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">220</entry>
+<entry align="center" valign="middle">420</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>11</u></entry>
+<entry align="center" valign="middle">C</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">510</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">16</entry>
+<entry align="center" valign="middle">780</entry>
+<entry align="center" valign="middle">85</entry>
+<entry align="center" valign="middle"><u>5</u></entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">220</entry>
+<entry align="center" valign="middle">420</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>12</u></entry>
+<entry align="center" valign="middle">C</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">510</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">16</entry>
+<entry align="center" valign="middle">780</entry>
+<entry align="center" valign="middle">85</entry>
+<entry align="center" valign="middle"><u>15</u></entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">220</entry>
+<entry align="center" valign="middle">420</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>13</u></entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">500</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">810</entry>
+<entry align="center" valign="middle">90</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">200</entry>
+<entry align="center" valign="middle">420</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle">14</entry>
+<entry align="center" valign="middle">E</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">510</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">790</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">250</entry>
+<entry align="center" valign="middle">405</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>15</u></entry>
+<entry align="center" valign="middle">E</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">510</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle"><u>740</u></entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">250</entry>
+<entry align="center" valign="middle">405</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>16</u></entry>
+<entry align="center" valign="middle">E</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">510</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle"><u>920</u></entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">250</entry>
+<entry align="center" valign="middle">405</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>17</u></entry>
+<entry align="center" valign="middle">E</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">510</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">790</entry>
+<entry align="center" valign="middle"><u>20</u></entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">250</entry>
+<entry align="center" valign="middle">405</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>18</u></entry>
+<entry align="center" valign="middle">E</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">510</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">790</entry>
+<entry align="center" valign="middle"><u>220</u></entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">250</entry>
+<entry align="center" valign="middle">405</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle">19</entry>
+<entry align="center" valign="middle">F</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">22</entry>
+<entry align="center" valign="middle">500</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">790</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">330</entry>
+<entry align="center" valign="middle">500</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">G</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">510</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">790</entry>
+<entry align="center" valign="middle">85</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">250</entry>
+<entry align="center" valign="middle">410</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">H</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">520</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">800</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">200</entry>
+<entry align="center" valign="middle">410</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>22</u></entry>
+<entry align="center" valign="middle">H</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">520</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">800</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">200</entry>
+<entry align="center" valign="middle">410</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>23</u></entry>
+<entry align="center" valign="middle">H</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">520</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">800</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle"><u>180</u></entry>
+<entry align="center" valign="middle">410</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>24</u></entry>
+<entry align="center" valign="middle">H</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">520</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">800</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle"><u>360</u></entry>
+<entry align="center" valign="middle">410</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">I</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">510</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">825</entry>
+<entry align="center" valign="middle">90</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">200</entry>
+<entry align="center" valign="middle">400</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>26</u></entry>
+<entry align="center" valign="middle"><u>J</u></entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">510</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">800</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">200</entry>
+<entry align="center" valign="middle">410</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>27</u></entry>
+<entry align="center" valign="middle"><u>K</u></entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">520</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">780</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">200</entry>
+<entry align="center" valign="middle">420</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle">28</entry>
+<entry align="center" valign="middle">L</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">510</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">790</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">250</entry>
+<entry align="center" valign="middle">400</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>29</u></entry>
+<entry align="center" valign="middle">L</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">510</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">790</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">250</entry>
+<entry align="center" valign="middle">330</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>30</u></entry>
+<entry align="center" valign="middle">L</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">510</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">790</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">250</entry>
+<entry align="center" valign="middle">610</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle">31</entry>
+<entry align="center" valign="middle"><u>M</u></entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">520</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">810</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">200</entry>
+<entry align="center" valign="middle">405</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>32</u></entry>
+<entry align="center" valign="middle"><u>N</u></entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">520</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">770</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">200</entry>
+<entry align="center" valign="middle">405</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle">33</entry>
+<entry align="center" valign="middle">O</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">510</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">800</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">200</entry>
+<entry align="center" valign="middle">410</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>34</u></entry>
+<entry align="center" valign="middle">O</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">510</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">800</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">200</entry>
+<entry align="center" valign="middle">410</entry>
+<entry align="center" valign="middle"><u>7</u></entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>35</u></entry>
+<entry align="center" valign="middle">O</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">510</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">800</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">200</entry>
+<entry align="center" valign="middle">410</entry>
+<entry align="center" valign="middle"><u>310</u></entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>36</u></entry>
+<entry align="center" valign="middle"><u>P</u></entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">22</entry>
+<entry align="center" valign="middle">500</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">790</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">250</entry>
+<entry align="center" valign="middle">450</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle">37</entry>
+<entry align="center" valign="middle">Q</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">500</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">800</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">250</entry>
+<entry align="center" valign="middle">430</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">38</entry>
+<entry align="center" valign="middle">R</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">510</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">790</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">250</entry>
+<entry align="center" valign="middle">410</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">39</entry>
+<entry align="center" valign="middle">S</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">520</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">780</entry>
+<entry align="center" valign="middle">85</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">240</entry>
+<entry align="center" valign="middle">420</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">T</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">500</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">790</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">22</entry>
+<entry align="center" valign="middle">250</entry>
+<entry align="center" valign="middle">400</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">41</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">510</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">800</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">250</entry>
+<entry align="center" valign="middle">410</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">42</entry>
+<entry align="center" valign="middle">V</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">520</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">800</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">22</entry>
+<entry align="center" valign="middle">200</entry>
+<entry align="center" valign="middle">405</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">43</entry>
+<entry align="center" valign="middle">W</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">520</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">800</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">22</entry>
+<entry align="center" valign="middle">220</entry>
+<entry align="center" valign="middle">420</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">44</entry>
+<entry align="center" valign="middle">X</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">520</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">790</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">250</entry>
+<entry align="center" valign="middle">410</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">CR</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">Y</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">520</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">770</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">200</entry>
+<entry align="center" valign="middle">410</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">GI</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">46</entry>
+<entry align="center" valign="middle">Z</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">500</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">780</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">200</entry>
+<entry align="center" valign="middle">400</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">GI</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>47</u></entry>
+<entry align="center" valign="middle"><u>AA</u></entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">500</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">810</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">250</entry>
+<entry align="center" valign="middle">400</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>48</u></entry>
+<entry align="center" valign="middle"><u>AB</u></entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">500</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">810</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">250</entry>
+<entry align="center" valign="middle">400</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">GA</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row></tbody></tgroup>
+<tgroup cols="17" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="8mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<colspec colnum="3" colname="col3" colwidth="17mm"/>
+<colspec colnum="4" colname="col4" colwidth="17mm"/>
+<colspec colnum="5" colname="col5" colwidth="13mm"/>
+<colspec colnum="6" colname="col6" colwidth="17mm"/>
+<colspec colnum="7" colname="col7" colwidth="14mm"/>
+<colspec colnum="8" colname="col8" colwidth="12mm"/>
+<colspec colnum="9" colname="col9" colwidth="17mm"/>
+<colspec colnum="10" colname="col10" colwidth="14mm"/>
+<colspec colnum="11" colname="col11" colwidth="12mm"/>
+<colspec colnum="12" colname="col12" colwidth="13mm"/>
+<colspec colnum="13" colname="col13" colwidth="17mm"/>
+<colspec colnum="14" colname="col14" colwidth="17mm"/>
+<colspec colnum="15" colname="col15" colwidth="17mm"/>
+<colspec colnum="16" colname="col16" colwidth="12mm"/>
+<colspec colnum="17" colname="col17" colwidth="17mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col17" align="justify">*1 Average heating rate from 600°C to 700°C<br/>
+*2 Average cooling rate from annealing temperature to 200-340°C<br/>
+* The underlines are outside the scope of the present invention.</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="28"> --></p>
+<heading id="h0028">(1) Observation of Microstructure</heading>
+<p id="p0064" num="0064">A thickness cross-section of the steel sheets in the rolling direction was polished to show corrosion with 1% by mass nital. Ten fields from the surface to a portion with a thickness of 1/4t are photographed with a scanning electron microscope at a magnification of 3000 times and are subjected to an intercept method according to ASTM E 112-10. "t" denotes the thickness of the steel sheet (sheet thickness). Ferrite is a microstructure without corrosion marks or cementite observed in grains, and fresh martensite (FM) and retained γ are microstructures without carbide observed in grains and microstructures observed with a higher contrast than ferrite.</p>
+<p id="p0065" num="0065">The area percentage of ferrite, the total area percentage of fresh martensite and retained γ, the average grain size of fresh martensite and retained γ, and the ratio of fresh martensite and retained γ adjacent only to ferrite with respect to fresh martensite and retained γ from the surface to 200 µm in the thickness direction were determined by image analysis of results observed with the scanning electron microscope.</p>
+<p id="p0066" num="0066">The area percentage of ferrite was determined by extracting only the ferrite portion in each microstructure<!-- EPO <DP n="29"> --> field, determining the area percentage occupied by ferrite with respect to the observation field area, and averaging the area percentages of 10 fields. Likewise, the total area percentage of fresh martensite and retained γ was determined by extracting only the fresh martensite and retained γ portions in each observation field, determining the area percentage occupied by the fresh martensite and retained γ with respect to the observation field area, and averaging the area percentages of 10 fields. Fresh martensite and retained γ have an island form and are difficult to distinguish from each other. Thus, the average grain size of fresh martensite and retained γ is considered as a whole. More specifically, the average grain size of fresh martensite and retained γ was determined by calculating the equivalent circular diameter of the fresh martensite and the retained γ in each observation field and averaging the equivalent circular diameters of the fresh martensite and the retained γ of 10 fields.</p>
+<p id="p0067" num="0067">"The ratio of fresh martensite and retained γ adjacent only to ferrite with respect to fresh martensite and retained γ from the surface to 200 µm in the thickness direction" was determined by photographing 10 fields from the surface to 200 µm in the thickness direction, identifying, by image analysis, fresh martensite and<!-- EPO <DP n="30"> --> retained γ that are not in contact with microstructures other than ferrite even at one location in microstructure boundaries in each observation field, determining the area percentage, dividing the area percentage by the total area of fresh martensite and retained γ present in the observation field to determine "the ratio of fresh martensite and retained γ adjacent to ferrite with respect to fresh martensite and retained γ", and averaging the ratios of 10 fields. Tempered martensite, bainite, and pearlite were observed as other phases.</p>
+<heading id="h0029">(2) Tensile Properties</heading>
+<p id="p0068" num="0068">A tensile test according to JIS Z 2241 was performed five times using No. 5 test specimens described in JIS Z 2201 having a longitudinal direction (tensile direction) that formed an angle of 90 degrees with the rolling direction. The average yield strength (YP), tensile strength (TS), and butt elongation (EL) were determined.</p>
+<heading id="h0030">(3) Hole Expansion Ratio</heading>
+<p id="p0069" num="0069">It was based on the Japan Iron and Steel Federation standard JFST1001. A hole with an initial diameter d<sub>0</sub> = 10 mm was punched out and was expanded by raising a 60-degree conical punch. The punch was stopped when a crack passed through the thickness of the sheet. The diameter d of the<!-- EPO <DP n="31"> --> punched hole was measured, and the hole expansion ratio was calculated using the following formula. <maths id="math0001" num=""><math display="block"><mi>Hole</mi><mspace width="1ex"/><mi>expansion</mi><mspace width="1ex"/><mi>ratio</mi><mspace width="1ex"/><mfenced><mi>%</mi></mfenced><mo>=</mo><mfenced separators=""><mfenced separators=""><mi mathvariant="normal">d</mi><mo>−</mo><msub><mi mathvariant="normal">d</mi><mn>0</mn></msub></mfenced><mo>/</mo><msub><mi mathvariant="normal">d</mi><mn>0</mn></msub></mfenced><mo>×</mo><mn>100</mn></math><img id="ib0001" file="imgb0001.tif" wi="117" he="5" img-content="math" img-format="tif"/></maths></p>
+<p id="p0070" num="0070">This test was performed three times in steel sheets of the same number to determine the average hole expansion ratio (λ).</p>
+<heading id="h0031">(4) Weld Fatigue Test</heading>
+<p id="p0071" num="0071">Spot welding was performed under the conditions as follows: electrode: DR 6 mm-40R, pressure: 4802 N (490 kgf), weld time: 17 cycles. The current value was adjusted so that the nugget diameter was 6.5 mm, and cross-tension test specimens were prepared. A fatigue limit test was then performed 10 to 7 times at a test speed of 20 Hz, and a cross-tension test was performed in accordance with JIS Z 3137. A load range of 250 N or more was rated as "⊙", a load range of more than 180 N and less than 250 N was rated as "○", a load range of 110 N or more and less than 180 N was rated as "Δ", and a load range of less than 110 N was rated as "X".</p>
+<heading id="h0032">Table 3 shows the results.</heading>
+<p id="p0072" num="0072"><!-- EPO <DP n="32"> -->
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>[Table 3]</title>
+<tgroup cols="13">
+<colspec colnum="1" colname="col1" colwidth="11mm"/>
+<colspec colnum="2" colname="col2" colwidth="15mm"/>
+<colspec colnum="3" colname="col3" colwidth="18mm"/>
+<colspec colnum="4" colname="col4" colwidth="21mm"/>
+<colspec colnum="5" colname="col5" colwidth="23mm"/>
+<colspec colnum="6" colname="col6" colwidth="38mm"/>
+<colspec colnum="7" colname="col7" colwidth="30mm"/>
+<colspec colnum="8" colname="col8" colwidth="14mm"/>
+<colspec colnum="9" colname="col9" colwidth="14mm"/>
+<colspec colnum="10" colname="col10" colwidth="12mm"/>
+<colspec colnum="11" colname="col11" colwidth="11mm"/>
+<colspec colnum="12" colname="col12" colwidth="15mm"/>
+<colspec colnum="13" colname="col13" colwidth="24mm"/>
+<thead>
+<row>
+<entry morerows="2" align="center" valign="middle">No.</entry>
+<entry namest="col2" nameend="col7" align="center" valign="middle">Properties of steel sheet microstructure</entry>
+<entry namest="col8" nameend="col11" morerows="1" align="center" valign="middle">Properties of steel sheet</entry>
+<entry morerows="2" align="center" valign="middle">Weld fatigue test</entry>
+<entry morerows="2" align="center" valign="middle">Note</entry></row>
+<row>
+<entry morerows="1" align="center" valign="middle">Ferrite (%)</entry>
+<entry morerows="1" align="center" valign="middle">FM + retained γ (%)</entry>
+<entry morerows="1" align="center" valign="middle">Tempered martensite (%)</entry>
+<entry morerows="1" align="center" valign="middle">Average grain size of FM + retained γ (µm)</entry>
+<entry morerows="1" align="center" valign="middle">Total area percentage of fresh martensite and retained γ adjacent only to ferrite phase (%)</entry>
+<entry morerows="1" align="center" valign="middle">Residual microstructures (bainite + pearlite)</entry></row>
+<row>
+<entry align="center" valign="middle">YP (MPa)</entry>
+<entry align="center" valign="middle">TS (MPa)</entry>
+<entry align="center" valign="middle">EL (%)</entry>
+<entry align="center" valign="middle">λ (%)</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">16</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">65</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">11</entry>
+<entry align="center" valign="middle">890</entry>
+<entry align="center" valign="middle">1020</entry>
+<entry align="center" valign="middle">11.8</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">⊙</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">44</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">11</entry>
+<entry align="center" valign="middle">740</entry>
+<entry align="center" valign="middle">1000</entry>
+<entry align="center" valign="middle">13.1</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">⊙</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>3</u></entry>
+<entry align="center" valign="middle"><u>2</u></entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">11</entry>
+<entry align="center" valign="middle">700</entry>
+<entry align="center" valign="middle">1010</entry>
+<entry align="center" valign="middle">10.2</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>4</u></entry>
+<entry align="center" valign="middle"><u>55</u></entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">36</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle"><u>75</u></entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle"><u>520</u></entry>
+<entry align="center" valign="middle">860</entry>
+<entry align="center" valign="middle">15.6</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">64</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">720</entry>
+<entry align="center" valign="middle">1020</entry>
+<entry align="center" valign="middle">13.2</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">⊙</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">850</entry>
+<entry align="center" valign="middle">1010</entry>
+<entry align="center" valign="middle">10.6</entry>
+<entry align="center" valign="middle">65</entry>
+<entry align="center" valign="middle">⊙</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>7</u></entry>
+<entry align="center" valign="middle"><u>3</u></entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">90</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle"><u>50</u></entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">750</entry>
+<entry align="center" valign="middle">1040</entry>
+<entry align="center" valign="middle">12.5</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>8</u></entry>
+<entry align="center" valign="middle"><u>56</u></entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">32</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle"><u>75</u></entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle"><u>530</u></entry>
+<entry align="center" valign="middle">890</entry>
+<entry align="center" valign="middle">14.9</entry>
+<entry align="center" valign="middle">32</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">850</entry>
+<entry align="center" valign="middle">1060</entry>
+<entry align="center" valign="middle">12.5</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">⊙</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>10</u></entry>
+<entry align="center" valign="middle"><u>3</u></entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle"><u>540</u></entry>
+<entry align="center" valign="middle">940</entry>
+<entry align="center" valign="middle">14.5</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>11</u></entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle"><u>75</u></entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">820</entry>
+<entry align="center" valign="middle">1030</entry>
+<entry align="center" valign="middle">13.1</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>12</u></entry>
+<entry align="center" valign="middle">13</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle"><u>74</u></entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">830</entry>
+<entry align="center" valign="middle">1020</entry>
+<entry align="center" valign="middle">12.9</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>13</u></entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle"><u>75</u></entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle"><u>500</u></entry>
+<entry align="center" valign="middle">790</entry>
+<entry align="center" valign="middle">16.2</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>14</u></entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">69</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">710</entry>
+<entry align="center" valign="middle">1035</entry>
+<entry align="center" valign="middle">13.6</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">⊙</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>15</u></entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">85</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle"><u>75</u></entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle"><u>545</u></entry>
+<entry align="center" valign="middle">860</entry>
+<entry align="center" valign="middle">10.2</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>16</u></entry>
+<entry align="center" valign="middle"><u>4</u></entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">86</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle"><u>50</u></entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle"><u>540</u></entry>
+<entry align="center" valign="middle">880</entry>
+<entry align="center" valign="middle">10.5</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>17</u></entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">85</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle"><u>75</u></entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle"><u>535</u></entry>
+<entry align="center" valign="middle">870</entry>
+<entry align="center" valign="middle">10.5</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>18</u></entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle"><u>80</u></entry>
+<entry align="center" valign="middle">13</entry>
+<entry align="center" valign="middle">650</entry>
+<entry align="center" valign="middle">1020</entry>
+<entry align="center" valign="middle">9.2</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle">19</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">28</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">610</entry>
+<entry align="center" valign="middle">950</entry>
+<entry align="center" valign="middle">15.2</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">○</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">52</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">13</entry>
+<entry align="center" valign="middle">750</entry>
+<entry align="center" valign="middle">1030</entry>
+<entry align="center" valign="middle">13.9</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">○</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">68</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">780</entry>
+<entry align="center" valign="middle">1020</entry>
+<entry align="center" valign="middle">12.6</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">⊙</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>22</u></entry>
+<entry align="center" valign="middle">22</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle"><u>7</u></entry>
+<entry align="center" valign="middle"><u>40</u></entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">620</entry>
+<entry align="center" valign="middle">680</entry>
+<entry align="center" valign="middle">15.6</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>23</u></entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">73</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle"><u>80</u></entry>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle"><u>545</u></entry>
+<entry align="center" valign="middle">920</entry>
+<entry align="center" valign="middle">12.5</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>24</u></entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle"><u>35</u></entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle"><u>6</u></entry>
+<entry align="center" valign="middle"><u>65</u></entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">800</entry>
+<entry align="center" valign="middle">1080</entry>
+<entry align="center" valign="middle">10.6</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">16</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">62</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">28</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">810</entry>
+<entry align="center" valign="middle">995</entry>
+<entry align="center" valign="middle">15.4</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">○</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>26</u></entry>
+<entry align="center" valign="middle"><u>2</u></entry>
+<entry align="center" valign="middle"><u>32</u></entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle"><u>7</u></entry>
+<entry align="center" valign="middle"><u>40</u></entry>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">910</entry>
+<entry align="center" valign="middle">1250</entry>
+<entry align="center" valign="middle">9.3</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>27</u></entry>
+<entry align="center" valign="middle"><u>55</u></entry>
+<entry align="center" valign="middle"><u>1</u></entry>
+<entry align="center" valign="middle">38</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle"><u>75</u></entry>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle"><u>540</u></entry>
+<entry align="center" valign="middle">860</entry>
+<entry align="center" valign="middle">15.9</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle">28</entry>
+<entry align="center" valign="middle">22</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">730</entry>
+<entry align="center" valign="middle">1025</entry>
+<entry align="center" valign="middle">13.5</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">⊙</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>29</u></entry>
+<entry align="center" valign="middle">24</entry>
+<entry align="center" valign="middle"><u>1</u></entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle"><u>72</u></entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">700</entry>
+<entry align="center" valign="middle">1000</entry>
+<entry align="center" valign="middle">13.8</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>30</u></entry>
+<entry align="center" valign="middle">23</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">65</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle"><u>80</u></entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">680</entry>
+<entry align="center" valign="middle">980</entry>
+<entry align="center" valign="middle">13.6</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>31</u></entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">63</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle"><u>50</u></entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">760</entry>
+<entry align="center" valign="middle">1020</entry>
+<entry align="center" valign="middle">13.4</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>32</u></entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">64</entry>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle"><u>50</u></entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle"><u>545</u></entry>
+<entry align="center" valign="middle">900</entry>
+<entry align="center" valign="middle">12.9</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle">33</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">790</entry>
+<entry align="center" valign="middle">1030</entry>
+<entry align="center" valign="middle">12.9</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">⊙</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>34</u></entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle"><u>78</u></entry>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">780</entry>
+<entry align="center" valign="middle">1025</entry>
+<entry align="center" valign="middle">13.3</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>35</u></entry>
+<entry align="center" valign="middle">17</entry>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">69</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle"><u>65</u></entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle"><u>540</u></entry>
+<entry align="center" valign="middle">880</entry>
+<entry align="center" valign="middle">12.8</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>36</u></entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">58</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle"><u>72</u></entry>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle"><u>545</u></entry>
+<entry align="center" valign="middle">920</entry>
+<entry align="center" valign="middle">14.8</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle">37</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">58</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">770</entry>
+<entry align="center" valign="middle">1000</entry>
+<entry align="center" valign="middle">13.5</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">○</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">38</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">11</entry>
+<entry align="center" valign="middle">56</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">13</entry>
+<entry align="center" valign="middle">740</entry>
+<entry align="center" valign="middle">1030</entry>
+<entry align="center" valign="middle">13.8</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">⊙</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">39</entry>
+<entry align="center" valign="middle">22</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">54</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">14</entry>
+<entry align="center" valign="middle">735</entry>
+<entry align="center" valign="middle">1020</entry>
+<entry align="center" valign="middle">13.2</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">⊙</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">56</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">16</entry>
+<entry align="center" valign="middle">700</entry>
+<entry align="center" valign="middle">1020</entry>
+<entry align="center" valign="middle">14.5</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">⊙</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">41</entry>
+<entry align="center" valign="middle">23</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">54</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">14</entry>
+<entry align="center" valign="middle">760</entry>
+<entry align="center" valign="middle">980</entry>
+<entry align="center" valign="middle">14.2</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">⊙</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">42</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">16</entry>
+<entry align="center" valign="middle">785</entry>
+<entry align="center" valign="middle">1020</entry>
+<entry align="center" valign="middle">13.4</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">○</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">43</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">66</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">630</entry>
+<entry align="center" valign="middle">920</entry>
+<entry align="center" valign="middle">14.3</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">○</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">44</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">11</entry>
+<entry align="center" valign="middle">63</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">700</entry>
+<entry align="center" valign="middle">1020</entry>
+<entry align="center" valign="middle">14.1</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">○</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">28</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">640</entry>
+<entry align="center" valign="middle">960</entry>
+<entry align="center" valign="middle">16.1</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">○</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle">46</entry>
+<entry align="center" valign="middle">22</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">28</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">725</entry>
+<entry align="center" valign="middle">1015</entry>
+<entry align="center" valign="middle">15.2</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">○</entry>
+<entry align="center" valign="middle">Exemplary steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>47</u></entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle"><u>35</u></entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">860</entry>
+<entry align="center" valign="middle">1060</entry>
+<entry align="center" valign="middle">12.8</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row>
+<row>
+<entry align="center" valign="middle"><u>48</u></entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">76</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle"><u>50</u></entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">720</entry>
+<entry align="center" valign="middle">1030</entry>
+<entry align="center" valign="middle">13.7</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">×</entry>
+<entry align="center" valign="middle">Comparative steel</entry></row></tbody></tgroup>
+<tgroup cols="13" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="11mm"/>
+<colspec colnum="2" colname="col2" colwidth="15mm"/>
+<colspec colnum="3" colname="col3" colwidth="18mm"/>
+<colspec colnum="4" colname="col4" colwidth="21mm"/>
+<colspec colnum="5" colname="col5" colwidth="23mm"/>
+<colspec colnum="6" colname="col6" colwidth="38mm"/>
+<colspec colnum="7" colname="col7" colwidth="30mm"/>
+<colspec colnum="8" colname="col8" colwidth="14mm"/>
+<colspec colnum="9" colname="col9" colwidth="14mm"/>
+<colspec colnum="10" colname="col10" colwidth="12mm"/>
+<colspec colnum="11" colname="col11" colwidth="11mm"/>
+<colspec colnum="12" colname="col12" colwidth="15mm"/>
+<colspec colnum="13" colname="col13" colwidth="24mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col13" align="justify">* The underlines are outside the scope of the present invention. FM: Fresh martensite</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="33"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A high-strength steel sheet that has a component composition comprising, on a mass percent basis:
+<claim-text>C: 0.07% to 0.25%,</claim-text>
+<claim-text>Si: 0.01% to 1.80%,</claim-text>
+<claim-text>Mn: 1.8% to 3.2%,</claim-text>
+<claim-text>P: 0.05% or less,</claim-text>
+<claim-text>S: 0.02% or less,</claim-text>
+<claim-text>Al: 0.01% to 2.0%, and</claim-text>
+<claim-text>N: 0.01% or less;</claim-text>
+<claim-text>at least one of</claim-text>
+<claim-text>B: 0.0001% to 0.005%,</claim-text>
+<claim-text>Ti: 0.005% to 0.04%, and</claim-text>
+<claim-text>Nb: 0.005% to 0.06%; and</claim-text>
+<claim-text>a balance being Fe and incidental impurities,</claim-text>
+<claim-text>that has a steel microstructure in which an area percentage of ferrite ranges from 5% to 50% in a thickness cross-section in a rolling direction, a total area percentage of fresh martensite and retained γ ranges from 2% to 30%, each of the fresh martensite and the retained γ has an average grain size of 5 µm or less, and a ratio of the fresh martensite and the retained γ adjacent only to ferrite with respect to the fresh martensite and the retained γ from a surface to 200 µm in the thickness direction is 30% or<!-- EPO <DP n="34"> --> less in total area percentage, and</claim-text>
+<claim-text>that has a yield strength of 550 MPa or more.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The high-strength steel sheet according to Claim 1, further comprising: in addition to the component composition, at least one of Mo: 0.03% to 0.50% and Cr: 0.1% to 1.0% in a total of 1% or less on a mass percent basis.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The high-strength steel sheet according to Claim 1 or 2, further comprising: in addition to the component composition, a total of 0.5% or less of at least one of Cu, Ni, Sn, As, Sb, Ca, Mg, Pb, Co, Ta, W, REM, Zn, V, Sr, Cs, and Hf on a mass percent basis.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The high-strength steel sheet according to any one of Claims 1 to 3, further comprising a coated layer on a surface of the steel sheet.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The high-strength steel sheet according to Claim 4, wherein the coated layer is a hot-dip galvanized layer or a galvannealed layer.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>A method for producing a high-strength steel sheet, comprising:
+<claim-text>a hot-rolling step of hot-rolling a steel slab with the<!-- EPO <DP n="35"> --> component composition according to any one of Claims 1 to 3, cooling the hot-rolled steel sheet at an average cooling rate in the range of 10°C/s to 30°C/s, and coiling the hot-rolled steel sheet at a coiling temperature in the range of 400°C to 700°C;</claim-text>
+<claim-text>a cold-rolling step of cold-rolling the hot-rolled steel sheet formed in the hot-rolling step; and</claim-text>
+<claim-text>an annealing step of heating the cold-rolled steel sheet formed in the cold-rolling step to an annealing temperature at an average heating rate of 13°C/s or more in the temperature range of 600°C to 700°C, then annealing the cold-rolled steel sheet in an annealing temperature range of 750°C to 900°C for an annealing time in the range of 30 to 200 seconds, reverse bending the cold-rolled steel sheet with a roll 800 mm or less in radius 7 to 13 times in total while annealing, cooling the cold-rolled steel sheet from the annealing temperature to a temperature range of 200°C to 340°C at an average cooling rate of 10°C/s or more, reheating the cold-rolled steel sheet to a temperature range of 350°C to 600°C, and holding the temperature for 10 to 300 seconds.</claim-text></claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The method for producing a high-strength steel sheet according to Claim 6, further comprising a coating step of performing a coating treatment after the annealing step.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text><!-- EPO <DP n="36"> --> The method for producing a high-strength steel sheet according to Claim 7, wherein the coating treatment is a hot-dip galvanizing treatment or a galvannealing treatment.</claim-text></claim>
+</claims>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="164" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="JP2016188395A"><document-id><country>JP</country><doc-number>2016188395</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0005]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="JP6292353B"><document-id><country>JP</country><doc-number>6292353</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0002">[0005]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="JP4924730B"><document-id><country>JP</country><doc-number>4924730</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0003">[0005]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

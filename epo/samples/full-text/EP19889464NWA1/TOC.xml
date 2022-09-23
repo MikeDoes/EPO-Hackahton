@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE package-index PUBLIC "-//EPO//PACKAGE INDEX 1.2//EN" "package-index-v1-2.dtd">
+<package-index>
+<package-file size="183972">
+<filename>EP19889464NWA1.xml</filename>
+<file-location>.</file-location>
+<subdocs>
+<subdoc subdoc-code="bibl"></subdoc>
+<subdoc subdoc-code="abst"></subdoc>
+<subdoc subdoc-code="desc"></subdoc>
+<subdoc subdoc-code="clms"></subdoc>
+<subdoc subdoc-code="1503"></subdoc>
+<subdoc subdoc-code="epref"></subdoc>
+</subdocs>
+</package-file>
+<package-file size="536929">
+<filename>EP19889464NWA1.pdf</filename>
+<file-location>.</file-location>
+<subdocs>
+<subdoc subdoc-code="bibl"></subdoc>
+<subdoc subdoc-code="abst"></subdoc>
+<subdoc subdoc-code="desc"></subdoc>
+<subdoc subdoc-code="clms"></subdoc>
+<subdoc subdoc-code="1503"></subdoc>
+<subdoc subdoc-code="epref"></subdoc>
+</subdocs>
+</package-file>
+<package-file size="1071">
+<filename>imga0001.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="1105">
+<filename>imgb0001.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="1133">
+<filename>imgb0002.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="1095">
+<filename>imgb0003.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="1937">
+<filename>imgb0004.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="6452">
+<filename>imgb0005.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="2689">
+<filename>imgb0006.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="1155">
+<filename>imgb0007.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="1161">
+<filename>imgb0008.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="7168">
+<filename>imgb0009.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="1103">
+<filename>imgb0010.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="1111">
+<filename>imgb0011.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="44981">
+<filename>srep0001.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="20825">
+<filename>srep0002.tif</filename>
+<file-location>.</file-location>
+</package-file>
+</package-index>

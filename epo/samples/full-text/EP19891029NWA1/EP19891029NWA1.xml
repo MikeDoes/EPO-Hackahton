@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19891029A1" file="EP19891029NWA1.xml" lang="en" country="EP" doc-number="3890092" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3890092</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19891029.1</B210><B220><date>20191119</date></B220><B240><B241><date>20210625</date></B241></B240><B250>ko</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>20180147739</B310><B320><date>20181126</date></B320><B330><ctry>KR</ctry></B330><B310>20190090420</B310><B320><date>20190725</date></B320><B330><ctry>KR</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>H01M  10/0567      20100101AFI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>H01M  10/42        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>H01M  10/052       20100101ALI20200605BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>Y02E  60/10        20130101 LA20200826BGEP        </text></classification-cpc><classification-cpc sequence="2"><text>H01M  10/052       20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="3"><text>H01M  10/42        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="4"><text>H01M  10/0567      20130101 LI20200626BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>ELEKTROLYTLÖSUNGSZUSAMMENSETZUG UND DIESE VERWENDENDE SEKUNDÄRBATTERIE</B542><B541>en</B541><B542>ELECTROLYTE SOLUTION COMPOSITION AND SECONDARY BATTERY USING SAME</B542><B541>fr</B541><B542>COMPOSITION DE SOLUTION ÉLECTROLYTIQUE ET BATTERIE SECONDAIRE L'UTILISANT</B542></B540></B500><B700><B710><B711><snm>Dongwoo Fine-Chem Co., Ltd.</snm><iid>101593203</iid><irf>P130346EP00</irf><adr><str>132, Yakchon-ro</str><city>Iksan-si, Jeollabuk-do 54631</city><ctry>KR</ctry></adr></B711></B710><B720><B721><snm>SONG, Kwanwook</snm><adr><str>1108-802, 33, Yongjuk 1-ro</str><city>Pyeongtaek-si, Gyeonggi-do 17870</city><ctry>KR</ctry></adr></B721><B721><snm>KUM, Joonghan</snm><adr><str>104-206, 103, Banchon-ro, Songak-eup</str><city>Dangjin-si, Chungcheongnam-do 31733</city><ctry>KR</ctry></adr></B721><B721><snm>LEE, Seongchul</snm><adr><str>212-604, 277, Cheongbuknam-ro, Cheongbuk-eup</str><city>Pyeongtaek-si, Gyeonggi-do 17809</city><ctry>KR</ctry></adr></B721><B721><snm>CHOI, Han Young</snm><adr><str>102-901, 15, Sangseojae-ro 5-gil</str><city>Pyeongtaek-si, Gyeonggi-do 17845</city><ctry>KR</ctry></adr></B721></B720><B740><B741><snm>V.O.</snm><iid>101551773</iid><adr><str>P.O. Box 87930</str><city>2508 DH Den Haag</city><ctry>NL</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>KR2019015857</anum></dnum><date>20191119</date></B861><B862>ko</B862></B860><B870><B871><dnum><pnum>WO2020111633</pnum></dnum><date>20200604</date><bnum>202023</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">The present invention provides an electrolyte composition comprising a propane sultone compound substituted with a specific substituent, a cyclic fluorocarbonate-based compound and a nonaqueous solvent, and a secondary battery comprising the electrolyte composition. The electrolyte composition according to the present invention has excellent SEI film-forming ability and HF-removing ability by comprising the cyclic fluorocarbonate-based compound together with the propane sultone compound substituted with a specific substituent, so that the lifespan characteristic and stability at high temperature can be improved.</p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">[Technical Field]</heading>
+<p id="p0001" num="0001">The present invention relates to an electrolyte composition and a secondary battery using the same, and more particularly, relates to an electrolyte composition having excellent SEI film-forming ability and HF-removing ability, thereby having improved lifespan characteristic and stability at high temperature, and a secondary battery using the same.</p>
+<heading id="h0002">[Background Art]</heading>
+<p id="p0002" num="0002">Recently, as the supply of electric vehicles and portable electronic devices increases, the demand for lithium secondary batteries with high energy density and operating potential and having low self-discharge rate has been rapidly increasing.</p>
+<p id="p0003" num="0003">During initial charging of a lithium secondary battery, lithium ions from a positive electrode active material such as lithium metal oxide migrate to a negative electrode active material, and are interposed between the layers of the negative electrode active material. At this time, since lithium ions have high reactivity, the electrolyte composition and the material constituting the negative electrode active material react on the surface of the negative electrode active material to form a SEI (Solid Electrolyte Interface) film which is a kind of protective film on the surface of the negative electrode active material.</p>
+<p id="p0004" num="0004">The SEI film prevents the negative electrode structure from the destruction caused by the intercalation of organic solvent molecules having a large molecular weight which migrate together with lithium ions in the electrolyte composition between the layers of the negative electrode active material. Therefore, contact between the electrolyte composition and the negative electrode active material are prevented, so that the decomposition of the electrolyte composition does not occur, and the amount of lithium ions in the electrolyte composition is reversibly maintained, thereby maintaining stable charging and discharging.</p>
+<p id="p0005" num="0005">Accordingly, interest in additives for improving lifespan characteristic by forming a stable SEI film on the surface of the negative electrode has been<!-- EPO <DP n="2"> --> increasing. In particular, cyclic fluorocarbonate-based compounds such as fluoroethylene carbonate(FEC) have excellent ability to form an SEI film on the surface of the negative electrode and thus are used as an agent for forming a film on the negative electrode in the lithium ion battery, while they are also widely used as a co-solvent [<patcit id="pcit0001" dnum="KR100977973"><text>Korean Registered Patent No. 10-0977973</text></patcit>].</p>
+<p id="p0006" num="0006">However, FEC may be decomposed in an electrolyte to produce hydrofluoric acid (HF). The HF may be decomposed in the process of charging and discharging to release hydrogen gas. Particularly, such phenomenon may be intensified at high temperature, and thus a swelling phenomenon may be caused, or, in a severe situation an explosion may be caused. Further, the HF is acidic, and may cause corrosion or the like to the electrode.</p>
+<p id="p0007" num="0007">Accordingly, there is a need for development of an electrolyte composition having excellent HF-removing ability with SEI film-forming ability thereby having improved lifespan characteristics and stability at high temperature.</p>
+<heading id="h0003">[Disclosure]</heading>
+<heading id="h0004">[Technical Problem]</heading>
+<p id="p0008" num="0008">It is an object of the present invention to provide an electrolyte composition having excellent SEI film-forming ability and HF-removing ability, thereby having improved lifespan characteristic and stability at high temperature.</p>
+<p id="p0009" num="0009">It is another object of the present invention to provide a secondary battery using the electrolyte composition.</p>
+<heading id="h0005">[Technical Solution]</heading>
+<p id="p0010" num="0010">In one aspect of the present invention, the present invention provides an electrolyte composition comprising a compound of formula (1), a cyclic fluorocarbonate-based compound and a nonaqueous solvent.
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="31" he="20" img-content="chem" img-format="tif"/></chemistry>
+wherein,<!-- EPO <DP n="3"> -->
+<ul id="ul0001" list-style="none" compact="compact">
+<li>R is hydrogen atom or Si[(CH<sub>2</sub>)<sub>x</sub>CH<sub>3</sub>]<sub>y</sub>[(CH<sub>2</sub>)<sub>z</sub>CF<sub>3</sub>]<sub>3-y</sub>, and</li>
+<li>x, y and z are each independently an integer of 0 to 3.</li>
+</ul></p>
+<p id="p0011" num="0011">In one embodiment of the present invention, R may be Si[(CH<sub>2</sub>)<sub>x</sub>CH<sub>3</sub>]<sub>y</sub>[(CH<sub>2</sub>)<sub>z</sub>CF<sub>3</sub>]<sub>3-y</sub>, and x, y and z may be each independently an integer of 0 to 3.</p>
+<p id="p0012" num="0012">In one embodiment of the present invention, the compound of formula (1) may be contained in an amount of 0.05 to 5% by weight, based on 100% by weight of the total electrolyte composition.</p>
+<p id="p0013" num="0013">In one embodiment of the present invention, the cyclic fluorocarbonate-based compound may comprise fluoroethylene carbonate.</p>
+<p id="p0014" num="0014">In one embodiment of the present invention, the cyclic fluorocarbonate-based compound may be contained in an amount of 0.5 to 30% by weight, based on 100% by weight of the total electrolyte composition.</p>
+<p id="p0015" num="0015">In one embodiment of the present invention, a mixing ratio of the compound of formula (1) and the cyclic fluorocarbonate-based compound may be 1:1 to 1:20.</p>
+<p id="p0016" num="0016">In one embodiment of the present invention, the electrolyte composition may further comprise a lithium salt.</p>
+<p id="p0017" num="0017">In another aspect of the present invention, the present invention provides a secondary battery using the electrolyte composition.</p>
+<p id="p0018" num="0018">In one embodiment of the present invention, the secondary battery may be a lithium secondary battery.</p>
+<heading id="h0006">[Advantageous Effects]</heading>
+<p id="p0019" num="0019">The electrolyte composition according to the present invention comprises a cyclic fluorocarbonate-based compound together with a propane sultone compound substituted with a specific substituent, thereby having excellent SEI film-forming ability, and thus when it is applied to a battery, lifespan characteristic at room temperature can be excellent, and power can be enhanced. Also, the electrolyte composition according to the present invention has excellent HF-removing ability, and thus lifespan characteristic is excellent even at high temperature, and stability at high temperature can be improved, thereby enhancing durability.<!-- EPO <DP n="4"> --></p>
+<heading id="h0007">[Best Mode]</heading>
+<p id="p0020" num="0020">Hereinafter, the present invention will be described in more detail.</p>
+<p id="p0021" num="0021">One embodiment of the present invention relates to an electrolyte composition comprising a compound of formula (1), a cyclic fluorocarbonate-based compound and a nonaqueous solvent.
+<chemistry id="chem0002" num="0002"><img id="ib0002" file="imgb0002.tif" wi="31" he="20" img-content="chem" img-format="tif"/></chemistry>
+wherein,
+<ul id="ul0002" list-style="none" compact="compact">
+<li>R is hydrogen atom or Si[(CH<sub>2</sub>)<sub>x</sub>CH<sub>3</sub>]<sub>y</sub>[(CH<sub>2</sub>)<sub>z</sub>CF<sub>3</sub>]<sub>3-y</sub>, and</li>
+<li>x, y and z are each independently an integer of 0 to 3.</li>
+</ul></p>
+<p id="p0022" num="0022">In one embodiment of the present invention, R may be Si[(CH<sub>2</sub>)<sub>x</sub>CH<sub>3</sub>]<sub>y</sub>[(CH<sub>2</sub>)<sub>z</sub>CF<sub>3</sub>]<sub>3-y</sub>, and x, y and z may be each independently an integer of 0 to 3.</p>
+<p id="p0023" num="0023">In one embodiment of the present invention, the compound of formula (1) may be a compound represented by any one of formulae (2) to (9).
+<chemistry id="chem0003" num="0003"><img id="ib0003" file="imgb0003.tif" wi="27" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0004" num="0004"><img id="ib0004" file="imgb0004.tif" wi="28" he="27" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="5"> -->
+<chemistry id="chem0005" num="0005"><img id="ib0005" file="imgb0005.tif" wi="32" he="49" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0006" num="0006"><img id="ib0006" file="imgb0006.tif" wi="42" he="49" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0007" num="0007"><img id="ib0007" file="imgb0007.tif" wi="53" he="49" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0008" num="0008"><img id="ib0008" file="imgb0008.tif" wi="30" he="39" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="6"> -->
+<chemistry id="chem0009" num="0009"><img id="ib0009" file="imgb0009.tif" wi="28" he="44" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0010" num="0010"><img id="ib0010" file="imgb0010.tif" wi="29" he="53" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0024" num="0024">In one embodiment of the present invention, the compound of formula (1) has excellent reactivity with HF, thereby removing HF in the electrolyte composition. Accordingly, it can play a role of improving stability, particularly high temperature stability. Particularly, the compound of formula (1), wherein R is Si[(CH<sub>2</sub>)<sub>x</sub>CH<sub>3</sub>]<sub>y</sub>[(CH<sub>2</sub>)<sub>z</sub>CF<sub>3</sub>]<sub>3-y</sub>, and x, y and z are each independently an integer of 0 to 3 is preferred in terms of HF removing ability.</p>
+<p id="p0025" num="0025">The compound of formula (1) may be commercially available, or may be prepared by methods known in the art.</p>
+<p id="p0026" num="0026">In one embodiment of the present invention, the compound of formula (1) may be contained in an amount of 0.05 to 5% by weight, preferably 0.05 to 3% by weight, based on 100% by weight of the total electrolyte composition. When the compound of formula (1) is contained in an amount less than 0.05% by weight, the SEI film forming ability is degraded and it is hard to expect the effect of increasing stability at the high temperature, and when the compound of formula (1) is contained in an amount exceeding 5% by weight, the resistance increases, which may shorten lifespan of the battery.</p>
+<p id="p0027" num="0027">In one embodiment of the present invention, the cyclic fluorocarbonate-based<!-- EPO <DP n="7"> --> compound forms a stable SEI film on a surface of a negative electrode active material and serves as a co-solvent.</p>
+<p id="p0028" num="0028">Examples of the cyclic fluorocarbonate-based compound may include fluoroethylene carbonate(FEC), 4,5-difluoroethylene carbonate, 4,4-difluoroethylene carbonate, 4,4,5-trifluoroethylene carbonate, 4,4,5,5-tetrafluoroethylene carbonate, 4-fluoro-5-methylethylene carbonate, 4-fluoro-4-methylethylene carbonate, 4,5-difluoro-4-methylethylene carbonate, 4,4,5-trifluoro-5-methylethylene carbonate or a combination thereof, and particularly, fluoroethylene carbonate(FEC) is preferred in terms of SEI film forming ability.</p>
+<p id="p0029" num="0029">In one embodiment of the present invention, the cyclic fluorocarbonate-based compound may be contained in an amount of 0.5 to 30% by weight, preferably 0.5 to 20% by weight, based on 100% by weight of the total electrolyte composition. When the cyclic fluorocarbonate-based compound is contained in an amount less than 0.5% by weight, the SEI film forming ability may be degraded, and when the cyclic fluorocarbonate-based compound is contained in an amount exceeding 30% by weight, HF may be excessively generated in the electrolyte during operation.</p>
+<p id="p0030" num="0030">In one embodiment of the present invention, the weight ratio of the compound of formula (1) and the cyclic fluorocarbonate-based compound may be 1:1 to 1:20, preferably 1:1 to 1:10, more preferably 1:1 to 1:5. When the weight ratio of the compound of formula (1) and the cyclic fluorocarbonate-based compound is within the above range, lifespan characteristic at room temperature, lifespan characteristic at high temperature, and stability at high temperature can be effectively improved at the same time.</p>
+<p id="p0031" num="0031">In one embodiment of the present invention, the nonaqueous solvent plays a role of a medium which allows the migration of ions involved in electrochemical reactions of the battery.</p>
+<p id="p0032" num="0032">As the nonaqueous solvent, any one conventionally used in the art can be used without particular limitation. Examples of the nonaqueous solvent may include carbonate-based solvents, ester-based solvents, ether-based solvents, ketone-based solvents, alcohol-based solvents, or other aprotic solvents and the like. These may be used alone or in a combination of two or more.<!-- EPO <DP n="8"> --></p>
+<p id="p0033" num="0033">As the carbonate-based solvents, chain carbonate-based solvents, cyclic carbonate-based solvents, or a combination thereof can be used.</p>
+<p id="p0034" num="0034">Examples of the chain carbonate-based solvents may include diethyl carbonate(DEC), dimethyl carbonate(DMC), dipropyl carbonate(DPC), methylpropyl carbonate(MPC), ethylpropyl carbonate(EPC), ethylmethyl carbonate (EMC) or a combination thereof, and examples of the cyclic carbonate-based solvents may include ethylene carbonate(EC), propylene carbonate(PC), butylene carbonate(BC), vinylethylene carbonate(VEC) or a combination thereof.</p>
+<p id="p0035" num="0035">As the ester-based solvents, methyl acetate, ethyl acetate, n-propyl acetate, pentyl acetate, methyl propionate, ethyl propionate, butyl propionate, γ-butyrolactone, decanolide, valerolactone, mevalonolactone, caprolactone, methyl formate, ethyl formate, propyl formate and the like may be used.</p>
+<p id="p0036" num="0036">As the ether-based solvents, dibutyl ether, tetraglyme, diglyme, 1,2-dimethoxyethane, 1,2-diethoxyethane, ethoxymethoxyethane, 2-methyltetrahydrofuran, tetrahydrofuran and the like may be used.</p>
+<p id="p0037" num="0037">As the ketone-based solvents, cyclohexanone and the like may be used.</p>
+<p id="p0038" num="0038">As the alcohol-based solvents, ethyl alcohol, isopropyl alcohol and the like may be used.</p>
+<p id="p0039" num="0039">As the other aprotic solvents, dimethylsulfoxide, 1,2-dioxolane, sulfolane, methylsulfolane, 1,3-dimethyl-2-imidazolidinone, N-methyl-2-pyrrolidinone, formamide, dimethylformamide, acetonitrile, nitromethane, trimethyl phosphate, triethyl phosphate, trioctyl phosphate and the like may be used.</p>
+<p id="p0040" num="0040">The electrolyte composition according to one embodiment of the present invention may further comprise a lithium salt.</p>
+<p id="p0041" num="0041">The lithium salt works as a supply source of lithium ions in the battery, and plays a role of promoting the migration of lithium ions between the positive electrode and the negative electrode.</p>
+<p id="p0042" num="0042">Examples of the lithium salt may include LiPF<sub>6</sub>, LiBF<sub>4</sub>, LiSbF<sub>6</sub>, LiAsF<sub>6</sub>, LiN(SO<sub>2</sub>C<sub>2</sub>F<sub>5</sub>)<sub>2</sub>, Li(CF<sub>3</sub>SO<sub>2</sub>)<sub>2</sub>N, LiN(SO<sub>3</sub>C<sub>2</sub>F<sub>5</sub>)<sub>2</sub>, LiC<sub>4</sub>F<sub>9</sub>SO<sub>3</sub>, LiClO<sub>4</sub>, LiAlO<sub>2</sub>, LiALCl<sub>4</sub>, LiCl, LiBr, LiI, LiB(C<sub>2</sub>O<sub>4</sub>)<sub>2</sub>(lithium bis(oxalato) borate, LiBOB), Li(CH<sub>3</sub>CO<sub>2</sub>), Li(CF<sub>3</sub>SO<sub>3</sub>), Li(FSO<sub>2</sub>)<sub>2</sub>N, Li(CF<sub>3</sub>SO<sub>2</sub>)<sub>3</sub>C and the like. These may be used alone or in a combination of two or more.<!-- EPO <DP n="9"> --></p>
+<p id="p0043" num="0043">The concentration of the lithium salt may be 0.1 to 2.0M. When the concentration of the lithium salt is within the above range, the electrolyte composition can have appropriate conductivity and viscosity.</p>
+<p id="p0044" num="0044">One embodiment of the present invention relates to a secondary battery comprising the electrolyte composition described above.</p>
+<p id="p0045" num="0045">Since the secondary battery according to the present invention comprises the electrolyte composition of the present invention comprising the cyclic fluorocarbonate-based compound together with the compound of formula (1), a stable SEI film can be formed on the surface of the negative electrode during the initial charging (formation step), and thus it has excellent lifespan characteristic. Further, HF generated during the operation of the battery can be removed, and thus it has excellent stability, particularly high temperature stability.</p>
+<p id="p0046" num="0046">In one embodiment of the present invention, the secondary battery may be a lithium secondary battery, for example, a lithium ion secondary battery.</p>
+<p id="p0047" num="0047">The lithium secondary battery comprises a positive electrode, a negative electrode and the above-described electrolyte composition.</p>
+<p id="p0048" num="0048">The positive electrode comprises a positive electrode current collector and a positive electrode active material layer formed on the positive electrode current collector.</p>
+<p id="p0049" num="0049">The positive electrode current collector may be used without particular limitation as long as it has conductivity without causing chemical changes in the battery. Specifically, as the positive electrode current collector, aluminum, copper, stainless steel, nickel, titanium, calcined carbon, copper or stainless steel which is surface-treated with carbon, nickel, titanium, silver, etc., an aluminum-cadmium alloy, and the like may be used, and particularly, aluminum may be used. The positive electrode current collector may have various shapes such as foil, net, and porous body, and may enhance the bonding strength of the positive electrode active material by forming fine irregularities on the surface.</p>
+<p id="p0050" num="0050">The positive electrode current collector may have a thickness of 3 to 500 µm.</p>
+<p id="p0051" num="0051">The positive electrode active material layer comprises a positive electrode active material, a binder, and optionally a conductive material.</p>
+<p id="p0052" num="0052">As the positive electrode active material, a compound allowing reversible<!-- EPO <DP n="10"> --> intercalation and deintercalation of lithium may be used. Specifically, as the positive electrode active material, at least one of a composite oxide or composite phosphate formed of lithium and a metal selected from cobalt, manganese, nickel, aluminum, iron, and a combination thereof may be used. More specifically, as the positive electrode active material, lithium cobalt oxide, lithium nickel oxide, lithium manganese oxide, lithium nickel cobalt manganese oxide, lithium nickel cobalt aluminum oxide, lithium iron phosphate, and the like may be used.</p>
+<p id="p0053" num="0053">The binder serves to attach the positive electrode active material particles to each other, and attach the positive electrode active material to the positive electrode current collector. Specifically, as the binder, polyvinyl alcohol, carboxymethyl cellulose, hydroxypropyl cellulose, diacetyl cellulose, polyvinyl chloride, carboxylated polyvinyl chloride, polyvinyl fluoride, a polymer containing ethylene oxide, polyvinyl pyrrolidone, polyurethane, polytetrafluoroethylene, polyvinylidene fluoride, polyethylene, polypropylene, styrene-butadiene rubber, acrylated styrene-butadiene rubber, epoxy resin, nylon, and the like may be used.</p>
+<p id="p0054" num="0054">The conductive material is used to impart conductivity to the electrode, and can be used without limitation as long as it does not cause chemical changes and has electronic conductivity. Specifically, as the conductive material, carbon-based materials such as natural graphite, artificial graphite, carbon black, acetylene black, Ketjen black, carbon fiber and the like; metallic materials such as copper, nickel, aluminum, silver and the like; conductive polymers such as polyphenylene derivatives, etc. can be used.</p>
+<p id="p0055" num="0055">The negative electrode comprises a negative electrode current collector and a negative electrode active material layer formed on the negative electrode current collector.</p>
+<p id="p0056" num="0056">The negative electrode current collector may be used without particular limitation as long as it has conductivity without causing chemical changes to the battery. Specifically, as the negative electrode current collector, copper, aluminum, stainless steel, nickel, titanium, calcined carbon, copper or stainless steel which is surface-treated with carbon, nickel, titanium, silver, etc., an aluminum-cadmium alloy, and the like may be used, and particularly, copper may be used. The negative electrode current collector may have various shapes such as foil, net, and porous body, and may<!-- EPO <DP n="11"> --> enhance the bonding strength of the negative electrode active material by forming fine irregularities on the surface.</p>
+<p id="p0057" num="0057">The negative electrode current collector may have a thickness of 3 to 500 µm.</p>
+<p id="p0058" num="0058">The negative electrode active material layer comprises a negative electrode active material, a binder, and optionally a conductive material.</p>
+<p id="p0059" num="0059">As the negative electrode active material, a material allowing reversible intercalation and deintercalation of lithium ions, lithium metal, an alloy of lithium metal, a material which can dope and dedope lithium, a transition metal oxide, etc. may be used.</p>
+<p id="p0060" num="0060">The material allowing reversible intercalation and deintercalation of lithium ions may be a carbon-based material, which may include crystalline carbon, noncrystalline carbon, or a combination thereof. Examples of the crystalline carbon may include amorphous, plate-shaped, flake-shaped, spherical or fibrous graphite, which may be natural graphite or artificial graphite. Examples of the noncrystalline carbon may include soft carbon or hard carbon, mesophase pitch carbide, and calcined coke.</p>
+<p id="p0061" num="0061">As the alloy of lithium metal, an alloy of lithium and a metal selected from the group consisting of Na, K, Rb, Cs, Fr, Be, Mg, Ca, Sr, Si, Sb, Pb, In, Zn, Ba, Ra, Ge, Al and Sn may be used.</p>
+<p id="p0062" num="0062">As the material which can dope and dedope lithium, Si, Si-C composite, SiO<sub>x</sub> (0&lt;x&lt;2), Si-Q alloy (wherein Q is an element selected from the group consisting of alkali metal, alkali earth metal, group 13 element, group 14 element, group 15 element, group 16 element, transition metal, rare earth element, and a combination thereof, and is not Si), Sn, SnO<sub>2</sub>, Sn-R alloy (wherein R is an element selected from the group consisting of alkali metal, alkali earth metal, group 13 element, group 14 element, group 15 element, group 16 element, transition metal, rare earth element, and a combination thereof, and is not Sn), etc. may be used, and at least one of them can be mixed with SiO<sub>2</sub>. The elements Q and R may be selected from the group consisting of Mg, Ca, Sr, Ba, Ra, Sc, Y, Ti, Zr, Hf, Rf, V, Nb, Ta, Db, Cr, Mo, W, Sg, Tc, Re, Bh, Fe, Pb, Ru, Os, Hs, Rh, Ir, Pd, Pt, Cu, Ag, Au, Zn, Cd, B, Al, Ga, Sn, In, Tl, Ge, P, As, Sb, Bi, S, Se, Te, Po and a combination thereof.</p>
+<p id="p0063" num="0063">The transition metal oxide may be vanadium oxide, lithium vanadium oxide,<!-- EPO <DP n="12"> --> or lithium titanium oxide, etc.</p>
+<p id="p0064" num="0064">The binder serves to attach the negative electrode active material particles to each other, and attach the negative electrode active material to the negative electrode current collector. Specifically, the binder may be the same as those used for the positive electrode active material layer.</p>
+<p id="p0065" num="0065">The conductive material is used to impart conductivity to the electrode, and can be used without limitation as long as it does not cause chemical changes and has electronic conductivity. Specifically, the conductive material may be the same as those used for the positive electrode active material layer.</p>
+<p id="p0066" num="0066">The positive electrode and negative electrode can be prepared by a method commonly known in the art.</p>
+<p id="p0067" num="0067">Specifically, each of the positive electrode and negative electrode is prepared by mixing an active material, a binder, and optionally a conductive material in a solvent to prepare an active material composition, and then applying the active material composition on a current collector.</p>
+<p id="p0068" num="0068">As the solvent, N-methylpyrrolidone(NMP), acetone, water, etc. may be used.</p>
+<p id="p0069" num="0069">The positive electrode and negative electrode may be separated by a separator. The separator may be used without particular limitation, as long as it is commonly used in the art. Particularly, it is suitable to have low resistance to ion migration in the electrolyte composition and have excellent wetting ability of the electrolyte composition. The separator may be a material selected from glass fiber, polyester, teflon, polyethylene, polypropylene, polytetrafluoroethylene(PTFE), and a combination thereof, and may be in the form of a nonwoven or woven fabric. The separator may have a pore diameter of 0.01 to 10 µm and a thickness of 3 to 100 µm. The separator may be a single-layer or multi-layer film.</p>
+<p id="p0070" num="0070">The lithium secondary battery may be manufactured by a method commonly known in the art.</p>
+<p id="p0071" num="0071">Specifically, the lithium secondary battery can be manufactured by interposing a separator between the positive electrode and negative electrode to obtain a laminate, then winding or folding the laminate to accommodate it in a battery container, and injecting the electrolyte composition into the battery container, followed by sealing it with a sealing member.<!-- EPO <DP n="13"> --></p>
+<p id="p0072" num="0072">The battery container may be a cylindrical type, a prismatic type, a thin film type, etc.</p>
+<p id="p0073" num="0073">The secondary battery may be used for mobile phones, portable computers, electric vehicles and the like. In addition, the secondary battery may be used for hybrid vehicles, etc. in combination with an internal combustion engine, a fuel cell, a supercapacitor, etc., and may also be used in electric bicycles and power tools requiring high-power and high-voltage and operation at high temperature.</p>
+<p id="p0074" num="0074">Hereinafter, the present invention will be described in more detail with reference to examples, comparative examples and experimental examples. It should be apparent to those skilled in the art that these examples, comparative examples and experimental examples are for illustrative purposes only, and the scope of the present invention is not limited thereto.</p>
+<heading id="h0008"><b>Synthesis Example 1: Synthesis of the compound of formula (4)</b></heading>
+<p id="p0075" num="0075">In acetonitrile as a reaction solvent, 1.4g of the compound of formula (3) and 3.6g of 1,3-bis(3,3,3-trifluoropropyl)-1,1,3,3-tetramethyldisilazane were reacted at a temperature of 25°C for 1 hour, followed by purification using vacuum distillation to obtain 2.8g of the compound of formula (4) (yield: 98%).
+<chemistry id="chem0011" num="0011"><img id="ib0011" file="imgb0011.tif" wi="32" he="48" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0076" num="0076"><sup>1</sup>H NMR (299.87 MHz, CDCl<sub>3</sub>): δ = 0.16-0.28(t, 6H), 0.82-0.87(dt, 2H), 2.01-2.14(m, 2H), 3.14-3.18(dd, 1H), 3.50-3.55(dd, 1H), 4.20-4.24(dd, 1H), 4.51-4.55(dd, 1H), 4.83-4.89(qui, 1H)ppm</p>
+<heading id="h0009"><b>Example 1: Preparation of electrolyte composition</b></heading>
+<p id="p0077" num="0077">To a mixed solvent in which ethylene carbonate(EC) and ethylmethyl carbonate(EMC) were mixed in a volume ratio of 3:7 was added LiPF<sub>6</sub> to 1.0M, and<!-- EPO <DP n="14"> --> then the compound of formula (2) was added in an amount of 1% by weight based on 100% by weight of the total electrolyte composition, followed by adding fluoroethylene carbonate in an amount of 3% by weight to prepare an electrolyte composition.
+<chemistry id="chem0012" num="0012"><img id="ib0012" file="imgb0012.tif" wi="27" he="36" img-content="chem" img-format="tif"/></chemistry></p>
+<heading id="h0010"><b>Example 2: Preparation of electrolyte composition</b></heading>
+<p id="p0078" num="0078">An electrolyte composition was prepared in the same manner as in Example 1, except that the compound of formula (3) was used instead of the compound of formula (2).
+<chemistry id="chem0013" num="0013"><img id="ib0013" file="imgb0013.tif" wi="28" he="27" img-content="chem" img-format="tif"/></chemistry></p>
+<heading id="h0011"><b>Example 3: Preparation of electrolyte composition</b></heading>
+<p id="p0079" num="0079">An electrolyte composition was prepared in the same manner as in Example 1, except that the compound of formula (2) was added in an amount of 0.05% by weight.</p>
+<heading id="h0012"><b>Example 4: Preparation of electrolyte composition</b></heading>
+<p id="p0080" num="0080">An electrolyte composition was prepared in the same manner as in Example 1, except that the compound of formula (2) was added in an amount of 3% by weight.</p>
+<heading id="h0013"><b>Example 5: Preparation of electrolyte composition</b></heading>
+<p id="p0081" num="0081">An electrolyte composition was prepared in the same manner as in Example 1, except that fluoroethylene carbonate was added in an amount of 0.5% by weight.</p>
+<heading id="h0014"><b>Example 6: Preparation of electrolyte composition</b></heading>
+<p id="p0082" num="0082">An electrolyte composition was prepared in the same manner as in Example 1, except that fluoroethylene carbonate was added in an amount of 20% by weight.</p>
+<heading id="h0015"><b>Example 7: Preparation of electrolyte composition</b></heading>
+<p id="p0083" num="0083">An electrolyte composition was prepared in the same manner as in Example 1,<!-- EPO <DP n="15"> --> except that the compound of formula (4) was used instead of the compound of formula (2).
+<chemistry id="chem0014" num="0014"><img id="ib0014" file="imgb0014.tif" wi="32" he="49" img-content="chem" img-format="tif"/></chemistry></p>
+<heading id="h0016"><b>Example 8: Preparation of electrolyte composition</b></heading>
+<p id="p0084" num="0084">An electrolyte composition was prepared in the same manner as in Example 1, except that the compound of formula (5) was used instead of the compound of formula (2).
+<chemistry id="chem0015" num="0015"><img id="ib0015" file="imgb0015.tif" wi="42" he="49" img-content="chem" img-format="tif"/></chemistry></p>
+<heading id="h0017"><b>Example 9: Preparation of electrolyte composition</b></heading>
+<p id="p0085" num="0085">An electrolyte composition was prepared in the same manner as in Example 1, except that the compound of formula (6) was used instead of the compound of formula (2).
+<chemistry id="chem0016" num="0016"><img id="ib0016" file="imgb0016.tif" wi="53" he="48" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="16"> --></p>
+<heading id="h0018"><b>Example 10: Preparation of electrolyte composition</b></heading>
+<p id="p0086" num="0086">An electrolyte composition was prepared in the same manner as in Example 1, except that the compound of formula (7) was used instead of the compound of formula (2).
+<chemistry id="chem0017" num="0017"><img id="ib0017" file="imgb0017.tif" wi="30" he="39" img-content="chem" img-format="tif"/></chemistry></p>
+<heading id="h0019"><b>Example 11: Preparation of electrolyte composition</b></heading>
+<p id="p0087" num="0087">An electrolyte composition was prepared in the same manner as in Example 1, except that the compound of formula (8) was used instead of the compound of formula (2).
+<chemistry id="chem0018" num="0018"><img id="ib0018" file="imgb0018.tif" wi="28" he="44" img-content="chem" img-format="tif"/></chemistry></p>
+<heading id="h0020"><b>Example 12: Preparation of electrolyte composition</b></heading>
+<p id="p0088" num="0088">An electrolyte composition was prepared in the same manner as in Example 1, except that the compound of formula (9) was used instead of the compound of formula (2).<!-- EPO <DP n="17"> -->
+<chemistry id="chem0019" num="0019"><img id="ib0019" file="imgb0019.tif" wi="28" he="53" img-content="chem" img-format="tif"/></chemistry></p>
+<heading id="h0021"><b>Comparative Example 1: Preparation of electrolyte composition</b></heading>
+<p id="p0089" num="0089">An electrolyte composition was prepared in the same manner as in Example 1, except that the compound of formula (2) was not added.</p>
+<heading id="h0022"><b>Comparative Example 2: Preparation of electrolyte composition</b></heading>
+<p id="p0090" num="0090">An electrolyte composition was prepared in the same manner as in Example 1, except that fluoroethylene carbonate was not added.</p>
+<heading id="h0023"><b>Comparative Example 3: Preparation of electrolyte composition</b></heading>
+<p id="p0091" num="0091">An electrolyte composition was prepared in the same manner as in Example 2, except that fluoroethylene carbonate was not added.</p>
+<heading id="h0024"><b>Comparative Example 4: Preparation of electrolyte composition</b></heading>
+<p id="p0092" num="0092">An electrolyte composition was prepared in the same manner as in Example 7, except that fluoroethylene carbonate was not added.</p>
+<heading id="h0025"><b>Comparative Example 5: Preparation of electrolyte composition</b></heading>
+<p id="p0093" num="0093">An electrolyte composition was prepared in the same manner as in Example 1, except that the compound of formula (a) was used instead of the compound of formula (2).
+<chemistry id="chem0020" num="0020"><img id="ib0020" file="imgb0020.tif" wi="35" he="51" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="18"> --></p>
+<heading id="h0026"><b>Experimental Example 1:</b></heading>
+<p id="p0094" num="0094">Secondary batteries were prepared as below using the electrolyte compositions prepared in the above Examples and Comparative Examples. The lifespan characteristic at room temperature, stability at high temperature, and lifespan characteristic at high temperature were measured by the methods below, and the discoloration characteristic after storage of the electrolyte composition was observed. The results are shown in Table 1 below.</p>
+<heading id="h0027">&lt;Manufacture of secondary battery&gt;</heading>
+<p id="p0095" num="0095">To a mixture of LiNi<sub>1/3</sub>Co<sub>1/3</sub>Mn<sub>1/3</sub>O<sub>2</sub> powder as a positive electrode active material, a carbon conductive material (Super-P; Timcal Ltd.), and a PVDF(polyvinylidene fluoride) binder in a weight ratio of 90:5:5 was added N-methylpyrrolidone(NMP) as a solvent to a solid content of 60% by weight to prepare a positive electrode slurry. The positive electrode slurry was coated with a thickness of about 40µm on an aluminum foil having a thickness of 15µm. It was dried at room temperature, then dried again at 120°C, and then rolled to prepare a positive electrode.</p>
+<p id="p0096" num="0096">To a mixture of artificial graphite as a negative electrode active material, styrene-butadiene rubber and carboxymethylcellulose in a weight ratio of 90:5:5 was added N-methylpyrrolidone to a solid content of 60% by weight to prepare a negative electrode slurry. The negative electrode slurry was coated with a thickness of about 40µm on a copper foil having a thickness of 10µm . It was dried at room temperature, then dried again at 120°C, and then rolled to prepare a negative electrode.</p>
+<p id="p0097" num="0097">A secondary battery was prepared using the positive electrode, the negative electrode and the electrolyte composition with a polyethylene separator.</p>
+<p id="p0098" num="0098">The prepared secondary battery was charged at 25°C with a constant current of 0.2C until the voltage reached 4.2V, and then discharged at a constant current of 0.2C until the voltage reached 2.5V. Then, constant current charging was performed with a current of 0.5C until the voltage reached 4.2V, and while maintaining 4.2V, constant voltage charging was performed until the current reached 0.05C. Subsequently, discharging was performed at a constant current of 0.5C until the voltage reached 2.5V at the time of discharging (formation step).</p>
+<heading id="h0028"><b>(1) Lifespan characteristic at room temperature</b></heading>
+<p id="p0099" num="0099">The secondary battery that had undergone the formation step was charged at<!-- EPO <DP n="19"> --> 25°C at a constant current of 1.0C until the voltage reached 4.2V, and while maintaining 4.2V, the secondary battery was charged with a constant voltage until the current reached 0.05C. Subsequently, discharging was performed at a constant current of 1.0C until the voltage reached 2.5V at the time of discharging. The cycle was repeated 300 times.</p>
+<p id="p0100" num="0100">The capacity retention ratio (%) at the 300th cycle of each secondary battery was calculated by the following Equation 1. <maths id="math0001" num="[Equation 1]"><math display="block"><mtable columnalign="left"><mtr><mtd><mrow><mi>Capacity</mi><mspace width="1ex"/><mi>retention</mi><mspace width="1ex"/><mi>rate</mi></mrow><mfenced open="[" close="]"><mi>%</mi></mfenced><mo>=</mo><mrow><mo>[</mo><mrow><mi>Discharge</mi><mspace width="1ex"/><mi>capacity</mi><mspace width="1ex"/><mi>at</mi><mspace width="1ex"/><mi>the</mi><mspace width="1ex"/><mi>300th</mi><mspace width="1ex"/><mi>cycle</mi><mo>/</mo></mrow></mrow></mtd></mtr><mtr><mtd><mrow><mrow><mi>Discharge</mi><mspace width="1ex"/><mi>capacity</mi><mspace width="1ex"/><mi>at</mi><mspace width="1ex"/><mi>the</mi><mspace width="1ex"/><mi>first</mi><mspace width="1ex"/><mi>cycle</mi></mrow><mo>]</mo></mrow><mo>×</mo><mn>100</mn></mtd></mtr></mtable></math><img id="ib0021" file="imgb0021.tif" wi="152" he="20" img-content="math" img-format="tif"/></maths></p>
+<heading id="h0029"><b>(2) Voltage preservation stability at high temperature</b></heading>
+<p id="p0101" num="0101">The secondary battery that had undergone the formation step was charged at 25°C at a constant current of 1.0C until the voltage reached 4.2V, and while maintaining 4.2V, the secondary battery was charged with a constant voltage until the current reached 0.05C. Subsequently, while storing the charged secondary battery at 60°C, the voltage was measured every 24 hours using a multi-meter to measure the residual voltage of the charged-state cell at the high temperature to determine voltage preservation stability at high temperature.</p>
+<p id="p0102" num="0102">The voltage retention rate (%) at the time of the measurement on the 15th day of each secondary battery was calculated by the following Equation 2. <maths id="math0002" num="[Equation 2]"><math display="block"><mtable columnalign="left"><mtr><mtd><mrow><mi>Voltage</mi><mspace width="1ex"/><mi>retention</mi><mspace width="1ex"/><mi>rate</mi></mrow><mfenced open="[" close="]"><mi>%</mi></mfenced><mo>=</mo><mrow><mo>[</mo><mrow><mi>Open</mi><mspace width="1ex"/><mi>circuit</mi><mspace width="1ex"/><mi>voltage</mi><mspace width="1ex"/><mi>on</mi><mspace width="1ex"/><mi>the</mi><mspace width="1ex"/><mi>15th</mi><mspace width="1ex"/><mi>day</mi><mo>/</mo></mrow></mrow><mi>Initial</mi></mtd></mtr><mtr><mtd><mrow><mrow><mi>open</mi><mspace width="1ex"/><mi>circuit</mi><mspace width="1ex"/><mi>voltage</mi></mrow><mo>]</mo></mrow><mo>×</mo><mn>100</mn></mtd></mtr></mtable></math><img id="ib0022" file="imgb0022.tif" wi="152" he="20" img-content="math" img-format="tif"/></maths></p>
+<heading id="h0030"><b>(3) Discoloration characteristic</b></heading>
+<p id="p0103" num="0103">The electrolyte compositions prepared in Examples and Comparative Examples were stored at 60°C for 15 days, and then the change of the color was observed and evaluated according to the following evaluation criteria.</p>
+<heading id="h0031">&lt;Evaluation Criteria&gt;</heading>
+<p id="p0104" num="0104">
+<ul id="ul0003" list-style="none" compact="compact">
+<li>○: No color change</li>
+<li>×: Color change</li>
+</ul></p>
+<heading id="h0032"><b>(4) Lifespan characteristic at high temperature</b></heading>
+<p id="p0105" num="0105">The secondary battery that had undergone the formation step was charged at<!-- EPO <DP n="20"> --> 45°C at a constant current of 1.0C until the voltage reached 4.2V, and while maintaining 4.2V, the secondary battery was charged with a constant voltage until the current reached 0.05C. Subsequently, discharging was performed at a constant current of 1.0C until the voltage reached 2.5V at the time of discharging. The cycle was repeated 300 times.</p>
+<p id="p0106" num="0106">The capacity retention ratio (%) at the 300th cycle of each secondary battery was calculated by the above Equation 1.<!-- EPO <DP n="21"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>[Table 1]</title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="46mm"/>
+<colspec colnum="3" colname="col3" colwidth="26mm"/>
+<colspec colnum="4" colname="col4" colwidth="25mm"/>
+<colspec colnum="5" colname="col5" colwidth="46mm"/>
+<thead>
+<row>
+<entry align="center" valign="top"/>
+<entry align="center" valign="top">Lifespan characteristic at room temperature</entry>
+<entry align="center" valign="top">Stability at high temperature</entry>
+<entry align="center" valign="top">Discoloration characteristic</entry>
+<entry align="center" valign="top">Lifespan characteristic at high temperature</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">Example 1</entry>
+<entry align="center">94.0%</entry>
+<entry align="center">96.2%</entry>
+<entry align="center">○</entry>
+<entry align="center">92.3%</entry></row>
+<row>
+<entry align="center">Example 2</entry>
+<entry align="center">91.4%</entry>
+<entry align="center">95.5%</entry>
+<entry align="center">○</entry>
+<entry align="center">89.3%</entry></row>
+<row>
+<entry align="center">Example 3</entry>
+<entry align="center">87.1%</entry>
+<entry align="center">96.0%</entry>
+<entry align="center">○</entry>
+<entry align="center">86.7%</entry></row>
+<row>
+<entry align="center">Example 4</entry>
+<entry align="center">93.8%</entry>
+<entry align="center">96.2%</entry>
+<entry align="center">○</entry>
+<entry align="center">90.4%</entry></row>
+<row>
+<entry align="center">Example 5</entry>
+<entry align="center">87.8%</entry>
+<entry align="center">95.2%</entry>
+<entry align="center">○</entry>
+<entry align="center">89.5%</entry></row>
+<row>
+<entry align="center">Example 6</entry>
+<entry align="center">96.7%</entry>
+<entry align="center">95.7%</entry>
+<entry align="center">○</entry>
+<entry align="center">88.2%</entry></row>
+<row>
+<entry align="center">Example 7</entry>
+<entry align="center">94.2%</entry>
+<entry align="center">96.3%</entry>
+<entry align="center">○</entry>
+<entry align="center">92.5%</entry></row>
+<row>
+<entry align="center">Example 8</entry>
+<entry align="center">93.8%</entry>
+<entry align="center">96.1%</entry>
+<entry align="center">○</entry>
+<entry align="center">90.8%</entry></row>
+<row>
+<entry align="center">Example 9</entry>
+<entry align="center">93.3%</entry>
+<entry align="center">95.9%</entry>
+<entry align="center">○</entry>
+<entry align="center">91.2%</entry></row>
+<row>
+<entry align="center">Example 10</entry>
+<entry align="center">94.0%</entry>
+<entry align="center">96.2%</entry>
+<entry align="center">○</entry>
+<entry align="center">91.1%</entry></row>
+<row>
+<entry align="center">Example 11</entry>
+<entry align="center">93.9%</entry>
+<entry align="center">96.1%</entry>
+<entry align="center">○</entry>
+<entry align="center">90.5%</entry></row>
+<row>
+<entry align="center">Example 12</entry>
+<entry align="center">93.6%</entry>
+<entry align="center">96.3%</entry>
+<entry align="center">○</entry>
+<entry align="center">90.8%</entry></row>
+<row>
+<entry align="center">Comparative Example 1</entry>
+<entry align="center">86.3%</entry>
+<entry align="center">94.3%</entry>
+<entry align="center">○</entry>
+<entry align="center">79.3%</entry></row>
+<row>
+<entry align="center">Comparative Example 2</entry>
+<entry align="center">81.7%</entry>
+<entry align="center">96.0%</entry>
+<entry align="center">○</entry>
+<entry align="center">75.4%</entry></row>
+<row>
+<entry align="center">Comparative Example 3</entry>
+<entry align="center">76.3%</entry>
+<entry align="center">95.5%</entry>
+<entry align="center">○</entry>
+<entry align="center">70.3%</entry></row>
+<row>
+<entry align="center">Comparative Example 4</entry>
+<entry align="center">82.1%</entry>
+<entry align="center">96.0%</entry>
+<entry align="center">○</entry>
+<entry align="center">78.4%</entry></row>
+<row>
+<entry align="center">Comparative Example 5</entry>
+<entry align="center">84.1%</entry>
+<entry align="center">93.8%</entry>
+<entry align="center">×</entry>
+<entry align="center">79.3%</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0107" num="0107">As shown in Table 1, the secondary batteries prepared using the electrolyte compositions of Examples 1 to 12 comprising a propane sultone compound of formula (1) and a cyclic fluorocarbonate-based compound according to the present invention<!-- EPO <DP n="22"> --> showed superior lifespan characteristic at room temperature as well as excellent stability and lifespan characteristic even at high temperature, as compared with the secondary batteries prepared using the electrolyte compositions of Comparative Examples 1 to 5.</p>
+<p id="p0108" num="0108">It seems to be because, in the electrolyte composition according to the present invention, the cyclic fluorocarbonate-based compound forms SEI film, and the propane sultone compound of formula (1) removes HF which is generated by the cyclic fluorocarbonate-based compound and is ring-opened by electrochemical reaction, thereby contributing to the formation of SEI film.</p>
+<p id="p0109" num="0109">The electrolyte composition of Comparative Example 5 showed discoloration after the storage for a certain period.</p>
+<p id="p0110" num="0110">As particular embodiments of the present invention have been described in detail above, it will be obvious to those skilled in the art that these specific techniques are merely preferred embodiments and the scope of the invention is not limited thereto. It will be understood by those skilled in the art that various changes and modifications may be made based on the above contents without departing from the spirit and scope of the present invention.</p>
+<p id="p0111" num="0111">The substantial scope of the present invention, therefore, is to be defined by the appended claims and equivalents thereof.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="23"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>An electrolyte composition comprising a compound of formula (1), a cyclic fluorocarbonate-based compound and a nonaqueous solvent:
+<chemistry id="chem0021" num="0021"><img id="ib0023" file="imgb0023.tif" wi="31" he="20" img-content="chem" img-format="tif"/></chemistry>
+wherein,
+<claim-text>R is hydrogen atom or Si[(CH<sub>2</sub>)<sub>x</sub>CH<sub>3</sub>]<sub>y</sub>[(CH<sub>2</sub>)<sub>z</sub>CF<sub>3</sub>]<sub>3-y</sub>, and</claim-text>
+<claim-text>x, y and z are each independently an integer of 0 to 3.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The electrolyte composition of claim 1, wherein R is Si[(CH<sub>2</sub>)<sub>x</sub>CH<sub>3</sub>]<sub>y</sub>[(CH<sub>2</sub>)<sub>z</sub>CF<sub>3</sub>]<sub>3-y</sub>, and x, y and z are each independently an integer of 0 to 3.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The electrolyte composition of claim 1, wherein the compound of formula (1) is a compound represented by any one of formulae (2) to (9):
+<chemistry id="chem0022" num="0022"><img id="ib0024" file="imgb0024.tif" wi="27" he="36" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0023" num="0023"><img id="ib0025" file="imgb0025.tif" wi="28" he="27" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="24"> -->
+<chemistry id="chem0024" num="0024"><img id="ib0026" file="imgb0026.tif" wi="32" he="49" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0025" num="0025"><img id="ib0027" file="imgb0027.tif" wi="42" he="49" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0026" num="0026"><img id="ib0028" file="imgb0028.tif" wi="53" he="49" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0027" num="0027"><img id="ib0029" file="imgb0029.tif" wi="30" he="39" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="25"> -->
+<chemistry id="chem0028" num="0028"><img id="ib0030" file="imgb0030.tif" wi="28" he="44" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0029" num="0029"><img id="ib0031" file="imgb0031.tif" wi="29" he="53" img-content="chem" img-format="tif"/></chemistry></claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The electrolyte composition of claim 1, wherein the compound of formula (1) is contained in an amount of 0.05 to 5% by weight, based on 100% by weight of the total electrolyte composition.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The electrolyte composition of claim 1, wherein the cyclic fluorocarbonate-based compound comprises fluoroethylene carbonate.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The electrolyte composition of claim 1, wherein the cyclic fluorocarbonate-based compound is contained in an amount of 0.5 to 30% by weight, based on 100% by weight of the total electrolyte composition.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The electrolyte composition of claim 1, wherein a weight ratio of the compound of formula (1) and the cyclic fluorocarbonate-based compound is 1:1 to 1:20.<!-- EPO <DP n="26"> --></claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>The electrolyte composition of claim 1, further comprising a lithium salt.</claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>A secondary battery comprising the electrolyte composition of any one of claims 1 to 8.</claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>The secondary battery of claim 9, wherein the secondary battery is a lithium secondary battery.</claim-text></claim>
+</claims>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="151" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="151" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="KR100977973"><document-id><country>KR</country><doc-number>100977973</doc-number></document-id></patcit><crossref idref="pcit0001">[0005]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

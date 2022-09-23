@@ -1,0 +1,1277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19888537A1" file="EP19888537NWA1.xml" lang="en" country="EP" doc-number="3888653" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3888653</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19888537.8</B210><B220><date>20191129</date></B220><B240><B241><date>20210527</date></B241></B240><B250>ja</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>2018224434</B310><B320><date>20181130</date></B320><B330><ctry>JP</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>A61K  31/444       20060101AFI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>A61P   7/02        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>A61P   9/00        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>C07D 471/04        20060101ALI20200605BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>A61K  31/444       20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>A61P   7/02        20180101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="3"><text>A61P   9/00        20180101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="4"><text>C07D 471/04        20130101 LI20200626BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>NEUARTIGER KRISTALL VON (3S)-3-[2-(6-AMINO-2-FLUORPYRIDIN-3-YL)-4-FLUOR-1H-IMIDAZOL-5-YL]-7-[5-CHLORO-2-(1H-TETRAZOL-1-YL)PHENYL]-2,3-DIHYDROINDOLIZIN-5(1H)-ON</B542><B541>en</B541><B542>NOVEL CRYSTAL OF (3S)-3-[2-(6-AMINO-2-FLUOROPYRIDINE-3-YL)-4-FLUORO-1H-IMIDAZOLE-5-YL]-7-[5-CHLORO-2-(1H-TETRAZOLE-1-YL)PHENYL]-2,3-DIHYDROINDOLIZINE-5(1H)-ONE</B542><B541>fr</B541><B542>NOUVEAU CRISTAL DE (3S)-3-[2-(6-AMINO-2-FLUOROPYRIDINE-3-YL)-4-FLUORO-1H-IMIDAZOLE-5-YL]-7-[5-CHLORO-2-(1H-TÉTRAZOLE-1-YL)PHÉNYL]-2,3-DIHYDROINDOLIZINE-5(1H)-ONE</B542></B540><B590><B598>none</B598></B590></B500><B700><B710><B711><snm>ONO Pharmaceutical Co., Ltd.</snm><iid>101026551</iid><irf>N421874EP</irf><adr><str>1-5, Doshomachi 2-chome 
+Chuo-ku</str><city>Osaka-shi, Osaka 541-8526</city><ctry>JP</ctry></adr></B711></B710><B720><B721><snm>FUJITO, Takayuki</snm><adr><str>c/o ONO PHARMACEUTICAL CO., LTD., 1-1, Sakurai 3-
+chome, Shimamoto-cho</str><city>Mishima-gun, Osaka 618-8585</city><ctry>JP</ctry></adr></B721><B721><snm>ONO, Shizuka</snm><adr><str>c/o ONO PHARMACEUTICAL CO., LTD., 1-1, Sakurai 3-
+chome, Shimamoto-cho</str><city>Mishima-gun, Osaka 618-8585</city><ctry>JP</ctry></adr></B721><B721><snm>OHTANI, Shuhei</snm><adr><str>c/o ONO PHARMACEUTICAL CO., LTD., 1-1, Sakurai 3-
+chome, Shimamoto-cho</str><city>Mishima-gun, Osaka 618-8585</city><ctry>JP</ctry></adr></B721></B720><B740><B741><snm>J A Kemp LLP</snm><iid>101669666</iid><adr><str>14 South Square 
+Gray's Inn</str><city>London WC1R 5JJ</city><ctry>GB</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>JP2019046893</anum></dnum><date>20191129</date></B861><B862>ja</B862></B860><B870><B871><dnum><pnum>WO2020111268</pnum></dnum><date>20200604</date><bnum>202023</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">Provided is a novel crystal form of (3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one.</p>
+<p id="pa02" num="0002">Provided is (3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one-3-hydroxybenzoic acid (1/1).</p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">TECHNICAL FIELD</heading>
+<p id="p0001" num="0001">The present invention relates to a novel crystal of (3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one and others.</p>
+<heading id="h0002">BACKGROUND ART</heading>
+<p id="p0002" num="0002">Thrombosis and thromboembolism which is a complication of thrombosis (hereinafter referred to as thromboembolic disease) are ranked high along with cancer as the cause of death of adults, and have become important problems in recent years. Thromboembolic disease occurs by the formation of a thrombus at a site of vascular injury. Alternatively, thromboembolic disease occurs when a thrombus is released and is carried by the blood stream into another blood vessel where the thrombus obstructs a blood vessel at another site. Thromboembolic disease includes, for example, venous thromboembolism which is a collective term for deep venous thrombosis and pulmonary embolism, cerebral stroke, angina pectoris, myocardial infarction, other various arterial and venous thrombosis and the like.</p>
+<p id="p0003" num="0003">Tissue factor expressed on a vascular wall due to the injury of a blood vessel and the like becomes the starting point of the blood coagulation cascade and forms a complex with blood coagulation factor VII which is present in blood in a very small quantity. This complex activates blood coagulation factor IX and blood coagulation factor X, and activated blood coagulation factor X converts prothrombin to thrombin. Thrombin converts fibrinogen to fibrin and finally insoluble fibrin is formed (the initial stage). It is supposed that thrombin produced in the process promotes the formation of a thrombus at the initial stage and is important for hemostasis. On the other hand, it has been reported that thrombin activates blood coagulation factor XI and causes explosive thrombin production via activated blood coagulation factor XI (hereinafter also referred to as FXIa) (the amplification stage), which results in an increase in thrombi (see Non Patent Literatures 1 to 3).<!-- EPO <DP n="2"> --></p>
+<p id="p0004" num="0004">For the treatment and/or prevention of thromboembolic disease, anticoagulant agents are generally used. Though conventional anticoagulant agents exhibit excellent antithrombotic actions, bleeding complications, which are serious side effects, have been problematic. Alternatively, in order not to cause bleeding complications, the doses of the agents are limited and it is supposed that there is a possibility that the agents do not exhibit sufficient antithrombotic actions. Under such conditions, an agent for treating and/or preventing thrombosis and thromboembolism having a novel mechanism of action, which suppresses the growth of or increase in pathological thrombi and does not affect the formation of hemostatic thrombi, is required. As one of the targets of the agent, FXIa is attracting attention in recent years. Blood coagulation factor XI is one of plasma serine proteases which are involved in the regulation of blood coagulation and becomes FXIa by activated blood coagulation factor XII, thrombin or itself. FXIa is one of constituents of the blood coagulation pathway which is referred to as the intrinsic system or the contact system in the classical blood coagulation cascade and activates blood coagulation factor IX by selectively cleaving peptide bonds of Arg-Ala and Arg-Val. The safety of FXIa is supported by the observations that the blood coagulation factor XI deficiency in humans, which is called hemophilia C, results in mild to moderate bleeding characterized primarily by postoperative or posttraumatic hemorrhage. In addition, the effects and the high safety of FXIa are demonstrated by the experimental results of experimental thrombosis and bleeding models which used blood coagulation factor XI deficient mice and the experimental results of an anti-blood coagulation factor XI neutralizing antibody or an antisense in experimental thrombosis and bleeding models which used monkeys or rabbits, in addition to the results of observations of the blood coagulation factor XI deficiency in humans (see Non Patent Literatures 4 to 8).</p>
+<p id="p0005" num="0005">Based on the above results, it is expected that FXIa is a very attractive target without exhibiting the side effect of bleeding when developing an antithrombotic agent for treatment and/or prevention and an FXIa inhibitor becomes a very potent and safe antithrombotic agent for treatment or prevention without having any undesirable side effects such as bleeding.</p>
+<p id="p0006" num="0006">In Patent Literature 1, it is described that (3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one<!-- EPO <DP n="3"> --> is a selective blood coagulation factor XIa inhibitor and is therefore useful as a therapeutic agent for thromboembolic diseases and the like.</p>
+<heading id="h0003">CITATIONS LISTS</heading>
+<heading id="h0004">Patent Literature</heading>
+<p id="p0007" num="0007">Patent Literature 1: International Publication No.<patcit id="pcit0001" dnum="WO2016093285A"><text> 2016/093285</text></patcit> pamphlet Non Patent Literatures</p>
+<p id="p0008" num="0008">
+<ul id="ul0001" list-style="none" compact="compact">
+<li>Non Patent Literature 1:<nplcit id="ncit0001" npl-type="s"><text> Blood Coagulation and Fibrinolysis, 2006, Vol. 17, pages 251-257</text></nplcit></li>
+<li>Non Patent Literature 2: <nplcit id="ncit0002" npl-type="s"><text>Science, 1991, Vol. 253, pages 909-912</text></nplcit></li>
+<li>Non Patent Literature 3: <nplcit id="ncit0003" npl-type="s"><text>Blood, 2003, Vol. 102, pages 953-955</text></nplcit></li>
+<li>Non Patent Literature 4: <nplcit id="ncit0004" npl-type="s"><text>Journal of Thrombosis and Haemostasis, 2005, Vol. 3, pages 695-702</text></nplcit></li>
+<li>Non Patent Literature 5: <nplcit id="ncit0005" npl-type="s"><text>Journal of Thrombosis and Haemostasis, 2006, Vol. 4, pages 1982-1988</text></nplcit></li>
+<li>Non Patent Literature 6: <nplcit id="ncit0006" npl-type="s"><text>Blood, 2012, Vol. 119, pages 2401-2408</text></nplcit></li>
+<li>Non Patent Literature 7: <nplcit id="ncit0007" npl-type="s"><text>Blood, 2009, Vol. 113, pages 936-944</text></nplcit></li>
+<li>Non Patent Literature 8: <nplcit id="ncit0008" npl-type="s"><text>Journal of Thrombosis and Haemostasis, 2006, Vol. 4, pages 1496-1501</text></nplcit></li>
+</ul></p>
+<heading id="h0005">SUMMARY OF INVENTION</heading>
+<heading id="h0006">TECHNICAL PROBLEMS</heading>
+<p id="p0009" num="0009">As an active ingredient for a pharmaceutical, a crystal which is easy to handle and is superior in hygroscopicity and oral absorption is desirable. The physical properties of (3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one disclosed in Patent Literature 1 are examined, and it is found that the crystallinity of a free form and a dihydrochloride of this compound are extremely poor. Furthermore, it is also found that, although the dihydrate can have a crystal form, the dihydrochloride shows high hygroscopicity and low oral absorption as mentioned below. In these situations, it has been demanded to produce a novel active pharmaceutical ingredient form (e.g., a salt, a solvate, a cocrystal) which can form a crystal thereof and is superior in handleability when used in a pharmaceutical. Accordingly, the object of the<!-- EPO <DP n="4"> --> present invention is to form a crystal of a salt, a solvate or a cocrystal of (3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one and provide an active pharmaceutical ingredient form which is superior in low hygroscopicity and/or oral absorption.</p>
+<heading id="h0007">SOLUTIONS TO PROBLEMS</heading>
+<p id="p0010" num="0010">In order to solve the above-mentioned problems, the present inventors have made studies. As a result, it is found that (3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one can form a crystal in conjunction with each of specific coformers, i.e., α-resorcylic acid, gentisic acid, nicotinamide and 3-hydroxybenzoic acid, among many coformers. Further studies have been made, and it is also found that (3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1lH-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one-3-hydroxybenzoic acid (1/1) (also simply referred to as a "compound A" or "the compound of the invention", hereinafter) is superior in low hygroscopicity and/or oral absorption. These findings lead to the accomplishment of the present invention.</p>
+<p id="p0011" num="0011">The present invention provides the following embodiments, for example.
+<ul id="ul0002" list-style="none" compact="compact">
+<li>[1] (3S)-3-[2-(6-Amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1 -yl)phenyl]-2,3-dihydroindolizin-5(1H)-one-3-hydroxybenzoic acid (1/1);</li>
+<li>[2] the compound according to the above item [1], wherein the compound is in a crystal form;</li>
+<li>[3] the compound according to the above item [2], wherein the crystal form has at least two diffraction peaks at diffraction angles (2θ) of about 9.4, about 14.1, about 15.8, about 16.5, about 17.4, about 18.4, about 20.6 and about 22.4 degrees in a powder X-ray diffraction spectrum;</li>
+<li>[3-1] the compound according to the above item [2], wherein the crystal form has at least three diffraction peaks at diffraction angles (2θ) of about 9.4, about 14.1, about 15.8, about 16.5, about 17.4, about 18.4, about 20.6 and about 22.4 degrees in a powder X-ray diffraction spectrum;</li>
+<li>[3-2] the compound according to the above item [2], wherein the crystal form has at least four diffraction peaks at diffraction angles (2θ) of about 9.4, about 14.1, about 15.8, about 16.5, about 17.4, about 18.4, about 20.6 and about 22.4 degrees in a powder X-ray diffraction spectrum;<!-- EPO <DP n="5"> --></li>
+<li>[3-3] the compound according to the above item [2], wherein the crystal form has at least five diffraction peaks at diffraction angles (2θ) of about 9.4, about 14.1, about 15.8, about 16.5, about 17.4, about 18.4, about 20.6 and about 22.4 degrees in a powder X-ray diffraction spectrum;</li>
+<li>[3-4] the compound according to the above item [2], wherein the crystal form has diffraction peaks at diffraction angles (2θ) of about 9.4, about 14.1, about 15.8, about 16.5, about 17.4, about 18.4, about 20.6 and about 22.4 degrees in a powder X-ray diffraction spectrum;</li>
+<li>[4] the compound according to the above item [2], wherein the crystal form has diffraction peaks at diffraction angles (2θ) of about 9.4, about 13.3, about 14.1, about 14.7, about 15.1, about 15.8, about 16.5, about 17.4, about 17.7, about 18.0, about 18.4, about 18.9, about 19.3, about 19.8, about 20.6, about 20.9, about 22.4, about 22.8, about 23.2, about 24.2, about 25.0, about 25.5, about 25.8, about 26.3, about 27.2, about 27.6, about 27.9, about 28.6, about 29.5 and about 31.0 degrees in a powder X-ray diffraction spectrum;</li>
+<li>[5] the compound according to the above item [2], wherein the crystal form is characterized by having a powder X-ray diffraction spectrum chart shown in <figref idref="f0005">Fig. 5</figref>;</li>
+<li>[6] the compound according to any one of the above items [2] to [5] or [3-1] to [3-4], wherein the crystal form has an onset temperature of about 214°C or an exothermic peak temperature of about 215°C in differential scanning calorimetry;</li>
+<li>[7] the compound according to the above item [6], wherein the crystal form is characterized by having a differential scanning calorimetry chart shown in <figref idref="f0010">Fig. 10</figref>;</li>
+<li>[8] the compound according to any one of the above items [1] to [7] or [3-1] to [3-4], wherein the compound is a cocrystal;</li>
+<li>[9] a pharmaceutical composition containing the compound according to any one of the above items [1] to [8] or [3-1] to [3-4];</li>
+<li>[10] the pharmaceutical composition according to the above item [9], wherein the pharmaceutical composition is a blood coagulation factor XIa inhibitor;</li>
+<li>[11] the pharmaceutical composition according to the above item [9], wherein the pharmaceutical composition is a prophylactic and/or therapeutic agent for a blood coagulation factor XIa-related disease;</li>
+<li>[12] the pharmaceutical composition according to the above item [11], wherein the blood coagulation factor XIa-related disease is a thromboembolic disease;</li>
+<li>[13] the pharmaceutical composition according to the above item [12], wherein the thromboembolic disease is arterial cardiovascular thromboembolic disorder, venous<!-- EPO <DP n="6"> --> cardiovascular thromboembolic disorder, arterial cerebrovascular thromboembolic disorder, venous cerebrovascular thromboembolic disorder or thromboembolic disorder in the heart chamber or in the peripheral circulation;</li>
+<li>[14] the pharmaceutical composition according to the above item [12], wherein the thromboembolic disease is cerebral stroke, cerebral thrombosis, cerebral embolism, venous thrombosis, venous thromboembolism, deep venous thrombosis, or a thrombosis and/or a thromboembolism induced by a treatment in which blood is exposed on a surface of an artificial object;</li>
+<li>[15] a method for preventing and/or treating a thromboembolic disease, the method comprising administrating an effective amount of the compound according to any one of the above items [1] to [8] or [3-1] to [3-4] to a mammal;</li>
+<li>[16] the compound according to any one of the above items [1] to [8] or [3-1] to [3-4], which is used for the prevention and/or treatment of a thromboembolic disease;</li>
+<li>[17] a use of the compound according to any one of the above items [1] to [8] or [3-1] to [3-4] for the production of a prophylactic and/or therapeutic agent for a thromboembolic disease;</li>
+<li>[18] a method for producing the compound according to any one of the above items [1] to [8] or [3-1] to [3-4] using ethyl acetate in the process of the production;</li>
+<li>[19] a compound represented by the structural formula:
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="111" he="36" img-content="chem" img-format="tif"/></chemistry></li>
+<li>[20] a cocrystal of (3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one and 3-hydroxybenzoic acid.</li>
+<li>[20-1] (3S)-3-[2-(6-Amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one-3-hydroxybenzoic acid (1/1). [20-2] The compound according to the item [20-1], wherein the compound is a crystal.<!-- EPO <DP n="7"> --></li>
+<li>[20-3] The crystal according to the item [20-2], wherein the crystal has at least two diffraction peaks at diffraction angles (2θ) of about 9.4, about 14.1, about 15.8, about 16.5, about 17.4, about 18.4, about 20.6 and about 22.4 degrees in a powder X-ray diffraction spectrum.</li>
+<li>[20-4] The crystal according to the item [20-2], wherein the crystal has diffraction peaks at diffraction angles (2θ) of about 9.4, about 13.3, about 14.1, about 14.7, about 15.1, about 15.8, about 16.5, about 17.4, about 17.7, about 18.0, about 18.4, about 18.9, about 19.3, about 19.8, about 20.6, about 20.9, about 22.4, about 22.8, about 23.2, about 24.2, about 25.0, about 25.5, about 25.8, about 26.3, about 27.2, about 27.6, about 27.9, about 28.6, about 29.5 and about 31.0 degrees in a powder X-ray diffraction spectrum.</li>
+<li>[20-5] The crystal according to the item [20-2], wherein the crystal has a powder X-ray diffraction spectrum chart shown in <figref idref="f0005">Fig. 5</figref>.</li>
+<li>[20-6] The crystal according to the item [20-2] or [20-3], wherein the crystal has an onset temperature of about 214°C or an exothermic peak temperature of about 215°C in differential scanning calorimetry.</li>
+<li>[20-7] The crystal according to the item [20-6], wherein the crystal has a differential scanning calorimetry chart shown in <figref idref="f0010">Fig. 10</figref>.</li>
+<li>[20-8] The compound according to the item [20-1], wherein the compound is a cocrystal.</li>
+<li>[20-9] The crystal according to any one of the items [20-1] to [20-7], wherein the crystal is a cocrystal.</li>
+<li>[20-10] A pharmaceutical composition containing the compound according to the item [20-1] or a crystal according to the item [20-2].</li>
+<li>[20-11] The pharmaceutical composition according to the item [20-10], wherein the pharmaceutical composition is a blood coagulation factor XIa inhibitor.</li>
+<li>[20-12] The pharmaceutical composition according to the item [20-10], wherein the pharmaceutical composition is a prophylactic and/or therapeutic agent for a blood coagulation factor XIa-related disease.</li>
+<li>[20-13] The pharmaceutical composition according to the item [20-12], wherein the blood coagulation factor XIa-related disease is a thromboembolic disease.</li>
+<li>[20-14] The pharmaceutical composition according to the item [20-13], wherein the thromboembolic disease is arterial cardiovascular thromboembolic disorder, venous cardiovascular thromboembolic disorder, arterial cerebrovascular thromboembolic disorder, venous cerebrovascular thromboembolic disorder or a thromboembolic disorder in the heart chamber or in the peripheral circulation.<!-- EPO <DP n="8"> --></li>
+<li>[20-15] The pharmaceutical composition according to the item [20-13], wherein the thromboembolic disease is cerebral stroke, cerebral thrombosis, cerebral embolism, venous thrombosis, venous thromboembolism, deep venous thrombosis, or a thrombosis and/or a thromboembolism induced by a treatment in which blood is exposed on a surface of an artificial object.</li>
+</ul></p>
+<heading id="h0008">ADVANTAGEOUS EFFECTS OF INVENTION</heading>
+<p id="p0012" num="0012">The compound A can be formed into a crystal thereof, and is therefore useful as an active pharmaceutical ingredient having excellent low hygroscopicity and/or oral absorption.</p>
+<heading id="h0009">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p0013" num="0013">
+<ul id="ul0003" list-style="none" compact="compact">
+<li><figref idref="f0001">Fig. 1</figref> shows a powder X-ray diffraction spectrum chart of a compound of Example 1(11) (wherein the vertical axis indicates an intensity (counts) and the horizontal axis indicates 2θ (degree)).</li>
+<li><figref idref="f0002">Fig. 2</figref> shows a powder X-ray diffraction spectrum chart of a compound of Example 2 (wherein the vertical axis indicates an intensity (counts) and the horizontal axis indicates 2θ (degree)).</li>
+<li><figref idref="f0003">Fig. 3</figref> shows a powder X-ray diffraction spectrum chart of a compound of Example 3 (wherein the vertical axis indicates an intensity (counts) and the horizontal axis indicates 2θ (degree)).</li>
+<li><figref idref="f0004">Fig. 4</figref> shows a powder X-ray diffraction spectrum chart of a compound of Example 4 (wherein the vertical axis indicates an intensity (counts) and the horizontal axis indicates 2θ (degree)).</li>
+<li><figref idref="f0005">Fig. 5</figref> shows a powder X-ray diffraction spectrum chart of a compound of Example 5 (wherein the vertical axis indicates an intensity (counts) and the horizontal axis indicates 2θ (degree)).</li>
+<li><figref idref="f0006">Fig. 6</figref> shows a differential scanning calorimetry (DSC) chart of the compound of Example 1(11) (wherein the vertical axis indicates a heat flux (W/g) and the horizontal axis indicates a temperature (°C)).</li>
+<li><figref idref="f0007">Fig. 7</figref> shows a differential scanning calorimetry (DSC) chart of the compound of Example 2 (wherein the vertical axis indicates a heat flux (W/g) and the horizontal axis indicates a temperature (°C)).<!-- EPO <DP n="9"> --></li>
+<li><figref idref="f0008">Fig. 8</figref> shows a differential scanning calorimetry (DSC) chart of the compound of Example 3 (wherein the vertical axis indicates a heat flux (W/g) and the horizontal axis indicates a temperature (°C)).</li>
+<li><figref idref="f0009">Fig. 9</figref> shows a differential scanning calorimetry (DSC) chart of the compound of Example 4 (wherein the vertical axis indicates a heat flux (W/g) and the horizontal axis indicates a temperature (°C)).</li>
+<li><figref idref="f0010">Fig. 10</figref> shows a differential scanning calorimetry (DSC) chart of the compound of Example 5 (wherein the vertical axis indicates a heat flux (W/g) and the horizontal axis indicates a temperature (°C)).</li>
+<li><figref idref="f0011">Fig. 11</figref> shows a thermogravimetry (TG) chart of the compound of Example 1(11) (wherein in the horizontal axis, the vertical axis indicates a rate of change in weight (Weight (%)) and the horizontal axis indicates a temperature (Temperature (°C)).</li>
+<li><figref idref="f0012">Fig. 12</figref> shows a thermogravimetry (TG) chart of the compound of Example 2 (wherein in the horizontal axis, the vertical axis indicates a rate of change in weight (Weight (%)) and the horizontal axis indicates a temperature (Temperature (°C)).</li>
+<li><figref idref="f0013">Fig. 13</figref> shows a thermogravimetry (TG) chart of the compound of Example 3 (wherein in the horizontal axis, the vertical axis indicates a rate of change in weight (Weight (%)) and the horizontal axis indicates a temperature (Temperature (°C)).</li>
+<li><figref idref="f0014">Fig. 14</figref> shows a thermogravimetry (TG) chart of the compound of Example 4 (wherein in the horizontal axis, the vertical axis indicates a rate of change in weight (Weight (%)) and the horizontal axis indicates a temperature (Temperature (°C)).</li>
+<li><figref idref="f0015">Fig. 15</figref> shows a thermogravimetry (TG) chart of the compound of Example 5 (wherein in the horizontal axis, the vertical axis indicates a rate of change in weight (Weight (%)) and the horizontal axis indicates a temperature (Temperature (°C)).</li>
+<li><figref idref="f0016">Fig. 16</figref> shows isothermal adsorption curves of the compound of Example 1(11) (dihydrate), the compound of Example 2 (RES), the compound of Example 3 (GEN), the compound of Example 4 (NIA), and the compound of Example 5 (3HBA) (wherein the vertical axis indicates a change in dry mass (%) and the horizontal axis indicates a relative humidity (RH) (%)).</li>
+<li><figref idref="f0017">Fig. 17</figref> shows the changes in concentrations in blood of cocrystals of the compound of Example 1(11) (dihydrate), the compound of Example 4 (NIA) and the compound of Example 5 (3HBA) when each of the cocrystals is administrated orally to monkeys (1 mg/kg)<!-- EPO <DP n="10"> --> (wherein the vertical axis indicates a concentration of a compound in plasma (ng/mL) and the horizontal axis indicates a time (h)).</li>
+</ul></p>
+<heading id="h0010">DESCRIPTION OF EMBODIMENTS</heading>
+<p id="p0014" num="0014">The present invention will be described in detail hereinbelow.</p>
+<p id="p0015" num="0015">In the present invention, (3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one refers to a compound represented by the following structural formula:
+<chemistry id="chem0002" num="0002"><img id="ib0002" file="imgb0002.tif" wi="96" he="43" img-content="chem" img-format="tif"/></chemistry>
+(wherein the symbol:
+<chemistry id="chem0003" num="0003"><img id="ib0003" file="imgb0003.tif" wi="13" he="12" img-content="chem" img-format="tif"/></chemistry>
+represents an α-configuration, and the symbol:
+<chemistry id="chem0004" num="0004"><img id="ib0004" file="imgb0004.tif" wi="11" he="10" img-content="chem" img-format="tif"/></chemistry>
+represents a β-configuration).</p>
+<p id="p0016" num="0016"><!-- EPO <DP n="11"> --> The compound represented by the above-mentioned structural formula can also be named "(3S)-3-[2-(6-amino-2-fluoro-3-pyridinyl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydro-5(1H)-indolizinone", as described in Example 2(10) in Patent Literature 1.</p>
+<p id="p0017" num="0017">In the present invention, (3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one-3-hydroxybenzoic acid (1/1) refers to a compound represented by the following structural formula:
+<chemistry id="chem0005" num="0005"><img id="ib0005" file="imgb0005.tif" wi="125" he="39" img-content="chem" img-format="tif"/></chemistry>
+(wherein all symbols are as described above).</p>
+<p id="p0018" num="0018">The compound represented by the above-mentioned structural formula can also be named:
+<ul id="ul0004" list-style="none" compact="compact">
+<li>"(3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one-3-hydroxybenzoic acid (1/1)",</li>
+<li>"(3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one-3-hydroxybenzoic acid (1 : 1)",</li>
+<li>"(3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one mono-3-hydroxybenzoate",</li>
+<li>"(3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one 3-hydroxybenzoic acid (1/1)",</li>
+<li>"(3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one 3-hydroxybenzoic acid (1 : 1)",<!-- EPO <DP n="12"> --></li>
+<li>"(3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one-mono-3-hydroxybenzoate",</li>
+<li>"(3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one •3-hydroxybenzoic acid (1/1)",</li>
+<li>"(3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one •3-hydroxybenzoic acid (1 : 1)",</li>
+<li>"(3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one •mono-3-hydroxybenzoate",</li>
+<li>"(3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one-3-hydroxybenzoic acid",</li>
+<li>"(3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one 3-hydroxybenzoic acid",</li>
+<li>"(3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one •3-hydroxybenzoic acid",</li>
+<li>"(3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one3-hydroxybenzoic acid", or</li>
+<li>"(3S)-3-[2-(6-Amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one mono-3-hydroxybenzoate".</li>
+</ul></p>
+<p id="p0019" num="0019">In the indication of the compound names, the hyphen (-) located between "(3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one" and "3-hydroxybenzoic acid" may also be expressed by an em dash or a double hyphen (--) instead, as shown in Table 1 below.<!-- EPO <DP n="13"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>[Table 1]</title>
+<tgroup cols="1" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="161mm" colsep="1"/>
+<tbody>
+<row>
+<entry>(3S)-342-(6-Amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one-3-hydroxybenzoic acid (1/1)</entry></row>
+<row>
+<entry>(3S)-3-[2-(6-Amino-2-fluoropyridin-3-yl)4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one-3-hydroxybenzoic acid (1/1)</entry></row>
+<row>
+<entry>(3S)-3-[2-(6-Amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetraxol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one-3-hydroxybenzoic acid (1/1)</entry></row>
+<row>
+<entry>(3S)-3-[2-(6-Amino-2-fluoropyridin-3-yl)4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one--3-hydroxybenzoic acid (1/1)</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0020" num="0020">One form of the compound A is, for example, an adduct. The term "adduct" as used herein refers to a novel chemical species (AB) formed by the direct bonding of two different molecules (A) and (B) to each other in such a manner that the number of atoms in either one of the compounds cannot be decreased or increased. Examples of the adduct include a salt and a cocrystal.</p>
+<p id="p0021" num="0021">In one embodiment, the compound A is an adduct of (3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one and 3-hydroxybenzoic acid.</p>
+<p id="p0022" num="0022">In one embodiment, the compound A is a cocrystal of (3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one and 3-hydroxybenzoic acid. The compound A can be characterized by at least one of physical chemical data (a) and (b) shown below. It is preferred that the compound A is characterized by both of physical chemical data (a) and (b). (a) The compound A has (i) a powder X-ray diffraction spectrum shown in <figref idref="f0005">Fig. 5</figref>, (ii) diffraction angles (2θ) of the powder X-ray diffraction spectrum shown in <figref idref="f0005">Fig. 5</figref>, (iii) a powder X-ray diffraction spectrum having substantially the same diffraction angles (2θ) (about 9.4, about 13.3, about 14.1, about 14.7, about 15.1, about 15.8, about 16.5, about 17.4, about 17.7, about 18.0, about 18.4, about 18.9, about 19.3, about 19.8, about 20.6, about 20.9, about 22.4, about 22.8, about 23.2, about 24.2, about 25.0, about 25.5, about 25.8, about 26.3, about 27.2, about 27.6, about 27.9, about 28.6, about 29.5 and about 31.0 degrees) as those<!-- EPO <DP n="14"> --> shown in Table 6, (iv) a powder X-ray diffraction spectrum having at least one, two, three, four, five or more than 5 peaks at a diffraction angle (2θ) or diffraction angles (2θ) selected from substantially the same diffraction angles (2θ) as those shown in Table 6, or (v) a powder X-ray diffraction spectrum having at least one, two, three, four, five or more than five peaks at an a diffraction angle (2θ) or diffraction angles (2θ) selected from about 9.4, about 14.1, about 15.8, about 16.5, about 17.4, about 18.4, about 20.6 and about 22.4 degrees; and (b) the compound A has differential scanning calorimetry (DSC) shown in <figref idref="f0010">Fig. 10</figref> or an exothermic peak having an onset temperature of about 214°C or an exothermic peak temperature of about 215°C.</p>
+<heading id="h0011">[Labeling with isotope]</heading>
+<p id="p0023" num="0023">In the compound A, at least one atom may be substituted by an isotope. The compound A labeled with an isotope, e.g., the compound A having a radioisotope incorporated therein, is useful in histological distribution studies on drugs and/or substrates and the like. Examples of the isotope include <sup>2</sup>H, <sup>3</sup>H, <sup>11</sup>C, <sup>13</sup>C, <sup>14</sup>C, <sup>13</sup>N, <sup>15</sup>N, <sup>15</sup>O, <sup>17</sup>O, <sup>18</sup>O, <sup>35</sup>S, <sup>18</sup>F, <sup>36</sup>Cl, <sup>123</sup>I and <sup>125</sup>I.</p>
+<heading id="h0012">[Toxicity]</heading>
+<p id="p0024" num="0024">The toxicity of the compound A is low. Therefore, the compound A can be used safely.</p>
+<heading id="h0013">[Application to pharmaceuticals]</heading>
+<p id="p0025" num="0025">The compound A has a potent FXIa inhibitory activity. Accordingly, the compound of the present invention is useful for preventing and/or treating thromboembolic disease, for example, arterial cardiovascular thromboembolic disorder, venous cardiovascular thromboembolic disorder, arterial cerebrovascular thromboembolic disorder, venous cerebrovascular thromboembolic disorder and thromboembolic disorder in the heart chamber or in the peripheral circulation.</p>
+<p id="p0026" num="0026">Examples of the arterial cardiovascular thromboembolic disorder include coronary artery disease, ischemic cardiomyopathy, acute coronary syndrome, coronary artery thrombosis, ischemic complications of unstable angina and non-Q wave myocardial infarction, ST-segment-elevation-type and/or non-ST-segment-elevation-type acute<!-- EPO <DP n="15"> --> myocardial infarction which is medically managed or involves percutaneous coronary intervention, angina pectoris such as stable (exercise-induced) angina pectoris, variant angina pectoris, unstable angina pectoris, myocardial infarction (such as initial myocardial infarction and recurrent myocardial infarction), acute myocardial infarction, reocclusion and stenosis of a blood vessel after coronary artery bypass graft surgery, reocclusion and stenosis after percutaneous transluminal angioplasty, cardiac/transcoronary stent implantation and after thrombolytic therapy for coronary artery, ischemic sudden death and the like.</p>
+<p id="p0027" num="0027">Examples of the venous cardiovascular thromboembolic disease include deep venous thrombosis (DVT) and/or pulmonary embolism (PE) in major general surgery, abdominal surgery, artificial hip replacement arthroplasty, knee replacement arthroplasty, hip fracture surgery, multiple bone fracture, multiple trauma, traumatic injury, spinal cord injury, burn injury or at the time of entering critical care unit, DVT and/or PE in a patient with acute medical disease with a significantly limited physical activity, DVT and/or PE in a patient receiving cancer chemotherapy, DVT and/or PE in a patient with cerebral stroke, symptomatic or asymptomatic DVT regardless of the presence/absence of PE and the like.</p>
+<p id="p0028" num="0028">Examples of the arterial cerebrovascular thromboembolic disorder include cerebral stroke, ischemic stroke, the acute phase of cerebral infarction, cerebral stroke in a patient with nonvalvular atrial fibrillation or valvular atrial fibrillation, cerebral arterial thrombosis, cerebral infarction, transient ischemic attack (TIA), lacunar infarct, atherothrombotic cerebral infarction, Branch atheromatous disease (BAD), cerebral arterial embolism, cerebral thrombosis, cerebrovascular disorder, asymptomatic cerebral infarction, and cerebrovascular dementia.</p>
+<p id="p0029" num="0029">Examples of the venous cerebrovascular thromboembolic disorder include intracranial venous thrombosis, cerebral embolism, cerebral thrombosis, cerebral venous sinus thrombosis, intracranial venous sinus thrombosis, cavernous sinus thrombosis and the like.</p>
+<p id="p0030" num="0030">Examples of the thromboembolic disease in the heart chamber or in the peripheral circulation include venous thrombosis, systemic venous thromboembolism, recurrent venous thromboembolism, thrombophlebitis, nonvalvular and valvular atrial fibrillation, cardiogenic embolism, disseminated intravascular coagulation (DIC), sepsis, acute respiratory distress<!-- EPO <DP n="16"> --> syndrome (ARDS), acute lung injury (ALI), chronic obstructive pulmonary disease, antiphospholipid antibody syndrome, liver embolism, hepatic veno-occlusive disease (VOD), kidney embolism, renal vein thrombosis, renal artery occlusion, refractory nephrotic syndrome due to membranous nephropathy or focal sclerosing glomerulonephritis, splenic vein thrombosis, superior mesenteric arterial occlusion, portal vein thrombosis, retinal vein occlusion, atherosclerosis, atherothrombosis, peripheral arterial occlusive disease (PAOD), peripheral arterial disease, arterial embolism, diabetes and metabolic syndrome as well as sequelae thereof, and thrombosis induced by a treatment in which blood is exposed to the surface of an artificial object (such as a medical implant, a medical device, a catheter, a stent, a prosthetic cardiac valve, a heart-lung machine, and a hemodialyzer) which can promote thrombus formation and the like.</p>
+<p id="p0031" num="0031">Preferable examples of the thromboembolic disease include coronary artery disease, unstable angina, acute coronary syndrome, atrial fibrillation, myocardial infarction(such as initial myocardial infarction and recurrent myocardial infarction), ischemic sudden death, transient ischemic attack, cerebral stroke, peripheral arterial disease, atherosclerosis, peripheral occlusive arterial disease, venous thrombosis, venous thromboembolism, deep venous thrombosis, thrombophlebitis, arterial embolism, coronary artery thrombosis, cerebral arterial thrombosis, cerebral embolism, kidney embolism, portal vein thrombosis, pulmonary embolism, pulmonary infarction, liver embolism, hepatic veno-occlusive disease (VOD)/sinusoidal obstruction syndrome (SOS), thrombotic microangiopathy (TMA), disseminated intravascular coagulation (DIC), sepsis, acute respiratory distress syndrome (ARDS), acute lung injury (ALI), antiphospholipid antibody syndrome, thrombosis due to coronary artery bypass graft surgery, and thrombosis induced by a treatment in which blood is exposed to the surface of an artificial object (such as a medical implant, a medical device, a catheter, a stent, a prosthetic cardiac valve, a heart-lung machine, and a hemodialyzer) which can promote thrombus formation.</p>
+<p id="p0032" num="0032">In the present specification, atrial fibrillation, atherosclerosis or sepsis includes thromboembolic disease induced by atrial fibrillation, atherosclerosis or sepsis.</p>
+<p id="p0033" num="0033">More preferable examples of the thromboembolic disease include cerebral stroke, cerebral thrombosis, cerebral embolism, venous thrombosis, venous thromboembolism, deep<!-- EPO <DP n="17"> --> vein thrombosis, and thrombosis and / or thromboembolism induced by a treatment in which blood is exposed to the surface of an artificial object.</p>
+<p id="p0034" num="0034">The venous thromboembolism (VTE) includes deep venous thrombosis (DVT), pulmonary embolism (PE) and pulmonary embolism which involves deep venous thrombosis. The prevention and/or treatment of the VTE includes the treatment and/ or the suppression of recurrence of deep vein thrombosis and pulmonary thromboembolism, the onset inhibition of VTE in a patient receiving an orthopedic surgery of lower extremity (such as total knee replacement arthroplasty, total hip replacement and operation of hip fracture), the onset inhibition of DVT and/or PE in a patient with acute medical disease with significantly limited physical activity, the intraoperative and/or postoperative onset inhibition of VTE in a patient receiving abdominal surgery and the onset inhibition of DVT and/or PE in a patient receiving cancer chemotherapy.</p>
+<p id="p0035" num="0035">The prevention and/or treatment of the ischemic stroke includes the onset inhibition and/or treatment of ischemic stroke and systemic embolism in a patient with nonvalvular atrial fibrillation, the onset inhibition and/or treatment of recurrent cerebral stroke and systemic embolism in a patient with embolic stroke of undetermined source (ESUS), the onset inhibition and/or treatment of ischemic stroke and systemic embolism in a patient with atrial fibrillation associated with acute coronary syndrome (ACS), the onset inhibition and/or treatment of ischemic stroke and systemic embolism in a patient with atrial fibrillation with chronic kidney disease (CKD) or end-stage renal disease, the onset inhibition and/or treatment of Branch atheromatous disease (BAD), and the inhibition of recurrence and/or treatment of ischemic stroke(excepting cardiogenic embolism).</p>
+<p id="p0036" num="0036">The prevention and/or treatment of the thromboembolic disease induced by the treatment in which blood is exposed to an artificial surface which promotes thrombus formation includes the prevention and/or treatment of thromboembolic disease in a patient receiving prosthetic replacement, the prevention and/or treatment of thromboembolic disease in a patient with installation of a ventricular assist device such as an implantable ventricular assist device, a total replacement type ventricular assist device, a percutaneous ventricular assist device and an extracorporeal ventricular assist device and the prevention and/or treatment of thromboembolic disease in a patient with an indwelled coronary artery stent.<!-- EPO <DP n="18"> --></p>
+<p id="p0037" num="0037">The prevention and/or treatment of the acute coronary syndrome (ACS), coronary artery disease or peripheral arterial disease includes the inhibition of a cardiovascular event in a patient with acute coronary syndrome (ACS), the inhibition of a cardiovascular event in a patient with coronary artery disease or peripheral arterial disease and the inhibition of a cardiovascular event in a patient with diabetes with a high cardiovascular risk (more preferably, in a patient with type 2 diabetes).</p>
+<p id="p0038" num="0038">In addition, the compound A has a plasma kallikrein inhibitory action, and therefore, is useful for preventing and/or treating disease associated with plasma kallikrein.</p>
+<p id="p0039" num="0039">Examples of the disease associated with plasma kallikrein include retinopathy, diabetic retinopathy, hypertensive retinopathy, proliferative and nonproliferative retinopathy, age-related macular degeneration (AMD), disorder related to the prevention and/or treatment of hematoma or increased vascular permeability, disease related to edema, hereditary angioedema (HAE), diabetic macular edema (DME), clinically significant macular edema (CSME), cystoid macular edema (CME), retinal edema, edema related to neuroglia, cerebral edema, lymphedema, angioedema, traumatic brain injury, hemorrhagic stroke, intracerebral hemorrhage, cerebral aneurysm, arteriovenous malformation, spinal cord injury, ischemia-reperfusion injury, ischemia, cerebral ischemia, pain, disorder accompanied with elements of inflammation, encephalitis, multiple sclerosis, pruritus, arthritis, inflammatory bowel disease, gout, psoriasis, disease related to activation of stellate cells, Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, Creutzfeldt-Jakob disease, epilepsy, essential hypertension, hypertension related to diabetes or hyperlipidemia, renal failure, chronic kidney disease, heart failure, proteinuria, blood loss during surgery and the like.</p>
+<p id="p0040" num="0040">Preferable examples of the disease associated with plasma kallikrein include disease related to edema, hereditary angioedema, macular edema, cerebral edema, retinopathy, formation of edema related to ischemia-reperfusion injury as well as blood loss during surgery such as cardiopulmonary bypass and coronary artery bypass grafting.<!-- EPO <DP n="19"> --></p>
+<p id="p0041" num="0041">When the compound A is applied to a pharmaceutical, the compound of the present invention may be used singly, or may also be used in combination with a drug as mentioned below for the purpose of, for example,:
+<ol id="ol0001" compact="compact" ol-style="">
+<li>(1) complementation and/or enhancement of the effects of preventing, treating and/or ameliorating symptoms of a disease,</li>
+<li>(2) improvement in the kinetics or absorption, and reduction of the dose of the compound A, and/or</li>
+<li>(3) reduction of the side effects of the compound A.</li>
+</ol></p>
+<p id="p0042" num="0042">When the compound A is used for preventing and/or treating thromboembolic disease, examples of the drug which can be used in combination with the compound A include an anticoagulant agent, an antiplatelet agent, a thrombolytic agent, a fibrinolytic agent, a serine protease inhibitor, an elastase inhibitor, a steroid, and a combination thereof.</p>
+<p id="p0043" num="0043">Examples of the anticoagulant agent include a thrombin inhibitor, an antithrombin III activator, a heparin cofactor II activator, other FXIa inhibitors, a plasma and/or tissue kallikrein inhibitor, an inhibitor of plasminogen activator inhibitor (PAI-1), an inhibitor of thrombin-activatable fibrinolysis inhibitor (TAFI), a factor VIIa inhibitor, a factor VIIIa inhibitor, a factor IXa inhibitor, a factor Xa inhibitor, a factor XIIa inhibitor, a combination thereof and the like.</p>
+<p id="p0044" num="0044">Examples of the antiplatelet agent include a GPII/IIIa blocker, a protease-activated receptor (PAR-1) antagonist, a PAR-4 antagonist, a phosphodiesterase III inhibitor, other phosphodiesterase inhibitors, a P2X1 antagonist, a P2Y1 receptor antagonist, a P2Y12 antagonist, a thromboxane receptor antagonist, a thromboxane A2 synthetase inhibitor, a cyclooxygenase-1 inhibitor, a phospholipase D1 inhibitor, a phospholipase D2 inhibitor, a phospholipase D inhibitor, a glycoprotein VI (GPVI) antagonist, a glycoprotein Ib (GPIB) antagonist, a GAS6 antagonist, aspirin, a combination thereof and the like.</p>
+<p id="p0045" num="0045">The drug to be used in combination with the compound A is preferably an antiplatelet agent.</p>
+<p id="p0046" num="0046"><!-- EPO <DP n="20"> --> Preferable examples of the antiplatelet agent include clopidogrel, prasugrel, ticagrelor, cangrelor, elinogrel, cilostazol, sarpogrelate, iloprost, beraprost, limaprost and/or aspirin, a combination thereof and the like.</p>
+<p id="p0047" num="0047">Preferably, the drug to be used in combination with the compound A is warfarin, unfractionated heparin, low-molecular-weight heparin, enoxaparin, dalteparin, bemiparin, tinzaparin, semuloparin sodium (AVE-5026), danaparoid, a synthesized pentasaccharide, fondaparinux, hirudin, disulfatohirudin, lepirudin, bivalirudin, desirudin, argatroban, aspirin, ibuprofen, naproxen, sulindac, indomethacin, mefenamate, droxicam, diclofenac, sulfinpyrazone, piroxicam, ticlopidine, clopidogrel, prasugrel, ticagrelor, cangrelor, elinogrel, cilostazol, sarpogrelate, iloprost, beraprost, limaprost, tirofiban, eptifibatide, abciximab, melagatran, ximelagatran, dabigatran, rivaroxaban, apixaban, edoxaban, darexaban, betrixaban, TAK-442, a tissue plasminogen activator, a modified tissue plasminogen activator, anistreplase, urokinase, streptokinase, gabexate, gabexate mesilate, nafamostat, sivelestat, sivelestat sodium hydrate, alvelestat (AZD-9668), ZD-8321/0892, ICI-200880, human elafin (tiprelestat), elafin, α1-antitrypsin (A1AT), cortisone, betamethasone, dexamethasone, hydrocortisone, methylprednisolone, prednisolone, triamcinolone or a combination thereof.</p>
+<p id="p0048" num="0048">In another embodiment, examples of the drug to be used in combination with the compound A include a potassium channel opener, a potassium channel blocker, a calcium channel blocker, an inhibitor of a sodium-hydrogen exchanger, an antiarrhythmic agent, an antiarteriosclerotic agent, an anticoagulant agent, an antiplatelet agent, an antithrombotic agent, a thrombolytic agent, a fibrinogen antagonist, an antihypertensive diuretic, an ATPase inhibitor, a mineralocorticoid receptor antagonist, a phosphodiesterase inhibitor, an antidiabetic agent, a protease inhibitor, an elastase inhibitor, an anti-inflammatory agent, an antioxidant, an angiogenesis-modulating agent, an agent for treating osteoporosis, hormone replacement therapy, a hormone receptor-modulating agent, an oral contraceptive, an anti-obesity drug, an antidepressant drug, an antianxiety agent, an antipsychotic agent, an antiproliferative agent, an antitumor agent, antiulcer and antigastroesophageal reflux agents, a growth hormone agent and/or a growth hormone secretagogue, a thyroid-mimetic, an anti-infective agent, an antiviral agent, an antimicrobial agent, an antifungal agent, a drug for treating hypercholesterolemia/dyslipidemia and therapy for improving lipid profile,<!-- EPO <DP n="21"> --> preconditioning of simulated ischemia and/or an agent for stunned myocardium, and a combination thereof.</p>
+<p id="p0049" num="0049">In another embodiment, examples of the drug to be used in combination with the compound A further include an antiarrhythmic agent, an antihypertensive agent, an anticoagulant agent, an antiplatelet agent, a thrombolytic agent, a fibrinolytic agent, a calcium channel blocker, a potassium channel blocker, a cholesterol/lipid-lowering agent, a serine protease inhibitor, an elastase inhibitor, an anti-inflammatory agent, and a combination thereof.</p>
+<p id="p0050" num="0050">Examples of the antiarrhythmic agent include an IKur inhibitor, an elastase inhibitor, a serine protease inhibitor, a steroid and the like.</p>
+<p id="p0051" num="0051">Examples of the antihypertensive agent include an ACE inhibitor, an AT-1 receptor antagonist, a β-adrenergic receptor antagonist, an ETA receptor antagonist, a dual ETA/AT-1 receptor antagonist, a vasopeptidase inhibitor and the like.</p>
+<p id="p0052" num="0052">In a preferable embodiment, examples of the drug to be used in combination with the compound A include an antiplatelet agent and a combination thereof.</p>
+<p id="p0053" num="0053">The drug to be used in combination with the compound A may be administered in the form of a compounding preparation in which both of the ingredients are compounded in a preparation or may be administered in the form of separate preparations by the same route of administration or different routes of administration. When the separate preparations are administered, the preparations are not necessarily administered concomitantly, but as needed, each of the preparations may be administered with a time difference. In addition, in the case of the administrations with a time difference, the order of administrations is not particularly limited, but may be appropriately adjusted in order to achieve the desired drug efficacy.</p>
+<p id="p0054" num="0054">The dose of the above-described other drug(s) which is used in combination with the compound A can be appropriately increased or decreased based on the clinically used dose of the drug(s) or a drug similar thereto. In addition, the compounded ratio of the compound of the present invention and other agent(s) can be appropriately adjusted by considering the age and body weight of the subject of administration, the method for administration, the duration of administration, the target disease, the symptom and the like. Approximately 0.01<!-- EPO <DP n="22"> --> to 100 parts by weight of other agent(s) may be combined with 1 part by weight of the compound of the present invention. Two or more kinds of other agent(s) may be used. In addition, examples of the other agent(s) include not only those listed above, but also drug(s) having the same mechanism as those listed above. The drug(s) having the same mechanism as those listed above includes not only those which have been found up to now but also those which will be found in future.</p>
+<p id="p0055" num="0055">The compound A is normally administered systemically or locally, in the form of an oral preparation or a parenteral preparation. Examples of the oral preparation include an oral liquid preparation (such as an elixir, a syrup, a pharmaceutically acceptable liquid agent, a suspension and an emulsion), an oral solid preparation (such as a tablet (including a sublingual tablet and an orally disintegrating tablet), a pill, a capsule (including a hard capsule, a soft capsule, a gelatin capsule and a microcapsule), a powdered agent, a granule and a lozenge) and the like. Examples of the parenteral preparation include a liquid preparation (such as an injection preparation (such as an intravitreal injection preparation, a subcutaneous injection preparation, an intravenous injection preparation, an intramuscular injection preparation, an intraperitoneal injection preparation and a preparation for drip infusion), an eye drop (such as an aqueous eye drop (such as an aqueous ophthalmic solution, an aqueous ophthalmic suspension, a viscous eye drop and a solubilized eye drop) and a non-aqueous eye drop (such as a non-aqueous ophthalmic solution and a non-aqueous ophthalmic suspension))), an external preparation (such as an ointment (such as an ophthalmic ointment)), an ear drop and the like. The above-described preparation may be a controlled-release preparation such as an immediate-release preparation and a sustained release preparation. The above-described preparation can be prepared by a known method, for example, by a method described in Pharmacopeia of Japan or the like.</p>
+<p id="p0056" num="0056">The oral liquid preparation as an oral preparation is prepared, for example, by dissolving, suspending or emulsifying an active ingredient in a generally used diluent (such as purified water, ethanol and a mixed liquid thereof). In addition, the liquid preparation may further contain a wetting agent, a suspending agent, an emulsifying agent, a sweetening agent, a flavoring agent, a perfume, a preservative, a buffer agent and the like.</p>
+<p id="p0057" num="0057"><!-- EPO <DP n="23"> --> The oral solid preparation as an oral preparation is prepared, for example, by mixing an active ingredient with an excipient (such as lactose, mannitol, glucose, microcrystalline cellulose and starch), a bonding agent (such as hydroxypropyl cellulose, polyvinylpyrrolidone and magnesium aluminometasilicate), a disintegrating agent (such as calcium cellulose glycolate), a lubricant (such as magnesium stearate), a stabilizer, a solubilizing agent (such as glutamic acid and aspartic acid) and the like by a routine procedure. In addition, if necessary, the active ingredient may be coated with a coating agent (such as white soft sugar, gelatin, hydroxypropyl cellulose and hydroxypropyl methylcellulose phthalate) or may be coated with two or more layers.</p>
+<p id="p0058" num="0058">The external preparation as a parenteral preparation is prepared by a known method or according to a normally used formulation. For example, an ointment is prepared by triturating or melting an active ingredient in a base. An ointment base is selected from those which are known and those which are normally used. For example, one selected from the followings is used or two or more kinds selected from the followings are used by being mixed together: a higher fatty acid or a higher fatty acid ester(such as adipic acid, myristic acid, palmitic acid, stearic acid, oleic acid, an adipate, a myristate, a palmitate, a stearate and an oleate), waxes (such as beeswax, whale wax and ceresin), a surface-active agent (such as a polyoxyethylene alkyl ether phosphoric ester), a higher alcohol (such as cetanol, stearyl alcohol and cetostearyl alcohol), a silicone oil (such as dimethyl polysiloxane), hydrocarbons (such as hydrophilic petrolatum, white petrolatum, purified lanolin and liquid paraffin), glycols (such as ethylene glycol, diethylene glycol, propylene glycol, polyethylene glycol and macrogol), a vegetable oil (such as castor oil, olive oil, sesame oil and turpentine oil), an animal oil (such as mink oil, egg-yolk oil, squalane and squalene), water, an absorption promoter and an agent for preventing skin rash. In addition, a moisturizing agent, a preservative, a stabilizing agent, an antioxidant, a flavoring agent and the like may be contained.</p>
+<p id="p0059" num="0059">The injection preparation as a parenteral preparation includes a solution, a suspension, an emulsion and a solid injection preparation which is used at the time of use by being dissolved or suspended in a solvent. The injection preparation is used, for example, by dissolving, suspending or emulsifying an active ingredient in a solvent. Examples of the solvent used include distilled water for injection, saline, a vegetable oil, alcohols such as<!-- EPO <DP n="24"> --> propylene glycol, polyethylene glycol and ethanol and the like as well as a mixture thereof. In addition, the injection preparation may contain a stabilizer, a solubilizing agent (such as glutamic acid, aspartic acid and polysorbate 80 (registered trademark)), a suspending agent, an emulsifying agent, an analgesic, a buffer agent, a preservative and the like. The above-described injection preparation is prepared by being sterilized at the final process or by an aseptic manipulation method. In addition, the above-described injection preparation can be also used by preparing a sterile solid preparation, for example, a lyophilized preparation, and dissolving the sterile solid preparation in sterilized or sterile distilled water for injection or other solvent before use of the preparation.</p>
+<p id="p0060" num="0060">In order to use the compound A or a combination of the compound A and other drug for the above-described purpose, the compound A or the combination is normally administered systemically or locally, in the form of an oral preparation or a parenteral preparation. The dose varies depending on the age, the body weight, the symptom, the therapeutic effect, the method for administration, the duration of the treatment and the like. However, normally, the dose per adult is in the range of from 1 ng to 1,000 mg per administration, from one to several oral administrations per day or the dose per adult is in the rage of from 0.1 ng to 10 mg per administration, from one to several parenteral administrations per day. Alternatively, the dose is continuously administrated intravenously for a period of time in the range of 1 to 24 hours per day. Of course, the dose varies depending on various factors as described above, and therefore, there are some cases in which a dose below the above-described dose is sufficient and there are other cases in which administration of a dose which exceeds the above-described range is required.</p>
+<p id="p0061" num="0061">In the present invention, (3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one, or a salt, solvate, cocrystal or the like thereof can be produced by the method mentioned in the section "EXAMPLES" below or a method similar to the method. When recrystallization is carried out, a seed crystal may be used or may not be used.</p>
+<heading id="h0014">EXAMPLES</heading>
+<p id="p0062" num="0062">The present invention will be described in detail by referring to Examples hereinbelow, but the present invention is not limited to Examples.<!-- EPO <DP n="25"> --></p>
+<p id="p0063" num="0063">Concerning chromatographic separation or TLC, a solvent in parentheses corresponds to an eluting solvent or a developing solvent employed and a ratio is expressed by volume ratio.</p>
+<p id="p0064" num="0064">Concerning NMR, a solvent in parentheses corresponds to a solvent used for the measurement.</p>
+<p id="p0065" num="0065">A compound name used in the present specification is given by using a computer program ACD/Name (registered trademark) of Advanced Chemistry Development which generally denominates a compound according to the IUPAC nomenclature or by denomination according to the IUPAC nomenclature.</p>
+<p id="p0066" num="0066">The measuring time, solvents and column conditions used for LC/MS analyses in the following Examples are shown hereinbelow. Meanwhile, t<sub>R</sub> means Retention time. Condition a. column YMC-Triart C18, 2.0 mm x 30 mm, 1.9 µm; column temperature 30°C; mobile phase (Liquid A) 0.1% trifluoroacetic acid aqueous solution and (Liquid B) 0.1% trifluoroacetic acid-acetonitrile solution; flow rate 1.0 mL/min; analysis time 1.5 minutes; gradient: 0 minute (Liquid A/Liquid B = 95/5), 0.1 minutes (Liquid A/Liquid B = 95/5), 1.2 minutes (Liquid A/Liquid B = 5/95), 1.4 minutes (Liquid A/Liquid B = 5/95), 1.41 minutes (Liquid A/Liquid B = 95/5), 1.5 minutes (Liquid A/Liquid B = 95/5)<br/>
+Condition b. column Waters ACQUITY UPLC (registered trademark) BEH C18, 2.1 mm x 30 mm, 1.7 µm; column temperature 40°C; mobile phase (Liquid A) 0.1% formic acid aqueous solution and (Liquid B) 0.1% formic acid-acetonitrile solution; flow rate 1.0 mL/min; analysis time 1.5 minutes; gradient: 0 minute (Liquid A/Liquid B = 95/5), 0.1 minutes (Liquid A/Liquid B = 95/5), 1.2 minutes (Liquid A/Liquid B = 5/95), 1.4 minutes (Liquid A/Liquid B = 5/95), 1.41 minutes (Liquid A/Liquid B = 95/5), 1.5 minutes (Liquid A/Liquid B = 95/5).</p>
+<heading id="h0015">[Experimental Examples]</heading>
+<heading id="h0016"><u>Example 1 (1): 6-Fluoro-5-iodo-2-pyridinamine</u></heading>
+<p id="p0067" num="0067">N-iodosuccinimide (56.5 g) was added in multiple portions (3 portions) to a solution of 6-fluoro-2-pyridinamine (25.6 g) in N,N-dimethylformamide (200 mL) under ice cooling. The mixture was stirred at room temperature for 3 hours, and thereafter, to the reaction liquid, city water (0.5 L) was added. The mixture was extracted three times with ethyl acetate/hexane (1/1, 300 mL), and the organic layer was washed with saturated sulfurous<!-- EPO <DP n="26"> --> acid aqueous solution (0.5 L), saturated sodium carbonate aqueous solution (0.5 L, twice), city water (0.5 L) and saturated saline (0.5 L), was dried, and thereafter, was concentrated. To the obtained residue, hexane/ethyl acetate (3/1, 150 mL) was added, and the slurry was washed at room temperature, and was filtrated. The obtained solid was dried to give the title compound (36.7 g) having the following physical property.<br/>
+TLC: Rf 0.56 (ethyl acetate : hexane = 1 : 2).</p>
+<heading id="h0017"><u>Example 1 (2): Bis(2-methyl-2-propanyl) (6-fluoro-5-iodo-2-pyridinyl)imidodicarbonate</u></heading>
+<p id="p0068" num="0068">To a solution of the compound (36.7 g) produced in Example 1(1) and 4-dimethylaminopyridine (0.9 g) in acetonitrile (300 mL), a solution of di-tert-butyl decarbonate (74.0 g) in acetonitrile (100 mL) was added. The resultant mixture was stirred at room temperature for 3 hours. The reaction solution was concentrated, and the obtained residue was dissolved in ethyl acetate (500 mL), and the mixture was washed with saturated ammonium chloride aqueous solution (400 mL), and the aqueous layer was extracted with ethyl acetate (200 mL). The combined organic layers were dried, and thereafter, were concentrated. The obtained residue was purified by silica gel column chromatography (ethyl acetate : hexane = 5 : 95 to 10 : 90) to give the title compound (45.06 g) having the following physical properties.<br/>
+<sup>1</sup>H-NMR (CDCl<sub>3</sub>): δ 8.14 (t, 1H), 7.03 (dd, 1H), 1.47 (s, 18H).</p>
+<heading id="h0018"><u>Example 1 (3): 2-methyl-2-propanyl (5-cyano-6-fluoro-2-pyridinyl)carbamate</u></heading>
+<p id="p0069" num="0069">A solution of the compound (9.1 g) produced in Example 1(2), zinc (II) cyanide (7.32 g) and tetrakis(triphenylphosphine)palladium (0) (1.2 g) in 1-methyl-2-pyrrolidinone (60 mL) was deaerated under reduced pressure. Under microwave irradiation, the mixture was stirred at 130°C for 1 hour, and thereafter, was left to cool. The reaction solution was diluted with ethyl acetate (100 mL), and thereafter, was filtrated through Celite to remove insoluble matters, and the insoluble matters were washed with ethyl acetate (50 mL). The filtrate was subjected to liquid separation, and the aqueous layer was extracted again with ethyl acetate (100 mL). The organic layers were combined, were dried, and thereafter, were concentrated. The obtained residue was purified by silica gel column chromatography (ethyl acetate : hexane = 5 : 95 to 80 : 20) to give the title compound (2.1 g) having the following physical property.<br/>
+TLC: Rf 0.25 (ethyl acetate : hexane = 10 : 90).<!-- EPO <DP n="27"> --></p>
+<heading id="h0019"><u>Example 1 (4): 2-methyl-2-propanyl [6-fluoro-5-(N-hydroxycarbamimidoyl)-2-pyridinyl]carbamate</u></heading>
+<p id="p0070" num="0070">To a solution of the compound (1.56 g) produced in Example 1(3) and hydroxylamine hydrochloride (0.91 g) in ethanol (40 mL), N,N-diisopropylethylamine (2.84 mL) was added. The resultant mixture was stirred at 40°C overnight. The reaction solution was concentrated, and the obtained residue was dissolved in ethyl acetate (50 mL). To the mixture, city water (50 mL) was added to wash, and thereafter, the organic layer was dried, and thereafter, was concentrated to give the crude title compound (1.93 g) having the following physical properties.<br/>
+LC/MS t<sub>R</sub> 0.60 minutes; MS (ES+) m/z 271 (M+H) (Condition a).</p>
+<heading id="h0020"><u>Example 1 (5): 2-methyl-2-propanyl (5-carbamimidoyl-6-fluoro-2-pyridinyl)carbamate acetate</u></heading>
+<p id="p0071" num="0071">To a solution of the compound (1.93 g) produced in Example 1(4) in acetic acid (10 mL), acetic acid anhydride (0.75 mL) was added. The resultant mixture was stirred at room temperature for 1 hour. To the reaction liquid, palladium (II) hydroxide (20%, 250 mg) was added, and the mixture was stirred under hydrogen atmosphere at room temperature for 3 hours. The reaction liquid was filtrated through Celite, and the filtrate was concentrated under reduced pressure to give the crude title compound (2.99 g) having the following physical properties.<br/>
+LC/MS t<sub>R</sub> 0.59 minutes; MS (ES+) m/z 255 (M+H) (Condition a).</p>
+<heading id="h0021"><u>Example 1 (6): 2-methyl-2-propanyl (5-carbamimidoyl-6-fluoro-2-pyridinyl)carbamate hydrochloride</u></heading>
+<p id="p0072" num="0072">To a solution of the compound (2.6 g) produced in Example 1(5) in methanol (10 mL), a 10% hydrogen chloride/methanol (6.5 mL) solution was added. The resultant mixture was stirred at room temperature for 10 minutes. To the reaction liquid, toluene was added, and the mixture was concentrated to give the crude title compound (2.63 g) having the following physical properties.<br/>
+LC/MS t<sub>R</sub> 0.58 minutes; MS (ES+) m/z 255 (M+H) (Condition a).<!-- EPO <DP n="28"> --></p>
+<heading id="h0022"><u>Example 1(7): (3S)-3-(chloroacetyl)-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydro-5(1H)-indolizinone</u></heading>
+<p id="p0073" num="0073">To a solution of (3S)-7-[5-chloro-2-(1H-1,2,3,4-tetrazol-1-yl)phenyl]-5-oxo-1,2,3,5-tetrahydroindolizine-3-carboxylic acid (described in Example 9 of International Publication No. <patcit id="pcit0002" dnum="WO2013093484A"><text>2013/093484</text></patcit> pamphlet) (3.0 g) in dichloromethane (15 mL), 1-chloro-N,N,2-trimethyl-1-propen-1-amine (1.33 mL) was added under ice cooling. The resultant mixture was stirred at 0°C for 40 minutes. To the mixture, trimethylsilyldiazomethane (2 M hexane solution, 8.4 mL) was added, and thereafter, the mixture was stirred at 0°C for additional 1 hour. To the mixture, concentrated hydrochloric acid (0.87 mL) was added under ice cooling, and the mixture was stirred at room temperature for 20 minutes. To the reaction liquid, city water (50 mL) was added, and the mixture was extracted twice with dichloromethane (50 mL). The organic layer was dried, and thereafter, was concentrated, and the obtained residue was purified by silica gel column chromatography (ethyl acetate : hexane = 40 : 60 to 100 : 0) to give the title compound (2.32 g) having the following physical properties.<br/>
+LC/MS t<sub>R</sub> 0.80 minutes; MS (ES+) m/z 390 (M+H) (Condition a).</p>
+<heading id="h0023"><u>Example 1(8): 2-methyl-2-propanyl[5-(5-{7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-5-oxo-1,2,3,5-tetrahydro-3-indolizinyl}-1H-imidazol-2-yl)-6-fluoro-2-pyridinyl]carbamate</u></heading>
+<p id="p0074" num="0074">To a solution of the compound (1.5 g) produced in Example 1(6) and the compound (1.0 g) produced in Example 1(7) in acetonitrile (50 mL), potassium carbonate (0.70 g) was added. The resultant mixture was stirred at 80°C for 17 hours. The reaction solution was diluted with ethyl acetate (100 mL), and thereafter, the solution was washed with city water (100 mL) and saturated saline (200 mL), was dried, and thereafter, was concentrated. The obtained residue was purified by silica gel column chromatography (ethyl acetate : hexane = 50 : 50 to 100 : 0, followed by methanol: ethyl acetate = 5 : 95) to give the title compound (1.11 g) having the following physical properties.<br/>
+LC/MS t<sub>R</sub> 0.81 minutes; MS (ES+) m/z 590 (M+H) (Condition a).</p>
+<heading id="h0024"><u>Example 1(9): 2-methyl-2-propanyl [5-(5-{(3S)-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-5-oxo-1,2,3,5-tetrahydro-3-indolizinyl}-4-fluoro-1H-imidazol-2-yl)-6-fluoro-2-pyridinyl]carbamate and 2-methyl-2-propanyl[5-(5-{(3R)-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-5-oxo-1,2,3,5-tetrahydro-3-indolizinyl}-4-fluoro-1H-imidazol-2-yl)-6-fluoro-2-pyridinyl]carbamate</u></heading><!-- EPO <DP n="29"> -->
+<p id="p0075" num="0075">To a suspension of the compound (264 mg) produced in Example 1(8) and sodium carbonate (118 mg) in acetonitrile (10 mL)/tetrahydrofuran (5 mL), 1-chloromethyl-4-fluoro-1,4-diazoniabicyclo[2.2.2]octane bis(tetrafluoroborate) (selectfluor (registered trademark)) (95 mg) was added. The resultant mixture was stirred under cooling in an ice/brine bath for 3 hours. The reaction solution was diluted with ethyl acetate (20 mL), and to the solution, sodium sulfite aqueous solution (40 mL) was added. The aqueous layer was extracted twice with ethyl acetate (50 mL), and the combined organic layers were dried, and thereafter, were concentrated. The obtained residue was purified by silica gel column chromatography (aminosilica, ethyl acetate : hexane = 50 : 50 to 100 : 0, followed by methanol: ethyl acetate = 5 : 95) to give the mixture (71.2 mg) of the S-configuration compound and the R-configuration compound of Example 2 (9). The mixture (20 mg) was purified by optical resolution (DAICEL, CHIRALFLASH (registered trademark) IC column, (particle size: 20 µm; column length: 100×30 mm I.D.), flow rate: 24 mL/min; column temperature: room temperature; mobile phase (A): acetonitrile; mobile phase (B): methanol; isocratic (mobile phase (A) : mobile phase (B) = 90 :10), 20 minutes; detector: UV Yamazen UV-254W UV-Detector) to give the title compounds (the S-configuration compound of Example 1(9): 7.9 mg, and the R-configuration compound of Example 1(9): 7.7 mg). In the optical resolution under the above-mentioned conditions, the retention times of the title compounds were 13 minutes (the S-configuration compound of Example 1(9)) and 9.5 minutes (the R-configuration compound of Example 1(9)), respectively.</p>
+<p id="p0076" num="0076">The physical properties of each of the title compounds when being analyzed under liquid chromatographic conditions in parentheses below are shown hereinbelow. The S-configuration compound of Example 1(9):
+<ul id="ul0005" list-style="none" compact="compact">
+<li>LC t<sub>R</sub> 10.4 minutes (column: DAICEL CHIRALPAK (registered trademark) IC 5 µm 4.6 mm × 250 mm, mobile phase: acetonitrile/methanol = 90/10, flow rate: 1.0 mL/min).</li>
+<li>The R-configuration compound of Example 1(9):</li>
+<li>LC t<sub>R</sub> 7.95 minutes (column: DAICEL CHIRALPAK (registered trademark) IC 5 µm 4.6 mm × 250 mm, mobile phase: acetonitrile/methanol = 90/10, flow rate: 1.0 mL/min).</li>
+</ul></p>
+<heading id="h0025"><u>Example 1(10): (3S)-3-[2-(6-amino-2-fluoro-3-pyridinyl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydro-5(1H)-indolizinone</u></heading>
+<p id="p0077" num="0077"><!-- EPO <DP n="30"> -->
+<chemistry id="chem0006" num="0006"><img id="ib0006" file="imgb0006.tif" wi="63" he="29" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0078" num="0078">To a suspension of the S-configuration compound (436 mg) of Example 1(9) in ethyl acetate (6 mL), concentrated hydrochloric acid (2 mL) was added. The resultant mixture was stirred at room temperature for 20 minutes. The reaction solution was concentrated under reduced pressure, and the obtained residue was redissolved in tetrahydrofuran (10 mL). A saturated aqueous sodium bicarbonate solution (20 mL) was added to the solution, and the resultant mixture was extracted with ethyl acetate (20 mL, twice). The organic layers were combined, were dried, and thereafter, were concentrated. The obtained residue was purified by silica gel column chromatography (aminosilica, methanol: ethyl acetate = 0 : 100 to 5 : 95) to give the title compound (321 mg) having the following physical properties. In addition, the absolute configuration of this compound was determined by X-ray crystallography using a single crystal of a complex of the compound of this compound and FXIa.
+<ul id="ul0006" list-style="none" compact="compact">
+<li>TLC: Rf 0.60 (methanol: ethyl acetate = 5 : 95);</li>
+<li><sup>1</sup>H-NMR (CD<sub>3</sub>OD): δ 9.31 (s, 1H), 7.91 (dd, 1H), 7.74 - 7.65 (m, 3H), 6.44 (dd, 1H), 6.21 (s, 1H), 6.03 (s, 1H), 5.83 (dd, 1H), 3.39-3.06 (m, 2H), 2.62 - 2.48 (m, 2H);</li>
+<li>LC t<sub>R</sub> 22.5 minutes (column DAICEL CHIRALPAK (registered trademark) IC 5 µm 4.6 mm × 250 mm, mobile phase: hexane/ethyl acetate = 30/70, flow rate: 1.0 mL/min);</li>
+<li>[α]<sup>25</sup><sub>D</sub> = +44.1° (CH<sub>3</sub>OH, c = 1.00).</li>
+</ul></p>
+<heading id="h0026"><u>Example 1(11): (3S)-3-[2-(6-amino-2-fluoro-3-pyridinyl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydro-5(1H)-indolizinone dihydrate</u></heading>
+<p id="p0079" num="0079"><!-- EPO <DP n="31"> -->
+<chemistry id="chem0007" num="0007"><img id="ib0007" file="imgb0007.tif" wi="59" he="30" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0080" num="0080">The compound (100 mg) of Example 1(10) was dissolved in acetonitrile (1.0 mL) and water (0.018 mL) while heating at 75°C, the resultant solution was then stirred at 40°C for 2 hours, and was then stirred at room temperature for 30 minutes to generate precipitates, and the precipitates were filtrated out and were then dried under reduced pressure to give the title compound (76 mg) having the following physical property values.
+<ul id="ul0007" list-style="none" compact="compact">
+<li><sup>1</sup>H-NMR (CD<sub>3</sub>OD): δ 9.31 (s, 1H), 7.91 (dd, 1H), 7.74 - 7.65 (m, 3H), 6.44 (dd, 1H), 6.21 (s, 1H), 6.03 (s, 1H), 5.83 (dd, 1H), 3.39 - 3.06 (m, 2H), 2.62 - 2.48 (m, 2H);</li>
+<li>LC/MS t<sub>R</sub> 0.82 minutes; MS (ES+) m/z 508 (M+H) (Condition a).</li>
+</ul></p>
+<heading id="h0027"><u>Example 1(12): (3R)-3-[2-(6-amino-2-fluoro-3-pyridinyl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)-phenyl]-2,3-dihydro-5(1H)-indolizinone</u></heading>
+<p id="p0081" num="0081">The same procedure as in Example 1(10) was carried out, except that the R-configuration compound of Example 1(9) was used in place of the S-configuration compound of Example 1(9), thereby giving the title compound having the following physical property values.<br/>
+<sup>1</sup>H-NMR (CD<sub>3</sub>OD): δ9.31 (s, 1H), 7.91 (dd, 1H), 7.71 - 7.68 (m, 3H), 6.44 (dd, 1H), 6.20 (s, 1H), 6.03 (s, 1H), 5.84 (dd, 1H), 3.37-3.06 (m, 2H), 2.61 - 2.53 (m, 2H).</p>
+<heading id="h0028"><u>Example 1(13): (3R)-3-[2-(6-Amino-2-fluoro-3-pyridinyl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydro-5(1H)-indolizinone dihydrate</u></heading>
+<p id="p0082" num="0082">The same procedure as in Example 1(11) was carried out, except that the compound of Example 1(12) was used in place of the compound of Example 1(10), thereby giving the title compound having the following physical property values.<br/>
+<sup>1</sup>H- NMR (DMSO-d6): δ 11.70 (s, 1H), 9.64 (s, 1H), 7.89 - 7.75 (m, 4H), 6.75 (brs, 2H), 6.38 (dd, 1H), 6.01 (d, 1H), 5.92 (s, 1H), 5.69 (dd, 1H), 3.18 - 3.00 (m, 2H), 2.50 - 2.24 (m, 2H).<!-- EPO <DP n="32"> --></p>
+<heading id="h0029">[Examination about crystallization]</heading>
+<p id="p0083" num="0083">Examination about the crystallization of the compound of Example 1(10) was carried out. In the following examination, with respect to the experiment in which the optical isomerism did not affect results, the experiment was also carried out using the compound of Example 1(12) or Example 1(13).</p>
+<p id="p0084" num="0084">Firstly, the possibility of crystallization of a salt of the compound of Example 1(10) was examined using the compound of Example 1(10).</p>
+<p id="p0085" num="0085">The crystallization of salts of the compound of Example 1(10) was examined by a evaporative concentration method (heating: 40°C, evaporation: room temperature) with an automatic crystallization system ("Core Module (X)", manufactured by Freeslate) using 11 types of acids (hydrochloric acid (1 equivalent), sulfuric acid (1 equivalent), methanesulfonic acid (1 equivalent), 4-toluenesulfonic acid, ethanesulfonic acid (1 equivalent), isethionic acid (1 equivalent), ethanedisulfonic acid (1/2 equivalent), 1,5-naphthalenedisulfonic acid (1/2 equivalent), cyclamic acid (1 equivalent), nitric acid (1 equivalent)) and using 12 types of solvents (methanol, ethanol, 2-propanol, acetone, acetonitrile, ethyl acetate, methyl tert-butyl ether (MTBE), tetrahydrofuran, heptane, toluene, dichloromethane, water).</p>
+<p id="p0086" num="0086">As the result of this examination, any crystal of the compound of Example 1(10) was not produced under the above-mentioned various conditions.</p>
+<p id="p0087" num="0087">Next, the possibility of the crystallization of a free form (the compound of Example 1(10)) was examined.</p>
+<p id="p0088" num="0088">The examination was carried out about the crystallization of a free form using the compound of Example 1(13), also using 51 types of solvents (methanol, ethanol, 2-propanol, acetone, acetonitrile, ethyl acetate, methyl tert-butyl ether (MTBE), tetrahydrofuran, heptane, toluene, dichloromethane, water, 1, 4-dioxane, 1-propanol, 1-butanol, 2-butanol, 2-methyl-1-propanol, ethyl formate, methyl acetate, propyl acetate, isopropyl acetate, fluorobenzene, butyronitrile, methyl ethyl ketone, methyl isobutyl ketone, diisopropyl ether, 1,2-dichloroethane, dimethyl carbonate, pyridine, 1,2-dimethoxyethane, tert-amyl alcohol, cyclohexane, triethylamine, 2,2,2-trifluoroethanol, octane, 2-hexanone, butyl acetate, cyclopentanone, 3-methyl-1-butanol, chlorobenzene, 2-ethoxyethanol, cumene, anisole, N,N-dimethylformamide, mesitylene, dimethylacetamide, dimethyl sulfoxide, ethylene glycol, formamide) and using an automatic crystallization system ("Core Module (X)", manufactured<!-- EPO <DP n="33"> --> by Freeslate). As the crystallization method, three types of conditions, i.e., a slurry method (25°C and 40°C), a precipitation method (precipitation at room temperature) and an evaporative concentration method (heating at 40°C or 80°C, evaporation at room temperature), were preset, and the solvents and the crystallization methods were combined to set 576 kinds of crystallization conditions for each of the salts.</p>
+<p id="p0089" num="0089">As the result of this examination, only a dihydrate (Example 1(13)) was obtained as a crystal of Example 1(12) which had satisfactory crystallinity. From this data, it was found that, with respect to the compound of Example 1(10) that was an enantiomer of the compound, only a dihydrate (Example 1(11)) was obtained as a crystal having satisfactory crystallinity, but the compound of Example 1(11) had high hygroscopicity and poor oral absorption as mentioned below and therefore could not be selected as an active ingredient for a pharmaceutical when being in an unmodified form.</p>
+<p id="p0090" num="0090">Since no crystal which meets the problems could be obtained in the above-mentioned examination about salts and free forms, the examination about the crystallization of a cocrystal of the compound of Example 1(10) was further carried out as follows.</p>
+<p id="p0091" num="0091">The possibility of crystallization of a cocrystal was examined using the compound of Example 1(13).</p>
+<p id="p0092" num="0092">The crystallization of a cocrystal was examined using 60 types of reagents (oxalic acid, fumaric acid, adipic acid, L-tartaric acid, D-tartaric acid, benzoic acid, 2-hydroxybenzoic acid, 3-hydroxybenzoic acid, 4-hydroxybenzoic acid, 2,3-dihydroxybenzoic acid, 2,4-dihydroxybenzoic acid, 2,5-dihydroxybenzoic acid, 3,4-dihydroxybenzoic acid, 3,5-dihydroxybenzoic acid, saccharin, orotic acid, 1-hydroxy-2-naphthoic acid, L-pyroglutamic acid, D-pyroglutamic acid, benzamide, ethyl maltol, nicotinamide, glycolic acid, sorbic acid, L-camphoric acid, D-camphoric acid, urea, taurine, malonic acid, L-mandelic acid, D-mandelic acid, maleic acid, anthranilic acid, L-alanine, D-alanine, L-lactamide, D-lactamide, glycine, L-tryptophan, D-tryptophan, N-acetylglycine, L-valine, D-valine, ascorbic acid, citric acid, glutaric acid, erythorbic acid, galactaric acid, L-malic acid, D-malic acid, sorbitol, myo-inositol, glucuronic acid, sebacic acid, succinic acid, D-histidine), also using 6 types of solvents (methanol, acetone, acetonitrile, ethyl acetate, toluene, dichloromethane) by an evaporative concentration method (heating at 40°C, evaporation at room temperature) with an automatic crystallization system ("Core Module (X)", manufactured by Freeslate).<!-- EPO <DP n="34"> --></p>
+<p id="p0093" num="0093">As the result of this examination, crystals of only 4 types of counters, i.e., 3,5-dihydroxybenzoic acid, 2,5-dihydroxybenzoic acid, nicotinamide and 3-hydroxybenzoic acid (also abbreviated as "RES", "GEN", "NIA" and "3HBA", hereinafter), were formed under the above-mentioned various conditions. With respect to 3HBA, 2 types of crystals were formed. As shown below, with respect to RES and GEN among the 4 types of counters, the problem of hygroscopicity was concerned from the physical property data of differential scanning calorimetry and thermogravimetry. In contrast, with respect to each of NIA and 3HBA, there was no concern about this problem and therefore an S-configuration thereof was produced and was subjected to the following experiments.</p>
+<heading id="h0030"><u>Example 2: (3R)-3-[2-(6-Amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one-α-resorcylic acid (2/1)</u></heading>
+<p id="p0094" num="0094">To the compound of Example 1(13) (20 mg), α-resorcylic acid (2.83 mg) and acetonitrile (100 µL) were added. The resultant mixture was stirred at 25°C for 1 day to give precipitates. The precipitates were filtrated out, and were then dried in a draft to give a crystal of the title compound which had the following physical property values.<br/>
+<sup>1</sup>H-NMR (DMSO-d6): 11.70, 9.65, 9.13, 7.86 - 7.75, 7.14 - 7.13, 6.96 - 6.92, 6.78 - 6.75, 6.40 - 6.36, 6.00, 5.92, 5.71, 5.68, 3.32, 3.20 - 2.93, 2.27 - 2.20.</p>
+<heading id="h0031"><u>Example 3: (3R)-3-[2-(6-Amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one-gentisic acid (2/1)</u></heading>
+<p id="p0095" num="0095">To the compound of Example 1(13) (20 mg), gentisic acid (2.83 mg) and acetonitrile (100 µL) were added. The resultant mixture was stirred at 25°C for 1 day to give precipitates. The precipitates were filtrated out and were then dried under reduced pressure to give crystals of the title compound which had the following physical property values. <sup>1</sup>H-NMR (DMSO-d6): 12.67, 11.70, 9.65, 9.53, 7.89 - 7.75, 6.78 - 6.75, 6.40 - 6.37, 6.00, 5.92, 5.71 - 5.68, 3.32, 3.17 - 2.93, 2.26 - 2.20.</p>
+<heading id="h0032"><u>Example 4: (3S)-3-[2-(6-Amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one-nicotinamide (2/1)</u></heading>
+<p id="p0096" num="0096">The compound of Example 1(11) (500 mg) was mixed with nicotinamide (56.1 mg) and acetonitrile (5 mL), and the resultant mixture was stirred at 25°C for 1 day to give<!-- EPO <DP n="35"> --> precipitates. The precipitates were filtered out and were then dried under reduced pressure to give the title compound title compound (465 mg) having the following physical property values.<br/>
+<sup>1</sup>H-NMR (DMSO-d6): δ11.71, 9.65, 9.11- 8.89, 8.79 - 8.60, 8.24 - 8.09, 7.90 - 7.72, 7.61, 7.53 - 7.44, 6.75, 6.38, 6.00, 5.93, 5.74 - 5.65, 3.20 - 2.93, 2.29 - 2.19.</p>
+<heading id="h0033"><u>Example 5: (3S)-3-[2-(6-Amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)-phenyl]-2,3-dihydroindolizin-5(1H)-one-3-hydroxybenzoic acid (1/1)</u></heading>
+<p id="p0097" num="0097">
+<chemistry id="chem0008" num="0008"><img id="ib0008" file="imgb0008.tif" wi="134" he="39" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0098" num="0098">The compound of Example 1(11) (500 mg) was mixed with 3-hydroxybenzoic acid (127.0 mg) and ethyl acetate (5 mL), and the resultant mixture was stirred at 25°C for 1 day to give precipitates. The precipitates were filtered out and were then dried under reduced pressure to give the title compound (529 mg) having the following physical property values. <sup>1</sup>H-NMR (DMSO-d6): 12.82, 11.71, 9.73, 9.65, 7.90 - 7.72, 7.40 - 7.22, 7.02 - 6.93, 6.75, 6.38, 6.00, 5.92, 5.74 - 5.65, 3.20 - 2.93, 2.29 - 2.19.</p>
+<heading id="h0034"><u>Example 6: (3R)-3-[2-(6-Amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one-3-hydroxybenzoic acid</u></heading>
+<p id="p0099" num="0099"><u>(2/1)</u> The compound of Example 1(12) (500 mg) was mixed with 3-hydroxybenzoic acid (63.5 mg) and acetonitrile (5 mL), and the resultant mixture was stirred at 25°C for 1 day to give precipitates. The precipitates were filtered out and were then dried under reduced pressure to give the title compound (508 mg) having the following physical property values.<br/>
+<!-- EPO <DP n="36"> --><sup>1</sup>H-NMR (DMSO-d6): 11.70, 9.73, 9.65, 7.89 - 7.75, 7.35 - 7.27, 7.00 - 6.96, 6.75, 6.38, 6.00, 5.92, 5.70 - 5.68, 3.32, 3.17 - 2.93.</p>
+<heading id="h0035">[Measurement of physical property data]</heading>
+<p id="p0100" num="0100">With respect to each of the compounds of Examples 1(11), 2, 3, 4 and 5 of which a crystal had been obtained, the physical property data were measured under the following conditions.
+<ol id="ol0002" compact="compact" ol-style="">
+<li>(1) Powder X-ray diffraction spectrum:
+<ul id="ul0008" list-style="none" compact="compact">
+<li>Device: SmartLab, manufactured by Rigaku</li>
+<li>Target: Cu</li>
+<li>Voltage: 45 kV</li>
+<li>Current: 200 mA</li>
+</ul></li>
+<li>(2) Differential scanning calorimetry (DSC):
+<ul id="ul0009" list-style="none" compact="compact">
+<li>Device: a differential scanning calorimeter DSC822e, manufactured by METTLER TOLEDO</li>
+<li>Amount of sample: about 1 mg</li>
+<li>Sample cell: aluminum pan 40 µL</li>
+<li>Flow rate of nitrogen gas: 40 ml/min</li>
+<li>Temperature rising rate: 10°C/min</li>
+</ul></li>
+<li>(3) Thermogravimetry (TG):
+<ul id="ul0010" list-style="none" compact="compact">
+<li>Device: a thermogravimeter TGA851e, manufactured by METTLER TOLEDO</li>
+<li>Amount of sample: about 2 mg</li>
+<li>Sample cell: aluminum cell (without lid)</li>
+<li>Flow rate of nitrogen gas: 60 mL/min</li>
+<li>Temperature rising rate: 10°C/min</li>
+</ul></li>
+</ol></p>
+<p id="p0101" num="0101">In the present invention, the crystal form of each of a salt, a solvate and a cocrystal of (3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one is specified on the basis of the physical chemical data described in the description. However, it should be noted that each of the spectral data may vary slightly by its nature and therefore should not be interpreted strictly.</p>
+<p id="p0102" num="0102">For example, with respect to powder X-ray diffraction spectrum data, by its nature, in the determination of crystal identification, a diffraction angle (2θ) or an overall pattern is<!-- EPO <DP n="37"> --> important and a relative intensity may vary slightly depending on the direction of the growth of a crystal, the size of a grain and the conditions for measurement.</p>
+<p id="p0103" num="0103">Similarly, with respect to DSC data, in the determination of crystal identification, an overall pattern is important and the data may vary slightly depending on the conditions for measurement.</p>
+<p id="p0104" num="0104">Therefore, in the compounds of the present invention, those compounds which have similar powder X-ray diffraction spectra or DSC patterns to each other on the whole are included in the compounds of the present invention.</p>
+<p id="p0105" num="0105">Each of a value for a diffraction angle (2θ (degree)) in a powder X-ray diffraction pattern and a value for a temperature (°C) in a DSC described in the description means that the value includes an error range that is generally acceptable in the data measurement method, and means that the value is approximately that diffraction angle or that temperature. For example, the wording "about" or "substantially the same" used in the expression of a diffraction angle (2θ (degree)) in powder X-ray diffraction means ±0.2 degrees in one aspect and ±0.1 degrees in another aspect. The wording "about" used in the expression of an onset temperature (°C) or an endothermic peak temperature (°C) in a DSC analysis means ±10°C in one aspect, ±5°C in another aspect, and ±2°C in still another aspect.</p>
+<heading id="h0036"><u>Example 1(11): Data of (3S)-3-[2-(6-amino-2-fluoro-3-pyridinyl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)-phenyl]-2,3-dihydro-5(1H)-indolizinone dihydrate</u></heading>
+<p id="p0106" num="0106">In a powder X-ray diffraction spectrum, this compound showed a powder X-ray diffraction spectrum shown in <figref idref="f0001">Fig. 1</figref> and diffraction angles (2θ) and relative intensities shown in Table 2.</p>
+<p id="p0107" num="0107">In differential scanning calorimetry, as shown in a chart shown in <figref idref="f0006">Fig. 6</figref>, this compound showed heat absorption in a temperature range from about room temperature to about 87°C and showed heat absorption and heat generation from about 155°C.</p>
+<p id="p0108" num="0108">In thermogravimetry, as shown in a chart shown in <figref idref="f0011">Fig. 11</figref>, this compound showed a decrease in weight by about 6.5% (corresponding to 1.7 molecules of water) from about room temperature to about 60°C.<!-- EPO <DP n="38"> -->
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>[Table 2]</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="46mm"/>
+<colspec colnum="2" colname="col2" colwidth="36mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Diffraction angle (2θ) (degree)</entry>
+<entry align="center" valign="top">Relative intensity (%)</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">6.41</entry>
+<entry align="center">21.52</entry></row>
+<row>
+<entry align="center">6.99</entry>
+<entry align="center">64.50</entry></row>
+<row>
+<entry align="center">7.65</entry>
+<entry align="center">18.91</entry></row>
+<row>
+<entry align="center">11.02</entry>
+<entry align="center">40.04</entry></row>
+<row>
+<entry align="center">13.82</entry>
+<entry align="center">8.48</entry></row>
+<row>
+<entry align="center">14.00</entry>
+<entry align="center">14.21</entry></row>
+<row>
+<entry align="center">15.31</entry>
+<entry align="center">8.71</entry></row>
+<row>
+<entry align="center">16.05</entry>
+<entry align="center">17.51</entry></row>
+<row>
+<entry align="center">16.67</entry>
+<entry align="center">100.00</entry></row>
+<row>
+<entry align="center">21.07</entry>
+<entry align="center">49.04</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0037"><u>Example 2: Data of (3R)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one-α-resorcylic acid (2/1)</u></heading>
+<p id="p0109" num="0109">In a powder X-ray diffraction spectrum, this compound showed a powder X-ray diffraction spectrum shown in <figref idref="f0002">Fig. 2</figref> and diffraction angles (2θ) relative intensities shown in Table 3.</p>
+<p id="p0110" num="0110">In differential scanning calorimetry, as shown in a chart shown in <figref idref="f0007">Fig. 7</figref>, this compound showed broad heat absorption in a temperature range from about room temperature to about 90°C, and showed heat absorption and heat generation from about 175°C.</p>
+<p id="p0111" num="0111">In thermogravimetry, as shown in a chart shown in <figref idref="f0012">Fig. 12</figref>, this compound showed a decrease in weight by about 1.1% from about room temperature to about 63°C.<!-- EPO <DP n="39"> -->
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>[Table 3]</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="46mm"/>
+<colspec colnum="2" colname="col2" colwidth="36mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Diffraction angle (2θ) (degree)</entry>
+<entry align="center" valign="top">Relative intensity (%)</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">6.90</entry>
+<entry align="center">41.47</entry></row>
+<row>
+<entry align="center">7.61</entry>
+<entry align="center">16.71</entry></row>
+<row>
+<entry align="center">11.00</entry>
+<entry align="center">29.36</entry></row>
+<row>
+<entry align="center">13.64</entry>
+<entry align="center">30.03</entry></row>
+<row>
+<entry align="center">15.25</entry>
+<entry align="center">11.91</entry></row>
+<row>
+<entry align="center">16.69</entry>
+<entry align="center">98.61</entry></row>
+<row>
+<entry align="center">17.30</entry>
+<entry align="center">19.12</entry></row>
+<row>
+<entry align="center">20.87</entry>
+<entry align="center">100.00</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0038"><u>Example 3: Data of (3R)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one-gentisic acid (2/1)</u></heading>
+<p id="p0112" num="0112">In a powder X-ray diffraction spectrum, this compound showed a powder X-ray diffraction spectrum shown in <figref idref="f0003">Fig. 3</figref> and showed diffraction angles (2θ) and relative intensities shown in Table 4.</p>
+<p id="p0113" num="0113">In differential scanning calorimetry, as shown in a chart shown in <figref idref="f0008">Fig. 8</figref>, this compound showed broad heat absorption in a temperature range from about room temperature to about 100°C and showed heat absorption and heat generation from about 155°C.</p>
+<p id="p0114" num="0114">In thermogravimetry, as shown in a chart shown in <figref idref="f0013">Fig. 13</figref>, this compound showed a decrease in weight by about 1.0% from about room temperature to about 56°C.<!-- EPO <DP n="40"> -->
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title>[Table 4]</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="46mm"/>
+<colspec colnum="2" colname="col2" colwidth="36mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Diffraction angle (2θ) (degree)</entry>
+<entry align="center" valign="top">Relative intensity (%)</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">7.94</entry>
+<entry align="center">27.55</entry></row>
+<row>
+<entry align="center">8.93</entry>
+<entry align="center">16.76</entry></row>
+<row>
+<entry align="center">10.75</entry>
+<entry align="center">26.52</entry></row>
+<row>
+<entry align="center">11.73</entry>
+<entry align="center">22.60</entry></row>
+<row>
+<entry align="center">12.41</entry>
+<entry align="center">17.72</entry></row>
+<row>
+<entry align="center">14.30</entry>
+<entry align="center">16.30</entry></row>
+<row>
+<entry align="center">16.32</entry>
+<entry align="center">100.00</entry></row>
+<row>
+<entry align="center">16.98</entry>
+<entry align="center">11.25</entry></row>
+<row>
+<entry align="center">17.92</entry>
+<entry align="center">44.57</entry></row>
+<row>
+<entry align="center">18.92</entry>
+<entry align="center">19.71</entry></row>
+<row>
+<entry align="center">20.19</entry>
+<entry align="center">28.55</entry></row>
+<row>
+<entry align="center">21.17</entry>
+<entry align="center">11.86</entry></row>
+<row>
+<entry align="center">22.00</entry>
+<entry align="center">10.83</entry></row>
+<row>
+<entry align="center">23.6</entry>
+<entry align="center">38.69</entry></row>
+<row>
+<entry align="center">24.01</entry>
+<entry align="center">42.23</entry></row>
+<row>
+<entry align="center">24.37</entry>
+<entry align="center">52.03</entry></row>
+<row>
+<entry align="center">24.73</entry>
+<entry align="center">18.66</entry></row>
+<row>
+<entry align="center">24.98</entry>
+<entry align="center">11.69</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0039"><u>Example 4: Data of (3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)-phenyl]-2,3-dihydroindolizin-5(1H)-one-nicotinamide (2/1)</u></heading>
+<p id="p0115" num="0115">In powder X-ray diffraction spectrum, this compound showed a powder X-ray diffraction spectrum shown in <figref idref="f0004">Fig. 4</figref> and showed diffraction angles (2θ) and relative intensities shown in Table 5.</p>
+<p id="p0116" num="0116">In differential scanning calorimetry, as shown in a chart shown in <figref idref="f0009">Fig. 9</figref>, this compound showed heat absorption and heat generation from about 144°C.</p>
+<p id="p0117" num="0117">In thermogravimetry, as shown in a chart shown in <figref idref="f0014">Fig. 14</figref>, this compound showed a decrease in weight by about 0.4% (i.e., less than 1%) from about room temperature to about 65°C.<!-- EPO <DP n="41"> -->
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<title>[Table 5]</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="46mm"/>
+<colspec colnum="2" colname="col2" colwidth="36mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Diffraction angle (2θ) (degree)</entry>
+<entry align="center" valign="top">Relative intensity (%)</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">7.92</entry>
+<entry align="center">29.11</entry></row>
+<row>
+<entry align="center">10.89</entry>
+<entry align="center">30.42</entry></row>
+<row>
+<entry align="center">11.55</entry>
+<entry align="center">42.24</entry></row>
+<row>
+<entry align="center">16.32</entry>
+<entry align="center">100.00</entry></row>
+<row>
+<entry align="center">17.96</entry>
+<entry align="center">42.65</entry></row>
+<row>
+<entry align="center">18.17</entry>
+<entry align="center">52.11</entry></row>
+<row>
+<entry align="center">18.64</entry>
+<entry align="center">21.47</entry></row>
+<row>
+<entry align="center">20.03</entry>
+<entry align="center">25.35</entry></row>
+<row>
+<entry align="center">23.25</entry>
+<entry align="center">41.52</entry></row>
+<row>
+<entry align="center">23.53</entry>
+<entry align="center">32.14</entry></row>
+<row>
+<entry align="center">24.23</entry>
+<entry align="center">40.18</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0040"><u>Example 5: Data of (3S)-3-[2-(6-amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one-3-hydroxybenzoic acid 1/1</u></heading>
+<p id="p0118" num="0118">In powder X-ray diffraction spectrum, this compound showed a powder X-ray diffraction spectrum shown in <figref idref="f0005">Fig. 5</figref> and showed diffraction angles (2θ) and relative intensities shown in Table 6.</p>
+<p id="p0119" num="0119">In differential scanning calorimetry, as shown in a chart shown in <figref idref="f0010">Fig. 10</figref>, this compound showed heat generation in a temperature range from about 200°C to about 234°C. The onset temperature was 213.6°C, and the exothermic peak temperature was 214.7°C.</p>
+<p id="p0120" num="0120">In thermogravimetry, as shown in a chart shown in <figref idref="f0015">Fig. 15</figref>, a decrease in weight was not observed from about room temperature to about 156°C.<!-- EPO <DP n="42"> -->
+<tables id="tabl0006" num="0006">
+<table frame="all">
+<title>[Table 6]</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="46mm"/>
+<colspec colnum="2" colname="col2" colwidth="36mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Diffraction angle (2θ) (degree)</entry>
+<entry align="center" valign="top">Relative intensity (%)</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">9.39</entry>
+<entry align="center">86.80</entry></row>
+<row>
+<entry align="center">13.28</entry>
+<entry align="center">14.36</entry></row>
+<row>
+<entry align="center">14.09</entry>
+<entry align="center">63.82</entry></row>
+<row>
+<entry align="center">14.67</entry>
+<entry align="center">17.39</entry></row>
+<row>
+<entry align="center">15.11</entry>
+<entry align="center">56.21</entry></row>
+<row>
+<entry align="center">15.77</entry>
+<entry align="center">38.46</entry></row>
+<row>
+<entry align="center">16.46</entry>
+<entry align="center">100.00</entry></row>
+<row>
+<entry align="center">17.37</entry>
+<entry align="center">31.65</entry></row>
+<row>
+<entry align="center">17.69</entry>
+<entry align="center">41.87</entry></row>
+<row>
+<entry align="center">18.01</entry>
+<entry align="center">31.87</entry></row>
+<row>
+<entry align="center">18.39</entry>
+<entry align="center">52.02</entry></row>
+<row>
+<entry align="center">18.87</entry>
+<entry align="center">34.81</entry></row>
+<row>
+<entry align="center">19.28</entry>
+<entry align="center">24.39</entry></row>
+<row>
+<entry align="center">19.78</entry>
+<entry align="center">16.19</entry></row>
+<row>
+<entry align="center">20.62</entry>
+<entry align="center">47.91</entry></row>
+<row>
+<entry align="center">20.85</entry>
+<entry align="center">47.23</entry></row>
+<row>
+<entry align="center">22.41</entry>
+<entry align="center">37.21</entry></row>
+<row>
+<entry align="center">22.80</entry>
+<entry align="center">18.95</entry></row>
+<row>
+<entry align="center">23.16</entry>
+<entry align="center">22.64</entry></row>
+<row>
+<entry align="center">24.17</entry>
+<entry align="center">67.06</entry></row>
+<row>
+<entry align="center">24.96</entry>
+<entry align="center">13.75</entry></row>
+<row>
+<entry align="center">25.53</entry>
+<entry align="center">29.97</entry></row>
+<row>
+<entry align="center">25.76</entry>
+<entry align="center">65.76</entry></row>
+<row>
+<entry align="center">26.28</entry>
+<entry align="center">27.71</entry></row>
+<row>
+<entry align="center">27.23</entry>
+<entry align="center">85.81</entry></row>
+<row>
+<entry align="center">27.57</entry>
+<entry align="center">18.56</entry></row>
+<row>
+<entry align="center">27.85</entry>
+<entry align="center">23.52</entry></row>
+<row>
+<entry align="center">28.62</entry>
+<entry align="center">12.27</entry></row>
+<row>
+<entry align="center">29.50</entry>
+<entry align="center">24.77</entry></row>
+<row>
+<entry align="center">31.02</entry>
+<entry align="center">21.21</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0121" num="0121"><!-- EPO <DP n="43"> --> The single crystal X-ray structural analysis data of the compound of Example 5 are shown in Tables 7 to 10 below.</p>
+<heading id="h0041">[Measurement conditions]</heading>
+<p id="p0122" num="0122">
+<ul id="ul0011" list-style="none" compact="compact">
+<li>Device: a single crystal X-ray analysis device SuperNova, manufactured by Rigaku</li>
+<li>Target: Cukα (λ = 1.54184Å)</li>
+<li>Measurement temperature: 100 K</li>
+<li>Analysis software: Olex2[1]</li>
+<li>1.<nplcit id="ncit0009" npl-type="s"><text>Dolomanov, O.V., Bourhis, L.J., Gildea, R.J, Haward, J.A.K. &amp; Puschmann, H. (2009), J. Appl. Cryst. 42, 339-341</text></nplcit>.</li>
+</ul></p>
+<p id="p0123" num="0123">Crystallographic data are as follows.
+<tables id="tabl0007" num="0007">
+<table frame="all">
+<title>[Table 7]</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="16mm"/>
+<colspec colnum="2" colname="col2" colwidth="23mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col2" align="left" valign="top">Unit lattice data</entry></row>
+<row>
+<entry align="center" valign="top">T(K)</entry>
+<entry align="center" valign="top">100</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">a (Å)</entry>
+<entry align="center">6.86859 (17)</entry></row>
+<row>
+<entry align="center">b (Å)</entry>
+<entry align="center">18.6585 (4)</entry></row>
+<row>
+<entry align="center">c (Å)</entry>
+<entry align="center">22.3480 (6)</entry></row>
+<row>
+<entry align="center">α°</entry>
+<entry align="center">90</entry></row>
+<row>
+<entry align="center">β°</entry>
+<entry align="center">90</entry></row>
+<row>
+<entry align="center">γ°</entry>
+<entry align="center">90</entry></row>
+<row>
+<entry align="center">Vm</entry>
+<entry align="center">716</entry></row>
+<row>
+<entry align="center">Z'</entry>
+<entry align="center">1</entry></row>
+<row>
+<entry align="center">SG</entry>
+<entry align="center">P212121</entry></row>
+<row>
+<entry align="center">Dcalc</entry>
+<entry align="center">1.498</entry></row>
+<row>
+<entry align="center">R</entry>
+<entry align="center">0.0419</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="44"> -->
+<tables id="tabl0008" num="0008">
+<table frame="all">
+<title>[Table 8]</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="13mm"/>
+<colspec colnum="2" colname="col2" colwidth="15mm"/>
+<colspec colnum="3" colname="col3" colwidth="15mm"/>
+<colspec colnum="4" colname="col4" colwidth="15mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col4" align="left" valign="top">Positional parameter 1</entry></row>
+<row>
+<entry align="center" valign="top">Atom</entry>
+<entry align="center" valign="top">x</entry>
+<entry align="center" valign="top">y</entry>
+<entry align="center" valign="top">z</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">C101</entry>
+<entry align="right">2097</entry>
+<entry align="right">8747.8</entry>
+<entry align="right">-348.4</entry></row>
+<row>
+<entry align="center">F2</entry>
+<entry align="right">4091</entry>
+<entry align="right">7155.4</entry>
+<entry align="right">5213.7</entry></row>
+<row>
+<entry align="center">F1</entry>
+<entry align="right">2140</entry>
+<entry align="right">5342.5</entry>
+<entry align="right">3056.9</entry></row>
+<row>
+<entry align="center">O1</entry>
+<entry align="right">3881</entry>
+<entry align="right">7577.7</entry>
+<entry align="right">2882.2</entry></row>
+<row>
+<entry align="center">O2</entry>
+<entry align="right">13339</entry>
+<entry align="right">9443.9</entry>
+<entry align="right">1199.6</entry></row>
+<row>
+<entry align="center">O4</entry>
+<entry align="right">7156</entry>
+<entry align="right">8278</entry>
+<entry align="right">2784.4</entry></row>
+<row>
+<entry align="center">O3</entry>
+<entry align="right">7023</entry>
+<entry align="right">8350</entry>
+<entry align="right">1783.8</entry></row>
+<row>
+<entry align="center">N6</entry>
+<entry align="right">2976</entry>
+<entry align="right">6663.8</entry>
+<entry align="right">4105.7</entry></row>
+<row>
+<entry align="center">N8</entry>
+<entry align="right">6966</entry>
+<entry align="right">6840.5</entry>
+<entry align="right">5593</entry></row>
+<row>
+<entry align="center">N5</entry>
+<entry align="right">1059</entry>
+<entry align="right">6996.1</entry>
+<entry align="right">2662.8</entry></row>
+<row>
+<entry align="center">N7</entry>
+<entry align="right">4089</entry>
+<entry align="right">5587.1</entry>
+<entry align="right">3884.7</entry></row>
+<row>
+<entry align="center">N1</entry>
+<entry align="right">2157</entry>
+<entry align="right">5813.4</entry>
+<entry align="right">651.8</entry></row>
+<row>
+<entry align="center">N9</entry>
+<entry align="right">9916</entry>
+<entry align="right">6593.9</entry>
+<entry align="right">6011.1</entry></row>
+<row>
+<entry align="center">C18</entry>
+<entry align="right">4278</entry>
+<entry align="right">6151.9</entry>
+<entry align="right">4252.6</entry></row>
+<row>
+<entry align="center">N2</entry>
+<entry align="right">3288</entry>
+<entry align="right">5631.5</entry>
+<entry align="right">1130.8</entry></row>
+<row>
+<entry align="center">C16</entry>
+<entry align="right">1931</entry>
+<entry align="right">6440.9</entry>
+<entry align="right">3615.1</entry></row>
+<row>
+<entry align="center">C4</entry>
+<entry align="right">2170</entry>
+<entry align="right">7800.1</entry>
+<entry align="right">557.5</entry></row>
+<row>
+<entry align="center">C3</entry>
+<entry align="right">2096</entry>
+<entry align="right">7113.8</entry>
+<entry align="right">805.3</entry></row>
+<row>
+<entry align="center">C20</entry>
+<entry align="right">5659</entry>
+<entry align="right">6720.2</entry>
+<entry align="right">5179.5</entry></row>
+<row>
+<entry align="center">N3</entry>
+<entry align="right">3010</entry>
+<entry align="right">4955.9</entry>
+<entry align="right">1218.1</entry></row>
+<row>
+<entry align="center">C27</entry>
+<entry align="right">10668</entry>
+<entry align="right">9017</entry>
+<entry align="right">2832.4</entry></row>
+<row>
+<entry align="center">C9</entry>
+<entry align="right">3071</entry>
+<entry align="right">7363.7</entry>
+<entry align="right">1855.9</entry></row>
+<row>
+<entry align="center">C17</entry>
+<entry align="right">2665</entry>
+<entry align="right">5781.2</entry>
+<entry align="right">3504.3</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="45"> -->
+<tables id="tabl0009" num="0009">
+<table frame="all">
+<title>[Table 9]</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="13mm"/>
+<colspec colnum="2" colname="col2" colwidth="15mm"/>
+<colspec colnum="3" colname="col3" colwidth="15mm"/>
+<colspec colnum="4" colname="col4" colwidth="15mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col4" align="left" valign="top">Positional parameter 2</entry></row>
+<row>
+<entry align="center" valign="top">Atom</entry>
+<entry align="center" valign="top">x</entry>
+<entry align="center" valign="top">y</entry>
+<entry align="center" valign="top">z</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">C8</entry>
+<entry align="right">1791</entry>
+<entry align="right">7045.4</entry>
+<entry align="right">1467.9</entry></row>
+<row>
+<entry align="center">N4</entry>
+<entry align="right">1726</entry>
+<entry align="right">4679.3</entry>
+<entry align="right">812</entry></row>
+<row>
+<entry align="center">C19</entry>
+<entry align="right">5742</entry>
+<entry align="right">6220.5</entry>
+<entry align="right">4719.9</entry></row>
+<row>
+<entry align="center">C11</entry>
+<entry align="right">-240</entry>
+<entry align="right">6677.3</entry>
+<entry align="right">2276.9</entry></row>
+<row>
+<entry align="center">C10</entry>
+<entry align="right">2747</entry>
+<entry align="right">7331.4</entry>
+<entry align="right">2488.1</entry></row>
+<row>
+<entry align="center">C5</entry>
+<entry align="right">2163</entry>
+<entry align="right">7882.5</entry>
+<entry align="right">-56.6</entry></row>
+<row>
+<entry align="center">C26</entry>
+<entry align="right">9777</entry>
+<entry align="right">8840.3</entry>
+<entry align="right">2288.9</entry></row>
+<row>
+<entry align="center">C15</entry>
+<entry align="right">483</entry>
+<entry align="right">6911.3</entry>
+<entry align="right">3302.1</entry></row>
+<row>
+<entry align="center">C30</entry>
+<entry align="right">7853</entry>
+<entry align="right">8474.5</entry>
+<entry align="right">2254.2</entry></row>
+<row>
+<entry align="center">C21</entry>
+<entry align="right">8578</entry>
+<entry align="right">6431.3</entry>
+<entry align="right">5594.8</entry></row>
+<row>
+<entry align="center">C12</entry>
+<entry align="right">104</entry>
+<entry align="right">6690.5</entry>
+<entry align="right">1674.6</entry></row>
+<row>
+<entry align="center">C29</entry>
+<entry align="right">13412</entry>
+<entry align="right">9491.3</entry>
+<entry align="right">2286.2</entry></row>
+<row>
+<entry align="center">C23</entry>
+<entry align="right">7427</entry>
+<entry align="right">5792</entry>
+<entry align="right">4734.7</entry></row>
+<row>
+<entry align="center">C28</entry>
+<entry align="right">12476</entry>
+<entry align="right">9342.5</entry>
+<entry align="right">2824.3</entry></row>
+<row>
+<entry align="center">C6</entry>
+<entry align="right">2156</entry>
+<entry align="right">7299</entry>
+<entry align="right">-444.1</entry></row>
+<row>
+<entry align="center">C24</entry>
+<entry align="right">12510</entry>
+<entry align="right">9319.3</entry>
+<entry align="right">1745.4</entry></row>
+<row>
+<entry align="center">C7</entry>
+<entry align="right">2171</entry>
+<entry align="right">6615</entry>
+<entry align="right">-201.5</entry></row>
+<row>
+<entry align="center">C25</entry>
+<entry align="right">10687</entry>
+<entry align="right">9007.2</entry>
+<entry align="right">1749.1</entry></row>
+<row>
+<entry align="center">C13</entry>
+<entry align="right">-1866</entry>
+<entry align="right">6344</entry>
+<entry align="right">2620.1</entry></row>
+<row>
+<entry align="center">C2</entry>
+<entry align="right">2126</entry>
+<entry align="right">6526.8</entry>
+<entry align="right">416.8</entry></row>
+<row>
+<entry align="center">C14</entry>
+<entry align="right">-1605</entry>
+<entry align="right">6617</entry>
+<entry align="right">3260.6</entry></row>
+<row>
+<entry align="center">C22</entry>
+<entry align="right">8837</entry>
+<entry align="right">5885.6</entry>
+<entry align="right">5162</entry></row>
+<row>
+<entry align="center">C1</entry>
+<entry align="right">1239</entry>
+<entry align="right">5224</entry>
+<entry align="right">475</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="46"> -->
+<tables id="tabl0010" num="0010">
+<table frame="all">
+<title>[Table 10]</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="14mm"/>
+<colspec colnum="2" colname="col2" colwidth="15mm"/>
+<colspec colnum="3" colname="col3" colwidth="13mm"/>
+<colspec colnum="4" colname="col4" colwidth="13mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col4" align="left" valign="top">Positional parameter 3</entry></row>
+<row>
+<entry align="center" valign="top">Atom</entry>
+<entry align="center" valign="top">x</entry>
+<entry align="center" valign="top">y</entry>
+<entry align="center" valign="top">z</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">H2</entry>
+<entry align="right">14187</entry>
+<entry align="right">9751</entry>
+<entry align="right">1233</entry></row>
+<row>
+<entry align="center">H4A</entry>
+<entry align="right">6115</entry>
+<entry align="right">8069</entry>
+<entry align="right">2739</entry></row>
+<row>
+<entry align="center">H6</entry>
+<entry align="right">2825</entry>
+<entry align="right">7065</entry>
+<entry align="right">4289</entry></row>
+<row>
+<entry align="center">H9A</entry>
+<entry align="right">9713</entry>
+<entry align="right">6942</entry>
+<entry align="right">6256</entry></row>
+<row>
+<entry align="center">H9B</entry>
+<entry align="right">10977</entry>
+<entry align="right">6350</entry>
+<entry align="right">6033</entry></row>
+<row>
+<entry align="center">H4</entry>
+<entry align="right">2223</entry>
+<entry align="right">8200</entry>
+<entry align="right">805</entry></row>
+<row>
+<entry align="center">H27</entry>
+<entry align="right">10053</entry>
+<entry align="right">8917</entry>
+<entry align="right">3194</entry></row>
+<row>
+<entry align="center">H9</entry>
+<entry align="right">4157</entry>
+<entry align="right">7602</entry>
+<entry align="right">1708</entry></row>
+<row>
+<entry align="center">H15</entry>
+<entry align="right">459</entry>
+<entry align="right">7383</entry>
+<entry align="right">3495</entry></row>
+<row>
+<entry align="center">H12</entry>
+<entry align="right">-750</entry>
+<entry align="right">6472</entry>
+<entry align="right">1408</entry></row>
+<row>
+<entry align="center">H29</entry>
+<entry align="right">14635</entry>
+<entry align="right">9705</entry>
+<entry align="right">2287</entry></row>
+<row>
+<entry align="center">H23</entry>
+<entry align="right">7588</entry>
+<entry align="right">5436</entry>
+<entry align="right">4447</entry></row>
+<row>
+<entry align="center">H28</entry>
+<entry align="right">13075</entry>
+<entry align="right">9464</entry>
+<entry align="right">3184</entry></row>
+<row>
+<entry align="center">H6A</entry>
+<entry align="right">2141</entry>
+<entry align="right">7366</entry>
+<entry align="right">-856</entry></row>
+<row>
+<entry align="center">H7</entry>
+<entry align="right">2211</entry>
+<entry align="right">6216</entry>
+<entry align="right">-451</entry></row>
+<row>
+<entry align="center">H25</entry>
+<entry align="right">10062</entry>
+<entry align="right">8908</entry>
+<entry align="right">1389</entry></row>
+<row>
+<entry align="center">H13A</entry>
+<entry align="right">-1781</entry>
+<entry align="right">5825</entry>
+<entry align="right">2606</entry></row>
+<row>
+<entry align="center">H13B</entry>
+<entry align="right">-3116</entry>
+<entry align="right">6490</entry>
+<entry align="right">2460</entry></row>
+<row>
+<entry align="center">H14A</entry>
+<entry align="right">-1790</entry>
+<entry align="right">6229</entry>
+<entry align="right">3545</entry></row>
+<row>
+<entry align="center">H14B</entry>
+<entry align="right">-2543</entry>
+<entry align="right">6991</entry>
+<entry align="right">3347</entry></row>
+<row>
+<entry align="center">H22</entry>
+<entry align="right">9940</entry>
+<entry align="right">5597</entry>
+<entry align="right">5167</entry></row>
+<row>
+<entry align="center">H1</entry>
+<entry align="right">370</entry>
+<entry align="right">5202</entry>
+<entry align="right">156</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0124" num="0124">In general, for demonstrating that two components exist in the form of a cocrystal, it is required to show a requirement represented by the following formula are satisfied: a/b &gt; 1.08 (<nplcit id="ncit0010" npl-type="s"><text>Mol Pharm. 2007 May-Jun; 4(3):317-22</text></nplcit>) and/or ΔDc-o &gt; 0.08Å (<nplcit id="ncit0011" npl-type="s"><text>Mol Pharm. 2007 May-Jun; 4(3):323-38</text></nplcit>).</p>
+<p id="p0125" num="0125">The values of a/b and ΔDc-o determined from the above-shown atomic coordinate tables are a/b ≈ 1.091 and ΔDc-o ≈ 0.208. Therefore, it is obvious that the compound of Example 1(10) and 3-hydroxybenzoic acid exist as a cocrystal.<!-- EPO <DP n="47"> --></p>
+<p id="p0126" num="0126">Comparison is made between powder X-ray diffraction spectrum data converted from the single crystal X-ray structural analysis data and actually measured powder X-ray diffraction spectrum data of the compound of Example 5, and it is found that scattering peaks of these data match each other. Therefore, it is demonstrated that the compound of Example 5 is a cocrystal.</p>
+<p id="p0127" num="0127">Furthermore, from the measurement results of solid <sup>1</sup>H-NMR and <sup>13</sup>C-NMR (CP/MAS) (CP: cross-polarization, MAS: magic-angle spinning) and <sup>1</sup>H-<sup>13</sup>C CP-HETCOR (HETCOR: Heteronuclear Correlation Spectroscopy), it is also confirmed that the compound of Example 1(10) and 3-hydroxybenzoic acid exist as a cocrystal.</p>
+<heading id="h0042"><u>Physical Chemical Example 1: Evaluation of hygroscopicity</u></heading>
+<p id="p0128" num="0128">An isothermal absorption curve measurement (DVS) was carried out under the following conditions.</p>
+<heading id="h0043">(Conditions)</heading>
+<p id="p0129" num="0129">
+<ul id="ul0012" list-style="none" compact="compact">
+<li>Device: DVS Intrinsic, manufactured by SMS</li>
+<li>Measurement temperature: 25°C</li>
+<li>Measurement range: relative humidity of 0 to 95%</li>
+<li>Interval of measurement: relative humidity of 5%</li>
+<li>As the result of this evaluation, as shown in <figref idref="f0016">Fig. 16</figref>, the weight change rate of the compound of Example 5 in this evaluation was less than 1% and it was found that only a cocrystal of 3HBA had low hygroscopicity.</li>
+</ul></p>
+<heading id="h0044"><u>Physical Chemical Example 2: Evaluation of solubility</u></heading>
+<p id="p0130" num="0130">The measurement of solubility was carried out under the following conditions.</p>
+<p id="p0131" num="0131">About 3 mg of each of the compounds of the present invention was weighed in a test tube, then a stirrer and 5 mL of each of an artificial intestinal juice (FaSSIF; Reference Document 1:<nplcit id="ncit0012" npl-type="s"><text> Pharmaceutical Research, vol. 20, pp. 1674-1680, 2003</text></nplcit>; Reference Document 2: <nplcit id="ncit0013" npl-type="s"><text>Biological &amp; Pharmaceutical Bulletin, vol. 34, pp. 401-407, 2011</text></nplcit>) and JP 1st fluid which had been warmed to 37°C were added to the test tube, and then the test tube was sealed hermetically. The test tube was installed in a solubility test device (Gilson, Quad-Z 215), and the solution was stirred at 37°C and 700 rpm. After 0.25, 0.5, 1, 3, 6 and 24 hours, an aliquot of the solution in the test tube was collected. The collected solution was filtrated through a filter, and a filtrate was diluted two-folds with acetonitrile. A diluted solution of<!-- EPO <DP n="48"> --> the artificial intestinal juice was centrifuged at 3000 rpm for 5 minutes, and a supernatant was used as a sample solution. A diluted solution of the JP 1st fluid was used as is as a sample solution. Solubility was calculated by a high-performance liquid chromatography method.</p>
+<heading id="h0045">[Measurement conditions]</heading>
+<p id="p0132" num="0132">
+<ul id="ul0013" list-style="none" compact="compact">
+<li>Device: Shimadzu HPLC NexeraXRseries</li>
+<li>Column: Waters Xbridge ShieldRP18 (4.6 mm (inner diameter) × 50 mm, 3.5 µm)</li>
+<li>Column temperature: 40°C</li>
+<li>Component of mobile phase: 20 mM potassium dihydrogen phosphate (pH 3.0)/acetonitrile (0 minute: 70/30, 5 minutes: 25/75)</li>
+<li>UV: 285 nm</li>
+<li>Flow rate: 1.0 mL/min</li>
+<li>Sample rack temperature: 15°C</li>
+<li>Sample injection amount: 10 µL</li>
+<li>Measurement time: 5 minutes</li>
+<li>Retention time: 2.6 minutes</li>
+</ul></p>
+<p id="p0133" num="0133">The solubilities of the compounds of Example 1(11), Example 4 and Example 5 after 24 hours are shown in Table 11 below.
+<tables id="tabl0011" num="0011">
+<table frame="all">
+<title>[Table 11]</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="26mm"/>
+<colspec colnum="2" colname="col2" colwidth="30mm"/>
+<colspec colnum="3" colname="col3" colwidth="46mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle">Compound</entry>
+<entry align="center" valign="middle">JP 1st fluid (µg/m)</entry>
+<entry align="center" valign="middle">Artificial intestinal juice (µg/m)</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">Example 1(11)</entry>
+<entry align="right">41</entry>
+<entry align="right">47</entry></row>
+<row>
+<entry align="center">Example 4</entry>
+<entry align="right">77</entry>
+<entry align="right">60</entry></row>
+<row>
+<entry align="center">Example 5</entry>
+<entry align="right">75</entry>
+<entry align="right">60</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0134" num="0134">The solubility of the compound of Example 1(11) in the JP 1st fluid was 41 µg/mL, and the solubilities of the compounds of Example 4 and Example 5 in the JP 1st fluid were 77 µg/mL and 75 µg/mL, respectively. The solubility of the compound of Example 1(11) in the artificial intestinal juice was 47 µg/mL, and the solubility of each of the cocrystals of the compounds of Example 4 and Example 5 in the artificial intestinal juice was 60 µg/mL.<!-- EPO <DP n="49"> --></p>
+<heading id="h0046"><u>Physical Chemical Example 3: Evaluation of oral absorption</u></heading>
+<p id="p0135" num="0135">The measurement of oral absorption was carried out under the following conditions.</p>
+<heading id="h0047">[Methods for preparation/administration and blood collection]</heading>
+<p id="p0136" num="0136">Suspensions of the compounds of Example 1(11), Example 4 and Example 5 were prepared. Each of the suspensions was prepared with a 0.5% aqueous methyl cellulose solution at a concentration of 0.33 mg/mL (in terms of free base content). Each of the suspensions was administered to monkeys (cynomolgus monkeys/male), which had been fasted since the day before, in the stomach thereof forcibly with a sonde. The amount of administration was adjusted depending on the body weight of each of the monkeys so that the dosage amount became 1 mg/kg.</p>
+<p id="p0137" num="0137">After the administration of the suspensions (liquid pharmaceuticals), at the timing of 0.25, 0.5, 1, 2, 4, 7 and 24 hours after the administration, blood (0.5 mL) was collected from the cephalic vein with a heparin-added syringe. The collected blood was centrifuged at 10000 G for 5 minutes to separate plasma from the blood. In the evaluation of the oral absorption of the test compounds, data obtained when the test compounds were administered intravenously at the same dose amounts (1 mg/kg) were employed. The oral absorption rate (%) was calculated by dividing an AUC (area under the blood concentration-time curve) value obtained in the oral administration by an AUC value obtained in the intravenous administration and then multiplying the resultant value by 100.</p>
+<heading id="h0048">[Preparation/analysis of analysis samples]</heading>
+<p id="p0138" num="0138">Water/acetonitrile (19/1) (200 µL) and acetonitrile containing an internal standard substance (a structural analogue of the compound of Example 1(10)) (10 µL) were added to plasma (10 µL), and the resultant solution was stirred. The whole volume of the solution was added to Oasis HLB µElution Plate through which acetonitrile (200 µL) and purified water (200 µL) had been passed, and was then sucked under reduced pressure. Purified water (200 µL) was added to the solution, and the resultant solution was washed by sucking under reduced pressure. Acetonitrile (200 µL) was added to the solution, the resultant solution was sucked under reduced pressure, and an eluate was collected in a 96-well plate. The eluate (10 µL) was added to a 0.1% aqueous formic acid solution/acetonitrile (2/1)<!-- EPO <DP n="50"> --> solution (290 µL), and the resultant solution was stirred and was then analyzed by LC/MS/MS.</p>
+<p id="p0139" num="0139">The analysis by LC/MS/MS was carried out under the following conditions.</p>
+<heading id="h0049">[Conditions for LC/MS/MS]</heading>
+<p id="p0140" num="0140">
+<ul id="ul0014" list-style="none" compact="compact">
+<li>Measurement device: API-5000 (manufactured by Applied Biosystems/MDS SCIEX) Analysis column: Cadenza CD-C18 (2.0 mm I.D. × 100 mm, 3 µm)</li>
+<li>Flow rate: 0.4 mL/min.</li>
+<li>Components of mobile phase: a 0.1% aqueous formic acid solution/acetonitrile (0 minute: 65/35, 4.0 minutes: 65/35, 4.1 minutes: 10/90, 5.0 minutes: 10/90, 5.1 minutes: 65/35, 7.0 minutes: 65/35)</li>
+<li>Scan type: MRM (Multiple Reaction Monitoring)</li>
+<li>Polarity: Positive</li>
+</ul></p>
+<p id="p0141" num="0141">The results of this evaluation are shown in <figref idref="f0017">Fig. 17</figref>. The oral absorption rates (%) of the compounds of Example 1(11) and Example 4, among the compounds of Example 1(11), Example 4 and Example 5, were 26% and 44%, respectively. In contrast, the oral absorption rate (%) of the compound of Example 5 was almost 100%.</p>
+<heading id="h0050">[Preparation Examples]</heading>
+<heading id="h0051"><u>Preparation Example 1:</u></heading>
+<heading id="h0052">Tablets containing 5 mg of compound A</heading>
+<p id="p0142" num="0142">The below-mentioned components were mixed together and were then compressed into tablets by the conventional method. In this manner, 10,000 tablets containing the active ingredient in an amount of 5 mg per tablet were produced.
+<ul id="ul0015" list-style="bullet" compact="compact">
+<li>(3S)-3-[2-(6-Amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one-3-hydroxybenzoic acid (1/1): 50 g</li>
+<li>Carboxymethylcellulose calcium (disintegrating agent): 20 g</li>
+<li>Magnesium stearate (lubricant): 10 g</li>
+<li>Microcrystalline cellulose: 920 g</li>
+</ul></p>
+<heading id="h0053"><u>Preparation Example 2:</u></heading>
+<p id="p0143" num="0143">Injection containing 20 mg of compound A<!-- EPO <DP n="51"> --></p>
+<p id="p0144" num="0144">The below-mentioned components were mixed together by the conventional method, and then the resultant solution was sterilized by the conventional method, was then packed in ampules at a volume of 5 mL per ampule, and was then freeze-dried by the conventional method. In this manner, 10,000 ampules each containing the active ingredient in an amount of 20 mg per ampule were produced.
+<ul id="ul0016" list-style="bullet" compact="compact">
+<li>(3 S)-3 - [2-(6-Amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]-2,3-dihydroindolizin-5(1H)-one-3-hydroxybenzoic acid (1/1): 200 g</li>
+<li>Mannitol: 20 g</li>
+<li>Distilled water: 50 L</li>
+</ul></p>
+<heading id="h0054">INDUSTRIAL APPLICABILITY</heading>
+<p id="p0145" num="0145">The compound A has an extremely potent inhibitory activity against blood coagulation factor XIa, and is also superior in low hygroscopicity and oral absorption. Therefore, the compound A is very useful as an active ingredient for a pharmaceutical.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="52"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>(3S)-3-[2-(6-Amino-2-fluoropyridin-3-yl)-4-fluoro-1H-imidazol-5-yl]-7-[5-chloro-2-(1H-tetrazol-1 -yl)phenyl] -2,3 -dihydroindolizin-5(1H)-one-3-hydroxybenzoic acid (1/1).</claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The compound according to claim 1, wherein the compound is in a crystal form.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The compound according to claim 2, wherein the crystal form has at least two diffraction peaks at diffraction angles (2θ) of about 9.4, about 14.1, about 15.8, about 16.5, about 17.4, about 18.4, about 20.6 and about 22.4 degrees in a powder X-ray diffraction spectrum.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The compound according to claim 2, wherein the crystal form has diffraction peaks at diffraction angles (2θ) of about 9.4, about 13.3, about 14.1, about 14.7, about 15.1, about 15.8, about 16.5, about 17.4, about 17.7, about 18.0, about 18.4, about 18.9, about 19.3, about 19.8, about 20.6, about 20.9, about 22.4, about 22.8, about 23.2, about 24.2, about 25.0, about 25.5, about 25.8, about 26.3, about 27.2, about 27.6, about 27.9, about 28.6, about 29.5 and about 31.0 degrees in a powder X-ray diffraction spectrum.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The compound according to claim 2, wherein the crystal form is <b>characterized by</b> having a powder X-ray diffraction spectrum chart shown in Fig. 5.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The compound according to claim 2 or 3, wherein the crystal form has an onset temperature of about 214°C or an exothermic peak temperature of about 215°C in differential scanning calorimetry.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The compound according to claim 6, wherein the crystal form is <b>characterized by</b> having a differential scanning calorimetry chart shown in Fig. 10.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>The compound according to claims 1 to 7, wherein the compound is a cocrystal.</claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>A pharmaceutical composition comprising the compound according to any one of claims 1 to 8.</claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>The pharmaceutical composition according to claim 9, wherein the pharmaceutical composition is a blood coagulation factor XIa inhibitor.</claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>The pharmaceutical composition according to claim 10, wherein the pharmaceutical composition is a prophylactic and/or therapeutic agent for a blood coagulation factor XIa-related disease.</claim-text></claim>
+<claim id="c-en-0012" num="0012">
+<claim-text>The pharmaceutical composition according to claim 11, wherein the blood coagulation factor XIa-related disease is a thromboembolic disease.</claim-text></claim>
+<claim id="c-en-0013" num="0013">
+<claim-text>The pharmaceutical composition according to claim 12, wherein the thromboembolic disease is arterial cardiovascular thromboembolic disorder, venous<!-- EPO <DP n="53"> --> cardiovascular thromboembolic disorder, arterial cerebrovascular thromboembolic disorder, venous cerebrovascular thromboembolic disorder or thromboembolic disorder in the heart chamber or in the peripheral circulation.</claim-text></claim>
+<claim id="c-en-0014" num="0014">
+<claim-text>The pharmaceutical composition according to claim 12, wherein the thromboembolic disease is cerebral stroke, cerebral thrombosis, cerebral embolism, venous thrombosis, venous thromboembolism, deep venous thrombosis, or a thrombosis and/or a thromboembolism induced by a treatment in which blood is exposed on a surface of an artificial object.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="54"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="148" he="179" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="55"> -->
+<figure id="f0002" num="2"><img id="if0002" file="imgf0002.tif" wi="151" he="194" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="56"> -->
+<figure id="f0003" num="3"><img id="if0003" file="imgf0003.tif" wi="151" he="187" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="57"> -->
+<figure id="f0004" num="4"><img id="if0004" file="imgf0004.tif" wi="148" he="188" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="58"> -->
+<figure id="f0005" num="5"><img id="if0005" file="imgf0005.tif" wi="159" he="194" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="59"> -->
+<figure id="f0006" num="6"><img id="if0006" file="imgf0006.tif" wi="164" he="207" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="60"> -->
+<figure id="f0007" num="7"><img id="if0007" file="imgf0007.tif" wi="154" he="212" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="61"> -->
+<figure id="f0008" num="8"><img id="if0008" file="imgf0008.tif" wi="149" he="214" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="62"> -->
+<figure id="f0009" num="9"><img id="if0009" file="imgf0009.tif" wi="151" he="214" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="63"> -->
+<figure id="f0010" num="10"><img id="if0010" file="imgf0010.tif" wi="150" he="217" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="64"> -->
+<figure id="f0011" num="11"><img id="if0011" file="imgf0011.tif" wi="153" he="224" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="65"> -->
+<figure id="f0012" num="12"><img id="if0012" file="imgf0012.tif" wi="150" he="229" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="66"> -->
+<figure id="f0013" num="13"><img id="if0013" file="imgf0013.tif" wi="152" he="224" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="67"> -->
+<figure id="f0014" num="14"><img id="if0014" file="imgf0014.tif" wi="153" he="224" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="68"> -->
+<figure id="f0015" num="15"><img id="if0015" file="imgf0015.tif" wi="148" he="223" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="69"> -->
+<figure id="f0016" num="16"><img id="if0016" file="imgf0016.tif" wi="144" he="223" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="70"> -->
+<figure id="f0017" num="17"><img id="if0017" file="imgf0017.tif" wi="153" he="108" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="165" he="230" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="165" he="230" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="WO2016093285A"><document-id><country>WO</country><doc-number>2016093285</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0007]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="WO2013093484A"><document-id><country>WO</country><doc-number>2013093484</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0002">[0073]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="s"><article><atl/><serial><sertitle>Blood Coagulation and Fibrinolysis</sertitle><pubdate><sdate>20060000</sdate><edate/></pubdate><vid>17</vid></serial><location><pp><ppf>251</ppf><ppl>257</ppl></pp></location></article></nplcit><crossref idref="ncit0001">[0008]</crossref></li>
+<li><nplcit id="ref-ncit0002" npl-type="s"><article><atl/><serial><sertitle>Science</sertitle><pubdate><sdate>19910000</sdate><edate/></pubdate><vid>253</vid></serial><location><pp><ppf>909</ppf><ppl>912</ppl></pp></location></article></nplcit><crossref idref="ncit0002">[0008]</crossref></li>
+<li><nplcit id="ref-ncit0003" npl-type="s"><article><atl/><serial><sertitle>Blood</sertitle><pubdate><sdate>20030000</sdate><edate/></pubdate><vid>102</vid></serial><location><pp><ppf>953</ppf><ppl>955</ppl></pp></location></article></nplcit><crossref idref="ncit0003">[0008]</crossref></li>
+<li><nplcit id="ref-ncit0004" npl-type="s"><article><atl/><serial><sertitle>Journal of Thrombosis and Haemostasis</sertitle><pubdate><sdate>20050000</sdate><edate/></pubdate><vid>3</vid></serial><location><pp><ppf>695</ppf><ppl>702</ppl></pp></location></article></nplcit><crossref idref="ncit0004">[0008]</crossref></li>
+<li><nplcit id="ref-ncit0005" npl-type="s"><article><atl/><serial><sertitle>Journal of Thrombosis and Haemostasis</sertitle><pubdate><sdate>20060000</sdate><edate/></pubdate><vid>4</vid></serial><location><pp><ppf>1982</ppf><ppl>1988</ppl></pp></location></article></nplcit><crossref idref="ncit0005">[0008]</crossref></li>
+<li><nplcit id="ref-ncit0006" npl-type="s"><article><atl/><serial><sertitle>Blood</sertitle><pubdate><sdate>20120000</sdate><edate/></pubdate><vid>119</vid></serial><location><pp><ppf>2401</ppf><ppl>2408</ppl></pp></location></article></nplcit><crossref idref="ncit0006">[0008]</crossref></li>
+<li><nplcit id="ref-ncit0007" npl-type="s"><article><atl/><serial><sertitle>Blood</sertitle><pubdate><sdate>20090000</sdate><edate/></pubdate><vid>113</vid></serial><location><pp><ppf>936</ppf><ppl>944</ppl></pp></location></article></nplcit><crossref idref="ncit0007">[0008]</crossref></li>
+<li><nplcit id="ref-ncit0008" npl-type="s"><article><atl/><serial><sertitle>Journal of Thrombosis and Haemostasis</sertitle><pubdate><sdate>20060000</sdate><edate/></pubdate><vid>4</vid></serial><location><pp><ppf>1496</ppf><ppl>1501</ppl></pp></location></article></nplcit><crossref idref="ncit0008">[0008]</crossref></li>
+<li><nplcit id="ref-ncit0009" npl-type="s"><article><author><name>DOLOMANOV, O.V.</name></author><author><name>BOURHIS, L.J.</name></author><author><name>GILDEA, R.J</name></author><author><name>HAWARD, J.A.K.</name></author><author><name>PUSCHMANN, H.</name></author><atl/><serial><sertitle>J. Appl. Cryst.</sertitle><pubdate><sdate>20090000</sdate><edate/></pubdate><vid>42</vid></serial><location><pp><ppf>339</ppf><ppl>341</ppl></pp></location></article></nplcit><crossref idref="ncit0009">[0122]</crossref></li>
+<li><nplcit id="ref-ncit0010" npl-type="s"><article><atl/><serial><sertitle>Mol Pharm.</sertitle><pubdate><sdate>20070500</sdate><edate/></pubdate><vid>4</vid><ino>3</ino></serial><location><pp><ppf>317</ppf><ppl>22</ppl></pp></location></article></nplcit><crossref idref="ncit0010">[0124]</crossref></li>
+<li><nplcit id="ref-ncit0011" npl-type="s"><article><atl/><serial><sertitle>Mol Pharm.</sertitle><pubdate><sdate>20070500</sdate><edate/></pubdate><vid>4</vid><ino>3</ino></serial><location><pp><ppf>323</ppf><ppl>38</ppl></pp></location></article></nplcit><crossref idref="ncit0011">[0124]</crossref></li>
+<li><nplcit id="ref-ncit0012" npl-type="s"><article><atl/><serial><sertitle>Pharmaceutical Research</sertitle><pubdate><sdate>20030000</sdate><edate/></pubdate><vid>20</vid></serial><location><pp><ppf>1674</ppf><ppl>1680</ppl></pp></location></article></nplcit><crossref idref="ncit0012">[0131]</crossref></li>
+<li><nplcit id="ref-ncit0013" npl-type="s"><article><atl/><serial><sertitle>Biological &amp; Pharmaceutical Bulletin</sertitle><pubdate><sdate>20110000</sdate><edate/></pubdate><vid>34</vid></serial><location><pp><ppf>401</ppf><ppl>407</ppl></pp></location></article></nplcit><crossref idref="ncit0013">[0131]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

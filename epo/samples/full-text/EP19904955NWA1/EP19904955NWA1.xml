@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19904955A1" file="EP19904955NWA1.xml" lang="en" country="EP" doc-number="3889666" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3889666</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19904955.2</B210><B220><date>20191216</date></B220><B240><B241><date>20210702</date></B241></B240><B250>zh</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>201811643322</B310><B320><date>20181229</date></B320><B330><ctry>CN</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>G02B  26/10        20060101AFI20200703BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>G02B  26/12        20060101ALI20200703BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>G03G  15/04        20060101ALI20200703BHEP        </text></classification-ipcr></B510EP><B540><B541>de</B541><B542>OPTISCHE ABTASTEINHEIT UND ELEKTRONISCHE BILDGEBUNGSVORRICHTUNG</B542><B541>en</B541><B542>OPTICAL SCANNING UNIT AND ELECTRONIC IMAGING DEVICE</B542><B541>fr</B541><B542>UNITÉ DE BALAYAGE OPTIQUE ET DISPOSITIF D'IMAGERIE ÉLECTRONIQUE</B542></B540><B590><B598>4</B598></B590></B500><B700><B710><B711><snm>Zhuhai Pantum Electronics Co., Ltd.</snm><iid>101558520</iid><irf>SN4508WOEP</irf><adr><str>3A, Building 1 
+No. 3883, Zhuhai Avenue</str><city>Zhuhai, Guangdong 519060</city><ctry>CN</ctry></adr></B711></B710><B720><B721><snm>NIE, Yongchao</snm><adr><str>3A, Building 1, No.3883, Zhuhai Avenue</str><city>Zhuhai, Guangdong 519060</city><ctry>CN</ctry></adr></B721><B721><snm>WANG, Chao</snm><adr><str>3A, Building 1, No.3883, Zhuhai Avenue</str><city>Zhuhai, Guangdong 519060</city><ctry>CN</ctry></adr></B721></B720><B740><B741><snm>Sun, Yiming</snm><iid>101401192</iid><adr><str>HUASUN Patent- und Rechtsanwälte 
+Friedrichstraße 33</str><city>80801 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>CN2019125575</anum></dnum><date>20191216</date></B861><B862>zh</B862></B860><B870><B871><dnum><pnum>WO2020135122</pnum></dnum><date>20200702</date><bnum>202027</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">The present disclosure provides a light scanning unit and an electronic image forming apparatus including the light scanning unit. The light scanning unit includes a light source, a first optical unit, an optical deflector, and a second optical unit. The light source includes at least two light-emitting points; the at least two light-emitting points are distributed along a straight line; and an angle between an extension direction of a distribution line thereof and a main scanning direction or a secondary scanning direction of the light scanning unit includes an acute angle, where the main scanning direction is perpendicular to the secondary scanning direction. The first optical unit is configured to collimate at least two light beams emitted from the light source along the main scanning direction and to focus the at least two light beams emitted from the light source along the secondary scanning direction.<img id="iaf01" file="imgaf001.tif" wi="119" he="73" img-content="drawing" img-format="tif"/></p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001"><b>CROSS-REFERENCE TO RELATED APPLICATIONS</b></heading>
+<p id="p0001" num="0001">This PCT application claims the priorities to the <patcit id="pcit0001" dnum="CN201811643322" dnum-type="L"><text>Chinese patent applications No. 201811643322.2</text></patcit>, filed with the China National Intellectual Property Administration (CNIPA) on December 29, 2018, the entire content of all of which is incorporated herein by reference.</p>
+<heading id="h0002"><b>FIELD OF THE DISCLOSURE</b></heading>
+<p id="p0002" num="0002">The present disclosure generally relates to the technical field of image forming and, more particularly, relates to a light scanning unit and an electronic image forming apparatus.</p>
+<heading id="h0003"><b>BACKGROUND</b></heading>
+<p id="p0003" num="0003">Electronic image forming apparatuses, such as laser printers, copiers, printers and the like, are devices for forming images on recording media such as paper. In order to meet the market's demand for printing efficiency of electronic image forming apparatuses, it has become a trend for developing high-speed electronic image forming apparatuses.</p>
+<p id="p0004" num="0004">The electronic image forming apparatus may include a light scanning unit. The light scanning unit may be configured to emit a light beam carrying image information to a photoreceptor, such that the photoreceptor may obtain and process the image information carried in the light beam. <figref idref="f0001">FIG. 1</figref> illustrates a planar structural schematic of a light source of a light scanning unit in the existing technology. As shown in <figref idref="f0001">FIG. 1</figref>, in order to increase the light-exiting power of the light exited from the light scanning unit, a plurality of light-emitting points may be disposed, along a secondary scanning printing direction, in a same light source of the light scanning unit in the existing technology, and the normal operation of the light scanning unit may be ensured by a manner of independently controlling each light-emitting point.</p>
+<p id="p0005" num="0005"><figref idref="f0001">FIG. 2</figref> illustrates a schematic of image forming of the light scanning unit on a scanned surface in the existing technology. As shown in <figref idref="f0001">FIG. 2</figref>, when the light source structure of<!-- EPO <DP n="2"> --> the light scanning unit shown in <figref idref="f0001">FIG. 1</figref> is used, two adjacent light spots of the light scanning unit on the scanned surface may interfere with each other. Therefore, the accuracy of the image information acquired by the photoreceptor may be affected, which may result in the problem of low image quality presented by the electronic image forming apparatus.</p>
+<heading id="h0004"><b>BRIEF SUMMARY OF THE DISCLOSURE</b></heading>
+<p id="p0006" num="0006">In order to solve the interference between the light spots formed by the light beams emitted from the plurality of light-emitting points of the light scanning unit incident on the scanned surface, which affects the accuracy of the image information obtained by the photoreceptor and further results in the problem of low image quality presented by the electronic image forming apparatus, the present disclosure provides a light scanning unit and an electronic image forming apparatus.</p>
+<p id="p0007" num="0007">One aspect of the present disclosure provides a light scanning unit, including a light source, a first optical unit, an optical deflector, and a second optical unit. The light source includes at least two light-emitting points for diverging light beams; the at least two light-emitting points are distributed along a straight line; and an angle between an extension direction of a distribution line of the at least two light-emitting points and a main scanning direction or a secondary scanning direction of the light scanning unit includes an acute angle. The main scanning direction is perpendicular to the secondary scanning direction. The first optical unit is configured to collimate at least two light beams emitted from the light source along the main scanning direction and to focus the at least two light beams emitted from the light source along the secondary scanning direction. The optical deflector is configured to deflect at least two light beams emitted from the first optical unit and drive the deflected at least two light beams to scan as the optical deflector rotates. The second optical unit is configured to make the at least two light beams deflected and scanned by the optical deflector form an image on a scanned surface. A following expression is satisfied: (βs/βm)<sup>2</sup> &gt;0.6, where βm denotes a magnification of an optical system of the light scanning unit along the main scanning direction; and βs denotes a magnification of the optical system of the light scanning unit along the secondary scanning direction.<!-- EPO <DP n="3"> --></p>
+<p id="p0008" num="0008">Optionally, the magnification βm of the optical system of the light scanning unit along the main scanning direction and the magnification βs of the optical system of the light scanning unit along the secondary scanning direction also satisfies a following expression: βs/βm&gt;0.77.</p>
+<p id="p0009" num="0009">Optionally, the magnification βm of the optical system of the light scanning unit along the main scanning direction and the magnification βs of the optical system of the light scanning unit along the secondary scanning direction also satisfies a following expression:<br/>
+0.77&lt;βs/βm&lt;1.67; or 0.6 &lt;(βs/βm)<sup>2</sup> &lt;2.8.</p>
+<p id="p0010" num="0010">Optionally, the light scanning unit further includes: a diaphragm unit, and the diaphragm is configured to shape the light beams emitted from the light source.</p>
+<p id="p0011" num="0011">Optionally, the light scanning unit further includes: a synchronization signal detecting unit for receiving the light beams deflected from the optical deflector. The synchronization signal detecting unit is configured to detect and obtain a synchronization signal; and the synchronization signal is configured to determine a starting position of the light scanning unit when forming the image on the scanned surface. Optionally, βm is 6.25, and βs is 5.037.</p>
+<p id="p0012" num="0012">Optionally, the optical deflector includes a polyhedral main body; and a surface of the polyhedral main body forms a plurality of reflecting mirror surfaces; and the polyhedron main body rotates along a rotating axle, and a central axis of the rotating axle is in parallel with the secondary scanning direction.</p>
+<p id="p0013" num="0013">Optionally, the second optical unit is an F-θ lens.</p>
+<p id="p0014" num="0014">Another aspect of the present disclosure provides an electronic image forming apparatus, including the disclosed light scanning unit and a photoreceptor. The light scanning unit and the photoreceptor are arranged cooperatively, and light beams emitted from the light scanning unit are focused to form an image on a photoreceptive surface of the photoreceptor. The photoreceptor is a photosensitive drum, and the photoreceptive surface is a scanned surface; and the electronic image forming apparatus further includes a charging roller, a developing unit, a cleaning unit, a transfer<!-- EPO <DP n="4"> --> roller, and a fixing unit. The charging roller rotates and is in contact with the photosensitive drum, such that a focused image on the scanned surface of the photosensitive drum is charged to form an electrostatic latent image. The developing unit and the photosensitive drum are arranged cooperatively, such that the electrostatic latent image on the photosensitive drum absorbs a developing material in the developing unit to form a developed image. The transfer roller is abutted against the photosensitive drum to transfer the developed image on the photosensitive drum to a recording medium between the transfer roller and the photosensitive drum, for the fixing unit to perform a fixing processing on the developed image transferred to the recording medium. The cleaning unit is configured to remove the developing material remaining on the photosensitive drum after transferring the developed image.</p>
+<p id="p0015" num="0015">The present disclosure provides the light scanning unit and the electronic image forming apparatus including the scanning unit. The light scanning unit may be disposed with the light source, the first optical unit, the optical deflector and the second optical unit. The light source may include at least two light-emitting points; at least two light-emitting points may be distributed along a straight line; and the angle between the extension direction of the distribution line of at least two light-emitting points and the main scanning direction or the secondary scanning direction of the light scanning device may include an acute angle, where the main scanning direction is perpendicular to the secondary scanning direction. The first optical unit may be configured to collimate the light beams emitted from the light source along the main scanning direction and focus the light beams along the secondary scanning direction. The optical deflector may be configured for deflecting the light beams emitted from the first optical unit as the optical deflector rotates, such that the deflected light beams may form images on the preset scanned surface under the focusing action of the second optical unit. At least two light-emitting points in the light source are distributed along a straight line, and the angle between the extension direction of the distribution line and the main scanning direction or the secondary scanning direction of the optical scanning device includes an acute angle, such that the distance between the light spots formed by the light beams emitted from at least two light-emitting points incident on the scanned surface along the main scanning direction may be increased, which avoids the occurrence of interference phenomenon and improves the image quality.<!-- EPO <DP n="5"> --></p>
+<heading id="h0005"><b>BRIEF DESCRIPTION OF THE DRAWINGS</b></heading>
+<p id="p0016" num="0016">The drawings herein may be incorporated into the specification and form a portion of the present specification, which illustrates embodiments consistent with the present disclosure and is used together with the specification to describe the principle of the present disclosure.
+<ul id="ul0001" list-style="none">
+<li><figref idref="f0001">FIG. 1</figref> illustrates a planar structural schematic of a light source of a light scanning unit in the existing technology;</li>
+<li><figref idref="f0001">FIG. 2</figref> illustrates a schematic of image forming of a light scanning unit on a scanned surface in the existing technology;</li>
+<li><figref idref="f0002">FIG. 3</figref> illustrates a structural schematic of a light scanning unit according to various embodiments of the present disclosure;</li>
+<li><figref idref="f0003">FIG. 4</figref> illustrates a planar structural schematic of a light source of a light scanning unit according to various embodiments of the present disclosure;</li>
+<li><figref idref="f0003">FIG. 5</figref> illustrates a schematic of image forming of a light scanning unit on a scanned surface according to various embodiments of the present disclosure; and</li>
+<li><figref idref="f0004">FIG. 6</figref> illustrates a structural schematic of an electronic image forming apparatus according to various embodiments of the present disclosure.</li>
+</ul></p>
+<heading id="h0006">Reference Signs List:</heading>
+<p id="p0017" num="0017">
+<tables id="tabl0001" num="0001">
+<table frame="none">
+<tgroup cols="4" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="12mm"/>
+<colspec colnum="2" colname="col2" colwidth="58mm"/>
+<colspec colnum="3" colname="col3" colwidth="11mm"/>
+<colspec colnum="4" colname="col4" colwidth="35mm"/>
+<tbody>
+<row>
+<entry>1</entry>
+<entry>- light scanning unit;</entry>
+<entry>11</entry>
+<entry>- light source;</entry></row>
+<row>
+<entry>11'</entry>
+<entry>- light source;</entry>
+<entry>111</entry>
+<entry>- light-emitting points;</entry></row>
+<row>
+<entry>111'</entry>
+<entry>- light-emitting points;</entry>
+<entry>112</entry>
+<entry>- light spot;</entry></row>
+<row>
+<entry>112'</entry>
+<entry>- light spot;</entry>
+<entry>12</entry>
+<entry>- first optical unit;</entry></row>
+<row>
+<entry>13</entry>
+<entry>- optical deflector;</entry>
+<entry>14</entry>
+<entry>- second optical unit;</entry></row><!-- EPO <DP n="6"> -->
+<row>
+<entry>15</entry>
+<entry>- scanned surface;</entry>
+<entry>16</entry>
+<entry>- diaphragm unit;</entry></row>
+<row>
+<entry>17</entry>
+<entry>- synchronization signal detecting unit;</entry>
+<entry>18</entry>
+<entry>- third optical unit;</entry></row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>2</entry>
+<entry>- photosensitive drum;</entry>
+<entry>3</entry>
+<entry>- charging roller;</entry></row>
+<row>
+<entry>4</entry>
+<entry>- developing unit;</entry>
+<entry>5</entry>
+<entry>- cleaning unit;</entry></row>
+<row>
+<entry>6</entry>
+<entry>- transfer roller;</entry>
+<entry>7</entry>
+<entry>- fixing unit;</entry></row>
+<row>
+<entry>8</entry>
+<entry>- recording medium .</entry>
+<entry/>
+<entry/></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0007"><b>DETAILED DESCRIPTION</b></heading>
+<p id="p0018" num="0018">In order to more clearly illustrate the objectives, technical solutions, and advantages of various embodiments of the present disclosure, the technical solutions in various embodiments of the present disclosure may be described clearly and completely in conjunction with the accompanying drawings in various embodiments of the present disclosure.</p>
+<p id="p0019" num="0019">Electronic image forming apparatuses, such as laser printers, copiers, printers and the like, are devices for forming images on recording media such as paper. In order to meet the market's demand for printing efficiency of electronic image forming apparatuses, it has become a trend for developing high-speed electronic image forming apparatuses.</p>
+<p id="p0020" num="0020">The electronic image forming apparatus may include a light scanning unit. The light scanning unit may be configured to emit a light beam carrying image information to a photoreceptor, such that the photoreceptor may obtain and process the image information carried in the light beam. <figref idref="f0001">FIG. 1</figref> illustrates a planar structural schematic of a light source of a light scanning unit in the existing technology. As shown in <figref idref="f0001">FIG. 1</figref>, in order to increase the light-exiting power of the light exited from the light scanning unit, a<!-- EPO <DP n="7"> --> plurality of light-emitting points 111' may be disposed, along a secondary scanning printing direction, in a same light source 11' of the light scanning unit in the existing technology, and the normal operation of the light scanning unit may be ensured by a manner of independently controlling each light-emitting point 111'.</p>
+<p id="p0021" num="0021"><figref idref="f0001">FIG. 2</figref> illustrates a schematic of image forming of the light scanning unit on a scanned surface in the existing technology. As shown in <figref idref="f0001">FIG. 2</figref>, normally, the size of the light spot 112' formed on the scanned surface of the light beam emitted from the two light-emitting points 111' may be about 70 microns. When the printing resolution is 600 dpi, the center distance Ls of the image forming light spots 112' of the two light-emitting points 111' along a secondary scanning direction Y may be about 42.3 microns. Since the image forming light spots 112' of the two light-emitting points 111' are arranged along the direction in parallel with the secondary scanning direction Y, such that the two image forming light spots 112' may interfere with each other along the secondary scanning direction Y. Therefore, the accuracy of the image information acquired by the photoreceptor may be affected, which may further result in the problem of low image quality presented by the electronic image forming apparatus.</p>
+<p id="p0022" num="0022">It should be noted that exemplary embodiments maybe be described in detail herein, and examples thereof may be shown in the accompanying drawings. When the following description refers to the drawings, unless otherwise indicated, same numbers in different drawings may indicate same or similar elements. The implementation manners described in the following exemplary embodiments may not represent all implementation manners consistent with the present disclosure. In contrast, such implementation manners may merely be examples of apparatuses and methods consistent with some aspects of the present disclosure as detailed in the appended claims.</p>
+<p id="p0023" num="0023">The technical solutions of the present disclosure and how the technical solutions of the present application solve the above-mentioned technical problems may be described in detail with particular embodiments hereinafter. The following particular embodiments may be combined with each other, and same or similar concepts or processes may not be repeated in some embodiments. Various embodiments of the present disclosure may be described below in conjunction with the accompanying drawings.<!-- EPO <DP n="8"> --></p>
+<p id="p0024" num="0024"><figref idref="f0002">FIG. 3</figref> illustrates a structural schematic of a light scanning unit according to various embodiments of the present disclosure; and <figref idref="f0003">FIG. 4</figref> illustrates a planar structural schematic of a light source of a light scanning unit according to various embodiments of the present disclosure.</p>
+<p id="p0025" num="0025">As shown in <figref idref="f0002">FIG. 3</figref>, the light scanning unit may include a light source 11, a first optical unit 12, an optical deflector 13, and a second optical unit 14.</p>
+<p id="p0026" num="0026">The light source 11 may include at least two light-emitting points 111 for diverging light beams; at least two light-emitting points 111 may be distributed along a straight line; and the angle between the extension direction of the distribution line of at least two light-emitting points and the main scanning direction or the secondary scanning direction of the light scanning device may include an acute angle, where the main scanning direction may be perpendicular to the secondary scanning direction.</p>
+<p id="p0027" num="0027">The first optical unit 12 may be configured for collimating at least two light beams emitted from the light source 11 along the main scanning direction and focusing at least two light beams emitted from the light source 11 along the secondary scanning direction.</p>
+<p id="p0028" num="0028">The optical deflector 13 may be configured to deflect and scan at least two light beams emitted from the first optical unit as the optical deflector 13 rotates, such that at least two deflected light beams may form at least two image forming light spots 112 on a preset scanned surface 15 under the focusing action of the second optical unit 14, where as the optical deflector 13 rotates, each image forming spot 112 may form a scan line; and at a same scanning time, at least two light-emitting points 111 may be distributed along a straight line; and the angle between the extension direction of the distribution line of at least two light-emitting points 111 and the main scanning direction or the secondary scanning direction of the light scanning device may include an acute angle.</p>
+<p id="p0029" num="0029">Specifically, the light scanning unit provided in one embodiment may be used on electronic image forming apparatuses such as laser printers, copiers, printers and the like. In one implementation manner, the light source 11, the first optical unit 12, the optical deflector 13, and the second optical unit 14 may be disposed sequentially.<!-- EPO <DP n="9"> --> Taking the structure shown in <figref idref="f0003">FIG. 4</figref> as an example, the difference from the existing technology may be that the light source 11 in one implementation manner may include two light-emitting points 111; two light-emitting points 111 may be distributed along a straight line; and the angle between the extension direction of the distribution line of two light-emitting points 111 and the secondary scanning direction Y may be an acute angle θ.</p>
+<p id="p0030" num="0030">Each light-emitting point 111 shown in <figref idref="f0002">FIG. 3</figref> may emit a light beam carrying image information under the independent control of a control unit (not shown in <figref idref="f0002">FIG. 3</figref>), and the emitted light beam may be transmitted to the first optical unit 12. Under the action of the first optical unit 12, the beam may be collimated along a main scanning direction X and focused along the secondary scanning direction Y. That is, the light beam emitted from the first optical unit 12 may be parallel light along the main scanning direction X and convergent light along the secondary scanning direction Y; and the light beam may be transmitted to the optical deflector 13. Optionally, the first optical unit 12 may be an anamorphic lens or a cylindrical collimating lens, which may be made of a plastic material.</p>
+<p id="p0031" num="0031">The optical deflector 13 may include a polyhedral main body structure; a plurality of reflecting mirror surfaces may be formed on the surface of the polyhedral main body; meanwhile, the polyhedron main body may rotate at a preset speed along a rotating axle, and the central axis of the rotating axle may be in parallel with the secondary scanning direction Y of the scanned surface 15. That is, the above-mentioned light beam which is parallel light along the main scanning direction X and converged light along the secondary scanning direction Y may be transmitted to the reflecting mirror surface of the optical deflector 13 and may be deflected as the optical deflector 13 rotates, thereby forming a deflected light beam which is deflected toward the preset direction of the scanned surface 15. Subsequently, the deflected light beam may be focused by the second optical unit 14 and form an image forming spot 112 on the preset scanned surface 15, where the focusing action of the second optical unit 14 may simultaneously act on the main scanning direction X and the secondary scanning direction Y of the light beam. Optionally, the second optical unit 14 may be an F-θ lens, for example, a single<!-- EPO <DP n="10"> --> F-θ lens, or multiple F-θ lenses which may be made of a plastic material or a glass material.</p>
+<p id="p0032" num="0032">Therefore, under the action of the above-mentioned optical devices, at least two image forming light spots 112 which are distributed along a straight line may appear on the preset scanned surface 15 of the light scanning unit; and the angle between the extension direction of the distribution line of at least two image forming light spots 112 and the main scanning direction or the secondary scanning direction of the optical scanning device may include an acute angle.</p>
+<p id="p0033" num="0033">It should be noted that <figref idref="f0003">FIG. 5</figref> illustrates a schematic of image forming of the light scanning unit on the scanned surface according to various embodiments of the present disclosure. As shown in <figref idref="f0003">FIG. 5</figref>, in the light scanning unit, compared with the existing technology, the light spot size of the light beam emitted from the two light-emitting points 111 may be about 70 microns; when the printing resolution is 600dpi, the light spot size of the light beam emitted from the two light-emitting points 111 may be about 70 microns; when the center distance Ls of the image forming light spots 112 of the two light-emitting points 111 is maintained at about 42.3 microns along the secondary scanning direction Y, since the center distance Lm of the two image forming light spots 112 is not 0 along the main scanning direction X, the interference probability may be greatly reduced, thereby effectively improving the accuracy of the image information acquired by the photoreceptor and further improving the image quality presented by the electronic image forming apparatus.</p>
+<p id="p0034" num="0034">In other optional implementation manners, the light scanning unit may further include a diaphragm unit 16. The diaphragm unit 16 may specifically be provided with a light-transmitting hole to limit the size of the light beam and shape the light beam emitted from the light source. Specifically, the diaphragm unit 16 may be disposed between the light source 11 and the first optical unit 12 to limit the size of the light beam emitted from the light source 11, may also be disposed between the first optical unit 12 and the optical deflector 13, and may also be disposed at other position of the light scanning unit, which may not be limited in the present disclosure.<!-- EPO <DP n="11"> --></p>
+<p id="p0035" num="0035">In other optional implementation manners, the light scanning unit may further include a synchronization signal detecting unit 17 which receives the light beam deflected from the optical deflector 13; the synchronization signal detecting unit 17 may be configured to detect and obtain a synchronization signal; and the synchronization signal may be configured to determine the starting position of the light scanning unit when performing image formation on the scanned surface 15. The detection method adopted by the synchronization signal detecting unit may be described the existing technology, which may not be limited by the present disclosure. Furthermore, in order to further improve the detection accuracy of the synchronization signal, a third optical unit 18 may also be disposed between the synchronization signal detecting unit 17 and the optical deflector 13. The third optical unit 18 may converge the deflected light beams. That is, the third optical unit 18 may converge the light beam along the main scanning direction X and the secondary scanning direction Y simultaneously, such that the deflected convergent beam may be focused on the detection surface of the above-mentioned synchronization signal detecting unit 17. Meanwhile, the material and morphology of the third optical unit 18 may not be limited in the present application.</p>
+<p id="p0036" num="0036">In order to further describe the light scanning unit provided in one embodiment, a plurality of optional implementation manners may be provided as the following.</p>
+<p id="p0037" num="0037">In order to further avoid interference phenomena on the scanned surface 15 and to reduce light intensity loss, in one of the implementation manners, the magnification βm of the optical system of the light scanning unit along the main scanning direction and the magnification βs of the optical system of the light scanning unit along the secondary scanning direction may satisfy the following expression 1 or expression 2: <maths id="math0001" num="[Expression 1]"><math display="block"><mi>βs</mi><mi>/β</mi><mi mathvariant="normal">m</mi><mo>&gt;</mo><mn>0.77</mn><mo>;</mo></math><img id="ib0001" file="imgb0001.tif" wi="28" he="17" img-content="math" img-format="tif"/></maths> and <maths id="math0002" num="[Expression 2]"><math display="block"><msup><mfenced separators=""><mi>βs</mi><mi>/β</mi><mi mathvariant="normal">m</mi></mfenced><mn>2</mn></msup><mo>&gt;</mo><mn>0.6</mn><mo>.</mo></math><img id="ib0002" file="imgb0002.tif" wi="28" he="17" img-content="math" img-format="tif"/></maths></p>
+<p id="p0038" num="0038">Furthermore, the magnification βm of the optical system of the light scanning unit along the main scanning direction and the magnification βs of the optical system of the light<!-- EPO <DP n="12"> --> scanning unit along the secondary scanning direction may satisfy the following expression 3 or expression 4: <maths id="math0003" num="[Expression 3]"><math display="block"><mn>0.77</mn><mo>&lt;</mo><mi mathvariant="normal">β</mi><mi mathvariant="normal">s</mi><mo>/</mo><mi mathvariant="normal">β</mi><mi mathvariant="normal">m</mi><mo>&lt;</mo><mn>1.67</mn><mo>;</mo></math><img id="ib0003" file="imgb0003.tif" wi="36" he="17" img-content="math" img-format="tif"/></maths> and <maths id="math0004" num="[Expression 4]"><math display="block"><mn>0.6</mn><mo>&lt;</mo><msup><mfenced separators=""><mi>βs</mi><mi>/β</mi><mi mathvariant="normal">m</mi></mfenced><mn>2</mn></msup><mo>&gt;</mo><mn>2.8</mn><mo>.</mo></math><img id="ib0004" file="imgb0004.tif" wi="38" he="17" img-content="math" img-format="tif"/></maths></p>
+<p id="p0039" num="0039">Specifically, still taking the structure shown in <figref idref="f0003">FIGS. 4-5</figref> as an example, it is assumed that:<br/>
+two light-emitting points 111 are disposed on the light source 11, and the distance between the centers of the two light-emitting points 111 is L; the angle between the extension direction of the distribution line of the two light-emitting points 111 and the secondary scanning direction Y of the light scanning device is θ; on the preset scanned surface 15, the distance between the two image forming light spots 112 along the main scanning direction X is Lm, and the distance along the secondary scanning direction Y is Ls; the magnification of the optical system of the light scanning unit along the main scanning direction is βm; and the magnification of the optical system of the light scanning unit along the secondary scanning direction is βs.</p>
+<p id="p0040" num="0040">Therefore, according to the optical image forming principle, it may obtain that the magnification of the light scanning unit along the main scanning direction X is βm=Lm/(L×sinθ), the magnification of the light scanning unit along the secondary scanning direction Y is βs=Ls/(L×cosθ), and βs/βm=(Ls/Lm)×tanθ.</p>
+<p id="p0041" num="0041">In one implementation manner, when βs/βm&gt;0.77 or (βs/βm)<sup>2</sup>&gt;0.6, compared with the light beam emitted from the light-emitting point 111, the loss rate of the light intensity of the image forming light spot 112 may be less than 10 %. Table 1 provides an example for an implementation manner.<!-- EPO <DP n="13"> -->
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>Table 1</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="75mm"/>
+<colspec colnum="2" colname="col2" colwidth="17mm"/>
+<thead>
+<row>
+<entry valign="top">Optical resolution</entry>
+<entry valign="top">600 dpi</entry></row></thead>
+<tbody>
+<row>
+<entry>Distance L between centers of light-emitting points</entry>
+<entry valign="middle">14 µm</entry></row>
+<row>
+<entry>Reference wavelength λ</entry>
+<entry>788 nm</entry></row>
+<row>
+<entry>Ls</entry>
+<entry>42.3 µm</entry></row>
+<row>
+<entry>Lm</entry>
+<entry>70 µm</entry></row>
+<row>
+<entry>θ</entry>
+<entry>53.14 °</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0042" num="0042">When using the parameter structure shown in Table 1, βm is 6.25; βs is 5.037; βs/βm is 0.806, which is greater than 0.77; (βs/βm)<sup>2</sup> is 0.65, which is greater than 0.6. Moreover, it is measured that the loss rate of the light intensity of the image forming light spot 112 may be less than 5 %, and the image quality may be effectively improved.</p>
+<p id="p0043" num="0043">Table 2 provides an example for an implementation manner.
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>Table 2</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="75mm"/>
+<colspec colnum="2" colname="col2" colwidth="19mm"/>
+<thead>
+<row>
+<entry valign="top">Optical resolution</entry>
+<entry valign="top">600 dpi</entry></row></thead>
+<tbody>
+<row>
+<entry>Distance L between centers of light-emitting points</entry>
+<entry valign="middle">14 µm</entry></row>
+<row>
+<entry>Reference wavelength λ</entry>
+<entry>788 nm</entry></row>
+<row>
+<entry>Ls</entry>
+<entry>42.3 µm</entry></row>
+<row>
+<entry>Lm</entry>
+<entry>70 µm</entry></row>
+<row>
+<entry>θ</entry>
+<entry>60 °</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="14"> --></p>
+<p id="p0044" num="0044">When using the parameter structure shown in Table 2, βm is 5.77; βs is 6.05; βs/βm is 1.05, which is greater than 0.77; (βs/βm)<sup>2</sup> is 1.10, which is greater than 0.6. Moreover, it is measured that the loss rate of the light intensity of the image forming light spot 112 may be less than 10 %, and the image quality may be effectively improved.</p>
+<p id="p0045" num="0045">Obviously, by comparing the parameter structure shown in Table 2 with the parameter structure shown in Table 1, as θ increases, the magnification βm along the main scanning direction and the magnification βs along the secondary scanning direction may be varied accordingly, such that Lm may be easier to meet the requirement of 70 microns or more, which may effectively improve the image quality.</p>
+<p id="p0046" num="0046">Table 3 provides an example for an implementation manner.
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title>Table 3</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="74mm"/>
+<colspec colnum="2" colname="col2" colwidth="19mm"/>
+<thead>
+<row>
+<entry valign="top">Optical resolution</entry>
+<entry valign="top">600 dpi</entry></row></thead>
+<tbody>
+<row>
+<entry>Distance L between centers of light-emitting points</entry>
+<entry valign="middle">14 µm</entry></row>
+<row>
+<entry>Reference wavelength λ</entry>
+<entry>788 nm</entry></row>
+<row>
+<entry>Ls</entry>
+<entry>42.3 µm</entry></row>
+<row>
+<entry>Lm</entry>
+<entry>90 µm</entry></row>
+<row>
+<entry>θ</entry>
+<entry>60 °</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0047" num="0047">When using the parameter structure shown in Table 3, βm is 7.42; βs is 6.05; βs/βm is 0.814, which is greater than 0.77; (βs/βm)<sup>2</sup> is 0.663, which is greater than 0.6. Moreover, it is measured that the loss rate of the light intensity of the image forming light spot 112 may be less than 5 %, and the image quality may be effectively improved.<!-- EPO <DP n="15"> --></p>
+<p id="p0048" num="0048">Obviously, by comparing the parameter structure shown in Table 2 with the parameter structure shown in Table 1, as θ increases, the magnification βm along the main scanning direction and the magnification βs along the secondary scanning direction may be varied accordingly, such that Lm may be easier to meet the requirement of 70 microns or more, which may effectively improve the image quality.</p>
+<p id="p0049" num="0049">Referring to the parameter structures shown in Tables 1 to 3, the magnification ratio between the magnification βs along the secondary scanning direction Y may be relatively small compared with the magnification βm along the main scanning direction X of the optical scanning unit 1. As a result, the tolerance sensitivity along the secondary scanning direction Y may be reduced, thereby ensuring the optical and mechanical characteristics of the light scanning unit, reducing the light intensity loss rate of the image forming light spot 112, and improving the image quality.</p>
+<p id="p0050" num="0050">The light scanning unit provided by the present disclosure may be disposed with the light source, the first optical unit, the optical deflector and the second optical unit. The light source may include at least two light-emitting points; at least two light-emitting points may be distributed along a straight line; and the angle between the extension direction of the distribution line of at least two light-emitting points and the main scanning direction or the secondary scanning direction of the light scanning device may include an acute angle, where the main scanning direction is perpendicular to the secondary scanning direction. The first optical unit may be configured to collimate the light beam emitted from the light source along the main scanning direction and focus the light beam emitted from the light source along the secondary scanning direction. The optical deflector may be configured for deflecting the light beam emitted from the first optical unit as the optical deflector rotates, such that the deflected light beam may form the image on the preset scanned surface under the focusing action of the second optical unit. At least two light-emitting points in the light source are distributed along a straight line, and the angle between the extension direction of the distribution line and the main scanning direction and the secondary scanning direction of the optical scanning device includes an acute angle, such that the distance between the light spots formed by the light beams emitted from at least two light-emitting points on the scanned surface along<!-- EPO <DP n="16"> --> the main scanning direction may be increased, which avoids the occurrence of interference phenomenon and improves the image quality.</p>
+<p id="p0051" num="0051">The present disclosure also provides an electronic image forming apparatus, including the light scanning unit and the photoreceptor described in any one of the above-mentioned embodiments, where the light scanning unit and the photoreceptor may be arranged cooperatively, and the light beams emitted from the light scanning unit may be focused to form images on the photoreceptive surface of the photoreceptor.</p>
+<p id="p0052" num="0052">It should be noted that with the shape difference of the electronic image forming apparatus, the photoreceptor may be different main body structures. For example, when the electronic image forming apparatus is a laser printer, the photoreceptor may be a photosensitive drum, and the photoreceptive surface may be a photosensitive surface.</p>
+<p id="p0053" num="0053"><figref idref="f0004">FIG. 6</figref> illustrates a structural schematic of an electronic image forming apparatus according to various embodiments of the present disclosure. As shown in <figref idref="f0004">FIG. 6</figref>, the electronic image form apparatus may include: a light scanning unit 1, a photosensitive drum 2, a charging roller 3, a developing unit 4, a cleaning unit 5, a transfer roller 6, and a fixing unit 7.</p>
+<p id="p0054" num="0054">The charging roller 3 may rotate and be in contact with the photosensitive drum 2, such that the focused image on the photosensitive surface of the photosensitive drum 2 may be charged to form an electrostatic latent image.</p>
+<p id="p0055" num="0055">The developing unit 4 and the photosensitive drum 2 may be arranged cooperatively, such that the electrostatic latent image on the photosensitive drum 2 may absorb the developing material in the developing unit 4 to form a developed image.</p>
+<p id="p0056" num="0056">The transfer roller 6 may be abutted against the photosensitive drum 2 to transfer the developed image on the photosensitive drum 2 to the recording medium 8 between transfer roller 6 and the photosensitive drum 2, for the fixing unit 7 to fix the developed image transferred to the recording medium 8.</p>
+<p id="p0057" num="0057">The cleaning unit 5 may be configured to remove the developing material residue on the photosensitive drum 2 after transferring the developed image.<!-- EPO <DP n="17"> --></p>
+<p id="p0058" num="0058">Specifically, in order to print an image, the light beam emitted from the light scanning unit 1 may be scanned onto the photosensitive surface of the photosensitive drum 2, which has a cylindrical metal tube with an outer circumference and a photosensitive layer of a preset thickness formed on the outer circumference. The charging roller 3 may rotate and be in contact with the photosensitive drum 2 to charge the surface of the photosensitive drum 2 to an even electric potential. The light scanning unit 1 may scan along the main scanning direction to adjust the light beam according to the image information, thereby forming the electrostatic latent image on the photosensitive surface. In such case, as the photosensitive drum 2 rotates, the photosensitive surface may move along the secondary scanning direction, and the light scanning unit 1 may scan the light beam onto the photosensitive surface along the main scanning direction in synchronization with a horizontal synchronization signal. Therefore, the two-dimensional electrostatic latent image may be formed on the photosensitive surface of the photosensitive drum 2.</p>
+<p id="p0059" num="0059">The developing unit 4 may be in contact with the photosensitive drum 2 and transfer the developing material to the surface of the photosensitive drum 2, thereby forming the developed image. As the photosensitive drum 2 rotates, the developed image on the photosensitive surface may be pressed onto the recording medium. The transfer roller 6 may have a certain voltage, which is easier for the developed image on the photosensitive surface to be absorbed onto the recording medium 8; and after the transfer, the remaining developing material on the photosensitive surface may be removed by the cleaning unit 5. The developed image transferred to the recording medium 8 may be fixed to the recording medium 8 through a fixing process such as heating and pressing by the fixing unit 7, thereby completing the printing operation.</p>
+<p id="p0060" num="0060">The electronic image forming apparatus of the optical scanning unit may be provided in various embodiments of the present disclosure. The optical scanning unit may be disposed with the light source, the first optical unit, the optical deflector and the second optical unit in the optical scanning unit. The light source may include at least two light-emitting points; at least two light-emitting points may be distributed along a straight line; and the angle between the extension direction of the distribution line of at least two light-emitting points and the main scanning direction or the secondary scanning direction of<!-- EPO <DP n="18"> --> the light scanning device may include an acute angle, where the main scanning direction is perpendicular to the secondary scanning direction. The first optical unit may be configured to collimate the light beam emitted from the light source along the main scanning direction and focus the light beam emitted from the light source along the secondary scanning direction. The optical deflector may be configured for deflecting the light beam emitted from the first optical unit as the optical deflector rotates, such that the deflected light beam may form the image on the preset scanned surface under the focusing action of the second optical unit. As a result, the distance between the light spots formed by the light beams emitted from at least two light-emitting points on the scanned surface along the main scanning direction may be increased, which avoids the occurrence of interference phenomenon and improves the image quality.</p>
+<p id="p0061" num="0061">It should be finally noted that the above-mentioned embodiments may be merely used to illustrate, but not to limit, the technical solutions of the present disclosure. Although the present disclosure has been described in detail with reference to the above-mentioned embodiments, those skilled in the art should understand that it may be still possible to modify the technical solutions described in the above-mentioned embodiments, or equivalently replace some or all of the technical features. Furthermore, these modifications or replacements may not cause the essence of the corresponding technical solutions to deviate from the scope of the technical solutions of various embodiments of the present disclosure.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="19"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A light scanning unit, comprising:<br/>
+a light source, a first optical unit, an optical deflector, and a second optical unit, wherein:
+<claim-text>the light source includes at least two light-emitting points for diverging light beams; the at least two light-emitting points are distributed along a straight line; and an angle between an extension direction of a distribution line of the at least two light-emitting points and a main scanning direction or a secondary scanning direction of the light scanning unit includes an acute angle, wherein the main scanning direction is perpendicular to the secondary scanning direction;</claim-text>
+<claim-text>the first optical unit is configured to collimate at least two light beams emitted from the light source along the main scanning direction and to focus the at least two light beams emitted from the light source along the secondary scanning direction;</claim-text>
+<claim-text>the optical deflector is configured to deflect and scan at least two light beams emitted from the first optical unit as the optical deflector rotates; and</claim-text>
+<claim-text>the second optical unit is configured to make the at least two light beams deflected and scanned by the optical deflector form an image on a scanned surface; wherein a following expression is satisfied: (βs/βm)<sup>2</sup>&gt;0.6, wherein:</claim-text>
+<claim-text>βm denotes a magnification of an optical system of the light scanning unit along the main scanning direction; and</claim-text>
+<claim-text>βs denotes a magnification of the optical system of the light scanning unit along the secondary scanning direction.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The light scanning unit according to claim 1, wherein the magnification βm of the optical system of the light scanning unit along the main scanning direction and the magnification βs of the optical system of the light scanning unit along the secondary scanning direction also satisfies a following expression: <maths id="math0005" num=""><math display="block"><mi mathvariant="normal">β</mi><mi mathvariant="normal">s</mi><mo>/</mo><mi mathvariant="normal">β</mi><mi mathvariant="normal">m</mi><mo>&gt;</mo><mn>0.77</mn><mo>.</mo></math><img id="ib0005" file="imgb0005.tif" wi="38" he="14" img-content="math" img-format="tif"/></maths><!-- EPO <DP n="20"> --></claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The light scanning unit according to claim 2, wherein the magnification βm of the optical system of the light scanning unit along the main scanning direction and the magnification βs of the optical system of the light scanning unit along the secondary scanning direction also satisfies a following expression: <maths id="math0006" num=""><math display="block"><mn>0.77</mn><mo>&lt;</mo><mi mathvariant="normal">β</mi><mi mathvariant="normal">s</mi><mo>/</mo><mi mathvariant="normal">β</mi><mi mathvariant="normal">m</mi><mo>&lt;</mo><mn>1.67</mn><mo>;</mo></math><img id="ib0006" file="imgb0006.tif" wi="36" he="5" img-content="math" img-format="tif"/></maths> or <maths id="math0007" num=""><math display="block"><mn>0.6</mn><mo>&lt;</mo><msup><mfenced separators=""><mi>βs</mi><mi>/β</mi><mi mathvariant="normal">m</mi></mfenced><mn>2</mn></msup><mo>&gt;</mo><mn>2.8</mn><mo>.</mo></math><img id="ib0007" file="imgb0007.tif" wi="38" he="5" img-content="math" img-format="tif"/></maths></claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The light scanning unit according to any one of claim 1-3, further including:<br/>
+a diaphragm unit, wherein:<br/>
+the diaphragm is configured to shape the light beams emitted from the light source.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The light scanning unit according to any one of claim 1-3, further including:<br/>
+a synchronization signal detecting unit for receiving the light beams deflected from the optical deflector, wherein:<br/>
+the synchronization signal detecting unit is configured to detect and obtain a synchronization signal; and the synchronization signal is configured to determine a starting position of the light scanning unit when forming the image on the scanned surface.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The light scanning unit according to any one of claim 1-3, wherein:<br/>
+βm is 6.25, and βs is 5.037.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The light scanning unit according to any one of claim 1-3, wherein the optical deflector includes a polyhedral main body; and a surface of the polyhedral main body forms a plurality of reflecting mirror surfaces; and<br/>
+the polyhedron main body rotates along a rotating axle, and a central axis of the rotating axle is in parallel with the secondary scanning direction.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>The light scanning unit according to any one of claim 1-3, wherein:<br/>
+the second optical unit is an F-θ lens.<!-- EPO <DP n="21"> --></claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>An electronic image forming apparatus, comprising:
+<claim-text>a light scanning unit comprising the light scanning unit according to any one of claim 1-8; and</claim-text>
+<claim-text>a photoreceptor, wherein:
+<claim-text>the light scanning unit and the photoreceptor are arranged cooperatively, and light beams emitted from the light scanning unit are focused to form an image on a photoreceptive surface of the photoreceptor; and</claim-text>
+<claim-text>the photoreceptor is a photosensitive drum, and the photoreceptive surface is a scanned surface; and</claim-text>
+<claim-text>the electronic image forming apparatus further comprises a charging roller, a developing unit, a cleaning unit, a transfer roller, and a fixing unit, wherein:</claim-text>
+<claim-text>the charging roller rotates and is in contact with the photosensitive drum, such that a focused image on the scanned surface of the photosensitive drum is charged to form an electrostatic latent image;</claim-text>
+<claim-text>the developing unit and the photosensitive drum are arranged cooperatively, such that the electrostatic latent image on the photosensitive drum absorbs a developing material in the developing unit to form a developed image;</claim-text>
+<claim-text>the transfer roller is abutted against the photosensitive drum to transfer the developed image on the photosensitive drum to a recording medium between the transfer roller and</claim-text>
+<claim-text>the photosensitive drum, for the fixing unit to perform a fixing processing on the developed image transferred to the recording medium; and</claim-text>
+<claim-text>the cleaning unit is configured to remove the developing material remaining on the photosensitive drum after transferring the developed image.</claim-text></claim-text></claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="22"> -->
+<figure id="f0001" num="1,2"><img id="if0001" file="imgf0001.tif" wi="99" he="218" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="23"> -->
+<figure id="f0002" num="3"><img id="if0002" file="imgf0002.tif" wi="139" he="168" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="24"> -->
+<figure id="f0003" num="4,5"><img id="if0003" file="imgf0003.tif" wi="131" he="232" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="25"> -->
+<figure id="f0004" num="6"><img id="if0004" file="imgf0004.tif" wi="130" he="100" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="164" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="164" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="CN201811643322" dnum-type="L"><document-id><country>CN</country><doc-number>201811643322</doc-number><date>20181229</date></document-id></patcit><crossref idref="pcit0001">[0001]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

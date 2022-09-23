@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP20167827A1" file="EP20167827NWA1.xml" lang="en" country="EP" doc-number="3888620" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3888620</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>20167827.3</B210><B220><date>20200402</date></B220><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>A61K   8/02        20060101AFI20200820BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>A61K   8/19        20060101ALI20200820BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>A61Q  11/00        20060101ALI20200820BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>A61K   8/19        20130101 LI20200526BHEP        </text></classification-cpc><classification-cpc sequence="2"><text>A61K   8/0208      20130101 LI20200526BHEP        </text></classification-cpc><classification-cpc sequence="3"><text>A61K   8/0245      20130101 FI20200526BHEP        </text></classification-cpc><classification-cpc sequence="4"><text>A61Q  11/00        20130101 LI20200526BHEP        </text></classification-cpc><classification-cpc sequence="5"><text>A61K2800/412       20130101 LA20200526BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>MUNDPFLEGESYSTEM</B542><B541>en</B541><B542>ORAL CARE SYSTEM</B542><B541>fr</B541><B542>SYSTÈME DE SOINS BUCCAUX</B542></B540></B500><B700><B710><B711><snm>Unilever Global IP Ltd</snm><iid>101879808</iid><irf>J30314EP1C/ps</irf><adr><str>Port Sunlight</str><city>Wirral, CH62 4ZD</city><ctry>GB</ctry></adr></B711></B710><B720><B721><snm>ASHCROFT, Alexander Thomas</snm><adr><str>9 Well Lane
+Mollington</str><city>Cheshire, CH1 6LD</city><ctry>GB</ctry></adr></B721><B721><snm>LIMER, Adam John</snm><adr><str>Unilever R&amp;D
+Port Sunlight
+Quarry Road East
+Bebington</str><city>Wirral, Merseyside, CH63 3JW</city><ctry>GB</ctry></adr></B721></B720><B740><B741><snm>Tansley, Sally Elizabeth</snm><iid>101046761</iid><adr><str>Unilever PLC 
+Unilever Patent Group 
+Bronland 14</str><city>6708 WH Wageningen</city><ctry>NL</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">A system for mitigating the sensitivity of teeth the system comprising a delivery device and an activator composition:<br/>
+i) the delivery device comprising; a strip of an orally acceptable flexible material, having a strip surface capable of being applied to a tooth surface,<br/>
+ii) the activator composition comprising particulate calcium carbonate.</p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001"><b><u>Field of the Invention</u></b></heading>
+<p id="p0001" num="0001">The present invention relates to a system for treating tooth hypersensitivity.</p>
+<heading id="h0002"><b><u>Background</u></b></heading>
+<p id="p0002" num="0002">Tooth hypersensitivity is a common but painful condition affecting up to 20% of the adult population. Hypersensitive teeth may be sensitive to cold, heat, air or sugary foods.</p>
+<p id="p0003" num="0003">The incidence of tooth hypersensitivity increases with age. Tooth hypersensitivity is believed to be related to the general increase in exposed root surfaces of teeth as a result of periodontal disease, toothbrush abrasion, or cyclic loading fatigue of the thin enamel near the dento-enamel junction. When root surfaces are exposed, dentinal tubules are also exposed. Dentinal tubules are naturally present in the dentinal layer of the tooth and they provide for an osmotic flow between the inner pulp region of the tooth and the outer root surfaces.</p>
+<p id="p0004" num="0004">The currently accepted theory for tooth hypersensitivity is the hydrodynamic theory, based on the belief that open exposed dentinal tubules allow fluid flow through the tubules. This flow excites the nerve endings in the dental pulp. Clinical replicas of sensitive teeth viewed in a scanning electron microscope (SEM) reveal varying numbers of open or partially occluded dentinal tubules.</p>
+<p id="p0005" num="0005">There are two categories of therapy for the treatment of tooth hypersensitivity based upon two modes of action. The first category, nerve-depolarising agents, are pharmaceutical agents such as potassium nitrate, which function by interfering with neural transduction of the pain stimulus.</p>
+<p id="p0006" num="0006">The second category, known as occluding agents, function by physically blocking the exposed ends of the dentinal tubules, thereby reducing dentinal fluid movement and reducing the irritation associated with the shear stress described by the hydrodynamic theory.</p>
+<p id="p0007" num="0007">An example of an occluding agent is found in <patcit id="pcit0001" dnum="US5270031A"><text>US 5,270,031</text></patcit> which describes a tubule occluding desensitizer comprising a polyacrylic acid such as Carbopol® polymeric materials. Another tubule occluding composition is disclosed in <patcit id="pcit0002" dnum="US5374417A"><text>US 5,374,417</text></patcit> which discloses a potassium salt of a synthetic anionic polymer, such as a polycarboxylate.<!-- EPO <DP n="2"> --></p>
+<p id="p0008" num="0008"><patcit id="pcit0003" dnum="WO2014023466A"><text>WO2014/023466</text></patcit>, <patcit id="pcit0004" dnum="WO2014023465A"><text>WO2014/023465</text></patcit> and <patcit id="pcit0005" dnum="WO2015067422A"><text>WO2015/067422</text></patcit> disclose compositions for treating tooth hypersensitivity comprising calcium carbonate.</p>
+<p id="p0009" num="0009">There is a continuing need for providing effective systems for delivering desensitizing agents to the teeth which can provide treatment and relief of hypersensitivity.</p>
+<heading id="h0003"><b><u>Description of the Invention</u></b></heading>
+<p id="p0010" num="0010">The present invention relates to a system for mitigating the sensitivity of teeth the system comprising a delivery device and an activator composition;
+<ol id="ol0001" compact="compact" ol-style="">
+<li>i) the delivery device comprising; a strip of an orally acceptable flexible material, having a strip surface capable of being applied to a tooth surface,</li>
+<li>ii) the activator composition comprising particulate calcium carbonate.</li>
+</ol></p>
+<heading id="h0004"><b><u>Detailed Description of the Invention</u></b></heading>
+<p id="p0011" num="0011">The activator composition comprises calcium carbonate, preferably particulate calcium carbonate composed of primary particles.</p>
+<p id="p0012" num="0012">By "primary particles" is meant individual particles, defined as the smallest discrete particles that can be seen by electron microscopy analysis (such as, for example, individual crystals).</p>
+<p id="p0013" num="0013">The primary particles may associate under certain conditions to form larger secondary structures such as aggregates or agglomerates.</p>
+<p id="p0014" num="0014">In one present invention, a suitable source of particulate calcium carbonate as defined above includes crystalline calcium carbonates in which the individual crystals have a prismatic morphology and an average size of 2 microns or less.</p>
+<p id="p0015" num="0015">The term "crystalline" (in the context of particulate calcium carbonate) generally means a particulate calcium carbonate in which at least 50% by weight, preferably at least 75% by weight, more preferably at least 90% by weight, most preferably more than 95% by weight and ideally more than 99% by weight of the calcium carbonate particles are in the form of crystals.</p>
+<p id="p0016" num="0016">The term "crystal" means an essentially fully dense solid composed of atoms arranged in an orderly repetitive array bounded by plane surfaces which are the external expression of internal structure.<!-- EPO <DP n="3"> --></p>
+<p id="p0017" num="0017">Crystals may be identified and characterised by standard techniques known to those skilled in the art such as X-ray diffraction.</p>
+<p id="p0018" num="0018">Crystalline forms of calcium carbonate are available naturally, or may be synthetically produced in three particular crystalline morphologies, calcite, aragonite, and less commonly found, vaterite. The vaterite form of calcium carbonate is metastable and irreversibly transforms into calcite and aragonite. There are many different polymorphs (crystal habits) for each of these crystalline forms. The calcite crystalline morphology is the most commonly used crystal form of calcium carbonate. Over 300 crystalline forms of calcite have been reported in the literature.</p>
+<p id="p0019" num="0019">References to a "prismatic crystal morphology" (in the context of crystalline calcium carbonates) generally denote a crystalline calcium carbonate in which at least 50% by weight, preferably at least 75% by weight, more preferably at least 90% by weight, most preferably more than 95% by weight and ideally more than 99% by weight of the crystals are prismatic crystals. Prismatic crystals have a set of faces with parallel edges that are parallel to the vertical or "c"-axis direction. There can be three, four, six, eight or even twelve faces that can form a prism. For the purposes of the present invention, preferred prismatic crystals have a generally uniform, typically generally hexagonal cross-sectional shape.</p>
+<p id="p0020" num="0020">References to a "scalenohedral crystal morphology" (in the context of crystalline calcium carbonates) generally denote a crystalline calcium carbonate in which at least 50% by weight, preferably at least 75% by weight, more preferably at least 90% by weight, most preferably more than 95% by weight and ideally more than 99% by weight of the crystals are scalenohedral crystals. Scalenohedral crystals have a set of faces that are inclined to the vertical or "c"-axis direction, each of which are scalene triangles (i.e. triangles whose three sides are unequal in length). For the purposes of the present invention, preferred scalenohedral crystals have a trigonal scalenohedral shape, with twelve scalene triangle faces.</p>
+<p id="p0021" num="0021">Reference to acicular" in this context refers to the shape of the crystals. Usually, crystals grow in three directions, length, width and height. Some crystals however, have one or two preferred growth directions. Acicular crystals have a preferred crystal growth in one direction. Examples are crystals in the form of needles, rods, fibres, whiskers or columns and the like. For the purposes of the present invention, preferred acicular crystals are rod-like or needle-like with a generally uniform, typically generally circular, cross-sectional shape.<!-- EPO <DP n="4"> --></p>
+<p id="p0022" num="0022">Crystal shape may be determined by standard techniques known to those skilled in the art such as scanning electron microscopy (SEM). SEM is an imaging and analysis technique based on the detection of electrons and X-rays that are emitted from a material when irradiated by a scanning electron beam. Imaging allows the user to distinguish between primary particles and aggregates or agglomerates.</p>
+<p id="p0023" num="0023">Usually, crystals grow in three directions, length, width and height. Some crystals however, have one or two preferred growth directions. For the purposes of the present invention, preferred prismatic calcium carbonate crystals have a ratio between the length and the width of the crystal (the so-called aspect ratio) ranging from about 1:1 up to about 3:1 (length:width). The aspect ratio of a particle (e.g. a crystal) may typically be obtained from SEM photographs by averaging the ratio between the length and width of the particle, measured on at least 10 particles for 1 photograph.</p>
+<p id="p0024" num="0024">Preferably the calcium carbonate for use in this invention has a prismatic, scalenohedral or acicular crystal morphology.</p>
+<p id="p0025" num="0025">For the purposes of the present invention, preferred prismatic calcium carbonate crystals have an average size which is less than 2 microns and generally ranges from about 0.1 to 2 microns, with a preferred size ranging from about 0.2 to about 1.5, more preferably from about 0.3 to about 1, most preferably from about 0.5 to 0.9 microns. Particle (e.g. crystal) size may be determined by standard techniques known to those skilled in the art such as sedimentation. Particle size values obtained from sedimentation techniques are normally expressed in terms of the equivalent spherical diameter (ESD), i.e. the diameter of a notional sphere having the same volume as the particle. The ESD value may be calculated based on the sedimentation rate of the particle in question as defined by <nplcit id="ncit0001" npl-type="s"><text>Stokes' Law (Micromeritics SediGraph® 5100 Particle Size Analysis System Operator's Manual, V2.03, 1990</text></nplcit>). The sedimentation rate is measured using a finely collimated beam of low energy X-rays which pass through the sample cell to a detector. For a sample population of particles, the distribution of particle mass at various points in the cell affects the number of X-ray pulses reaching the detector. This X-ray pulse count is used to derive the particle size distribution expressed as the percent mass at given particle diameters. The median value of the ESD which can be derived from this distribution (i.e. the particular ESD value on the cumulative mass distribution curve at which 50 percent mass of the population has a higher ESD and 50 percent mass of the population has a lower ESD) is usually quoted as the average particle size of the sample population.<!-- EPO <DP n="5"> --></p>
+<p id="p0026" num="0026">For the purposes of the present invention, preferred scalenohedral calcium carbonate crystals have an average size which is less than 2 microns and generally ranges from about 0.05 to about 1.5 microns, with a preferred size ranging from about 0.1 to about 1 micron, more preferably from about 0.15 to about 0.5 micron, most preferably from about 0.2 to 0.35 micron. A standard technique known to those skilled in the art for determining the average size of the individual crystals is air permeametry according to the Lea and Nurse method (standards NF X 11-601 and NF X 11 602). This analytical technique determines the average particle size by measuring the pressure drop across a packed powder bed using a water manometer. The pressure drop is a function of the permeability of the packed bed. This is related to the surface area of the particles which is then transformed to an average size based upon the assumption that the particles are spherical. Average particle size (Dp) is obtained from the massic area (SM) derived from the Lea and Nurse method by making the assumptions that all the particles are spherical, non-porous and of equal diameter, and by neglecting contact surfaces between the particles. The relationship between Dp and SM is the following: <maths id="math0001" num=""><math display="block"><mrow><mi>Dp</mi><mo>=</mo><mn>6</mn><mo>/</mo><mfenced><mi>ρSM</mi></mfenced></mrow></math><img id="ib0001" file="imgb0001.tif" wi="22" he="6" img-content="math" img-format="tif"/></maths> where p is the specific mass of the calcium carbonate. The average particle size (Dp) obtained in this way represents the average equivalent spherical diameter, or average ESD, where equivalent spherical diameter (ESD) is defined as the diameter of a notional sphere having the same volume as the particle.</p>
+<p id="p0027" num="0027">For the purposes of the invention preferred acicular calcium carbonate is composed of a length of 2 microns or greater. Preferred acicular calcium carbonate crystals for use in the invention have a length ranging from 2 to 100 microns, more preferably from 10 to 30 microns and a width ranging from 0.1 to 4.0 microns, more preferably from 0.5 to 1.0 microns. A specific class of material suitable for use in the invention includes aragonite crystal form calcium carbonates such as those described for example in <patcit id="pcit0006" dnum="US5164172A"><text>US 5,164,172</text></patcit>.</p>
+<p id="p0028" num="0028">The ratio between the length and the width of a crystal, the so-called aspect ratio, is higher than 1:1 for preferred acicular crystals. The higher the aspect ratio, the longer the crystal. For the purposes of the present invention the aspect ratio is preferably at least 2.5:1, more preferably at least 10:1. For example the aspect ratio may typically range from 2.5:1 to 200:1, and preferably ranges from 10:1 to 60:1, more preferably from 20:1 to 30:1.<!-- EPO <DP n="6"> --></p>
+<p id="p0029" num="0029">In a preferred embodiment t calcium carbonate has a particulate size less than 2 microns.</p>
+<p id="p0030" num="0030">Preferred calcium carbonate crystals, in particular scalenohedral prismatic calcium carbonate generally have a BET specific surface area higher than or equal to 0.1 m2/g, preferably higher than or equal to 1 m2/g, more preferably higher than or equal to 3 m2/g and most preferably higher than or equal to 4 m2/g. The calcium carbonate particles according to the invention generally have a BET specific surface area lower than or equal to 30 m2/g, preferably lower than or equal to 25 m2/g, more preferably lower than or equal to 20 m2/g, and most preferably lower than or equal to 15 m2/g. The BET specific surface area is usually measured according to the standard ISO 9277 which specifies the determination of the overall specific external and internal surface area of disperse or porous solids by measuring the amount of physically adsorbed gas according to the Brunauer, Emmett and Teller (BET) method.</p>
+<p id="p0031" num="0031">Crystalline forms of calcium carbonate and suitable for use in the invention are available naturally, or may be produced by precipitation production technology. Typically, precipitated calcium carbonate is prepared by exposing calcium hydroxide slurry to a carbonation reaction. Control of the specific solution environment during the nucleation and growth of calcium carbonate governs the size and the shape of the crystals in the resulting precipitated calcium carbonate product.</p>
+<p id="p0032" num="0032">A commercially available source of particulate prismatic calcium carbonate suitable for use in the invention is ViCALity® ALBAFIL® Precipitated Calcium Carbonate (PCC), ex Specialty Minerals Inc., Bethlehem, Pa. 18017.</p>
+<p id="p0033" num="0033">A commercially available source of particulate scalenohedral calcium carbonate suitable for use in the invention is SOCAL® S2E Precipitated Calcium Carbonate (PCC), ex Solvay S.A.</p>
+<p id="p0034" num="0034">Suitable acicular crystal form calcium carbonates for use in the invention are commercially available and include those marketed by Maruo Calcium Company Limited, Japan under the trade name WISCAL®.</p>
+<p id="p0035" num="0035">Mixtures of any of the above described materials may also be used.<!-- EPO <DP n="7"> --></p>
+<p id="p0036" num="0036">The activator composition preferably comprises an anhydrous base formulation in that the activator base comprises less than 1wt% of the activator composition of water; preferably less than 0.5 wt%, more preferably less than 0.1 wt% of the total activator composition.</p>
+<p id="p0037" num="0037">The activator composition preferably comprises a phosphate source. The phosphate source that may be used in this invention is limited only to the extent that the same may be used in a composition suitable for use in an oral cavity. Illustrative examples of the types of phosphate source suitable for use in this invention include monosodium phosphate, sodium dihydrogen phosphate, disodium hydrogen phosphate, sodium pyrophosphate, tetrasodium pyrophosphate, sodium tripolyphosphate, sodium hexametaphosphate, potassium dihydrogenphosphate, trisodium phosphate, tripotassium phosphate, mixtures thereof or the like. The phosphate source is preferably one which is water soluble.</p>
+<p id="p0038" num="0038">Typically, the phosphate source makes up from 0.5 to 15%, and preferably, from 1 to 12%, and most preferably, from 2 to 9% by weight of the composition, based on total weight of the activator composition in which it is included and including all ranges subsumed therein. In a preferred embodiment, the phosphate source used is one which results in an oral care composition having a pH from 5.5 to 8, preferably from 6 to 7.5, and most preferably, about neutral. In a most preferred embodiment, the phosphate source used is trisodium phosphate and monosodium dihydrogen phosphate at a trisodium phosphate to monosodium dihydrogen phosphate weight ratio of 1:4 to 4:1, preferably 1:3 to 3:1, and most preferably, from 1:2 to 2:1, including all ratios subsumed therein.</p>
+<p id="p0039" num="0039">It is preferable the activating system comprises a calcium source that is insoluble or slightly soluble in water.</p>
+<p id="p0040" num="0040">Soluble means a source that dissolves in water to give a solution with a concentration of at least 0.1 moles per litre at room temperature. Insoluble means a source that dissolves in water to give a solution with a concentration of less than 0.001 moles per litre at room temperature. Slightly soluble, therefore, is defined to mean a source that dissolves in water to give a solution with a concentration of greater than 0.001 moles per litre at room temperature and less than 0.1 moles per litre at room temperature. Substantially free of, as used herein, means less than 1.5%, and preferably, less than 1.0%, and most preferably, from 0.0 to 0.75% by weight, based on total weight of the oral care composition, including all ranges subsumed therein. The calcium source suitable for use in this invention is limited only to the extent that the same may be used in an oral cavity. In a<!-- EPO <DP n="8"> --> preferred embodiment, the calcium source employed is insoluble or slightly soluble in water, but most preferably, insoluble in water.</p>
+<p id="p0041" num="0041">Illustrative examples of the types of calcium source that may be used in this invention include, for example, calcium phosphate (i.e., added), calcium gluconate, calcium oxide, calcium lactate, calcium carbonate, calcium hydroxide, calcium sulfate, calcium carboxymethyl cellulose, calcium alginate, calcium salts of citric acid, calcium silicate, mixtures thereof or the like. In a preferred embodiment, the calcium source is calcium silicate. In a more preferred embodiment, the calcium silicate used is (CaSiO<sub>3</sub>) whereby the same is made commercially available under the name Microcal ET by Ineos Silicas, Ltd.</p>
+<p id="p0042" num="0042">In yet another preferred embodiment, the calcium source is insoluble calcium silicate, present as the composite material calcium oxide-silica (CaO-SiO<sub>2</sub>) as described in commonly-owned application Publication No. <patcit id="pcit0007" dnum="WO2008015117A"><text>2008/015117</text></patcit>.</p>
+<p id="p0043" num="0043">When a calcium silicate composite material is employed, the ratio of calcium to silicon (Ca:Si) may be from 1:10 to 3:1. The Ca:Si ratio is preferably from 1:5 to 2:1, and more preferably, from 1:3 to 2:1, and most preferably, from about 1:2 to 2:1. The calcium silicate may comprise mono-calcium silicate, bi-calcium silicate, or tri-calcium silicate whereby ratios of calcium to silicon (Ca:Si) should be understood to be atom ratios.</p>
+<p id="p0044" num="0044">The calcium source employed in this invention may be in a crystalline or amorphous state, and preferably, the same is in an amorphous state. In an often-preferred embodiment, the calcium source is in a mesoporous state, i.e. the source is a material having pores with diameters from 1 nm to 50 microns. Mesoporous calcium silicate (MCS) is often preferred.</p>
+<p id="p0045" num="0045">The MCS which may be used in this invention can be made by combining a calcium salt, a silica precursor like silicate and a structure-directing agent to yield a solid suitable for calcinating. A more detailed description of the process that may be conducted to make the MCS suitable for use in this invention is described in the aforementioned commonly-owned application, Publication No. <patcit id="pcit0008" dnum="WO2008015117A"><text>WO 2008/015117</text></patcit>.<!-- EPO <DP n="9"> --></p>
+<p id="p0046" num="0046">The amount of calcium source in the composition is typically from 0.1 to 50%, and preferably, from 1 to 30%, and most preferably, from 5 to 20% by weight of the oral care composition based on total weight of the oral care composition and including all ranges subsumed therein.</p>
+<p id="p0047" num="0047">A preferred form of calcium silicate is calcium silicate coated TiO<sub>2</sub>. Examples of preferred forms of calcium silicate coated TO02 are disclosed in <patcit id="pcit0009" dnum="WO2012031786A"><text>WO2012/031786</text></patcit> and <patcit id="pcit0010" dnum="WO2012031785A"><text>WO2012/031785</text></patcit>.</p>
+<p id="p0048" num="0048">The oral care activator composition described herein may comprise ingredients which are common in the art, such as:
+<ul id="ul0001" list-style="none" compact="compact">
+<li>▪ antimicrobial agents, e.g. Triclosan, chlorhexidine, copper-, zinc- and stannous salts such as zinc citrate, zinc sulphate, zinc glycinate, sodium zinc citrate and stannous pyrophosphate, sanguinarine extract, metronidazole, quaternary ammonium compounds, such as cetylpyridinium chloride; bis-guanides, such as chlorhexidine digluconate, hexetidine, octenidine, alexidine; and halogenated bisphenolic compounds such as 2,2' methylenebis-(4-chloro-6-bromophenol);</li>
+<li>▪ anti-inflammatory agents such as ibuprofen, flurbiprofen, aspirin, indomethacin, etc.;</li>
+<li>▪ anti-caries agents such as sodium trimetaphosphate and casein;</li>
+<li>▪ plaque buffers such as urea, calcium lactate, calcium glycerophosphate and polyacrylates;</li>
+<li>▪ vitamins such as Vitamins A, C and E;</li>
+<li>▪ plant extracts;</li>
+<li>▪ desensitizing agents, e.g. potassium citrate, potassium chloride, potassium tartrate, potassium bicarbonate, potassium oxalate, and potassium nitrate;</li>
+<li>▪ anti-calculus agents, e.g. alkali-metal pyrophosphates, hypophosphite-containing polymers, organic phosphonates and phosphocitrates, etc;</li>
+<li>▪ biomolecules, e.g. bacteriocins, antibodies, enzymes, etc ;</li>
+<li>▪ flavors, e.g., peppermint and spearmint oils;</li>
+<li>▪ proteinaceous materials such as collagen;</li>
+<li>▪ preservatives;</li>
+<li>▪ opacifying agents;</li>
+<li>▪ coloring agents like FD&amp;C blue, yellow and/or red dyes/colorants;</li>
+<li>▪ pH-adjusting agents;</li>
+<li>▪ sweetening agents;</li>
+<li>▪ surfactants, such as anionic, cationic and zwitterionic or amphoteric surfactants (e.g., sodium lauryl sulfate, sodium dodecylbenzene sulfonate);<!-- EPO <DP n="10"> --></li>
+<li>▪ particulate abrasive materials such as abrasive silicas, aluminas, calcium carbonates, zirconium silicate, polymethylmethacrylate, dicalciumphosphates, calcium pyrophosphates, hydroxyapatites, trimetaphosphates, insoluble hexametaphosphates as well as agglomerated particulate abrasive materials;</li>
+<li>▪ fluoride sources like sodium fluoride, stannous fluoride, sodium monofluorophosphate, zinc ammonium fluoride, tin ammonium fluoride, calcium fluoride, cobalt ammonium fluoride or mixtures thereof;</li>
+<li>▪ polymeric compounds which can enhance the delivery of active ingredients such as antimicrobial agents can also be included. Examples of such polymers are copolymers of polyvinylmethylether with maleic anhydride and other similar delivery enhancing polymers, e.g., those described in <patcit id="pcit0011" dnum="DE03942643A"><text>DE-A03,942,643</text></patcit>; buffers and salts to buffer the pH and ionic strength of the oral care compositions; and</li>
+<li>▪ other optional ingredients that may be included are, e.g., bleaching agents such as peroxy compound, e.g., potassium peroxydiphosphate, effervescing systems such as sodium bicarbonate/citric acid systems, color change systems, and the like.</li>
+</ul></p>
+<p id="p0049" num="0049">Such ingredients common in the art typically and collectively make-up less than 20% by weight of the oral care composition, and preferably, from 0.0 to 15% by weight, and most preferably, from about 0.01 to about 12% by weight of the oral care composition, including all ranges subsumed therein.</p>
+<p id="p0050" num="0050">Suitable earner humectants are preferably used in the oral care system of the present invention, in particular the activation system and they include, for example, glycerin, sorbitol, propylene glycol, dipropylene glycol, diglycerol, triacetin, mineral oil, polyethylene glycol (preferably, PEG-400), alkane diols like butane diol and hexanediol, ethanol, pentylene glycol, or a mixture thereof. The carrier humectants should, in any case, be substantially free of water, and preferably, anhydrous. The same, for example, can be used in solid form, whereby glycerin is the preferred carrier humectant. Such earners are particularly suitable in compositions used in the second layer.</p>
+<p id="p0051" num="0051">The earner humectant is used to take the balance of the compositions up to 100%, and the same may be present in the range of from 10 to 90% by weight of the oral care composition. Preferably, the carrier humectant makes up from 25 to 80%, and most preferably, from 45 to 70% by weight of the oral care composition, based on total weight of the oral care composition and including all ranges subsumed therein.<!-- EPO <DP n="11"> --></p>
+<p id="p0052" num="0052">The delivery device of the invention comprises a strip of an orally acceptable flexible material. The surface of the strip is capable of being applied to a tooth surface.</p>
+<p id="p0053" num="0053">The device preferably comprises a phosphate source, more preferably the phosphate resides in a layer as part of the device. The phosphate of the device is as described for the activator composition. Preferably the same phosphate is used in the device and in the activator composition. Typically, the phosphate source makes up from 0.5 to 15%, and preferably, from 1 to 12%, and most preferably, from 2 to 9% by weight of the composition, based on total weight of the composition of the layer in which it is included and including all ranges subsumed therein.</p>
+<p id="p0054" num="0054">Preferably the device has an elongate shape of a length sufficient that when placed against the front surface of a user's teeth it extends across a plurality of teeth, and of sufficient width that it extends at least from the gumline of the teeth to the crowns of the teeth. The elongate shape is such that it minimises the need for subsequent applications and time to cover all the user's teeth.</p>
+<p id="p0055" num="0055">In a further embodiment, the strip is such that it can be sufficient that when placed against the front surface of a user's teeth it extends across a plurality of teeth, and of sufficient width that it extends at least from the front gumline of the teeth to the crowns of the teeth and to the gumline behind the user's teeth leading to total coverage of the teeth above the gumline.</p>
+<p id="p0056" num="0056">Preferably the application device is rectangular in shape.</p>
+<p id="p0057" num="0057">Preferably the strip/device has the enamel regeneration system deposited upon the strip surface thereof as a layer or more preferably multiple layers.</p>
+<p id="p0058" num="0058">In a preferred embodiment, the device is a strip comprising a plurality of layers.</p>
+<p id="p0059" num="0059">Preferably the device comprises at least two layers; one layer comprises a non-dissolving backing film, a second layer comprises a component of the enamel regeneration system. More preferably the strip comprises third protective layer it is particularly preferred if the third protective layer comprises a water-soluble polymer.</p>
+<p id="p0060" num="0060">It is preferable if the non-dissolving backing layer comprises materials such as polymers, natural and synthetic wovens, non-wovens, foil, paper, rubber, and combinations thereof. The strip of<!-- EPO <DP n="12"> --> material may be a single layer of material or a laminate of more than one layer. Generally, the strip of material is substantially water impermeable. The material may be any type of polymer that is compatible with tooth whitening actives and is sufficiently flexible to be shaped and applied to the tooth surface. The material may comprise a single polymer or a mixtures of polymers. Suitable polymers include, but are not limited to, polyethylene, polypropylene, ethylvinylacetate, ethylvinyl alcohol, polyesters, polyamides, fluoroplastics and combinations thereof. Preferably, the material is polyethylene, in particular polyethylene terephthalate.</p>
+<p id="p0061" num="0061">The strip of material is generally less than about 1 mm thick, preferably less than about 0.05 mm thick, and more preferably from about 0.001 to about 0.03 mm thick.</p>
+<p id="p0062" num="0062">In one embodiment, the device comprises a third layer. The third layer preferably comprises a water-soluble polymer or polymers. Suitable water soluble polymers may be natural or synthetic. Suitable natural hydrocolloids and water soluble polymers include cellulosic material, a polysaccharide, a gum, a protein, a starch or a glucan. Examples include but are not limited to carboxymethyl cellulose, hydroxyl methyl cellulose, hydroxyethyl cellulose, hydroxypropyl cellulose, hydroxypropylmethyl cellulose, gum Arabic, xanthan gum, karaya gum, tragacanth, acacia, carrageenan, guar gum, locust bean gum, pectin, alginates, polydextrose, dextrin, dextran, amylose, chitin, chitosan, levan, elsinan, collagen, gelatin, zein, gluten, soy protein isolate, whey protein isolate, casein and pullan. Suitable water soluble synthetic polymers include but are not limited to poly(vinyl pyrrolidone), poly(vinyl alcohol), poly(acrylic acid), polyacrylates, Methylmethacrylate copolymer, carboxyvinyl polymer, polyethylene oxide and polyethylene glycol.</p>
+<p id="p0063" num="0063">The advantage of having a water-soluble layer and a non-water soluble layer is that in the mouth the water-soluble layer dissolves in the saliva and the ingredients enclosed therein (the phosphate) can react with the ingredients in the second layer (silicate) to aid the in-situ regeneration of enamel on the teeth. Thus, the system provides an enamel regeneration system that can be used with the minimum of water, can be easily stored and is stable on storage.</p>
+<p id="p0064" num="0064">Preferably the composition in one of the compositions within the layers of the invention comprises titanium dioxide. In particular, the layer comprising an adhesive such as polyethylene glycols or celluloses/hydroxyalkyl celluloses.<!-- EPO <DP n="13"> --></p>
+<p id="p0065" num="0065">It is preferable if the thickness of the first layer is less than about 1 mm thick, preferably less than about 0.05 mm thick, and more preferably from about 0.001 to about 0.03 mm thick, second layer is less than about 1 mm thick, preferably less than about 0.5 mm thick, and more preferably from about 0.001 to about 0.3 mm thick and third layer (if present) is less than about 1 mm thick, preferably less than about 0.5 mm thick, and more preferably from about 0.001 to about 0.3 mm thick.</p>
+<heading id="h0005"><u>Mode of Use</u></heading>
+<p id="p0066" num="0066">The invention provides a method of de-sensitizing and re-mineralising teeth. The activator composition is applied to the strips of the invention. The activated strips as described above are applied to the surface of the teeth in sustained contact.</p>
+<p id="p0067" num="0067">In the context of the present invention sustained contact means the product is left on the teeth for 1 to 60 minutes, preferably, about 5 to 45 minutes, more preferably 10 to 30 minutes before being removed.</p>
+<p id="p0068" num="0068">Preferably the application of the oral care product of the invention is carried out once daily for a period of several consecutive days, in addition to a regular regime of tooth brushing (preferably at least twice daily).</p>
+<p id="p0069" num="0069">Typically, use (for a period of about two weeks to one month) of the device with the oral care composition of the present invention will result in a new hydroxyapatite layer on teeth that is from 0.5 to 20 microns, and preferably, from 0.75 to 5 microns, including all ranges subsumed therein.</p>
+<p id="p0070" num="0070">The invention will now be illustrated by the following non-limiting Examples:</p>
+<heading id="h0006"><u>Examples</u></heading>
+<heading id="h0007">Preparing Simulated Oral Fluid:</heading>
+<p id="p0071" num="0071">A simulated oral fluid was prepared by adding 1.9L of water to a glass beaker. The following materials were added one by one with continuous stirring, allowing sufficient time for each chemical to fully dissolve before adding the next. Sodium chloride 16.07g, sodium hydrogen carbonate 0.7g, potassium chloride 0.448g, potassium hydrogen phosphate 2.56g, magnesium chloride hexahydrate 0.622g, 1M hydrochloric acid 40ml, calcium chloride 0.1998g and sodium sulfate<!-- EPO <DP n="14"> --> 0.1434g. The pH was adjusted to 7.0 using saturated TRIS buffer and the total volume made up to 2L using a volumetric flask.</p>
+<heading id="h0008">Scoring Standard for Tubules Blockage:</heading>
+<p id="p0072" num="0072">Regardless of the original shape of the dentine disks, a square (with a size of 4mm x 4mm) is selected and one image is captured under 50x magnification. Within this square, five spots (each with a size of 150 micro etaeta x 150 micro etaeta, one in the middle, and one in every corner) are selected and observed under 1000x magnification. The blockage of tubules are accessed following the standards described below. The measurement is carried out for the two dentine disks of each test group.
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="16mm"/>
+<colspec colnum="2" colname="col2" colwidth="69mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Score</entry>
+<entry align="center" valign="top">Tubules Blockage</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">0</entry>
+<entry>All dentinal tubules are open</entry></row>
+<row>
+<entry align="center">1</entry>
+<entry>&lt;20% of dentinal tubules are fully blocked</entry></row>
+<row>
+<entry align="center">2</entry>
+<entry>20 to 50% of dentinal tubules are fully blocked</entry></row>
+<row>
+<entry align="center">3</entry>
+<entry>50 to 80% of dentinal tubules are fully blocked</entry></row>
+<row>
+<entry align="center">4</entry>
+<entry>80 to 100% of dentinal tubules are fully blocked</entry></row>
+<row>
+<entry align="center">5</entry>
+<entry>All dentinal tubules are fully blocked.</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0009">Dentine disc preparation:</heading>
+<p id="p0073" num="0073">Human dentine discs with thickness of 2.0 mm were prepared by cutting them from extracted human teeth. The dentine discs were polished on a series of wet silicon-carbide papers ranging from 280 to 600 grit, so that to standardise the tested surfaces as the same condition. The dentin surfaces were then treated by 37% phosphoric acid for 60 seconds to remove the smear layer created during the grinding process and to open and enlarge all its dentin tubules.<!-- EPO <DP n="15"> --></p>
+<heading id="h0010"><b>Example 1</b></heading>
+<p id="p0074" num="0074">A pair of formulations were prepared by combining the following:
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="56mm"/>
+<colspec colnum="2" colname="col2" colwidth="33mm"/>
+<colspec colnum="3" colname="col3" colwidth="33mm"/>
+<thead>
+<row>
+<entry align="center" valign="top"><b>Ingredient</b></entry>
+<entry align="center" valign="top"><b>Example 1A %w/w</b></entry>
+<entry align="center" valign="top"><b>Example 1B %w/w</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Glycerol</entry>
+<entry align="center">36.93</entry>
+<entry align="center">36.93</entry></row>
+<row>
+<entry>PEG 400</entry>
+<entry align="center">36.93</entry>
+<entry align="center">36.93</entry></row>
+<row>
+<entry>Calcium Silicate</entry>
+<entry align="center">15</entry>
+<entry align="center">15</entry></row>
+<row>
+<entry>Omyacare S-100AV</entry>
+<entry align="center">5</entry>
+<entry align="center">0</entry></row>
+<row>
+<entry>OmyaCare HP900</entry>
+<entry align="center">0</entry>
+<entry align="center">5</entry></row>
+<row>
+<entry>Sodium monofluorophosphate</entry>
+<entry align="center">0.74</entry>
+<entry align="center">0.74</entry></row>
+<row>
+<entry>Calcium Phosphate</entry>
+<entry align="center">2</entry>
+<entry align="center">2</entry></row>
+<row>
+<entry>Sodium Saccharine</entry>
+<entry align="center">0.1</entry>
+<entry align="center">0.1</entry></row>
+<row>
+<entry>Flavor</entry>
+<entry align="center">0.3</entry>
+<entry align="center">0.3</entry></row>
+<row>
+<entry>Anhydrous Mono Sodium Phosphate</entry>
+<entry align="center">1</entry>
+<entry align="center">1</entry></row>
+<row>
+<entry>Anhydrous Tri Sodium Phosphate</entry>
+<entry align="center">2</entry>
+<entry align="center">2</entry></row>
+<row>
+<entry>Total</entry>
+<entry align="center">100</entry>
+<entry align="center">100</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0075" num="0075">The glycerol and PEG 400 were added to the Esco-Labor 1L mixing vessel and stirring at room temperature the powders are added slowly and mixed to remove any lumps.</p>
+<p id="p0076" num="0076">A strip was produced by preparing two formulations:</p>
+<heading id="h0011">Formulation A:</heading>
+<p id="p0077" num="0077">
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="63mm"/>
+<colspec colnum="2" colname="col2" colwidth="18mm"/>
+<thead>
+<row>
+<entry align="center" valign="top"><b>Ingredient</b></entry>
+<entry align="center" valign="top"><b>%w/w</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Purified Water</entry>
+<entry>82.248%</entry></row>
+<row>
+<entry>Titanium Dioxide</entry>
+<entry>0.500%</entry></row>
+<row>
+<entry>Glycerine</entry>
+<entry>2.000%</entry></row>
+<row>
+<entry>PEG-1500 NF (Polyethylene Glycol 1500)</entry>
+<entry>12.000%</entry></row>
+<row>
+<entry>White Beeswak, NF</entry>
+<entry>0.500%</entry></row>
+<row>
+<entry>PEG-40 Hydrogenated Castor Oil</entry>
+<entry>0.250%</entry></row>
+<row>
+<entry>Benzyl Alcohol EP/USP/NF</entry>
+<entry>0.001%</entry></row>
+<row>
+<entry>Phenoxyethanol</entry>
+<entry>0.001%</entry></row>
+<row>
+<entry>Hydroxyethyl Cellulose</entry>
+<entry>2.500%</entry></row>
+<row>
+<entry>Total</entry>
+<entry>100%</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0078" num="0078">Water was added to a mixing vessel followed by PEG-40 Hydrogenated Castor Oil, glycerine, PEG, beeswax, Benzyl Alcohol, Phenoxyethanol, titanium dioxide and mixed to disperse. Subsequently hydroxyethyl cellulose was slowly added to the vessel and mixed to disperse.<!-- EPO <DP n="16"> --></p>
+<heading id="h0012">Formulation B:</heading>
+<p id="p0079" num="0079">
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="52mm"/>
+<colspec colnum="2" colname="col2" colwidth="18mm"/>
+<thead>
+<row>
+<entry align="center" valign="top"><b>Ingredient</b></entry>
+<entry align="center" valign="top"><b>%w/w</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Purified Water</entry>
+<entry>58.100%</entry></row>
+<row>
+<entry>Glycerine</entry>
+<entry>16.000%</entry></row>
+<row>
+<entry>Hydroxyethyl Cellulose</entry>
+<entry>1.000%</entry></row>
+<row>
+<entry>Silica</entry>
+<entry>17.830%</entry></row>
+<row>
+<entry>Polyvinylpyrrolidone</entry>
+<entry>2.000%</entry></row>
+<row>
+<entry>Trisodium Phosphate</entry>
+<entry>1.750%</entry></row>
+<row>
+<entry>Monosodium Phosphate</entry>
+<entry>1.750%</entry></row>
+<row>
+<entry>Aroma</entry>
+<entry>0.250%</entry></row>
+<row>
+<entry>Benzyl Alcohol</entry>
+<entry>0.300%</entry></row>
+<row>
+<entry>Phenoxyethanol</entry>
+<entry>0.300%</entry></row>
+<row>
+<entry>Ethylhexylglycerin</entry>
+<entry>0.300%</entry></row>
+<row>
+<entry>Sodium Fluoride</entry>
+<entry>0.220%</entry></row>
+<row>
+<entry>PEG-40 Hydrogenated Castor Oil</entry>
+<entry>0.100%</entry></row>
+<row>
+<entry>Sodium Saccharin</entry>
+<entry>0.100%</entry></row>
+<row>
+<entry>Total</entry>
+<entry>100%</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0080" num="0080">Water was added to a mixing vessel followed by PEG-40 Hydrogenated Castor Oil, glycerine, ethylhexyl glycerine, phenoxyethanol, Benzyl Alcohol, flavour, monosodium phosphate, trisodium phosphate, sodium fluoride, sodium saccharine, silica and mixed to disperse. Subsequently hydroxyethyl cellulose and polyvinylpyrrolidone was slowly added to the vessel and mixed to disperse.</p>
+<p id="p0081" num="0081">A film of formulation A was applied to a PET film and dried in an oven to a water content of 28-30wt%. On this film was placed a layer of non-woven Rayon fabric and a film of formulation B applied. Again, the sample was dried in an oven to a water content of 28-30wt%. The resulting structure has four layers, a PET film, a layer of formulation A, a layer or rayon and a layer of formulation B. The resulting structure can be pealed from the PET layer to give a three-layer structure.</p>
+<p id="p0082" num="0082">Four human dentine disks were separated into two groups (n=2).</p>
+<p id="p0083" num="0083">A piece of the four-layer structure was cut to a 10×3.5 cm piece. 0.5g of Example 1A or Example 1B was applied to the exposed silica layer of each fabric sample using a dropping pipette and spread evenly with a spatula. The sample was pealed from the PET earner and wrapped around the dentine discs for 15 minutes at 37°C. After the samples were removed from the fabric, rinsed in 40 ml water and mixed gently for 1 minute. Samples were then incubated in simulated oral fluid for 6 hours. The dentine disks were brushed with de-ionised water using a tooth brushing machine<!-- EPO <DP n="17"> --> equipped with toothbrushes. The load of the tooth brushing was 175 g +1-5 g, with a brushing speed of 150 rpm for 1 minute. This cycle was completed 5 times in total.<br/>
+The tubule blocking efficacy was assessed after 3 and 5 applications.
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="22mm"/>
+<colspec colnum="2" colname="col2" colwidth="27mm"/>
+<colspec colnum="3" colname="col3" colwidth="27mm"/>
+<thead>
+<row>
+<entry align="center" valign="top"/>
+<entry align="center" valign="top"><b>3 Applications</b></entry>
+<entry align="center" valign="top"><b>5 Applications</b></entry></row></thead>
+<tbody>
+<row>
+<entry align="center">Example 1A</entry>
+<entry align="center">4.3 ±0.26</entry>
+<entry align="center">5</entry></row>
+<row>
+<entry align="center">Example 1B</entry>
+<entry align="center">4.6 ±0.22</entry>
+<entry align="center">5</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0013">Example A:</heading>
+<p id="p0084" num="0084">The ingredients of the dentifrice formulations are shown in the table below. The pastes were prepared by mixing (in weight percent) the following ingredients under moderate shear until a homogeneous composition was obtained.
+<tables id="tabl0006" num="0006">
+<table frame="all">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="50mm"/>
+<colspec colnum="2" colname="col2" colwidth="21mm"/>
+<thead>
+<row>
+<entry align="center" valign="top"><b>Ingredient</b></entry>
+<entry align="center" valign="top"><b>Level wt%</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Fine Ground Natural Chalk</entry>
+<entry align="center">38</entry></row>
+<row>
+<entry>OmyaCare HP900</entry>
+<entry align="center">2</entry></row>
+<row>
+<entry>Sorbitol (70% Solution)</entry>
+<entry align="center">20</entry></row>
+<row>
+<entry>Water</entry>
+<entry align="center">28.61</entry></row>
+<row>
+<entry>Hydrated Silica</entry>
+<entry align="center">3.5</entry></row>
+<row>
+<entry>Sodium lauryl sulfate</entry>
+<entry align="center">2.5</entry></row>
+<row>
+<entry>Sodium Silicate (30% solution)</entry>
+<entry align="center">1.5</entry></row>
+<row>
+<entry>Sodium monofluorophosphate</entry>
+<entry align="center">1.11</entry></row>
+<row>
+<entry>Sodium carboxymethyl cellulose</entry>
+<entry align="center">0.63</entry></row>
+<row>
+<entry>Flavour</entry>
+<entry align="center">0.9</entry></row>
+<row>
+<entry>Titanium Dioxide</entry>
+<entry align="center">0.5</entry></row>
+<row>
+<entry>Benzyl Alcohol</entry>
+<entry align="center">0.5</entry></row>
+<row>
+<entry>Sodium Saccharine</entry>
+<entry align="center">0.25</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0085" num="0085">To evaluate blockage efficacy of dentinal tubules, the test samples was mixed with water at a ratio of 4 g to 8 mL water to make a slurry.</p>
+<p id="p0086" num="0086">Two dentine disks were brushed with the slurry under a tooth brushing machine equipped with toothbrushes. The load of the tooth brushing was 175 g and the automatic brushing operated at a speed of 150 rpm. After brushing for 1 min, the dentine disks were soaked in the toothpaste slurry for 1 min. Then the dentine disks were rinsed with distilled water, 40ml, and placed in simulated oral fluid (SOF) under the condition of a shaking water bath at 37 degrees centigrade at 60.0 rpm. The disks were soaked for a total of 4 hours. After this time, the disks were removed from the SOF and<!-- EPO <DP n="18"> --> the application and soaking protocol repeated. The brushing was repeated three times on the first day, then the dentine disks were kept in SOF overnight (&gt;12 hours) in a shaking water bath at 37 degrees centigrade to mimic oral environment. A further two applications were made on the second day with a total of five product applications.</p>
+<p id="p0087" num="0087">The tubule blocking efficacy was assessed after 3 and 5 applications.
+<tables id="tabl0007" num="0007">
+<table frame="all">
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="20mm"/>
+<colspec colnum="2" colname="col2" colwidth="27mm"/>
+<colspec colnum="3" colname="col3" colwidth="27mm"/>
+<thead>
+<row>
+<entry align="center" valign="top"/>
+<entry align="center" valign="top"><b>3 Applications</b></entry>
+<entry align="center" valign="top"><b>5 Applications</b></entry></row></thead>
+<tbody>
+<row>
+<entry align="center">Example A</entry>
+<entry align="center">2.6 ±0.22</entry>
+<entry align="center">3.1 ±0.48</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0088" num="0088">The results in example 1A and 1B show significantly greater dentine occlusion than example A. Thus, demonstrating the advantage of application using the system of the invention</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="19"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A system for mitigating the sensitivity of teeth the system comprising a delivery device and an activator composition,
+<claim-text>i) the delivery device comprising; a strip of an orally acceptable flexible material, having a strip surface capable of being applied to a tooth surface,</claim-text>
+<claim-text>iii) the activator composition comprising particulate calcium carbonate.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>A system according to any preceding claim in which the calcium carbonate comprises primary particles which are acicular and which have a length of 2 microns or greater.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>A system according to any preceding claim in which the calcium carbonate has an average particle size of less than 2 microns.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>A system according to claim 1 in which the calcium carbonate comprise of scalenohedral calcium carbonate crystals have an average size which is less than 2 microns.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>A system according to any one of claim 1 in which the calcium carbonate comprise of prismatic calcium carbonate crystals have an average size which is less than 2 microns.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>A system according to any preceding claim in which the activator composition is anhydrous.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>A system according to any preceding claim in which the activator composition comprises a polysaccharide.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>A system according to any preceding claim in which the activator composition comprises xanthan gum.</claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>A system according to any preceding claim in which the activator composition comprises a phosphate source.</claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>A system according to claim 9 in which the phosphate source comprises trisodium phosphate, sodium dihydrogen phosphate or mixtures thereof.<!-- EPO <DP n="20"> --></claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>A system according to any preceding claim in which the activator composition comprises a water insoluble and/or slightly soluble calcium source.</claim-text></claim>
+<claim id="c-en-0012" num="0012">
+<claim-text>A system according to claim 11 in which the calcium source is calcium silicate.</claim-text></claim>
+<claim id="c-en-0013" num="0013">
+<claim-text>A system according to any preceding claim in which the device comprising a plurality of layers.</claim-text></claim>
+<claim id="c-en-0014" num="0014">
+<claim-text>A system according to claim 13, in which one layer of the device comprises a non-dissolving backing film.</claim-text></claim>
+<claim id="c-en-0015" num="0015">
+<claim-text>A system according to claim 14 in which the non-dissolving backing film comprises polyethylene terephthalate.</claim-text></claim>
+<claim id="c-en-0016" num="0016">
+<claim-text>A system according to any preceding claim in which the device has an elongate shape of a length sufficient that when placed against the front surface of a user's teeth it extends across a plurality of teeth, and of sufficient width that it extends at least from the gumline of the teeth to the crowns of the teeth.</claim-text></claim>
+<claim id="c-en-0017" num="0017">
+<claim-text>A system according to any preceding claim in which the device is substantially rectangular.</claim-text></claim>
+</claims>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="151" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="151" he="233" type="tif"/><doc-page id="srep0003" file="srep0003.tif" wi="150" he="233" type="tif"/><doc-page id="srep0004" file="srep0004.tif" wi="150" he="233" type="tif"/></search-report-data><search-report-data date-produced="20200818" id="srepxml" lang="en" srep-office="EP" srep-type="ep-sr" status="n"><!--
+ The search report data in XML is provided for the users' convenience only. It might differ from the search report of the PDF document, which contains the officially published data. The EPO disclaims any liability for incorrect or incomplete data in the XML for search reports.
+ -->
+
+<srep-info><file-reference-id>J30314EP1C/ps</file-reference-id><application-reference><document-id><country>EP</country><doc-number>20167827.3</doc-number></document-id></application-reference><applicant-name><name>Unilever PLC</name></applicant-name><srep-established srep-established="yes"/><srep-invention-title title-approval="yes"/><srep-abstract abs-approval="yes"/><srep-figure-to-publish figinfo="none"/><srep-info-admin><srep-office><addressbook><text>MN</text></addressbook></srep-office><date-search-report-mailed><date>20200826</date></date-search-report-mailed></srep-info-admin></srep-info><srep-for-pub><srep-fields-searched><minimum-documentation><classifications-ipcr><classification-ipcr><text>A61K</text></classification-ipcr><classification-ipcr><text>A61Q</text></classification-ipcr></classifications-ipcr></minimum-documentation></srep-fields-searched><srep-citations><citation id="sr-cit0001"><patcit dnum="WO2016192923A1" id="sr-pcit0001" url="http://v3.espacenet.com/textdoc?DB=EPODOC&amp;IDX=WO2016192923&amp;CY=ep"><document-id><country>WO</country><doc-number>2016192923</doc-number><kind>A1</kind><name>UNILEVER PLC [GB]; UNILEVER NV [NL]; CONOPCO INC D/B/A UNILEVER [US]</name><date>20161208</date></document-id></patcit><category>X</category><rel-claims>1-17</rel-claims><category>Y</category><rel-claims>2-6,15</rel-claims><rel-passage><passage>* page 4, line 4 - line 6; claims 1,2,4 *</passage></rel-passage><rel-passage><passage>* page 4, line 24 *</passage></rel-passage></citation><citation id="sr-cit0002"><patcit dnum="WO2014082951A2" id="sr-pcit0002" url="http://v3.espacenet.com/textdoc?DB=EPODOC&amp;IDX=WO2014082951&amp;CY=ep"><document-id><country>WO</country><doc-number>2014082951</doc-number><kind>A2</kind><name>UNILEVER PLC [GB]; UNILEVER NV [NL]; CONOPCO INC DBA UNILEVER [US]</name><date>20140605</date></document-id></patcit><category>X</category><rel-claims>1,4,16</rel-claims><category>Y</category><rel-claims>4</rel-claims><rel-passage><passage>* claims 1,3 *</passage></rel-passage><rel-passage><passage>* page 11, last paragraph *</passage></rel-passage></citation><citation id="sr-cit0003"><patcit dnum="EP2921173A1" id="sr-pcit0003" url="http://v3.espacenet.com/textdoc?DB=EPODOC&amp;IDX=EP2921173&amp;CY=ep"><document-id><country>EP</country><doc-number>2921173</doc-number><kind>A1</kind><name>OMYA INT AG [CH]</name><date>20150923</date></document-id></patcit><category>X</category><rel-claims>1,16</rel-claims><rel-passage><passage>* paragraph [0092]; claims 3,4,10,13 *</passage></rel-passage></citation><citation id="sr-cit0004"><patcit dnum="US2018250203A1" id="sr-pcit0004" url="http://v3.espacenet.com/textdoc?DB=EPODOC&amp;IDX=US2018250203&amp;CY=ep"><document-id><country>US</country><doc-number>2018250203</doc-number><kind>A1</kind><name>KIM JONG-HOON [KR] ET AL</name><date>20180906</date></document-id></patcit><category>X</category><rel-claims>1,16</rel-claims><rel-passage><passage>* claims 1,5,7 *</passage></rel-passage></citation><citation id="sr-cit0005"><patcit dnum="WO2014023466A1" id="sr-pcit0005" url="http://v3.espacenet.com/textdoc?DB=EPODOC&amp;IDX=WO2014023466&amp;CY=ep"><document-id><country>WO</country><doc-number>2014023466</doc-number><kind>A1</kind><name>UNILEVER PLC [GB]; UNILEVER NV [NL]; CONOPCO INC DBA UNILEVER [US]</name><date>20140213</date></document-id></patcit><category>Y,D</category><rel-claims>3,5</rel-claims><rel-passage><passage>* claim 1 *</passage></rel-passage></citation><citation id="sr-cit0006"><patcit dnum="WO2014023465A1" id="sr-pcit0006" url="http://v3.espacenet.com/textdoc?DB=EPODOC&amp;IDX=WO2014023465&amp;CY=ep"><document-id><country>WO</country><doc-number>2014023465</doc-number><kind>A1</kind><name>UNILEVER PLC [GB]; UNILEVER NV [NL]; CONOPCO INC [US]</name><date>20140213</date></document-id></patcit><category>Y,D</category><rel-claims>4</rel-claims><rel-passage><passage>* claim 1 *</passage></rel-passage></citation><citation id="sr-cit0007"><patcit dnum="WO2015067422A1" id="sr-pcit0007" url="http://v3.espacenet.com/textdoc?DB=EPODOC&amp;IDX=WO2015067422&amp;CY=ep"><document-id><country>WO</country><doc-number>2015067422</doc-number><kind>A1</kind><name>UNILEVER PLC [GB]; UNILEVER NV [NL]; CONOPCO INC DBA UNILEVER [US]</name><date>20150514</date></document-id></patcit><category>Y,D</category><rel-claims>2</rel-claims><rel-passage><passage>* claim 1 *</passage></rel-passage></citation><citation id="sr-cit0008"><patcit dnum="US2006292090A1" id="sr-pcit0008" url="http://v3.espacenet.com/textdoc?DB=EPODOC&amp;IDX=US2006292090&amp;CY=ep"><document-id><country>US</country><doc-number>2006292090</doc-number><kind>A1</kind><name>SHARMA DEEPAK [US] ET AL</name><date>20061228</date></document-id></patcit><category>Y</category><rel-claims>6</rel-claims><rel-passage><passage>* paragraph [0029]; claims 1,11 *</passage></rel-passage></citation><citation id="sr-cit0009"><patcit dnum="US2004241110A1" id="sr-pcit0009" url="http://v3.espacenet.com/textdoc?DB=EPODOC&amp;IDX=US2004241110&amp;CY=ep"><document-id><country>US</country><doc-number>2004241110</doc-number><kind>A1</kind><name>LEE SANG-HO [KR]</name><date>20041202</date></document-id></patcit><category>Y</category><rel-claims>15</rel-claims><rel-passage><passage>* claim 1; example all *</passage></rel-passage></citation><citation id="sr-cit0010"><nplcit id="sr-ncit0001" npl-type="s"><article><author><name>ENSANYA ABOU NEEL ET AL</name></author><atl>Demineralization-remineralization dynamics in teeth and bone</atl><serial><sertitle>INTERNATIONAL JOURNAL OF NANOMEDICINE</sertitle><pubdate>20160919</pubdate><vid>Volume 11</vid><doi>10.2147/IJN.S107624</doi></serial><location><pp><ppf>4743</ppf><ppl>4763</ppl></pp></location><refno>XP055723429</refno></article></nplcit><category>T</category><rel-passage><passage>* page 4748 *</passage></rel-passage></citation></srep-citations><srep-admin><examiners><primary-examiner><name>Verrucci, Marinella</name></primary-examiner></examiners><srep-office><addressbook><text>Munich</text></addressbook></srep-office><date-search-completed><date>20200818</date></date-search-completed></srep-admin><!--							The annex lists the patent family members relating to the patent documents cited in the above mentioned European search report.							The members are as contained in the European Patent Office EDP file on							The European Patent Office is in no way liable for these particulars which are merely given for the purpose of information.							For more details about this annex : see Official Journal of the European Patent Office, No 12/82						--><srep-patent-family><patent-family><priority-application><document-id><country>WO</country><doc-number>2016192923</doc-number><kind>A1</kind><date>20161208</date></document-id></priority-application><family-member><document-id><country>BR</country><doc-number>112017023476</doc-number><kind>A2</kind><date>20180724</date></document-id></family-member><family-member><document-id><country>CL</country><doc-number>2017003088</doc-number><kind>A1</kind><date>20180511</date></document-id></family-member><family-member><document-id><country>CN</country><doc-number>107743387</doc-number><kind>A</kind><date>20180227</date></document-id></family-member><family-member><document-id><country>EA</country><doc-number>201792164</doc-number><kind>A1</kind><date>20180531</date></document-id></family-member><family-member><document-id><country>EP</country><doc-number>3302405</doc-number><kind>A1</kind><date>20180411</date></document-id></family-member><family-member><document-id><country>PH</country><doc-number>12017502037</doc-number><kind>A1</kind><date>20180411</date></document-id></family-member><family-member><document-id><country>US</country><doc-number>2018125625</doc-number><kind>A1</kind><date>20180510</date></document-id></family-member><family-member><document-id><country>WO</country><doc-number>2016192923</doc-number><kind>A1</kind><date>20161208</date></document-id></family-member></patent-family><patent-family><priority-application><document-id><country>WO</country><doc-number>2014082951</doc-number><kind>A2</kind><date>20140605</date></document-id></priority-application><family-member><document-id><country>AR</country><doc-number>093606</doc-number><kind>A1</kind><date>20150610</date></document-id></family-member><family-member><document-id><country>BR</country><doc-number>112015011842</doc-number><kind>A2</kind><date>20170711</date></document-id></family-member><family-member><document-id><country>CL</country><doc-number>2015001408</doc-number><kind>A1</kind><date>20150828</date></document-id></family-member><family-member><document-id><country>CN</country><doc-number>104837468</doc-number><kind>A</kind><date>20150812</date></document-id></family-member><family-member><document-id><country>EP</country><doc-number>2925280</doc-number><kind>A2</kind><date>20151007</date></document-id></family-member><family-member><document-id><country>PH</country><doc-number>12015500847</doc-number><kind>A1</kind><date>20150622</date></document-id></family-member><family-member><document-id><country>WO</country><doc-number>2014082951</doc-number><kind>A2</kind><date>20140605</date></document-id></family-member></patent-family><patent-family><priority-application><document-id><country>EP</country><doc-number>2921173</doc-number><kind>A1</kind><date>20150923</date></document-id></priority-application><family-member><document-id><country>AR</country><doc-number>099786</doc-number><kind>A1</kind><date>20160817</date></document-id></family-member><family-member><document-id><country>AU</country><doc-number>2015233384</doc-number><kind>A1</kind><date>20160922</date></document-id></family-member><family-member><document-id><country>BR</country><doc-number>112016021680</doc-number><kind>A2</kind><date>20181204</date></document-id></family-member><family-member><document-id><country>CA</country><doc-number>2941527</doc-number><kind>A1</kind><date>20150924</date></document-id></family-member><family-member><document-id><country>CL</country><doc-number>2016002258</doc-number><kind>A1</kind><date>20170210</date></document-id></family-member><family-member><document-id><country>CN</country><doc-number>106132421</doc-number><kind>A</kind><date>20161116</date></document-id></family-member><family-member><document-id><country>DK</country><doc-number>3119408</doc-number><kind>T3</kind><date>20200316</date></document-id></family-member><family-member><document-id><country>EP</country><doc-number>2921173</doc-number><kind>A1</kind><date>20150923</date></document-id></family-member><family-member><document-id><country>EP</country><doc-number>3119408</doc-number><kind>A1</kind><date>20170125</date></document-id></family-member><family-member><document-id><country>ES</country><doc-number>2777504</doc-number><kind>T3</kind><date>20200805</date></document-id></family-member><family-member><document-id><country>IL</country><doc-number>247634</doc-number><kind>A</kind><date>20200630</date></document-id></family-member><family-member><document-id><country>JP</country><doc-number>6352520</doc-number><kind>B2</kind><date>20180704</date></document-id></family-member><family-member><document-id><country>JP</country><doc-number>2017508812</doc-number><kind>A</kind><date>20170330</date></document-id></family-member><family-member><document-id><country>KR</country><doc-number>20160134795</doc-number><kind>A</kind><date>20161123</date></document-id></family-member><family-member><document-id><country>MX</country><doc-number>361430</doc-number><kind>B</kind><date>20181206</date></document-id></family-member><family-member><document-id><country>PL</country><doc-number>3119408</doc-number><kind>T3</kind><date>20200629</date></document-id></family-member><family-member><document-id><country>RU</country><doc-number>2016141139</doc-number><kind>A</kind><date>20180424</date></document-id></family-member><family-member><document-id><country>SG</country><doc-number>11201607509R</doc-number><kind>A</kind><date>20161028</date></document-id></family-member><family-member><document-id><country>TW</country><doc-number>201536336</doc-number><kind>A</kind><date>20151001</date></document-id></family-member><family-member><document-id><country>US</country><doc-number>2017157171</doc-number><kind>A1</kind><date>20170608</date></document-id></family-member><family-member><document-id><country>US</country><doc-number>2020061105</doc-number><kind>A1</kind><date>20200227</date></document-id></family-member><family-member><document-id><country>UY</country><doc-number>36035</doc-number><kind>A</kind><date>20151030</date></document-id></family-member><family-member><document-id><country>WO</country><doc-number>2015140308</doc-number><kind>A1</kind><date>20150924</date></document-id></family-member><family-member><document-id><country>ZA</country><doc-number>201607255</doc-number><kind>B</kind><date>20180530</date></document-id></family-member></patent-family><patent-family><priority-application><document-id><country>US</country><doc-number>2018250203</doc-number><kind>A1</kind><date>20180906</date></document-id></priority-application><family-member><document-id><country>AU</country><doc-number>2016319622</doc-number><kind>A1</kind><date>20180426</date></document-id></family-member><family-member><document-id><country>CN</country><doc-number>107949373</doc-number><kind>A</kind><date>20180420</date></document-id></family-member><family-member><document-id><country>EP</country><doc-number>3348257</doc-number><kind>A1</kind><date>20180718</date></document-id></family-member><family-member><document-id><country>HK</country><doc-number>1249022</doc-number><kind>A1</kind><date>20181026</date></document-id></family-member><family-member><document-id><country>JP</country><doc-number>2018532712</doc-number><kind>A</kind><date>20181108</date></document-id></family-member><family-member><document-id><country>TW</country><doc-number>201713318</doc-number><kind>A</kind><date>20170416</date></document-id></family-member><family-member><document-id><country>US</country><doc-number>2018250203</doc-number><kind>A1</kind><date>20180906</date></document-id></family-member><family-member><document-id><country>WO</country><doc-number>2017043800</doc-number><kind>A1</kind><date>20170316</date></document-id></family-member></patent-family><patent-family><priority-application><document-id><country>WO</country><doc-number>2014023466</doc-number><kind>A1</kind><date>20140213</date></document-id></priority-application><family-member><document-id><country>BR</country><doc-number>112015002531</doc-number><kind>A2</kind><date>20170704</date></document-id></family-member><family-member><document-id><country>CL</country><doc-number>2015000284</doc-number><kind>A1</kind><date>20150828</date></document-id></family-member><family-member><document-id><country>CN</country><doc-number>104684618</doc-number><kind>A</kind><date>20150603</date></document-id></family-member><family-member><document-id><country>EA</country><doc-number>201590141</doc-number><kind>A1</kind><date>20150730</date></document-id></family-member><family-member><document-id><country>EP</country><doc-number>2882499</doc-number><kind>A1</kind><date>20150617</date></document-id></family-member><family-member><document-id><country>PH</country><doc-number>12015500239</doc-number><kind>A1</kind><date>20150330</date></document-id></family-member><family-member><document-id><country>WO</country><doc-number>2014023466</doc-number><kind>A1</kind><date>20140213</date></document-id></family-member></patent-family><patent-family><priority-application><document-id><country>WO</country><doc-number>2014023465</doc-number><kind>A1</kind><date>20140213</date></document-id></priority-application><family-member><document-id><country>BR</country><doc-number>112015002551</doc-number><kind>A2</kind><date>20170704</date></document-id></family-member><family-member><document-id><country>CL</country><doc-number>2015000283</doc-number><kind>A1</kind><date>20151002</date></document-id></family-member><family-member><document-id><country>CN</country><doc-number>104684619</doc-number><kind>A</kind><date>20150603</date></document-id></family-member><family-member><document-id><country>EA</country><doc-number>201590140</doc-number><kind>A1</kind><date>20150730</date></document-id></family-member><family-member><document-id><country>EP</country><doc-number>2882500</doc-number><kind>A1</kind><date>20150617</date></document-id></family-member><family-member><document-id><country>PH</country><doc-number>12015500240</doc-number><kind>A1</kind><date>20150330</date></document-id></family-member><family-member><document-id><country>WO</country><doc-number>2014023465</doc-number><kind>A1</kind><date>20140213</date></document-id></family-member></patent-family><patent-family><priority-application><document-id><country>WO</country><doc-number>2015067422</doc-number><kind>A1</kind><date>20150514</date></document-id></priority-application><family-member><document-id><country>BR</country><doc-number>112016007010</doc-number><kind>A2</kind><date>20170801</date></document-id></family-member><family-member><document-id><country>CL</country><doc-number>2016001019</doc-number><kind>A1</kind><date>20170224</date></document-id></family-member><family-member><document-id><country>CN</country><doc-number>105682747</doc-number><kind>A</kind><date>20160615</date></document-id></family-member><family-member><document-id><country>EP</country><doc-number>3065833</doc-number><kind>A1</kind><date>20160914</date></document-id></family-member><family-member><document-id><country>WO</country><doc-number>2015067422</doc-number><kind>A1</kind><date>20150514</date></document-id></family-member></patent-family><patent-family><priority-application><document-id><country>US</country><doc-number>2006292090</doc-number><kind>A1</kind><date>20061228</date></document-id></priority-application><text>NONE</text></patent-family><patent-family><priority-application><document-id><country>US</country><doc-number>2004241110</doc-number><kind>A1</kind><date>20041202</date></document-id></priority-application><family-member><document-id><country>KR</country><doc-number>20040103043</doc-number><kind>A</kind><date>20041208</date></document-id></family-member><family-member><document-id><country>US</country><doc-number>2004241110</doc-number><kind>A1</kind><date>20041202</date></document-id></family-member></patent-family></srep-patent-family></srep-for-pub></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="US5270031A"><document-id><country>US</country><doc-number>5270031</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0007]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="US5374417A"><document-id><country>US</country><doc-number>5374417</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0002">[0007]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="WO2014023466A"><document-id><country>WO</country><doc-number>2014023466</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0003">[0008]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="WO2014023465A"><document-id><country>WO</country><doc-number>2014023465</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0004">[0008]</crossref></li>
+<li><patcit id="ref-pcit0005" dnum="WO2015067422A"><document-id><country>WO</country><doc-number>2015067422</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0005">[0008]</crossref></li>
+<li><patcit id="ref-pcit0006" dnum="US5164172A"><document-id><country>US</country><doc-number>5164172</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0006">[0027]</crossref></li>
+<li><patcit id="ref-pcit0007" dnum="WO2008015117A"><document-id><country>WO</country><doc-number>2008015117</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0007">[0042]</crossref><crossref idref="pcit0008">[0045]</crossref></li>
+<li><patcit id="ref-pcit0008" dnum="WO2012031786A"><document-id><country>WO</country><doc-number>2012031786</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0009">[0047]</crossref></li>
+<li><patcit id="ref-pcit0009" dnum="WO2012031785A"><document-id><country>WO</country><doc-number>2012031785</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0010">[0047]</crossref></li>
+<li><patcit id="ref-pcit0010" dnum="DE03942643A"><document-id><country>DE</country><doc-number>03942643</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0011">[0048]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="s"><article><author><name>STOKES' LAW</name></author><atl/><serial><sertitle>Micromeritics SediGraph® 5100 Particle Size Analysis System Operator's Manual</sertitle><pubdate><sdate>19900000</sdate><edate/></pubdate><vid>2.03</vid></serial></article></nplcit><crossref idref="ncit0001">[0025]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

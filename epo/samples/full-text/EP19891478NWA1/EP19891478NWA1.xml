@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19891478A1" file="EP19891478NWA1.xml" lang="en" country="EP" doc-number="3888996" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3888996</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19891478.0</B210><B220><date>20191129</date></B220><B240><B241><date>20200827</date></B241></B240><B250>zh</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>201811440770</B310><B320><date>20181129</date></B320><B330><ctry>CN</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>B61C  17/00        20060101AFI20200605BHEP        </text></classification-ipcr></B510EP><B540><B541>de</B541><B542>VERFAHREN UND SYSTEM ZUR BETRIEBSSTEUERUNG EINES HOCHGESCHWINDIGKEITSZUGS</B542><B541>en</B541><B542>HIGH-SPEED TRAIN OPERATION CONTROL METHOD AND SYSTEM</B542><B541>fr</B541><B542>PROCÉDÉ ET SYSTÈME DE COMMANDE DE FONCTIONNEMENT DE TRAIN À GRANDE VITESSE</B542></B540><B590><B598>1</B598></B590></B500><B700><B710><B711><snm>CRRC Changchun Railway Vehicles Co., Ltd.</snm><iid>101814524</iid><irf>007720840</irf><adr><str>No 2001 Changke Road</str><city>Changchun, Jilin 130000</city><ctry>CN</ctry></adr></B711></B710><B720><B721><snm>WANG, Huawei</snm><adr><str>No 2001 ChangKe Road Changchun</str><city>Jilin 130000</city><ctry>CN</ctry></adr></B721><B721><snm>LIU, Guoliang</snm><adr><str>No 2001 ChangKe Road Changchun</str><city>Jilin 130000</city><ctry>CN</ctry></adr></B721><B721><snm>WANG, Zhongyao</snm><adr><str>No 2001 ChangKe Road Changchun</str><city>Jilin 130000</city><ctry>CN</ctry></adr></B721><B721><snm>ZHENG, Hengliang</snm><adr><str>No 2001 ChangKe Road Changchun</str><city>Jilin 130000</city><ctry>CN</ctry></adr></B721><B721><snm>SHEN, Di</snm><adr><str>No 2001 ChangKe Road Changchun</str><city>Jilin 130000</city><ctry>CN</ctry></adr></B721></B720><B740><B741><snm>Mewburn Ellis LLP</snm><iid>101783151</iid><adr><str>Aurora Building 
+Counterslip</str><city>Bristol BS1 6BX</city><ctry>GB</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>CN2019121871</anum></dnum><date>20191129</date></B861><B862>zh</B862></B860><B870><B871><dnum><pnum>WO2020108599</pnum></dnum><date>20200604</date><bnum>202023</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">A high-speed train operation control method. On the basis of a train network control system and an ATO system installed on a high-speed train, the method comprises: the train network control system communicates with the ATO system by means of a communication interface (S11); the train network control system negotiates with the ATO system to activate an automatic driving mode (S12); the train network control system receives train operation control signals sent by the ATO system and detects whether the communication with the ATO system is normal (S13); and if yes, send a train operation control signal to a corresponding hardware system in the high-speed train to control the hardware system to perform corresponding operations (S14). Also provided is a high-speed train operation control system. The present method and system can ensure the validity of the train operation control signals and improve the reliability of automatic driving.<img id="iaf01" file="imgaf001.tif" wi="78" he="86" img-content="drawing" img-format="tif"/></p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<p id="p0001" num="0001">The present application claims the priority to <patcit id="pcit0001" dnum="CN201811440770" dnum-type="L"><text>Chinese Patent Application No.201811440770.2, titled "HIGH-SPEED TRAIN OPERATION CONTROL METHOD AND SYSTEM", filed on November 29, 2018</text></patcit> with the National Intellectual Property Administration, PRC, which is incorporated herein by reference in its entirety.</p>
+<heading id="h0001"><b>FIELD</b></heading>
+<p id="p0002" num="0002">The present disclosure relates to the field of controlling rail trains, and in particular to an operation control method and an operation control system for a high-speed train.</p>
+<heading id="h0002"><b>BACKGROUND</b></heading>
+<p id="p0003" num="0003">At present, railway passenger transportation is developing rapidly in China. High-speed trains, such as high-speed Electric Multiple Units with a speed of 350 kilometers per hour, provide a fast travel way for passengers, which greatly saving the traveling time of the passengers.</p>
+<p id="p0004" num="0004">Based on the above, it is still required to improve intelligence of high-speed trains, which may be realized by performing automatic train operation of high-speed trains. However, a problem is how to perform automatic train operation of a high-speed train.</p>
+<heading id="h0003"><b>SUMMARY</b></heading>
+<p id="p0005" num="0005">To solve the above technical problems, an operation control method and an operation control system for a high-speed train are provided according to the embodiments of the present disclosure to realize automatic train operation while ensuring effectiveness of a train operation control signal, thereby improving reliability of automatic train operation. Technical solutions are described as follows.</p>
+<p id="p0006" num="0006">The operation control method for a high-speed train is performed based on a train network control system and an ATO system installed on the high-speed train, and the operation control method includes:<!-- EPO <DP n="2"> -->
+<ul id="ul0001" list-style="none">
+<li>communicating, by the train network control system, with the ATO system via a communication interface;</li>
+<li>negotiating, by the train network control system with the ATO system, to activate an automatic operation mode;</li>
+<li>receiving, by the train network control system, a train operation control signal sent by the ATO system, and determining, by the train network control system, whether communication between the train network control system and the ATO system is performed normally; and</li>
+<li>sending, if the communication between the train network control system and the ATO system is performed normally, the train operation control signal to a hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal.</li>
+</ul></p>
+<p id="p0007" num="0007">In an embodiment, the negotiating, by the train network control system with the ATO system, to activate an automatic operation mode includes:
+<ul id="ul0002" list-style="none">
+<li>activating, by the ATO system, the automatic operation mode if the ATO system operates normally and receives a signal sent by the train network control system for indicating that the high-speed train is allowed to operate in the automatic operation mode;</li>
+<li>determining, by the train network control system, whether the ATO system activates the automatic operation mode; and</li>
+<li>sending, if the ATO system activates the automatic operation mode, a prompt information for indicating that the ATO system activates the automatic operation mode, and activating, if an automatic operation mode activating signal inputted by a driver is detected, the automatic operation mode.</li>
+</ul></p>
+<p id="p0008" num="0008">In an embodiment, the signal for indicating that the high-speed train is allowed to operate in the automatic operation mode is sent by:
+<ul id="ul0003" list-style="none" compact="compact">
+<li>determining, by the train network control system, whether each of conditions in a condition group is not met, where the condition group includes the following conditions:
+<ul id="ul0004" list-style="none">
+<li>tractions to a preset number or more of units of the high-speed train are removed,</li>
+<li>an air brake of at least one of the units of the high-speed train is unavailable,</li>
+<li>speed limiting protection is performed for the high-speed train,<!-- EPO <DP n="3"> --></li>
+<li>the high-speed train automatically applies service braking,</li>
+<li>the high-speed train applies emergency braking,</li>
+<li>the high-speed train maintains braking isolation, and</li>
+<li>the high-speed train detects an ineffective communication state of the ATO system; and</li>
+</ul></li>
+<li>sending, if each of the conditions in the condition group is not met, the signal for indicating that the high-speed train is allowed to operate in the automatic operation mode to the ATO system.</li>
+</ul></p>
+<p id="p0009" num="0009">In an embodiment, the determining whether communication between the train network control system and the ATO system is operated normally includes:<br/>
+determining whether a life signal of a control port of the ATO system and a life signal of a state port of the ATO system are continuously updated.</p>
+<p id="p0010" num="0010">In an embodiment, the train operation control signal includes a fresh air control signal. The sending the train operation control signal to a hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal includes:
+<ul id="ul0005" list-style="none">
+<li>acquiring information about a distance between the high-speed train and a tunnel entrance from the fresh air control signal;</li>
+<li>determining whether the distance between the high-speed train and the tunnel entrance is not greater than a preset distance threshold; and</li>
+<li>sending, if the distance between the high-speed train and the tunnel entrance is not greater than the preset distance threshold, a fresh air damper closing command to an air conditioning system of the high-speed train to control the air conditioning system of the high-speed train to close a fresh air damper.</li>
+</ul></p>
+<p id="p0011" num="0011">In an embodiment, the train operation control signal includes a traction and braking control signal. The sending the train operation control signal to a hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal includes: sending the traction and braking control signal to a traction and braking system of the high-speed train to control the traction and braking system to<!-- EPO <DP n="4"> --> perform traction and braking. The method further includes: sending, by the train network control system, a traction and braking percentage of the traction and braking system to a display system of the high-speed train, to display the traction and braking percentage of the traction and braking system by the display system.</p>
+<p id="p0012" num="0012">In an embodiment, before the sending the train operation control signal to a hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal, the method further includes:
+<ul id="ul0006" list-style="none">
+<li>determining whether the high-speed train is allowed to operate in the automatic operation mode, wherein</li>
+<li>if the high-speed train is allowed to operate in the automatic operation mode, the train operation control signal is sent to the hardware system of the high-speed train to control the hardware system to perform the operation based on the train operation control signal; and</li>
+<li>if the high-speed train is not allowed to operate in the automatic operation mode, no train operation control signal is sent to the hardware system of the high-speed train.</li>
+</ul></p>
+<p id="p0013" num="0013">The operation control system for a high-speed train includes a train network control system and an ATO system that are installed on the high-speed train. The train network control system is configured to:
+<ul id="ul0007" list-style="none">
+<li>communicate with the ATO system via a communication interface;</li>
+<li>negotiate with the ATO system to activate an automatic operation mode;</li>
+<li>receive a train operation control signal sent by the ATO system;</li>
+<li>determine whether communication between the train network control system and the ATO system is performed normally; and</li>
+<li>send, if the communication between the train network control system and the ATO system is performed normally, the train operation control signal to a hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal.</li>
+</ul></p>
+<p id="p0014" num="0014">In an embodiment, for negotiating with each other to activate the automatic operation mode,
+<ul id="ul0008" list-style="none">
+<li>the ATO system is configured to activate the automatic operation mode if the ATO<!-- EPO <DP n="5"> --> system operates normally and receives a signal sent by the train network control system for indicating that the high-speed train is allowed to operate in the automatic operation mode, and</li>
+<li>the train network control system is further configured to:
+<ul id="ul0009" list-style="none">
+<li>determine whether the ATO system activates the automatic operation mode; and</li>
+<li>send, if the ATO system activates the automatic operation mode, a prompt information for indicating that the ATO system activates the automatic operation mode, and activate, if an automatic operation mode activating signal inputted by a driver is detected, the automatic operation mode.</li>
+</ul></li>
+</ul></p>
+<p id="p0015" num="0015">In an embodiment, for sending the signal for indicating that the high-speed train is allowed to operate in the automatic operation mode, the train network control system is further configured to:
+<ul id="ul0010" list-style="none" compact="compact">
+<li>determine whether each of conditions in a condition group is not met, where the condition group includes the following conditions:
+<ul id="ul0011" list-style="none">
+<li>tractions to a preset number or more of units of the high-speed train are removed,</li>
+<li>an air brake of at least one of the units of the high-speed train is unavailable,</li>
+<li>speed limiting protection is performed for the high-speed train,</li>
+<li>the high-speed train automatically applies service braking,</li>
+<li>the high-speed train applies emergency braking,</li>
+<li>the high-speed train maintains braking isolation, and</li>
+<li>the high-speed train detects an ineffective communication state of the ATO system; and</li>
+</ul></li>
+<li>send, if each of the conditions in the condition group is not met, the signal for indicating that the high-speed train is allowed to operate in the automatic operation mode to the ATO system.</li>
+</ul></p>
+<p id="p0016" num="0016">In an embodiment, for determining whether communication between the train network control system and the ATO system is operated normally, the train network control system is further configured to:<br/>
+determine whether a life signal of a control port of the ATO system and a life signal of a<!-- EPO <DP n="6"> --> state port of the ATO system are continuously updated.</p>
+<p id="p0017" num="0017">In an embodiment, the train operation control signal includes a fresh air control signal. For sending the train operation control signal to the hardware system of the high-speed train to control the hardware system to perform the operation based on the train operation control signal, the train network control system is further configured to:
+<ul id="ul0012" list-style="none">
+<li>acquire information about a distance between the high-speed train and a tunnel entrance from the fresh air control signal;</li>
+<li>determine whether the distance between the high-speed train and the tunnel entrance is not greater than a preset distance threshold; and</li>
+<li>send, if the distance between the high-speed train and the tunnel entrance is not greater than the preset distance threshold, a fresh air damper closing command to an air conditioning system of the high-speed train to control the air conditioning system of the high-speed train to close a fresh air damper.</li>
+</ul></p>
+<p id="p0018" num="0018">In an embodiment, the train operation control signal includes a traction and braking control signal. For sending the train operation control signal to the hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal, the train network control system is further configured to: send the traction and braking control signal to a traction and braking system of the high-speed train to control the traction and braking system to perform traction and braking. The train network control system is further configured to send a traction and braking percentage of the traction and braking system to a display system of the high-speed train, to display the traction and braking percentage of the traction and braking system by the display system.</p>
+<p id="p0019" num="0019">In an embodiment, before sending the train operation control signal to the hardware system of the high-speed train to control the hardware system to perform the operation based on the train operation control signal, the train network control system is further configured to:
+<ul id="ul0013" list-style="none">
+<li>determine whether the high-speed train is allowed to operate in the automatic operation mode, where</li>
+<li>if the high-speed train is allowed to operate in the automatic operation mode, the train network control system sends the train operation control signal to the hardware system of the high-speed train to control the hardware system to perform the operation based on the train<!-- EPO <DP n="7"> --> operation control signal; and</li>
+<li>if the high-speed train is not allowed to operate in the automatic operation mode, the train network control system sends no train operation control signal to the hardware system of the high-speed train.</li>
+</ul></p>
+<p id="p0020" num="0020">Compared with the conventional technology, the following beneficial effects can be achieved according to the present disclosure.</p>
+<p id="p0021" num="0021">According to the present disclosure, the train network control system installed on the high-speed train communicates with the ATO system installed on the high-speed train via the communication interface, to ensure an information interaction between the train network control system and the ATO system. Based on the above, the train network control system negotiates with the ATO system to activate an automatic operation mode, which is considered as a promise for the train network control system and the ATO system to cooperatively perform automatic train operation of the high-speed train. After negotiating with each other to activate the automatic operation mode, the train network control system receives a train operation control signal sent by the ATO system, and determines whether the communication between the train network control system and the ATO system is performed normally before sending the train operation control signal. If the communication between the train network control system and the ATO system is performed normally, the train network control system sends the train operation control signal to a hardware system of the high-speed train to perform automatic train operation while ensuring the effectiveness of the train operation control signal, thereby improving the reliability of the automatic train operation.</p>
+<heading id="h0004"><b>BRIEF DESCRIPTION OF THE DRAWINGS</b></heading>
+<p id="p0022" num="0022">The drawings to be used in the description of the embodiments will be described briefly as follows, so that the technical solutions according to the embodiments of the present disclosure will become clearer. It is apparent that the drawings in the following description only illustrate some embodiments of the present disclosure. For those skilled in the art, other drawings may be obtained according to these drawings without any creative work.
+<ul id="ul0014" list-style="none">
+<li><figref idref="f0001">Figure 1</figref> is a flow chart of an operation control method for a high-speed train according to an embodiment of the present disclosure;<!-- EPO <DP n="8"> --></li>
+<li><figref idref="f0002">Figure 2</figref> is a flow chart of a sub-process of an operation control method for a high-speed train according to an embodiment of the present disclosure;</li>
+<li><figref idref="f0003">Figure 3</figref> is a flow chart of an operation control method for a high-speed train according to another embodiment of the present disclosure; and</li>
+<li><figref idref="f0004">Figure 4</figref> is a schematic diagram of a logical structure of an operation control system for a high-speed train according to an embodiment of the present disclosure.</li>
+</ul></p>
+<heading id="h0005"><b>DETAILED DESCRIPTION OF EMBODIMENTS</b></heading>
+<p id="p0023" num="0023">Technical solutions according to embodiments of the present disclosure are described clearly and completely hereinafter in conjunction with drawings used in the embodiments of the present disclosure. Apparently, the described embodiments are only some embodiments of the present disclosure rather than all the embodiments. Any other embodiments obtained by those skilled in the art based on the embodiments of the present disclosure without any creative work fall in the scope of protection of the present disclosure.</p>
+<p id="p0024" num="0024">According to an embodiment of the present disclosure, an operation control method for a high-speed train is provided, which is performed based on a train network control system and an auto train operation (ATO) system that are installed on the high-speed train. The method includes: communicating, by the train network control system, with the ATO system via a communication interface; negotiating, by the train network control system with the ATO system, to activate an automatic operation mode; receiving, by the train network control system, a train operation control signal sent by the ATO system, and determining, by the train network control system, whether communication between the train network control system and the ATO system is performed normally; and sending, if the communication between the train network control system and the ATO system is performed normally, the train operation control signal to a hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal. According to the present disclosure, automatic train operation can be performed while ensuring the effectiveness of the train operation control signal, thereby improving reliability of the automatic train operation.</p>
+<p id="p0025" num="0025">The operation control method for a high-speed train according to the embodiment of the present disclosure is described as follows. It should be noted that the operation control method for a high-speed train is performed based on a train network control system and an<!-- EPO <DP n="9"> --> ATO system that are installed on the high-speed train. Referring to <figref idref="f0001">Figure 1</figref>, the method may include the following steps S11 to S14.</p>
+<p id="p0026" num="0026">In step S11, the train network control system communicates with the ATO system via a communication interface.</p>
+<p id="p0027" num="0027">The train network control system communicates with the ATO system via the communication interface, such that network signals may be transmitted between the train network control system and the ATO system.</p>
+<p id="p0028" num="0028">In the embodiment, for detailed content of the network signals, reference may be made to the following Table 1.
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>Table 1</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="79mm"/>
+<colspec colnum="2" colname="col2" colwidth="87mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle">Signal sent by the ATO system to the train network control system</entry>
+<entry align="center" valign="middle">Signal sent by the train network control system to the ATO system</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">ATO life signal</entry>
+<entry align="center" valign="middle">Life signal</entry></row>
+<row>
+<entry align="center" valign="middle">ATO effectiveness</entry>
+<entry align="center" valign="middle">Signal for effective "ATO starting" button</entry></row>
+<row>
+<entry align="center" valign="middle">Traction/braking command state flag</entry>
+<entry align="center" valign="middle">AO/MC (door automatically opening/door manually closing)</entry></row>
+<row>
+<entry align="center" valign="middle">Traction control amount</entry>
+<entry align="center" valign="middle">MO/MC(door manually opening/door manually closing)</entry></row>
+<row>
+<entry align="center" valign="middle">Braking control amount</entry>
+<entry align="center" valign="middle">Feedback for ATO effectiveness command</entry></row>
+<row>
+<entry align="center" valign="middle">Holding braking applying command</entry>
+<entry align="center" valign="middle">Feedback for the traction/braking command state flag</entry></row>
+<row>
+<entry align="center" valign="middle">Right door opening command</entry>
+<entry align="center" valign="middle">Feedback for the traction control amount</entry></row>
+<row>
+<entry align="center" valign="middle">Left door opening command</entry>
+<entry align="center" valign="middle">Feedback for a braking control level</entry></row>
+<row>
+<entry align="center" valign="middle">Constant speed command</entry>
+<entry align="center" valign="middle">Feedback for the holding braking applying command of the ATO</entry></row>
+<row>
+<entry align="center" valign="middle">Constant target speed</entry>
+<entry align="center" valign="middle">Feedback for the right door opening command</entry></row><!-- EPO <DP n="10"> -->
+<row>
+<entry align="center" valign="middle">"ATO Starting" light</entry>
+<entry align="center" valign="middle">Feedback for the left door opening command</entry></row>
+<row>
+<entry align="center" valign="middle">ATO heartbeat</entry>
+<entry align="center" valign="middle">Feedback for Constant speed</entry></row>
+<row>
+<entry align="center" valign="middle">ATO fault information</entry>
+<entry align="center" valign="middle">Door state</entry></row>
+<row>
+<entry align="center" valign="middle">Kilometer mark</entry>
+<entry align="center" valign="middle">Skidding</entry></row>
+<row>
+<entry align="center" valign="middle">Distance to Tunnel entrance</entry>
+<entry align="center" valign="middle">idling</entry></row>
+<row>
+<entry align="center" valign="middle">Tunnel length</entry>
+<entry align="center" valign="middle">Grouping information</entry></row>
+<row>
+<entry align="center" valign="middle">ATO speed</entry>
+<entry align="center" valign="middle">Train weight</entry></row>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">Signal for indicating that EMUs are allowed to be controlled by the ATO</entry></row>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">Main circuit breaker state</entry></row>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">Manual opening is allowed</entry></row>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">ATP opening is allowed</entry></row>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">Reasons why EMUs is not allowed to be controlled by the ATO</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0029" num="0029">In an embodiment, the communication interface may be a multiple vehicle bus (MVB) interface.</p>
+<p id="p0030" num="0030">In addition to that the network signals may be transmitted between the ATO system and the high-speed train via communication interfaces, hardware signals may also be transmitted between the ATO system and the high-speed trains via hardware interfaces. For detailed content of the hardware signals, reference may be made to the following Table 2.
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>Table 2</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="84mm"/>
+<colspec colnum="2" colname="col2" colwidth="82mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Signal outputted by the ATO system to the high-speed train</entry>
+<entry align="center" valign="top">Signal outputted by the high-speed train to the ATO system</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">Left door opening allowed signal</entry>
+<entry align="center">Zero position for traction and braking handle combination</entry></row>
+<row>
+<entry align="center">Right door opening allowed signal</entry>
+<entry align="center">State of a left door opening button</entry></row>
+<row>
+<entry align="center">Left door opening command</entry>
+<entry align="center">State of a left door closing button</entry></row><!-- EPO <DP n="11"> -->
+<row>
+<entry align="center">Right door opening command</entry>
+<entry align="center">State of a right door opening button</entry></row>
+<row>
+<entry align="center">Signal for ATO effectiveness</entry>
+<entry align="center">State of a right door closing button</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0031" num="0031">It should be noted that the train network control system may be produced by a train manufacturer and installed on the high-speed train before leaving the factory. The ATO system may be purchased by a user (such as the China Railway Corporation) and installed on the high-speed train before leaving the factory.</p>
+<p id="p0032" num="0032">In step S12, the train network control system negotiates with the ATO system to activate an automatic operation mode.</p>
+<p id="p0033" num="0033">The train network control system may negotiate with the ATO system to activate the automatic operation mode under intervention of a driver. The process of negotiating with each other to activate the automatic operation mode under intervention of a driver may include the following operations. The train network control system determines whether the high-speed train meets a condition for operating in an automatic operation mode, and sends a signal for indicating whether the high-speed train meets the condition for operating in the automatic operation mode to the ATO system based on a determination result. The ATO system determines whether the ATO system itself meets a condition for operating in the automatic operation mode, and after receiving the signal for indicating that the high-speed train is allowed to operate in the automatic operation mode that is sent by the train network control system, the ATO system sends a signal (0 and 1 are sent alternately) for indicating that the ATO system is operatable in the automatic operation mode to the train network control system. The train network control system turns on an ATO starting light on an operation panel of the driver in response to the signal. When the driver finds that the ATO starting light is flickering, the driver presses a button of the ATO starting light, such that the train operates the automatic operation mode.</p>
+<p id="p0034" num="0034">In step S13, the train network control system receives a train operation control signal sent by the ATO system, and determines whether communication between the train network control system and the ATO system is performed normally.</p>
+<p id="p0035" num="0035">In a case that the train network control system and the ATO system activate the automatic operation mode after negotiating with each other, the ATO system may send the train operation control signal to the train network control system to perform automatic train<!-- EPO <DP n="12"> --> operation.</p>
+<p id="p0036" num="0036">The train network control system may receive the train operation control signal sent by the ATO system. To ensure the reliability of the automatic train operation, the train network control system is required to determine whether the communication between the train network control system and the ATO system is performed normally before sending the train operation control signal to a hardware system of the high-speed train.</p>
+<p id="p0037" num="0037">If the communication between the train network control system and the ATO system is performed normally, step S14 is performed. If the communication between the train network control system and the ATO system is not performed normally, no train operation control signal is sent to the hardware system of the high-speed train, to avoid sending an ineffective train operation control signal to the hardware system of the high-speed train, thereby improving the reliability of the automatic train operation.</p>
+<p id="p0038" num="0038">In step S14, the train operation control signal is sent to the hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal.</p>
+<p id="p0039" num="0039">In a case of determining that the communication between the train network control system and the ATO system is performed normally in step S13, the train network control system sends the train operation control signal to the hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal, thereby realizing automatic train operation of the high-speed train.</p>
+<p id="p0040" num="0040">According to the present disclosure, the train network control system installed on the high-speed train communicates with the ATO system installed on the high-speed train via the communication interface, to ensure an information interaction between the train network control system and the ATO system. Based on the above, the train network control system negotiates with the ATO system to activate an automatic operation mode, which is considered as a promise for the train network control system and the ATO system to cooperatively perform automatic train operation of the high-speed train. After negotiating with each other to activate the automatic operation mode, the train network control system receives a train operation control signal sent by the ATO system, and determines whether the communication between the train network control system and the ATO system is performed normally before sending the train operation control signal. If the communication between the train network<!-- EPO <DP n="13"> --> control system and the ATO system is performed normally, the train network control system sends the train operation control signal to a hardware system in the high-speed train to perform automatic train operation while ensuring the effectiveness of the train operation control signal, thereby improving the reliability of the automatic train operation.</p>
+<p id="p0041" num="0041">According to another embodiment of the present disclosure, the process of the train network control system negotiating with the ATO system to activate an automatic operation mode is described. Referring to <figref idref="f0002">Figure 2</figref>, the process includes the following steps S21 to S23.</p>
+<p id="p0042" num="0042">In step S21, the ATO system activates the automatic operation mode if the ATO system operates normally and receives a signal sent by the train network control system for indicating that the high-speed train is allowed to operate in an automatic operation mode.</p>
+<p id="p0043" num="0043">In a condition that the ATO system operates normally and the ATO system receives the signal sent by the train network control system for indicating that the high-speed train is allowed to operate in an automatic operation mode, the ATO system activates the automatic operation mode, thereby improving the reliability of automatic train operation.</p>
+<p id="p0044" num="0044">In step S22, the train network control system determines whether the ATO system activates the automatic operation mode.</p>
+<p id="p0045" num="0045">The process of the train network control system determining whether the ATO system activates the automatic operation mode includes the following operations. The train network control system determines whether a notification information for indicating that the automatic operation mode is activated is received from the ATO system; or the train network control system determines whether an ATO effectiveness dry contact signal indicates a closed state and an ATO effectiveness signal in a communication signal is in an effective state. If the ATO system activates the automatic operation mode, step S23 is performed.</p>
+<p id="p0046" num="0046">In step S23, a prompt information for indicating that the ATO system activates the automatic operation mode is sent, and the automatic operation mode is activated if an automatic operation mode activating signal inputted by a driver is detected.</p>
+<p id="p0047" num="0047">In the embodiment, the prompt information for indicating that the ATO system activates the automatic operation mode may be sent by controlling the ATO starting light in the cab to be turned on. Specifically, the ATO starting light in the cab may be controlled to maintain at a continuous-ON state or a flickering state.<!-- EPO <DP n="14"> --></p>
+<p id="p0048" num="0048">In a case that the ATO starting light in the cab is turned on, the driver may input the automatic operation mode activating signal by pressing the button of the ATO starting light. Specifically, if the train network control system detects that the button of the ATO starting light is switched from an unpressed state to a pressed state and maintains at the pressed state for more than a predetermined time duration, the train network control system determines that the state of the button of the ATO starting light is effective, sends an effective button signal to the ATO system, and activates the automatic operation mode.</p>
+<p id="p0049" num="0049">According to another embodiment of the present disclosure, the process of sending the signal for indicating that the high-speed train is allowed to operate in an automatic operation mode includes the following steps A11 and A12.</p>
+<p id="p0050" num="0050">In step A11, the train network control system determines whether each of conditions in a condition group is not met.</p>
+<p id="p0051" num="0051">The condition group includes following conditions: tractions to a preset number or more of units of the high-speed train are removed; an air brake of at least one of the units of the high-speed train is unavailable; speed limiting protection is performed for the high-speed train; the high-speed train automatically applies service braking; the high-speed train applies emergency braking; the high-speed train maintains braking isolation; and the high-speed train detects an ineffective communication state the ATO system.</p>
+<p id="p0052" num="0052">If each of the conditions in the condition group is not met, step A12 is performed.</p>
+<p id="p0053" num="0053">The train network control system may determine that the high-speed train is allowed to operate in the automatic operation mode in a case of determining that each of the conditions in the condition group is not met.</p>
+<p id="p0054" num="0054">In step A12, the signal for indicating that the high-speed train is allowed to operate in the automatic operation mode is sent to the ATO system.</p>
+<p id="p0055" num="0055">In a case of determining that the high-speed train is allowed to operate in the automatic operation mode in step A11, the train network control system sends the signal for indicating that the high-speed train is allowed to operate in the automatic operation mode to the ATO system.</p>
+<p id="p0056" num="0056">According to another embodiment of the present disclosure, the process of determining whether communication between the train network control system and the ATO<!-- EPO <DP n="15"> --> system is performed normally is described, which may include:<br/>
+determining whether a life signal of a control port of the ATO system and a life signal of a state port of the ATO system are continuously updated.</p>
+<p id="p0057" num="0057">The control port is configured to transmit control information, and the state port is configured to transmit state information.</p>
+<p id="p0058" num="0058">In the embodiment, the continuously updating of the life signal of the control port may indicate that the control port may normally transmit information, and the continuously updating of the life signal of the state port may indicate that the state port may normally transmit information. Therefore, whether the communication between the train network control system and the ATO system is performed normally may be determined by determining whether the life signal of the control port of the ATO system and the life signal of the state port the ATO system are continuously updated.</p>
+<p id="p0059" num="0059">Specifically, whether the life signal of the control port of the ATO system and the life signal of the state port of the ATO system are continuously updated may be determined by:<br/>
+determining whether the life signal of the control port of the ATO system and the life signal of the state port of the ATO system are updated at a predetermined time interval.</p>
+<p id="p0060" num="0060">According to another embodiment of the present disclosure, the train operation control signal is described. The train operation control signal may include, but is not limited to, a fresh air control signal. The fresh air control signal may be a fresh air control signal sent when a high-speed train enters or exits a tunnel. The fresh air control signal contains information about a distance between the high-speed train and a tunnel entrance or information about a distance between the high-speed train and a tunnel exit.</p>
+<p id="p0061" num="0061">Accordingly, the process of sending the train operation control signal to a hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal may include the following steps B11 to B13.</p>
+<p id="p0062" num="0062">In step B11, information about a distance between the high-speed train and a tunnel entrance is acquired from the fresh air control signal.</p>
+<p id="p0063" num="0063">In step B12, it is determined whether the distance between the high-speed train and the tunnel entrance is not greater than a preset distance threshold. If the distance between the<!-- EPO <DP n="16"> --> high-speed train and the tunnel entrance is not greater than the preset distance threshold, step B13 is performed.</p>
+<p id="p0064" num="0064">In step B13, a fresh air damper closing command is sent to an air conditioning system of the high-speed train to control the air conditioning system of the high-speed train to close a fresh air damper.</p>
+<p id="p0065" num="0065">In the embodiment, the fresh air damper is closed before the high-speed train enters the tunnel, such that the fresh air damper of the air conditioning system is closed in time when the high-speed train enters the tunnel, thereby avoiding an excessive difference between pressures inside and outside the high-speed train, thus avoiding causing discomfort to a human body.</p>
+<p id="p0066" num="0066">Therefore, the process of sending the train operation control signal to a hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal may include the following steps C11 to C13.</p>
+<p id="p0067" num="0067">In step C11, information about a distance between the high-speed train and a tunnel exit is acquired from the fresh air control signal.</p>
+<p id="p0068" num="0068">In step C12, it is determined whether the distance between the high-speed train and the tunnel exit is not greater than a preset distance threshold. If the distance between the high-speed train and the tunnel exit is not greater than the preset distance threshold, step C13 is performed.</p>
+<p id="p0069" num="0069">In step C13, a fresh air damper opening command is sent to the air conditioning system of the high-speed train to control the air conditioning system of the high-speed train to open the fresh air damper.</p>
+<p id="p0070" num="0070">In the embodiment, the air conditioning system may be controlled to open the fresh air damper before the high-speed train is to exit the tunnel, such that the air conditioning system can normally provide fresh air when the high-speed train exits the tunnel, thereby improving the comfort of the passengers.</p>
+<p id="p0071" num="0071">According to another embodiment of the present disclosure, another train operation control signal is described. The train operation control signal may include, but is not limited to, a traction and braking control signal.</p>
+<p id="p0072" num="0072">Accordingly, the process of sending the train operation control signal to a hardware<!-- EPO <DP n="17"> --> system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal may include:<br/>
+sending the traction and braking control signal to a traction and braking system of the high-speed train to control the traction and braking system to perform traction and braking.</p>
+<p id="p0073" num="0073">Accordingly, in the above embodiment, after the step S14, the operation control method may further include:<br/>
+sending, by the train network control system, a traction and braking percentage of the traction and braking system to a display system of the high-speed train, to display the traction and braking percentage of the traction and braking system by the display system.</p>
+<p id="p0074" num="0074">In the embodiment, the traction and braking percentage of the traction and braking system is displayed by the display system, such that the condition of traction and braking can be shown intuitively.</p>
+<p id="p0075" num="0075">According to another embodiment of the present disclosure, another train operation control signal is described. The train operation control signal may include: a constant speed command signal or a holding braking applying command signal.</p>
+<p id="p0076" num="0076">In a case that the train operation control signal is a constant speed command signal, the process of sending the train operation control signal to a hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal may include: sending the constant speed command signal to a hardware system of the high-speed train to control the high-speed train to travel at a constant speed.</p>
+<p id="p0077" num="0077">The constant speed command signal may contain a constant target speed, and the high-speed train travels at the constant target speed.</p>
+<p id="p0078" num="0078">In a case that the train operation control signal is a holding braking applying command signal, the process of sending the train operation control signal to a hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal may include: sending the holding braking applying command signal to a braking system of the high-speed train to control the braking system to determine whether to apply holding braking based on a condition of the braking system itself.</p>
+<p id="p0079" num="0079">The train network control system may further control the braking system to perform<!-- EPO <DP n="18"> --> a holding braking releasing operation. The holding braking releasing operation may be performed to cancel an air braking force applied to a braking pad.</p>
+<p id="p0080" num="0080">According to the embodiments described above, in the automatic operation mode, the train network control system may receive a designated train speed sent by the ATO system, and control the high-speed train to travel at the designated train speed.</p>
+<p id="p0081" num="0081">According to the present disclosure, the train network control system may detect a state of an "ATP door opening allowed" selective switch, and display the state of the "ATP door opening allowed" selective switch in a door state interface of a display screen. If the state of the "ATP door opening allowed" selective switch is manually selected, "manual allowed" is displayed; and if the state of the "ATP open door allowed" selective switch is ATP selected, "ATP allowed" is displayed.</p>
+<p id="p0082" num="0082">An ATP system installed on the high-speed train may superimpose a "left door opening allowed" signal or a "right door opening allowed" signal to a " left door releasing" or "right door releasing" hardwire control signal of the high-speed train by using a relay dry contact. In addition, the train network control system may turn on a "door releasing" indicator light based on the above control signal.</p>
+<p id="p0083" num="0083">According to another embodiment of the present disclosure, an operation control method for a high-speed train is described. Referring to <figref idref="f0003">Figure 3</figref>, the operation control method may include the following steps S31 to S36.</p>
+<p id="p0084" num="0084">In step S31, the train network control system communicates with the ATO system via a communication interface.</p>
+<p id="p0085" num="0085">In step S32, the train network control system and the ATO system negotiate with each other to activate an automatic operation mode.</p>
+<p id="p0086" num="0086">In step S33, the train network control system receives a train operation control signal sent by the ATO system, and determines whether communication between the train network control system and the ATO system is performed normally. If the communication between the train network control system and the ATO system is performed normally, step S34 is performed.</p>
+<p id="p0087" num="0087">Steps S31 to S33 are the same as steps S11 to S13 in the above embodiment. Detailed processes of steps S31 to S33 may refer to the description of steps S11 to S13, which<!-- EPO <DP n="19"> --> is not repeated herein.</p>
+<p id="p0088" num="0088">In step S34, it is determined whether the high-speed train is allowed to operate in the automatic operation mode.</p>
+<p id="p0089" num="0089">If the high-speed train is allowed to operate in the automatic operation mode, step S35 is performed; and if the high-speed train is not allowed to operate in the automatic operation mode, step S36 is performed.</p>
+<p id="p0090" num="0090">The detailed process of step S34 may refer to the description of step S11 in the above embodiment, which is not repeated herein.</p>
+<p id="p0091" num="0091">In step S35, the train operation control signal is sent to a hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal.</p>
+<p id="p0092" num="0092">In the embodiment, if the communication between the train network control system and the ATO system is performed normally and the high-speed train is allowed to operate in the automatic operation mode, the train operation control signal is sent to a hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal, thereby further improving the reliability of the automatic train operation.</p>
+<p id="p0093" num="0093">In step S36, no train operation control signal is sent to the hardware system of the high-speed train.</p>
+<p id="p0094" num="0094">In a case of determining that the high-speed train is not allowed to operate in the automatic operation mode in step S34, no train operation control signal (such as a traction and braking control signal, a constant speed command signal, a holding braking applying command signal or a door opening command signal) to the hardware system of the high-speed train, such that no ineffective control signal is sent to a hardware system of the high-speed train, thereby improving the reliability of the automatic train operation.</p>
+<p id="p0095" num="0095">Next, the operation control system for a high-speed train according to the present disclosure is described as follows. The operation control system for a high-speed train described below and the operation control method for a high-speed train described above may refer to each other.</p>
+<p id="p0096" num="0096">Referring to <figref idref="f0004">Figure 4</figref>, the operation control system for a high-speed train includes: a<!-- EPO <DP n="20"> --> train network control system 11 and an ATO system 12.</p>
+<p id="p0097" num="0097">The train network control system 11 and the ATO system 12 are installed on the high-speed train. The train network control system 11 is configured to: communicate with the ATO system 12 via a communication interface; negotiate with the ATO system 12 to activate an automatic operation mode; and receive a train operation control signal sent by the ATO system 12, determine whether communication between the train network control system 11 and the ATO system 12 is performed normally, and send, if the communication between the train network control system 11 and the ATO system 12 is performed normally, the train operation control signal to a hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal.</p>
+<p id="p0098" num="0098">In the embodiment, the process that the train network control system 11 and the ATO system 12 negotiates with each other to activate an automatic operation mode may include the following operations.</p>
+<p id="p0099" num="0099">The ATO system 12 activates the automatic operation mode if the ATO system 12 determines that the ATO system 12 operates normally and receives a signal sent by the train network control system 11 for indicating that the high-speed train is allowed to operate in an automatic operation mode.</p>
+<p id="p0100" num="0100">The train network control system 11 determines whether the ATO system 12 activates the automatic operation mode.</p>
+<p id="p0101" num="0101">If the ATO system 12 activates the automatic operation mode, the train network control system 11 sends a prompt information for indicating that the ATO system 12 activates the automatic operation mode, and activate the automatic operation mode if an activate automatic operation mode signal inputted by a driver is detected.</p>
+<p id="p0102" num="0102">In the embodiment, the process that the train network control system 11 sends the signal for indicating that the high-speed train is allowed to operate in an automatic operation mode includes the following operations.</p>
+<p id="p0103" num="0103">The train network control system 11 determines whether each of conditions in a condition group is not met. The condition group includes following conditions: tractions to a preset number or more of units of the high-speed train are removed; an air brake of at least one of the units of the high-speed train is unavailable; speed limiting protection is performed<!-- EPO <DP n="21"> --> for the high-speed train; the high-speed train automatically applies service braking; the high-speed train applies emergency braking; the high-speed train maintains braking isolation; and the high-speed train detects an ineffective communication state of the ATO system.</p>
+<p id="p0104" num="0104">If each of the conditions in the condition group is not met, the train network control system 11 sends the signal for indicating that the high-speed train is allowed to operate in an automatic operation mode to the ATO system 12.</p>
+<p id="p0105" num="0105">In the embodiment, the process that the train network control system 11 determines whether communication between the train network control system 11 and the ATO system 12 is performed normally includes the following operation.</p>
+<p id="p0106" num="0106">The train network control system 11 determines whether a life signal of a control port of the ATO system 12 and a life signal of a state port of the ATO system 12 are continuously updated.</p>
+<p id="p0107" num="0107">In the embodiment, the train operation control signal includes a fresh air control signal.</p>
+<p id="p0108" num="0108">Accordingly, the process that the train network control system 11 sends the train operation control signal to a hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal includes the following operations.</p>
+<p id="p0109" num="0109">The train network control system 11 acquires information about a distance between the high-speed train and a tunnel entrance from the fresh air control signal.</p>
+<p id="p0110" num="0110">The train network control system 11 determines whether the distance between the high-speed train and the tunnel entrance is not greater than a preset distance threshold.</p>
+<p id="p0111" num="0111">If the distance between the high-speed train and the tunnel entrance is not greater than the preset distance threshold, the train network control system 11 sends a fresh air damper closing command to an air conditioning system of the high-speed train to control the air conditioning system of the high-speed train to close a fresh air damper.</p>
+<p id="p0112" num="0112">In the embodiment, the train operation control signal includes a traction and braking control signal.</p>
+<p id="p0113" num="0113">Accordingly, the process that the train network control system 11 sends the train<!-- EPO <DP n="22"> --> operation control signal to a hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal includes the following operations.</p>
+<p id="p0114" num="0114">The train network control system 11 sends the traction and braking control signal to a traction and braking system of the high-speed train to control the traction and braking system to perform traction and braking.</p>
+<p id="p0115" num="0115">The train network control system 11 is further configured to send a traction and braking percentage of the traction and braking system to a display system of the high-speed train to display the traction and braking percentage of the traction and braking system by the display system.</p>
+<p id="p0116" num="0116">In the embodiment, before sending the train operation control signal to a hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal, the train network control system 11 is further configured to determine whether the high-speed train is allowed to operate in the automatic operation mode. If the high-speed train is allowed to operate the automatic operation mode, the train network control system 11 sends the train operation control signal to the hardware system of the high-speed train to control the hardware system to perform the operation based on the train operation control signal. If the high-speed train is not allowed to operate in the automatic operation mode, the train network control system 11 sends no train operation control signal to the hardware system of the high-speed train.</p>
+<p id="p0117" num="0117">It should be noted that the embodiments in this specification are described in a progressive way, each of which emphasizes the differences from others, and the same or similar parts among the embodiments can be referred to each other. Since the device disclosed in the embodiments corresponds to the method therein, the description thereof is relatively simple, and for relevant matters references may be made to the description of the method.</p>
+<p id="p0118" num="0118">It should be further noted that the relationship terminologies such as "first", "second" and the like are only used herein to distinguish one entity or operation from another, rather than to necessitate or imply that the actual relationship or order exists between the entities or operations. Furthermore, terms of "include", "comprise" or any other variants are intended to be non-exclusive. Therefore, a process, method, article or device including a plurality of elements includes not only the elements but also other elements that are not<!-- EPO <DP n="23"> --> enumerated, or also include the elements inherent for the process, method, article or device. Unless expressively limited otherwise, the statement "comprising (including) one... " does not exclude the case that other similar elements may exist in the process, method, article or device.</p>
+<p id="p0119" num="0119">For the convenience of description, the device is divided into various units by function and described separately. Apparently, the functions of each unit may be realized in the same one or more software and/or hardware in implementing the present disclosure.</p>
+<p id="p0120" num="0120">According to the embodiments described above, those skilled in the art can clearly know that the present disclosure may be implemented by means of software in conjunction with necessary general-purpose hardware. According to such understanding, essential parts or parts contributing to the conventional technology of technical solutions of the present disclosure may be embodied as a computer software product. The computer software product may be stored in a storage medium, such as, a ROM/RAM, a disk, or an optical disc, and the computer software product includes multiple instructions for controlling a computer device (which may be a personal computer, a server or a network device or the like) to perform the methods described in the embodiments of the present disclosure or described in parts of the embodiments.</p>
+<p id="p0121" num="0121">An operation control method and an operation control system for a high-speed train are described in detail hereinbefore. The principle and the embodiments of the present disclosure are illustrated herein by specific examples. The above description of examples is only intended to help the understanding of the method and idea of the present disclosure. For those skilled in the art, modification may be made to the specific embodiment and application range according to the concept of the present disclosure. In summary, the contents of this specification should not be interpreted as limitation to the present disclosure.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="24"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>An operation control method for a high-speed train, wherein the operation control method is performed based on a train network control system and an ATO system installed on the high-speed train, the operation control method comprising:
+<claim-text>communicating, by the train network control system, with the ATO system via a communication interface;</claim-text>
+<claim-text>negotiating, by the train network control system with the ATO system, to activate an automatic operation mode;</claim-text>
+<claim-text>receiving, by the train network control system, a train operation control signal sent by the ATO system, and determining, by the train network control system, whether communication between the train network control system and the ATO system is performed normally; and</claim-text>
+<claim-text>sending, if the communication between the train network control system and the ATO system is performed normally, the train operation control signal to a hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The method according to claim 1, wherein the negotiating, by the train network control system with the ATO system, to activate an automatic operation mode comprises:
+<claim-text>activating, by the ATO system, the automatic operation mode if the ATO system operates normally and receives a signal sent by the train network control system for indicating that the high-speed train is allowed to operate in the automatic operation mode;</claim-text>
+<claim-text>determining, by the train network control system, whether the ATO system activates the automatic operation mode; and</claim-text>
+<claim-text>sending, if the ATO system activates the automatic operation mode, a prompt information for indicating that the ATO system activates the automatic operation mode, and activating, if an automatic operation mode activating signal inputted by a driver is detected, the automatic operation mode.</claim-text></claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The method according to claim 2, wherein the signal for indicating that the high-speed train is allowed to operate in the automatic operation mode is sent by:<!-- EPO <DP n="25"> -->
+<claim-text>determining, by the train network control system, whether each of conditions in a condition group is not met, wherein the condition group comprises the following conditions:
+<claim-text>tractions to a preset number or more of units of the high-speed train are removed,</claim-text>
+<claim-text>an air brake of at least one of the units of the high-speed train is unavailable,</claim-text>
+<claim-text>speed limiting protection is performed for the high-speed train,</claim-text>
+<claim-text>the high-speed train automatically applies service braking,</claim-text>
+<claim-text>the high-speed train applies emergency braking,</claim-text>
+<claim-text>the high-speed train maintains braking isolation, and</claim-text>
+<claim-text>the high-speed train detects an ineffective communication state of the ATO system; and</claim-text></claim-text>
+<claim-text>sending, if each of the conditions in the condition group is not met, the signal for indicating that the high-speed train is allowed to operate in the automatic operation mode to the ATO system.</claim-text></claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The method according to claim 1, wherein the determining whether communication between the train network control system and the ATO system is operated normally comprises:<br/>
+determining whether a life signal of a control port of the ATO system and a life signal of a state port of the ATO system are continuously updated.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The method according to claim 1, wherein
+<claim-text>the train operation control signal comprises a fresh air control signal, and</claim-text>
+<claim-text>the sending the train operation control signal to a hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal comprises:
+<claim-text>acquiring information about a distance between the high-speed train and a tunnel entrance from the fresh air control signal;</claim-text>
+<claim-text>determining whether the distance between the high-speed train and the tunnel entrance is not greater than than a preset distance threshold; and</claim-text>
+<claim-text>sending, if the distance between the high-speed train and the tunnel entrance is not<!-- EPO <DP n="26"> --> greater than the preset distance threshold, a fresh air damper closing command to an air conditioning system of the high-speed train to control the air conditioning system of the high-speed train to close a fresh air damper.</claim-text></claim-text></claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The method according to claim 1, wherein
+<claim-text>the train operation control signal comprises a traction and braking control signal,</claim-text>
+<claim-text>the sending the train operation control signal to a hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal comprises:<br/>
+sending the traction and braking control signal to a traction and braking system of the high-speed train to control the traction and braking system to perform traction and braking, and wherein</claim-text>
+<claim-text>the method further comprises:<br/>
+sending, by the train network control system, a traction and braking percentage of the traction and braking system to a display system of the high-speed train, to display the traction and braking percentage of the traction and braking system by the display system.</claim-text></claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The method according to claim 1, before the sending the train operation control signal to a hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal, the method further comprises:
+<claim-text>determining whether the high-speed train is allowed to operate in the automatic operation mode, wherein</claim-text>
+<claim-text>if the high-speed train is allowed to operate in the automatic operation mode, the train operation control signal is sent to the hardware system of the high-speed train to control the hardware system to perform the operation based on the train operation control signal; and</claim-text>
+<claim-text>if the high-speed train is not allowed to operate in the automatic operation mode, no train operation control signal is sent to the hardware system of the high-speed train.</claim-text></claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>An operation control system for a high-speed train, comprising a train network control system and an ATO system that are installed on the high-speed train, wherein<br/>
+the train network control system is configured to:<!-- EPO <DP n="27"> -->
+<claim-text>communicate with the ATO system via a communication interface;</claim-text>
+<claim-text>negotiate with the ATO system to activate an automatic operation mode;</claim-text>
+<claim-text>receive a train operation control signal sent by the ATO system;</claim-text>
+<claim-text>determine whether communication between the train network control system and the ATO system is performed normally; and</claim-text>
+<claim-text>send, if the communication between the train network control system and the ATO system is performed normally, the train operation control signal to a hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal.</claim-text></claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>The operation control system for a high-speed train according to claim 8, wherein for negotiating with each other to activate the automatic operation mode,
+<claim-text>the ATO system is configured to activate the automatic operation mode if the ATO system operates normally and receives a signal sent by the train network control system for indicating that the high-speed train is allowed to operate in the automatic operation mode, and</claim-text>
+<claim-text>the train network control system is further configured to:
+<claim-text>determine whether the ATO system activates the automatic operation mode; and</claim-text>
+<claim-text>send, if the ATO system activates the automatic operation mode, a prompt information for indicating that the ATO system activates the automatic operation mode, and activate, if an automatic operation mode activating signal inputted by a driver is detected, the automatic operation mode.</claim-text></claim-text></claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>The operation control system for a high-speed train according to claim 9, wherein for sending the signal for indicating that the high-speed train is allowed to operate in the automatic operation mode, the train network control system is further configured to:
+<claim-text>determine whether each of conditions in a condition group is not met, wherein the condition group comprises the following conditions:
+<claim-text>tractions to a preset number or more of units of the high-speed train are removed,</claim-text>
+<claim-text>an air brake of at least one of the units of the high-speed train is unavailable,</claim-text>
+<claim-text>speed limiting protection is performed for the high-speed train,<!-- EPO <DP n="28"> --></claim-text>
+<claim-text>the high-speed train automatically applies service braking,</claim-text>
+<claim-text>the high-speed train applies emergency braking,</claim-text>
+<claim-text>the high-speed train maintains braking isolation, and</claim-text>
+<claim-text>the high-speed train detects an ineffective communication state of the ATO system; and</claim-text></claim-text>
+<claim-text>send, if each of the conditions in the condition group is not met, the signal for indicating that the high-speed train is allowed to operate in the automatic operation mode to the ATO system.</claim-text></claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>The operation control system for a high-speed train according to claim 8, wherein for determining whether communication between the train network control system and the ATO system is operated normally, the train network control system is further configured to:<br/>
+determine whether a life signal of a control port of the ATO system and a life signal of a state port of the ATO system are continuously updated.</claim-text></claim>
+<claim id="c-en-0012" num="0012">
+<claim-text>The operation control system for a high-speed train according to claim 8, wherein the train operation control signal comprises a fresh air control signal, and<br/>
+for sending the train operation control signal to the hardware system of the high-speed train to control the hardware system to perform the operation based on the train operation control signal, the train network control system is further configured to:
+<claim-text>acquire information about a distance between the high-speed train and a tunnel entrance from the fresh air control signal;</claim-text>
+<claim-text>determine whether the distance between the high-speed train and the tunnel entrance is not greater than a preset distance threshold; and</claim-text>
+<claim-text>send, if the distance between the high-speed train and the tunnel entrance is not greater than the preset distance threshold, a fresh air damper closing command to an air conditioning system of the high-speed train to control the air conditioning system of the high-speed train to close a fresh air damper.</claim-text></claim-text></claim>
+<claim id="c-en-0013" num="0013">
+<claim-text>The operation control system for a high-speed train according to claim 8, wherein
+<claim-text>the train operation control signal comprises a traction and braking control signal, and<!-- EPO <DP n="29"> --></claim-text>
+<claim-text>for sending the train operation control signal to the hardware system of the high-speed train to control the hardware system to perform an operation based on the train operation control signal, the train network control system is further configured to:
+<claim-text>send the traction and braking control signal to a traction and braking system of the high-speed train to control the traction and braking system to perform traction and braking, and wherein</claim-text>
+<claim-text>the train network control system is further configured to send a traction and braking percentage of the traction and braking system to a display system of the high-speed train, to display the traction and braking percentage of the traction and braking system by the display system.</claim-text></claim-text></claim-text></claim>
+<claim id="c-en-0014" num="0014">
+<claim-text>The operation control system for a high-speed train according to claim 8, wherein before sending the train operation control signal to the hardware system of the high-speed train to control the hardware system to perform the operation based on the train operation control signal, the train network control system is further configured to:
+<claim-text>determine whether the high-speed train is allowed to operate in the automatic operation mode, wherein</claim-text>
+<claim-text>if the high-speed train is allowed to operate in the automatic operation mode, the train network control system sends the train operation control signal to the hardware system of the high-speed train to control the hardware system to perform the operation based on the train operation control signal; and</claim-text>
+<claim-text>if the high-speed train is not allowed to operate in the automatic operation mode, the train network control system sends no train operation control signal to the hardware system of the high-speed train.</claim-text></claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="30"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="137" he="152" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="31"> -->
+<figure id="f0002" num="2"><img id="if0002" file="imgf0002.tif" wi="145" he="115" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="32"> -->
+<figure id="f0003" num="3"><img id="if0003" file="imgf0003.tif" wi="150" he="197" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="33"> -->
+<figure id="f0004" num="4"><img id="if0004" file="imgf0004.tif" wi="76" he="47" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="150" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="150" he="233" type="tif"/><doc-page id="srep0003" file="srep0003.tif" wi="150" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="CN201811440770" dnum-type="L"><document-id><country>CN</country><doc-number>201811440770</doc-number><date>20181129</date></document-id></patcit><crossref idref="pcit0001">[0001]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19890687A1" file="EP19890687NWA1.xml" lang="en" country="EP" doc-number="3889066" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3889066</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19890687.7</B210><B220><date>20191120</date></B220><B240><B241><date>20210529</date></B241></B240><B250>ja</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>2018220380</B310><B320><date>20181126</date></B320><B330><ctry>JP</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>B65D  75/52        20060101AFI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>B32B  27/00        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>B65D  30/02        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>B65D  30/10        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>B65D  30/16        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="6"><text>B65D  65/40        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="7"><text>B65D  77/04        20060101ALI20200605BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>B32B  27/00        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>Y02W  30/80        20150501 LA20200801RGEP        </text></classification-cpc><classification-cpc sequence="3"><text>B65D  65/40        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="4"><text>B65D  75/52        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="5"><text>B65D  77/04        20130101 LI20200626BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>BLATTMATERIALBEHÄLTER</B542><B541>en</B541><B542>SHEET MATERIAL CONTAINER</B542><B541>fr</B541><B542>CONTENANT EN MATÉRIAU EN FEUILLE</B542></B540><B590><B598>1</B598></B590></B500><B700><B710><B711><snm>Kao Corporation</snm><iid>101731394</iid><irf>AE1826 EP</irf><adr><str>14-10, Nihonbashi Kayaba-cho 1-chome</str><city>Chuo-ku
+Tokyo 103-8210</city><ctry>JP</ctry></adr></B711></B710><B720><B721><snm>SHIBUTANI, Ryo</snm><adr><str>c/o Kao Corporation, Research Laboratories, 2-1-3,
+Bunka, Sumida-ku</str><city>Tokyo 131-8501</city><ctry>JP</ctry></adr></B721><B721><snm>INAGAWA, Yoshinori</snm><adr><str>c/o Kao Corporation, Research Laboratories, 2-1-3,
+Bunka, Sumida-ku</str><city>Tokyo 131-8501</city><ctry>JP</ctry></adr></B721><B721><snm>KODAMA, Daisuke</snm><adr><str>c/o Kao Corporation, Research Laboratories, 2-1-3,
+Bunka, Sumida-ku</str><city>Tokyo 131-8501</city><ctry>JP</ctry></adr></B721><B721><snm>OTSUKA, Takahiro</snm><adr><str>c/o Kao Corporation, Research Laboratories, 2-1-3,
+Bunka, Sumida-ku</str><city>Tokyo 131-8501</city><ctry>JP</ctry></adr></B721></B720><B740><B741><snm>Vossius &amp; Partner 
+Patentanwälte Rechtsanwälte mbB</snm><iid>101361216</iid><adr><str>Siebertstraße 3</str><city>81675 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>JP2019045491</anum></dnum><date>20191120</date></B861><B862>ja</B862></B860><B870><B871><dnum><pnum>WO2020110865</pnum></dnum><date>20200604</date><bnum>202023</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">A sheet material container includes a container body that surrounds a containing portion for accommodating a content. The container body is formed of a container body-forming sheet member formed by layering a plurality of base material films. The container body-forming sheet member includes the plurality of base material films, an attaching layer by which the base material films are attached to each other, and a filler enclosed portion that is formed between the plurality of base material films and into which a filler is to be filled. The plurality of base material films are made from the same type of resins.<img id="iaf01" file="imgaf001.tif" wi="54" he="102" img-content="drawing" img-format="tif"/></p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">TECHNICAL FIELD</heading>
+<p id="p0001" num="0001">The present invention relates to a sheet material container.</p>
+<heading id="h0002">BACKGROUND ART</heading>
+<p id="p0002" num="0002">As disclosed in Patent Document 1, for example, there is known a flexible container (sheet material container) made from a flexible material. The flexible material disclosed in Patent Document 1 includes a first laminate, a second laminate, and a seal by which the first laminate and the second laminate are partially attached. That is, the flexible material has a laminate structure. A structural support volume is defined in part between the first laminate and the second laminate, and a structural support frame is formed by filling the structural support volume with an expansion material such as air. The structure of the sheet material container is supported by this structural support frame. Thus, the thickness of the flexible material can be reduced. Therefore, waste can be reduced.<!-- EPO <DP n="2"> --></p>
+<heading id="h0003">CITATION LIST</heading>
+<p id="p0003" num="0003">PATENT DOCUMENT 1: <patcit id="pcit0001" dnum="JP2015522442W" dnum-type="L"><text>Japanese Patent Application (Translation of PCT Application) Laid-open No. 2015-522442</text></patcit></p>
+<heading id="h0004">SUMMARY OF THE INVENTION</heading>
+<p id="p0004" num="0004">According to one aspect of the present invention, there is provided a sheet material container includes a container body that surrounds a containing portion for accommodating a content. The container body is formed of a container body-forming sheet member formed by layering a plurality of base material films. The container body-forming sheet member includes the plurality of base material films, an attaching layer by which the base material films are attached to each other, and a filler enclosed portion that is formed between the plurality of base material films and into which a filler is to be filled. The plurality of base material films are made from the same type of resins.</p>
+<heading id="h0005">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p0005" num="0005">
+<ul id="ul0001" list-style="none" compact="compact">
+<li>[<figref idref="f0001">Fig. 1] Fig. 1</figref> is a perspective view illustrating an example of a sheet material container according to the present embodiment.<!-- EPO <DP n="3"> --></li>
+<li>[<figref idref="f0002">Fig. 2] Fig. 2</figref> is a perspective view illustrating an example of an inner container according to the present embodiment.</li>
+<li>[<figref idref="f0003">Fig. 3] Fig. 3</figref> is a rear view illustrating an example of the sheet material container.</li>
+<li>[<figref idref="f0004">Fig. 4] Fig. 4</figref> is a plan view illustrating an example of a cover-forming sheet member.</li>
+<li>[<figref idref="f0005">Fig. 5] Fig. 5</figref> is a plan view illustrating an example of an inner container-forming sheet member.</li>
+<li>[<figref idref="f0006">Fig. 6] Fig. 6</figref> is a plan view illustrating an example of a container forming sheet.</li>
+<li>[<figref idref="f0007">Fig. 7] Fig. 7</figref> is a perspective view illustrating another example of the sheet material container according to the present embodiment.</li>
+<li>[<figref idref="f0008">Fig. 8] Fig. 8</figref> is a cross-sectional view taken along surface VIII-VIII in the embodiment of <figref idref="f0007">Fig. 7</figref>.</li>
+<li>[<figref idref="f0009">Fig. 9] Fig. 9</figref> is a cross-sectional view illustrating an example of a layer configuration of the cover-forming sheet member and the inner container-forming sheet member according to the present embodiment.</li>
+<li>[<figref idref="f0010">Fig. 10] Fig. 10</figref> is a cross-sectional view illustrating another example of a layer configuration of the cover-forming sheet member according to the present embodiment.</li>
+<li>[<figref idref="f0011">Fig. 11] Fig. 11</figref> is a cross-sectional view illustrating still another example of a layer<!-- EPO <DP n="4"> --> configuration of the cover-forming sheet member according to the present embodiment.</li>
+<li>[<figref idref="f0012">Fig. 12] Fig. 12</figref> is a cross-sectional view illustrating an example of a layer configuration of a cover-forming sheet member and an inner container-forming sheet member according to comparative examples.</li>
+</ul></p>
+<heading id="h0006">DESCRIPTION OF EMBODIMENTS</heading>
+<p id="p0006" num="0006">There is a need for further improvement in environmental characteristics of not only the sheet material container disclosed in Patent Document 1, but also various sheet material containers. As described above, the sheet material container disclosed in Patent Document 1 enables a reduction of waste, resulting in excellent in environmental characteristics. However, there has been a room for further improvement in the environmental characteristics, in particular from the standpoint of recycling.</p>
+<p id="p0007" num="0007">The present invention relates to a sheet material container capable of improving recyclability while maintaining a function of the sheet material container.</p>
+<p id="p0008" num="0008">As described above, the present invention enables improvement in the recyclability while maintaining the function of the sheet material container.</p>
+<p id="p0009" num="0009"><!-- EPO <DP n="5"> --> Hereinafter, preferred embodiments of the present invention will be described in detail, referring to the accompanying drawings. In the present specification and the accompanying drawings, constituent elements having substantially the same functional configuration are denoted by the same reference characters, and the duplicate description thereof will not be repeated.</p>
+<heading id="h0007">&lt;1. Configuration and Manufacturing Method of Sheet Material Container&gt;</heading>
+<heading id="h0008">(1-1. Overall Configuration)</heading>
+<p id="p0010" num="0010">An overall configuration of a sheet material container 100 according to the present embodiment will be described based on <figref idref="f0001 f0002 f0003 f0004 f0005 f0006 f0007 f0008 f0009">Figs. 1 to 9</figref>. The configuration disclosed in <patcit id="pcit0002" dnum="JP6193535B"><text>Japanese Patent No. 6193535</text></patcit>, for example, can be adopted as a configuration of the sheet material container 100 according to the present embodiment. Specifically, as illustrated in <figref idref="f0001 f0002 f0003 f0004">Figs. 1 to 4</figref>, the sheet material container 100 includes an inner container 10 that accommodates a content 96 and has an opening 14 through which the content 96 can be discharged, a container body 20 that is formed of a container body-forming sheet member 120 in which a plurality of film layers 121 and 122 are layered and that covers (surrounds) the inner container 10, and an outer air introducing part 26 through which outer air is introduced<!-- EPO <DP n="6"> --> between an outer surface of the inner container 10 and an inner surface of the container body 20.</p>
+<p id="p0011" num="0011">In the sheet material container 100, the container body 20 has a bottom gusset 23, and is designed in a self-standing form. Of course, the sheet material container 100 is not limited to the self-standing form, but may be a form (pillow type) intended for use while being laid down, rather than being stood alone.</p>
+<p id="p0012" num="0012">The inner container 10 is configured to accommodate the content 96 and discharge the content 96 from the opening 14 (more specifically, a spout 30 provided in the opening 14). The content 96 may be of any type. Examples of the content 96 include not only shampoo, hair rinse, body soap, detergent, softener, beverage and food, but also engine oil and chemicals. The content 96 may be liquid (including paste), or may be solid (for example, particle (including granule), or powder).</p>
+<p id="p0013" num="0013">The container body 20 covers the entirety of the inner container 10 illustrated in <figref idref="f0002">Fig. 2</figref>, to form the outer surface of the sheet material container 100. However, it is only required that the container body 20 covers at least a portion of the inner container 10.</p>
+<p id="p0014" num="0014"><!-- EPO <DP n="7"> --> The container body-forming sheet member 120 includes a film region in which the plurality of film layers 121 and 122 are attached to each other. As illustrated in <figref idref="f0009">Fig. 9</figref>, the film layer 121 includes a base material film 121a, and an attaching layer 121b, and the film layer 122 includes a base material film 122a, and an attaching layer 122b. Accordingly, it can be also said that the container body-forming sheet member 120 has a structure in which a plurality of base material films 121a and 122a are layered. A filler enclosed portion 41 into which a filler is to be filled is formed between the base material films 121a and 122a. A detailed layer configuration of the film layers 121 and 122 will be described later.</p>
+<p id="p0015" num="0015">The filler enclosed portion 41 is formed continuously along peripheral edges of the container body 20. When the filler is filled into the filler enclosed portion 41, the rigidity as the sheet material container 100 is provided to the container body 20. That is, high self-standing property and high compression strength are provided to the container body 20. As a user discharges the content 96, the inner container 10 contracts, but the container body 20 retains its shape. After fully consuming the content 96, the user discharges the filler from the filler enclosed portion 41. This causes the container body 20 to lose rigidity, whereby the user can<!-- EPO <DP n="8"> --> easily flatten and fold the sheet material container 100 into a compact size. As a result, it is possible to expect the reduction of waste, and thus the reduction of environmental loads. Furthermore, the outer air introducing part 26 is formed in the sheet material container 100, whereby the capacity of the inner container 10 can be easily reduced independently of the container body 20. In this way, the content 96 in the inner container 10 can be easily discharged, and the content 96 can be prevented from remaining in the inner container 10.</p>
+<p id="p0016" num="0016">As described above, the filler enclosed portion 41 is formed continuously along the peripheral edges of the container body 20. However, the container body-forming sheet member 120 may include a plurality of filler enclosed portions independent from one another. Besides the filler enclosed portion 41 and the film region, the container body-forming sheet member 120 may include an area where the plurality of film layers 121 and 122 are not attached to each other and that has no filler between the plurality of film layers.</p>
+<p id="p0017" num="0017">It is more preferable that the filler enclosed portion 41 includes configurations extending in an up-down direction of the container body 20 as illustrated in both edge portions in a width direction of the container<!-- EPO <DP n="9"> --> body 20 in the sheet material container 100 having a bottom illustrated in each of <figref idref="f0001">Figs. 1</figref> and <figref idref="f0007">7</figref>, because the container rigidity can be increased to the degree that the function as the container can be sufficiently maintained even at the time of pumping. As used herein, the term "up-down direction" in the present embodiment refers to a direction in which the opening 14 and the bottom (an end opposite to the opening 14) are connected. The term "width direction" refers to a direction orthogonal to the above-described up-down direction and a base material film layer stack direction, and is a short-side direction of the container body 20 in the embodiment of <figref idref="f0001">Figs. 1</figref> and <figref idref="f0007">7</figref>. To further increase the container rigidity, at least one pair of (at least one pair of left and right) filler enclosed portions 41 extending in the up-down direction may be provided along both edge portions in the width direction of the container body 20 on each side of opposite sides across the containing portion of the container body 20 in the base material film layer stack direction.</p>
+<p id="p0018" num="0018">The outer air introducing part 26 is formed in a boundary portion between a trunk 21 and a top gusset 22 of the container body 20. For example, the outer air introducing part 26 is formed so that an inner container-forming sheet member 110 and the container body-forming sheet member 120 are not attached to each other in this<!-- EPO <DP n="10"> --> portion, whereby the outer air introducing part 26 is formed. However, the outer air introducing part 26 may be solely owned by the container body 20. In this case, the outer air introducing part 26 may be, for example, an opening formed in the container body 20. Additionally, the sheet material container 100 may include a plurality of outer air introducing parts 26.</p>
+<heading id="h0009">(1-2. Configuration of Inner Container)</heading>
+<p id="p0019" num="0019">As illustrated in <figref idref="f0002">Fig. 2</figref>, the inner container 10 includes a top gusset 12 that is formed at an upper end of the inner container 10, a bottom gusset 13 that is formed at a bottom of the inner container 10, and a trunk 11 which is a portion between the top gusset 12 and the bottom gusset 13. An inner space of the inner container 10 serves as the containing portion that accommodates the content 96.</p>
+<p id="p0020" num="0020">The inner container 10 is formed into a shape as illustrated in <figref idref="f0002">Fig. 2</figref>, by folding the inner container-forming sheet member 110 illustrated in <figref idref="f0005">Fig. 5</figref> and by attaching peripheral edge portions of the folded inner container-forming sheet member 110 to each other (for example, by heat sealing). Of course, the inner container 10 is not always necessarily formed of the sheet member, but may be formed by blow molding, for example.<!-- EPO <DP n="11"> --></p>
+<p id="p0021" num="0021">The top gusset 12 has the opening 14 through which the content 96 in the containing portion can be discharged to outside. The top gusset 12 is provided with a cylinder part 32 of the spout 30 adapted to extend through the opening 14, for example. Accordingly, the content 96 is discharged to outside through the spout 30 extending through the opening 14. The bottom gusset 13 is formed at the end opposite to the opening 14 in the inner container 10. The peripheral edge portion of the inner container 10 forms a sealed part 15 by attaching the peripheral edge portions of the inner container-forming sheet member 110 to each other.</p>
+<heading id="h0010">(1-3. Configuration of Container Body 20)</heading>
+<p id="p0022" num="0022">The container body 20 is formed into a shape as illustrated in <figref idref="f0001">Fig. 1</figref>, for example, by folding a container forming sheet 400 illustrated in <figref idref="f0006">Fig. 6</figref> (a sheet member formed by layering and attaching the inner container-forming sheet member 110 and the container body-forming sheet member 120) and by attaching the peripheral edge portions of the folded container body-forming sheet member 120 to each other or the peripheral edge portions of the folded inner container-forming sheet member 110 to each other.</p>
+<p id="p0023" num="0023"><!-- EPO <DP n="12"> --> The container body 20 includes the top gusset 22 that is formed at an upper end of the container body 20, a bottom gusset 23 that is formed at a bottom of the container body 20, and the trunk 21 which is a portion between the top gusset 22 and the bottom gusset 23. The bottom gusset 23 covers a lower face side of the bottom gusset 13, and is a portion that faces a placement surface when the sheet material container 100 is placed thereon in a self-standing manner. The top gusset 22 covers an upper face side of the top gusset 12, and has an opening 24 through which the content 96 in the containing portion of the inner container 10 can be discharged. As described later, the top gusset 22 is provided with the cylinder part 32 of the spout 30 adapted to extend through the opening 24. The trunk 21 surrounds the trunk 11.</p>
+<p id="p0024" num="0024">The peripheral edge portion of the container body 20 forms sealed parts 25 and 27. In the sealed part 25, the peripheral edge portions of the container body-forming sheet member 120 and the peripheral edge portions of the inner container-forming sheet member 110 are attached to each other. That is, the top gussets 12 and 22 are connected to each other, and the trunks 11 and 21 are connected to each other. Additionally, in the sealed part 25, the peripheral edge portions of the inner container-forming sheet member 110 are attached to each<!-- EPO <DP n="13"> --> other. Furthermore, in the sealed part 27, the peripheral edge portions of the container body-forming sheet member 120 are attached to each other. Thereby, the container body 20 is formed into a container shape covering the entirety of the inner container 10. The sheet material container 100 is configured to be capable of self-standing, when the bottom gusset 23 is placed on a horizontal placement surface.</p>
+<p id="p0025" num="0025">In this way, the container body 20 and the inner container 10 are partially attached to each other. Since the inner container 10 is thus held by the container body 20, the inner container 10 can be prevented from creasing even if the inner container 10 is made thin, and the inner container 10 is more easily collapsed flatly. Hence, the content 96 can be prevented from remaining in the inner container 10.</p>
+<p id="p0026" num="0026">However, the container body 20 and the inner container 10 are not necessarily attached over the entire range (the container body 20 and the inner container 10 are not attached at all). Even in this case, it is preferable that the inner container 10 is held inside the container body 20 by the container body 20. For example, a configuration may be adopted in which the edge portions of the inner container-forming sheet member 110 are attached to each other by outer edge portions of the<!-- EPO <DP n="14"> --> sealed part 25, and the sealed part 15 is sandwiched between inner edge portions of the sealed part 25.</p>
+<p id="p0027" num="0027">The spout 30 includes a flat plate-shaped base part 31 that is attached to the inner surface side of the inner container 10, and the cylinder part 32 that protrudes outside from the base part 31 through the opening 14 of the inner container 10 and the opening 24 of the container body 20. An outer peripheral surface of the cylinder part 32 is threaded so that a pumping cap or a cap with a check valve can be installed to the spout 30. It is preferable that the base part 31 of the spout 30 is attached to the sheet member of the top gusset 12 formed at the upper end of the inner container 10. Furthermore, the base part 31 of the spout 30 may be configured to be attached to the sheet member of the top gusset 22 formed at the upper end of the container body 20.</p>
+<p id="p0028" num="0028">The filler enclosed portion 41 is formed continuously along the peripheral edge portion of the container body 20, and the inside of the filler enclosed portion 41 is filled with the filler. Hereby, the rigidity as the sheet material container 100 can be provided to the container body 20. A part of the filler enclosed portion 41 extends toward the peripheral edge portion of the container body 20 in the vicinity of the<!-- EPO <DP n="15"> --> top gusset 22. This part is a portion that is connected to a filler introducing part 29 when the filler is filled into the filler enclosed portion 41.</p>
+<p id="p0029" num="0029">Furthermore, it is preferable that the filler enclosed portion 41 is adjacent to the base part 31 of the spout 30 on at least one of both sides or preferably on each side of opposite sides across the containing portion of the container body 20 in the base material film lamination direction, because the container rigidity at the time of pumping can be further increased. It is further preferable that the container body 20 has the above-described configuration in addition to the filler enclosed portion 41 extending in the up-down direction. As used herein, the term "adjacent" refers to a state in which the sheet member that forms the filler enclosed portion 41 extending toward the upper end side of the container body 20 (an area on the opening 14 side when the container body 20 is divided equally into three areas in the up-down direction) is substantially in contact with the base part 31 of the spout 30, as in the embodiment illustrated in <figref idref="f0007">Figs. 7</figref> and <figref idref="f0008">8</figref>. That is, the term "adjacent" refers to the state in which the above-described sheet member forming the filler enclosed portion 41 is directly in contact with the base part 31 of the spout 30 or the above-described sheet member forming the filler enclosed portion 41 and the base part<!-- EPO <DP n="16"> --> 31 of the spout 30 may be directly in contact with each other by pumping or a pressure load equivalent to the pumping in a state in which the filler is enclosed in the filler enclosed portion 41 (for example, only an inevitable gap caused by the formation of the container exists therebetween). <figref idref="f0007">Figs. 7</figref> and <figref idref="f0008">8</figref> illustrate the embodiment in which the inner container 10 is not provided.</p>
+<p id="p0030" num="0030">It is more preferable that on at least one of both sides or preferably on each side of opposite sides across the containing portion of the container body 20 in the base material film layer stack direction, at least one pair of filler enclosed portions 41 extending in the up-down direction of the container body 20 are brought into communication with each other through a filler enclosed portion 41 extending in the width direction of the container body 20 on the upper end side of the container body 20, and the filler enclosed portion 41 extending in the width direction is adjacent to the base part 31, because the filler enclosed portion 41 extending in the width direction can support the spout 30 at the time of pumping. For example, in the embodiment illustrated in <figref idref="f0007">Figs. 7</figref> and <figref idref="f0008">8</figref>, the filler enclosed portion 41 that extends in the width direction on the upper end side of the container body 20 and through which the filler enclosed portions 41 extending in the up-down direction<!-- EPO <DP n="17"> --> are brought into communication with each other is formed to be pressed to the base part 31 of the spout 30. Furthermore, at least a part of the filler enclosed portion 41 extending in the width direction extends to an inner side of the container body 20 than an outer end of the base part 31 of the spout 30 (an end opposite to a side attached to the cylinder part 32), and thereby supports the spout 30. In this embodiment, a configuration may be adopted in which the inner container 10 is further provided.</p>
+<p id="p0031" num="0031">The filler may be fluid (gas or liquid), solid (for example, particulate, resin pellet, etc.) or semi-solid (for example, foam material, etc.), and is preferably gas such as air. An internal pressure of the filler enclosed portion 41 may be any pressure, but it is preferably higher than the atmospheric pressure from the standpoint of providing sufficient rigidity to the container body 20. The internal pressure can be set to, for example, preferably not lower than 10 kPa, more preferably not lower than 20 kPa, and not higher than 500 kPa, even more preferably not higher than 100 kPa, by gauge pressure conversion.</p>
+<p id="p0032" num="0032">The container body-forming sheet member 120 forming the container body 20 is formed by layering and attaching the film layers 121 and 122 to each other (for example,<!-- EPO <DP n="18"> --> by heat sealing), as illustrated in <figref idref="f0004">Figs. 4</figref>, <figref idref="f0006">6</figref>, and <figref idref="f0009">9</figref>. Although the details will be described later, the attaching layer 121b of the film layer 121 is attached to the base material film 122a of the film layer 122.</p>
+<p id="p0033" num="0033">Here, the film layers 121 and 122 are not partially attached, whereby a non-attached portion 123 is formed. The non-attached portion 123 forms a space between the film layers 121 and 122. When the space is filled with the filler, the filler enclosed portion 41 is formed. Accordingly, the non-attached portion 123 can be formed at any portion where the formation of the filler enclosed portion 41 is desired. As a method of forming the non-attached portion 123, the following methods are mentioned, for example. That is, the non-attached portion 123 is formed by pattern-applying an attaching agent onto the base material film 121a. In this case, the non-attached portion 123 is in contact with both base material films 121a and 122a (that is, the filler enclosed portion 41 is in contact with both base material films 121a and 122a). After the attaching agent is applied to the entire surface of the base material film 121a, only a portion of the attaching layer 121b may be adapted to be attached to the base material film 122a by pattern heating or an adhesion inhibiting agent. In this case, the non-attached portion 123 is in contact with the base material film 122a (that is, the filler enclosed<!-- EPO <DP n="19"> --> portion 41 is in contact with the base material film 122a). Furthermore, after the attaching agents are applied to the entire surfaces of the base material films 121a and 122a, at least portions of the attaching layer 121b may be adapted not to be attached to each other by pattern heating or an adhesion inhibiting agent. In this case, the non-attached portion 123 is not in contact with both base material films 121a and 122a (that is, the filler enclosed portion 41 is in contact with the attaching layer 121b). In the example illustrated in <figref idref="f0009">Fig. 9</figref>, the filler enclosed portion 41 is in contact with both base material films 121a and 122a. In the example illustrated in <figref idref="f0010">Fig. 10</figref>, the filler enclosed portion 41 is in contact with the base material film 122a. In the example illustrated in <figref idref="f0011">Fig. 11</figref>, the filler enclosed portion 41 is not in contact with both base material films 121a and 122a. <figref idref="f0011">Fig. 11</figref> illustrates, for the sake of convenience, a state in which two attaching layers 121b which are in contact with the filler enclosed portion 41 are separated from each other over the entire range, but these attaching layers 121b may be partially attached to each other.</p>
+<p id="p0034" num="0034">Here, the filler introducing part 29 is formed at an end of the container body-forming sheet member 120, and a non-attached portion 123 is also formed in the filler introducing part 29. The filler introducing part 29 is a<!-- EPO <DP n="20"> --> member that introduces the filler into the non-attached portion 123.</p>
+<p id="p0035" num="0035">Examples of a method of performing the pattern heating include a method of forming a recess (groove) in a portion corresponding to the non-attached portion 123 in a die used for heat sealing the film layers 121 and 122, and a method of heating the film layers 121 and 122 while placing a spacer layer having no heat-sealing property in a portion corresponding to the non-attached portion 123 between the film layers 121 and 122.</p>
+<p id="p0036" num="0036">The adhesion inhibiting agent may be freely selectable from those capable of inhibiting attaching between the attaching layer 121b and the base material film 122a or attaching between portions of the attaching layer 121b. As the adhesion inhibiting agent, suitable employable are printing inks used for offset printing, flexographic printing and letterpress printing, medium ink, and dedicated adhesion inhibition ink, for example. Also, thermosetting or UV-curable ink can be suitably used.</p>
+<p id="p0037" num="0037">As illustrated in <figref idref="f0004">Figs. 4</figref> and <figref idref="f0006">6</figref>, the film layer 121 is formed slightly larger than the film layer 122 (excluding the filler introducing part 29), and protrudes around the periphery of the film layer 122. That is, the<!-- EPO <DP n="21"> --> peripheral edge portion of the container body-forming sheet member 120 is formed in an offset shape, and the attaching layer 121b of the film layer 121 is exposed. Accordingly, when the peripheral edge portions of the container body-forming sheet member 120 are to be attached to each other or the peripheral edge portion of the container body-forming sheet member 120 and the inner container-forming sheet member 110 are to be attached to each other, the exposed portions of the attaching layer 121b are attached to each other, or the exposed portion of the attaching layer 121b is attached to the inner container-forming sheet member 110. Of course, the film layer 122 and the film layer 121 may have the same shape. In this case, the portions of the attaching layer 122b of the film layer 122 are attached to each other, or the attaching layer 122b is attached to the inner container-forming sheet member 110.</p>
+<heading id="h0011">(1-4. Method of Manufacturing Sheet Material Container)</heading>
+<p id="p0038" num="0038">First, as illustrated in <figref idref="f0004">Figs. 4</figref>, <figref idref="f0006">6</figref>, and <figref idref="f0009">9</figref>, the container body-forming sheet member 120 is formed by layering the film layers 121 and 122 onto each other and partially attaching (for example, heat sealing) the film layers 121 and 122. That is, the film layers 121 and 122 are attached to each other so that a non-attached portion is partially provided between the film layers 121 and<!-- EPO <DP n="22"> --> 121, whereby the non-attached portion 123 is formed. Accordingly, in the container body-forming sheet member 120, the film region in which the film layers 121 and 122 are attached to each other and the non-attached portion 123 in which the film layers 121 and 122 are not attached are formed.</p>
+<p id="p0039" num="0039">Next, as illustrated in <figref idref="f0006">Fig. 6</figref>, the container body-forming sheet member 120 and the inner container-forming sheet member 110 are layered onto each other, and are partially attached to each other. In <figref idref="f0006">Fig. 6</figref>, an area where the container body-forming sheet member 120 and the inner container-forming sheet member 110 are attached to each other is hatched. That is, in the area corresponding to the top gussets 12 and 22 and the trunks 11 and 21, the peripheral edge portions of the inner container-forming sheet member 110 and the peripheral edge portions of the container body-forming sheet member 120 (that is, portions where the attaching layer 121b of the film layer 121 is exposed) are attached (for example, by heat sealing). Here, the inner container-forming sheet member 110 and the container body-forming sheet member 120 are attached to each other so that in an introducing part-forming part 117a illustrated in <figref idref="f0005">Fig. 5</figref>, the inner container-forming sheet member 110 and the container body-forming sheet member 120 are not partially attached. This non-attached portion corresponds to the<!-- EPO <DP n="23"> --> outer air introducing part 26. In this way, the container forming sheet 400 formed of the container body-forming sheet member 120 and the inner container-forming sheet member 110 is formed. Subsequently, the spout 30 is provided to the container forming sheet 400. The container forming sheet 400 is divided into a top gusset sheet part 55, a top gusset attaching part 56, a main surface sheet part 51, a bottom gusset sheet part 53, a main surface sheet part 52, and a top gusset attaching part 57.</p>
+<p id="p0040" num="0040">Subsequently, a sheet for container is formed by folding the container forming sheet 400 and by attaching the peripheral edge portions of the inner container-forming sheet member 110 to each other or the peripheral edge portions of the container body-forming sheet member 120 to each other. More specifically, the container forming sheet 400 is valley-folded along two folding lines 71 and one folding line 72, and mountain-folded at the folding line 73 and two folding lines 74.</p>
+<p id="p0041" num="0041">Here, the two folding lines 71 are boundary lines between the bottom gusset sheet part 53 and the main surface sheet part 51 and between the bottom gusset sheet part 53 and the main surface sheet part 52. The folding line 72 is a boundary line between the top gusset sheet part 55 and the top gusset attaching part 56. The<!-- EPO <DP n="24"> --> folding line 73 is a line passing through a center of the bottom gusset sheet part 53. The folding line 74 is a boundary line between the main surface sheet part 52 and the top gusset attaching part 57. The valley fold means a way of folding to make a crease protruding toward the far side in <figref idref="f0006">Fig. 6</figref>, whereas the mountain fold means a way of folding to make a crease protruding toward the near side in <figref idref="f0006">Fig. 6</figref>.</p>
+<p id="p0042" num="0042">In this way, the top gusset sheet part 55 overlaps with the top gusset attaching part 56 and the top gusset attaching part 57. The main surface sheet parts 51 and 52 (excluding respective lower end portions) overlap each other, and the lower end portions of the main surface sheet parts 51 and 52 overlap with the bottom gusset sheet part 53. In this state, the peripheral edge portions are attached.</p>
+<p id="p0043" num="0043">In this way, the sheet for container is formed. In the sheet for container, the sealed parts 25 and 27 are formed, and the inner container 10 and the container body 20 are formed. Subsequently, the filler is introduced into the non-attached portion 123 through the filler introducing part 29. As a consequence, the non-attached portion 123 expands to form the filler enclosed portion 41. The filler enclosed portion 41 provides the rigidity to the container body 20. Then, the filler enclosed<!-- EPO <DP n="25"> --> portion 41 is sealed by sealing a filler injection port in the filler introducing part 29, and then the filler introducing part 29 is removed. Furthermore, the content 96 is filled into the inner container 10 through the spout 30. There is no particular limitation on the temporal relationship between a step of filling the filler into the non-attached portion 123 and a step of filling the content 96 into the inner container 10. These steps may be performed in any order or at the same time. The sheet material container 100 is manufactured through the above-described steps. The spout 30 of the sheet material container 100 can be sealed by the pumping cap, for example.</p>
+<p id="p0044" num="0044">Although the sheet material container 100 according to the present embodiment has been described above, the sheet material container 100 according to the present embodiment is not limited, of course, to the above-described example. For example, the present embodiment is applicable to all of the sheet material containers having a configuration similar to the above-described configuration. Additionally, the sheet material container 100 need not include the inner container 10 (for example, <figref idref="f0007">Figs. 7</figref> and <figref idref="f0008">8</figref>). The present embodiment is also applicable to such a sheet material container 100.</p>
+<heading id="h0012">&lt;2. Detailed Configuration of Sheet Member&gt;</heading><!-- EPO <DP n="26"> -->
+<p id="p0045" num="0045">Next, a detailed configuration of the inner container-forming sheet member 110 and the container body-forming sheet member 120 will be described based on <figref idref="f0009 f0010 f0011">Figs. 9 to 11</figref>. The container body-forming sheet member 120 has a layer structure in which the film layers 121 and 122 are layered onto each other. The film layer 121 includes the base material film 121a, and the attaching layer 121b, and the film layer 122 includes the base material film 122a, and the attaching layer 122b. The attaching layer 121b attaches the base material films 121a and 122a. Accordingly, it can be also said that the container body-forming sheet member 120 has a structure in which a plurality of base material films 121a and 122a are layered.</p>
+<p id="p0046" num="0046">The base material films 121a and 122a has strength for maintaining the rigidity of the sheet material container 100. That is, as one of the measures to improve the environmental characteristics of the sheet material container 100, the films 121a and 122a are made thin. However, when the base material films 121a and 122a are merely made thin, the strength of the base material films 121a and 122a is reduced, whereby there is a possibility that the rigidity of the sheet material container 100 becomes insufficient. As described above, in the present embodiment, the filler enclosed portion 41 provides the rigidity to the sheet material container<!-- EPO <DP n="27"> --> 100, but extremely low strength of the base material films 121a and 122a may cause insufficient rigidity of the sheet material container 100.</p>
+<p id="p0047" num="0047">In the present embodiment, a tensile modulus of elasticity of the base material films 121a and 122a is preferably not less than 1 GPa at a room temperature (= 25°C). In this way, sufficient rigidity (for example, high compression strength) can be provided to the sheet material container 100. When the tensile modulus of elasticity of the base material films 121a and 122a is not less than 1 GPa at the room temperature (= 25°C), the sufficient rigidity can be provided to the sheet material container 100 even if the base material films 121a and 122a are made thinner. That is, the sufficient rigidity can be provided to the sheet material container 100 while the resin amount used for the container body-forming sheet member 120 is further reduced. The tensile modulus of elasticity of the base material films 121a and 122a is more preferably not less than 2 GPa at the room temperature, and even more preferably not less than 3 GPa at the room temperature. The tensile modulus of elasticity may be measured according to JIS K 7127 (Plastics - Determination of tensile properties, Part 3: Test conditions for films and sheets).</p>
+<p id="p0048" num="0048"><!-- EPO <DP n="28"> --> Examples of resins of the base material films 121a and 122a satisfying the above-described characteristics include not only polyamide-type resins such as nylon 6, nylon 11, nylon 12, nylon 46, and nylon 66, but also polyester-type resins such as polyethylene terephthalate (PET), polytrimethylene terephthalate (PTT), polybutylene terephthalate (PBT), polyethylene naphthalate (PEN), polybutylene naphthalate (PBN), polylactic acid (PLA), and polyhydroxy alkanoate (PHA), polyolefin-type resins such as polyethylene (PE), polypropylene (PP), and acrylonitrile butadiene styrene (ABS), acrylic-type resins, vinyl chloride-type resins, polycarbonate-type resins, polystyrene-type resins, ethylene-vinyl alcohol copolymer-type resins, and polyimide-type resins. The base material films 121a and 122a may be made from any one or more types of these resins. That is, the base material films 121a and 122a may be made from any one (single) type of resin or a blend of two or more types of resins among the resin types listed above. The resins forming the base material films 121a and 122a may contain other additives such as other polymeric materials, fillers (for example, glass, talc, or calcium carbonate), mold release agents, flame retardants, conductive agents, anti-static agents, pigments, antioxidants, impact modifiers, stabilizers, wetting agents, dyes, or any combination thereof.</p>
+<p id="p0049" num="0049"><!-- EPO <DP n="29"> --> Furthermore, the base material films 121a and 122a are made from the same type of resins. That is, the attributes of "-type" listed above are common between the base material films 121a and 122a. For example, in the case where the base material film 121a is made from a polyester-type resin, the base material film 122a is also made from a polyester-type resin. That is, the base material films 121a and 122a are similar in characteristics (for example, melting points and the like). In particular, it is more preferable that the base material films 121a and 122a are made from resins having the same (common) main skeleton, that is, a single type of resin. In the case where the base material films 121a and 122a are made from a blend of two or more types of resins or a copolymer resin, the phrase "made from the same type of resins" means that the main components are the same type of resins, that is, each base material film contains the same type of resin component or repeating unit in the resin component in an amount of more than 50% by mass, preferably not less than 60% by mass, more preferably not less than 70% by mass, even more preferably not less than 80% by mass, and still more preferably not less than 90%. This enables the base material films 121a and 122a to be easily separated from the sheet material container 100 after use (more specifically, from the container body-forming sheet member 120). This is because under an environment in<!-- EPO <DP n="30"> --> which the base material film 121a can be separated from the container body-forming sheet member 120, the base material film 122a can be also separated at the same time. Accordingly, the recyclability of the sheet material container 100 can be improved, and thus the environmental characteristics can be improved. Furthermore, in the case where the base material films 121a and 122a are made from the same and single type of resin, the separated resin is a single type of resin, and therefore becomes a high-quality recycled material. Accordingly, the recyclability of the sheet material container 100 is further improved. Each of the base material films 121a and 122a may have a single-layer structure of the same type of resin or a multi-layer structure formed of the same type of resins. In the case where each of the base material films 121a and 122a has a single-layer structure of the same type of resin, there is an advantage that a delamination (layer separation) may not occur in the vicinity of the filler enclosed portion 41.</p>
+<p id="p0050" num="0050">Printing may be provided on any one or more base material films of the base material films 121a and 122a. In the case where the base material films 121a and 122a are made from the above-described resins, the printing can be clear.</p>
+<p id="p0051" num="0051"><!-- EPO <DP n="31"> --> The attaching layers 121b and 122b are layers that provide the sealing property (heat-sealing property) to the container body-forming sheet member 120. From the standpoint of reducing the resin amount used for the container body-forming sheet member 120, it is preferable that the container body-forming sheet member 120 is made thinner as much as possible. From this standpoint, it is also conceivable that the film layers 121 and 122 are formed of only the base material films 121a and 122a. However, in the case where the base material films 121a and 122a have high tensile modulus of elasticity as described above, the sealing property of the base material films 121a and 122a may be insufficient. Therefore, in the present embodiment, the attaching layers 121b and 122b are provided to the film layers 121 and 122, and therefore the film layers 121 and 122 have the sealing property.</p>
+<p id="p0052" num="0052">The attaching layer 121b is a portion that attaches the portions of the container body-forming sheet member 120 (that is, portions of the attaching layer 121b) to each other, that attaches the film layer 121 and the film layer 122, and that attaches the container body-forming sheet member 120 and the inner container-forming sheet member 110 (more specifically, a base material film 110a of the inner container-forming sheet member 110). The filler enclosed portion 41 is formed between the base<!-- EPO <DP n="32"> --> material films 121a and 122a. The filler enclosed portion 41 may be in contact with each surface of the base material films 121a and 122a as illustrated in <figref idref="f0009">Fig. 9</figref>, and may be in contact with one base material film (in this example, the base material film 122a) as illustrated in <figref idref="f0010">Fig. 10</figref>. As illustrated in <figref idref="f0011">Fig. 11</figref>, the attaching layers 121b may be formed on the surfaces facing each other of the base material films 121a and 122a, respectively, and the filler enclosed portion 41 may be in contact with the two attaching layers 121b. In <figref idref="f0010">Figs. 10</figref> and <figref idref="f0011">11</figref>, the inner container-forming sheet member 110 is not shown.</p>
+<p id="p0053" num="0053">As described above, the attaching layer 122b is a portion that attaches the portions of the container body-forming sheet member 120 (that is, portions of the attaching layer 122b) to each other, and that attaches the container body-forming sheet member 120 and the inner container-forming sheet member 110. However, in the case where the film layer 121 is formed slightly larger than the film layer 122, the attaching layer 121b is used to attach the portions of the container body-forming sheet member 120 to each other and attach the container body-forming sheet member 120 and the inner container-forming sheet member 110. Accordingly, in this case, the attaching layer 122b is not necessarily required.</p>
+<p id="p0054" num="0054"><!-- EPO <DP n="33"> --> Furthermore, it is preferable that the melting point of the base material films 121a and 122a is different from that of the attaching layers 121b and 122b. In this case, using the difference in melting point between the base material films 121a and 122a and the attaching layers 121b and 122b, the base material films 121a and 122a can be easily separated from the container body-forming sheet member 120. The melting point of the base material films 121a and 122a is preferably higher than that of the attaching layers 121b and 122b, and the difference in melting point is preferably not less than 100°C, and more preferably not less than 150°C. An upper limit of the difference in melting point may be any value, but may be about 200°C.</p>
+<p id="p0055" num="0055">Examples of resins (attaching agents) of the attaching layers 121b and 122b satisfying the above-described characteristics include known adhesive compositions such as an urethane-based adhesive composition, a vinyl-based adhesive composition such as vinyl acetate, vinyl alcohol, and ethylene vinyl acetate, a modified olefin-based adhesive composition, a (meta)acrylic-based adhesive composition containing butyl acrylate, 2-ethylhexyl methacrylate and the like as a main component, a polyamide-based adhesive composition, a polyester-based adhesive composition, a silicone-based adhesive composition, and a rubber-based adhesive<!-- EPO <DP n="34"> --> composition containing, as main components, natural rubber and/or synthetic rubber such as isoprene rubber, butadiene-styrene-rubber, and acrylic rubber. The attaching layers 121b and 122b may be made from any one or more types of these resins. Similar to the base material films described above, the resins forming the attaching layers 121b and 122b may be the same type of resins as the base material films 121a and 122a. In this case, the affinity between the attaching layers 121b and 122b and the base material films 121a and 122a are enhanced, whereby the sealing property is improved. Furthermore, even if some attaching agent remains on the base material films 121a and 122a at the time of recycling of the base material films 121a and 122a, it is unlikely to affect the quality of the recycled material. Of course, the resins forming the attaching layers 121b and 122b may be of different types.</p>
+<p id="p0056" num="0056">It is preferable that the total thickness of the base material films 121a and 122a has a range of ratios with respect to the thickness of the attaching layer 121b (that is, a attaching layer attaching the base material films 121a and 122a to each other). Specifically, the ratio (B/A) of the total thickness B of the base material films 121a and 122a with respect to the thickness A of the attaching layer 121b is preferably larger than 0.58. In this way, the thickness of the attaching layer 121b<!-- EPO <DP n="35"> --> can be reduced, whereby the resin amount used can be reduced, and furthermore the resins of the base material films 121a and 122a can be easily separated from the sheet material container 100. The "B/A" is more preferably not smaller than 1.00, and even more preferably not smaller than 1.3. An upper limit of the "B/A" may be any value. However, when the "B/A" is too high, it may cause the total thickness of the film layers 121 and 122 to be increased excessively. Therefore, the "B/A" is preferably not larger than 60, more preferably not larger than 40, even more preferably not larger than 30, still more preferably not larger than 10, and further more preferably not larger than 3.</p>
+<p id="p0057" num="0057">From the standpoint of improving the environmental characteristics, each thickness of the base material films 121a and 122a is preferably not more than 50 <b>µ</b>m, more preferably not more than 40 <b>µ</b>m, and even preferably not more than 30 <b>µ</b>m. However, when each thickness of the base material films 121a and 122a is too small, the base material films 121a and 122a tend not to withstand the internal pressure required to sufficiently maintain the container rigidity when the filler is enclosed in the filler enclosed portion 41. Therefore, the thickness is preferably not less than 9 <b>µ</b>m, more preferably not less than 12 <b>µ</b>m, and even preferably not less than 15 <b>µ</b>m.</p>
+<p id="p0058" num="0058"><!-- EPO <DP n="36"> --> The thickness of the attaching layer 121b is preferably not more than 50 <b>µ</b>m, and more preferably not more than 30 <b>µ</b>m. The thickness of the attaching layer 121b is preferably not less than 20 <b>µ</b>m. In this case, the thickness of the container body-forming sheet member 120 can be reduced and the recyclability of the container body-forming sheet member 120 can be improved, while maintaining the rigidity of the sheet material container 100.</p>
+<p id="p0059" num="0059">For the same reason, the thickness of the attaching layer 122b is also preferably not more than 50 <b>µ</b>m, and more preferably not more than 30 <b>µ</b>m. The thickness of the attaching layer 122b is preferably not less than 20 <b>µ</b>m.</p>
+<p id="p0060" num="0060">Additionally, the container body-forming sheet member 120 may have the multi-layer structure including three or more layers. In this case, since the base material films are formed in three or more layers, the attaching layers that attach the base material films to each other are formed in two or more layers. In this case, a value "A" in the above-described "B/A" is rephrased as the total thickness of the attaching layers that attach the base material films to each other, and the thickness of the attaching layer 121b is rephrased as<!-- EPO <DP n="37"> --> the total thickness of the attaching layers that attach the base material films to each other.</p>
+<heading id="h0013">&lt;3. Detailed Configuration of Inner Container-Forming Sheet Member&gt;</heading>
+<p id="p0061" num="0061">Next, a detailed configuration of the inner container-forming sheet member 110 will be described based on <figref idref="f0009">Fig. 9</figref>. The inner container-forming sheet member 110 according to the present embodiment includes the base material film 110a and an attaching layer 110b. The resin of the base material film 110a may be any resin, and may be of the same type as or different type from the base material films 121a and 122a. In the case where the resin of the base material film 110a is of the same type as the base material films 121a and 122a, a tensile modulus of elasticity of the base material film 110a is preferably not less than 1 GPa at a room temperature (= 25°C). Examples of other type of resin include oriented nylon and the like.</p>
+<p id="p0062" num="0062">The attaching layer 110b is a layer that provides the sealing property to the inner container-forming sheet member 110. Specifically, the attaching layer 110b is used for attaching portions of the inner container-forming sheet member 110 to each other. The resin forming the attaching layer 110b may be any resin, and may be of the same type as or different type from the<!-- EPO <DP n="38"> --> attaching layers 121b and 122b. Examples of other type of resin include linear low-density polyethylene (LLDPE) and the like.</p>
+<p id="p0063" num="0063">As in the embodiment illustrated in <figref idref="f0001">Fig. 1</figref>, in the embodiment in which the inner container-forming sheet member 110 (the sheet member of the top gusset 12) and the base part 31 of the spout 30 are attached to each other, it is more preferable that the spout 30 provided with the base part 31 is made from the same type of resin as the base material film 110a and/or the attaching layer 110b of the inner container-forming sheet member 110 in a manner similar to the base material films described above, because the recyclability can be improved. Additionally, as in the embodiment illustrated in <figref idref="f0007">Figs. 7</figref> and <figref idref="f0008">8</figref>, in the case of the embodiment in which the base part 31 of the spout 30 is attached to the container body-forming sheet member 120 (the sheet member of the top gusset 22), the spout 30 provided with the base part 31 may be made from resins of the same type as one or more resins selected from the resins of the base material films 121a and 122a and the attaching layers 121b and 122b of the container body-forming sheet member 120.</p>
+<p id="p0064" num="0064">From the standpoint of the environmental characteristics, it is preferable that the base material film 110a is made thinner as much as possible. For<!-- EPO <DP n="39"> --> example, the thickness of the base material film 110a is preferably not more than 30 <b>µ</b>m, and more preferably not more than 20 <b>µ</b>m. A lower limit of the thickness of the base material film 110a may be any value that can maintain the rigidity as the inner container 10. For example, the thickness of the base material film 110a may be not less than 10 <b>µ</b>m.</p>
+<p id="p0065" num="0065">From the standpoint of the environmental characteristics, it is also preferable that the attaching layer 110b is made thinner as much as possible. For example, the thickness of the attaching layer 110b is preferably not more than 100 <b>µ</b>m, and more preferably not more than 60 <b>µ</b>m. A lower limit of the thickness of the attaching layer 110b may be any value that can maintain the rigidity and the sealing property as the inner container 10. For example, the thickness of the attaching layer 110b may be not less than 20 <b>µ</b>m.</p>
+<p id="p0066" num="0066">Additionally, the layer structure of the inner container-forming sheet member 110 is not limited to the above-described example. For example, the inner container-forming sheet member 110 may have the layer structure disclosed in <patcit id="pcit0003" dnum="JP6193535B"><text>Japanese Patent No. 6193535</text></patcit>. However, from the standpoint of the environmental characteristics, it is preferable that the inner<!-- EPO <DP n="40"> --> container-forming sheet member 110 has the above-described layer structure.</p>
+<p id="p0067" num="0067">As described above, according to the present embodiment, the base material films 121a and 122a are made from the same type of resins, whereby the recyclability can be improved. Furthermore, when the tensile modulus of elasticity of the base material films 121a and 122a is not less than 1 GPa at the room temperature, the sufficient rigidity can be provided to the sheet material container 100. Therefore, according to the present embodiment, the recyclability can be further improved while maintaining a function of the sheet material container 100. Additionally, when the tensile modulus of elasticity of the base material films 121a and 122a is not less than 1 GPa, the sufficient rigidity can be provided to the sheet material container 100 even if the base material films 121a and 122a are made thinner. Accordingly, since the resin amount used can be reduced, the environmental characteristics can be further improved.</p>
+<heading id="h0014">Examples</heading>
+<heading id="h0015">&lt;1. Examples 1 to 32&gt;</heading>
+<heading id="h0016">(1-1. Preparation of Base Material Films and Attaching Agent)</heading><!-- EPO <DP n="41"> -->
+<p id="p0068" num="0068">In Examples 1 to 31, PET films having thicknesses different from one another were prepared as the base material films 121a and 122a. Also, polyester-based attaching agents (manufactured by TOAGOSEI CO., LTD.) were prepared as the attaching agents forming the attaching layers 121b and 122b. Furthermore, in Example 32, nylon films were prepared as the base material films 121a and 122a, and polyethylene films (LLDPE) were prepared as the attaching layers 121b and 122b.</p>
+<heading id="h0017">(1-2. Evaluation of Environmental Characteristics (Thickness Reduction and Recyclability))</heading>
+<p id="p0069" num="0069">The environmental characteristics of Examples 1 to 32 (specifically, thickness reduction and recyclability) were evaluated by the following tests. First, in each of Examples 1 to 31, a sheet member for test was manufactured in which the base material films 121a and 122a were attached by the above-described attaching layer 121b. The pressure and temperature at the time of attaching were common among all examples and comparative examples described later. The sheet member for test included the base material films 121a and 122a and the attaching layer 121b. The thickness of the base material films 121a and 122a and the attaching layer 121b was changed for each example. In Example 32, the base material films 121a and 122a and two attaching layers 121b were attached by dry lamination, and a sheet member<!-- EPO <DP n="42"> --> for test was manufactured, including the filler enclosed portion 41 between the two attaching layers 121b, as illustrated in <figref idref="f0011">Fig. 11</figref>.</p>
+<p id="p0070" num="0070">Next, the thickness of the sheet member for test was measured. A sheet member (PET12 / aluminum-deposited PET12 / NY15 / LLDPE70) of a commercially available pouch having no filler enclosed portion was used as a reference sample. The thickness (109 <b>µ</b>m) of the reference sample was regarded as 100, and a ratio of the thickness of the sheet member for test in each of Examples 1 to 32 with respect to the reference sample was used as an evaluation index of thickness reduction. A ratio value of 100 or less is an acceptable level in view of evaluation of the thickness reduction, and the ratio value is preferably not more than 50. Additionally, the "B/A" was calculated.</p>
+<p id="p0071" num="0071">Furthermore, evaluation of the recyclability was performed using the sheet member for test. Specifically, the heat was applied to the entire surface of the sheet member for test at 150°C and 0.5 MPa for 10 sec., and then it was confirmed whether the base material films 121a and 122a were easily separated from the sheet member for test manually. In the case where the base material film 121a is easily separated from the sheet member for test manually, the recyclability is evaluated at a level<!-- EPO <DP n="43"> --> 2 or higher. In the case where the base material film 121a is not easily separated from the sheet member for test, the recyclability is evaluated at a level 3 when the base material films 121a and 122a are made from the same type of resins, and the recyclability is evaluated at a level 4 when the base material films 121a and 122a are made from different (different types of) resins. The level 4 is regarded as unacceptable, and the level 3 or higher is regarded as acceptable. This is because it is preferable that the base material films 121a and 122a can be easily separated from the attaching layer 121b manually, from the standpoint of the recyclability.</p>
+<p id="p0072" num="0072">With respect to the sheet members for test in which the recyclability was evaluated at the level 2 or higher, the following tests were further performed. First, the mass of the base material films 121a and 122a only were measured, and then the mass of the sheet members for test was measured, in which the base material films 121a and 122a were attached by the attaching layer 121b. Then, the mass of the attaching layer 121b before cleaning was calculated based on the difference between the measured masses. Subsequently, the base material films 121a and 122a were immersed in acetone (cleaning solution) and stirred for 12 hours. In this test, the acetone was used, but a known alkaline cleaning solution including an alkaline aqueous solution such as caustic soda or a<!-- EPO <DP n="44"> --> general organic solvent such as ethanol may be used as the cleaning solution. Then, the base material films 121a and 122a were taken out of the acetone, washed with water, and dried. Subsequently, the mass of the base material films 121a and 122a after the drying was measured. The mass of remaining attaching layer 121b was calculated by subtracting, from the measured mass, the initial measured mass of the base material films 121a and 122a. The remaining ratio was calculated by the following formula: (the mass of the remaining attaching layer / the initial mass of the attaching layer) × 100. When the remaining ratio is not more than 30%, the recyclability is evaluated at a level 1. When the remaining ratio exceeds 30%, the recyclability is evaluated at a level 2. Lower remaining ratio of the attaching layer 121b means that a larger amount of pure PET was able to be recovered, and therefore the recyclability is high. The sample with the evaluation level 2 was stirred in the acetone for further 12 hours, and the remaining ratio of 30% or less was obtained.</p>
+<heading id="h0018">(1-3. Evaluation of Container Rigidity)</heading>
+<p id="p0073" num="0073">The film layers 121 and 122 were manufactured using the above-described base material films 121a and 122a and attaching layers 121b and 122b. Here, the thickness of the base material films 121a and 122a and the thickness of the attaching layers 121b and 122b were the same as<!-- EPO <DP n="45"> --> the thickness of the base material films 121a and 122a and the thickness of the attaching layer 121b in the sheet member for test. Furthermore, as the inner container-forming sheet member 110, an inner container-forming sheet member 110 similar to that of Comparative Example 1 (which will be described later) was prepared. Then, a sheet material container 100 was manufactured according to the above-described manufacturing method. Here, all of the manufacturing conditions of the sheet material container 100 (shapes of the film layers 121 and 122, a shape of the filler enclosed portion 41, a type of the filler, an internal pressure of the filler enclosed portion, a sealing pressure, a sealing temperature, widths of the sealed parts 25 and 27, and the like) were the same as the above-described manufacturing conditions. That is, the sheet material containers 100 of Examples 1 to 32 are different only in the layer structures of the film layers 121 and 122 (specifically, a thickness and a material of each layer).</p>
+<p id="p0074" num="0074">Then, the manufactured sheet material container 100 was set to a compression tester. The compression tester includes two upper and lower compression plates, a compressor that compresses the sheet material container 100 using these compression plates, and a measuring device that measures a stress at the time of compression. Then, the sheet material container 100 was compressed<!-- EPO <DP n="46"> --> using the compression plates. The compression was performed under the environment of 20°C and 65% RH. The compression speed was set to 20 mm/min. Then, the stress was read when the height of the sheet material container 100 was compressed to 3/4 of the initial height, and was compared with a stress of Comparative Example 3 described later. The container rigidity was evaluated according to the following evaluation criteria. A level 4 or lower are regarded as acceptable in view of evaluation of the container rigidity, and means that the container has an anti-compression strength enough to withstand use (pumping or the like) as a container.
+<ol id="ol0001" compact="compact" ol-style="">
+<li>1: The stress is not less than 3.0 times of that of Comparative Example 3.</li>
+<li>2: The stress is not less than 1.5 times and less than 3.0 times of that of Comparative Example 3.</li>
+<li>3: The stress is not less than 1.0 time and less than 1.5 times of that of Comparative Example 3.</li>
+<li>4: The stress is less than 1.0 time of that of Comparative Example 3, but the sheet material container 100 did not buckle during the compression test.</li>
+<li>5: The stress is less than 1.0 time of that of Comparative Example 3, and the sheet material container 100 buckled during the compression test.</li>
+</ol></p>
+<heading id="h0019">&lt;2. Comparative Examples 1 to 3&gt;</heading>
+<heading id="h0020">(2-1. Layer Configuration of Sheet Member)</heading><!-- EPO <DP n="47"> -->
+<p id="p0075" num="0075">First, the layer configuration of the sheet member used in each of Comparative Examples 1 to 3 will be described based on <figref idref="f0012">Fig. 12</figref>. A container body-forming sheet member 220 used in each of Comparative Examples 1 to 3 includes film layers 221 and 222. The film layer 221 is a layer corresponding to the film layer 121 of the present embodiment, and includes a base material film 221c and an attaching layer 221f. The film layer 222 is a layer corresponding to the film layer 122 of the present embodiment, and includes an attaching layer 222c, a base material film 222d and an attaching layer 222e. It can be said that attaching layers 221f and 222c correspond to the attaching layer 121b of the present embodiment, and an attaching layer 222e corresponds to the attaching layer 122b of the present embodiment. A filler enclosed portion 41 is formed between the base material films 221c and 222d. An inner container-forming sheet member 210 includes an attaching layer 210c, a base material film 210d, and an attaching layer 210e.</p>
+<p id="p0076" num="0076">In each of Comparative Examples 1 to 3, all of the attaching layers included in the inner container-forming sheet member 210 and the container body-forming sheet member 220 are made from LLDPE. In Comparative Example 1, the base material film 221c had a three-layer structure including a PET layer, a transparent vapor deposited PET layer, and a nylon layer laminated in order<!-- EPO <DP n="48"> --> from the surface. In Comparative Example 2, the base material film 221c had a two-layer structure including a transparent vapor deposited PET layer, and a nylon layer laminated in order from the surface. In Comparative Example 3, the base material film 221c had a single-layer structure including a transparent vapor deposited PET layer from the surface. In all of Comparative Examples 1 to 3, the base material films 222d and 210d were made from oriented nylon.</p>
+<heading id="h0021">(2-2. Evaluation of Thickness Reduction and Recyclability)</heading>
+<p id="p0077" num="0077">The base material film 221c in which the attaching layer 221f was formed on a surface thereof and the base material film 222d in which the attaching layer 222c was formed on a surface thereof were prepared, and the base material films 221c and 222d overlapped each other so that the respective attaching layers faced each other. The thickness of the base material films 221c and 222d and the attaching layers 221f and 222c was set to be different among Comparative Examples 1 to 3. Then, the multilayer was pressurized at the same pressure and temperature as those of Examples 1 to 32. In this way, a sheet member for test was manufactured. Then, the thickness reduction and the recyclability were evaluated by the tests similar to those of Examples 1 to 32. Additionally, the "B/A" was calculated. Here, "A" refers<!-- EPO <DP n="49"> --> to the total thickness of the attaching layers 221f and 222c.</p>
+<heading id="h0022">(2-3. Evaluation of Container Rigidity)</heading>
+<p id="p0078" num="0078">A sheet material container was manufactured using the container body-forming sheet member 220 and the inner container-forming sheet member 210. Here, the thickness of the base material films 221c and 222d and the thickness of the attaching layers 221f and 222c were the same as the thickness of the base material films 221c and 222d and the thickness of the attaching layers 221f and 222c in the sheet member for test. The thickness of the attaching layer 222e was set to 30 <b>µ</b>m, and the thicknesses of the attaching layer 210c, the base material film 210d, and the attaching layer 210e were set to 30 <b>µ</b>m, 15 <b>µ</b>m, and 60 <b>µ</b>m, respectively. Then, a sheet material container was manufactured according to the above-described manufacturing method. Here, all of the manufacturing conditions of the sheet material container were the same as those of Examples 1 to 32. That is, the sheet material containers of Comparative Examples 1 to 3 are different only in the layer structures (specifically, a thickness of each layer and resin types) of the film layers 221 and 222 from the sheet material containers of Examples 1 to 32. Then, the container rigidity was evaluated by the tests similar to those of Examples 1 to 32.<!-- EPO <DP n="50"> --></p>
+<heading id="h0023">&lt;3. Evaluation&gt;</heading>
+<p id="p0079" num="0079">The layer configurations (layer configuration of the sheet member for test) and evaluation results of Examples 1 to 32 and Comparative Examples 1 to 3, and the tensile moduluses of elasticity of the base material films 121a and 122a made from the same type of resins of Examples 1 to 32 that were measured at the room temperature (= 25°C) according to JIS K 7127 (Plastics - Determination of tensile properties, Part 3: Test conditions for films and sheets) are summarized in Tables 1 to 3.</p>
+<heading id="h0024">[Table 1]</heading><!-- EPO <DP n="51"> -->
+<p id="p0080" num="0080">
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>(Table 1)</title>
+<tgroup cols="18">
+<colspec colnum="1" colname="col1" colwidth="19mm"/>
+<colspec colnum="2" colname="col2" colwidth="17mm"/>
+<colspec colnum="3" colname="col3" colwidth="13mm"/>
+<colspec colnum="4" colname="col4" colwidth="13mm"/>
+<colspec colnum="5" colname="col5" colwidth="13mm"/>
+<colspec colnum="6" colname="col6" colwidth="13mm"/>
+<colspec colnum="7" colname="col7" colwidth="13mm"/>
+<colspec colnum="8" colname="col8" colwidth="13mm"/>
+<colspec colnum="9" colname="col9" colwidth="13mm"/>
+<colspec colnum="10" colname="col10" colwidth="13mm"/>
+<colspec colnum="11" colname="col11" colwidth="13mm"/>
+<colspec colnum="12" colname="col12" colwidth="13mm"/>
+<colspec colnum="13" colname="col13" colwidth="13mm"/>
+<colspec colnum="14" colname="col14" colwidth="13mm"/>
+<colspec colnum="15" colname="col15" colwidth="13mm"/>
+<colspec colnum="16" colname="col16" colwidth="13mm"/>
+<colspec colnum="17" colname="col17" colwidth="13mm"/>
+<colspec colnum="18" colname="col18" colwidth="13mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle"/>
+<entry align="center" valign="middle">Example 1</entry>
+<entry align="center" valign="middle">Example 2</entry>
+<entry align="center" valign="middle">Example 3</entry>
+<entry align="center" valign="middle">Example 4</entry>
+<entry align="center" valign="middle">Example 5</entry>
+<entry align="center" valign="middle">Example 6</entry>
+<entry align="center" valign="middle">Example 7</entry>
+<entry align="center" valign="middle">Example 8</entry>
+<entry align="center" valign="middle">Example 9</entry>
+<entry align="center" valign="middle">Example 10</entry>
+<entry align="center" valign="middle">Example 11</entry>
+<entry align="center" valign="middle">Example 12</entry>
+<entry align="center" valign="middle">Example 13</entry>
+<entry align="center" valign="middle">Example 14</entry>
+<entry align="center" valign="middle">Example 15</entry>
+<entry align="center" valign="middle">Example 16</entry></row></thead>
+<tbody>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Thickness (µm) of base material film 121a</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">25</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Thickness (µm) of attaching layer 121b</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">20</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Thickness (µm) of base material film 122a</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">25</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">B</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">24</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">24</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">24</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">24</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">50</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">A</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">20</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Thickness (µm) of sheet member for test (=A+B)</entry>
+<entry align="center" valign="middle">19</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">41</entry>
+<entry align="center" valign="middle">51</entry>
+<entry align="center" valign="middle">23</entry>
+<entry align="center" valign="middle">29</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">28</entry>
+<entry align="center" valign="middle">34</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">38</entry>
+<entry align="center" valign="middle">44</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">70</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">B/A</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">24</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">3.6</entry>
+<entry align="center" valign="middle">4.8</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">1.8</entry>
+<entry align="center" valign="middle">2.4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">0.9</entry>
+<entry align="center" valign="middle">1.2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2.5</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Container rigidity</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">2</entry></row>
+<row>
+<entry morerows="1" align="center" valign="middle">Environmental characteristics</entry>
+<entry align="center" valign="middle">Thickness reduction</entry>
+<entry align="center" valign="middle">17</entry>
+<entry align="center" valign="middle">23</entry>
+<entry align="center" valign="middle">38</entry>
+<entry align="center" valign="middle">47</entry>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">27</entry>
+<entry align="center" valign="middle">41</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">26</entry>
+<entry align="center" valign="middle">31</entry>
+<entry align="center" valign="middle">46</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">35</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">64</entry></row>
+<row>
+<entry align="center" valign="middle">Recyclability</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Tensile modulus of elasticity (GPa) of base material film</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="52"> --></p>
+<heading id="h0025">[Table 2]</heading>
+<p id="p0081" num="0081">
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>(Table 2)</title>
+<tgroup cols="18">
+<colspec colnum="1" colname="col1" colwidth="19mm"/>
+<colspec colnum="2" colname="col2" colwidth="17mm"/>
+<colspec colnum="3" colname="col3" colwidth="13mm"/>
+<colspec colnum="4" colname="col4" colwidth="13mm"/>
+<colspec colnum="5" colname="col5" colwidth="13mm"/>
+<colspec colnum="6" colname="col6" colwidth="13mm"/>
+<colspec colnum="7" colname="col7" colwidth="13mm"/>
+<colspec colnum="8" colname="col8" colwidth="13mm"/>
+<colspec colnum="9" colname="col9" colwidth="13mm"/>
+<colspec colnum="10" colname="col10" colwidth="13mm"/>
+<colspec colnum="11" colname="col11" colwidth="13mm"/>
+<colspec colnum="12" colname="col12" colwidth="13mm"/>
+<colspec colnum="13" colname="col13" colwidth="13mm"/>
+<colspec colnum="14" colname="col14" colwidth="13mm"/>
+<colspec colnum="15" colname="col15" colwidth="13mm"/>
+<colspec colnum="16" colname="col16" colwidth="13mm"/>
+<colspec colnum="17" colname="col17" colwidth="13mm"/>
+<colspec colnum="18" colname="col18" colwidth="13mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle"/>
+<entry align="center" valign="middle">Example 17</entry>
+<entry align="center" valign="middle">Example 18</entry>
+<entry align="center" valign="middle">Example 19</entry>
+<entry align="center" valign="middle">Example 20</entry>
+<entry align="center" valign="middle">Example 21</entry>
+<entry align="center" valign="middle">Example 22</entry>
+<entry align="center" valign="middle">Example 23</entry>
+<entry align="center" valign="middle">Example 24</entry>
+<entry align="center" valign="middle">Example 25</entry>
+<entry align="center" valign="middle">Example 26</entry>
+<entry align="center" valign="middle">Example 27</entry>
+<entry align="center" valign="middle">Example 28</entry>
+<entry align="center" valign="middle">Example 29</entry>
+<entry align="center" valign="middle">Example 30</entry>
+<entry align="center" valign="middle">Example 31</entry>
+<entry align="center" valign="middle">Example 32</entry></row></thead>
+<tbody>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Thickness (µm) of base material film 121a</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">15</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Thickness (µm) of attaching layer 121b</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">40</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Thickness (µm) of base material film 122a</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">15</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">B</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">24</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">24</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">24</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">24</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">30</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">A</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">40</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Thickness (µm) of sheet member for test (=A+B)</entry>
+<entry align="center" valign="middle">48</entry>
+<entry align="center" valign="middle">54</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">68</entry>
+<entry align="center" valign="middle">74</entry>
+<entry align="center" valign="middle">90</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">93</entry>
+<entry align="center" valign="middle">99</entry>
+<entry align="center" valign="middle">115</entry>
+<entry align="center" valign="middle">118</entry>
+<entry align="center" valign="middle">124</entry>
+<entry align="center" valign="middle">140</entry>
+<entry align="center" valign="middle">150</entry>
+<entry align="center" valign="middle">70</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">B/A</entry>
+<entry align="center" valign="middle">0.6</entry>
+<entry align="center" valign="middle">0.8</entry>
+<entry align="center" valign="middle">1.33</entry>
+<entry align="center" valign="middle">1.67</entry>
+<entry align="center" valign="middle">0.36</entry>
+<entry align="center" valign="middle">0.48</entry>
+<entry align="center" valign="middle">0.8</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">0.24</entry>
+<entry align="center" valign="middle">0.32</entry>
+<entry align="center" valign="middle">0.53</entry>
+<entry align="center" valign="middle">0.18</entry>
+<entry align="center" valign="middle">0.24</entry>
+<entry align="center" valign="middle">0.4</entry>
+<entry align="center" valign="middle">0.5</entry>
+<entry align="center" valign="middle">0.75</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Container rigidity</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry morerows="1" align="center" valign="middle">Environmental characteristics</entry>
+<entry align="center" valign="middle">Thickness reduction</entry>
+<entry align="center" valign="middle">44</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">64</entry>
+<entry align="center" valign="middle">73</entry>
+<entry align="center" valign="middle">62</entry>
+<entry align="center" valign="middle">68</entry>
+<entry align="center" valign="middle">83</entry>
+<entry align="center" valign="middle">92</entry>
+<entry align="center" valign="middle">85</entry>
+<entry align="center" valign="middle">91</entry>
+<entry align="center" valign="middle">106</entry>
+<entry align="center" valign="middle">108</entry>
+<entry align="center" valign="middle">114</entry>
+<entry align="center" valign="middle">128</entry>
+<entry align="center" valign="middle">138</entry>
+<entry align="center" valign="middle">64</entry></row>
+<row>
+<entry align="center" valign="middle">Recyclability</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Tensile modulus of elasticity (GPa) of base material film</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">1</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="53"> --></p>
+<heading id="h0026">[Table 3]</heading>
+<p id="p0082" num="0082">
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title><b>(Table 3)</b></title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="37mm"/>
+<colspec colnum="2" colname="col2" colwidth="32mm"/>
+<colspec colnum="3" colname="col3" colwidth="33mm"/>
+<colspec colnum="4" colname="col4" colwidth="33mm"/>
+<colspec colnum="5" colname="col5" colwidth="33mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle"/>
+<entry align="center" valign="middle">Comparative Example 1</entry>
+<entry align="center" valign="middle">Comparative Example 2</entry>
+<entry align="center" valign="middle">Comparative Example 3</entry></row></thead>
+<tbody>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Thickness (µm) of base material film 221c</entry>
+<entry align="center" valign="middle">39</entry>
+<entry align="center" valign="middle">27</entry>
+<entry align="center" valign="middle">15</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Total thickness (µm) of attaching layers 221f and 222c</entry>
+<entry align="center" valign="middle">110</entry>
+<entry align="center" valign="middle">72</entry>
+<entry align="center" valign="middle">40</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Thickness (µm) of base material film 222d</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">15</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">B</entry>
+<entry align="center" valign="middle">54</entry>
+<entry align="center" valign="middle">42</entry>
+<entry align="center" valign="middle">30</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">A</entry>
+<entry align="center" valign="middle">110</entry>
+<entry align="center" valign="middle">72</entry>
+<entry align="center" valign="middle">40</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Thickness (µm) of sheet member for test (=A+B)</entry>
+<entry align="center" valign="middle">164</entry>
+<entry align="center" valign="middle">114</entry>
+<entry align="center" valign="middle">70</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">B/A</entry>
+<entry align="center" valign="middle">0.49</entry>
+<entry align="center" valign="middle">0.58</entry>
+<entry align="center" valign="middle">0.75</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Container rigidity</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">3</entry></row>
+<row>
+<entry morerows="1" align="center" valign="middle">Environmental characteristics</entry>
+<entry align="center" valign="middle">Thickness reduction</entry>
+<entry align="center" valign="middle">150</entry>
+<entry align="center" valign="middle">105</entry>
+<entry align="center" valign="middle">64</entry></row>
+<row>
+<entry align="center" valign="middle">Recyclability</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Tensile modulus of elasticity (GPa) of base material film</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0083" num="0083">In Example 1 to 32 having the layer configuration corresponding to the container body-forming sheet member 120 of the present embodiment, all values of the recyclability achieved the acceptable level of 3 or higher. Furthermore, all value of the container rigidity also achieved the acceptable level of 4 or lower. Accordingly, the recyclability can be improved while maintaining a function of the sheet material container 100. On the other hand, in all of Comparative Examples 1 to 3, the results of the recyclability became inferior (the evaluation level was 4). In Comparative Examples 1<!-- EPO <DP n="54"> --> to 3, it is believed that the recyclability was reduced because the attaching layer could not be easily separated from the base material film even at the same temperature as the Examples 1 to 32, and a component derived from the attaching layer could not be sufficiently removed even after the cleaning operation was performed.</p>
+<p id="p0084" num="0084">From the results of Examples 1 to 32, it has been found that the container rigidity and the environmental characteristics (in particular, thickness reduction) are basically in a tradeoff relationship. That is, when the thickness of the base material films 121a and 122a and the attaching layer 121b is increased, the container rigidity is increased, but the environmental characteristics tend to be reduced. However, it has been found that when the thickness of the attaching layer 121b becomes too large relative to the thickness of the base material films 121a and 122a, the container rigidity is slightly reduced. This reason is unclear, however, it is believed that since the attaching layer 121b is soft, the container body-forming sheet member 120 is more flexible by increasing the thickness of the attaching layer 121b relative to the base material films 121a and 122a.</p>
+<p id="p0085" num="0085">Upon reviewing the results in more detail, in Examples 1 to 24, and 32 in which the thickness of the attaching layer 121b is not more than 50 µm, the results<!-- EPO <DP n="55"> --> of at least one of the thickness reduction and the container rigidity was further improved as compared with Examples 25 to 31 in which the thickness of the attaching layer 121b exceeds 50 µm. Accordingly, it has been found that the thickness of the attaching layer 121b is preferably not more than 50 µm.</p>
+<p id="p0086" num="0086">Next, upon reviewing Examples 1 to 24 and 32, it has been found that in Examples 1 to 20 in which the thickness of the attaching layer 121b is not more than 30 µm, the recyclability is further improved as compared with Examples 21 to 24 and 32 in which the thickness of the attaching layer 121b exceeds 30 µm. Accordingly, it has been found that the thickness of the attaching layer 121b is more preferably not more than 30 µm.</p>
+<p id="p0087" num="0087">Next, upon reviewing Examples 1 to 20, in Examples 13 to 20 in which the thickness of the attaching layer 121b is not less than 20 µm and the "B/A" is larger than 0.58, the container rigidity was further improved and stabilized as compared with Examples 1 to 12 in which the thickness of the attaching layer 121b is less than 20 µm. That is, in Examples 1 to 12, since the attaching layer 121b was thin, it caused variations in the results of the container rigidity. Meanwhile, in Examples 13 to 20 in which the thickness of the attaching layer 121b is not less than 20 µm and the "B/A" is larger than 0.58, the<!-- EPO <DP n="56"> --> results of the container rigidity were stably evaluated at a level 3 or lower. Accordingly, it has been found that the thickness of the attaching layer 121b is more preferably not less than 20 µm. Furthermore, it has been found that the "B/A" is preferably larger than 0.58.</p>
+<p id="p0088" num="0088">The preferred embodiment of the present invention has been described in detail above with reference to the accompanying drawings, but the present invention is not limited to such an example. It is obvious that a person having ordinary skill in the art to which the present invention pertains can arrive at various alternations or modifications within the scope of the technical ideas set forth in the claims. These alternations or modifications are understood to naturally fall within the technical scope of the present invention. For example, in the above-described embodiment, an example in which the sheet material container 100 includes the inner container 10 has been described, but the sheet material container 100 does not necessarily include the inner container 10.</p>
+<p id="p0089" num="0089">The above-described embodiment includes the following technical concepts.
+<ol id="ol0002" compact="compact" ol-style="">
+<li>&lt;1&gt; A sheet material container, comprising a container body that surrounds a containing portion for accommodating a content, wherein the container body is formed of a container body-forming sheet member formed by<!-- EPO <DP n="57"> --> layering a plurality of base material films, the container body-forming sheet member includes the plurality of base material films, an attaching layer by which the base material films are attached to each other, and a filler enclosed portion that is formed between the plurality of base material films and into which a filler is to be filled, and the plurality of base material films are made from the same type of resins.</li>
+<li>&lt;2&gt; The sheet material container according to &lt;1&gt;, wherein<br/>
+a tensile modulus of elasticity of the plurality of base material films is not less than 1 GPa at a room temperature, preferably not less than 2 GPa, and more preferably not less than 3 GPa.</li>
+<li>&lt;3&gt; The sheet material container according to &lt;1&gt; or &lt;2&gt;, wherein<br/>
+a total thickness of the attaching layer is not more than 50 µm, and preferably not more than 30 µm.</li>
+<li>&lt;4&gt; The sheet material container according to any one of &lt;1&gt; to &lt;3&gt;, wherein<br/>
+a ratio of a total thickness of the plurality of base material films to the total thickness of the attaching layer is larger than 0.58, preferably not smaller than 1.00, and more preferably not smaller than 1.3.</li>
+<li>&lt;5&gt; The sheet material container according to any one of &lt;1&gt; to &lt;4&gt;, wherein<br/>
+<!-- EPO <DP n="58"> -->the ratio of the total thickness of the plurality of base material films to the total thickness of the attaching layer is not larger than 60, preferably not larger than 40, more preferably not larger than 30, even more preferably not larger than 10, and still more preferably not larger than 3.</li>
+<li>&lt;6&gt; The sheet material container according to any one of &lt;1&gt; to &lt;5&gt;, wherein<br/>
+each thickness of the plurality of base material films is not less than 9 µm, preferably not less than 12 µm, and more preferably not less than 15 µm.</li>
+<li>&lt;7&gt; The sheet material container according to any one of &lt;1&gt; to &lt;6&gt;, wherein<br/>
+each thickness of the plurality of base material films is not more than 50 µm, preferably not more than 40 µm, and more preferably not more than 30 µm.</li>
+<li>&lt;8&gt; The sheet material container according to any one of &lt;1&gt; to &lt;7&gt;, wherein<br/>
+a melting point of the plurality of base material films is different from a melting point of the attaching layer, the melting point of the plurality of base material films is preferably higher than the melting point of the attaching layer, the melting point of the plurality of base material films is higher than the melting point of the attaching layer more preferably by 100°C or more, even more preferably by 150°C or more, and still more preferably by 200°C or more.<!-- EPO <DP n="59"> --></li>
+<li>&lt;9&gt; The sheet material container according to any one of &lt;1&gt; to &lt;8&gt;, wherein<br/>
+the filler enclosed portion is in contact with one or both of the base material films of two layers between which the attaching layer is attached.</li>
+<li>&lt;10&gt; The sheet material container according to any one of &lt;1&gt; to &lt;9&gt;, wherein<br/>
+the plurality of base material films are made from any one or more types of resins selected from polyamide-type resins, polyester-type resins, polyolefin-type resins, acrylic-type resins, vinyl chloride-type resins, polycarbonate-type resins, polystyrene-type resins, ethylene-vinyl alcohol copolymer-type resins, and polyimide-type resins.</li>
+<li>&lt;11&gt; The sheet material container according to &lt;10&gt;, wherein<br/>
+the plurality of base material films are made from polyamide-type resins or polyester-type resins.</li>
+<li>&lt;12&gt; The sheet material container according to any one of &lt;1&gt; to &lt;11&gt;, wherein<br/>
+the plurality of base material films and the attaching layer are made from the same type of resins.</li>
+<li>&lt;13&gt; The sheet material container according to &lt;12&gt;, wherein<br/>
+the plurality of base material films and the attaching layer are made from polyester-type resins.<!-- EPO <DP n="60"> --></li>
+<li>&lt;14&gt; The sheet material container according to any one of &lt;1&gt; to &lt;11&gt;, wherein<br/>
+the plurality of base material films are made from polyamide-type resins and the attaching layer is made from polyolefin-type resins.</li>
+<li>&lt;15&gt; The sheet material container according to any one of &lt;1&gt; to &lt;14&gt;, wherein<br/>
+printing is provided on any one or more base material films of the plurality of base material films.</li>
+<li>&lt;16&gt; The sheet material container according to any one of &lt;1&gt; to &lt;15&gt;, wherein<br/>
+the plurality of base material films each have a single-layer structure.</li>
+<li>&lt;17&gt; The sheet material container according to any one of &lt;1&gt; to &lt;16&gt;, wherein<br/>
+the filler enclosed portion includes a configuration extending in an up-down direction in the container body.</li>
+<li>&lt;18&gt; The sheet material container according to &lt;17&gt;, wherein<br/>
+at least one pair of the filler enclosed portions extending in the up-down direction of the container body are provided along both edge portions in a width direction of the container body on each side of opposite sides across the containing portion of the container body.</li>
+<li>&lt;19&gt; The sheet material container according to any one of &lt;1&gt; to &lt;18&gt;, wherein<br/>
+<!-- EPO <DP n="61"> -->a top gusset is formed at an upper end of the sheet material container, and a sheet member of the top gusset is attached to a base part of a spout provided with the base part.</li>
+<li>&lt;20&gt; The sheet material container according to &lt;19&gt;, wherein<br/>
+the spout is made from the same type of resins as the plurality of base material films or the attaching layer.</li>
+<li>&lt;21&gt; The sheet material container according to &lt;19&gt; or &lt;20&gt;, wherein<br/>
+the filler enclosed portion is adjacent to the base part of the spout on at least one of both sides across the containing portion of the container body.</li>
+<li>&lt;22&gt; The sheet material container according to &lt;21&gt;, wherein<br/>
+on at least one of both sides across the containing portion of the container body, at least one pair of the filler enclosed portions extending in the up-down direction of the container body are brought into communication with each other through the filler enclosed portion extending in the width direction of the container body on the upper end of the container body, and the filler enclosed portion extending in the width direction is adjacent to the base part.<!-- EPO <DP n="62"> --></li>
+<li>&lt;23&gt; The sheet material container according to any one of &lt;1&gt; to &lt;22&gt;, comprising an inner container that is surrounded by the container body,<br/>
+wherein the inner container has the containing portion, and is made from the same type of resins as the plurality of base material films.</li>
+</ol></p>
+<p id="p0090" num="0090">This application claims priority based on <patcit id="pcit0004" dnum="JP2018220380A"><text>Japanese Patent Application No. 2018-220380 filed on November 26, 2018</text></patcit>, the entire disclosure of which is incorporated herein.</p>
+<heading id="h0027">REFERENCE SIGNS LIST</heading>
+<p id="p0091" num="0091">
+<dl id="dl0001" compact="compact">
+<dt>100</dt><dd>Sheet material container</dd>
+<dt>10</dt><dd>Inner container</dd>
+<dt>20</dt><dd>Container body</dd>
+<dt>41</dt><dd>Filler enclosed portion</dd>
+<dt>110</dt><dd>Inner container-forming sheet member</dd>
+<dt>110a</dt><dd>Base material film</dd>
+<dt>110b</dt><dd>Attaching layer</dd>
+<dt>120</dt><dd>Container body-forming sheet member</dd>
+<dt>121</dt><dd>Film layer</dd>
+<dt>121a</dt><dd>Base material film</dd>
+<dt>121b</dt><dd>Attaching layer</dd>
+<dt>122</dt><dd>Film layer</dd>
+<dt>122a</dt><dd>Base material film</dd>
+<dt>122b</dt><dd>Attaching layer</dd>
+</dl></p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="63"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A sheet material container, comprising:
+<claim-text>a container body that surrounds a containing portion for accommodating a content,</claim-text>
+<claim-text>wherein the container body is formed of a container body-forming sheet member formed by layering a plurality of base material films,</claim-text>
+<claim-text>the container body-forming sheet member includes the plurality of base material films, an attaching layer by which the base material films are attached to each other, and a filler enclosed portion that is formed between the plurality of base material films and into which a filler is to be filled, and</claim-text>
+<claim-text>the plurality of base material films are made from the same type of resins.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The sheet material container according to claim 1, wherein<br/>
+a tensile modulus of elasticity of the plurality of base material films is not less than 1 GPa at a room temperature.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The sheet material container according to claim 1 or 2, wherein<br/>
+<!-- EPO <DP n="64"> -->a total thickness of the attaching layer is not more than 50 µm.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The sheet material container according to any one of claims 1 to 3, wherein<br/>
+a ratio of a total thickness of the plurality of base material films to the total thickness of the attaching layer is larger than 0.58.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The sheet material container according to any one of claims 1 to 4, wherein<br/>
+the ratio of the total thickness of the plurality of base material films to the total thickness of the attaching layer is not larger than 60.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The sheet material container according to any one of claims 1 to 5, wherein<br/>
+each thickness of the plurality of base material films is not less than 9 µm.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The sheet material container according to any one of claims 1 to 6, wherein<br/>
+each thickness of the plurality of base material films is not more than 50 µm.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>The sheet material container according to any one of claims 1 to 7, wherein<br/>
+<!-- EPO <DP n="65"> -->a melting point of the plurality of base material films is different from a melting point of the attaching layer.</claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>The sheet material container according to any one of claims 1 to 8, wherein<br/>
+the filler enclosed portion is in contact with one or both of the base material films of two layers between which the attaching layer is attached.</claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>The sheet material container according to any one of claims 1 to 9, wherein<br/>
+the plurality of base material films are made from any one or more types of resins selected from polyamide-type resins, polyester-type resins, polyolefin-type resins, acrylic-type resins, vinyl chloride-type resins, polycarbonate-type resins, polystyrene-type resins, ethylene-vinyl alcohol copolymer-type resins, and polyimide-type resins.</claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>The sheet material container according to claim 10, wherein<br/>
+the plurality of base material films are made from polyamide-type resins or polyester-type resins.</claim-text></claim>
+<claim id="c-en-0012" num="0012">
+<claim-text>The sheet material container according to any one of claims 1 to 11, wherein<br/>
+<!-- EPO <DP n="66"> -->the plurality of base material films and the attaching layer are made from the same type of resins.</claim-text></claim>
+<claim id="c-en-0013" num="0013">
+<claim-text>The sheet material container according to any one of claims 1 to 12, wherein<br/>
+printing is provided on any one or more base material films of the plurality of base material films.</claim-text></claim>
+<claim id="c-en-0014" num="0014">
+<claim-text>The sheet material container according to any one of claims 1 to 13, wherein<br/>
+the plurality of base material films each have a single-layer structure.</claim-text></claim>
+<claim id="c-en-0015" num="0015">
+<claim-text>The sheet material container according to any one of claims 1 to 14, wherein<br/>
+the filler enclosed portion includes a configuration extending in an up-down direction in the container body.</claim-text></claim>
+<claim id="c-en-0016" num="0016">
+<claim-text>The sheet material container according to claim 15, wherein<br/>
+at least one pair of the filler enclosed portions extending in the up-down direction of the container body are provided along both edge portions in a width direction of the container body on each side of opposite sides across the containing portion of the container body.</claim-text></claim>
+<claim id="c-en-0017" num="0017">
+<claim-text><!-- EPO <DP n="67"> --> The sheet material container according to any one of claims 1 to 16, wherein<br/>
+a top gusset is formed at an upper end of the sheet material container, and a sheet member of the top gusset is attached to a base part of a spout provided with the base part.</claim-text></claim>
+<claim id="c-en-0018" num="0018">
+<claim-text>The sheet material container according to claim 17, wherein<br/>
+the spout is made from the same type of resins as the plurality of base material films or the attaching layer.</claim-text></claim>
+<claim id="c-en-0019" num="0019">
+<claim-text>The sheet material container according to claim 17 or 18, wherein<br/>
+the filler enclosed portion is adjacent to the base part of the spout on at least one of both sides across the containing portion of the container body.</claim-text></claim>
+<claim id="c-en-0020" num="0020">
+<claim-text>The sheet material container according to claim 19, wherein<br/>
+on at least one of both sides across the containing portion of the container body, at least one pair of the filler enclosed portions extending in the up-down direction of the container body are brought into communication with each other through the filler enclosed portion extending in the width direction of the container<!-- EPO <DP n="68"> --> body on the upper end of the container body, and the filler enclosed portion extending in the width direction is adjacent to the base part.</claim-text></claim>
+<claim id="c-en-0021" num="0021">
+<claim-text>The sheet material container according to any one of claims 1 to 20, comprising:
+<claim-text>an inner container that is surrounded by the container body,</claim-text>
+<claim-text>wherein the inner container has the containing portion, and is made from the same type of resins as the plurality of base material films.</claim-text></claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="69"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="89" he="203" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="70"> -->
+<figure id="f0002" num="2"><img id="if0002" file="imgf0002.tif" wi="87" he="200" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="71"> -->
+<figure id="f0003" num="3"><img id="if0003" file="imgf0003.tif" wi="91" he="196" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="72"> -->
+<figure id="f0004" num="4"><img id="if0004" file="imgf0004.tif" wi="120" he="209" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="73"> -->
+<figure id="f0005" num="5"><img id="if0005" file="imgf0005.tif" wi="71" he="197" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="74"> -->
+<figure id="f0006" num="6"><img id="if0006" file="imgf0006.tif" wi="84" he="201" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="75"> -->
+<figure id="f0007" num="7"><img id="if0007" file="imgf0007.tif" wi="114" he="200" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="76"> -->
+<figure id="f0008" num="8"><img id="if0008" file="imgf0008.tif" wi="123" he="106" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="77"> -->
+<figure id="f0009" num="9"><img id="if0009" file="imgf0009.tif" wi="116" he="109" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="78"> -->
+<figure id="f0010" num="10"><img id="if0010" file="imgf0010.tif" wi="118" he="76" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="79"> -->
+<figure id="f0011" num="11"><img id="if0011" file="imgf0011.tif" wi="116" he="79" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="80"> -->
+<figure id="f0012" num="12"><img id="if0012" file="imgf0012.tif" wi="118" he="147" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="163" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="163" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="JP2015522442W" dnum-type="L"><document-id><country>JP</country><doc-number>2015522442</doc-number><kind>W</kind></document-id></patcit><crossref idref="pcit0001">[0003]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="JP6193535B"><document-id><country>JP</country><doc-number>6193535</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0002">[0010]</crossref><crossref idref="pcit0003">[0066]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="JP2018220380A"><document-id><country>JP</country><doc-number>2018220380</doc-number><kind>A</kind><date>20181126</date></document-id></patcit><crossref idref="pcit0004">[0090]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

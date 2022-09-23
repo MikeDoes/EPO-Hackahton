@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP18943674A1" file="EP18943674NWA1.xml" lang="en" country="EP" doc-number="3888471" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3888471</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>18943674.4</B210><B220><date>20181218</date></B220><B240><B241><date>20210701</date></B241></B240><B250>zh</B250><B251EP>en</B251EP><B260>en</B260></B200><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>A23K  20/142       20160101AFI20200701BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C07D 295/185       20060101ALI20200701BHEP        </text></classification-ipcr></B510EP><B540><B541>de</B541><B542>VERWENDUNG EINES GLUTAMINDERIVATS ZUR HERSTELLUNG VON TIERFUTTERZUSATZ</B542><B541>en</B541><B542>APPLICATION OF GLUTAMINE DERIVATIVE IN PREPARATION OF ANIMAL FEED ADDITIVE</B542><B541>fr</B541><B542>APPLICATION D'UN DÉRIVÉ DE GLUTAMINE DANS LA PRÉPARATION D'UN ADDITIF ALIMENTAIRE POUR ANIMAUX</B542></B540></B500><B700><B710><B711><snm>Peng, Xianfeng</snm><iid>101900231</iid><irf>K19-2941-03EP</irf><adr><str>Room 103, Building 93, Cuishanlantianyuan 
+South China Country Garden 
+North of Panyu Avenue 
+Panyu District</str><city>Guangzhou, Guangdong 511449</city><ctry>CN</ctry></adr></B711></B710><B720><B721><snm>PENG, Xianfeng</snm><adr><str>Room 103, Building 93, Cuishanlantianyuan, South 
+China Country Garden, North Of Panyu Avenue,  
+Panyu District</str><city>Guangzhou, Guangdong 511449</city><ctry>CN</ctry></adr></B721><B721><snm>HUANG, Huacheng</snm><adr><str>Room 103, Building 93, Cuishanlantianyuan South  
+China Country Garden North of Panyu Avenue, Panyu 
+District</str><city>Guangzhou, Guangdong 511449</city><ctry>CN</ctry></adr></B721></B720><B740><B741><snm>Hanna Moore + Curley</snm><iid>101668780</iid><adr><str>Garryard House 
+25-26 Earlsfort Terrace</str><city>Dublin 2, D02 PX51</city><ctry>IE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>CN2018121709</anum></dnum><date>20181218</date></B861><B862>zh</B862></B860><B870><B871><dnum><pnum>WO2020124351</pnum></dnum><date>20200625</date><bnum>202026</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">The present invention provides the use of a glutamine derivative in preparing animal feed additives, and particularly the use of a glutamine derivative having a structure of formula (I), a racemate thereof, a stereoisomer thereof, a geometric isomer thereof, a tautomer thereof, a solvate thereof, or a feed acceptable salt thereof. Animal breeding experiments revealed that, the provided compounds, including the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, and the feed acceptable salt thereof, can be used as animal feed additives, exhibiting excellent effect in improving animal production performance such as growth and feed efficiency.
+<chemistry id="chema01" num="0001"><img id="ia01" file="imga0001.tif" wi="28" he="30" img-content="chem" img-format="tif"/></chemistry></p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001"><b>TECHNICAL FIELD</b></heading>
+<p id="p0001" num="0001">The present invention relates to the field of animal feed additives, and particularly relates to the use of a glutamine derivative, a racemate thereof, a stereoisomer thereof, a geometric isomer thereof, a tautomer thereof, a solvate thereof, or a feed acceptable salt thereof, in preparing animal feed additives; the present invention also relates to a feed composition comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, and further relates to the use of the feed composition in preparing animal feed additives or animal feeds.</p>
+<heading id="h0002"><b>BACKGROUND</b></heading>
+<p id="p0002" num="0002">Generally, aminoacylated glutamine derivatives are intermediates during the production of amide-substituted derivatives of glutamine. It has been reported that N-acetyl-DL-theanine was reacted with Aspergillus oryzae aminoacylase to give L-theanine under suitable conditions. It has also been reported that L-glutamic acid was reacted with phthalic anhydride to give phthaloyl-L-glutamic acid which then turns into acid anhydride; the acid anhydride is subjected to ammonolysis in an ethylamine aqueous solution to give phthaloyl-L-theanine, and then L-theanine is obtained by removing the phthaloyl group of phthaloyl-L-theanine in the presence of hydrazine hydrate.</p>
+<p id="p0003" num="0003">Aminoacylated glutamine derivatives can synergistically enhance sensory performance. It has been reported that the aqueous solution of N-acyl theanine has disappointingly weak fatty taste, but it is possible to supplement, enhance or strengthen the basic or true fragrance and taste of food/beverage by combining this compound with flavoring matters and carefully adjusting their levels.</p>
+<p id="p0004" num="0004">Feed additives, refer to substances added in small or trace amounts during feed processing, production, and application, including nutritive feed additives and general feed additives. The general feed additives refer to substances added in small or trace amount in feed for guaranteeing or improving feed quality and increasing feed utilization. At present, commonly used general feed additives that can efficiently and stably increase feed utilization and improve animal production performance mainly include: high-level copper agents, high-level zinc agents, feed antibiotics, and chemically synthesized antibacterial agents. However, the long-term use of<!-- EPO <DP n="2"> --> these substances in the husbandry will lead to great side effects, such as animal liver and kidney toxicity, growth inhibition, kidney damage, urinary tract disorders, teratogenesis, mutagenesis, drug resistance, drug residues, and environmental pollution. In order to guarantee animal health and improve the production efficiency of the husbandry, it is an urgent need to develop novel feed additives that are effective, stable and safe.</p>
+<heading id="h0003"><b>SUMMARY</b></heading>
+<p id="p0005" num="0005">In view of the above, the present invention provides the use of a glutamine derivative, a racemate thereof, a stereoisomer thereof, a geometric isomer thereof, a tautomer thereof, a solvate thereof, or a feed acceptable salt thereof, in preparing animal feed additives; the present invention also provides a feed composition comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, and further provide the use of the feed composition in preparing animal feed additives or animal feeds.</p>
+<p id="p0006" num="0006">In one aspect, the present invention provides a glutamine derivative having a structure of formula (I), a racemate thereof, a stereoisomer thereof, a geometric isomer thereof, a tautomer thereof, a solvate thereof, or a feed acceptable salt thereof.
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="28" he="30" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0007" num="0007">In some technical solutions, Y is an OC<sub>1</sub>-C<sub>20</sub> alkyl group or OH; X is a nitrogen-containing C<sub>4</sub>-C<sub>10</sub> cycloalkyl group, a NHC<sub>1</sub>-C<sub>20</sub> alkyl group or a N(C<sub>1</sub>-C<sub>20</sub> alkyl group)<sub>2</sub>; R<sup>1</sup> is R<sup>1a</sup>C(=O), R<sup>1b</sup>C(=O), R<sup>1a</sup>S(=O)<sub>2</sub>, R<sup>1b</sup>S(=O)<sub>2</sub> or H; R<sup>2</sup> is R<sup>2a</sup>C(=O), R<sup>2b</sup>C(=O), R<sup>2a</sup>S(=O)<sub>2</sub> or R<sup>2B</sup>S(=O)<sub>2</sub>; each of R<sup>1b</sup> and R<sup>2b</sup> is independently a C<sub>1</sub>-C<sub>20</sub> alkyl group, a C<sub>3</sub>-C<sub>7</sub> cycloalkyl group or, a C<sub>1</sub>-C<sub>20</sub> alkyl group or C<sub>3</sub>-C<sub>7</sub> cycloalkyl group, optionally substituted with one, two, three, four, or five R<sup>3</sup>; wherein R<sup>3</sup> is -OH, -NH<sub>2</sub>, -CN, -SH, or -X<sub>1</sub>, wherein X<sub>1</sub> is selected from F, Cl, Br, or I; each of R<sup>1a</sup> and R<sup>2a</sup> is independently a C<sub>5</sub>-C<sub>12</sub> aryl group, a C<sub>5</sub>-C<sub>12</sub> heteroaryl group, a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> aryl group, a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> heteroaryl group or, a C<sub>5</sub>-C<sub>12</sub> aryl group, a C<sub>5</sub>-C<sub>12</sub> heteroaryl group, a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> aryl group or a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> heteroaryl group, optionally substituted with one, two, three, four, or five R<sup>4</sup>; wherein R<sup>4</sup> is -OH, -NH<sub>2</sub>, -NO<sub>2</sub>,<!-- EPO <DP n="3"> --> -CN, -SH, -X<sub>2</sub>, a -C<sub>1</sub>-C<sub>5</sub> alkoxy group, a -C<sub>1</sub>-C<sub>5</sub> alkyl group, or a -C<sub>1</sub>-C<sub>5</sub> alkyl group substituted with X<sub>2</sub>, wherein X<sub>2</sub> is selected from F, Cl, Br, or I.</p>
+<p id="p0008" num="0008">In some technical solutions, R<sup>1</sup> is R<sup>1a</sup>C(=O) or H; R<sup>2</sup> is R<sup>2a</sup>C(=O); each of R<sup>1a</sup> and R<sup>2a</sup> is independently a C<sub>5</sub>-C<sub>12</sub> aryl group, a C<sub>5</sub>-C<sub>12</sub> heteroaryl group, a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> aryl group, a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> heteroaryl group or, a C<sub>5</sub>-C<sub>12</sub> aryl group, a C<sub>5</sub>-C<sub>12</sub> heteroaryl group, a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> aryl group or a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> heteroaryl group, optionally substituted with one, two, three, four, or five R<sup>4</sup>; wherein R<sup>4</sup> is -OH, -NH<sub>2</sub>, -NO<sub>2</sub>, -CN, -SH, -X<sub>2</sub>, a -C<sub>1</sub>-C<sub>5</sub> alkoxy group, a -C<sub>1</sub>-C<sub>5</sub> alkyl group, or a -C<sub>1</sub>-C<sub>5</sub> alkyl group substituted with X<sub>2</sub>, wherein X<sub>2</sub> is selected from F, Cl, Br, or I.</p>
+<p id="p0009" num="0009">In some technical solutions, R<sup>1</sup> is H; R<sup>2</sup> is R<sup>2a</sup>C(=O); R<sup>2a</sup> is a C<sub>5</sub>-C<sub>12</sub> aryl group, a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> aryl group or, a C<sub>5</sub>-C<sub>12</sub> aryl group or a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> aryl group, optionally substituted with one, two, three, four, or five R<sup>4</sup>; wherein R<sup>4</sup> is -OH, -NH<sub>2</sub>, -NO<sub>2</sub>, -CN, -SH, -X<sub>2</sub>, a -C<sub>1</sub>-C<sub>5</sub> alkoxy group, a -C<sub>1</sub>-C<sub>5</sub> alkyl group, or a -C<sub>1</sub>-C<sub>5</sub> alkyl group substituted with X<sub>2</sub>, wherein X<sub>2</sub> is selected from F, Cl, Br, or I.</p>
+<p id="p0010" num="0010">In some technical solutions, R<sup>1</sup> is H; R<sup>2</sup> is R<sup>2a</sup>C(=O); R<sup>2a</sup> is a C<sub>6</sub> aryl group, a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>6</sub> aryl group or, a C<sub>6</sub> aryl group or a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>6</sub> aryl group, optionally substituted with one, two, three, four, or five R<sup>4</sup>; wherein R<sup>4</sup> is -OH, -NH<sub>2</sub>, -NO<sub>2</sub>, -CN, -SH, -X<sub>2</sub>, a -C<sub>1</sub>-C<sub>5</sub> alkoxy group, a -C<sub>1</sub>-C<sub>5</sub> alkyl group, or a -C<sub>1</sub>-C<sub>5</sub> alkyl group substituted with X<sub>2</sub>, wherein X<sub>2</sub> is selected from F, Cl, Br, or I.</p>
+<p id="p0011" num="0011">In some technical solutions, R<sup>2a</sup> is a phenyl group, a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-phenyl group or, a phenyl group or a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-phenyl group, optionally substituted with one, two, three, four, or five R<sup>4</sup>; wherein R<sup>4</sup> is -OH, -NH<sub>2</sub>, -NO<sub>2</sub>, -CN, -SH, -X<sub>2</sub>, a -C<sub>1</sub>-C<sub>5</sub> alkoxy group, a -C<sub>1</sub>-C<sub>5</sub> alkyl group, or a -C<sub>1</sub>-C<sub>5</sub> alkyl group substituted with X<sub>2</sub>, wherein X<sub>2</sub> is selected from F, Cl, Br, or I.</p>
+<p id="p0012" num="0012">In some technical solutions, R<sup>1</sup> is H; R<sup>2</sup> is R<sup>2a</sup>C(=O); R<sup>2a</sup> is a phenyl group, or a phenyl group substituted with R<sup>4</sup>; R<sup>4</sup> is -OH, -NH<sub>2</sub>, -NO<sub>2</sub>, -CN, -SH, -X<sub>2</sub>, a -C<sub>1</sub>-C<sub>5</sub> alkoxy group, or a -C<sub>1</sub>-C<sub>5</sub> alkyl group, wherein X<sub>2</sub> is selected from F, Cl, Br, or I; R<sup>2b</sup> is a C<sub>1</sub>-C<sub>15</sub> alkyl group; Y is -OH or -OC<sub>1</sub>-C<sub>5</sub> (an alkoxy group having 1 to 5 carbon atoms); X is -NHC<sub>1</sub>-C<sub>5</sub> (an alkylamino group having one C<sub>1</sub>-C<sub>5</sub> alkyl group).</p>
+<p id="p0013" num="0013">In some technical solutions, R<sup>1</sup> is R<sup>1b</sup>C(=O) or H; R<sup>2</sup> is R<sup>2b</sup>C(=O); each of R<sup>1b</sup> and R<sup>2b</sup> is independently a C<sub>1</sub>-C<sub>20</sub> alkyl group, a C<sub>3</sub>-C<sub>6</sub> cycloalkyl group or, a C<sub>1</sub>-C<sub>20</sub> alkyl group or a C<sub>3</sub>-C<sub>7</sub> cycloalkyl group optionally substituted with one, two, three, four, or five R<sup>3</sup>; wherein R<sup>3</sup> is -OH, -NH<sub>2</sub>, -CN, -SH, or -X<sub>1</sub>, wherein X<sub>1</sub> is<!-- EPO <DP n="4"> --> selected from F, Cl, Br, or I.</p>
+<p id="p0014" num="0014">In some technical solutions, R<sup>1</sup> is or H; R<sup>2</sup> is R<sup>2b</sup>C(=O); R<sup>2b</sup> is a C<sub>1</sub>-C<sub>20</sub> alkyl group, or a C<sub>1</sub>-C<sub>20</sub> alkyl group optionally substituted with one, two, three, four, or five R<sup>3</sup>; R<sup>3</sup> is -OH, -NH<sub>2</sub>, -CN, -SH, or -X<sub>1</sub>, wherein X<sub>1</sub> is selected from F, Cl, Br, or I.</p>
+<p id="p0015" num="0015">In some technical solutions, Y is an OC<sub>1</sub>-C<sub>10</sub> alkyl group.</p>
+<p id="p0016" num="0016">In some technical solutions, X is a nitrogen-containing C<sub>4</sub>-C<sub>10</sub> cycloalkyl group.</p>
+<p id="p0017" num="0017">In some technical solutions, X is a NHC<sub>1</sub>-C<sub>20</sub> alkyl group.</p>
+<p id="p0018" num="0018">In some technical solutions, X is preferably a NHC<sub>1</sub>-C<sub>10</sub> alkyl group.</p>
+<p id="p0019" num="0019">In another aspect, the present invention provides the use of the above-mentioned glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, in preparing an animal feed additive.</p>
+<p id="p0020" num="0020">In another aspect, the present invention provides a feed composition, which comprises at least one of the herein provided glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, and the feed acceptable salt thereof, and an adjuvant suitable for feed, wherein the adjuvant is selected from a carrier, a diluent, an excipient, a dissolvent, or a combination thereof.</p>
+<p id="p0021" num="0021">In some technical solutions, the feed composition further comprises an animal feed raw material.</p>
+<p id="p0022" num="0022">In some technical solutions, the feed composition further comprises an additional animal feed additive.</p>
+<p id="p0023" num="0023">In some technical solutions, the feed composition further comprises an animal feed ingredient and an additional animal feed additive.</p>
+<p id="p0024" num="0024">In some technical solutions, the additional animal feed additive is selected from a nutritive feed additive and/or a general feed additive and/or a medicinal feed additive.</p>
+<p id="p0025" num="0025">In another aspect, the present invention provides the use of the feed composition in preparing an animal feed additive.</p>
+<p id="p0026" num="0026">In another aspect, the present invention provides the use of the feed composition in preparing an animal feed.</p>
+<p id="p0027" num="0027">In another aspect, the present invention further provides a method for improving the production performance of farmed animals.<!-- EPO <DP n="5"> --></p>
+<p id="p0028" num="0028">Beneficial effects of the present invention:<br/>
+Animal breeding experiments revealed that, the described compounds, including the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, and the feed acceptable salt thereof, can be used as animal feed additives and has excellent effect in improving animal production performance such as growth and feed efficiency.</p>
+<p id="p0029" num="0029">Any embodiment of any aspect of the present invention can be combined with other embodiments as long as there is no contradiction therebetween. Moreover, any technical feature in any embodiment of any aspect of the present invention, can be applied as the same technical feature in other embodiments, as long as there is no contradiction therebetween.</p>
+<p id="p0030" num="0030">The foregoing content only outlines certain aspects of the present invention, which is however not limited to these aspects. The content involved above and in other aspects will be described in more detail and complete as below.</p>
+<p id="p0031" num="0031">A further detailed description of the present invention is given below.</p>
+<p id="p0032" num="0032">Herein certain embodiments of the present invention will be described in detail, examples of which are illustrated by the accompanying structural formulas and chemical formulas. The intention of the present invention covers all substituted, modified, and equivalent technical solutions, which all fall within in the scope of the present invention as defined by the claims. In addition, certain technical features of the present invention, in order to be clearly present, may be described separately in multiple independent embodiments; however, they can also be provided in a single embodiment in combination or in any suitable sub-combination.</p>
+<heading id="h0004">Compound</heading>
+<p id="p0033" num="0033">The compound involved in the present invention is a glutamine derivative having a structure of formula (I).
+<chemistry id="chem0002" num="0002"><img id="ib0002" file="imgb0002.tif" wi="28" he="30" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0034" num="0034">Wherein, Y is a substituent at the oxygen atom (abbreviated as O) where the active hydrogen atom in the carboxyl group of the glutamine derivative has been substituted. X is a group that is the result of substituting<!-- EPO <DP n="6"> --> of the amide group of the glutamine derivative on the amino nitrogen atom (abbreviated as N). R<sup>1</sup> and R<sup>2</sup> are substituents of the amino at nitrogen atom (abbreviated as N).</p>
+<p id="p0035" num="0035">Furthermore, Y is an OC<sub>1</sub>-C<sub>20</sub> alkyl group or OH; X is a nitrogen-containing C<sub>4</sub>-C<sub>10</sub> cycloalkyl group, a NHC<sub>1</sub>-C<sub>20</sub> alkyl group, or a N(C<sub>1</sub>-C<sub>20</sub> alkyl group)<sub>2</sub>; R<sup>1</sup> is R<sup>1a</sup>C(=O), R<sup>1b</sup>C(=O), R<sup>1a</sup>S(=O)<sub>2</sub>, R<sup>1b</sup>S(=O)<sub>2</sub> or H; R<sup>2</sup> is R<sup>2a</sup>C(=O), R<sup>2b</sup>C(=O), R<sup>2a</sup>S(=O)<sub>2</sub>, or R<sup>2b</sup>S(=O)<sub>2</sub>.</p>
+<p id="p0036" num="0036">Each of R<sup>1b</sup> and R<sup>2b</sup> is independently a C<sub>1</sub>-C<sub>20</sub> alkyl group or a C<sub>3</sub>-C<sub>7</sub> cycloalkyl group, substituted or unsubstituted; when R<sup>1b</sup> and/or R<sup>2b</sup> is a, substituted, C<sub>1</sub>-C<sub>20</sub> alkyl group or C<sub>3</sub>-C<sub>7</sub> cycloalkyl group, the C<sub>1</sub>-C<sub>20</sub> alkyl group or C<sub>3</sub>-C<sub>7</sub> cycloalkyl group is a C<sub>1</sub>-C<sub>20</sub> alkyl group or C<sub>3</sub>-C<sub>7</sub> cycloalkyl group optionally substituted with one, two, three, four, or five R<sup>3</sup>; R<sup>3</sup> is -OH, -NH<sub>2</sub>, -CN, -SH, or -X<sub>1</sub>, wherein X<sub>1</sub> is selected from F, Cl, Br, or I.</p>
+<p id="p0037" num="0037">Each of R<sup>1a</sup> and R<sup>2a</sup> is independently a C<sub>5</sub>-C<sub>12</sub> aryl group, a C<sub>5</sub>-C<sub>12</sub> heteroaryl group, a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> aryl group, or a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> heteroaryl group, substituted or unsubstituted; when R<sup>1a</sup> or R<sup>2a</sup> is a, substituted, C<sub>5</sub>-C<sub>12</sub> aryl group, C<sub>5</sub>-C<sub>12</sub> heteroaryl group, -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> aryl group or -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> heteroaryl group, the C<sub>5</sub>-C<sub>12</sub> aryl group, C<sub>5</sub>-C<sub>12</sub> heteroaryl group, -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> aryl group, or -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> heteroaryl group is a C<sub>5</sub>-C<sub>12</sub> aryl group, C<sub>5</sub>-C<sub>12</sub> heteroaryl group, -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> aryl group or -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> heteroaryl group, optionally substituted with one, two, three, four, or five R<sup>4</sup>; R<sup>4</sup> is -OH, -NH<sub>2</sub>, -NO<sub>2</sub>, -CN, -SH, -X<sub>2</sub>, a -C<sub>1</sub>-C<sub>5</sub> alkoxy group, a -C<sub>1</sub>-C<sub>5</sub> alkyl group or a -C<sub>1</sub>-C<sub>5</sub> alkyl group substituted with X<sub>2</sub>, wherein X<sub>2</sub> is selected from F, Cl, Br, or I.</p>
+<p id="p0038" num="0038">Generally, the term "substituted" indicates that one or more replaceable hydrogen atoms in the given structure have been substituted by specific substituents, wherein one substituted group may have one substituent at each substitutable position of the group, and when more than one position in the given structural formula can be substituted by one or more specific substituents, then the substituents can be substituted at the positions, identically or differently.</p>
+<p id="p0039" num="0039">In the present invention, a "OC<sub>a</sub>-C<sub>b</sub> alkyl group" is a linear or branched, saturated alkoxy group containing a to b carbon atoms, such as methoxy, ethoxy, propoxy, isopropoxy, ...; for example, a "OC<sub>1</sub>-C<sub>10</sub> alkyl group" represents a linear or branched, saturated alkoxy group containing 1 to 10 carbon atoms. A "C<sub>3</sub>-C<sub>7</sub> cycloalkyl group" is a cyclic alkyl group containing 3-7 carbon atoms and containing only carbon and<!-- EPO <DP n="7"> --> hydrogen elements, such as cyclopropyl, 2-methylcyclopropyl, and cyclopentyl. A "C<sub>1</sub>-C<sub>5</sub> alkoxy group" represents a group containing 1 to 5 carbon atoms and one oxygen atom, such as methoxy, ethoxy, propoxy, and isopropoxy. A "C<sub>5</sub>-C<sub>12</sub> aryl group" is a cyclic and aromatic group containing 5 to 12 carbon atoms, such as phenyl. A "C<sub>5</sub>-C<sub>12</sub> heteroaryl group" is an aromatic and cyclic group containing 5 to 12 carbon atoms and more than one heteroatom (including but not limited to oxygen atom (O), sulfur atom (S), nitrogen atom (N)), such as a pyrrolyl group or a pyridyl group. A "nitrogen-containing C<sub>n</sub>-C<sub>m</sub> cycloalkyl group" is a substituted or unsubstituted cycloalkyl group containing n to m carbon atoms and 1 nitrogen atom, such as a tetrahydropyrrolyl group or a piperidinyl group. A "NHC<sub>1</sub>-C<sub>20</sub> alkyl group" is a secondary amino group substituted with a linear or branched saturated alkyl group containing 1 to 20 carbon atoms, such as NHCH<sub>3</sub> and NHCH<sub>2</sub>CH<sub>3</sub>.</p>
+<p id="p0040" num="0040">In some technical solutions, X in the glutamine derivative of formula (I) is a nitrogen-containing C<sub>4</sub>-C<sub>10</sub> cycloalkyl group.</p>
+<p id="p0041" num="0041">Further, X preferably is a tetrahydropyrrolidine group or a piperidinyl group, substituted or unsubstituted.</p>
+<p id="p0042" num="0042">Much further, when X is a substituted tetrahydropyrrolidine group or a piperidinyl group, it is a tetrahydropyrrolidine group or a piperidinyl group substituted with 1 to 5 linear or branched C<sub>1</sub>-C<sub>6</sub> alkyl groups.</p>
+<p id="p0043" num="0043">In some embodiments, X in the glutamine derivative of formula (I) is
+<chemistry id="chem0003" num="0003"><img id="ib0003" file="imgb0003.tif" wi="35" he="15" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0004" num="0004"><img id="ib0004" file="imgb0004.tif" wi="41" he="16" img-content="chem" img-format="tif"/></chemistry>
+or
+<chemistry id="chem0005" num="0005"><img id="ib0005" file="imgb0005.tif" wi="23" he="14" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0044" num="0044">In some other embodiments, X in the glutamine derivative of formula (I) is
+<chemistry id="chem0006" num="0006"><img id="ib0006" file="imgb0006.tif" wi="35" he="17" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0007" num="0007"><img id="ib0007" file="imgb0007.tif" wi="87" he="19" img-content="chem" img-format="tif"/></chemistry>
+or
+<chemistry id="chem0008" num="0008"><img id="ib0008" file="imgb0008.tif" wi="25" he="14" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0045" num="0045">In some embodiments, X in the glutamine derivative of formula (I) is a NHC<sub>1</sub>-C<sub>20</sub> alkyl group.</p>
+<p id="p0046" num="0046">Further, when X is a NHC<sub>1</sub>-C<sub>20</sub> alkyl group, the alkyl group is a liner alkyl group.</p>
+<p id="p0047" num="0047">Much further, X is preferably a NHC<sub>1</sub>-C<sub>10</sub> alkyl group, wherein the alkyl group is a liner alkyl group.<!-- EPO <DP n="8"> --></p>
+<p id="p0048" num="0048">In some embodiments, X is NHCH<sub>3</sub>, NHCH<sub>2</sub>CH<sub>3</sub>, NH(CH<sub>2</sub>)<sub>2</sub>CH<sub>3</sub>, NH(CH<sub>2</sub>)<sub>3</sub>CH<sub>3</sub>, NH(CH<sub>2</sub>)<sub>4</sub>CH<sub>3</sub>, NH(CH<sub>2</sub>)<sub>5</sub>CH<sub>3</sub>, NH(CH<sub>2</sub>)<sub>6</sub>CH<sub>3</sub>, NH(CH<sub>2</sub>)<sub>7</sub>CH<sub>3</sub>, NH(CH<sub>2</sub>)<sub>8</sub>CH<sub>3</sub>, or NH(CH<sub>2</sub>)<sub>9</sub>CH<sub>3</sub>.</p>
+<p id="p0049" num="0049">In addition, when X is a NHC<sub>1</sub>-C<sub>20</sub> alkyl group, the alkyl group is a branched alkyl group.</p>
+<p id="p0050" num="0050">Further, when X is preferably a NHC<sub>1</sub>-C<sub>10</sub> alkyl group, the alkyl group is a branched alkyl group.</p>
+<p id="p0051" num="0051">In some embodiments, X includes but is not limited to NHCH(CH<sub>3</sub>)<sub>2</sub> and NHC(CH<sub>3</sub>)<sub>3</sub>.</p>
+<p id="p0052" num="0052">In some embodiments, X in the glutamine derivative of formula (I) is a N(C<sub>1</sub>-C<sub>20</sub> alkyl group)<sub>2</sub>.</p>
+<p id="p0053" num="0053">Further, the alkyl group is preferably a liner alkyl group.</p>
+<p id="p0054" num="0054">Much further, when the alkyl group is preferably a liner alkyl group, X is preferably a N(C<sub>1</sub>-C<sub>10</sub> alkyl group)<sub>2</sub>.</p>
+<p id="p0055" num="0055">In some embodiments, X includes but is not limited to a dimethylamineo group, a diethylamino group, a di-n-propylamino group, a di-n-butylamino group, a di-n-pentylamino group, a di-n-hexylamino group, a di-n-heptylamino group, a di-n-octylamino group, a di-n-nonylamino group, or a di-n-decylamino group.</p>
+<p id="p0056" num="0056">In some other embodiments, X in the glutamine derivative of formula (I) is a N(C<sub>1</sub>-C<sub>20</sub> alkyl group)<sub>2</sub>, wherein the alkyl group is a branched alkyl group.</p>
+<p id="p0057" num="0057">Further, X is preferably a N(C<sub>1</sub>-C<sub>10</sub> alkyl group)<sub>2</sub>, wherein the alkyl group is a branched alkyl group.</p>
+<p id="p0058" num="0058">In some embodiments, Y in the glutamine derivative of formula (I) is OH.</p>
+<p id="p0059" num="0059">In some other embodiments, Y in the glutamine derivative of formula (I) is an OC<sub>1</sub>-C<sub>20</sub> alkyl group. Further, the alkyl group is a liner alkyl group.</p>
+<p id="p0060" num="0060">In some embodiments, Y is selected from OCH<sub>3</sub>, OCH<sub>2</sub>CH<sub>3</sub>, O(CH<sub>2</sub>)<sub>2</sub>CH<sub>3</sub>, O(CH<sub>2</sub>)<sub>3</sub>CH<sub>3</sub>, O(CH<sub>2</sub>)<sub>a</sub>CH<sub>3</sub>, O(CH<sub>2</sub>)<sub>5</sub>CH<sub>3</sub>, O(CH<sub>2</sub>)<sub>6</sub>CH<sub>3</sub>, O(CH<sub>2</sub>)<sub>7</sub>CH<sub>3</sub>, O(CH<sub>2</sub>)<sub>8</sub>CH<sub>3</sub>, and O(CH<sub>2</sub>)<sub>9</sub>CH<sub>3</sub>.</p>
+<p id="p0061" num="0061">In addition, when Y is an OC<sub>1</sub>-C<sub>20</sub> alkyl group, the alkyl group is a branched alkyl group.</p>
+<p id="p0062" num="0062">Further, when Y is preferably an OC<sub>1</sub>-C<sub>10</sub> alkyl group, the alkyl group is a branched alkyl group.</p>
+<p id="p0063" num="0063">In some embodiments, Y includes but is not limited to OCH(CH<sub>3</sub>)<sub>2</sub> and OC(CH<sub>3</sub>)<sub>3</sub>.</p>
+<p id="p0064" num="0064">In some embodiments, in the glutamine derivative of formula (I), R<sup>1</sup> is R<sup>1a</sup>S(=O)<sub>2</sub> or H, and R<sup>2</sup> is R<sup>2a</sup>S(=O)<sub>2</sub>.</p>
+<p id="p0065" num="0065">Further, R<sup>1</sup> is preferably H.</p>
+<p id="p0066" num="0066">In some embodiments, in the glutamine derivative of formula (I), R<sup>1</sup> is R<sup>1b</sup>S(=O)<sub>2</sub> or H, and R<sup>2</sup> is R<sup>2b</sup>S(=O)<sub>2</sub>.<!-- EPO <DP n="9"> --></p>
+<p id="p0067" num="0067">Further, R<sup>1</sup> is preferably H.</p>
+<p id="p0068" num="0068">In some embodiments, in the glutamine derivative of formula (I), R<sup>1</sup> is R<sup>1a</sup>C(=O) or H, and R<sup>2</sup> is R<sup>2a</sup>C(=O).</p>
+<p id="p0069" num="0069">Further, R<sup>1</sup> is preferably H.</p>
+<p id="p0070" num="0070">In some embodiments, in the glutamine derivative of formula (I), R<sup>1</sup> is R<sup>1b</sup>C(=O) or H, and R<sup>2</sup> is R<sup>2b</sup>C(=O).</p>
+<p id="p0071" num="0071">Further, R<sup>1</sup> is preferably H.</p>
+<p id="p0072" num="0072">In some embodiments, in the glutamine derivative of formula (I), each of R<sup>1a</sup> and/or R<sup>2a</sup> is a substituted or unsubstituted C<sub>5</sub>-C<sub>12</sub> aryl group.</p>
+<p id="p0073" num="0073">Further, the unsubstituted C<sub>5</sub>-C<sub>12</sub> aryl group includes but is not limited to a cyclopentadienyl group, a phenyl group or a naphthyl group.</p>
+<p id="p0074" num="0074">In some embodiments, R<sup>1a</sup> and/or R<sup>2a</sup> are
+<chemistry id="chem0009" num="0009"><img id="ib0009" file="imgb0009.tif" wi="17" he="14" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0075" num="0075">In addition, when R<sup>1a</sup> and/or R<sup>2a</sup> are a substituted C<sub>5</sub>-C<sub>12</sub> aryl group, the C<sub>5</sub>-C<sub>12</sub> aryl group is a C<sub>5</sub>-C<sub>12</sub> aryl group optionally substituted with one, two, three, four, or five R<sup>4</sup>; wherein R<sup>4</sup> is -OH, -NH<sub>2</sub>, -NO<sub>2</sub>, -CN, -SH, -X<sub>2</sub>, a -C<sub>1</sub>-C<sub>5</sub> alkoxy group, a -C<sub>1</sub>-C<sub>5</sub> alkyl group, or a -C<sub>1</sub>-C<sub>5</sub> alkyl group substituted with X<sub>2</sub>, wherein X<sub>2</sub> is selected from F, Cl, Br, or I.</p>
+<p id="p0076" num="0076">Further, the C<sub>5</sub>-C<sub>12</sub> aryl group is preferably a C<sub>6</sub> aryl group.</p>
+<p id="p0077" num="0077">Specifically, R<sup>1a</sup> and/or R<sup>2a</sup> are a substituted phenyl group, which is optionally substituted with one, two, three, four, or five R<sup>4</sup>; wherein R<sup>4</sup> is -OH, -NH<sub>2</sub>, -NO<sub>2</sub>, -CN, -SH, -X<sub>2</sub>, a -C<sub>1</sub>-C<sub>5</sub> alkoxy group, a -C<sub>1</sub>-C<sub>5</sub> alkyl group, or a -C<sub>1</sub>-C<sub>5</sub> alkyl group substituted with X<sub>2</sub>, wherein X<sub>2</sub> is selected from F, Cl, Br, or I.</p>
+<p id="p0078" num="0078">In some embodiments, R<sup>1a</sup> and/or R<sup>2a</sup> are
+<chemistry id="chem0010" num="0010"><img id="ib0010" file="imgb0010.tif" wi="79" he="16" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0011" num="0011"><img id="ib0011" file="imgb0011.tif" wi="77" he="17" img-content="chem" img-format="tif"/></chemistry>
+or
+<chemistry id="chem0012" num="0012"><img id="ib0012" file="imgb0012.tif" wi="21" he="16" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0079" num="0079">In some embodiments, in the glutamine derivative of formula (I), R<sup>1a</sup> and/or R<sup>2a</sup> are a substituted or unsubstituted -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> aryl group.</p>
+<p id="p0080" num="0080">Further, when R<sup>1a</sup> and/or R<sup>2a</sup> are an unsubstituted -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> aryl group, the C<sub>5</sub>-C<sub>12</sub> aryl<!-- EPO <DP n="10"> --> group includes but is not limited to a cyclopentadienyl group, a phenyl group or a naphthyl group, and the alkylidene is preferably a methylene group.</p>
+<p id="p0081" num="0081">In some embodiments, R<sup>1a</sup> and/or R<sup>2a</sup> are
+<chemistry id="chem0013" num="0013"><img id="ib0013" file="imgb0013.tif" wi="20" he="11" img-content="chem" img-format="tif"/></chemistry>
+(a benzyl group).</p>
+<p id="p0082" num="0082">In addition, when R<sup>1a</sup> and/or R<sup>2a</sup> are a substituted -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> aryl group, the C<sub>5</sub>-C<sub>12</sub> aryl group is a C<sub>5</sub>-C<sub>12</sub> aryl group optionally substituted with one, two, three, four, or five R<sup>4</sup>; R<sup>4</sup> is -OH, -NH<sub>2</sub>, -NO<sub>2</sub>, -CN, -SH, -X<sub>2</sub>, a -C<sub>1</sub>-C<sub>5</sub> alkoxy group, a -C<sub>1</sub>-C<sub>5</sub> alkyl group, or a -C<sub>1</sub>-C<sub>5</sub> alkyl group substituted with X<sub>2</sub>, wherein X<sub>2</sub> is selected from F, Cl, Br, or I.</p>
+<p id="p0083" num="0083">Further, the C<sub>5</sub>-C<sub>12</sub> aryl group is preferably a C<sub>6</sub> aryl group.</p>
+<p id="p0084" num="0084">Specifically, R<sup>1a</sup> and/or R<sup>2a</sup> are a substituted benzyl group, which is optionally substituted with one, two, three, four, or five R<sup>4</sup>; R<sup>4</sup> is -OH, -NH<sub>2</sub>, -NO<sub>2</sub>, -CN, -SH, -X<sub>2</sub>, a -C<sub>1</sub>-C<sub>5</sub> alkoxy group, a -C<sub>1</sub>-C<sub>5</sub> alkyl group, or a -C<sub>1</sub>-C<sub>5</sub> alkyl group substituted with X<sub>2</sub>, wherein X<sub>2</sub> is selected from F, Cl, Br, or I.</p>
+<p id="p0085" num="0085">In some embodiments, R<sup>1a</sup> and/or R<sup>2a</sup> are
+<chemistry id="chem0014" num="0014"><img id="ib0014" file="imgb0014.tif" wi="85" he="17" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0015" num="0015"><img id="ib0015" file="imgb0015.tif" wi="87" he="14" img-content="chem" img-format="tif"/></chemistry>
+or
+<chemistry id="chem0016" num="0016"><img id="ib0016" file="imgb0016.tif" wi="29" he="13" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0086" num="0086">In some embodiments, in the glutamine derivative of formula (I), R<sup>1a</sup> and/or R<sup>2a</sup> are a substituted or unsubstituted C<sub>5</sub>-C<sub>12</sub> heteroaryl group.</p>
+<p id="p0087" num="0087">Further, when R<sup>1a</sup> and/or R<sup>2a</sup> are an unsubstituted C<sub>5</sub>-C<sub>12</sub> heteroaryl group, the C<sub>5</sub>-C<sub>12</sub> heteroaryl group includes but is not limited to a pyrrolylalkyl group, a pyrazolyl group, or a pyridyl group.</p>
+<p id="p0088" num="0088">In some embodiments, R<sup>1a</sup> and/or R<sup>2a</sup> are
+<chemistry id="chem0017" num="0017"><img id="ib0017" file="imgb0017.tif" wi="94" he="20" img-content="chem" img-format="tif"/></chemistry>
+or
+<chemistry id="chem0018" num="0018"><img id="ib0018" file="imgb0018.tif" wi="17" he="15" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0089" num="0089">In addition, when R<sup>1a</sup> and/or R<sup>2a</sup> are a substituted C<sub>5</sub>-C<sub>12</sub> heteroaryl group, the C<sub>5</sub>-C<sub>12</sub> heteroaryl group is optionally substituted with one, two, three, four, or five R<sup>4</sup>; R<sup>4</sup> is -OH, -NH<sub>2</sub>, -NO<sub>2</sub>, -CN, -SH, -X<sub>2</sub>, a -C<sub>1</sub>-C<sub>5</sub> alkoxy group, a -C<sub>1</sub>-C<sub>5</sub> alkyl group, or a -C<sub>1</sub>-C<sub>5</sub> alkyl group substituted with X<sub>2</sub>, wherein X<sub>2</sub> is selected from F,<!-- EPO <DP n="11"> --> Cl, Br, or I.</p>
+<p id="p0090" num="0090">Further, the C<sub>5</sub>-C<sub>12</sub> heteroaryl group is preferably a pyrrolyl group, a pyrazolyl group, or a pyridyl group.</p>
+<p id="p0091" num="0091">In some embodiments, R<sup>1a</sup> and/or R<sup>2a</sup> are
+<chemistry id="chem0019" num="0019"><img id="ib0019" file="imgb0019.tif" wi="88" he="20" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0020" num="0020"><img id="ib0020" file="imgb0020.tif" wi="21" he="16" img-content="chem" img-format="tif"/></chemistry>
+or
+<chemistry id="chem0021" num="0021"><img id="ib0021" file="imgb0021.tif" wi="21" he="18" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0092" num="0092">In some embodiments, in the glutamine derivative of formula (I), R<sup>1a</sup> and/or R<sup>2a</sup> are a substituted or unsubstituted -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> heteroaryl group.</p>
+<p id="p0093" num="0093">Further, the -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> heteroaryl group is an unsubstituted -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> heteroaryl group, wherein the C<sub>5</sub>-C<sub>12</sub> heteroaryl group includes but is not limited to a pyrrolyl group, a pyrazolyl group, or a pyridyl group, and the C<sub>1</sub>-C<sub>4</sub> alkylidene is preferably a methylene group.</p>
+<p id="p0094" num="0094">In some embodiments, R<sup>1a</sup> and/or R<sup>2a</sup> are
+<chemistry id="chem0022" num="0022"><img id="ib0022" file="imgb0022.tif" wi="88" he="24" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0095" num="0095">In addition, when R<sup>1a</sup> and/or R<sup>2a</sup> are a substituted -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> heteroaryl group, the C<sub>5</sub>-C<sub>12</sub> heteroaryl group is optionally substituted with one, two, three, four, or five R<sup>4</sup>; R<sup>4</sup> is -OH, -NH<sub>2</sub>, -NO<sub>2</sub>, -CN, -SH, -X<sub>2</sub>, a -C<sub>1</sub>-C<sub>5</sub> alkoxy group, a -C<sub>1</sub>-C<sub>5</sub> alkyl group, or a -C<sub>1</sub>-C<sub>5</sub> alkyl group substituted with X<sub>2</sub>, wherein X<sub>2</sub> is selected from F, Cl, Br, or I.</p>
+<p id="p0096" num="0096">Further, the C<sub>5</sub>-C<sub>12</sub> heteroaryl group is preferably a pyrrolyl group, a pyrazolyl group, or a pyridyl group, and the C<sub>1</sub>-C<sub>4</sub> alkylidene is preferably a methylene group.</p>
+<p id="p0097" num="0097">In some embodiments, R<sup>1a</sup> and/or R<sup>2a</sup> are
+<chemistry id="chem0023" num="0023"><img id="ib0023" file="imgb0023.tif" wi="83" he="23" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0024" num="0024"><img id="ib0024" file="imgb0024.tif" wi="26" he="18" img-content="chem" img-format="tif"/></chemistry>
+or
+<chemistry id="chem0025" num="0025"><img id="ib0025" file="imgb0025.tif" wi="26" he="13" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0098" num="0098">In some embodiments, the glutamine derivative of the present invention includes the above compounds<!-- EPO <DP n="12"> --> and a racemate thereof, a stereoisomer thereof, a geometric isomer thereof, a tautomer thereof, a solvate thereof, or a feed acceptable salt thereof.</p>
+<p id="p0099" num="0099">In some embodiments, in the glutamine derivative of formula (I), Y is OH, and the glutamine derivative can further exist in the form of a feed acceptable salt, wherein the feed acceptable salt is a salt of a metal ion.</p>
+<p id="p0100" num="0100">Further, the metal ion is a monovalent metal ion, a divalent metal ion, or a trivalent metal ion.</p>
+<p id="p0101" num="0101">Specifically, the monovalent metal ion includes but is not limited to sodium ion, potassium ion, lithium ion, and ammonium ion; the divalent metal ion includes but is not limited to calcium ion, magnesium ion, zinc ion, copper ion, ferrous ion, and manganese ion; the trivalent metal ion includes but is not limited to iron ion, nickel ion, chromium ion, and aluminum ion.</p>
+<p id="p0102" num="0102">In some embodiments, the metal ion is zinc ion.</p>
+<p id="p0103" num="0103">In some other embodiments, the metal ion is copper ion.</p>
+<p id="p0104" num="0104">In some other embodiments, the metal ion is sodium ion.</p>
+<p id="p0105" num="0105">In some other embodiments, the metal ion is calcium ion.</p>
+<p id="p0106" num="0106">In some other embodiments, the metal ion is iron ion.</p>
+<heading id="h0005"><b>Preparation and purification of compounds</b></heading>
+<p id="p0107" num="0107">The glutamine derivative of formula (I) involved in the present invention is prepared with glutamic acid (abbreviated as Glu) as the starting material. The involved chemical reactions mainly include esterification of carboxyl groups, acylation of amino groups, and aminolysis of esters, and hydrolysis of esters if necessary.</p>
+<p id="p0108" num="0108">In some embodiments, when Y in the glutamine derivative of formula (I) is OH, the glutamine derivative is prepared by the method as shown in formula (II), wherein the di-tert-butyl glutamate (t-Bu-Glu) can be produced by dehydration condensation between glutamic acid and tert-butanol under esterification conditions:
+<chemistry id="chem0026" num="0026"><img id="ib0026" file="imgb0026.tif" wi="165" he="56" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="13"> --></p>
+<p id="p0109" num="0109">It should be noted that, X and R<sup>1</sup> shown in formula (II) only represent substituent groups; if the stating materials X-H or R<sup>1</sup>-OH is not a single substance, then X or R<sup>1</sup> should be understood as a collection of substituents. The symbol t-Bu is a tert-butyl group as the protecting group of carboxyl group, DCM is dichloromethane, and F<sub>3</sub>CCOOH is trifluoroacetic acid. Moreover, rt. is room temperature, EtN(Pr-i)<sub>2</sub> is diisopropylethylamine, DMF is N,N-dimethylformamide, HBTU is O-(Benzotriazol-1-yl)-N,N,N',N'-tetramethyluronium hexafluorophosphate (a coupling reagent).</p>
+<p id="p0110" num="0110">Further, when Y in the glutamine derivative of formula (I) is OH, the glutamine derivative may react with a metallic base of a metal of main group I or main group II, or react with a metal halide under alkaline conditions, to obtain a metal ion salt of the glutamine derivative.</p>
+<p id="p0111" num="0111">Optionally, the metallic base is selected from sodium hydroxide, potassium hydroxide, calcium hydroxide, and magnesium hydroxide.</p>
+<p id="p0112" num="0112">Optionally, the metal halide is a metal chloride, a metal bromide, or a metal iodide.</p>
+<p id="p0113" num="0113">Specifically, the metal chloride is zinc chloride, calcium chloride, magnesium chloride, iron chloride, copper chloride, manganese chloride, cobalt chloride, or nickel chloride; the metal bromide is zinc bromide, calcium bromide, magnesium bromide, iron bromide, copper bromide, manganese bromide, cobalt bromide, or nickel bromide; the metal iodide is zinc iodide, calcium iodide, magnesium iodide, iron iodide, copper iodine, manganese iodide, cobalt iodide, or nickel iodide.</p>
+<p id="p0114" num="0114">In some embodiments, when Y in the glutamine derivative of formula (I) is an OC<sub>1</sub>-C<sub>20</sub> alkyl group, the glutamine derivative is prepared by the method as shown in formula (III), wherein the di-tert-butyl glutamate (t-Bu-Glu) can be produced by dehydration condensation between glutamic acid and tert-butanol under esterification conditions:<!-- EPO <DP n="14"> -->
+<chemistry id="chem0027" num="0027"><img id="ib0027" file="imgb0027.tif" wi="165" he="88" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0115" num="0115">It should be noted that, Y, X and R<sup>1</sup> shown in formula (III) only represent substituent groups; if the stating material R<sup>1</sup>-OH is not a single substance, then R<sup>1</sup> should be understood as a collection of substituents. The symbol t-Bu is a tert-butyl group as the protecting group of carboxyl group, DCM is dichloromethane, and F<sub>3</sub>CCOOH is trifluoroacetic acid. Moreover, rt. is room temperature, EtN(Pr-i)<sub>2</sub> is diisopropylethylamine, DMF is N,N-dimethylformamide, HBTU is O-(Benzotriazol-1-yl)-N,N,N',N'-tetramethyluronium hexafluorophosphate (a coupling reagent).</p>
+<p id="p0116" num="0116">In some embodiments, the glutamine derivative is a chiral compound, which is prepared from dibutyl glutamate with a chiral structure (as shown in formula (IV)) or its racemate. The glutamine derivative of the present invention may be selected from stereoisomers such as levo L-(-)-glutamine derivative (formula (V)), dextro D-(+)-glutamine derivative (formula (VI)), and racemic DL-(±)-glutamine derivative.
+<chemistry id="chem0028" num="0028"><img id="ib0028" file="imgb0028.tif" wi="94" he="29" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0029" num="0029"><img id="ib0029" file="imgb0029.tif" wi="65" he="30" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="15"> -->
+<chemistry id="chem0030" num="0030"><img id="ib0030" file="imgb0030.tif" wi="65" he="29" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0117" num="0117">It should be noted that, R<sub>1</sub> shown in formula (V) and formula (VI) only represents identical and/or different substituent groups.</p>
+<p id="p0118" num="0118">In some embodiments, the chiral stereoisomers of the glutamine derivative can undergo transformation of spatial configuration under suitable conditions. For example, a conformational interconversion of glutamine derivative, which results in tautomers, is as shown in formula (VII):
+<chemistry id="chem0031" num="0031"><img id="ib0031" file="imgb0031.tif" wi="152" he="31" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0119" num="0119">When the reaction of the involved reactants results in the corresponding glutamine derivative having a rigid structure, the reaction may produce different geometric isomers from the reactants.</p>
+<p id="p0120" num="0120">The aforementioned stereoisomers, geometric isomers, and tautomers are also included in the scope of the present invention.</p>
+<p id="p0121" num="0121">The term "stereoisomers" refers to compounds with the same chemical structure but different arrangement of their atoms or groups in space, including enantiomers, diastereomers, conformational isomers, geometric isomers, and atropisomers. The term "enantiomers" refers to two isomers that are non-superimposable mirror images of each other. The term "diastereomers" refers to two stereoisomers with two or more chiral centers but are not mirror images of each other; they are different in physical properties such as melting point, boiling point, spectral properties and reactivity. A mixture of diastereomers can be separated by high-resolution analysis such as electrophoresis or chromatography. The term "tautomers" refers to structural isomers with different energies and interchangeable through a low energy barrier.</p>
+<p id="p0122" num="0122">In some embodiments, the process of preparing the glutamine derivative provided by the present invention also involves the isolation, purification, or recrystallization of the reaction product. The reaction product can be obtained as a crude product from the reaction system by removing the solvent. In order to<!-- EPO <DP n="16"> --> obtain a solid substance with higher chemical purity and lower impurity level, the crude product can be dissolved, and crystallized or precipitated or recrystallized in alcohol solvents, alcohol-water solvents or other organic solvents that can be used for product recrystallization under suitable temperature, light, and mechanical vibration conditions, and then isolated to obtain the glutamine derivative of a certain crystal state. The glutamine derivative of a certain crystal state refers to a crystal of the glutamine derivative or a solvate of the glutamine derivative. The solvate of the glutamine derivative can be selected from a hydrate of the glutamine derivative or an ethanolate of the glutamine derivative.</p>
+<p id="p0123" num="0123">The "solvate" involved in the present invention refers to a co-crystal complex formed by the compound of the present invention being combined with chemically equivalent or non-chemically equivalent molecules of a solvent through non-covalent intermolecular forces, caused by external factors and internal factors when contacting the compound with the solvent. Solvents for forming the solvate include but are not limited to water, acetone, ethanol, methanol, dimethyl sulfoxide, ethyl acetate, acetic acid, and isopropanol. The "hydrate" refers to a complex or a crystal where the solvent is water, i.e., the compound being combined with chemically equivalent or non-chemically equivalent water molecules through non-covalent intermolecular forces.</p>
+<p id="p0124" num="0124">In order to obtain a solid substance with higher chemical purity and lower impurity level, the process of preparing the glutamine derivative provided by the present invention may also involve a salting-out process. The salting-out process refers to a process of forming a salt from the acyl derivative of glutamine with a corresponding organic base, inorganic base, organic acid, or inorganic acid, by acid-base neutralization, acid-base coordination, or acid-base chelation, and thereby precipitating the salt to obtain a feed acceptable salt. The inorganic acid includes, but is not limited to, hydrochloride, hydrobromide, phosphate, sulfate, nitrate, or a combination thereof. The organic base includes, but is not limited to, ammonia or triethylamine. The inorganic base includes, but is not limited to, sodium hydroxide, potassium hydroxide, magnesium hydroxide, or calcium hydroxide.</p>
+<p id="p0125" num="0125">The feed acceptable salt refers to a salt of the glutamine derivative with an organic base, inorganic base, organic acid or inorganic acid, those are non-toxic to animals. The term "feed acceptable" refers to that the substance or composition must by chemically or toxicologically suitable for and relevant to the resulting feed or fed animals.</p>
+<p id="p0126" num="0126">In some embodiments, the glutamine derivative of the present invention is an ester glutamine derivative.<!-- EPO <DP n="17"> --> During the salting-out process, an acid-base coordination salt and or acid-base chelate salt is formed from the derivative with an inorganic acid or organic acid, wherein the organic acid includes, but is not limited to, acetate, maleate, succinate, mandelate, fumarate, malonate, malate, 2-hydroxypropionate, pyruvate, oxalate, glycolate, salicylate, glucuronate, galacturonate, citrate, tartrate, aspartate, glutamate, benzoate, p-toluene, cinnamate, p-toluenesulfonate, benzenesulfonate, methanesulfonate, ethanesulfonate, triflate, or a combination thereof.</p>
+<heading id="h0006"><b>Use of the glutamine derivative of the present invention</b></heading>
+<p id="p0127" num="0127">The glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, provided by the present invention, can be used in preparing animal feed additives.</p>
+<p id="p0128" num="0128">The "animal" involved in the present invention refers to human or farmed animals who cannot synthesize organic substances from inorganic substances, but can only utilize organic substances as food for life activities such as feeding, digestion, absorption, breathing, circulation, excretion, sensation, movement, and reproduction. The "farm animals" include poultry, livestock, aquatic animals, and other artificial fed animals which include pets such as cats and dogs. The term "livestock" comprises, for example, pigs, cattle, horses, goats, sheep, deer, and any species of a variety of useful rodents. The term "poultry" comprises, for example, chickens, ducks, geese, quails, and pigeons. The term "aquatic animals" comprises, for example, fish, shrimps, turtles, and soft-shelled turtles.</p>
+<p id="p0129" num="0129">The glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, provided by the present invention, can be used in preparing non-nutritive feed additives for improving the production performance of animals at every growth stage, wherein the animals can be selected from livestock, poultry, aquatic animals or pet, at every growth stage.</p>
+<p id="p0130" num="0130">Further, the livestock includes but is not limited to pigs, cattle, horses, rabbits, sheep, horses, rabbits, martens and donkeys; the poultry includes but is not limited to chickens, turkeys, ducks, geese, quails or pigeons; the aquatic animals include but are not limited to fish, shrimps, turtles, crabs, soft-shelled turtles, bullfrogs, eels and loaches; the pets include but are not limited to dogs or cats of various subspecies.</p>
+<p id="p0131" num="0131">In one embodiment, the glutamine derivative, the racemate thereof, the stereoisomer thereof, the<!-- EPO <DP n="18"> --> geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, provided by the present invention, is used in preparing feed additives for improving the production performance of hogs, exhibiting improvement effect on the average daily weight gain and feed efficiency.</p>
+<p id="p0132" num="0132">In another embodiment, the feed additives prepared from the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, provided by the present invention, can significantly improve the production performance of broilers or layers.</p>
+<p id="p0133" num="0133">In one embodiment, the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, provided by the present invention, is used in preparing feed additives for improving the production performance of fish.</p>
+<p id="p0134" num="0134">The feed acceptable salt of the glutamine derivative, provided by the present invention and used in preparing animal feed additives, is a metal ion salt.</p>
+<p id="p0135" num="0135">Optionally, the feed acceptable salt of the glutamine derivative is a metal ion salt of the glutamine derivative of formula (I).</p>
+<p id="p0136" num="0136">Further, Y in the glutamine derivative of formula (I) is OH, and the metal ion salt is a salt that meets the requirements on the preparation of feed additives or feeds, and formed by ion exchange between the OH group and a metal ion when Y in the glutamine derivative of formula (I) is OH.</p>
+<p id="p0137" num="0137">Specifically, the metal ion is selected from a monovalent metal ion, a divalent metal ion, or a trivalent metal ion.</p>
+<p id="p0138" num="0138">In some embodiments, the monovalent metal ion is sodium ion (Na(I)), potassium ion (K(I)), or lithium ion (Li(I)).</p>
+<p id="p0139" num="0139">In some embodiments, the divalent metal ion is calcium ion Ca(II), magnesium ion Mg(II), copper ion Cu(II), zinc ion Zn(II), ferrous ion Fe(II), manganese ion Mn(II), cobalt ion Co(II), or nickel ion Ni(II).</p>
+<p id="p0140" num="0140">In one embodiment, the metal ion salt of the glutamine derivative used in the preparation of animal feed additives is a zinc ion salt, and the animal feed additives are organic zinc preparations for animals, as a substitute for high level inorganic zinc.</p>
+<p id="p0141" num="0141">In one embodiment, the metal ion salt of the glutamine derivative used in the preparation of animal feed<!-- EPO <DP n="19"> --> additives is a copper ion salt, and the animal feed additives are organic copper preparations for animals, as a substitute for high level inorganic copper for animals.</p>
+<p id="p0142" num="0142">In one embodiment, the metal ion salt of the glutamine derivative used in the preparation of animal feed additives is an iron ion salt, and the animal feed additives are iron supplements for animals</p>
+<p id="p0143" num="0143">In some embodiments, the trivalent metal ion is aluminum ion Al(III), chromium ion Cr(III), or iron ion Fe(III).</p>
+<heading id="h0007"><b>Feed compositions involved in the present invention</b></heading>
+<p id="p0144" num="0144">A feed composition comprises at least one of the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, and the feed acceptable salt thereof, and an adjuvant suitable for feeds. The excipient for feeds can be a carrier, a diluent, an excipient, a dissolvent or a combination thereof.</p>
+<p id="p0145" num="0145">The feeds involved in the present invention refer to products that are industrially processed and manufactured for animal consumption.</p>
+<p id="p0146" num="0146">The term "composition" refers to a collection of compounds comprising one or more compounds as active ingredients.</p>
+<p id="p0147" num="0147">The "comprise," "include," "contain," "with" and variants thereof in the present invention mean an open expression, which includes the contents explicitly stated in the present invention and does not exclude contents of other aspects..</p>
+<p id="p0148" num="0148">The term "carrier" refers to a substance suitable for feed, which can carry active ingredients, improve their dispersibility, and exhibits high chemical stability and adsorption. The carrier can be an organic carrier or inorganic carrier. Organic carriers are materials rich in crude fibers, including but not limited to corn flour, corn cob flour, wheat bran, rice husk flour, defatted rice bran, rice bran, corn stalk flour, and peanut husk flour. Inorganic carriers are minerals, mainly classified into calcium salts and silicon oxides and used for the production of trace element premixes, including but not limited to calcium carbonate, silicate, vermiculite, zeolite, and meerschaum.</p>
+<p id="p0149" num="0149">The term "diluent" refers to a substance that uniformly disperse the additive raw materials, and dilutes the high concentrations of additive raw materials into low-concentration premixed agents or premixes, which separates trace components and reduces interactions between active ingredients, so as to increase the stability<!-- EPO <DP n="20"> --> of the active ingredients without affecting the physical and chemical properties of involved substances. The diluent can be an organic diluent or inorganic diluent. Organic diluents include but are not limited to corn flour, degerminated corn flour, dextrose (glucose), sucrose, semolina with bran, fried soybean flour, secondary flour, and corn gluten meal. Inorganic diluents include but are not limited to limestone, calcium dihydrogen phosphate, shell powder, kaolin (white clay), table salt and sodium sulfate.</p>
+<p id="p0150" num="0150">The excipient refers to a wetting agent that induces the inherent viscosity of a substance, an adhesive that binds the substances together, a disintegrant that breaks the entire sheet of a substance into many fine particles, a retention aid that reduces the friction between particles, or an anti-adhesion agent to prevent material adhesion, including but not limited to magnesium stearate, talc, plant oils, magnesium lauryl sulfate, starch, starch slurry, water, inorganic salts, dextrin, and powdered sugar.</p>
+<p id="p0151" num="0151">The term "dissolvent" refers to a solvent required to dissolve or disperse solids, including but not limited to water, ethanol, and glycerin.</p>
+<p id="p0152" num="0152">In some embodiments, the feed composition further comprises an additional animal feed additive and/or animal feed raw material.</p>
+<p id="p0153" num="0153">Animal feed additives include nutritive feed additives, general feed additives, or medicinal feed additives.</p>
+<p id="p0154" num="0154">The nutritive feed additives refer to substances, in small or trace amounts, that are added to a compound feed for balancing feed nutrients, improving feed utilization, and exhibiting direct nutritional effects on animals, which include amino acids, amino acid salts and their analogs, vitamins and vitamin-like substances, mineral elements and their complexes (chelates), microbial enzyme preparations or non-protein nitrogen.</p>
+<p id="p0155" num="0155">The general feed additives, also called non-nutritive additives, refer to non-nutritive substances that are added into the feed to improve feed utilization and to ensure feed quality and properties, and are beneficial to animal health or metabolism, including growth promoters, vermifuges, flavorings, attractants, feed conditioners, feed modifiers, feed storage agents and Chinese herbal medicine additives.</p>
+<p id="p0156" num="0156">Further specifically, the non-nutritive additives are growth promoters, including but not limited to butyric acid, calcium butyrate, sodium butyrate, tannic acid, p-thymol, p-thymol esters, p-thymol salts, 2-hydroxybenzoic acid, β-acids, β-acid esters, β-acid salts, hexahydro β-acids, hexahydro β-acid esters, hexahydro β-acid salts, benzoic acid or calcium benzoate, zinc oxide, zinc sulfate, and zinc chloride.</p>
+<p id="p0157" num="0157">In one embodiment, the non-nutritive additive is calcium butyrate.<!-- EPO <DP n="21"> --></p>
+<p id="p0158" num="0158">In another embodiment, the non-nutritive additive is tannic acid.</p>
+<p id="p0159" num="0159">Specifically, medicinal feed additives include but are not limited to premixed veterinary drugs with carrier or diluent, that are capable of preventing animal diseases or promoting animal growth and can be presented in feeds for a long-term use.</p>
+<p id="p0160" num="0160">Further specifically, the medicinal feed additives are feed antibiotics, and the feed antibiotics include but are not limited to polymyxin, salinomycin, avilamycin, bacitracin, virginiamycin, nasitide, flavomycin, enramycin, kitasamycin, olaquindox, oxytetracycline, or chlortetracycline.</p>
+<p id="p0161" num="0161">In some embodiments, the compositions comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, further comprise one or more of nutritive feed additives, general feed additives, and medicinal feed additives.</p>
+<p id="p0162" num="0162">In some embodiments, the animal feed raw materials are grains and their processed products, oilseeds and their processed products, legumes and their processed products, tubers/tuberous roots and their processed products, other seeds and fruits and their processed products, forages/roughages and their processed products, other plants/algae and their processed products, dairy products and their by-products, terrestrial animal products and their by-products, fish/other aquatic organisms and their by-products, minerals, microbial fermentation products and by-products, other feed raw materials.</p>
+<heading id="h0008"><b>Use of feed compositions</b></heading>
+<p id="p0163" num="0163">The present invention involves the use of the above feed compositions comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof.</p>
+<p id="p0164" num="0164">In some embodiments, the feed compositions comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, can be used in preparing animal feed additives.</p>
+<p id="p0165" num="0165">The animal feed additives, prepared from the feed compositions comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, are livestock feed additives, poultry feed additives, aquatic animal feed additives, or pet feed additives.<!-- EPO <DP n="22"> --></p>
+<p id="p0166" num="0166">Specifically, the feed compositions comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, are used to prepare feed additives for livestock, wherein the livestock include but are not limited to pigs, cattle, sheep, horses, rabbits, and minks, of various growth stages.</p>
+<p id="p0167" num="0167">Specifically, the feed compositions comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, are used to prepare feed additives for poultry, wherein the poultry include but are not limited to chickens, ducks, geese, and pigeons, of various growth stages.</p>
+<p id="p0168" num="0168">Specifically, the feed compositions comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, are used to prepare feed additives for aquatic animals, wherein the aquatic animals include but are not limited to fish, shrimps, crabs, soft-shelled turtles, and eels, of various growth stages.</p>
+<p id="p0169" num="0169">Specifically, the feed compositions comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, are used to prepare feed additives for pets, wherein the pets include but are not limited to farm-raised dogs or cats.</p>
+<p id="p0170" num="0170">In some embodiments, the animal feed additives, prepared from the feed compositions comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, are premixes, multi-premixes, aqueous solutions, or granules.</p>
+<p id="p0171" num="0171">In some embodiments, the feed compositions comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, are used in preparing animal feeds.</p>
+<p id="p0172" num="0172">The animal feeds, prepared from the feed compositions comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, are livestock feeds, poultry feeds, aquatic animal feeds, or pet feeds.</p>
+<p id="p0173" num="0173">Specifically, the feed compositions comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed<!-- EPO <DP n="23"> --> acceptable salt thereof, are used to prepare feeds for livestock, wherein the livestock include but are not limited to pigs, cattle, sheep, horses, rabbits, and minks, of various growth stages.</p>
+<p id="p0174" num="0174">Specifically, the feed compositions comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, are used to prepare feeds for poultry, wherein the poultry include but are not limited to chickens, ducks, geese, and pigeons, of various growth stages.</p>
+<p id="p0175" num="0175">Specifically, the feed compositions comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, are used to prepare feeds for aquatic animals, wherein the aquatic animals include but are not limited to fish, shrimps, crabs, soft-shelled turtles, and eels, of various growth stages.</p>
+<p id="p0176" num="0176">Specifically, the feed compositions comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, are used to prepare feeds for pets, wherein the pets include but are not limited to farm-raised dogs or cats.</p>
+<p id="p0177" num="0177">In some embodiments, the animal feeds, prepared from the feed compositions comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, are single feeds, concentrated feeds, formula feeds, multi-premixes or concentrate supplements.</p>
+<p id="p0178" num="0178">Specifically, the compound feeds are complete compound feeds.</p>
+<heading id="h0009"><b>Methods for improving production performance of farmed animals</b></heading>
+<p id="p0179" num="0179">In some feeding embodiments, production performance of animals can be significantly improved by farmers giving feeds in combination with the feed additives comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, to the animals.</p>
+<p id="p0180" num="0180">In some embodiments, the feed additives are premixes, multi-premixes, granules, or aqueous solutions, and provided to animals after mixed with animal feeds.</p>
+<p id="p0181" num="0181">The animals are livestock, poultry, aquatic animals, or pets.</p>
+<p id="p0182" num="0182">Specifically, the livestock include but are not limited to pigs, cattle, sheep, horses, rabbits, and minks, of<!-- EPO <DP n="24"> --> various growth stages; the poultry include but are not limited to chickens, ducks, geese, and pigeons, of various growth stages; the aquatic animals include but are not limited to fish, shrimps, crabs, soft-shelled turtles, and eels, of various growth stages; the pets include but are not limited to farm-raised dogs or cats.</p>
+<p id="p0183" num="0183">In one embodiment, farmers give the feeds in combination with the feed additives comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, to weaned pigs, which significantly improves the average daily weight gain and feed efficiency of the weaned pigs.</p>
+<p id="p0184" num="0184">In one embodiment, farmers give the feeds in combination with the feed additives comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, to broilers, which significantly reduces the feed conversion ratio and improves the feed efficiency of the broilers.</p>
+<p id="p0185" num="0185">In one embodiment, farmers give the feeds in combination with the feed additives comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, to fish.</p>
+<p id="p0186" num="0186">In one embodiment, farmers give the feeds in combination with the feed additives comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, to young dogs.</p>
+<p id="p0187" num="0187">In some other feeding embodiments, production performance of animals can be significantly improved by farmers giving the feed compositions comprising the glutamine derivative, the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, or the feed acceptable salt thereof, to the animals.</p>
+<p id="p0188" num="0188">Optionally, the feed compositions are feed additive premixes, feed additive multi-premixes, granules, or aqueous solutions, given in combination with feeds to the animals.</p>
+<p id="p0189" num="0189">In one embodiment, the feed compositions are feed additive premixes.</p>
+<p id="p0190" num="0190">In one embodiment, the feed compositions are feed additive compound multi-premixes.</p>
+<p id="p0191" num="0191">Optionally, the feed compositions are concentrated feeds, compound feeds, formula premixes or concentrate supplements, which are directly given to animals as animal feeds</p>
+<p id="p0192" num="0192">In one embodiment, the feed compositions are complete formula feeds.<!-- EPO <DP n="25"> --></p>
+<heading id="h0010"><b>DETAILED DESCRIPTION OF THE EMBODIMENTS</b></heading>
+<p id="p0193" num="0193">The embodiments of the present invention will be described in detail below with examples, but those skilled in the art will understand that the following examples are only used to illustrate the present invention and should not be regarded as limiting the scope of the present invention. If specific conditions are not indicated in the examples, they shall be carried out in accordance with the conventional conditions or the conditions recommended by the manufacturer. Where the involved reagents or instruments are presented without manufactures' names, they are all conventional products that can be commercially purchased.</p>
+<heading id="h0011">Breeding experiments</heading>
+<p id="p0194" num="0194">Glutamine derivatives involved in the breeding experiments are as shown in Table 1.
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>Table 1: Glutamine derivative</title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="35mm"/>
+<colspec colnum="2" colname="col2" colwidth="24mm"/>
+<colspec colnum="3" colname="col3" colwidth="35mm"/>
+<colspec colnum="4" colname="col4" colwidth="37mm"/>
+<colspec colnum="5" colname="col5" colwidth="36mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col5" align="center" valign="top">
+<chemistry id="chem0032" num="0032"><img id="ib0032" file="imgb0032.tif" wi="21" he="14" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row>
+<entry align="center" valign="top">Serial number</entry>
+<entry align="center" valign="top">R<sup>1</sup></entry>
+<entry align="center" valign="top">R<sup>2</sup></entry>
+<entry align="center" valign="top">Y</entry>
+<entry align="center" valign="top">X</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">Compound 1</entry>
+<entry align="center">
+<chemistry id="chem0033" num="0033"><img id="ib0033" file="imgb0033.tif" wi="9" he="7" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0034" num="0034"><img id="ib0034" file="imgb0034.tif" wi="11" he="9" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0035" num="0035"><img id="ib0035" file="imgb0035.tif" wi="11" he="8" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0036" num="0036"><img id="ib0036" file="imgb0036.tif" wi="12" he="8" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row>
+<entry align="center">Compound 2</entry>
+<entry align="center">
+<chemistry id="chem0037" num="0037"><img id="ib0037" file="imgb0037.tif" wi="9" he="7" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0038" num="0038"><img id="ib0038" file="imgb0038.tif" wi="11" he="9" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0039" num="0039"><img id="ib0039" file="imgb0039.tif" wi="11" he="8" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0040" num="0040"><img id="ib0040" file="imgb0040.tif" wi="18" he="8" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row>
+<entry align="center">Compound 3</entry>
+<entry align="center">
+<chemistry id="chem0041" num="0041"><img id="ib0041" file="imgb0041.tif" wi="9" he="7" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0042" num="0042"><img id="ib0042" file="imgb0042.tif" wi="11" he="9" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0043" num="0043"><img id="ib0043" file="imgb0043.tif" wi="11" he="8" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0044" num="0044"><img id="ib0044" file="imgb0044.tif" wi="15" he="8" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row>
+<entry align="center">Compound 4</entry>
+<entry align="center">
+<chemistry id="chem0045" num="0045"><img id="ib0045" file="imgb0045.tif" wi="9" he="7" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0046" num="0046"><img id="ib0046" file="imgb0046.tif" wi="11" he="9" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0047" num="0047"><img id="ib0047" file="imgb0047.tif" wi="11" he="8" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0048" num="0048"><img id="ib0048" file="imgb0048.tif" wi="15" he="8" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row>
+<entry align="center">Compound 5</entry>
+<entry align="center">
+<chemistry id="chem0049" num="0049"><img id="ib0049" file="imgb0049.tif" wi="9" he="7" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0050" num="0050"><img id="ib0050" file="imgb0050.tif" wi="11" he="9" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0051" num="0051"><img id="ib0051" file="imgb0051.tif" wi="11" he="8" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0052" num="0052"><img id="ib0052" file="imgb0052.tif" wi="10" he="8" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row>
+<entry align="center">Compound 6</entry>
+<entry align="center">
+<chemistry id="chem0053" num="0053"><img id="ib0053" file="imgb0053.tif" wi="9" he="7" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0054" num="0054"><img id="ib0054" file="imgb0054.tif" wi="11" he="9" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0055" num="0055"><img id="ib0055" file="imgb0055.tif" wi="16" he="8" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0056" num="0056"><img id="ib0056" file="imgb0056.tif" wi="12" he="8" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row>
+<entry align="center">Compound 7</entry>
+<entry align="center">
+<chemistry id="chem0057" num="0057"><img id="ib0057" file="imgb0057.tif" wi="9" he="7" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0058" num="0058"><img id="ib0058" file="imgb0058.tif" wi="11" he="9" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0059" num="0059"><img id="ib0059" file="imgb0059.tif" wi="16" he="7" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0060" num="0060"><img id="ib0060" file="imgb0060.tif" wi="12" he="8" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row>
+<entry align="center">Compound 8</entry>
+<entry align="center">
+<chemistry id="chem0061" num="0061"><img id="ib0061" file="imgb0061.tif" wi="9" he="7" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0062" num="0062"><img id="ib0062" file="imgb0062.tif" wi="11" he="9" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0063" num="0063"><img id="ib0063" file="imgb0063.tif" wi="16" he="7" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0064" num="0064"><img id="ib0064" file="imgb0064.tif" wi="12" he="8" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row>
+<entry align="center">Compound 9</entry>
+<entry align="center">
+<chemistry id="chem0065" num="0065"><img id="ib0065" file="imgb0065.tif" wi="9" he="7" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0066" num="0066"><img id="ib0066" file="imgb0066.tif" wi="11" he="9" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0067" num="0067"><img id="ib0067" file="imgb0067.tif" wi="16" he="7" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0068" num="0068"><img id="ib0068" file="imgb0068.tif" wi="12" he="8" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row>
+<entry align="center">Compound 10</entry>
+<entry align="center">
+<chemistry id="chem0069" num="0069"><img id="ib0069" file="imgb0069.tif" wi="9" he="7" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0070" num="0070"><img id="ib0070" file="imgb0070.tif" wi="14" he="10" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0071" num="0071"><img id="ib0071" file="imgb0071.tif" wi="11" he="8" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0072" num="0072"><img id="ib0072" file="imgb0072.tif" wi="12" he="8" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row>
+<entry align="center">Compound 11</entry>
+<entry align="center">
+<chemistry id="chem0073" num="0073"><img id="ib0073" file="imgb0073.tif" wi="9" he="7" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0074" num="0074"><img id="ib0074" file="imgb0074.tif" wi="15" he="10" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0075" num="0075"><img id="ib0075" file="imgb0075.tif" wi="11" he="8" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0076" num="0076"><img id="ib0076" file="imgb0076.tif" wi="12" he="8" img-content="chem" img-format="tif"/></chemistry></entry></row><!-- EPO <DP n="26"> -->
+<row>
+<entry align="center">Compound 12</entry>
+<entry align="center">
+<chemistry id="chem0077" num="0077"><img id="ib0077" file="imgb0077.tif" wi="9" he="7" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0078" num="0078"><img id="ib0078" file="imgb0078.tif" wi="15" he="10" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0079" num="0079"><img id="ib0079" file="imgb0079.tif" wi="11" he="8" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0080" num="0080"><img id="ib0080" file="imgb0080.tif" wi="12" he="8" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row>
+<entry align="center">Compound 13</entry>
+<entry align="center">
+<chemistry id="chem0081" num="0081"><img id="ib0081" file="imgb0081.tif" wi="9" he="7" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0082" num="0082"><img id="ib0082" file="imgb0082.tif" wi="12" he="9" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0083" num="0083"><img id="ib0083" file="imgb0083.tif" wi="11" he="8" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0084" num="0084"><img id="ib0084" file="imgb0084.tif" wi="12" he="8" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row>
+<entry align="center">Compound 14</entry>
+<entry align="center">
+<chemistry id="chem0085" num="0085"><img id="ib0085" file="imgb0085.tif" wi="9" he="7" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0086" num="0086"><img id="ib0086" file="imgb0086.tif" wi="12" he="9" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0087" num="0087"><img id="ib0087" file="imgb0087.tif" wi="11" he="8" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0088" num="0088"><img id="ib0088" file="imgb0088.tif" wi="12" he="8" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row>
+<entry align="center">Compound 15</entry>
+<entry align="center">
+<chemistry id="chem0089" num="0089"><img id="ib0089" file="imgb0089.tif" wi="9" he="7" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0090" num="0090"><img id="ib0090" file="imgb0090.tif" wi="12" he="9" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0091" num="0091"><img id="ib0091" file="imgb0091.tif" wi="11" he="8" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry align="center">
+<chemistry id="chem0092" num="0092"><img id="ib0092" file="imgb0092.tif" wi="12" he="8" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row>
+<entry namest="col1" nameend="col5" align="left">Note: It should be clarified that, the Y groups in compounds 8 to 10 only represents the combination of substances, but does not show the salt structures represented by the compounds.</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0012">Example 1: Effect of the glutamine derivatives on the production performance of hogs</heading>
+<p id="p0195" num="0195">480 65-day-old Duroc×Landrace×Yorkshire cross-bred bacon-type pigs with similar body weight, were randomly divided into 16 groups, with 3 replications per group and 10 pigs (half of male and female) per replication. The pig pen and tools were sterilized before the experiment. During the experiment, the piglets were kept in separate regions in the same pig pen under the same feeding and management conditions. The piglets were given ad libitum access to food and water, and feeds were provided twice every day. The groups comprised one control group and treatment groups 2 to 16, wherein piglets of the control group were given basal ration only, while piglets of the treatment groups 2 to 16 were respectively given basal ration in combination with 800 ppm of different glutamine derivatives, as shown in Table 2. During the entire process, each treatment group was not given other antioxidants or growth promoters. The experiment lasted for 28 days. At the day when the piglets were 93-day old and without withdrawing feed and water for 12 hours, taking each replicate as one unit, body weights of the piglets were measured for calculating average daily feed intake (ADFI, g/d per piglet), average daily weigh gain (ADG, g/d per piglet), and feed conversion ratio (FCR). <maths id="math0001" num=""><math display="block"><mtable columnalign="left"><mtr><mtd><mrow><mspace width="1ex"/><mspace width="1ex"/><mspace width="1ex"/><mspace width="1ex"/><mspace width="1ex"/><mspace width="1ex"/><mspace width="1ex"/><mi>Average</mi><mspace width="1ex"/><mi>daily</mi><mspace width="1ex"/><mi>feed</mi><mspace width="1ex"/><mi>intake</mi></mrow><mo>=</mo><mrow><mfenced separators=""><mi>Total</mi><mspace width="1ex"/><mi>weight</mi><mspace width="1ex"/><mi>of</mi><mspace width="1ex"/><mi>provided</mi><mspace width="1ex"/><mi>feed</mi><mo>−</mo><mi>Weight</mi><mspace width="1ex"/><mi>of</mi><mspace width="1ex"/><mi>remaining</mi><mspace width="1ex"/><mi>feed</mi></mfenced><mo>/</mo><mrow><mo>(</mo><mrow><mi>Number</mi><mspace width="1ex"/><mi>of</mi><mspace width="1ex"/><mi>days</mi></mrow></mrow></mrow></mtd></mtr><mtr><mtd><mo>×</mo><mrow><mspace width="1ex"/><mi>Amount</mi><mspace width="1ex"/><mi>of</mi><mspace width="1ex"/><mi>piglets</mi><mspace width="1ex"/><mi>in</mi><mspace width="1ex"/><mi>each</mi><mspace width="1ex"/></mrow><mrow><mi>replicate</mi><mo>)</mo></mrow></mtd></mtr></mtable></math><img id="ib0093" file="imgb0093.tif" wi="165" he="14" img-content="math" img-format="tif"/></maths> <maths id="math0002" num=""><math display="block"><mi>Average</mi><mspace width="1ex"/><mi>daily</mi><mspace width="1ex"/><mi>weight</mi><mspace width="1ex"/><mi>gain</mi><mo>=</mo><mrow><mfenced separators=""><mi>Average</mi><mspace width="1ex"/><mi>final</mi><mspace width="1ex"/><mi>body</mi><mspace width="1ex"/><mi>weight</mi><mo>−</mo><mi>Average</mi><mspace width="1ex"/><mi>initial</mi><mspace width="1ex"/><mi>body</mi><mspace width="1ex"/><mi>weight</mi></mfenced><mo>/</mo><mrow><mi>Number</mi><mspace width="1ex"/><mi>of</mi><mspace width="1ex"/><mi>days</mi></mrow></mrow></math><img id="ib0094" file="imgb0094.tif" wi="157" he="5" img-content="math" img-format="tif"/></maths> <maths id="math0003" num=""><math display="block"><mi>Feed</mi><mspace width="1ex"/><mi>conversion</mi><mspace width="1ex"/><mi>ratio</mi><mo>=</mo><mi>Average</mi><mspace width="1ex"/><mi>daily</mi><mspace width="1ex"/><mi>feed</mi><mspace width="1ex"/><mrow><mi>intake</mi><mo>/</mo><mrow><mi>Average</mi><mspace width="1ex"/><mi>daily</mi><mspace width="1ex"/><mi>weight</mi><mspace width="1ex"/><mi>gain</mi></mrow></mrow></math><img id="ib0095" file="imgb0095.tif" wi="118" he="5" img-content="math" img-format="tif"/></maths></p>
+<p id="p0196" num="0196">Results were as shown in Table 2, wherein the effect of the samples on the production performance of piglets was evaluated in terms of three aspects: feed intake, weight gain, and feed efficiency.<!-- EPO <DP n="27"> -->
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>Table 2 Effect of the glutamine derivatives on the production performance of piglets</title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="25mm"/>
+<colspec colnum="3" colname="col3" colwidth="32mm"/>
+<colspec colnum="4" colname="col4" colwidth="32mm"/>
+<colspec colnum="5" colname="col5" colwidth="23mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle">Group</entry>
+<entry align="center" valign="middle">Sample</entry>
+<entry align="center" valign="middle">ADFI (g/d per piglet)</entry>
+<entry align="center" valign="middle">ADG (g/d per piglet)</entry>
+<entry align="center" valign="middle">FCR</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">1586</entry>
+<entry align="center" valign="middle">588</entry>
+<entry align="center" valign="middle">2.695</entry></row>
+<row>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">Compound 1</entry>
+<entry align="center" valign="middle">1657</entry>
+<entry align="center" valign="middle">661</entry>
+<entry align="center" valign="middle">2.506</entry></row>
+<row>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">Compound 2</entry>
+<entry align="center" valign="middle">1648</entry>
+<entry align="center" valign="middle">651</entry>
+<entry align="center" valign="middle">2.531</entry></row>
+<row>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">Compound 3</entry>
+<entry align="center" valign="middle">1691</entry>
+<entry align="center" valign="middle">670</entry>
+<entry align="center" valign="middle">2.524</entry></row>
+<row>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">Compound 4</entry>
+<entry align="center" valign="middle">1602</entry>
+<entry align="center" valign="middle">641</entry>
+<entry align="center" valign="middle">2.500</entry></row>
+<row>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">Compound 5</entry>
+<entry align="center" valign="middle">1633</entry>
+<entry align="center" valign="middle">651</entry>
+<entry align="center" valign="middle">2.510</entry></row>
+<row>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">Compound 6</entry>
+<entry align="center" valign="middle">1615</entry>
+<entry align="center" valign="middle">646</entry>
+<entry align="center" valign="middle">2.499</entry></row>
+<row>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">Compound 7</entry>
+<entry align="center" valign="middle">1674</entry>
+<entry align="center" valign="middle">672</entry>
+<entry align="center" valign="middle">2.491</entry></row>
+<row>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">Compound 8</entry>
+<entry align="center" valign="middle">1670</entry>
+<entry align="center" valign="middle">671</entry>
+<entry align="center" valign="middle">2.488</entry></row>
+<row>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">Compound 9</entry>
+<entry align="center" valign="middle">1636</entry>
+<entry align="center" valign="middle">652</entry>
+<entry align="center" valign="middle">2.511</entry></row>
+<row>
+<entry align="center" valign="middle">11</entry>
+<entry align="center" valign="middle">Compound 10</entry>
+<entry align="center" valign="middle">1607</entry>
+<entry align="center" valign="middle">657</entry>
+<entry align="center" valign="middle">2.508</entry></row>
+<row>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">Compound 11</entry>
+<entry align="center" valign="middle">1592</entry>
+<entry align="center" valign="middle">634</entry>
+<entry align="center" valign="middle">2.512</entry></row>
+<row>
+<entry align="center" valign="middle">13</entry>
+<entry align="center" valign="middle">Compound 12</entry>
+<entry align="center" valign="middle">1599</entry>
+<entry align="center" valign="middle">633</entry>
+<entry align="center" valign="middle">2.528</entry></row>
+<row>
+<entry align="center" valign="middle">14</entry>
+<entry align="center" valign="middle">Compound 13</entry>
+<entry align="center" valign="middle">1609</entry>
+<entry align="center" valign="middle">627</entry>
+<entry align="center" valign="middle">2.566</entry></row>
+<row>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">Compound 14</entry>
+<entry align="center" valign="middle">1582</entry>
+<entry align="center" valign="middle">621</entry>
+<entry align="center" valign="middle">2.548</entry></row>
+<row>
+<entry align="center" valign="middle">16</entry>
+<entry align="center" valign="middle">Compound 15</entry>
+<entry align="center" valign="middle">1670</entry>
+<entry align="center" valign="middle">650</entry>
+<entry align="center" valign="middle">2.571</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0197" num="0197">As can be seen from the results, the samples had no significant effect on the feed intake of the piglets, even though increase in feed intake was observed in several treatment groups as compared with the control group. However, the average daily weight gain of every treatment group had increased to varying degrees regardless of change in feed intake. In terms of feed conversion ratio, a reduction of 4.6%-7.6% was observed in every treatment group as compared with the control group, wherein the treatment groups 8 to 10 exhibited the most significant results.</p>
+<heading id="h0013">Example 2: Effect of the glutamine derivatives on the production performance of broilers</heading>
+<p id="p0198" num="0198">The experiment was conducted with single-factor randomized design. 720 1-day-old yellow broilers with a similar average body weight of 50 g, was randomly divided into 16 groups, each group consisting of 3<!-- EPO <DP n="28"> --> replicates and equal numbers of males and females, and each replicate consisting of 15 yellow broilers. The chicken house and tools were sterilized before the experiment. During the experiment, the broilers were kept in separate regions in the same chicken house under the same feeding and management conditions. Basal ration mainly consisted of corn and soybean meal. During the entire process, each treatment group was not given other antioxidants or growth promoters. The groups comprised one control group and treatment groups 2 to 16, wherein broilers of the control group were given basal ration only, while broilers of the treatment groups 2 to 16 were respectively given basal ration in combination with 750 ppm of different glutamine derivatives, as shown in Table 3. The experiment lasted for 20 days. The broilers were given ad libitum access to food and water, and feeds were provided twice every day. At the day when the broilers were 21-day old (withdrawing feed for 12 hours, without withdrawing water), taking each replicate as one unit, body weights of the broilers were measured for calculating average daily feed intake (ADFI, g/d per broiler), average daily weigh gain (ADG, g/d per broiler), and feed conversion ratio (FCR). <maths id="math0004" num=""><math display="block"><mi>Feed</mi><mspace width="1ex"/><mi>conversion</mi><mspace width="1ex"/><mi>ratio</mi><mspace width="1ex"/><mfenced><mi>FCR</mi></mfenced><mo>=</mo><mi>Average</mi><mspace width="1ex"/><mi>daily</mi><mspace width="1ex"/><mi>feed</mi><mspace width="1ex"/><mrow><mi>intake</mi><mo>/</mo><mrow><mi>Average</mi><mspace width="1ex"/><mi>daily</mi><mspace width="1ex"/><mi>weight</mi><mspace width="1ex"/><mi>gain</mi></mrow></mrow></math><img id="ib0096" file="imgb0096.tif" wi="128" he="5" img-content="math" img-format="tif"/></maths>
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>Table 3 Effect of the glutamine derivatives on the production performance of broilers</title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="20mm"/>
+<colspec colnum="2" colname="col2" colwidth="25mm"/>
+<colspec colnum="3" colname="col3" colwidth="33mm"/>
+<colspec colnum="4" colname="col4" colwidth="33mm"/>
+<colspec colnum="5" colname="col5" colwidth="23mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">Sample</entry>
+<entry align="center" valign="middle">ADFI (g/d per broiler)</entry>
+<entry align="center" valign="middle">ADG (g/d per broiler)</entry>
+<entry align="center" valign="middle">FCR</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">31.1</entry>
+<entry align="center" valign="middle">12.6</entry>
+<entry align="center" valign="middle">2.47</entry></row>
+<row>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">Compound 1</entry>
+<entry align="center" valign="middle">32.8</entry>
+<entry align="center" valign="middle">14.8</entry>
+<entry align="center" valign="middle">2.22</entry></row>
+<row>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">Compound 2</entry>
+<entry align="center" valign="middle">31.5</entry>
+<entry align="center" valign="middle">14.1</entry>
+<entry align="center" valign="middle">2.23</entry></row>
+<row>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">Compound 3</entry>
+<entry align="center" valign="middle">31.9</entry>
+<entry align="center" valign="middle">14.4</entry>
+<entry align="center" valign="middle">2.21</entry></row>
+<row>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">Compound 4</entry>
+<entry align="center" valign="middle">32.1</entry>
+<entry align="center" valign="middle">14.3</entry>
+<entry align="center" valign="middle">2.25</entry></row>
+<row>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">Compound 5</entry>
+<entry align="center" valign="middle">30.9</entry>
+<entry align="center" valign="middle">13.7</entry>
+<entry align="center" valign="middle">2.26</entry></row>
+<row>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">Compound 6</entry>
+<entry align="center" valign="middle">31.2</entry>
+<entry align="center" valign="middle">14.2</entry>
+<entry align="center" valign="middle">2.20</entry></row>
+<row>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">Compound 7</entry>
+<entry align="center" valign="middle">31.7</entry>
+<entry align="center" valign="middle">14.5</entry>
+<entry align="center" valign="middle">2.18</entry></row>
+<row>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">Compound 8</entry>
+<entry align="center" valign="middle">30.6</entry>
+<entry align="center" valign="middle">14.2</entry>
+<entry align="center" valign="middle">2.16</entry></row>
+<row>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">Compound 9</entry>
+<entry align="center" valign="middle">32.5</entry>
+<entry align="center" valign="middle">14.8</entry>
+<entry align="center" valign="middle">2.20</entry></row>
+<row>
+<entry align="center" valign="middle">11</entry>
+<entry align="center" valign="middle">Compound 10</entry>
+<entry align="center" valign="middle">32.2</entry>
+<entry align="center" valign="middle">14.5</entry>
+<entry align="center" valign="middle">2.22</entry></row>
+<row>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">Compound 11</entry>
+<entry align="center" valign="middle">30.8</entry>
+<entry align="center" valign="middle">13.8</entry>
+<entry align="center" valign="middle">2.24</entry></row>
+<row>
+<entry align="center" valign="middle">13</entry>
+<entry align="center" valign="middle">Compound 12</entry>
+<entry align="center" valign="middle">31.6</entry>
+<entry align="center" valign="middle">14.0</entry>
+<entry align="center" valign="middle">2.26</entry></row><!-- EPO <DP n="29"> -->
+<row>
+<entry align="center" valign="middle">14</entry>
+<entry align="center" valign="middle">Compound 13</entry>
+<entry align="center" valign="middle">31.3</entry>
+<entry align="center" valign="middle">13.7</entry>
+<entry align="center" valign="middle">2.28</entry></row>
+<row>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">Compound 14</entry>
+<entry align="center" valign="middle">31.8</entry>
+<entry align="center" valign="middle">14.0</entry>
+<entry align="center" valign="middle">2.27</entry></row>
+<row>
+<entry align="center" valign="middle">16</entry>
+<entry align="center" valign="middle">Compound 15</entry>
+<entry align="center" valign="middle">32.4</entry>
+<entry align="center" valign="middle">14.6</entry>
+<entry align="center" valign="middle">2.22</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0199" num="0199">Results were as shown in Table 3. As can be seen from the results, the samples had no significant effect on the feed intake of the broilers. In terms of average daily weight gain, the treatment groups exhibited a significant increase of 8.7%-17.4% as compared with the control group. The samples exhibited a significantly improvement effect on the feed conversion ratio of each treatment group, giving a reduction of 7.6%-10.9%. Among others, the treatment groups 8-10, which are given the zinc salt, copper salt, and calcium salt of N-benzoyltheanine, exhibited a reduction of 10.9%-12.5% as compared with the control group.</p>
+<heading id="h0014">Example 3: Application of the glutamine derivatives in fish feed</heading>
+<p id="p0200" num="0200">Grass carps were used in this experiment, which is conducted in an aquaculture region in the Guangzhou Insighter experiment yard. Healthy grass carps with the same size were reared in large netcages for 4 weeks before the experiment. The grass carps were kept in small floating netcages during the experiment. The small netcages and netcages for acclimatization were both placed in a 3500 m<sup>2</sup> pond in the experiment yard. The pond had a water depth of 1.5 m, and water therein was aerated from the bottom. In the experiment, 520 grass carps, which had been starved for 1 day, were randomly divided into 13 groups, each group consisting of 4 replicates, and each replicate consisting of 10 grass carps. The grass carps were weighed, taking each replicate as a whole. Then they were randomly released to 52 netcages in which they were fed with different feeds. The feeds used in this experiment were prepared according to Table 4, wherein 500 ppm of different glutamine derivatives was added to the basal rations for different treatment groups. Feed restriction had been adopted during the experiment, and the feeding amount was adjusted once a week. The treatment and control groups were fed twice (7:30 and 15:30) every day, with their feeding levels (based on initial body weights) being identical to be a total amount of 580 g. The experiment lasted for 8 weeks.</p>
+<p id="p0201" num="0201">Calculation: <maths id="math0005" num=""><math display="block"><mi>Weight</mi><mspace width="1ex"/><mi>gain</mi><mspace width="1ex"/><mi>rate</mi><mfenced><mi mathvariant="normal">%</mi></mfenced><mo>=</mo><mrow><mfenced separators=""><mi>Average</mi><mspace width="1ex"/><mi>final</mi><mspace width="1ex"/><mi>weight</mi><mo>−</mo><mi>Average</mi><mspace width="1ex"/><mi>initial</mi><mspace width="1ex"/><mi>weight</mi></mfenced><mo>/</mo><mrow><mi>Average</mi><mspace width="1ex"/><mi>initial</mi><mspace width="1ex"/><mi>weight</mi><mo>×</mo></mrow></mrow><mn>100</mn></math><img id="ib0097" file="imgb0097.tif" wi="151" he="5" img-content="math" img-format="tif"/></maths> <maths id="math0006" num=""><math display="block"><mi>Feed</mi><mspace width="1ex"/><mi>coefficient</mi><mo>=</mo><mrow><mn>580</mn><mo>/</mo><mfenced separators=""><mi>Average</mi><mspace width="1ex"/><mi>final</mi><mspace width="1ex"/><mi>weight</mi><mo>−</mo><mi>Average</mi><mspace width="1ex"/><mi>initial</mi><mspace width="1ex"/><mi>weight</mi></mfenced></mrow></math><img id="ib0098" file="imgb0098.tif" wi="107" he="5" img-content="math" img-format="tif"/></maths></p>
+<p id="p0202" num="0202">Table 4 shows the effect of different glutamine derivatives on the production performance of grass carps, which was evaluated in terms of two aspects, weight gain rate and feed coefficient.<!-- EPO <DP n="30"> -->
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title>Table 4: Grouping and results for evaluating the application of glutamine derivatives in fish feed</title>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" colwidth="14mm"/>
+<colspec colnum="2" colname="col2" colwidth="23mm"/>
+<colspec colnum="3" colname="col3" colwidth="38mm"/>
+<colspec colnum="4" colname="col4" colwidth="36mm"/>
+<colspec colnum="5" colname="col5" colwidth="31mm"/>
+<colspec colnum="6" colname="col6" colwidth="26mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">Sample</entry>
+<entry align="center" valign="middle">Average initial weight (g)</entry>
+<entry align="center" valign="middle">Average final weight (g)</entry>
+<entry align="center" valign="middle">Weight gain rate (%)</entry>
+<entry align="center" valign="middle">Feed coefficient</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">386</entry>
+<entry align="center" valign="middle">649</entry>
+<entry align="center" valign="middle">68.19</entry>
+<entry align="center" valign="middle">1.93</entry></row>
+<row>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">Compound 1</entry>
+<entry align="center" valign="middle">393</entry>
+<entry align="center" valign="middle">678</entry>
+<entry align="center" valign="middle">72.41</entry>
+<entry align="center" valign="middle">1.79</entry></row>
+<row>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">Compound 2</entry>
+<entry align="center" valign="middle">405</entry>
+<entry align="center" valign="middle">690</entry>
+<entry align="center" valign="middle">70.47</entry>
+<entry align="center" valign="middle">1.78</entry></row>
+<row>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">Compound 3</entry>
+<entry align="center" valign="middle">382</entry>
+<entry align="center" valign="middle">666</entry>
+<entry align="center" valign="middle">74.29</entry>
+<entry align="center" valign="middle">1.79</entry></row>
+<row>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">Compound 4</entry>
+<entry align="center" valign="middle">388</entry>
+<entry align="center" valign="middle">675</entry>
+<entry align="center" valign="middle">73.97</entry>
+<entry align="center" valign="middle">1.77</entry></row>
+<row>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">Compound 5</entry>
+<entry align="center" valign="middle">396</entry>
+<entry align="center" valign="middle">678</entry>
+<entry align="center" valign="middle">71.27</entry>
+<entry align="center" valign="middle">1.80</entry></row>
+<row>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">Compound 6</entry>
+<entry align="center" valign="middle">394</entry>
+<entry align="center" valign="middle">681</entry>
+<entry align="center" valign="middle">72.84</entry>
+<entry align="center" valign="middle">1.77</entry></row>
+<row>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">Compound 10</entry>
+<entry align="center" valign="middle">388</entry>
+<entry align="center" valign="middle">669</entry>
+<entry align="center" valign="middle">72.34</entry>
+<entry align="center" valign="middle">1.81</entry></row>
+<row>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">Compound 11</entry>
+<entry align="center" valign="middle">399</entry>
+<entry align="center" valign="middle">681</entry>
+<entry align="center" valign="middle">70.73</entry>
+<entry align="center" valign="middle">1.80</entry></row>
+<row>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">Compound 12</entry>
+<entry align="center" valign="middle">408</entry>
+<entry align="center" valign="middle">692</entry>
+<entry align="center" valign="middle">69.56</entry>
+<entry align="center" valign="middle">1.79</entry></row>
+<row>
+<entry align="center" valign="middle">11</entry>
+<entry align="center" valign="middle">Compound 13</entry>
+<entry align="center" valign="middle">403</entry>
+<entry align="center" valign="middle">687</entry>
+<entry align="center" valign="middle">70.42</entry>
+<entry align="center" valign="middle">1.83</entry></row>
+<row>
+<entry align="center" valign="middle">12</entry>
+<entry align="center" valign="middle">Compound 14</entry>
+<entry align="center" valign="middle">397</entry>
+<entry align="center" valign="middle">678</entry>
+<entry align="center" valign="middle">70.70</entry>
+<entry align="center" valign="middle">1.81</entry></row>
+<row>
+<entry align="center" valign="middle">13</entry>
+<entry align="center" valign="middle">Compound 15</entry>
+<entry align="center" valign="middle">399</entry>
+<entry align="center" valign="middle">681</entry>
+<entry align="center" valign="middle">70.73</entry>
+<entry align="center" valign="middle">1.80</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0203" num="0203">As can be seen from the results, the glutamine derivative treatment groups exhibited an increase of 2.01%-8.9% in weight gain rate and a reduction of 5.18%-8.29% in feed coefficient as compared with the control group, indicating a significant improvement in feed efficiency.</p>
+<p id="p0204" num="0204">Although specific examples have been used to illustrate and describe the present invention, it should be noted that many other changes and modifications can be made without departing from the spirit and scope of the present invention. Therefore, this means that all these changes and modifications that fall within the scope of the present invention are included in the appended claims.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="31"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>Use of a glutamine derivative having a structure of formula (I), a racemate thereof, a stereoisomer thereof, a geometric isomer thereof, a tautomer thereof, a solvate thereof, or a feed acceptable salt thereof, in preparing an animal feed additive:
+<chemistry id="chem0093" num="0093"><img id="ib0099" file="imgb0099.tif" wi="28" he="30" img-content="chem" img-format="tif"/></chemistry>
+<claim-text>wherein, Y is an OC<sub>1</sub>-C<sub>20</sub> alkyl group or OH; X is a nitrogen-containing C<sub>4</sub>-C<sub>10</sub> cycloalkyl group, a NHC<sub>1</sub>-C<sub>20</sub> alkyl group, or a N(C<sub>1</sub>-C<sub>20</sub> alkyl group)<sub>2</sub>; R<sup>1</sup> is R<sup>1a</sup>C(=O), R<sup>1b</sup>C(=O), R<sup>1a</sup>S(=O)<sub>2</sub>, R<sup>1b</sup>S(=O)<sub>2</sub>, or H; R<sup>2</sup> is R<sup>2a</sup>C(=O), R<sup>2b</sup>C(=O), R<sup>2a</sup>S(=O)<sub>2</sub>, or R<sup>2b</sup>S(=O)<sub>2</sub>;</claim-text>
+<claim-text>each of R<sup>1b</sup> and R<sup>2b</sup> is independently a C<sub>1</sub>-C<sub>20</sub> alkyl group, a C<sub>3</sub>-C<sub>7</sub> cycloalkyl group, or a C<sub>1</sub>-C<sub>20</sub> alkyl group or C<sub>3</sub>-C<sub>7</sub> cycloalkyl group optionally substituted with one, two, three, four, or five R<sup>3</sup>;</claim-text>
+<claim-text>R<sup>3</sup> is -OH, -NH<sub>2</sub>, -CN, -SH, or -X<sub>1</sub>, wherein X<sub>1</sub> is selected from F, Cl, Br, or I;</claim-text>
+<claim-text>each of R<sup>1a</sup> and R<sup>2a</sup> is independently a C<sub>5</sub>-C<sub>12</sub> aryl group, a C<sub>5</sub>-C<sub>12</sub> heteroaryl group, a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> aryl group, a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> heteroaryl group or, a C<sub>5</sub>-C<sub>12</sub> aryl group, C<sub>5</sub>-C<sub>12</sub> heteroaryl group, -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> aryl group or -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> heteroaryl group, optionally substituted with one, two, three, four, or five R<sup>4</sup>;</claim-text>
+<claim-text>R<sup>4</sup> is -OH, -NH<sub>2</sub>, -NO<sub>2</sub>, -CN, -SH, -X<sub>2</sub>, a -C<sub>1</sub>-C<sub>5</sub> alkoxy group, a -C<sub>1</sub>-C<sub>5</sub> alkyl group, or a -C<sub>1</sub>-C<sub>5</sub> alkyl group substituted with X<sub>2</sub>, wherein X<sub>2</sub> is selected from F, Cl, Br, or I.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The use according to claim 1, <b>characterized in that</b>, R<sup>1</sup> is R<sup>1a</sup>C(=O) or H; R<sup>2</sup> is R<sup>2a</sup>C(=O); each of R<sup>1a</sup> and R<sup>2a</sup> is independently a C<sub>5</sub>-C<sub>12</sub> aryl group, a C<sub>5</sub>-C<sub>12</sub> heteroaryl group, a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> aryl group, a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> heteroaryl group or, a C<sub>5</sub>-C<sub>12</sub> aryl group, C<sub>5</sub>-C<sub>12</sub> heteroaryl group, -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> aryl group or -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> heteroaryl group, optionally substituted with one, two, three, four, or five R<sup>4</sup>; R<sup>4</sup> is -OH, -NH<sub>2</sub>, -NO<sub>2</sub>, -CN, -SH, -X<sub>2</sub>, a -C<sub>1</sub>-C<sub>5</sub> alkoxy group, a -C<sub>1</sub>-C<sub>5</sub> alkyl group, or a -C<sub>1</sub>-C<sub>5</sub> alkyl group substituted with X<sub>2</sub>, wherein X<sub>2</sub> is selected from F, Cl, Br, or I.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The use according to claim 1, <b>characterized in that</b>, R<sup>1</sup> is H; R<sup>2</sup> is R<sup>2a</sup>C(=O); R<sup>2a</sup> is a C<sub>5</sub>-C<sub>12</sub> aryl group, a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> aryl group or, a C<sub>5</sub>-C<sub>12</sub> aryl group or -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>5</sub>-C<sub>12</sub> aryl group,<!-- EPO <DP n="32"> --> optionally substituted with one, two, three, four, or five R<sup>4</sup>; R<sup>4</sup> is -OH, -NH<sub>2</sub>, -NO<sub>2</sub>, -CN, -SH, -X<sub>2</sub>, a -C<sub>1</sub>-C<sub>5</sub> alkoxy group, a -C<sub>1</sub>-C<sub>5</sub> alkyl group, or a -C<sub>1</sub>-C<sub>5</sub> alkyl group substituted with X<sub>2</sub>, wherein X<sub>2</sub> is selected from F, Cl, Br, or I.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The use according to claim 1, <b>characterized in that</b>, R<sup>2a</sup> is a C<sub>6</sub> aryl group, a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>6</sub> aryl group or, a C<sub>6</sub> aryl group or -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-C<sub>6</sub> aryl group, optionally substituted with one, two, three, four, or five R<sup>4</sup>; R<sup>4</sup> is -OH, -NH<sub>2</sub>, -NO<sub>2</sub>, -CN, -SH, -X<sub>2</sub>, a -C<sub>1</sub>-C<sub>5</sub> alkoxy group, a -C<sub>1</sub>-C<sub>5</sub> alkyl group, or a -C<sub>1</sub>-C<sub>5</sub> alkyl group substituted with X<sub>2</sub>, wherein X<sub>2</sub> is selected from F, Cl, Br, or I.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The use according to claim 1, <b>characterized in that</b>, R<sup>2a</sup> is a phenyl group, a -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-phenyl group or, a phenyl group or -(C<sub>1</sub>-C<sub>4</sub> alkylidene)-phenyl group, optionally substituted with one, two, three, four, or five R<sup>4</sup>; R<sup>4</sup> is -OH, -NH<sub>2</sub>, -NO<sub>2</sub>, -CN, -SH, -X<sub>2</sub>, a -C<sub>1</sub>-C<sub>5</sub> alkoxy group, a -C<sub>1</sub>-C<sub>5</sub> alkyl group, or a -C<sub>1</sub>-C<sub>5</sub> alkyl group substituted with X<sub>2</sub>, wherein X<sub>2</sub> is selected from F, Cl, Br, or I.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The use according to claim 1, <b>characterized in that</b>, R<sup>1</sup> is R<sup>1b</sup>C(=O) or H; R<sup>2</sup> is R<sup>2b</sup>C(=O); each of R<sup>1b</sup> and R<sup>2b</sup> is independently a C<sub>1</sub>-C<sub>20</sub> alkyl group, a C<sub>3</sub>-C<sub>6</sub> cycloalkyl group or, a C<sub>1</sub>-C<sub>20</sub> alkyl group or C<sub>3</sub>-C<sub>7</sub> cycloalkyl group, optionally substituted with one, two, three, four, or five R<sup>3</sup>; R<sup>3</sup> is -OH, -NH<sub>2</sub>, -CN, -SH, or -X<sub>1</sub>, wherein X<sub>1</sub> is selected from F, Cl, Br, or I.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The use according to claim 1, <b>characterized in that</b>, R<sup>1</sup> is or H; R<sup>2</sup> is R<sup>2b</sup>C(=O); R<sup>2b</sup> is a C<sub>1</sub>-C<sub>20</sub> alkyl group, or a C<sub>1</sub>-C<sub>20</sub> alkyl group optionally substituted with one, two, three, four, or five R<sup>3</sup>; R<sup>3</sup> is -OH, -NH<sub>2</sub>, -CN, -SH, or -X<sub>1</sub>, wherein X<sub>1</sub> is selected from F, Cl, Br, or I.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>The use according to claim 1, <b>characterized in that</b>, Y is an OC<sub>1</sub>-C<sub>10</sub> alkyl group.</claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>The use according to claim 1, <b>characterized in that</b>, X is a nitrogen-containing C<sub>4</sub>-C<sub>10</sub> cycloalkyl group.</claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>The use according to claim 1, <b>characterized in that</b>, X is a NHC<sub>1</sub>-C<sub>20</sub> alkyl group.</claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>The use according to claim 10, <b>characterized in that</b>, X is a NHC<sub>1</sub>-C<sub>10</sub> alkyl group.</claim-text></claim>
+<claim id="c-en-0012" num="0012">
+<claim-text>A feed composition, <b>characterized in that</b>, the feed composition comprises at least one of the glutamine derivative of formula (I), the racemate thereof, the stereoisomer thereof, the geometric isomer thereof, the tautomer thereof, the solvate thereof, and the feed acceptable salt thereof, as described in any one of claims 1-11, and an adjuvant suitable for feeds.</claim-text></claim>
+<claim id="c-en-0013" num="0013">
+<claim-text>The feed composition according to claim 12, <b>characterized in that</b>, the feed composition further comprises an additional animal feed additive, wherein the additional animal feed additive is selected from at<!-- EPO <DP n="33"> --> least one of nutritive feed additives, general feed additives, and medicinal feed additives.</claim-text></claim>
+<claim id="c-en-0014" num="0014">
+<claim-text>The feed composition according to claim 12 or 13, <b>characterized in that</b>, the feed composition further comprises an animal feed raw material.</claim-text></claim>
+<claim id="c-en-0015" num="0015">
+<claim-text>Use of the feed composition of any one of claims 12-13 in preparing an animal feed additive.</claim-text></claim>
+<claim id="c-en-0016" num="0016">
+<claim-text>Use of the feed composition of any one of claims 12-14 in preparing an animal feed.</claim-text></claim>
+</claims>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="159" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="159" he="233" type="tif"/><doc-page id="srep0003" file="srep0003.tif" wi="159" he="233" type="tif"/></search-report-data>
+</ep-patent-document>

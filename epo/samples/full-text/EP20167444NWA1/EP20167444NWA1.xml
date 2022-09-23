@@ -1,0 +1,1496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP20167444A1" file="EP20167444NWA1.xml" lang="en" country="EP" doc-number="3888684" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3888684</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>20167444.7</B210><B220><date>20200331</date></B220><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>A61K  47/44        20170101AFI20200908BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>A61K   9/00        20060101ALI20200908BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>A61K   9/0095      20130101 FI20200902BHEP        </text></classification-cpc><classification-cpc sequence="2"><text>A61K  47/44        20130101 LI20200902BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>ZUSAMMENSETZUNG MIT VERBESSERTER FREIWILLIGER AKZEPTANZ</B542><B541>en</B541><B542>COMPOSITION HAVING IMPROVED VOLUNTARY ACCEPTANCE</B542><B541>fr</B541><B542>COMPOSITION AYANT UNE ACCEPTATION VOLONTAIRE AMÉLIORÉE</B542></B540></B500><B700><B710><B711><snm>Bayer Animal Health GmbH</snm><iid>101853670</iid><irf>BHC188004 EP</irf><adr><str>Kaiser-Wilhelm-Allee 20</str><city>51373 Leverkusen</city><ctry>DE</ctry></adr></B711></B710><B720><B721><snm>KANIKANTI, Venkata-Rangarao</snm><adr><str>Schleiermacherstrasse 13</str><city>51377 Leverkusen</city><ctry>DE</ctry></adr></B721><B721><snm>HOFMANN, Stefan</snm><adr><str>Seidenweberstr. 7</str><city>40764 Langenfeld</city><ctry>DE</ctry></adr></B721><B721><snm>SCHMIDT, Franziska</snm><adr><str>Seeweg 24</str><city>40627 Düsseldorf</city><ctry>DE</ctry></adr></B721><B721><snm>MANGOLD-GEHRING, Sandra</snm><adr><str>Lacher Str. 105</str><city>42657 Solingen</city><ctry>DE</ctry></adr></B721><B721><snm>BÖGEL, Annette</snm><adr><str>Kaltenberg 19</str><city>42799 Leichlingen</city><ctry>DE</ctry></adr></B721><B721><snm>POMMER, Brigitte</snm><adr><str>Wöllersberg 12</str><city>42929 Wermelskirchen</city><ctry>DE</ctry></adr></B721></B720><B740><B741><snm>Tier 1 Patents</snm><iid>101838912</iid><adr><str>C/o Bayer Intellectual Property GmbH 
+Creative Campus Monheim 
+Bldg. 4685 
+Alfred-Nobel-Straße 10</str><city>40789 Monheim am Rhein</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">The present invention relates to the field of pharmaceutical compositions suitable for the oral administration of an active in animals. In particular, the present invention relates to a liquid drug-containing formulation and to the use thereof. The present invention further relates to the use of a liquid formulation aid composition comprising at least one natural oil of herbal origin in a liquid drug-containing formulation for improving the acceptance or voluntary acceptance of drug intake in animal.</p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<p id="p0001" num="0001">The present invention relates to the field of pharmaceutical compositions suitable for the oral administration of an active in animals. In particular, the present invention relates to a liquid drug-containing formulation comprising at least one drug, which is a hypoxia-inducible factor prolyl hydroxylase inhibitor and at least one natural oil of herbal origin. The present invention further relates to the use of a liquid formulation aid composition comprising at least one natural oil of herbal and/or animal origin in a liquid drug-containing formulation for improving the acceptance or voluntary acceptance of drug intake in animal.</p>
+<p id="p0002" num="0002">Certain diseases require a daily and long term medication in veterinary medicine, which usually need to be administered by untrained owners at home. Said medication is often to be administered orally, which is especially with cats and dogs difficult when the product has an undesired flavor. The animals tend to refuse the drug intake. This can be dangerous for the owners of the animal. Further, a complete drug intake of the needed medication cannot be ensured. These difficulties are even worse, if the medication needs to be administered daily over a prolonged administration period.</p>
+<p id="p0003" num="0003">One example for the need of a daily long term administration is the treatment and/or prophylaxis of diseases associated with hypoxia-inducible factor prolyl hydroxylase enzymes. Such diseases may be cardiovascular diseases, cardiac insufficiency, anemia, chronic kidney diseases, or renal insufficiency, especially anemia associated with chronic kidney disease.</p>
+<p id="p0004" num="0004">Most commercially available oral drug-containing formulations are aqueous based solutions or suspensions.</p>
+<p id="p0005" num="0005"><patcit id="pcit0001" dnum="US5756474A"><text>US5756474</text></patcit> relates to a non-aqueous oral-drench composition to treat parasitic diseases in mammals. It is disclosed that aqueous formulations generally have a better taste.</p>
+<p id="p0006" num="0006"><patcit id="pcit0002" dnum="US20120141546A"><text>US20120141546</text></patcit> relates to an oil-based preparation for controlling parasitic protozoans and endoparasites in animals. The focus is on the single administration.</p>
+<p id="p0007" num="0007">Hence, there is an ongoing need of a formulation for the oral medication for animals having a high acceptance or voluntary acceptance of the respective medicine to ensure the safety of the individual administering the drug-containing formulation and the compliance. In this connection, it has been an object of the present invention to provide a drug-containing formulation with a high acceptance or voluntary acceptance. Further, it has been an object of the present invention to provide a convenient drug administration for animals. In particular, it has been an object of the present invention to provide an improved intake of a drug-containing formulation comprising at least one hypoxia-inducible factor prolyl hydroxylase inhibitor. Further, it has been an object of the present invention to provide a liquid formulation aid composition to improve the drug intake in animal.<!-- EPO <DP n="2"> --></p>
+<p id="p0008" num="0008">It has surprisingly been found that at least one of these objects can be achieved by the liquid drug-containing formulation and/or the liquid formulation aid composition according to the present invention.</p>
+<p id="p0009" num="0009">In a first aspect, the present invention relates to a liquid drug-containing formulation comprising the following components
+<ol id="ol0001" ol-style="">
+<li>A) at least one drug, which is a hypoxia-inducible factor prolyl hydroxylase inhibitor,</li>
+<li>B) at least one natural oil of herbal origin,</li>
+<li>C) optionally at least one natural oil of animal origin, and</li>
+<li>D) optionally at least one thickener.</li>
+</ol></p>
+<p id="p0010" num="0010">In the following, preferred embodiments of the components of the above formulation are described in further detail. It is to be understood that each preferred embodiment is relevant on its own as well as in combination with other preferred embodiments.</p>
+<p id="p0011" num="0011">In a preferred embodiment A1 of the first aspect, the hypoxia-inducible factor prolyl hydroxylase inhibitor is a compound of formula (I)
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="61" he="24" img-content="chem" img-format="tif"/></chemistry>
+or a salt, stereoisomer, tautomer, or N-oxide thereof.</p>
+<p id="p0012" num="0012">In a preferred embodiment A2 of the first aspect, the hypoxia-inducible factor prolyl hydroxylase inhibitor is a compound of formula (I), which is in the form of a salt having the formula (II)
+<chemistry id="chem0002" num="0002"><img id="ib0002" file="imgb0002.tif" wi="90" he="28" img-content="chem" img-format="tif"/></chemistry>
+wherein
+<ul id="ul0001" list-style="none">
+<li>M is selected from the group consisting of lithium, sodium, potassium, calcium, magnesium, barium, manganese, copper, silver, zinc, iron, ammonium, and substituted ammonium in which one to four of the hydrogen atoms are replaced by C<sub>1</sub>-C<sub>4</sub>-alkyl, and preferably M is sodium;</li>
+<li>m denotes the respective positive charge of the cation, being 1, 2, or 3, preferably 1; and<!-- EPO <DP n="3"> --></li>
+<li>n denotes the respective stoichiometric amount of the counter anion and is 1, 2, or 3, preferably 1; wherein n equals m so that the salt having the formula (II) is uncharged.</li>
+</ul></p>
+<p id="p0013" num="0013">In a preferred embodiment A3 of the first aspect, the at least one natural oil of herbal origin is selected from the group consisting of almond oil, apricot kernel oil, canola oil, castor oil, coconut oil, cottonseed oil, flaxseed oil, grape oil, hemp oil, maize oil, olive oil, palm oil, peanut oil, sesame seed oil, soya oil, sunflower oil, thistle oil, rapeseed oil, rice bran oil, and wheat germ oil.</p>
+<p id="p0014" num="0014">In a preferred embodiment A4 of the first aspect, the at least one natural oil of herbal origin is selected from the group consisting of modified almond oil, modified apricot kernel oil, modified canola oil, modified castor oil, modified coconut oil, modified cottonseed oil, modified flaxseed oil, modified grape oil, modified hemp oil, modified maize oil, modified olive oil, modified palm oil, modified peanut oil, modified sesame seed oil, modified soya oil, modified sunflower oil, modified thistle oil, modified rapeseed oil, modified rice bran oil, and modified wheat germ oil, wherein the modification is obtained by alcoholysis, preferably with glycerol, propylene glycol, or low molecular polyethylene glycol.</p>
+<p id="p0015" num="0015">In a preferred embodiment A5 of the first aspect, the at least one natural oil of animal origin is present, which is selected from the group consisting of fish oil and salmon oil.</p>
+<p id="p0016" num="0016">In a preferred embodiment A6 of the first aspect, the at least one natural oil of herbal origin is soya oil or sunflower oil and wherein at least one natural oil of animal origin is present, which is fish oil.</p>
+<p id="p0017" num="0017">In a preferred embodiment A7 of the first aspect, the at least one natural oil of herbal origin is modified maize oil.</p>
+<p id="p0018" num="0018">In a preferred embodiment A8 of the first aspect, the at least one thickener is present, which is a glycerol ester, and which is preferably is a glycerol ester with C<sub>12</sub>-C<sub>24</sub> fatty acids and/or is a monoester, a diester, a triester, or a mixture thereof.</p>
+<p id="p0019" num="0019">In a preferred embodiment A9 of the first aspect, the at least one thickener is present, which is glycerol dibehenate.</p>
+<p id="p0020" num="0020">In a preferred embodiment A10 of the first aspect, the liquid drug-containing formulation as defined herein, further comprising the components
+<ul id="ul0002" list-style="none">
+<li>E) at least one antioxidant selected from the group consisting of ascorbyl palmitate, butylhydroxytoluene, butylhydroxyanisole, citric acid, lecithins, propyl gallate, tocopherol, and combinations of these antioxidants; and/or</li>
+<li>F) at least one preservative selected from the group consisting of ethanol, propylene glycol, butanol, chlorobutanol, benzoic acid, sorbic acid, para-hydroxybenzoic esters, and combinations thereof; and/or<!-- EPO <DP n="4"> --></li>
+<li>G) optionally at least one surfactant.</li>
+</ul></p>
+<p id="p0021" num="0021">In a preferred embodiment A11 of the first aspect, the liquid drug-containing formulation as defined herein comprises
+<ol id="ol0002" ol-style="">
+<li>A) the hypoxia-inducible factor prolyl hydroxylase inhibitor in an amount of from 0.1 to 20 wt.-%, preferably from 0.5 to 10 wt.-%, based on the total weight of the liquid drug-containing formulation,</li>
+<li>B) the at least one natural oil of herbal origin in an amount of from 50 to 99.8 wt.-%, preferably from 70 to 98.97 wt.-%, based on the total weight of the liquid drug-containing formulation,</li>
+<li>C) optionally the at least one natural oil of animal origin in an amount of from 0.01 to 5 wt.-%, preferably from 0.01 to 1.5 wt.-%, based on the total weight of the liquid drug-containing formulation,</li>
+<li>D) optionally the at least one thickener in an amount of from 0.1 to 10 wt.-%, preferably from 0.5 to 5 wt.-%, based on the total weight of the liquid drug-containing formulation,</li>
+<li>E) optionally the at least one antioxidant in an amount of from 0.01 to 2 wt.-%, preferably from 0.01 to 1.5 wt.-%, based on the total weight of the liquid drug-containing formulation, and</li>
+<li>F) optionally the at least one preservative in an amount of from 0.01 to 2 wt.-%, preferably from 0.01 to 1.5 wt.-%, based on the total weight of the liquid drug-containing formulation.</li>
+</ol></p>
+<p id="p0022" num="0022">In a second aspect, the present invention relates to the liquid drug-containing formulation as defined herein for use in the treatment and/or prophylaxis of diseases associated with hypoxia-inducible factor prolyl hydroxylase enzymes, wherein preferably said diseases are cardiovascular diseases, cardiac insufficiency, anemia, chronic kidney diseases, or renal insufficiency, in particular for use in the treatment of anemia associated with chronic kidney disease.</p>
+<p id="p0023" num="0023">In a preferred embodiment B1 of the second aspect, the liquid drug-containing formulation can be administered for an administration period of at least two weeks without incurring problems with acceptance or voluntary acceptance.</p>
+<p id="p0024" num="0024">In a preferred embodiment B2 of the second aspect, the liquid drug-containing formulation is administered to cats and dogs, preferably to cats.</p>
+<p id="p0025" num="0025">In a third aspect, the present invention relates to the use of a liquid formulation aid composition comprising at least one natural oil of herbal and/or animal origin, preferably at least one natural oil of herbal origin, and optionally at least one thickener in a liquid drug-containing formulation for improving the acceptance or voluntary acceptance of drug intake in animal. Preferably, the present invention relates according to the third aspect, to the use<!-- EPO <DP n="5"> --> of a liquid formulation aid composition comprising at least one natural oil of herbal origin and optionally at least one thickener in a liquid drug-containing formulation for improving the acceptance or voluntary acceptance of drug intake in animal.</p>
+<p id="p0026" num="0026">In a preferred embodiment C1 of the third aspect, the liquid drug-containing formulation comprises the liquid formulation aid composition in an amount of at least 50 wt.-%, based on the total weight of a liquid drug-containing formulation.</p>
+<p id="p0027" num="0027">In a preferred embodiment C2 of the third aspect, the acceptance or voluntary acceptance of drug intake is improved in cats and dogs, preferably in cats.</p>
+<p id="p0028" num="0028">In a preferred embodiment C3 of the third aspect, the acceptance or voluntary acceptance of drug intake is improved over an administration period of at least two weeks.</p>
+<p id="p0029" num="0029">In a preferred embodiment C4 of the third aspect, the at least one natural oil of herbal origin is comprised, which is selected from the group consisting of almond oil, apricot kernel oil, canola oil, castor oil, coconut oil, cottonseed oil, flaxseed oil, grape oil, hemp oil, maize oil, olive oil, palm oil, peanut oil, sesame seed oil, soya oil, sunflower oil, thistle oil, rapeseed oil, rice bran oil, and wheat germ oil, and is preferably soya oil or sunflower oil.</p>
+<p id="p0030" num="0030">In a preferred embodiment C5 of the third aspect, the at least one natural oil of herbal origin is comprised, which is selected from the group consisting of modified almond oil, modified apricot kernel oil, modified canola oil, modified castor oil, modified coconut oil, modified cottonseed oil, modified flaxseed oil, modified grape oil, modified hemp oil, modified maize oil, modified olive oil, modified palm oil, modified peanut oil, modified sesame seed oil, modified soya oil, modified sunflower oil, modified thistle oil, modified rapeseed oil, modified rice bran oil, and modified wheat germ oil, and is preferably modified maize oil, wherein the modification is obtained by alcoholysis, preferably with glycerol, propylene glycol, or low molecular polyethylene glycol.</p>
+<p id="p0031" num="0031">In a preferred embodiment C6 of the third aspect, the liquid formulation aid composition comprises the at least one natural oil of animal origin, which is preferably selected from the group consisting of fish oil and salmon oil, and is in particular fish oil.</p>
+<p id="p0032" num="0032">In a preferred embodiment C7 of the third aspect, at least one thickener is present, which is a glycerol ester, which is preferably is a glycerol ester with C<sub>12</sub>-C<sub>24</sub> fatty acids and/or is a monoester, a diester, a triester, or a mixture thereof.</p>
+<p id="p0033" num="0033">In a preferred embodiment C8 of the third aspect, at least one thickener is present, which is glycerol dibehenate.</p>
+<p id="p0034" num="0034">In a preferred embodiment C9 of the third aspect, the liquid formulation aid composition further comprises<br/>
+<!-- EPO <DP n="6"> -->at least one antioxidant selected from the group consisting of ascorbyl palmitate, butylhydroxytoluene, butylhydroxyanisole, citric acid, lecithins, propyl gallate, tocopherol, and combinations of these antioxidants; and/or<br/>
+at least one preservative selected from the group consisting of ethanol, propylene glycol, butanol, chlorobutanol, benzoic acid, sorbic acid, para-hydroxybenzoic esters, and combinations thereof; and/or<br/>
+optionally at least one surfactant.</p>
+<p id="p0035" num="0035">In a preferred embodiment C10 of the third aspect, the at least one natural oil of herbal origin is present in the liquid formulation aid composition in an amount of at least 90 wt.-%, based on the total weight of the liquid formulation aid composition.</p>
+<heading id="h0001"><b>Detailed Description</b></heading>
+<p id="p0036" num="0036">Before describing in detail exemplary embodiments of the present invention, definitions important for understanding the present invention are given.</p>
+<p id="p0037" num="0037">As used in this specification and in the appended claims, the singular forms of "a" and "an" also include the respective plurals unless the context clearly dictates otherwise. In the context of the present invention, the terms "about" and "approximately" denote an interval of accuracy that a person skilled in the art will understand to still ensure the technical effect of the feature in question. The term typically indicates a deviation from the indicated numerical value of ± 20 %, preferably ± 15 %, more preferably ± 10 %, and even more preferably ± 5 %. It is to be understood that the term "comprising" is not limiting. For the purposes of the present invention the term "consisting of" is considered to be a preferred embodiment of the term "comprising of". If hereinafter a group is defined to comprise at least a certain number of embodiments, this is meant to also encompass a group, which preferably consists of these embodiments only. Furthermore, the terms "first", "second", "third" or "(a)", "(b)", "(c)", "(d)" etc. and the like in the description and in the claims, are used for distinguishing between similar elements and not necessarily for describing a sequential or chronological order. It is to be understood that the terms so used are interchangeable under appropriate circumstances and that the embodiments of the invention described herein are capable of operation in other sequences than described or illustrated herein. In case the terms "first", "second", "third" or "(a)", "(b)", "(c)", "(d)", "i", "ii" etc. relate to steps of a method or use or assay there is no time or time interval coherence between the steps, i.e. the steps may be carried out simultaneously or there may be time intervals of seconds, minutes, hours, days, weeks, months or even years between such steps, unless otherwise indicated in the application as set forth herein above or below. It is to be understood that this invention is not limited to the particular methodology, protocols, reagents etc. described herein as these may vary. It is also to be understood that the terminology used herein is for the purpose of<!-- EPO <DP n="7"> --> describing particular embodiments only, and is not intended to limit the scope of the present invention that will be limited only by the appended claims. Unless defined otherwise, all technical and scientific terms used herein have the same meanings as commonly understood by one of ordinary skill in the art.</p>
+<p id="p0038" num="0038">The term "compounds of formula (I)" comprises the compound(s) as defined herein as well as a stereoisomer, salt, or tautomer thereof.</p>
+<p id="p0039" num="0039">Depending on the substitution pattern, the compounds according to the invention may have one or more centers of chirality. The invention provides both the single pure enantiomers or pure diastereomers of the compounds according to the invention, and their mixtures and the use according to the invention of the pure enantiomers or pure diastereomers of the compounds according to the invention or their mixtures. Suitable compounds according to the invention also include all possible geometrical stereoisomers (cis/trans isomers or E/Z isomers) and mixtures thereof. Cis/trans isomers may e.g. be present with respect to an amide group. The term "stereoisomer(s)" encompasses both optical isomers, such as enantiomers or diastereomers, the latter existing due to more than one center of chirality in the molecule, as well as geometrical isomers (cis/trans isomers). The present invention relates to every possible stereoisomer of the compounds of formula (I), i.e. to single enantiomers or diastereomers, as well as to mixtures thereof.</p>
+<p id="p0040" num="0040">Within the meaning of this invention, the terms "active", "active agent", "drug", and the like refer to any suitable active agent in any pharmaceutically acceptable chemical and morphological form and physical state.</p>
+<p id="p0041" num="0041">The compounds of formula (I) may be amorphous or may exist in one or more different crystalline states (polymorphs) which may have different macroscopic properties such as stability or show different biological properties such as activities. The present invention relates to amorphous and crystalline compounds of formula (I), mixtures of different crystalline states of the respective compound of formula (I), as well as amorphous or crystalline salts thereof.</p>
+<p id="p0042" num="0042">Salts of the compounds of the formula (I) may be pharmaceutically acceptable salts, such as those containing counterions present in drug products listed in the US FDA Orange Book database. They can be formed in a customary manner, e.g. by reacting the compound with an acid of the anion in question if the compound of formula (I) has a basic functionality, or by reacting acidic compounds according to the invention with a suitable base.</p>
+<p id="p0043" num="0043">Suitable cationic counterions are in particular the ions of the alkali metals, preferably lithium, sodium and potassium, of the alkaline earth metals, preferably calcium, magnesium and barium, and of the transition metals, preferably aluminum, manganese, copper, silver, zinc and iron, and also ammonium (NH<sub>4</sub><sup>+</sup>) and substituted ammonium in which one to four of<!-- EPO <DP n="8"> --> the hydrogen atoms are replaced by C<sub>1</sub>-C<sub>4</sub>-alkyl, C<sub>1</sub>-C<sub>4</sub>-hydroxyalkyl, C<sub>1</sub>-C<sub>4</sub>-alkoxy, (C<sub>1</sub>-C<sub>4</sub>-alkoxy)-(C<sub>1</sub>-C<sub>4</sub>-alkyl), hydroxy-(C<sub>1</sub>-C<sub>4</sub>-alkoxy)-(C<sub>1</sub>-C<sub>4</sub>-alkyl), phenyl or benzyl. Examples of substituted ammonium ions comprise methylammonium, isopropylammonium, dimethylammonium, diisopropylammonium, trimethylammonium, tetramethylammonium, tetraethylammonium, tetrabutylammonium, 2-hydroxyethylammonium, 2-(2-hydroxyethoxy)ethyl-ammonium, bis(2-hydroxyethyl)ammonium, benzyltrimethylammonium and benzyltriethylammonium, furthermore the cations of 1,4-piperazine, meglumine, benzathine and lysine. Preferred cations are lithium, sodium, potassium, calcium, magnesium, barium, manganese, copper, silver, zinc, iron, ammonium, and substituted ammonium in which one to four of the hydrogen atoms are replaced by C<sub>1</sub>-C<sub>4</sub>-alkyl, in particular sodium.</p>
+<p id="p0044" num="0044">Suitable anionic counterions are in particular chloride, bromide, hydrogensulfate, sulfate, dihydrogenphosphate, hydrogenphosphate, phosphate, nitrate, bicarbonate, carbonate, hexafluorosilicate, hexafluorophosphate, benzoate, and the anions of C<sub>1</sub>-C<sub>4</sub>-alkanoic acids, preferably formate, acetate, trifluoroacetate, propionate and butyrate, furthermore lactate, gluconate, and the anions of poly acids such as succinate, oxalate, maleate, fumarate, malate, tartrate and citrate, furthermore sulfonate anions such as besylate (benzenesulfonate), tosylate (p-toluenesulfonate), napsylate (naphthalene-2-sulfonate), mesylate (methanesulfonate), esylate (ethanesulfonate), and ethanedisulfonate. They can be formed by reacting compounds according to the invention that have a basic functionality with an acid of the corresponding anion. Preferred salts of the compounds of formula (I) are chloride salts.</p>
+<p id="p0045" num="0045">Tautomers may be formed, if a substituent is present at the compound of formula (I), which allows for the formation of tautomers such as keto-enol tautomers or the like.</p>
+<p id="p0046" num="0046">The organic moieties mentioned in the above definitions of the variables are - like the term halogen - collective terms for individual listings of the individual group members. The prefix C<sub>n</sub>-C<sub>m</sub> indicates in each case the possible number of carbon atoms in the group.</p>
+<p id="p0047" num="0047">The term "alkyl" as used herein denotes in each case a straight-chain or branched alkyl group having usually from 1 to 4 carbon atoms, preferably from 1 to 3 carbon atoms. Examples of an alkyl group are methyl, ethyl, n-propyl, iso-propyl, n-butyl, 2-butyl, iso-butyl, and tert-butyl. Methyl, ethyl, n-propyl, iso-propyl, and iso-butyl, are particularly preferred.</p>
+<p id="p0048" num="0048">As used in this specification and in the appended claims, the term "acceptance" refers to a "forced formulation intake" or "forced guided formulation intake" of an animal, wherein the formulation is administered directly into the animal's mouth. It is to be understood, that the formulation uptake is acceptable, if the animal is not reacting violently (e.g. biting) or adversely (e.g. convulsing).</p>
+<p id="p0049" num="0049">As used in this specification and in the appended claims, the term "voluntary acceptance" refers to a voluntary oral formulation uptake of an animal. The formulation is administered<!-- EPO <DP n="9"> --> into a bowl and the voluntary and autonomous uptake of the animal is evaluated over a maximum offering time of three minutes. In general, the procedure for evaluation of the voluntary acceptance in the animal can be assessed as follows:<br/>
+A test item is offered daily in a food bowl for three minutes. The voluntary uptake of different formulations are assessed and recorded using a visual analogue scale (VAS), wherein 0 (cm) denotes worst possible voluntary intake and 10 (cm) denotes best possible voluntary intake.
+<tables id="tabl0001" num="0001">
+<table frame="top">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="22mm" colsep="0"/>
+<colspec colnum="2" colname="col2" colwidth="22mm"/>
+<tbody>
+<row>
+<entry>0 (cm)</entry>
+<entry>10 (cm)</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0050" num="0050">In case of the worst possible intake (0 cm), the animal shows no interest and does not take up the test item. In case of the best possible intake (10 cm), the animal takes up the test item completely.</p>
+<p id="p0051" num="0051">The assessor places a vertical mark on the line based on animal's behaviour (e.g. no uptake / shows interest, smells at the test item / partial consumption of the test formulation / looks for more). All voluntary intake assessments of one treatment day are done by the same individual.</p>
+<p id="p0052" num="0052">Preferred embodiments regarding the liquid drug-containing formulation according to the present invention as well as the use of said liquid drug-containing formulation in the treatment and/or prophylaxis of diseases are described hereinafter. It is to be understood that the preferred embodiments of the invention are preferred alone or in combination with each other. Further, preferred embodiments regarding the use of the liquid formulation aid composition according to the present invention for improving the acceptance or voluntary acceptance of drug intake in animal are described hereinafter.</p>
+<p id="p0053" num="0053">As indicated above, the present invention relates in one embodiment to a liquid drug-containing formulation comprising the following components
+<ol id="ol0003" ol-style="">
+<li>A) at least one drug, which is a hypoxia-inducible factor prolyl hydroxylase inhibitor,</li>
+<li>B) at least one natural oil of herbal origin,</li>
+<li>C) optionally at least one natural oil of animal origin, and</li>
+<li>D) optionally at least one thickener.</li>
+</ol></p>
+<p id="p0054" num="0054">Preferred embodiments regarding the components of the liquid drug-containing formulation, which are relevant for all aspects of the invention, are defined hereinafter.</p>
+<p id="p0055" num="0055">According to the present invention, the liquid drug-containing formulation comprises at least one drug, which is a hypoxia-inducible factor prolyl hydroxylase inhibitor (also known as HIF-PHI). These inhibitors are members of a class of drugs that act by inhibiting prolyl hydroxylase which is responsible to break down the hypoxia-inducible factor (HIF) under normoxic<!-- EPO <DP n="10"> --> conditions. These inhibitors are associated with diseases such as anemia, chronic kidney disease, and cancer. Examples for HIF prolyl hydroxylase inhibitors are daprodustat, molidustat, roxadustat, vadadustat, and desidustat. Hence, in one embodiment of the present invention, the hypoxia-inducible factor (HIF) prolyl hydroxylase inhibitor is selected from the group consisting of daprodustat, molidustat, roxadustat, vadadustat, and desidustat, and is in particular molidustat.</p>
+<p id="p0056" num="0056">Preferably, the liquid drug-containing formulation according to the present invention, comprises the hypoxia-inducible factor prolyl hydroxylase inhibitor in an amount of from 0.1 to 20 wt.-%, more preferably from 0.5 to 10 wt.-%, even more preferably from 1 to 8 wt.-%, in particular from 1 to 5 wt.-%, based on the total weight of the liquid drug-containing formulation.</p>
+<p id="p0057" num="0057">In one embodiment of the present invention, the HIF prolyl hydroxylase inhibitor is a compound of formula (I)
+<chemistry id="chem0003" num="0003"><img id="ib0003" file="imgb0003.tif" wi="61" he="24" img-content="chem" img-format="tif"/></chemistry>
+or a salt, stereoisomer, tautomer, or N-oxide thereof.</p>
+<p id="p0058" num="0058">In one embodiment, the HIF prolyl hydroxylase inhibitor is a compound of formula (I) in the form of a salt having the formula (II)
+<chemistry id="chem0004" num="0004"><img id="ib0004" file="imgb0004.tif" wi="90" he="28" img-content="chem" img-format="tif"/></chemistry>
+wherein
+<ul id="ul0003" list-style="none">
+<li>M is selected from the group consisting of lithium, sodium, potassium, calcium, magnesium, barium, manganese, copper, silver, zinc, iron, ammonium, and substituted ammonium in which one to four of the hydrogen atoms are replaced by C<sub>1</sub>-C<sub>4</sub>-alkyl, and preferably M is sodium;</li>
+<li>m denotes the respective positive charge of the cation, being 1, 2, or 3, preferably 1; and</li>
+<li>n denotes the respective stoichiometric amount of the counter anion and is 1, 2, or 3, preferably 1; wherein n equals m so that the salt having the formula (II) is uncharged.</li>
+</ul></p>
+<p id="p0059" num="0059">In a preferred embodiment of the present invention, the HIF prolyl hydroxylase inhibitor is in the form of the sodium salt of formula (IIa)<!-- EPO <DP n="11"> -->
+<chemistry id="chem0005" num="0005"><img id="ib0005" file="imgb0005.tif" wi="66" he="30" img-content="chem" img-format="tif"/></chemistry>
+which is also known as sodium 1-[6-(morpholin-4-yl)pyrimidin-4-yl]-4-(1H-1,2,3-triazol-1-yl)-1H-pyrazol-5-olate.</p>
+<p id="p0060" num="0060">In another preferred embodiment of the present invention, the HIF prolyl hydroxylase inhibitor is in the form of the potassium or ammonium salt of formula (II), which is also known as potassium 1-[6-(morpholin-4-yl)pyrimidin-4-yl]-4-(1H-1,2,3-triazol-1-yl)-1H-pyrazol-5-olate or ammonium 1-[6-(morpholin-4-yl)pyrimidin-4-yl]-4-(1H-1,2,3-triazol-1-yl)-1H-pyrazol-5-olate.</p>
+<p id="p0061" num="0061">According to the present invention, the liquid drug-containing formulation comprises at least one natural oil of herbal origin. It is to be understood that according to the meaning of the present invention, the term "herbal" is interchangeable with "vegetable". Preferably, the liquid drug-containing formulation comprises the least one natural oil of herbal origin in an amount of at least 50 wt.-%, preferably from 50 to 99.8 wt.-%, more preferably from 70 to 98.97 wt.-%, even more preferably from 80 to 98.9 wt.-%, based on the total weight of the liquid drug-containing formulation.</p>
+<p id="p0062" num="0062">In one embodiment of the present invention, the at least one natural oil of herbal origin is selected from the group consisting of almond oil, apricot kernel oil, canola oil, castor oil, coconut oil, cottonseed oil, flaxseed oil, grape oil, hemp oil, maize oil, olive oil, palm oil, peanut oil, sesame seed oil, soya oil, sunflower oil, thistle oil, rapeseed oil, rice bran oil, and wheat germ oil.</p>
+<p id="p0063" num="0063">According to the present invention, the natural oils of herbal origin are obtained from natural products. According to the present invention, natural oils of herbal origin comprise at least 5 wt.-%, preferably at least 8 wt.-%, of unsaturated fatty acids, based on the total amount of fatty acids of said natural oils of herbal origin. In general, the natural oils of herbal origin may be obtained by mechanical expression or by extraction of the respective herbal (e.g. helianthus annuus for sunflower oil), followed by an optional refining. Suitable antioxidants may be added.</p>
+<p id="p0064" num="0064">In the following, exemplary descriptions of natural oils of herbal origin according to the present invention are given.</p>
+<p id="p0065" num="0065">Maize oil, also known as corn oil, may be obtained from seeds of Zea mays L. by expression or by extraction followed by an optional refining. Preferably, the maize oil comprises 8.6 to 16.5 wt.-% of palmitic acid, up to 3.3 wt.-% of stearic acid, 20 to 42.2 wt.-% of oleic acid, 39.4<!-- EPO <DP n="12"> --> to 65.6 wt.-% of linoleic acid, 0.5 to 1.5 wt.-% of arachidic acid, up to 0.5 wt.-% of eicosenoic acid, and up to 0.5 wt.-% of behenic acid, based on the total amount of fatty acids.</p>
+<p id="p0066" num="0066">Sunflower oil may be obtained from seeds of helianthus annuus by mechanical expression or by extraction followed by an optional refining. Preferably, sunflower oil comprises 4 to 9 wt.-% of palmitic acid, 1 to 7 wt.-% of stearic acid, 14 to 40 wet.-% of oleic acid, and 48 to 74 wt.-% of linoleic acid, based on the total amount of fatty acids.</p>
+<p id="p0067" num="0067">Thistle oil, also known as safflower oil, may be obtained from seeds of Carthamus tinctorius L. (type I) or from seeds of hybrids of Carthamus tinctorius L. (type II) by expression and/or extraction followed by an optional refining. Preferably, the thistle oil obtained from type I fraction comprises up to 0.2 wt.-% of saturated fatty acids of chain length less than C14, up to 0.2 wt.-% of myristic acid, 4 to 10 wt.-% of palmitic acid, 1 to 5 wt.-% of stearic acid, 8 to 21 wt.-% of oleic acid, 68 to 83 wt.-% of linoleic acid, up to 0.5 wt.-% of linolenic acid, up to 0.5 wt.-% of arachidic acid, up to 0.5 wt.-% of eicosenoic acid, and up to 1 wt.-% of behenic acid, based on the total amount of fatty acids. Preferably, the thistle oil obtained from type II fraction comprises up to 0.2 wt.-% of saturated fatty acids of chain length less than C14, up to 0.2 wt.-% of myristic acid, 3.6 to 6 wt.-% of palmitic acid, 1 to 5 wt.-% of stearic acid, 70 to 84 wt.-% of oleic acid, 7 to 23 wt.-% of linoleic acid, up to 0.5 wt.-% of linolenic acid, up to 1 wt.-% of arachidic acid, up to 1 wt.-% of eicosenoic acid, and up to 1.2 wt.-% of behenic acid, based on the total amount of fatty acids.</p>
+<p id="p0068" num="0068">In general, it is to be understood that the natural oils of herbal origin according to the present invention may be obtained from the respective herbal by expression and/or extraction followed by an optional refining.</p>
+<p id="p0069" num="0069">It is to be understood that according to the present invention, the natural oils of herbal origin may be any suitable natural oils of herbal origin known in the art as defined above and which may be obtained as described above. In one embodiment of the present invention, these natural oils of herbal origin may additionally be modified.</p>
+<p id="p0070" num="0070">In one embodiment of the present invention, the at least one natural oil of herbal origin is selected from the group consisting of modified almond oil, modified apricot kernel oil, modified canola oil, modified castor oil, modified coconut oil, modified cottonseed oil, modified flaxseed oil, modified grape oil, modified hemp oil, modified maize oil, modified olive oil, modified palm oil, modified peanut oil, modified sesame seed oil, modified soya oil, modified sunflower oil, modified thistle oil, modified rapeseed oil, modified rice bran oil, and modified wheat germ oil, wherein the modification is obtained by alcoholysis, preferably with glycerol, propylene glycol, or low molecular polyethylene glycol. In this connection, it is to be understood that low molecular polyethylene glycol are defined as follows: H-(O-CH<sub>2</sub>-CH<sub>2</sub>)<sub>n</sub>-OH, wherein n is selected from 1 to 5, preferably from 1 to 4, and in particular from 1 to 3 or from 1 to 2.<!-- EPO <DP n="13"> --></p>
+<p id="p0071" num="0071">In general, the alcoholysis is an example of a solvolysis reaction, wherein the triglyceride reacts with an alcohol such as methanol or ethanol to give the methyl or ethyl esters of the fatty acid. In particular, glycerol may be used as alcohol. This reaction is also known as a transesterification reaction due to the exchange of the alcohol fragments.</p>
+<p id="p0072" num="0072">The alcoholysis reaction is preferably followed by a winterization process to eliminate certain saturated mono-, di- and triglycerides.</p>
+<p id="p0073" num="0073">Maisine® CC may be named as an exemplarily modified maize oil. It is obtained by alcoholysis of maize oil and a subsequent winterization of maize oil. The product comprises mono-, di-, and triglycerides, wherein the monoester fraction is comprised from 32 to 52 wt.-%, the diester fraction is comprised from 40 to 60 wt.-%, and the triester fraction is comprised from 5 to 20 wt.-%, based on the total amount of mono-, di-, and triglycerides.</p>
+<p id="p0074" num="0074">In a particular embodiment of the present invention, the at least one natural oil of herbal origin is selected from the group consisting of sesame seed oil, soya oil, sunflower oil, thistle oil, and modified maize oil, wherein the modification is obtained by alcoholysis, preferably with glycerol, propylene glycol, or low molecular polyethylene glycol.</p>
+<p id="p0075" num="0075">According to one embodiment of the present invention, the liquid drug-containing formulation comprises a mixture of modified and unmodified natural oils of herbal origin.</p>
+<p id="p0076" num="0076">According to one embodiment of the present invention, the liquid drug-containing formulation further comprises at least one natural oil of animal origin. Preferably, the liquid drug-containing formulation comprises the at least one natural oil of animal origin from 0.01 to 5 wt.-%, more preferably from 0.01 to 2.5 wt.-%, even more preferably from 0.01 to 1.5 wt.-%, in particular from 0.01 to 1 wt.-%, based on the total weight of the liquid drug-containing formulation.</p>
+<p id="p0077" num="0077">It is to be understood that according to the present invention, natural oils of animal origin may be any suitable natural oils of animal origin known in the art, e.g. fish oil, in particular cod-liver oil, and salmon oil. According to the present invention, natural oils of animal origin are obtained from natural products. In the following, exemplary descriptions of natural oils of animal origin according to the present invention are given.</p>
+<p id="p0078" num="0078">Fish oil may be obtained from fish of families such as Engraulidae, Carangidae, Clupeidae, Osmeridae, Scombridae (except the genera Thunnus and Sarda), and Ammodytidae (type I), or from the genera Thunnus and Sarda with the family Scombridae (type II). The fish oil may comprise omega-3 acids such as alpha-linolenic acid (C18:3 n-3), moroctic acid (C18:4 n-3), eicosatetraenoic acid (C20:4 n-3), timnodonic (eicosapentaenoic) acid (C20:5 n-3; EPA), heneicosapentaenoic acid (C21:5 n-3), clupanodonic acid (C22:5 n-3), and cervonic (docosahexaenoic) acid (C22:6 n-3; DHA). Preferably, the fish oil obtained from type I comprises at least a total of omega-3 acids of 28 wt.-%, expressed as triglycerides. In<!-- EPO <DP n="14"> --> particular, the fish oil obtained from type I comprises at least 13 wt.-% of EPA and at least 9 wt.-% of DHA, expressed as triglycerides. Preferably, the fish oil obtained from type II comprises at least a total of omega-3 acids of 28 wt.-%, expressed as triglycerides. In particular, the fish oil obtained from type II comprises 4 to 12 wt.-% of EPA and at least 20 wt.-% of DHA, expressed as triglycerides.</p>
+<p id="p0079" num="0079">Cod-liver oil may be obtained from the fresh livers of cod, Gadus morhua L. and other species of Gadidae, wherein solid substances being removed by cooling and filtering. The cod-liver oil may comprise omega-3 acids such as alpha-linolenic acid (C18:3 n-3), moroctic acid (C18:4 n-3), eicosatetraenoic acid (C20:4 n-3), timnodonic (eicosapentaenoic) acid (C20:5 n-3; EPA), heneicosapentaenoic acid (C21:5 n-3), clupanodonic acid (C22:5 n-3), and cervonic (docosahexaenoic) acid (C22:6 n-3; DHA). Preferably, the cod-liver oil comprises EPA and DHA from 10 to 28 wt.-%, expressed as triglycerides. Cod-liver oil may further comprise 3 to 11 wt.-% of linoleic acid, based on the on the total amount of fatty acids.</p>
+<p id="p0080" num="0080">Salmon oil may be obtained from Salmo salar. The positional distribution (<i>β</i> (2)-acyl) is 60 to 70 % for cervonic (docosahexaenoic) acid (C22:6 n-3; DHA), 25 to 35 % for timnodonic (eicosapentaenoic) acid (C20:5 n-3; EPA), and 40 to 55 % for moroctic acid (C18:4 n-3). Preferably, the salmon oil comprises EPA and DHA from 10 to 28 wt.-%, expressed as triglycerides.</p>
+<p id="p0081" num="0081">In one embodiment of the present invention, the at least one natural oil of animal origin is present, which is selected from the group consisting of fish oil and salmon oil.</p>
+<p id="p0082" num="0082">In one embodiment of the present invention, the at least one natural oil of herbal origin is soya oil or sunflower oil and the at least one natural oil of animal origin is present, which is fish oil. In a preferred embodiment of the present invention, the at least one natural oil of herbal origin is sunflower oil and the at least one natural oil of animal origin is present, which is fish oil.</p>
+<p id="p0083" num="0083">In another embodiment of the present invention, the at least one natural oil of herbal origin is modified maize oil and the at least one natural oil of animal origin is present, which is fish oil.<br/>
+ccording to one embodiment of the present invention, the liquid drug-containing formulation further comprises at least one thickener. Preferably, the liquid drug-containing formulation as defined herein comprises the at least one thickener in an amount of from 0.1 to 10 wt.-%, preferably from 0.1 to 8 wt.-%, more preferably from 0.5 to 5 wt.-%, even more preferably from 0.5 to 2.5 wt.-%, based on the total weight of the liquid drug-containing formulation.</p>
+<p id="p0084" num="0084">As suitable thickener cellulose derivatives such as methylcellulose, hydroxypropylcellulose, hydroxyethylcellulose, hydroxypropylmethylcellulose, carboxymethylcellulose,<!-- EPO <DP n="15"> --> microcrystalline cellulose; bentonites, kaolin, pectin, starches, modified starch, waxes, agar, paraffins, gelatin, alginates, polyvinylpyrrolidone, crospovidone, cetyl alcohol, stearates such as, for example, magnesium stearate, zinc stearate or glyceryl stearate, saturated or unsaturated long-chain fatty acids (C8-C24, high molecular weight polyethylene glycols (e.g. polyethylene glycol 2000), glycerol ester, and silicas may be mentioned.</p>
+<p id="p0085" num="0085">In one embodiment of the present invention, the at least one thickener is a glycerol ester, and is preferably a glycerol ester with C<sub>12</sub>-C<sub>24</sub> fatty acids and/or is a monoester, a diester, a triester, or a mixture thereof.</p>
+<p id="p0086" num="0086">In a preferred embodiment of the present invention, the at least one thickener is glycerol dibehenate. Glycerol dibehenate may also be known under glyceryl dibehenate or glycerin dibehenate.</p>
+<p id="p0087" num="0087">According to one embodiment of the present invention, the liquid drug-containing formulation further comprises the components
+<ul id="ul0004" list-style="none">
+<li>E) at least one antioxidant; and/or</li>
+<li>F) at least one preservative; and/or</li>
+<li>G) optionally at least one surfactant.</li>
+</ul></p>
+<p id="p0088" num="0088">Preferably, the liquid drug-containing formulation comprises the at least one antioxidant in an amount of from 0.01 to 2 wt.-%, preferably from 0.01 to 1.5 wt.-%, based on the total weight of the liquid drug-containing formulation and/or the at least one preservative in an amount of from 0.01 to 2 wt.-%, preferably from 0.01 to 1.5 wt.-%, based on the total weight of the liquid drug-containing formulation and/or the at least one surfactant in an amount of from 0.001 to 1 wt.-%, preferably from 0.01 to 0.3 wt.-%, based on the total weight of the liquid drug-containing formulation.</p>
+<p id="p0089" num="0089">As suitable antioxidant ascorbyl palmitate, butylhydroxytoluene, butylhydroxyanisole, lecithins, sulfites (Na sulfite, Na metabisulfite), organic sulfides (cystine, cysteine, cysteamine, methionine, thioglycerol, thioglycolic acid, thiolactic acid), phenols (tocopherols, as well as vitamin E and vitamin E DPGS (d-alpha-tocopheryl polyethylene glycol 1000 succinate)), butylated hydroxyanisole, butylated hydroxytoluene, gallic acid (propyl, octyl, propyl gallate, and dodecyl gallate), organic acids (ascorbic acid, citric acid, tartaric acid, lactic acid) and salts and esters thereof may be mentioned. Preferably, antioxidants may be selected from the group consisting of ascorbyl palmitate, butylhydroxytoluene, butylhydroxyanisole, citric acid, lecithins, propyl gallate, and tocopherol.</p>
+<p id="p0090" num="0090">As suitable preservative carboxylic acids (sorbic acid, propionic acid, benzoic acid, lactic acid), phenols (cresols, p-hydroxybenzoic esters such as methylparaben, propylparaben etc.), aliphatic alcohols (benzyl alcohol, ethanol, butanol etc.), quaternary ammonium compounds<!-- EPO <DP n="16"> --> (benzalkonium chloride, cetylpyridinium chloride) may be mentioned. Preferably, preservatives may be selected from the group consisting of ethanol, propylene glycol, butanol, chlorobutanol, benzoic acid, sorbic acid, and para-hydroxybenzoic esters. In this connection, methyl 4-hydroxybenzoate, ethyl 4-hydroxybenzoate, and propyl 4-hydroxybenzoate may be named as preferred para-hydroxybenzoic esters.</p>
+<p id="p0091" num="0091">Suitable surfactants are amphiphilic compounds. Mono-, di-, or tri-esters of sorbitan with fatty acids, polyoxyethylated compounds, such as polyoxyethylene sorbitan fatty acid esters, polyoxyethlyene castor oil derivatives, and poloxamers, and the like may be mentioned. Polyoxyethylated compounds, also referred to as polyethoxylated compounds, are prepared for example by reaction with ethylene oxide. They have one or more concatenated units of the formula -[O-CH<sub>2</sub>-CH<sub>2</sub>]-. Polyoxyethylated compounds which may be mentioned in particular are: nonionic amphiphilic polyoxyethylated compounds such as
+<ul id="ul0005" list-style="dash">
+<li>poloxamers, preferably with molar masses of from 100 to 5000 g/mol, particularly preferably with molar masses of from 1000 to 3500 g/mol. Poloxamer is the international non-proprietary name for block copolymers of ethylene oxide and methyloxirane,</li>
+<li>polyoxyethylene fatty acid glycerides, also called non-ionic emulsifiers, preferably for example glycerol polyethylene glycol ricinoleate,</li>
+<li>polyoxyethylene sorbitan fatty acid esters, preferably for example polyoxyethylene 20 sorbitan monooleate,</li>
+<li>polyoxyethylene fatty acids such as macrogol 15 hydroxystearate (=Solutol HS15, obtainable by reacting 15 mol of ethylene oxide and 1 mol of 12-hydroxystearic acid)</li>
+<li>polyoxyethylene fatty alcohols such as hydroxypolyethoxydodecane.</li>
+</ul></p>
+<p id="p0092" num="0092">Fatty acid or fatty alcohol stands in particular for the corresponding compounds having at least 6 carbon atoms and normally not more than 30 carbon atoms.</p>
+<p id="p0093" num="0093">According to one embodiment of the present invention, the liquid drug-containing formulation further comprises the components
+<ul id="ul0006" list-style="none">
+<li>E) at least one antioxidant selected from the group consisting of ascorbyl palmitate, butylhydroxytoluene, butylhydroxyanisole, citric acid, lecithins, propyl gallate, tocopherol, and combinations of these antioxidants; and/or</li>
+<li>F) at least one preservative selected from the group consisting of ethanol, propylene glycol, butanol, chlorobutanol, benzoic acid, sorbic acid, para-hydroxybenzoic esters, and combinations thereof; and/or</li>
+<li>G) optionally at least one surfactant.</li>
+</ul><!-- EPO <DP n="17"> --></p>
+<p id="p0094" num="0094">According to one embodiment of the present invention, the liquid drug-containing formulation as defined herein comprises
+<ol id="ol0004" ol-style="">
+<li>A) the hypoxia-inducible factor prolyl hydroxylase inhibitor in an amount of from 0.1 to 20 wt.-%, preferably from 0.5 to 10 wt.-%, based on the total weight of the liquid drug-containing formulation,</li>
+<li>B) the at least one natural oil of herbal origin in an amount of from 50 to 99.8 wt.-%, preferably from 70 to 98.97 wt.-%, based on the total weight of the liquid drug-containing formulation,</li>
+<li>C) optionally the at least one natural oil of animal origin in an amount of from 0.01 to 5 wt.-%, preferably from 0.01 to 1.5 wt.-%, based on the total weight of the liquid drug-containing formulation,</li>
+<li>D) optionally the at least one thickener in an amount of from 0.1 to 10 wt.-%, preferably from 0.5 to 5 wt.-%, based on the total weight of the liquid drug-containing formulation,</li>
+<li>E) optionally the at least one antioxidant in an amount of from 0.01 to 2 wt.-%, preferably from 0.01 to 1.5 wt.-%, based on the total weight of the liquid drug-containing formulation, and</li>
+<li>F) optionally the at least one preservative in an amount of from 0.01 to 2 wt.-%, preferably from 0.01 to 1.5 wt.-%, based on the total weight of the liquid drug-containing formulation.</li>
+</ol></p>
+<p id="p0095" num="0095">According to one embodiment of the present invention, the liquid drug-containing formulation as defined herein does not comprise additional flavoring agents such as vanilla, anise, or honey flavor.</p>
+<p id="p0096" num="0096">According to one embodiment of the present invention, the present invention relates to the liquid drug-containing formulation as defined herein for use in the treatment and/or prophylaxis of diseases associated with hypoxia-inducible factor prolyl hydroxylase enzymes, wherein preferably said diseases are cardiovascular diseases, cardiac insufficiency, anemia, chronic kidney diseases, or renal insufficiency, in particular for use in the treatment of anemia associated with chronic kidney disease.</p>
+<p id="p0097" num="0097">According to one embodiment, the present invention relates to the liquid drug-containing formulation as defined herein for the control (or management) of secondary, non-regenerative anemia due to chronic kidney disease in animals, preferably in cats and dogs, in particular in cats.</p>
+<p id="p0098" num="0098">According to one embodiment of the present invention, the liquid drug-containing formulation can be administered for an administration period of at least one week without incurring problems with acceptance or voluntary acceptance.<!-- EPO <DP n="18"> --></p>
+<p id="p0099" num="0099">According to one embodiment of the present invention, the liquid drug-containing formulation can be administered for an administration period of at least two weeks without incurring problems with acceptance or voluntary acceptance.</p>
+<p id="p0100" num="0100">According to one embodiment of the present invention, the liquid drug-containing formulation is administered to cats and dogs, preferably to cats.</p>
+<p id="p0101" num="0101">According to one embodiment of the present invention, the liquid drug-containing formulation can be administered to cats for an administration period of at least two weeks without incurring problems with voluntary acceptance. According to a particular embodiment of the present invention, the liquid drug-containing formulation can be administered to cats for an administration period of at least four weeks without incurring problems with voluntary acceptance.</p>
+<p id="p0102" num="0102">According to another embodiment of the present invention, the liquid drug-containing formulation can be administered to dogs for an administration period of at least two, in particular of at least four weeks without incurring problems with voluntary acceptance.</p>
+<p id="p0103" num="0103">It is to be understood that according to the present invention, the liquid drug-containing formulation as defined herein is administered orally to the animal.</p>
+<p id="p0104" num="0104">According to the present invention, the voluntary acceptance of a liquid drug-containing formulation according to the invention is at least 7, preferably at least 8, determined as defined herein.</p>
+<p id="p0105" num="0105">As indicated above, the present invention further relates to the use of a liquid formulation aid composition comprising at least one natural oil of herbal origin for improving the acceptance or voluntary acceptance of drug intake.</p>
+<p id="p0106" num="0106">As indicated above, the present invention further relates to the use of a liquid formulation aid composition comprising at least one natural oil of animal origin for improving the acceptance or voluntary acceptance of drug intake.</p>
+<p id="p0107" num="0107">In one embodiment of the present invention, the liquid formulation aid composition comprises at least one natural oil of herbal origin and at least one natural oil of animal origin.</p>
+<p id="p0108" num="0108">In one embodiment of the present invention, the liquid drug-containing formulation comprises the liquid formulation aid composition in an amount of at least 20 wt.-%, preferably at least 40 wt.-%, more preferably at least 50 wt.-%, even more preferably at least 70 wt.-%, in particular at least 80 wt.-%, based on the total weight of the liquid drug-containing formulation.</p>
+<p id="p0109" num="0109">In one embodiment of the present invention, the acceptance or voluntary acceptance of drug intake is improved in cats and dogs, preferably in cats.<!-- EPO <DP n="19"> --></p>
+<p id="p0110" num="0110">In one embodiment of the present invention, the acceptance or voluntary acceptance of drug intake is improved over an administration period of at least one week.</p>
+<p id="p0111" num="0111">In one embodiment of the present invention, the acceptance or voluntary acceptance of drug intake is improved over an administration period of at least two weeks.</p>
+<p id="p0112" num="0112">In a particular embodiment of the present invention, the acceptance or voluntary acceptance of drug intake is improved over an administration period of at least four weeks.</p>
+<p id="p0113" num="0113">It is to be understood that the at least one natural oil of herbal origin which is comprised in the liquid formulation aid composition is defined as outlined in more detail above.</p>
+<p id="p0114" num="0114">In one embodiment of the present invention, the at least one natural oil of herbal origin is comprised, which is selected from the group consisting of almond oil, apricot kernel oil, canola oil, castor oil, coconut oil, cottonseed oil, flaxseed oil, grape oil, hemp oil, maize oil, olive oil, palm oil, peanut oil, sesame seed oil, soya oil, sunflower oil, thistle oil, rapeseed oil, rice bran oil, and wheat germ oil, and is preferably soya oil or sunflower oil.</p>
+<p id="p0115" num="0115">It is to be understood that according to the present invention, the natural oils of herbal origin which is comprised in the liquid formulation aid composition may be any suitable natural oils of herbal origin known in the art as defined above and which may be obtained as described above. These natural oils of herbal origin may additionally be modified.</p>
+<p id="p0116" num="0116">In another embodiment of the present invention, the at least one natural oil of herbal origin is comprised, which is selected from the group consisting of modified almond oil, modified apricot kernel oil, modified canola oil, modified castor oil, modified coconut oil, modified cottonseed oil, modified flaxseed oil, modified grape oil, modified hemp oil, modified maize oil, modified olive oil, modified palm oil, modified peanut oil, modified sesame seed oil, modified soya oil, modified sunflower oil, modified thistle oil, modified rapeseed oil, modified rice bran oil, and modified wheat germ oil, and is preferably modified maize oil, wherein the modification is obtained by alcoholysis, preferably with glycerol, propylene glycol, or low molecular polyethylene glycol.</p>
+<p id="p0117" num="0117">In a particular embodiment of the present invention, the at least one natural oil of herbal origin is comprised, which is selected from the group consisting of sesame seed oil, soya oil, sunflower oil, thistle oil, and modified maize oil, wherein the modification is obtained by alcoholysis, preferably with glycerol, propylene glycol, or low molecular polyethylene glycol.</p>
+<p id="p0118" num="0118">In one embodiment of the present invention, the liquid formulation aid composition comprises the at least one natural oil of animal origin, which is preferably selected from the group consisting of fish oil and salmon oil, and is in particular fish oil.</p>
+<p id="p0119" num="0119">In one embodiment of the present invention, at least one thickener is present, preferably in the liquid formulation aid composition, which is a glycerol ester, which is preferably is a<!-- EPO <DP n="20"> --> glycerol ester with C<sub>12</sub>-C<sub>24</sub> fatty acids and/or is a monoester, a diester, a triester, or a mixture thereof.</p>
+<p id="p0120" num="0120">In one embodiment of the present invention, at least one thickener is present, preferably in the liquid formulation aid composition, which is glycerol dibehenate.</p>
+<p id="p0121" num="0121">In one embodiment of the present invention, the liquid formulation aid composition further comprises<br/>
+at least one antioxidant selected from the group consisting of ascorbyl palmitate, butylhydroxytoluene, butylhydroxyanisole, citric acid, lecithins, propyl gallate, tocopherol, and combinations of these antioxidants; and/or<br/>
+at least one preservative selected from the group consisting of ethanol, propylene glycol, butanol, chlorobutanol, benzoic acid, sorbic acid, para-hydroxybenzoic esters, and combinations thereof; and/or<br/>
+optionally at least one surfactant.</p>
+<p id="p0122" num="0122">In one embodiment of the present invention, the at least one natural oil of herbal origin is present in the liquid formulation aid composition in an amount of at least 50 wt.-%, preferably at least 70 wt.-%, more preferably at least 90 wt.-%, even more preferably at least 93 wt.-%, in particular at least 95 wt.-%, based on the total weight of the liquid formulation aid composition.</p>
+<p id="p0123" num="0123">In another embodiment of the present invention, the at least one natural oil of animal origin is present in the liquid formulation aid composition in an amount of at least 50 wt.-%, preferably at least 70 wt.-%, more preferably at least 90 wt.-%, even more preferably at least 93 wt.-%, in particular at least 95 wt.-%, based on the total weight of the liquid formulation aid composition.</p>
+<p id="p0124" num="0124">It is further to be understood that, the at least one natural oil of animal origin, the at least one thickener, the at least one antioxidant, the at least one preservative, and the at least one surfactant which may be comprised in the liquid formulation aid composition are defined as outlined in more detail above.</p>
+<p id="p0125" num="0125">According to one embodiment of the present invention, the liquid formulation aid composition as defined herein does not comprise additional flavoring agents such as vanilla, anise, or honey flavor.</p>
+<p id="p0126" num="0126">According to the present invention, the liquid formulation aid composition improves the voluntary acceptance of the liquid drug-containing formulation in that it is at least 7, preferably at least 8, determined as defined herein.</p>
+<p id="p0127" num="0127">The present invention is further illustrated by the following examples.<!-- EPO <DP n="21"> --></p>
+<heading id="h0002">Used material</heading>
+<p id="p0128" num="0128">Compritol® 888ATO was purchased from Gattefosse and is a glyceryl dibehenate. It is obtained by esterification of glycerol with behenic acid (C22 fatty acids), followed by atomization. The product comprises mono-, di-, and triglycerides of behenic acid, wherein the diester fraction is comprised from 40 to 60 wt.-%.</p>
+<p id="p0129" num="0129">Maisine® CC was purchased from Gattefosse and is a modified maize oil. It is obtained by alcoholysis of maize oil and a subsequent winterization. The product comprises mono-, di-, and triglycerides, wherein the monoester fraction is comprised from 32 to 52 wt.-%, the diester fraction is comprised from 40 to 60 wt.-%, and the triester fraction is comprised from 5 to 20 wt.-%.</p>
+<p id="p0130" num="0130">Miglyol® 810 was purchased from IOI Oleo GmbH and is a mixture of decanoyl- and octanoyl glycerides. It is also known as Caprylic/Capric Triglyceride or Triglycerides, medium chain.</p>
+<p id="p0131" num="0131">Miglyol® 812 was purchased from IOI Oleo GmbH and is a mixture of decanoyl- and octanoyl glycerides. It is also known as Caprylic/Capric Triglyceride or Triglycerides, medium chain.</p>
+<p id="p0132" num="0132">Miglyol® 840 was purchased from IOI Oleo GmbH and is a mixture of glycol mono- and diesters of caprylic acid (C8H16O2) and capric acid (C10H20O2), wherein the diesters fraction is predominant.</p>
+<p id="p0133" num="0133">Solbrol P was purchased from Fluka.</p>
+<p id="p0134" num="0134">Solbrol M was purchased from Fluka.</p>
+<p id="p0135" num="0135">Tween 20 was purchased from Croda GmbH.</p>
+<p id="p0136" num="0136">Tween 80 was purchased from Croda GmbH.</p>
+<p id="p0137" num="0137">Avicel CL 611 was purchased from FMC Corporation.</p>
+<p id="p0138" num="0138">The natural oils of herbal an animal origin were purchased from Fluka.</p>
+<p id="p0139" num="0139">Compound A can be accessed according to the synthesis disclosed in e.g. <patcit id="pcit0003" dnum="WO2013167552A1"><text>WO2013167552A1</text></patcit> and is sodium 1-[6-(morpholin-4-yl)pyrimidin-4-yl]-4-(1H-1,2,3-triazol-1-yl)-1H-pyrazol-5-olate having formula (IIa)
+<chemistry id="chem0006" num="0006"><img id="ib0006" file="imgb0006.tif" wi="67" he="30" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0140" num="0140">In the following, the general procedure for evaluation of the voluntary acceptance in cats will be described.<!-- EPO <DP n="22"> --></p>
+<p id="p0141" num="0141">A test item was offered daily in a food bowl for three minutes. The voluntary uptake of different formulations were assessed and recorded using a visual analogue scale (VAS), wherein 0 (cm) denotes worst possible voluntary intake and 10 (cm) denotes best possible voluntary intake.
+<tables id="tabl0002" num="0002">
+<table frame="top">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="22mm" colsep="0"/>
+<colspec colnum="2" colname="col2" colwidth="22mm"/>
+<tbody>
+<row>
+<entry>0 (cm)</entry>
+<entry>10 (cm)</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0142" num="0142">In case of the worst possible intake (0 cm), the cat showed no interest and did not take up the test item. In case of the best possible intake (10 cm), the cat took up the test item completely.</p>
+<p id="p0143" num="0143">The assessor placed a vertical mark on the line based on cat's behaviour (e.g. no uptake / shows interest, smells at the test item / partial consumption of the test formulation / looks for more). All voluntary intake assessments of one treatment day were done by the same individual.</p>
+<heading id="h0003"><u>Example 1</u></heading>
+<p id="p0144" num="0144">In the following, the voluntary acceptance of several natural oils of herbal origin and of animal origin (Ex. 1.1 to 1.8) were tested. Additionally, the voluntary acceptance of a mixture comprising a natural oil of herbal origin and a triglyceride (Ex. 1.9) was tested.</p>
+<p id="p0145" num="0145">For the voluntary acceptance test, eight cats were tested following the above mentioned general procedure for evaluation over a time period of four or seven days (compare Table 1.a and 1.b). The cats were offered 0.5 ml of the respective oil.</p>
+<p id="p0146" num="0146">The respective results were obtained via the following exemplarily set up. The mean values are depicted in Tables 1.a and 1.b and the more detailed results are depicted in Table 1.c.</p>
+<p id="p0147" num="0147">Two test groups comprising each eight cats were applied. Within one voluntary acceptance test phase (seven days), only one formulation was tested.</p>
+<p id="p0148" num="0148">To accustom the cats to the procedure of licking fluids from a bowl, the cats were offered water and/or milk per animal for the duration of three days, providing a baseline phase value. Following to the baseline phase, the respective natural oils of herbal or animal origin or the mixture comprising a natural oil of herbal origin and triglycerides were offered.</p>
+<p id="p0149" num="0149">Test group 1 (cats 1 to 9) had been offered the natural oils of herbal origin according to Ex. 1.1, 1.2, 1.3, 1.6, and 1.7.</p>
+<p id="p0150" num="0150">Test group 2 (cats 10 to 17) had been offered the natural oils of herbal or animal origin or a mixture comprising a natural oil of herbal origin and a triglyceride according to Ex. 1.4, 1.5, 1.8, and 1.9.</p>
+<p id="p0151" num="0151">The detailed voluntary acceptance results are depicted in Table 1.c.<!-- EPO <DP n="23"> --></p>
+<p id="p0152" num="0152">Preparation of the mixture comprising sunflower oil and triglyceride according to Ex. 1.9:<br/>
+Sunflower oil was placed in a flask. Miglyol 810 and Miglyol 812 were added under stirring and the mixture was stirred for further 10 minutes.
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>Table 1a. Natural oils of herbal origin according to Ex. 1.1 to 1.5 and the test results. The solids %-value refers to the amounts (Amt) in % by weight.</title>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" colwidth="36mm"/>
+<colspec colnum="2" colname="col2" colwidth="26mm"/>
+<colspec colnum="3" colname="col3" colwidth="26mm"/>
+<colspec colnum="4" colname="col4" colwidth="26mm"/>
+<colspec colnum="5" colname="col5" colwidth="26mm"/>
+<colspec colnum="6" colname="col6" colwidth="26mm"/>
+<thead>
+<row>
+<entry morerows="1" valign="top"><b>Ingredient (Trade Name)</b></entry>
+<entry valign="top"><b>Ex. 1.1</b></entry>
+<entry valign="top"><b>Ex. 1.2</b></entry>
+<entry valign="top"><b>Ex. 1.3</b></entry>
+<entry valign="top"><b>Ex. 1.4</b></entry>
+<entry valign="top"><b>Ex. 1.5</b></entry></row>
+<row>
+<entry valign="top"><b>Solids [%]</b></entry>
+<entry valign="top"><b>Solids [%]</b></entry>
+<entry valign="top"><b>Solids [%]</b></entry>
+<entry valign="top"><b>Solids [%]</b></entry>
+<entry valign="top"><b>Solids [%]</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Soya oil</entry>
+<entry>100</entry>
+<entry>100</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Maize oil</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>100</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Thistle oil</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>100</entry>
+<entry>-</entry></row>
+<row>
+<entry>Sesame oil</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>100</entry></row>
+<row>
+<entry namest="col1" nameend="col6" align="left"/></row>
+<row>
+<entry>No. of cats tested</entry>
+<entry>7</entry>
+<entry>1</entry>
+<entry>8</entry>
+<entry>8</entry>
+<entry>8</entry></row>
+<row>
+<entry>Administration period [1/d]</entry>
+<entry>7</entry>
+<entry>4</entry>
+<entry>7</entry>
+<entry>7</entry>
+<entry>7</entry></row>
+<row>
+<entry>Voluntary acceptance [mean]</entry>
+<entry>8.7</entry>
+<entry>10.0</entry>
+<entry>7.9</entry>
+<entry>8.1</entry>
+<entry>8.4</entry></row></tbody></tgroup>
+</table>
+</tables>
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title>Table 1b. Natural oils of herbal origin and of animal origin according to Ex. 1.6 to 1.8 and the mixture comprising sunflower oil and triglyceride according to Ex. 1.9 and the test results. The solids %-value refers to the amounts (Amt) in % by weight.</title>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" colwidth="37mm"/>
+<colspec colnum="2" colname="col2" colwidth="27mm"/>
+<colspec colnum="3" colname="col3" colwidth="27mm"/>
+<colspec colnum="4" colname="col4" colwidth="27mm"/>
+<colspec colnum="5" colname="col5" colwidth="23mm"/>
+<colspec colnum="6" colname="col6" colwidth="27mm"/>
+<thead>
+<row>
+<entry morerows="1" valign="top"><b>Ingredient (Trade Name)</b></entry>
+<entry valign="top"><b>Ex. 1.6</b></entry>
+<entry valign="top"><b>Ex. 1.7</b></entry>
+<entry valign="top"><b>Ex. 1.8</b></entry>
+<entry namest="col5" nameend="col6" align="left" valign="top"><b>Ex. 1.9</b></entry></row>
+<row>
+<entry valign="top"><b>Solids [%]</b></entry>
+<entry valign="top"><b>Solids [%]</b></entry>
+<entry valign="top"><b>Solids [%]</b></entry>
+<entry valign="top"><b>Amt [g]</b></entry>
+<entry valign="top"><b>Solids [%]</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Sunflower oil</entry>
+<entry>100</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>60</entry>
+<entry>50</entry></row>
+<row>
+<entry>Salmon oil</entry>
+<entry>-</entry>
+<entry>100</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Modified maize oil</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>100</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Triglyceride (Miglyol 810)</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>30</entry>
+<entry>25</entry></row>
+<row>
+<entry>Triglyceride (Miglyol 812)</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>30</entry>
+<entry>25</entry></row>
+<row>
+<entry namest="col1" nameend="col6" align="left"/></row>
+<row>
+<entry>No. of cats tested</entry>
+<entry>8</entry>
+<entry>8</entry>
+<entry>8</entry>
+<entry namest="col5" nameend="col6" align="left">8</entry></row>
+<row>
+<entry>Administration period [1/d]</entry>
+<entry>7</entry>
+<entry>7</entry>
+<entry>7</entry>
+<entry namest="col5" nameend="col6" align="left">7</entry></row>
+<row>
+<entry>Voluntary acceptance [mean]</entry>
+<entry>8.8</entry>
+<entry>7.9</entry>
+<entry>8.9</entry>
+<entry namest="col5" nameend="col6" align="left">8.3</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="24"> -->
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<title>Table 1.c. Detailed voluntary acceptance test results for the natural oils of herbal origin and of animal origin according to Ex. 1.1 to 1.8 and the mixture of sunflower oil with triglyceride according to Ex. 1.9. Baseline is abbreviated with BI..</title>
+<tgroup cols="11">
+<colspec colnum="1" colname="col1" colwidth="14mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<colspec colnum="3" colname="col3" colwidth="16mm"/>
+<colspec colnum="4" colname="col4" colwidth="16mm"/>
+<colspec colnum="5" colname="col5" colwidth="16mm"/>
+<colspec colnum="6" colname="col6" colwidth="16mm"/>
+<colspec colnum="7" colname="col7" colwidth="16mm"/>
+<colspec colnum="8" colname="col8" colwidth="16mm"/>
+<colspec colnum="9" colname="col9" colwidth="16mm"/>
+<colspec colnum="10" colname="col10" colwidth="16mm"/>
+<colspec colnum="11" colname="col11" colwidth="17mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry namest="col2" nameend="col10" align="left" valign="top">cats</entry>
+<entry valign="top"/></row>
+<row>
+<entry valign="top">Ex.</entry>
+<entry valign="top">1</entry>
+<entry valign="top">2</entry>
+<entry valign="top">3</entry>
+<entry valign="top">4</entry>
+<entry valign="top">5</entry>
+<entry valign="top">6</entry>
+<entry valign="top">7</entry>
+<entry valign="top">8</entry>
+<entry valign="top">9</entry>
+<entry valign="top">mean</entry></row></thead>
+<tbody>
+<row>
+<entry>Bl.</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry></row>
+<row>
+<entry>1.1 &amp; 1.2</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>-</entry>
+<entry>3.9</entry>
+<entry>8.6</entry>
+<entry>10.0</entry>
+<entry>9.9</entry>
+<entry>10.0</entry>
+<entry>8.9</entry>
+<entry>8.9</entry></row>
+<row>
+<entry>1.3</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>-</entry>
+<entry>4.3</entry>
+<entry>10.0</entry>
+<entry>9.7</entry>
+<entry>9.0</entry>
+<entry>10.0</entry>
+<entry>0.0</entry>
+<entry>7.9</entry></row>
+<row>
+<entry>1.6</entry>
+<entry>10.0</entry>
+<entry>-</entry>
+<entry>8.1</entry>
+<entry>1.9</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>8.8</entry></row>
+<row>
+<entry>1.8</entry>
+<entry>10.0</entry>
+<entry>-</entry>
+<entry>6.1</entry>
+<entry>6.0</entry>
+<entry>9.4</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>8.9</entry></row>
+<row>
+<entry namest="col1" nameend="col11" align="left"/></row></tbody></tgroup>
+<tgroup cols="11">
+<colspec colnum="1" colname="col1" colwidth="14mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<colspec colnum="3" colname="col3" colwidth="16mm"/>
+<colspec colnum="4" colname="col4" colwidth="16mm"/>
+<colspec colnum="5" colname="col5" colwidth="16mm"/>
+<colspec colnum="6" colname="col6" colwidth="16mm"/>
+<colspec colnum="7" colname="col7" colwidth="16mm"/>
+<colspec colnum="8" colname="col8" colwidth="16mm"/>
+<colspec colnum="9" colname="col9" colwidth="16mm"/>
+<colspec colnum="10" colname="col10" colwidth="16mm"/>
+<colspec colnum="11" colname="col11" colwidth="17mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry namest="col2" nameend="col9" align="left" valign="top">cats</entry>
+<entry valign="top"/>
+<entry valign="top"/></row>
+<row>
+<entry valign="top">Ex.</entry>
+<entry valign="top">10</entry>
+<entry valign="top">11</entry>
+<entry valign="top">12</entry>
+<entry valign="top">13</entry>
+<entry valign="top">14</entry>
+<entry valign="top">15</entry>
+<entry valign="top">16</entry>
+<entry valign="top">17</entry>
+<entry valign="top"/>
+<entry valign="top"/></row></thead>
+<tbody>
+<row>
+<entry>Bl.</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry/>
+<entry>10.0</entry></row>
+<row>
+<entry>1.4</entry>
+<entry>8.6</entry>
+<entry>4.4</entry>
+<entry>7.7</entry>
+<entry>10.0</entry>
+<entry>9.3</entry>
+<entry>5.6</entry>
+<entry>10.0</entry>
+<entry>9.1</entry>
+<entry/>
+<entry>8.1</entry></row>
+<row>
+<entry>1.5</entry>
+<entry>6.6</entry>
+<entry>4.3</entry>
+<entry>9.9</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>6.6</entry>
+<entry>10.0</entry>
+<entry>9.9</entry>
+<entry/>
+<entry>8.4</entry></row>
+<row>
+<entry>1.7</entry>
+<entry>9.9</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>0.9</entry>
+<entry>9.4</entry>
+<entry>3.3</entry>
+<entry>10.0</entry>
+<entry/>
+<entry>7.9</entry></row>
+<row>
+<entry>1.9</entry>
+<entry>8.6</entry>
+<entry>4.1</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>3.3</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry/>
+<entry>8.3</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0153" num="0153">Best voluntary acceptance is shown by sunflower oil, soya oil, and modified maize oil.</p>
+<heading id="h0004"><u>Example 2</u></heading>
+<p id="p0154" num="0154">In the following, the voluntary acceptance of the liquid placebo formulations according to Ex. 2.1 to 2.4 were tested.</p>
+<p id="p0155" num="0155">For the voluntary acceptance test, eight cats were tested following the above mentioned general procedure for evaluation over a time period of 8, 23, or 28 days (compare Table 2.a and 2.b). In this connection, it should be noted that the evaluation of the formulation according to Ex. 2.4 was stopped after eight days, due to the poor uptake. 0.2 ml/kg bw (body weight of cat) of the liquid placebo formulation was offered.</p>
+<p id="p0156" num="0156">The respective results were obtained via the following exemplarily set up. The mean values are depicted in Tables 2.a and 2.b and the more detailed results for Ex. 2.1 to 2.4 are depicted in Table 2.c.</p>
+<p id="p0157" num="0157">Two test groups comprising each eight cats were applied. Within one voluntary acceptance test phase (23 or 28 days), only one formulation was tested.<!-- EPO <DP n="25"> --></p>
+<p id="p0158" num="0158">To accustom the cats to the procedure of licking fluids from a bowl, the cats were offered water and/or milk per animal for the duration of four days, providing a baseline phase value. Following to the baseline phase, the respective liquid placebo formulation was tested.</p>
+<p id="p0159" num="0159">Test group 1 (cats 18 to 25) had been offered the liquid placebo formulation Ex. 2.1 and Ex. 2.2.</p>
+<p id="p0160" num="0160">Test group 2 (cats 26 to 33) had been offered the liquid placebo formulation Ex. 2.3 and Ex. 2.4.</p>
+<p id="p0161" num="0161">The detailed voluntary acceptance results are depicted in Table 2.c.</p>
+<p id="p0162" num="0162">Preparation of the liquid placebo formulations according to Ex. 2.1 to 2.4:
+<ul id="ul0007" list-style="none">
+<li>Ex. 2.1 and 2.2: Sunflower oil was placed in a flask. Fish oil was added and the mixture was heated to 70° C. Butylhydroxytoluene, sorbic acid, and Compritol were added under stirring and the mixture was stirred for further 10 minutes before the mixture was let cooled to room temperature.</li>
+<li>Ex. 2.3: Miglyol was placed in a flask and heated to 75 ° C. Butylhydroxytoluene, sorbic acid, and Compritol were added under stirring and the mixture was stirred for further 10 minutes before the mixture was let cooled to room temperature.</li>
+<li>Ex. 2.4: Water was placed in a flak. Sodium citrate was added to obtain a pH of 8.37, citric acid was added to obtain a pH of 6.03, Solbrol M, and Solbrol P were added under stirring and the mixture was heated to 40 ° C and stirred until the parabens were dissolved before the mixture was let cooled to room temperature. Sorbitol, propylene glycol, vanilla flavor, Tween 20, Tween 80, and Avicel were added under stirring. The final citric acid was added to obtain a pH of 5.52 and the mixture was stirred for further 10 minutes.</li>
+</ul><!-- EPO <DP n="26"> -->
+<tables id="tabl0006" num="0006">
+<table frame="all">
+<title>Table 2.a. Liquid placebo formulations according to Ex. 2.1 and 2.2 and the test results. The solids %-value refers to the amounts (Amt) in % by weight.</title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="52mm"/>
+<colspec colnum="2" colname="col2" colwidth="29mm"/>
+<colspec colnum="3" colname="col3" colwidth="29mm"/>
+<colspec colnum="4" colname="col4" colwidth="29mm"/>
+<colspec colnum="5" colname="col5" colwidth="29mm"/>
+<thead>
+<row>
+<entry morerows="1" valign="top"><b>Ingredient (Trade Name)</b></entry>
+<entry namest="col2" nameend="col3" align="left" valign="top"><b>Ex. 2.1</b></entry>
+<entry namest="col4" nameend="col5" align="left" valign="top"><b>Ex. 2.2</b></entry></row>
+<row>
+<entry valign="top"><b>Amt [g]</b></entry>
+<entry valign="top"><b>Solids [%]</b></entry>
+<entry valign="top"><b>Amt [g]</b></entry>
+<entry valign="top"><b>Solids [%]</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Sunflower oil</entry>
+<entry>452.8</entry>
+<entry>98.6</entry>
+<entry>452.8</entry>
+<entry>98.6</entry></row>
+<row>
+<entry>Fish oil</entry>
+<entry>0.5</entry>
+<entry>0.1</entry>
+<entry>0.5</entry>
+<entry>0.1</entry></row>
+<row>
+<entry>Sorbic acid</entry>
+<entry>0.4</entry>
+<entry>0.08</entry>
+<entry>0.4</entry>
+<entry>0.08</entry></row>
+<row>
+<entry>Butylhydroxytoluene (BHT)</entry>
+<entry>0.6</entry>
+<entry>0.1</entry>
+<entry>0.6</entry>
+<entry>0.1</entry></row>
+<row>
+<entry>Glyceryl Dibehenate (Compritol 888 ATO)</entry>
+<entry>5</entry>
+<entry>1.1</entry>
+<entry>5</entry>
+<entry>1.1</entry></row>
+<row>
+<entry>Total</entry>
+<entry>458.51</entry>
+<entry>100</entry>
+<entry>458.51</entry>
+<entry>100</entry></row>
+<row>
+<entry>No. of cats tested</entry>
+<entry namest="col2" nameend="col3" align="left">7</entry>
+<entry namest="col4" nameend="col5" align="left">1</entry></row>
+<row>
+<entry>Administration period [1/d]</entry>
+<entry namest="col2" nameend="col3" align="left">28</entry>
+<entry namest="col4" nameend="col5" align="left">23</entry></row>
+<row>
+<entry>Voluntary acceptance [mean]</entry>
+<entry namest="col2" nameend="col3" align="left">9.2</entry>
+<entry namest="col4" nameend="col5" align="left">9.7</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="27"> -->
+<tables id="tabl0007" num="0007">
+<table frame="all">
+<title>Table 2.b. Liquid placebo formulations according to Ex. 2.3 and 2.4 and the test results. The solids %-value refers to the amounts (Amt) in % by weight.</title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="65mm"/>
+<colspec colnum="2" colname="col2" colwidth="23mm"/>
+<colspec colnum="3" colname="col3" colwidth="26mm"/>
+<colspec colnum="4" colname="col4" colwidth="27mm"/>
+<colspec colnum="5" colname="col5" colwidth="26mm"/>
+<thead>
+<row>
+<entry morerows="1" valign="top"><b>Ingredient (Trade Name)</b></entry>
+<entry namest="col2" nameend="col3" align="left" valign="top"><b>Ex. 2.3</b></entry>
+<entry namest="col4" nameend="col5" align="left" valign="top"><b>Ex. 2.4</b></entry></row>
+<row>
+<entry valign="top"><b>Amt [g]</b></entry>
+<entry valign="top"><b>Solids [%]</b></entry>
+<entry valign="top"><b>Amt [g]</b></entry>
+<entry valign="top"><b>Solids [%]</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Triglyceride (Miglyol 840)</entry>
+<entry>452.4</entry>
+<entry>97.6</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Sorbic acid</entry>
+<entry>0.4</entry>
+<entry>0.09</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Butylhydroxytoluene (BHT)</entry>
+<entry>0.5</entry>
+<entry>0.1</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Glyceryl Dibehenate (Compritol 888 ATO)</entry>
+<entry>10</entry>
+<entry>2.2</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Aqua bidest.</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>411.9</entry>
+<entry>77.4</entry></row>
+<row>
+<entry>Sodium citrate</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>1.3</entry>
+<entry>0.2</entry></row>
+<row>
+<entry>Citric acid</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>7.6</entry>
+<entry>1.4</entry></row>
+<row>
+<entry>Propylparaben (Solbrol P)</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>0.1</entry>
+<entry>0.02</entry></row>
+<row>
+<entry>Methylparaben (Solbrol M)</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>0.9</entry>
+<entry>0.2</entry></row>
+<row>
+<entry>Sorbitol</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>50</entry>
+<entry>9.4</entry></row>
+<row>
+<entry>Propylene glycol</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>50</entry>
+<entry>9.4</entry></row>
+<row>
+<entry>Vanilla flavor</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>1</entry>
+<entry>0.2</entry></row>
+<row>
+<entry>Polysorbate 20 (Tween 20)</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>0.8</entry>
+<entry>0.2</entry></row>
+<row>
+<entry>Polysorbate 80 (Tween 80)</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>0.8</entry>
+<entry>0.2</entry></row>
+<row>
+<entry>Mixture of cellulose and carboxy methyl cellulose (Avicel CL 611)</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>8</entry>
+<entry>1.5</entry></row>
+<row>
+<entry>Total</entry>
+<entry>463.3</entry>
+<entry>100</entry>
+<entry>458.51</entry>
+<entry>100</entry></row>
+<row>
+<entry>No. of cats tested</entry>
+<entry namest="col2" nameend="col3" align="left">8</entry>
+<entry namest="col4" nameend="col5" align="left">8</entry></row>
+<row>
+<entry>Administration period [1/d]</entry>
+<entry namest="col2" nameend="col3" align="left">28</entry>
+<entry namest="col4" nameend="col5" align="left">8</entry></row>
+<row>
+<entry>Voluntary acceptance [mean]</entry>
+<entry namest="col2" nameend="col3" align="left">6.5</entry>
+<entry namest="col4" nameend="col5" align="left">0.3</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="28"> -->
+<tables id="tabl0008" num="0008">
+<table frame="all">
+<title>Table 2.c. Detailed voluntary acceptance test results for the liquid placebo formulations according to Ex. 2.1 to 2.4.</title>
+<tgroup cols="10">
+<colspec colnum="1" colname="col1" colwidth="31mm"/>
+<colspec colnum="2" colname="col2" colwidth="15mm"/>
+<colspec colnum="3" colname="col3" colwidth="14mm"/>
+<colspec colnum="4" colname="col4" colwidth="15mm"/>
+<colspec colnum="5" colname="col5" colwidth="15mm"/>
+<colspec colnum="6" colname="col6" colwidth="15mm"/>
+<colspec colnum="7" colname="col7" colwidth="15mm"/>
+<colspec colnum="8" colname="col8" colwidth="15mm"/>
+<colspec colnum="9" colname="col9" colwidth="15mm"/>
+<colspec colnum="10" colname="col10" colwidth="17mm"/>
+<thead>
+<row>
+<entry valign="top">Formulation</entry>
+<entry namest="col2" nameend="col9" align="left" valign="top">cats</entry>
+<entry valign="top"/></row>
+<row>
+<entry valign="top"/>
+<entry valign="top">18</entry>
+<entry valign="top">19</entry>
+<entry valign="top">20</entry>
+<entry valign="top">21</entry>
+<entry valign="top">22</entry>
+<entry valign="top">23</entry>
+<entry valign="top">24</entry>
+<entry valign="top">25</entry>
+<entry valign="top">mean</entry></row></thead>
+<tbody>
+<row>
+<entry>Baseline</entry>
+<entry>9.6</entry>
+<entry>9.5</entry>
+<entry>8.8</entry>
+<entry>9.5</entry>
+<entry>9.9</entry>
+<entry>8.3</entry>
+<entry>9.4</entry>
+<entry>10.0</entry>
+<entry>9.4</entry></row>
+<row>
+<entry>Oily (Ex. 2.1 &amp; 2.2)</entry>
+<entry>9.9</entry>
+<entry>9.8</entry>
+<entry>9.1</entry>
+<entry>9.8</entry>
+<entry>10.0</entry>
+<entry>8.4</entry>
+<entry>9.7</entry>
+<entry>7.3</entry>
+<entry>9.3</entry></row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row></tbody></tgroup>
+<tgroup cols="10">
+<colspec colnum="1" colname="col1" colwidth="31mm"/>
+<colspec colnum="2" colname="col2" colwidth="15mm"/>
+<colspec colnum="3" colname="col3" colwidth="14mm"/>
+<colspec colnum="4" colname="col4" colwidth="15mm"/>
+<colspec colnum="5" colname="col5" colwidth="15mm"/>
+<colspec colnum="6" colname="col6" colwidth="15mm"/>
+<colspec colnum="7" colname="col7" colwidth="15mm"/>
+<colspec colnum="8" colname="col8" colwidth="15mm"/>
+<colspec colnum="9" colname="col9" colwidth="15mm"/>
+<colspec colnum="10" colname="col10" colwidth="17mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry namest="col2" nameend="col9" align="left" valign="top">cats</entry>
+<entry valign="top"/></row>
+<row>
+<entry valign="top"/>
+<entry valign="top">26</entry>
+<entry valign="top">27</entry>
+<entry valign="top">28</entry>
+<entry valign="top">29</entry>
+<entry valign="top">30</entry>
+<entry valign="top">31</entry>
+<entry valign="top">32</entry>
+<entry valign="top">33</entry>
+<entry valign="top"/></row></thead>
+<tbody>
+<row>
+<entry>Baseline</entry>
+<entry>9.0</entry>
+<entry>7.9</entry>
+<entry>8.5</entry>
+<entry>8.3</entry>
+<entry>6.4</entry>
+<entry>9.6</entry>
+<entry>10.0</entry>
+<entry>8.0</entry>
+<entry>8.5</entry></row>
+<row>
+<entry>Watery (Ex. 2.4)</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.0</entry>
+<entry>0.3</entry>
+<entry>0.9</entry>
+<entry>1.6</entry>
+<entry>0.3</entry></row>
+<row>
+<entry>Baseline</entry>
+<entry>10.0</entry>
+<entry>9.5</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>9.3</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>9.8</entry></row>
+<row>
+<entry>Miglyol (Ex. 2.3)</entry>
+<entry>4.1</entry>
+<entry>2.8</entry>
+<entry>6.8</entry>
+<entry>7.3</entry>
+<entry>3.2</entry>
+<entry>7.6</entry>
+<entry>10.0</entry>
+<entry>9.9</entry>
+<entry>6.5</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0163" num="0163">Best voluntary acceptance is shown by liquid placebo formulations comprising sunflower oil.</p>
+<heading id="h0005"><u>Example 3</u></heading>
+<p id="p0164" num="0164">In the following, the voluntary acceptance of the liquid drug-containing formulations 3.1 to 3.6 was tested.</p>
+<p id="p0165" num="0165">For the voluntary acceptance test, eight cats were tested following the above mentioned general procedure for evaluation over a time period of three or seven days. 0.2 ml/kg bw (body weight of cat) of the liquid drug-containing formulation was offered. Due to animal welfare, the healthy cats had not been offered the liquid drug-containing formulations over a time period of 28 days.</p>
+<p id="p0166" num="0166">The respective results were obtained via the following exemplarily set up. The mean values are depicted in Tables 3.a and 3.b and the more detailed results for Ex. 3.1 and 3.2 are depicted in Table 3.c.</p>
+<p id="p0167" num="0167">Two test groups comprising each eight cats were applied. Within one voluntary acceptance test phase (three or seven days), only one formulation was tested.</p>
+<p id="p0168" num="0168">To accustom the cats to the procedure of licking fluids from a bowl, the cats were offered water and/or milk per animal for the duration of four days, providing a baseline phase value. Following to the baseline phase, the respective liquid drug-containing formulation was tested.</p>
+<p id="p0169" num="0169">Test group 1 (cats 18 to 25) had been offered the liquid drug-containing formulation Ex. 3.1.<!-- EPO <DP n="29"> --></p>
+<p id="p0170" num="0170">Test group 2 (cats 26 to 33) had been offered the liquid drug-containing formulation Ex. 3.2.</p>
+<p id="p0171" num="0171">The detailed voluntary acceptance results are depicted in Table 3.c.</p>
+<p id="p0172" num="0172">The results for the liquid drug-containing formulation according to Ex. 3.3 to Ex. 3.6 were achieved accordingly.</p>
+<p id="p0173" num="0173">Preparation of the liquid drug-containing formulations according to Ex. 3.1 to 3.6:
+<ul id="ul0008" list-style="none">
+<li>Ex. 3.1 and 3.4: Sunflower oil was placed in a flask. Fish oil was added and the mixture was heated to 70 ° C (Ex. 3.1) and 75 ° C (Ex. 3.4), respectively. Butylhydroxytoluene, sorbic acid, and Compritol were added under stirring and the mixture was stirred for further 10 minutes before the mixture was let cooled to room temperature. Compound A was added under stirring and the mixture was stirred for further 10 minutes.</li>
+<li>Ex. 3.2: Water was placed in a flak. Sodium citrate was added to obtain a pH of 8.27, citric acid was added to obtain a pH of 6.01, Solbrol M, and Solbrol P were added under stirring and the mixture was heated to 40 ° C and stirred until the parabens were dissolved before the mixture was let cooled to room temperature. Sorbitol, propylene glycol, vanilla flavor, Tween 20, Tween 80, and Avicel were added under stirring. Citric acid was added to obtain a pH of 5.50 and Compound A was added. The final citric acid was added to obtain a pH of 5.5.0 again and the mixture was stirred for further 10 minutes.</li>
+<li>Ex. 3.3: Sunflower oil was placed in a flask and heated to 75 ° C. Sorbic acid, butylhydroxytoluene, and Compritol were added under stirring. The mixture was let cooled to room temperature before Compound A was added and stirred further 10 minutes.</li>
+<li>Ex. 3.5: Miglyol 840 was placed in a flask and heated to 75 ° C. Sorbic acid, butylhydroxytoluene, and Compritol were added under stirring. The mixture was let cooled to room temperature and Compound A was added under stirring and the mixture was stirred for further 10 minutes.</li>
+<li>Ex. 3.6: Miglyol 840 was placed in a flask. Fish oil was added and the mixture was heated to 75 ° C. Sorbic acid, butylhydroxytoluene, and Compritol were added under stirring. The mixture was let cooled to room temperature and Compound A was added under stirring and the mixture was stirred for further 10 minutes.</li>
+</ul><!-- EPO <DP n="30"> -->
+<tables id="tabl0009" num="0009">
+<table frame="all">
+<title>Table 3.a. Liquid drug-containing formulations according to Ex. 3.1 to 3.3 and the test results. The solids %-value refers to the amounts (Amt) in % by weight.</title>
+<tgroup cols="7">
+<colspec colnum="1" colname="col1" colwidth="62mm"/>
+<colspec colnum="2" colname="col2" colwidth="17mm"/>
+<colspec colnum="3" colname="col3" colwidth="20mm"/>
+<colspec colnum="4" colname="col4" colwidth="17mm"/>
+<colspec colnum="5" colname="col5" colwidth="20mm"/>
+<colspec colnum="6" colname="col6" colwidth="12mm"/>
+<colspec colnum="7" colname="col7" colwidth="20mm"/>
+<thead>
+<row>
+<entry morerows="1" valign="top"><b>Ingredient (Trade Name)</b></entry>
+<entry namest="col2" nameend="col3" align="left" valign="top"><b>Ex. 3.1</b></entry>
+<entry namest="col4" nameend="col5" align="left" valign="top"><b>Ex. 3.2</b></entry>
+<entry namest="col6" nameend="col7" align="left" valign="top"><b>Ex. 3.3</b></entry></row>
+<row>
+<entry valign="top"><b>Amt [g]</b></entry>
+<entry valign="top"><b>Solids [%]</b></entry>
+<entry valign="top"><b>Amt [g]</b></entry>
+<entry valign="top"><b>Solids [%]</b></entry>
+<entry valign="top"><b>Amt [g]</b></entry>
+<entry valign="top"><b>Solids [%]</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Sunflower oil</entry>
+<entry>222.7</entry>
+<entry>95.9</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>91.3</entry>
+<entry>95.1</entry></row>
+<row>
+<entry>Fish oil</entry>
+<entry>0.3</entry>
+<entry>0.1</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Sorbic acid</entry>
+<entry>0.2</entry>
+<entry>0.09</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>0.08</entry>
+<entry>0.08</entry></row>
+<row>
+<entry>Butylhydroxytoluene (BHT)</entry>
+<entry>0.3</entry>
+<entry>0.1</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>0.1</entry>
+<entry>0.1</entry></row>
+<row>
+<entry>Glyceryl Dibehenate (Compritol 888 ATO)</entry>
+<entry>2.5</entry>
+<entry>1.1</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>2</entry>
+<entry>2.1</entry></row>
+<row>
+<entry>Compound A</entry>
+<entry>6.3</entry>
+<entry>2.7</entry>
+<entry>6.3</entry>
+<entry>2.3</entry>
+<entry>2.5</entry>
+<entry>2.6</entry></row>
+<row>
+<entry>Aqua bidest.</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>182.2</entry>
+<entry>65.6</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Sodium citrate</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>0.6</entry>
+<entry>0.2</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Citric acid</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>32.6</entry>
+<entry>11.7</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Propylparaben (Solbrol P)</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>0.05</entry>
+<entry>0.02</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Methylparaben (Solbrol M)</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>0.5</entry>
+<entry>0.2</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Sorbitol</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>25</entry>
+<entry>9</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Propylene glycol</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>25</entry>
+<entry>9</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Vanilla flavor</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>0.5</entry>
+<entry>0.2</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Polysorbate 20 (Tween 20)</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>0.4</entry>
+<entry>0.14</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Polysorbate 80 (Tween 80)</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>0.4</entry>
+<entry>0.14</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Mixture of cellulose and carboxy methyl cellulose (Avicel CL 611)</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>4</entry>
+<entry>1.4</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Total</entry>
+<entry>232.3</entry>
+<entry>100</entry>
+<entry>277.6</entry>
+<entry>100</entry>
+<entry>96</entry>
+<entry>99.9</entry></row>
+<row>
+<entry>No. of cats tested</entry>
+<entry namest="col2" nameend="col3" align="left">8</entry>
+<entry namest="col4" nameend="col5" align="left">8</entry>
+<entry namest="col6" nameend="col7" align="left">12</entry></row>
+<row>
+<entry>Administration period [1/d]</entry>
+<entry namest="col2" nameend="col3" align="left">7</entry>
+<entry namest="col4" nameend="col5" align="left">7</entry>
+<entry namest="col6" nameend="col7" align="left">3</entry></row>
+<row>
+<entry>Voluntary acceptance [mean]</entry>
+<entry namest="col2" nameend="col3" align="left">8.8</entry>
+<entry namest="col4" nameend="col5" align="left">0.1</entry>
+<entry namest="col6" nameend="col7" align="left">8.4</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="31"> -->
+<tables id="tabl0010" num="0010">
+<table frame="all">
+<title>Table 3.b. Liquid drug-containing formulations according to Ex. 3.3 to 3.6 and the test results. The solids %-value refers to the amounts (Amt) in % by weight.</title>
+<tgroup cols="7">
+<colspec colnum="1" colname="col1" colwidth="46mm"/>
+<colspec colnum="2" colname="col2" colwidth="18mm"/>
+<colspec colnum="3" colname="col3" colwidth="23mm"/>
+<colspec colnum="4" colname="col4" colwidth="18mm"/>
+<colspec colnum="5" colname="col5" colwidth="23mm"/>
+<colspec colnum="6" colname="col6" colwidth="18mm"/>
+<colspec colnum="7" colname="col7" colwidth="23mm"/>
+<thead>
+<row>
+<entry morerows="1" valign="top"><b>Ingredient (Trade Name)</b></entry>
+<entry namest="col2" nameend="col3" align="left" valign="top"><b>Ex. 3.4</b></entry>
+<entry namest="col4" nameend="col5" align="left" valign="top"><b>Ex. 3.5</b></entry>
+<entry namest="col6" nameend="col7" align="left" valign="top"><b>Ex. 3.6</b></entry></row>
+<row>
+<entry valign="top"><b>Amt [g]</b></entry>
+<entry valign="top"><b>Solids [%]</b></entry>
+<entry valign="top"><b>Amt [g]</b></entry>
+<entry valign="top"><b>Solids [%]</b></entry>
+<entry valign="top"><b>Amt [g]</b></entry>
+<entry valign="top"><b>Solids [%]</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Sunflower oil</entry>
+<entry>91.3</entry>
+<entry>95.1</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Fish oil</entry>
+<entry>0.1</entry>
+<entry>0.1</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>0.1</entry>
+<entry>0.1</entry></row>
+<row>
+<entry>Sorbic acid</entry>
+<entry>0.08</entry>
+<entry>0.08</entry>
+<entry>0.08</entry>
+<entry>0.08</entry>
+<entry>0.08</entry>
+<entry>0.08</entry></row>
+<row>
+<entry>Butylhydroxytoluene (BHT)</entry>
+<entry>0.1</entry>
+<entry>0.1</entry>
+<entry>0.1</entry>
+<entry>0.1</entry>
+<entry>0.1</entry>
+<entry>0.1</entry></row>
+<row>
+<entry>Glyceryl Dibehenate (Compritol 888 ATO)</entry>
+<entry>2</entry>
+<entry>2.1</entry>
+<entry>2</entry>
+<entry>2.1</entry>
+<entry>2</entry>
+<entry>2.1</entry></row>
+<row>
+<entry>Compound A</entry>
+<entry>2.5</entry>
+<entry>2.6</entry>
+<entry>2.5</entry>
+<entry>2.6</entry>
+<entry>2.5</entry>
+<entry>2.6</entry></row>
+<row>
+<entry>Triglyceride (Miglyol 840)</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>90.4</entry>
+<entry>95.1</entry>
+<entry>90</entry>
+<entry>95</entry></row>
+<row>
+<entry>Total</entry>
+<entry>96</entry>
+<entry>100</entry>
+<entry>95.1</entry>
+<entry>100</entry>
+<entry>94.8</entry>
+<entry>100</entry></row>
+<row>
+<entry>No. of cats tested</entry>
+<entry namest="col2" nameend="col3" align="left">12</entry>
+<entry namest="col4" nameend="col5" align="left">12</entry>
+<entry namest="col6" nameend="col7" align="left">12</entry></row>
+<row>
+<entry>Administration period [1/d]</entry>
+<entry namest="col2" nameend="col3" align="left">3</entry>
+<entry namest="col4" nameend="col5" align="left">3</entry>
+<entry namest="col6" nameend="col7" align="left">3</entry></row>
+<row>
+<entry>Voluntary acceptance [mean]</entry>
+<entry namest="col2" nameend="col3" align="left">8.2</entry>
+<entry namest="col4" nameend="col5" align="left">7.8</entry>
+<entry namest="col6" nameend="col7" align="left">7.7</entry></row></tbody></tgroup>
+</table>
+</tables>
+<tables id="tabl0011" num="0011">
+<table frame="all">
+<title>Table 3.c. Detailed voluntary acceptance test results for the liquid drug-containing formulations according to Ex. 3.1 and 3.2.</title>
+<tgroup cols="10">
+<colspec colnum="1" colname="col1" colwidth="26mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<colspec colnum="3" colname="col3" colwidth="14mm"/>
+<colspec colnum="4" colname="col4" colwidth="16mm"/>
+<colspec colnum="5" colname="col5" colwidth="16mm"/>
+<colspec colnum="6" colname="col6" colwidth="16mm"/>
+<colspec colnum="7" colname="col7" colwidth="16mm"/>
+<colspec colnum="8" colname="col8" colwidth="16mm"/>
+<colspec colnum="9" colname="col9" colwidth="16mm"/>
+<colspec colnum="10" colname="col10" colwidth="18mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry namest="col2" nameend="col9" align="left" valign="top">cats</entry>
+<entry valign="top"/></row>
+<row>
+<entry valign="top">Suspension</entry>
+<entry valign="top">21</entry>
+<entry valign="top">18</entry>
+<entry valign="top">19</entry>
+<entry valign="top">20</entry>
+<entry valign="top">22</entry>
+<entry valign="top">23</entry>
+<entry valign="top">25</entry>
+<entry valign="top">24</entry>
+<entry valign="top">mean</entry></row></thead>
+<tbody>
+<row>
+<entry>Baseline</entry>
+<entry>10.0</entry>
+<entry>9.5</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>9.9</entry></row>
+<row>
+<entry>Ex. 3.1</entry>
+<entry>8.7</entry>
+<entry>9.6</entry>
+<entry>9.4</entry>
+<entry>7.6</entry>
+<entry>9.9</entry>
+<entry>8.3</entry>
+<entry>7.4</entry>
+<entry>9.6</entry>
+<entry>8.8</entry></row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row></tbody></tgroup>
+<tgroup cols="10">
+<colspec colnum="1" colname="col1" colwidth="26mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<colspec colnum="3" colname="col3" colwidth="14mm"/>
+<colspec colnum="4" colname="col4" colwidth="16mm"/>
+<colspec colnum="5" colname="col5" colwidth="16mm"/>
+<colspec colnum="6" colname="col6" colwidth="16mm"/>
+<colspec colnum="7" colname="col7" colwidth="16mm"/>
+<colspec colnum="8" colname="col8" colwidth="16mm"/>
+<colspec colnum="9" colname="col9" colwidth="16mm"/>
+<colspec colnum="10" colname="col10" colwidth="18mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry namest="col2" nameend="col9" align="left" valign="top">cats</entry>
+<entry valign="top"/></row>
+<row>
+<entry valign="top">Suspension</entry>
+<entry valign="top">28</entry>
+<entry valign="top">30</entry>
+<entry valign="top">29</entry>
+<entry valign="top">26</entry>
+<entry valign="top">27</entry>
+<entry valign="top">31</entry>
+<entry valign="top">32</entry>
+<entry valign="top">33</entry>
+<entry valign="top"/></row></thead>
+<tbody>
+<row>
+<entry>Baseline</entry>
+<entry>10.0</entry>
+<entry>6.5</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>9.5</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>10.0</entry>
+<entry>9.5</entry></row>
+<row>
+<entry>Ex. 3.2</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>1</entry>
+<entry>0.3</entry>
+<entry>0.2</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0174" num="0174">Best voluntary acceptance is shown by liquid drug-containing formulations comprising sunflower oil.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="32"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A liquid drug-containing formulation comprising the following components
+<claim-text>A) at least one drug, which is a hypoxia-inducible factor prolyl hydroxylase inhibitor,</claim-text>
+<claim-text>B) at least one natural oil of herbal origin,</claim-text>
+<claim-text>C) optionally at least one natural oil of animal origin, and</claim-text>
+<claim-text>D) optionally at least one thickener.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The liquid drug-containing formulation according to claim 1, wherein<br/>
+the hypoxia-inducible factor prolyl hydroxylase inhibitor is a compound of formula (I)
+<chemistry id="chem0007" num="0007"><img id="ib0007" file="imgb0007.tif" wi="61" he="24" img-content="chem" img-format="tif"/></chemistry>
+or a salt, stereoisomer, tautomer, or N-oxide thereof.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The liquid drug-containing formulation according to claim 2, wherein the compound of formula (I) is in the form of a salt having the formula (II)
+<chemistry id="chem0008" num="0008"><img id="ib0008" file="imgb0008.tif" wi="90" he="28" img-content="chem" img-format="tif"/></chemistry>
+wherein
+<claim-text>M is selected from the group consisting of lithium, sodium, potassium, calcium, magnesium, barium, manganese, copper, silver, zinc, iron, ammonium, and substituted ammonium in which one to four of the hydrogen atoms are replaced by C<sub>1</sub>-C<sub>4</sub>-alkyl, and preferably M is sodium;</claim-text>
+<claim-text>m denotes the respective positive charge of the cation, being 1, 2, or 3, preferably 1; and</claim-text>
+<claim-text>n denotes the respective stoichiometric amount of the counter anion and is 1, 2, or 3, preferably 1; wherein n equals m so that the salt having the formula (II) is uncharged.</claim-text></claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The liquid drug-containing formulation according to any one of claims 1 to 3, wherein<br/>
+the at least one natural oil of herbal origin is selected from the group consisting of almond oil, apricot kernel oil, canola oil, castor oil, coconut oil, cottonseed oil, flaxseed oil, grape oil,<!-- EPO <DP n="33"> --> hemp oil, maize oil, olive oil, palm oil, peanut oil, sesame seed oil, soya oil, sunflower oil, thistle oil, rapeseed oil, rice bran oil, and wheat germ oil.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The liquid drug-containing formulation according to any one of claims 1 to 3, wherein<br/>
+the at least one natural oil of herbal origin is selected from the group consisting of modified almond oil, modified apricot kernel oil, modified canola oil, modified castor oil, modified coconut oil, modified cottonseed oil, modified flaxseed oil, modified grape oil, modified hemp oil, modified maize oil, modified olive oil, modified palm oil, modified peanut oil, modified sesame seed oil, modified soya oil, modified sunflower oil, modified thistle oil, modified rapeseed oil, modified rice bran oil, and modified wheat germ oil, wherein the modification is obtained by alcoholysis, preferably with glycerol, propylene glycol, or low molecular polyethylene glycol.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The liquid drug-containing formulation according to any one claims 1 to 5, wherein at least one natural oil of animal origin is present, which is selected from the group consisting of fish oil and salmon oil.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The liquid drug-containing formulation according to any one of claims 1 to 4 and 6,<br/>
+wherein the at least one natural oil of herbal origin is soya oil or sunflower oil and wherein at least one natural oil of animal origin is present, which is fish oil.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>The liquid drug-containing formulation according to any one of claims 1 to 3, 5 or 6, wherein the at least one natural oil of herbal origin is modified maize oil.</claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>The liquid drug-containing formulation according to any one of claims 1 to 8, wherein at least one thickener is present, which is a glycerol ester, and which is preferably is a glycerol ester with C<sub>12</sub>-C<sub>24</sub> fatty acids and/or is a monoester, a diester, a triester, or a mixture thereof.</claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>The liquid drug-containing formulation according to any one of claims 1 to 9,<br/>
+wherein at least one thickener is present, which is glycerol dibehenate.</claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>The liquid drug-containing formulation according to any one of claims 1 to 10, further comprising the components
+<claim-text>E) at least one antioxidant selected from the group consisting of ascorbyl palmitate, butylhydroxytoluene, butylhydroxyanisole, citric acid, lecithins, propyl gallate, tocopherol, and combinations of these antioxidants; and/or</claim-text>
+<claim-text>F) at least one preservative selected from the group consisting of ethanol, propylene glycol, butanol, chlorobutanol, benzoic acid, sorbic acid, para-hydroxybenzoic esters, and combinations thereof; and/or</claim-text>
+<claim-text>G) optionally at least one surfactant.</claim-text><!-- EPO <DP n="34"> --></claim-text></claim>
+<claim id="c-en-0012" num="0012">
+<claim-text>The liquid drug-containing formulation according to any one of claims 1 to 11, comprising
+<claim-text>A) the hypoxia-inducible factor prolyl hydroxylase inhibitor in an amount of from 0.1 to 20 wt.-%, preferably from 0.5 to 10 wt.-%, based on the total weight of the liquid drug-containing formulation,</claim-text>
+<claim-text>B) the at least one natural oil of herbal origin in an amount of from 50 to 99.8 wt.-%, preferably from 70 to 98.97 wt.-%, based on the total weight of the liquid drug-containing formulation,</claim-text>
+<claim-text>C) optionally the at least one natural oil of animal origin in an amount of from 0.01 to 5 wt.-%, preferably from 0.01 to 1.5 wt.-%, based on the total weight of the liquid drug-containing formulation,</claim-text>
+<claim-text>D) optionally the at least one thickener in an amount of from 0.1 to 10 wt.-%, preferably from 0.5 to 5 wt.-%, based on the total weight of the liquid drug-containing formulation,</claim-text>
+<claim-text>E) optionally the at least one antioxidant in an amount of from 0.01 to 2 wt.-%, preferably from 0.01 to 1.5 wt.-%, based on the total weight of the liquid drug-containing formulation, and</claim-text>
+<claim-text>F) optionally the at least one preservative in an amount of from 0.01 to 2 wt.-%, preferably from 0.01 to 1.5 wt.-%, based on the total weight of the liquid drug-containing formulation.</claim-text></claim-text></claim>
+<claim id="c-en-0013" num="0013">
+<claim-text>The liquid drug-containing formulation according to any one of claims 1 to 12 for use in the treatment and/or prophylaxis of diseases associated with hypoxia-inducible factor prolyl hydroxylase enzymes, wherein preferably said diseases are cardiovascular diseases, cardiac insufficiency, anemia, chronic kidney diseases, or renal insufficiency, in particular for use in the treatment of anemia associated with chronic kidney disease.</claim-text></claim>
+<claim id="c-en-0014" num="0014">
+<claim-text>The liquid drug-containing formulation for use according to claim 13, wherein the liquid drug-containing formulation can be administered for an administration period of at least two weeks without incurring problems with acceptance or voluntary acceptance.</claim-text></claim>
+<claim id="c-en-0015" num="0015">
+<claim-text>The liquid drug-containing formulation for use according to claim 13 or 14, wherein the liquid drug-containing formulation is administered to cats and dogs, preferably to cats.</claim-text></claim>
+<claim id="c-en-0016" num="0016">
+<claim-text>Use of a liquid formulation aid composition comprising at least one natural oil of herbal and/or animal origin, preferably at least one natural oil of herbal origin, and optionally at least one thickener in a liquid drug-containing formulation for improving the acceptance or voluntary acceptance of drug intake in animal.</claim-text></claim>
+<claim id="c-en-0017" num="0017">
+<claim-text>The use according to claim 16, wherein the liquid drug-containing formulation comprises the liquid formulation aid composition in an amount of at least 50 wt.-%, based on the total weight of a liquid drug-containing formulation.<!-- EPO <DP n="35"> --></claim-text></claim>
+<claim id="c-en-0018" num="0018">
+<claim-text>The use according to claim 16 or 17, wherein the acceptance or voluntary acceptance of drug intake is improved in cats and dogs, preferably in cats.</claim-text></claim>
+<claim id="c-en-0019" num="0019">
+<claim-text>The use according to any one of claims 16 to 18, wherein the acceptance or voluntary acceptance of drug intake is improved over an administration period of at least two weeks.</claim-text></claim>
+<claim id="c-en-0020" num="0020">
+<claim-text>The use according to any one of claims 16 to 19, wherein the at least one natural oil of herbal origin is comprised, which is selected from the group consisting of almond oil, apricot kernel oil, canola oil, castor oil, coconut oil, cottonseed oil, flaxseed oil, grape oil, hemp oil, maize oil, olive oil, palm oil, peanut oil, sesame seed oil, soya oil, sunflower oil, thistle oil, rapeseed oil, rice bran oil, and wheat germ oil, and is preferably soya oil or sunflower oil.</claim-text></claim>
+<claim id="c-en-0021" num="0021">
+<claim-text>The use according to any one of claims 16 to 19, wherein the at least one natural oil of herbal origin is comprised, which is selected from the group consisting of modified almond oil, modified apricot kernel oil, modified canola oil, modified castor oil, modified coconut oil, modified cottonseed oil, modified flaxseed oil, modified grape oil, modified hemp oil, modified maize oil, modified olive oil, modified palm oil, modified peanut oil, modified sesame seed oil, modified soya oil, modified sunflower oil, modified thistle oil, modified rapeseed oil, modified rice bran oil, and modified wheat germ oil, and is preferably modified maize oil, wherein the modification is obtained by alcoholysis, preferably with glycerol, propylene glycol, or low molecular polyethylene glycol.</claim-text></claim>
+<claim id="c-en-0022" num="0022">
+<claim-text>The use according to any one of claims 16 to 21, wherein the liquid formulation aid composition comprises the at least one natural oil of animal origin, which is preferably selected from the group consisting of fish oil and salmon oil, and is in particular fish oil.</claim-text></claim>
+<claim id="c-en-0023" num="0023">
+<claim-text>The use according to any one of claims 16 to 22, wherein at least one thickener is present, which is a glycerol ester, which is preferably is a glycerol ester with C<sub>12</sub>-C<sub>24</sub> fatty acids and/or is a monoester, a diester, a triester, or a mixture thereof.</claim-text></claim>
+<claim id="c-en-0024" num="0024">
+<claim-text>The use according to any one of claims 16 to 23, wherein at least one thickener is present, which is glycerol dibehenate.</claim-text></claim>
+<claim id="c-en-0025" num="0025">
+<claim-text>The use according to any one of claims 16 to 24, wherein the liquid formulation aid composition further comprises<br/>
+at least one antioxidant selected from the group consisting of ascorbyl palmitate, butylhydroxytoluene, butylhydroxyanisole, citric acid, lecithins, propyl gallate, tocopherol, and combinations of these antioxidants; and/or<br/>
+at least one preservative selected from the group consisting of ethanol, propylene glycol, butanol, chlorobutanol, benzoic acid, sorbic acid, para-hydroxybenzoic esters, and combinations thereof; and/or<br/>
+optionally at least one surfactant.</claim-text></claim>
+</claims>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="157" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="150" he="233" type="tif"/><doc-page id="srep0003" file="srep0003.tif" wi="150" he="233" type="tif"/></search-report-data><search-report-data date-produced="20200902" id="srepxml" lang="en" srep-office="EP" srep-type="ep-sr" status="n"><!--
+ The search report data in XML is provided for the users' convenience only. It might differ from the search report of the PDF document, which contains the officially published data. The EPO disclaims any liability for incorrect or incomplete data in the XML for search reports.
+ -->
+
+<srep-info><file-reference-id>BHC188004 EP</file-reference-id><application-reference><document-id><country>EP</country><doc-number>20167444.7</doc-number></document-id></application-reference><applicant-name><name>Bayer Animal Health GmbH</name></applicant-name><srep-established srep-established="yes"/><srep-invention-title title-approval="yes"/><srep-abstract abs-approval="yes"/><srep-figure-to-publish figinfo="none"/><srep-info-admin><srep-office><addressbook><text>DH</text></addressbook></srep-office><date-search-report-mailed><date>20200914</date></date-search-report-mailed></srep-info-admin></srep-info><srep-for-pub><srep-fields-searched><minimum-documentation><classifications-ipcr><classification-ipcr><text>A61K</text></classification-ipcr></classifications-ipcr></minimum-documentation></srep-fields-searched><srep-citations><citation id="sr-cit0001"><patcit dnum="WO2018232227A1" id="sr-pcit0001" url="http://v3.espacenet.com/textdoc?DB=EPODOC&amp;IDX=WO2018232227&amp;CY=ep"><document-id><country>WO</country><doc-number>2018232227</doc-number><kind>A1</kind><name>UNIV COLUMBIA [US]</name><date>20181220</date></document-id></patcit><category>X</category><rel-claims>1-25</rel-claims><category>Y</category><rel-claims>2,3</rel-claims><rel-passage><passage>* page 3 *</passage></rel-passage><rel-passage><passage>* page 15, line 10 - page 17, line 16 *</passage><passage>* page 30, line 1 - page 31, line 7 *</passage><passage>* page 32, line 9 - page 33, line 2 *</passage><passage>* claims *</passage></rel-passage></citation><citation id="sr-cit0002"><patcit dnum="WO2019028150A1" id="sr-pcit0002" url="http://v3.espacenet.com/textdoc?DB=EPODOC&amp;IDX=WO2019028150&amp;CY=ep"><document-id><country>WO</country><doc-number>2019028150</doc-number><kind>A1</kind><name>AKEBIA THERAPEUTICS INC [AE]</name><date>20190207</date></document-id></patcit><category>X</category><rel-claims>1-25</rel-claims><category>Y</category><rel-claims>2,3</rel-claims><rel-passage><passage>* paragraph [0002] *</passage></rel-passage><rel-passage><passage>* paragraph [00159] - paragraph [00171] *</passage></rel-passage></citation><citation id="sr-cit0003"><patcit dnum="EP2155680B1" id="sr-pcit0003" url="http://v3.espacenet.com/textdoc?DB=EPODOC&amp;IDX=EP2155680&amp;CY=ep"><document-id><country>EP</country><doc-number>2155680</doc-number><kind>B1</kind><name>AMGEN INC [US]</name><date>20131204</date></document-id></patcit><category>X</category><rel-claims>1-25</rel-claims><category>Y</category><rel-claims>2,3</rel-claims><rel-passage><passage>* paragraph [0002] *</passage></rel-passage><rel-passage><passage>* paragraph [0100] *</passage></rel-passage></citation><citation id="sr-cit0004"><patcit dnum="US2012129857A1" id="sr-pcit0004" url="http://v3.espacenet.com/textdoc?DB=EPODOC&amp;IDX=US2012129857&amp;CY=ep"><document-id><country>US</country><doc-number>2012129857</doc-number><kind>A1</kind><name>MILITZER HANS-CHRISTIAN [DE] ET AL</name><date>20120524</date></document-id></patcit><category>Y</category><rel-claims>2,3</rel-claims><rel-passage><passage>* paragraph [0001] - paragraph [0003] *</passage><passage>* paragraph [0179] - paragraph [0189] *</passage><passage>* claims *</passage></rel-passage></citation></srep-citations><srep-admin><examiners><primary-examiner><name>Muller, Sophie</name></primary-examiner></examiners><srep-office><addressbook><text>The Hague</text></addressbook></srep-office><date-search-completed><date>20200902</date></date-search-completed></srep-admin><!--							The annex lists the patent family members relating to the patent documents cited in the above mentioned European search report.							The members are as contained in the European Patent Office EDP file on							The European Patent Office is in no way liable for these particulars which are merely given for the purpose of information.							For more details about this annex : see Official Journal of the European Patent Office, No 12/82						--><srep-patent-family><patent-family><priority-application><document-id><country>WO</country><doc-number>2018232227</doc-number><kind>A1</kind><date>20181220</date></document-id></priority-application><family-member><document-id><country>EP</country><doc-number>3638217</doc-number><kind>A1</kind><date>20200422</date></document-id></family-member><family-member><document-id><country>WO</country><doc-number>2018232227</doc-number><kind>A1</kind><date>20181220</date></document-id></family-member></patent-family><patent-family><priority-application><document-id><country>WO</country><doc-number>2019028150</doc-number><kind>A1</kind><date>20190207</date></document-id></priority-application><text>NONE</text></patent-family><patent-family><priority-application><document-id><country>EP</country><doc-number>2155680</doc-number><kind>B1</kind><date>20131204</date></document-id></priority-application><family-member><document-id><country>AU</country><doc-number>2008241577</doc-number><kind>A1</kind><date>20081030</date></document-id></family-member><family-member><document-id><country>CA</country><doc-number>2683738</doc-number><kind>A1</kind><date>20081030</date></document-id></family-member><family-member><document-id><country>EP</country><doc-number>2155680</doc-number><kind>A1</kind><date>20100224</date></document-id></family-member><family-member><document-id><country>ES</country><doc-number>2446418</doc-number><kind>T3</kind><date>20140307</date></document-id></family-member><family-member><document-id><country>US</country><doc-number>2009088475</doc-number><kind>A1</kind><date>20090402</date></document-id></family-member><family-member><document-id><country>WO</country><doc-number>2008130508</doc-number><kind>A1</kind><date>20081030</date></document-id></family-member></patent-family><patent-family><priority-application><document-id><country>US</country><doc-number>2012129857</doc-number><kind>A1</kind><date>20120524</date></document-id></priority-application><family-member><document-id><country>AP</country><doc-number>3429</doc-number><kind>A</kind><date>20150930</date></document-id></family-member><family-member><document-id><country>AR</country><doc-number>083887</doc-number><kind>A1</kind><date>20130327</date></document-id></family-member><family-member><document-id><country>AU</country><doc-number>2011331305</doc-number><kind>A1</kind><date>20130606</date></document-id></family-member><family-member><document-id><country>BR</country><doc-number>112013012223</doc-number><kind>A2</kind><date>20200310</date></document-id></family-member><family-member><document-id><country>CA</country><doc-number>2818002</doc-number><kind>A1</kind><date>20120524</date></document-id></family-member><family-member><document-id><country>CL</country><doc-number>2013001390</doc-number><kind>A1</kind><date>20140404</date></document-id></family-member><family-member><document-id><country>CN</country><doc-number>103270031</doc-number><kind>A</kind><date>20130828</date></document-id></family-member><family-member><document-id><country>CN</country><doc-number>104650047</doc-number><kind>A</kind><date>20150527</date></document-id></family-member><family-member><document-id><country>CO</country><doc-number>6741155</doc-number><kind>A2</kind><date>20130830</date></document-id></family-member><family-member><document-id><country>CR</country><doc-number>20130196</doc-number><kind>A</kind><date>20130806</date></document-id></family-member><family-member><document-id><country>CU</country><doc-number>20130072</doc-number><kind>A7</kind><date>20130927</date></document-id></family-member><family-member><document-id><country>CY</country><doc-number>1120375</doc-number><kind>T1</kind><date>20190710</date></document-id></family-member><family-member><document-id><country>DE</country><doc-number>102010044131</doc-number><kind>A1</kind><date>20120524</date></document-id></family-member><family-member><document-id><country>DK</country><doc-number>2640718</doc-number><kind>T3</kind><date>20180716</date></document-id></family-member><family-member><document-id><country>DO</country><doc-number>P2013000096</doc-number><kind>A</kind><date>20130615</date></document-id></family-member><family-member><document-id><country>EA</country><doc-number>201390703</doc-number><kind>A1</kind><date>20131230</date></document-id></family-member><family-member><document-id><country>EC</country><doc-number>SP13012627</doc-number><kind>A</kind><date>20130731</date></document-id></family-member><family-member><document-id><country>EP</country><doc-number>2640718</doc-number><kind>A1</kind><date>20130925</date></document-id></family-member><family-member><document-id><country>ES</country><doc-number>2675580</doc-number><kind>T3</kind><date>20180711</date></document-id></family-member><family-member><document-id><country>GT</country><doc-number>201300125</doc-number><kind>A</kind><date>20170726</date></document-id></family-member><family-member><document-id><country>HK</country><doc-number>1188782</doc-number><kind>A1</kind><date>20140516</date></document-id></family-member><family-member><document-id><country>HK</country><doc-number>1210776</doc-number><kind>A1</kind><date>20160506</date></document-id></family-member><family-member><document-id><country>HR</country><doc-number>P20180993</doc-number><kind>T1</kind><date>20180810</date></document-id></family-member><family-member><document-id><country>HU</country><doc-number>E038024</doc-number><kind>T2</kind><date>20180928</date></document-id></family-member><family-member><document-id><country>IL</country><doc-number>226192</doc-number><kind>A</kind><date>20160630</date></document-id></family-member><family-member><document-id><country>JP</country><doc-number>5918779</doc-number><kind>B2</kind><date>20160518</date></document-id></family-member><family-member><document-id><country>JP</country><doc-number>2014500877</doc-number><kind>A</kind><date>20140116</date></document-id></family-member><family-member><document-id><country>KR</country><doc-number>20130131335</doc-number><kind>A</kind><date>20131203</date></document-id></family-member><family-member><document-id><country>KR</country><doc-number>20180023043</doc-number><kind>A</kind><date>20180306</date></document-id></family-member><family-member><document-id><country>LT</country><doc-number>2640718</doc-number><kind>T</kind><date>20180710</date></document-id></family-member><family-member><document-id><country>MA</country><doc-number>34671</doc-number><kind>B1</kind><date>20131102</date></document-id></family-member><family-member><document-id><country>MX</country><doc-number>347670</doc-number><kind>B</kind><date>20170503</date></document-id></family-member><family-member><document-id><country>MY</country><doc-number>167219</doc-number><kind>A</kind><date>20180814</date></document-id></family-member><family-member><document-id><country>NZ</country><doc-number>610614</doc-number><kind>A</kind><date>20150529</date></document-id></family-member><family-member><document-id><country>PE</country><doc-number>20140391</doc-number><kind>A1</kind><date>20140329</date></document-id></family-member><family-member><document-id><country>PE</country><doc-number>20180324</doc-number><kind>A1</kind><date>20180213</date></document-id></family-member><family-member><document-id><country>PL</country><doc-number>2640718</doc-number><kind>T3</kind><date>20180831</date></document-id></family-member><family-member><document-id><country>PT</country><doc-number>2640718</doc-number><kind>T</kind><date>20180704</date></document-id></family-member><family-member><document-id><country>SG</country><doc-number>189975</doc-number><kind>A1</kind><date>20130628</date></document-id></family-member><family-member><document-id><country>SI</country><doc-number>2640718</doc-number><kind>T1</kind><date>20180831</date></document-id></family-member><family-member><document-id><country>TN</country><doc-number>2013000215</doc-number><kind>A1</kind><date>20141110</date></document-id></family-member><family-member><document-id><country>TR</country><doc-number>201806652</doc-number><kind>T4</kind><date>20180621</date></document-id></family-member><family-member><document-id><country>TW</country><doc-number>201307328</doc-number><kind>A</kind><date>20130216</date></document-id></family-member><family-member><document-id><country>UA</country><doc-number>112422</doc-number><kind>C2</kind><date>20160912</date></document-id></family-member><family-member><document-id><country>US</country><doc-number>2012129857</doc-number><kind>A1</kind><date>20120524</date></document-id></family-member><family-member><document-id><country>US</country><doc-number>2013310381</doc-number><kind>A1</kind><date>20131121</date></document-id></family-member><family-member><document-id><country>UY</country><doc-number>33736</doc-number><kind>A</kind><date>20120629</date></document-id></family-member><family-member><document-id><country>WO</country><doc-number>2012065967</doc-number><kind>A1</kind><date>20120524</date></document-id></family-member><family-member><document-id><country>ZA</country><doc-number>201304430</doc-number><kind>B</kind><date>20141223</date></document-id></family-member></patent-family></srep-patent-family></srep-for-pub></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="US5756474A"><document-id><country>US</country><doc-number>5756474</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0005]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="US20120141546A"><document-id><country>US</country><doc-number>20120141546</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0002">[0006]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="WO2013167552A1"><document-id><country>WO</country><doc-number>2013167552</doc-number><kind>A1</kind></document-id></patcit><crossref idref="pcit0003">[0139]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19889609A1" file="EP19889609NWA1.xml" lang="en" country="EP" doc-number="3890071" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3890071</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19889609.4</B210><B220><date>20191129</date></B220><B240><B241><date>20210628</date></B241></B240><B250>ko</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>20180152147</B310><B320><date>20181130</date></B320><B330><ctry>KR</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>H01M   4/525       20100101AFI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>H01M   4/505       20100101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>H01M  10/052       20100101ALI20200605BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>Y02E  60/10        20130101 LA20200826BGEP        </text></classification-cpc><classification-cpc sequence="2"><text>H01M   4/525       20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="3"><text>H01M   4/505       20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="4"><text>H01M  10/052       20130101 LI20200626BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>KATHODENAKTIVMATERIAL FÜR LITHIUMSEKUNDÄRBATTERIE SOWIE LITHIUMSEKUNDÄRBATTERIE DAMIT</B542><B541>en</B541><B542>CATHODE ACTIVE MATERIAL FOR LITHIUM SECONDARY BATTERY, AND LITHIUM SECONDARY BATTERY COMPRISING SAME</B542><B541>fr</B541><B542>MATÉRIAU ACTIF DE CATHODE POUR BATTERIE SECONDAIRE AU LITHIUM, ET BATTERIE SECONDAIRE AU LITHIUM COMPORTANT LEDIT MATÉRIAU ACTIF</B542></B540><B590><B598>1</B598></B590></B500><B700><B710><B711><snm>POSCO</snm><iid>101903152</iid><irf>YOUDT/P77486EP</irf><adr><str>(Goedong-dong) 6261 Donghaean-ro 
+Nam-gu</str><city>Pohang-si, Gyeongsangbuk-do 37859</city><ctry>KR</ctry></adr></B711><B711><snm>Research Institute of Industrial Science &amp; 
+Technology</snm><iid>101604219</iid><irf>YOUDT/P77486EP</irf><adr><str>67 Cheongam-ro 
+Nam-gu</str><city>Pohang-si, Gyeongsangbuk-do 37673</city><ctry>KR</ctry></adr></B711><B711><snm>POSCO Chemical Co., Ltd</snm><iid>101865163</iid><irf>YOUDT/P77486EP</irf><adr><str>(Cheongnim-dong) 110, Sinhang-ro 
+Nam-gu 
+Pohang-si</str><city>Gyeongsangbuk-do 37918</city><ctry>KR</ctry></adr></B711></B710><B720><B721><snm>NAM, Sang Cheol</snm><adr><str>101-1602, 471, Cheonggyecheon-ro Dongdaemun-gu</str><city>Seoul 02587</city><ctry>KR</ctry></adr></B721><B721><snm>SONG, Jung Hoon</snm><adr><str>102-701, 38, Yeouidaebang-ro 10-gil Dongjak-gu</str><city>Seoul 07064</city><ctry>KR</ctry></adr></B721><B721><snm>CHOI, Kwon Young</snm><adr><str>532-1505, 350, Mokdongdong-ro Yangcheon-gu</str><city>Seoul 07987</city><ctry>KR</ctry></adr></B721></B720><B740><B741><snm>Potter Clarkson</snm><iid>101340609</iid><adr><str>The Belgrave Centre 
+Talbot Street</str><city>Nottingham NG1 5GG</city><ctry>GB</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>KR2019016790</anum></dnum><date>20191129</date></B861><B862>ko</B862></B860><B870><B871><dnum><pnum>WO2020111893</pnum></dnum><date>20200604</date><bnum>202023</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">A positive active material for a lithium secondary battery and a lithium secondary battery including the same are provided, wherein the positive active material includes lithium, nickel, cobalt, manganese, and a doping element, and the doping element may include Zr, Al, and Ti.<img id="iaf01" file="imgaf001.tif" wi="139" he="75" img-content="drawing" img-format="tif"/></p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001"><b>[Technical Field]</b></heading>
+<p id="p0001" num="0001">The present disclosure relates to a positive active material for a lithium secondary battery and a lithium secondary battery including the same.</p>
+<heading id="h0002"><b>[Background Art]</b></heading>
+<p id="p0002" num="0002">In recent years, due to an explosive demand of electric vehicles and a demand for increasing mileage, secondary batteries with high capacity and a high energy density to meet the demands are being actively developed worldwide.</p>
+<p id="p0003" num="0003">Particularly, in order to satisfy this requirement, a nickel cobalt manganese (NCM)-based positive active material including Li, Ni, Co, and Mn with a high Ni content should be used. However, as a Ni content increases in these NCM positive active materials, a tendency of unstable Ni<sup>3+</sup> to be reduced to stable Ni<sup>2+</sup> increases. This is because ion sizes of Ni<sup>2+</sup> and Li<sup>+</sup> are similar during firing, and due to a positive ion mixing phenomenon in which Ni<sup>2+</sup> moves to the Li<sup>+</sup> site and pushes Li<sup>+</sup> to the surface, NiO, which acts as a resistance component, is formed on the surface, thereby increasing resistance.</p>
+<p id="p0004" num="0004">In the case of electric vehicles, driving characteristics of four seasons must be guaranteed, and particularly, in order to solve a problem that a starting is turned off when climbing a hill in an environment where a temperature goes<!-- EPO <DP n="2"> --> down, such as winter, the need to lower initial resistance and a resistance increasing rate of a positive active material particularly among materials constituting the secondary battery is increased.</p>
+<p id="p0005" num="0005">Therefore, it is urgent to develop a positive active material with improved initial resistance and resistance increase rate, and simultaneously providing an excellent lifetime characteristic and thermal stability.</p>
+<heading id="h0003"><b>[Disclosure]</b></heading>
+<heading id="h0004">[Technical Problem]</heading>
+<p id="p0006" num="0006">One embodiment is to provide a positive active material for a lithium secondary battery that exhibits excellent electrochemical characteristics, such as improved cycle life characteristics and thermal safety, and reduced resistance.</p>
+<p id="p0007" num="0007">Another embodiment is to provide a lithium secondary battery including the positive active material.</p>
+<heading id="h0005">[Technical Solution]</heading>
+<p id="p0008" num="0008">According to one embodiment, a positive active material for a lithium secondary battery includes lithium, nickel, cobalt, manganese, and a doping element, wherein the doping element includes Zr, Al, and Ti.</p>
+<p id="p0009" num="0009">The doping ratio of Zr may be 0.1 mol% to 0.5 mol% with respect to 100 mol% of nickel, cobalt, manganese, and the doping element. The doping ratio of Al may be 0.7 mol% to 3.3 mol% with respect to 100 mol% of nickel, cobalt, manganese, and the doping element. The doping ratio of Ti may be 0.05 mol% to 0.4 mol% with respect to 100 mol% of nickel, cobalt, manganese, and<!-- EPO <DP n="3"> --> the doping element.</p>
+<p id="p0010" num="0010">The doping element may further include W.</p>
+<p id="p0011" num="0011">The doping ratio of W may be 0.03 mol% to 0.1 mol% with respect to 100 mol% of nickel, cobalt, manganese, and the doping element.</p>
+<p id="p0012" num="0012">The positive active material for the lithium secondary battery may be represented by Chemical Formula 1 below.</p>
+<heading id="h0006">[Chemical Formula 1]</heading>
+<p id="p0013" num="0013">Li<sub>a1[</sub>Ni<sub>x1</sub>Coy<sub>1</sub>Mn<sub>z1</sub>]t<sub>1</sub>(Zr<sub>h1</sub>Al<sub>g1</sub>Ti<sub>u1</sub>)O<sub>2-p</sub>X1<sub>p</sub></p>
+<p id="p0014" num="0014">In Chemical Formula 1,
+<ul id="ul0001" list-style="none" compact="compact">
+<li>X1 is at least one element selected from a group including F, N, and P,</li>
+<li>a1 is 0.8≤a1≤ 1.3,</li>
+<li>t1 is 0.9580 ≤ t1 ≤ 0.9915, and</li>
+<li>0.6 ≤ x1 ≤ 0.95, 0 &lt; y1 ≤ 0.2, 0 &lt; z1 ≤ 0.2, 0.0010 ≤ h1 ≤ 0.005, 0.007 ≤ g1 ≤ 0.033, 0.0005 ≤ u1 ≤ 0.004, and 0 ≤ p ≤ 0.02.</li>
+</ul></p>
+<p id="p0015" num="0015">In detail, the positive active material for the lithium secondary battery may be represented by Chemical Formula 2 below.</p>
+<heading id="h0007">[Chemical Formula 2]</heading>
+<p id="p0016" num="0016">Li<sub>a2[</sub>Ni<sub>x2</sub>Co<sub>y2</sub>Mn<sub>z2</sub>]t<sub>2</sub>(Zr<sub>h2</sub>Alg<sub>2</sub>W<sub>j</sub>Ti<sub>u2</sub>)O<sub>2-p</sub>X2<sub>p</sub></p>
+<p id="p0017" num="0017">In Chemical Formula 2,
+<ul id="ul0002" list-style="none" compact="compact">
+<li>X2 is at least one element selected from a group including F, N, and P,</li>
+<li>a2 is 0.8 ≤ a2 ≤ 1.3,</li>
+<li>t2 is 0.9570 ≤ t2 ≤ 0.9912, and</li>
+<li>0.6 ≤ x2 ≤ 0.95, 0 &lt; y2 ≤ 0.2, 0 &lt; z2 ≤ 0.2, 0.001 ≤ h2 ≤ 0.005, 0.007≤ g2 ≤ 0.033, 0.0003 ≤ j ≤ 0.001, 0.0005 ≤ u2 ≤ 0.004, and 0 ≤ p ≤ 0.02.</li>
+</ul><!-- EPO <DP n="4"> --></p>
+<p id="p0018" num="0018">The positive active material for the lithium secondary battery may have a ratio I (003)/l (104) of a peak intensity on a 003 plane to a peak intensity on a 104 plane of 1.1 to 1.2 when measuring an X-ray diffraction pattern.</p>
+<p id="p0019" num="0019">For the positive active material for the lithium secondary battery, when measuring an X-ray diffraction pattern, an a-axis length (La) may be 2.8500 Å to 2.8800 Å, a c-axis length (Lc) may be 14.1800 Å to 14.2900 Å, and a distance ratio (c/a) between a crystal axis of the c-axis length to an a-axis length may be 4.93 to 5.0.</p>
+<p id="p0020" num="0020">For the positive active material for the lithium secondary battery when measuring an X-ray diffraction pattern, an average grain size (a crystalline size, Lc) may be 80 nm to 140 nm, and an R-factor value represented by Equation 1 may be 0.52 to 0.55. <maths id="math0001" num="[Equation 1]"><math display="block"><mi>R-factor</mi><mo>=</mo><mfenced open="{" close="}" separators=""><mi mathvariant="normal">I</mi><mspace width="1ex"/><mi>006</mi><mo>+</mo><mi mathvariant="normal">I</mi><mspace width="1ex"/><mi>102</mi></mfenced><mo>/</mo><mi mathvariant="normal">I</mi><mspace width="1ex"/><mi>101</mi></math><img id="ib0001" file="imgb0001.tif" wi="66" he="14" img-content="math" img-format="tif"/></maths></p>
+<p id="p0021" num="0021">Another embodiment provides a lithium secondary battery including a positive electrode including: the positive active material; a negative electrode; and a non-aqueous electrolyte.</p>
+<heading id="h0008">[Advantageous Effects]</heading>
+<p id="p0022" num="0022">The positive active material for the lithium secondary battery according to an embodiment may exhibit excellent electrochemical characteristics such as improved cycle lifespan characteristic and thermal safety, and reduced resistance.</p>
+<heading id="h0009"><b>[Description of the Drawings]</b></heading>
+<p id="p0023" num="0023">
+<ul id="ul0003" list-style="none" compact="compact">
+<li><figref idref="f0001">FIG. 1</figref> is a cross-section EDS measurement photograph of a positive<!-- EPO <DP n="5"> --> active material prepared according to a second embodiment.</li>
+<li><figref idref="f0002">FIG. 2</figref> is a selected area diffraction (SAD) photograph of a positive active material prepared according to a second embodiment.</li>
+</ul></p>
+<heading id="h0010"><b>[Mode for Invention]</b></heading>
+<p id="p0024" num="0024">Hereinafter, an embodiment of the present invention will be described in detail. However, the embodiment is illustrative only and is not to be construed to limit the present invention, and the present invention is defined by the scope of the claims as described below.</p>
+<p id="p0025" num="0025">A positive active material for a lithium secondary battery according to an embodiment includes lithium, nickel, cobalt, manganese, and a doping element, and the doping element includes Zr, Al, and Ti.</p>
+<p id="p0026" num="0026">In the positive active material, the doping ratio of Zr may be 0.1 mol% to 0.5 mol% with respect to 100 mol% of nickel, cobalt, manganese, and the doping element, and the doping ratio of Al may be 0.7 mol% to 3.3 mol% with respect to 100 mol% of nickel, cobalt, manganese, and the doping element . Also, the doping ratio of Ti may be 0.05 mol% to 0.4 mol% with respect to 100 mol% of nickel, cobalt, manganese, and the doping element.</p>
+<p id="p0027" num="0027">A positive active material for a lithium secondary battery according to an embodiment in which the doping element has the above-described doping ratio may be expressed by Chemical Formula 1 below.</p>
+<heading id="h0011">[Chemical Formula 1]</heading>
+<p id="p0028" num="0028">Li<sub>a1[</sub>Ni<sub>x1</sub>Co<sub>y1</sub>Mn<sub>z1</sub>]t<sub>1</sub>(Zr<sub>h1</sub>Alg<sub>1</sub>Ti<sub>u1</sub>)O<sub>2-p</sub>X1<sub>p</sub></p>
+<p id="p0029" num="0029">In Chemical Formula 1,
+<ul id="ul0004" list-style="none" compact="compact">
+<li>X1 is at least one element selected from a group including F, N, and P,<!-- EPO <DP n="6"> --> a1 is0.8≤a1≤ 1.3,</li>
+<li>t1 is 0.9580 ≤ t1 ≤ 0.9915, and</li>
+<li>0.6 ≤ x1 ≤ 0.95, 0 &lt; y1 ≤ 0.2, 0 &lt; z1 ≤ 0.2, 0.0010 ≤ h1 ≤ 0.005, 0.007 ≤ g1 ≤ 0.033, 0.0005 ≤ u1 ≤ 0.004, and 0 ≤ p ≤ 0.02.</li>
+</ul></p>
+<p id="p0030" num="0030">As above-described, the doping ratio of Zr may be 0.1 mol% to 0.5 mol% with respect to 100 mol% of nickel, cobalt, manganese, and the doping element, and in detail, 0.2 mol% to 0.45 mol%, 0.2 mol% to 0.4 mol%, or 0.2 mol% to 0.35mol%. When the doping ratio of Zr is the above-described range, excellent room temperature and high temperature cycle lifespan characteristics, and thermal stability may be obtained, and low initial resistance may be obtained. Also, the doping ratio of Al may be 0.7 mol% to 3.3 mol% with respect to 100 mol% of nickel, cobalt, manganese, and the doping element, and in detail, 0.7 mol% to 2.8 mol%, 0.7 mol% to 2.5 mol%, or 0.7 mol% to 2.0 mol%. When the doping ratio of Al is the above-described range, excellent capacity, thermal safety, and high temperature cycle lifespan characteristics may be exhibited, and a low resistance increase rate and average leakage current may also be exhibited.</p>
+<p id="p0031" num="0031">Also, the doping ratio of Ti may be 0.05 mol% to 0.4 mol% with respect to 100 mol% of nickel, cobalt, manganese, and the doping element , and in detail, 0.05 mol% to 0.3 mol%, 0.1 mol% to 0.25 mol%, or 0.05 mol% to 0.2 mol%, and when the above-described range is included, the excellent discharge capacity, efficiency, room temperature, and high temperature cycle lifespan characteristics may be obtained, and the resistance increasing rate and average leakage current may be obtained.<!-- EPO <DP n="7"> --></p>
+<p id="p0032" num="0032">In this way, when Zr, Al, and Ti are used as the doping elements in the positive active material, the lithium secondary battery applied with them exhibits the excellent discharge capacity, and simultaneously, initial efficiency, room temperature cycle lifespan, and high temperature cycle lifespan characteristics are improved. In addition, the low initial resistance, resistance increase rate, average leakage current, heating peak temperature, and heating value may be exhibited.</p>
+<p id="p0033" num="0033">These effects are obtained when using a ternary doping element of Zr, Al, and Ti, and if any one of them is not included, the desired physical properties may not be obtained. For example, when only Zr is included, the effect of improving the average leakage current and the thermal stability is negligible. In addition, when only Zr and Al are included, the capacity is slightly reduced, and the effect of improving the average leakage current and initial resistance is insignificant.</p>
+<p id="p0034" num="0034">In addition, as described above, the positive active material according to one embodiment is doped with the elements of Zr, Al, and Ti other than Ni, Co, and Mn, which are major elements constituting the positive active material, that is, not coating them onto the active material surface, that is, it is doped inside the positive active material.</p>
+<p id="p0035" num="0035">That is, in the present embodiment, Zr, Ti, and Al among many elements known as doping elements are used as the doping element, and as these elements are used as the doping elements, structure stabilization is possible without reducing performance. Accordingly, the thermal peak appears at a higher temperature, that is, excellent thermal safety may be implemented.<!-- EPO <DP n="8"> --></p>
+<p id="p0036" num="0036">Particularly, this effect may increase the binding force with oxygen by the doping element when doping the three elements into the ternary lithium intercalation compound including Ni, Co, and Mn, so that the safety may be increased. It may be maximized because there is no capacity loss due to the suppression of the movement of Ni<sup>4+</sup> ions into the Li layer.</p>
+<p id="p0037" num="0037">Even if Zr, Al, and Ti elements are used as the doping element, the capacity is greatly reduced and the safety improvement hardly appears when using a cobalt series such as LiCoO<sub>2</sub>, a nickel series such as LiNiO<sub>2</sub>, and a manganese system such as LiMnO<sub>2</sub>, this effect may not be achieved.</p>
+<p id="p0038" num="0038">In addition, even if Zr is used as the main doping element like in Chemical Formula 1 as the doping element, if it is used in a quaternary element along with the elements such as Mg, Co, Ag, and Na, the capacity is significantly reduced and the cycle efficiency is greatly reduced, thereby it is not appropriate.</p>
+<p id="p0039" num="0039">In the case of using Zr as the doping element, the a-axis length and the c-axis length of the active material are somewhat reduced as Zr is doped to the Li site in the Li layer of the positive active material, and thus the initial efficiency and electrochemical properties may be improved overall.</p>
+<p id="p0040" num="0040">In addition, when Zr and Al are doped together, the layered structure may be stabilized, and thus the-axis length may be further reduced and the c-axis length may be increased. Due to the stabilization of the layered structure, positive ion mixing or a spinel-phase transition phenomenon caused by Ni<sup>2+</sup> can be suppressed. Particularly, the average grain size is greatly reduced, so that the mechanical characteristic may be improved and the cycle characteristic may<!-- EPO <DP n="9"> --> be partially improved. In addition, it may be confirmed that the stability of the lithium secondary battery is improved and a differential scanning calorimetry (DSC) peak temperature is greatly improved. However, in the case of doping only Zr and Al, that is, doping the binary element of Zr and Al, a positive ion mixing index (a cation mixing index) of I (003)/l (104) value is reduced, and an R-factor is also greatly reduced from an appropriate range. As a result, the initial capacity and rate-dependent characteristics of the active material may be deteriorated.</p>
+<p id="p0041" num="0041">Here, the R-factor is a value defined as Equation 1 below, and the decreasing in the R-factor value promotes grain enlargement in the positive active material with a high Ni content, which causes the electrochemical performance of the lithium secondary battery to be reduced. This means that when the positive active material has an appropriate range R-factor, the lithium secondary battery with excellent performance may be implemented. <maths id="math0002" num="[Equation 1]"><math display="block"><mi>R-factor</mi><mo>=</mo><mfenced open="{" close="}" separators=""><mi mathvariant="normal">I</mi><mspace width="1ex"/><mi>006</mi><mo>+</mo><mi mathvariant="normal">I</mi><mspace width="1ex"/><mi>102</mi></mfenced><mo>/</mo><mi mathvariant="normal">I</mi><mspace width="1ex"/><mi>101</mi></math><img id="ib0002" file="imgb0002.tif" wi="66" he="14" img-content="math" img-format="tif"/></maths></p>
+<p id="p0042" num="0042">Meanwhile, the positive active material for the lithium secondary battery according to the present embodiment may further include W as the doping element. At this time, the doping ratio of W may be 0.03 mol% to 0.1 mol% with respect to 100 mol% of nickel, cobalt, manganese, and the doping element.</p>
+<p id="p0043" num="0043">The positive active material for the lithium secondary battery according to an embodiment further including W as the doping element may be represented by Chemical Formula 2 below.</p>
+<heading id="h0012">[Chemical Formula 2]</heading><!-- EPO <DP n="10"> -->
+<p id="p0044" num="0044">Li<sub>a2[</sub>Ni<sub>x2</sub>Co<sub>y2</sub>Mn<sub>z2</sub>]t<sub>2</sub>(Zr<sub>h2</sub>Al<sub>g2</sub>W<sub>j</sub>Ti<sub>u2</sub>)O<sub>2-p</sub>X2<sub>p</sub></p>
+<p id="p0045" num="0045">In Chemical Formula 2,
+<ul id="ul0005" list-style="none" compact="compact">
+<li>X2 is at least one element selected from a group including F, N, and P,</li>
+<li>a2 is 0.8 ≤ a2 ≤ 1.3,</li>
+<li>t2 is 0.9570 ≤ t2 ≤ 0.9912, and</li>
+<li>0.6 ≤ x2 ≤ 0.95, 0 &lt; y2 ≤ 0.2, 0 &lt; z2 ≤ 0.2, 0.001 ≤ h2 ≤ 0.005, 0.007≤ g2 ≤ 0.033, 0.0003 ≤ j ≤ 0.001, 0.0005 ≤ u2 ≤ 0.004, and 0 ≤ p ≤ 0.02.</li>
+</ul></p>
+<p id="p0046" num="0046">The doping ratio of W may be 0.03 mol% to 0.1 mol% with respect to 100 mol% of nickel, cobalt, manganese, and the doping element, and in detail, 0.03 mol% to 0.06 mol% or 0.03 mol% to 0.05 mol%. In this way, when W as the doping element is further included in the doping ratio range as described above, the capacity of the lithium secondary battery to which the positive active material according to the present embodiment is applied may be further improved. In addition, in the case of further including W as described above, the discharge capacity is further increased, and the average leakage current is also improved, which has a very advantageous effect.</p>
+<p id="p0047" num="0047">In addition, when Ti and W are additionally doped together with Zr and Al, the positive ion mixing index value and R-factor value may be improved. When Ti and W are added as the doping element, the a-axis length contracted by the Al doping is increased, thereby mitigating the movement and structure of Li ions, and increasing the conductivity of Li ions. Accordingly, when the positive active material of the present embodiment is applied, the initial resistance of the lithium secondary battery may be improved and the charging and discharging characteristics may be greatly improved.<!-- EPO <DP n="11"> --></p>
+<p id="p0048" num="0048">That is, a basic physical property may be improved through Zr, structural stability may be greatly improved through the Al doping, and the initial resistance and initial efficiency may be greatly improved through the ion conductivity improvement by doping W and Ti.</p>
+<p id="p0049" num="0049">When the binary element of Zr and Al is used as the doping element, the capacity may decrease, and when the binary element of Zr and W is used, safety may be deteriorated.</p>
+<p id="p0050" num="0050">In addition, in the case of using the binary element of Zr and Ti, the capacity may decrease, and in the case of using the binary element of Al and W, sintering must be carried out at a very high temperature, so the positive ion mixing (the cation mixing) occurs, and the performance is significantly deteriorated, thereby it is not appropriate.</p>
+<p id="p0051" num="0051">In addition, in the case of the binary element of W and Ti, a problem of the capacity deterioration occurs, and in the case of the ternary element of Zr, Al, and W, safety may be deteriorated, and in the case of the ternary system of Al, W, and Ti, the initial capacity is deteriorated and it is not appropriate.</p>
+<p id="p0052" num="0052">That is, when the quaternary element of Zr, Ti, W, and Al is used as the doping element, the structure of the positive active material may be stabilized, and the thermal stability of the lithium secondary battery to which it is applied may be remarkably improved.</p>
+<p id="p0053" num="0053">In this specification, the X-ray diffraction pattern measurement is measured using a CuKa ray as a target ray.</p>
+<p id="p0054" num="0054">In the case of the positive active material for the lithium secondary battery according to an embodiment, when measuring an X-ray diffraction<!-- EPO <DP n="12"> --> pattern, I (003)/l (104), which is a ratio of the peak intensity of (003) surface to the peak intensity of the (104) surface, may be 1.1 to 1.2.</p>
+<p id="p0055" num="0055">In general, the peak intensity value means an integral area value obtained by integrating a height value of the peak or the area of the peak, and the peak intensity value according to an embodiment means the area value of the peak.</p>
+<p id="p0056" num="0056">When the peak intensity ratio I (003)/l (104) is included in the above range, the structure stabilization may be improved without a decrease in capacity, and the safety may be improved, and if it is less than 1.1, the capacity is greatly reduced and it is not appropriate, while if it exceeds 1.2, the capacity is improved due to the improvement of the positive ion mixing (cation mixing) phenomenon, but the safety is reduced, which is not appropriate.</p>
+<p id="p0057" num="0057">The positive active material for the lithium secondary battery, when measuring the X-ray diffraction pattern, may have the a-axis length (La) of 2.8500 Å to 2.8800 Å, the c-axis length (Lc) of 14.1800 Å to 14.2900 Å, and a distance ratio (c/a) between the crystal axes of the c-axis length to the axis length may be 4.93 to 5.0. When the a-axis length (La) and the c-axis length (Lc) are included in the above range, the safety is improved without reducing capacity, so it is appropriate. If the a-axis length (La) is less than 2.8500 Å, the capacity may be reduced, if it exceeds 2.8800 Å, the safety may be reduced, and if the c-axis length (Lc) is less than 14.1800 Å, the rate-dependent characteristics may be reduced, and if it exceeds 14.2900 Å, the safety may be reduced. In addition, while the a-axis length (La) and the c-axis length (Lc) are included in the range, when the distance ratio (c/a) between the crystal axes of<!-- EPO <DP n="13"> --> the c-axis length to the a-axis length is 4.93 to 5.0, the safety may be improved in the state that the capacity, the rate-dependent characteristics, and cycle characteristic are similar, and when it is less than 4.93, the capacity and the rate-dependent characteristics may be reduced, while when it exceeds 5.0, the safety may be reduced.</p>
+<p id="p0058" num="0058">The positive active material for the lithium secondary battery may have a grain size (a crystalline size, Lc) of 98 nm to 135 nm when measuring the X-ray diffraction pattern. When the grain size is included in the above range, the capacity retention and rate-dependent characteristics may be improved, if it is less than 98 nm, the rate-dependent characteristics may be deteriorated, and when it exceeds 135 nm, the capacity retention rate may be deteriorated.</p>
+<p id="p0059" num="0059">In addition, the positive active material for the lithium secondary battery may have an R-factor value of 0.52 to 0.55. The R-factor is called a hexagonal order, and the smaller the value is, the higher the hexagonal order in the structure, where the R-factor value of 0.52 to 0.55 indicates a somewhat increased developed hexagonal order and means that the layered structure is stabilized. In addition, when the R-factor value is included in the above range, it may represent the improved rate-dependent characteristic.</p>
+<p id="p0060" num="0060">In one embodiment, the positive active material for the lithium secondary battery may include secondary particles in which at least one primary particle is agglomerated.</p>
+<p id="p0061" num="0061">The secondary particle may include a core portion and a shell portion, and may have a structure without a distinction between the core portion and the shell portion. Here, the structure without the distinction between the core<!-- EPO <DP n="14"> --> portion and the shell portion means that nickel concentrations in the core portion and the shell portion are substantially similar, so that the composition of the core portion and the shell portion is substantially indistinguishable.</p>
+<p id="p0062" num="0062">When the secondary particles include the core portion and the shell portion, the nickel concentrations in the core portion and the shell portion may be different from each other. In this case, the nickel concentration of the shell portion may be lower by about 4 mol% to 6 mol% compared to 100 mol% of the nickel concentration of the core portion.</p>
+<p id="p0063" num="0063">According to another embodiment, the secondary particle may include a core portion where the molar content of nickel is constant and a shell portion surrounding the outer surface of the core portion and having a concentration gradient in which the molar content of nickel gradually decreases in a direction to the outermost from the boundary surface with the core portion, that is, thereby having a core-shell concentration gradient ("CSG"). As such, if the primary particle has the core-shell concentration gradient, since the core portion maintains a high nickel content, the high-capacity according to the high nickel content may be obtained, while in the shell portion, since the content of nickel gradually decreases, that is, the content of M selectively increases with Mn and Co other than nickel, the structural stability may be further improved.</p>
+<p id="p0064" num="0064">The positive active material is to include the secondary particle of which the primary particles are agglomerated, that is, at least one primary particle is agglomerated, an average particle diameter D50 of the secondary particle may be 7 µm to 20 µm, and if the average particle diameter D50 of the secondary particle is included in the range, it is appropriate because a filling density may<!-- EPO <DP n="15"> --> be further improved. The average particle diameter D50 of the primary particle is smaller than that of the secondary particle and may be appropriately adjusted, and does not need to be specifically limited.</p>
+<p id="p0065" num="0065">In addition, the positive active material may consist of only secondary particles having the above average particle diameter D50, or may be in a bi-modal form in which large-particle diameter particles and small-particle diameter particles are mixed. When the positive active material is the bi-modal form, the average particle diameter D50 of the large-particle diameter particles may be 10 µm to 20 µm, and the small-particle diameter particles may have an average particle diameter D50 of 3 µm to 7 µm. At this time, it goes without saying that the large-particle diameter particles and the small-particle diameter particles may also be in the form of the secondary particles in which at least one primary particle is agglomerated. In addition, the mixing ratio of the large-particle diameter particle and the small-particle diameter particles may be 50 to 80 wt% of the large-particle diameter particles based on the entire 100 wt%. Due to this bi-modal particle distribution, an energy density may be improved.</p>
+<p id="p0066" num="0066">In one embodiment, a coating layer positioned on the secondary particle surface of the positive active material may be further included. The coating layer may include boron, boron oxide, lithium boron oxide, or a combination thereof. However, this is only an example, and various coating materials used for the positive active materials may be used. In addition, the content and thickness of the coating layer may be appropriately adjusted, and there is no need to specifically limit it.</p>
+<p id="p0067" num="0067">Another embodiment provides a lithium secondary battery including a<!-- EPO <DP n="16"> --> positive electrode, a negative electrode, and a non-aqueous electrolyte, and the positive electrode includes the positive active material according to the above-described embodiment.</p>
+<p id="p0068" num="0068">The positive electrode includes a positive active material layer disposed on a positive electrode current collector. The positive active material layer includes a positive active material, and the positive active material may include the positive active material for the lithium secondary battery according to the above-described embodiment.</p>
+<p id="p0069" num="0069">In the positive active material layer, the content of the positive active material may be 90 wt% to 98 wt% with respect to the entire weight of the positive active material layer.</p>
+<p id="p0070" num="0070">In an embodiment, the positive active material layer may further include a binder and a conductive material. In this case, the content of the binder and conductive material may be 1 wt% to 5 wt%, respectively, with respect to the entire weight of the positive active material layer.</p>
+<p id="p0071" num="0071">The binder serves to well adhere the positive electrode active material particles to each other and to well adhere the positive electrode active material to the current collector. A representative example of the binder may be polyvinyl alcohol, carboxymethylcellulose, hydroxypropyl cellulose, diacetyl cellulose, polyvinyl chloride, carboxylated polyvinyl chloride, polyvinyl fluoride, polymer including ethylene oxide, polyvinylpyrrolidone, polyurethane, polytetrafluoroethylene, polyvinylidene fluoride, polyethylene, polypropylene, styrene-butadiene rubber, acryl federated styrene-butadiene rubber, epoxy resin, and nylon, but it is not limited thereto.<!-- EPO <DP n="17"> --></p>
+<p id="p0072" num="0072">The conductive material is used to provide conductivity to the electrode, and in the configured battery, any material may be used as an electron conductive material as long as it does not cause a chemical change. An example of the conductive material may be a carbon-containing material such as a natural graphite, an artificial graphite, carbon black, acetylene black, ketjen black, carbon fiber, etc; a metal powder such as copper, nickel, aluminum, silver, and the like, or a metal-containing material such as a metal fiber and the like; a conductive polymer such as a polyphenylene conductor and the like; or a conductive material including a mixture thereof.</p>
+<p id="p0073" num="0073">As the positive electrode current collector, an aluminum foil, a nickel foil, or combinations thereof may be used, but is not limited thereto.</p>
+<p id="p0074" num="0074">The negative electrode includes a current collector and a negative electrode active material layer formed on the current collector, and the negative electrode active material layer includes a negative electrode active material.</p>
+<p id="p0075" num="0075">As the negative electrode active material, a material that can perform reversible intercalation and deintercalation of lithium ions, a lithium metal, an alloy of the lithium metal, a material doping or de-doping lithium, or a transition metal oxide may be used.</p>
+<p id="p0076" num="0076">As a carbon-based material of the material that can perform reversible intercalation and deintercalation of lithium ions, any generally-used carbon-based negative active material may be used in a lithium ion secondary battery, and as representative examples, crystalline carbon, amorphous carbon, or a combination thereof may be used.</p>
+<p id="p0077" num="0077">The alloy of the lithium metal may be a metal alloy of lithium and one<!-- EPO <DP n="18"> --> selected from a group including Na, K, Rb, Cs, Fr, Be, Mg, Ca, Sr, Si, Sb, Pb, In, Zn, Ba, Ra, Ge, Al, and Sn.</p>
+<p id="p0078" num="0078">As the material doping and de-doping the lithium, Si, SiOx (0 &lt; x &lt; 2), a Si-Q alloy (Q is an alkali metal, an alkali earth metal, a group 13 element, a group 14 element, a transition metal, a rare earth element, or a combination thereof, and is not Si), a Si-C composite, or a Si-based compound of a combination thereof; Sn, SnO2, Sn-Y (Y is an alkali metal, an alkali earth metal, a group 13 element, a group 14 element, a transition metal, a rare earth element, or a combination thereof, and is not Sn), or a Sn-based compound of a combination thereof; or a combination thereof, may be used</p>
+<p id="p0079" num="0079">As the transition metal oxide, a vanadium oxide, a lithium vanadium oxide, or a titanium oxide may be used. The negative active material layer also includes a binder, and may further selectively include a conductive material.</p>
+<p id="p0080" num="0080">The binder serves to bind negative electrode active material particles to each other well, and bind a negative electrode active material to a current collector well.</p>
+<p id="p0081" num="0081">The conductive material is used to provide conductivity to an electrode, and any electronically conductive material that does not cause a chemical change in a battery may be used.</p>
+<p id="p0082" num="0082">The current collector of the negative electrode may be at least one selected from the group consisting of a copper foil, a nickel foil, a stainless steel foil, a titanium foil, a nickel foam, a copper foam, a polymer substrate coated with a conductive metal, or a combination thereof.</p>
+<p id="p0083" num="0083">For manufacturing the negative electrode and the positive electrode, the<!-- EPO <DP n="19"> --> active material, the binder, and the conductive material are mixed in a solvent to manufacture an active material composition, and the composition is coated to the current collector such that the positive electrode and the negative electrode are respectively manufactured. Such a manufacturing method is well known to a person skilled in the art, and therefore no further detailed description will be provided. As the solvent, N-methylpyrrolidone may be used, but it is not restrictive.</p>
+<p id="p0084" num="0084">The electrolyte includes a non-aqueous organic solvent and a lithium salt.</p>
+<p id="p0085" num="0085">The non-aqueous organic solvent serves as a medium through which ions involved in an electrochemical reaction of a battery may move.</p>
+<p id="p0086" num="0086">The lithium salt is dissolved in the organic solvent to act as a lithium ion supply source in the battery, thereby enabling a basic operation of a lithium secondary battery and promoting the movement of lithium ions between a positive electrode and a negative electrode.</p>
+<p id="p0087" num="0087">A separator may be disposed between the positive electrode and the negative electrode depending on the kind of the lithium secondary battery. As the separator, polyethylene, polypropylene, polyvinylidene fluoride, or a multilayer of two or more layers thereof may be used, or a mixed multilayer such as a polyethylene/polypropylene two layer separator, a polyethylene/polypropylene/polyethylene three layer separator, and a polypropylene/polyethylene/polypropylene three layer separator may also be used.</p>
+<p id="p0088" num="0088">The lithium secondary battery may be classified into a lithium ion battery,<!-- EPO <DP n="20"> --> a lithium ion polymer battery, and a lithium polymer battery according to a kind of the separator and the electrolyte used in the battery, and may be formed with a cylindrical shape, a square shape, a coin shape, a pouch shape, and the like, and may be divided into a bulk type and a thin film type according to a size. The structure and manufacturing method of the battery are well known in the art, thus the detailed description thereof will be omitted.</p>
+<p id="p0089" num="0089">Next, an embodiment of the present invention and a comparative example are disclosed. Such an embodiment is only an embodiment of the present invention, and the present invention is not limited to an embodiment below.</p>
+<heading id="h0013"><b>(Preparation Example 1: large-particle diameter active material hydroxide precursor)</b></heading>
+<heading id="h0014">1) Preparation of metal salt solution</heading>
+<p id="p0090" num="0090">First, two metal salt aqueous solutions having different Ni, Co, and Mn concentrations were prepared by using NiSO<sub>4</sub>·6H<sub>2</sub>O as a raw material of nickel, CoSO<sub>4</sub>·7H<sub>2</sub>O as a raw material of cobalt, and MnSO<sub>4</sub>·H<sub>2</sub>O as a raw material of manganese.</p>
+<p id="p0091" num="0091">The first metal salt aqueous solution for forming the core portion was prepared by mixing the respective raw materials so as to satisfy the stoichiometric molar ratio of (Ni<sub>0.98</sub>Co<sub>0.01</sub> Mn<sub>0.01</sub>)(OH)<sub>2</sub> in distilled water.</p>
+<p id="p0092" num="0092">Independently, the second metal salt aqueous solution for forming the shell portion was prepared by mixing the respective raw materials so as to satisfy the stoichiometric molar ratio of (Ni<sub>0.64</sub>Co<sub>0.23</sub>Mn<sub>0.13</sub>)(OH)<sub>2</sub> in distilled water.</p>
+<heading id="h0015">2) Co-precipitation process</heading><!-- EPO <DP n="21"> -->
+<p id="p0093" num="0093">A co-precipitation reactor in which two metal salt aqueous solution supply tanks are connected in series was prepared, and the first metal salt aqueous solution and the second metal salt aqueous solution were charged into respective metal salt aqueous solution supply tanks.</p>
+<p id="p0094" num="0094">Distilled water was placed in the co-precipitation reactor and stirred while maintaining a temperature of the reactor.</p>
+<p id="p0095" num="0095">In addition, NH<sub>4</sub>(OH) was used as a chelating agent, a NaOH solution of 0.1 was used as a pH regulator, and at this time, the amount thereof was appropriately controlled so as to be maintained at pH 11.3 in the reactor during the process.</p>
+<p id="p0096" num="0096">In the reactor in which the pH was kept constant and the chelating agent was supplied, from two metal salt aqueous solution supply tanks connected in series to the reactor, an impregnation rate of the reactor was adjusted to 140 rpm while introducing the first metal salt aqueous solution at 0.4 L/h, and the co-precipitation reaction was performed until a diameter of a precipitate became about 11.1 µm. In this case, an average residence time of the solution in the reactor was adjusted to about 10 hours by adjusting a flow rate, and a co-precipitation compound having a slightly higher density was obtained by giving a steady state duration to the reactant after the reaction reached the steady state.</p>
+<p id="p0097" num="0097">Next, while changing the mixing ratio of the first metal salt aqueous solution and the second metal salt aqueous solution, the entire supply solution was injected at 0.5 L/h, and the supply rate of the first metal salt aqueous solution was supplied and started at 0.5 L/h and gradually decreased to 0.05<!-- EPO <DP n="22"> --> L/h, and the supply rate of the second metal salt aqueous solution was supplied at 0.5 L/h. At this time, the average residence time of the solution in the reactor was adjusted to 20 h or less by controlling the flow rate, and finally the co-precipitation reaction was performed until the diameter of the precipitate became 14.8 µm.</p>
+<heading id="h0016">3) Post-treatment process</heading>
+<p id="p0098" num="0098">The precipitate obtained by the series of co-precipitation steps was filtered, washed with water, and then dried in an oven at 100 °C for 24 h to obtain a plurality of large-particle diameter particles of which a composition in the whole particles was (Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)(OH)<sub>2</sub> and the average particle diameter was 15 µm as a preparation of a large-particle diameter active material precursor.</p>
+<heading id="h0017"><b>(Preparation Example 2: a small-particle diameter positive active material hydroxide precursor)</b></heading>
+<heading id="h0018">1) Preparation of metal salt solution</heading>
+<p id="p0099" num="0099">The same first aqueous metal salt solution and second aqueous metal salt solution as in Preparation Example 1 were prepared.</p>
+<heading id="h0019">2) Co-precipitation process</heading>
+<p id="p0100" num="0100">Using the same reactor as in Preparation Example 1, the other conditions were the same and a charging time and charging amount of each metal salt solution were varied.</p>
+<p id="p0101" num="0101">Specifically, the impregnation rate of the reactor was adjusted to 140 rpm while introducing the first metal salt aqueous solution at a rate of 0.3 L/h,<!-- EPO <DP n="23"> --> and a co-precipitation reaction was performed until the diameter of the precipitate became approximately 3.7 µm. At this time, the flow rate was adjusted so that the average residence time of the solution in the reactor was about 15 hours. After the reaction reached a steady state, the steady state duration was given to the reactant to obtain a denser co-precipitated compound.</p>
+<p id="p0102" num="0102">Subsequently, the total supply solution was fed at 0.5 L/h while changing the mixing ratio of the first metal salt aqueous solution and the second metal salt aqueous solution, the supply rate of the the first metal salt aqueous solution started and was supplied with 0.5 L/h and gradually decreased to 0.05 L/h, and the second metal salt aqueous solution was supplied with the supply rate of 0.5 L/h. At this time, the average residence time of the solution in the reactor was controlled to be within 15 h by adjusting the flow rate, and the co-precipitation reaction was performed until the diameter of the precipitate finally reached 5.0 µm.</p>
+<heading id="h0020">3) Post-treatment process</heading>
+<p id="p0103" num="0103">The precipitate obtained according to the series of co-precipitation steps was filtered, washed with water, and then dried in an oven at 100 °C for 24 h to obtain a small-particle diameter hydroxide active material precursor of which a composition in the whole particles is (Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn)<sub>0.03</sub>(OH)<sub>2</sub> and an average particle diameter is 5 µm was obtained.</p>
+<heading id="h0021"><b>(Preparation Example 3: a large-particle diameter oxide precursor preparation)</b></heading>
+<p id="p0104" num="0104">A precursor having a large-particle diameter (Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn)<sub>0.03</sub>(OH)<sub>2</sub> composition having a core-shell concentration gradient prepared in Preparation<!-- EPO <DP n="24"> --> Example 1 was charged into a heat treatment furnace and a heat treatment was performed while an air atmosphere was inflowed at 200 mL/min to prepare a porous Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>O<sub>2</sub> oxide precursor having a large-particle diameter. The heat treatment process was carried out as a process of heating up to 700 °C at a temperature rising speed of 2.5 °C/min and then maintaining at 700 °C for 5 hours.</p>
+<heading id="h0022"><b>(Preparation Example 4: small-particle diameter oxide precursor preparation)</b></heading>
+<p id="p0105" num="0105">A precursor having a small-particle diameter (Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn)<sub>0.03</sub>(OH)<sub>2</sub> composition having a core-shell concentration gradient prepared in Preparation Example 2 was charged into a heat treatment furnace and a heat treatment was performed while an air atmosphere was inflowed at 200 mL/min to prepare a porous Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>O<sub>2</sub> oxide precursor having a small particle diameter. The heat treatment process was carried out as a process of heating up to 700 °C at a temperature rising speed of 2.5 °C/min and then maintaining at 700 °C for 5 hours.</p>
+<heading id="h0023"><b>(Embodiment 1)</b></heading>
+<heading id="h0024">1) Large-particle diameter active material preparation</heading>
+<p id="p0106" num="0106">The large-particle diameter porous Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>O<sub>2</sub> oxide precursor, LiOH·H<sub>2</sub>O (battery grade), ZrO<sub>2</sub> (Aldrich, 4N), Al<sub>2</sub>O<sub>3</sub> (Aldrich, 3N) and TiO<sub>2</sub> (Aldrich, 3N) were uniform mixed to prepare a mixture. At this time, a mixing ratio was expressed as M = Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub> based on Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>O<sub>2</sub> that is not doped with a metal element,</p>
+<p id="p0107" num="0107">A charged amount of a doping element-containing source was adjusted<!-- EPO <DP n="25"> --> so that the total sum of M and the doped elements becomes 1 mol, that is, Zr is 0.003 mol, Al is 0.017 mol, and Ti is 0.002 mol to obtain Li (Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)<sub>0.978</sub> Zr<sub>0.003</sub>Al<sub>0.017</sub>Ti<sub>0.002</sub>O<sub>2</sub>.</p>
+<p id="p0108" num="0108">The mixture is charged into the tube (a tube furnace, an interior diameter 50 mm, a length 1000 mm) and sintered while oxygen is inflowed at 200 mL/min. In this firing process, the primary heat treatment was performed at 480 °C for 5 hours, the temperature was raised to 760 °C at a heating peed of 5 °C/min, then maintained at this temperature for 16 hours, and then the product on which the firing process was carried out was naturally cooled to 25 °C.</p>
+<p id="p0109" num="0109">Subsequently, the cooled product was washed with water to remove residual lithium on the surface, H<sub>3</sub>BO<sub>3</sub> was dry-mixed, and the mixture was maintained at 350 °C for 5 hours to prepare a positive active material. The prepared positive active material was a large-particle diameter positive active material that is the secondary particle with an average particle diameter D50 of 15 µm in which B was coated on the surface and the primary particle with an average particle diameter D50 of 130 nm was agglomerated.</p>
+<p id="p0110" num="0110">The entire composition of the prepared large-particle diameter active material was Li (Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)<sub>0.978</sub> Zro<sub>0.03</sub>Al<sub>0.017</sub>Ti<sub>0.002</sub>O<sub>2</sub>.</p>
+<heading id="h0025">2) Small-particle diameter active material preparation</heading>
+<p id="p0111" num="0111">The same process as that of 1) was performed by using a small-particle diameter oxide precursor instead of the large-particle diameter oxide precursor to prepare a small-particle diameter active material that is the secondary particle with an average particle diameter D50 of 5.0 µm in which B was coated<!-- EPO <DP n="26"> --> on the surface and the primary particle with an average particle diameter D50 of 90 nm was agglomerated. The entire composition of the prepared small-particle diameter active material was Li (Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.3</sub>)<sub>0.978</sub> Zr<sub>0.003</sub>Al<sub>0.017</sub>Ti<sub>0.002</sub>O2.</p>
+<heading id="h0026">3) Active material preparation</heading>
+<p id="p0112" num="0112">The prepared large-particle diameter active material and small-particle diameter active material were mixed at an 8:2 weight ratio to prepare a final positive active material.</p>
+<heading id="h0027">4) Half cell preparation</heading>
+<p id="p0113" num="0113">The prepared final positive active material, polyvinylidene fluoride, the binder (brand name: KF1100) and a DENKA black conductive material were mixed at a weight ratio of 92.5:3.5:4, and this mixture was added to an N-methyl-2-pyrrolidone solvent so that a solid content was about 30 wt% to prepare a positive active material slurry.</p>
+<p id="p0114" num="0114">The slurry was coated on an Al foil (thickness: 15 µm) current collector using a doctor blade, dried, and then rolled to prepare a positive electrode. The loading amount of the positive electrode was 14.6 mg/cm<sup>2</sup>, and the rolling density was 3.1 g/cm<sup>3</sup>.</p>
+<p id="p0115" num="0115">The positive electrode, the lithium metal negative electrode (thickness 200 µm, Honzo metal), the electrolyte solution, and a polypropylene separator were used to prepare a 2032 coin-type half-cell by a typical method. As the electrolyte solution, a mixed solvent (a mixing ratio of 1:1 volume%) of ethylene carbonate in which 1 M LiPF<sub>6</sub> was dissolved and dimethyl carbonate was used.</p>
+<heading id="h0028"><b>(Embodiment 2)</b></heading><!-- EPO <DP n="27"> -->
+<p id="p0116" num="0116">In the large-particle diameter and small-particle diameter active material, except that the doping element of WO<sub>3</sub> (Aldrich, 3N) was added and the content was adjusted so that the doping ratio of W became 0.0005, the large-particle diameter active material and the small-particle diameter active material were prepared like in Embodiment 1, and they were mixed at 8:2 to prepare the positive active material. In the prepared large-particle diameter and small-particle diameter active material, the entire composition was Li(Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)<sub>0.9805</sub> Zr<sub>0.003</sub>Al<sub>0.017</sub>W<sub>0.0005</sub>Ti<sub>0.002</sub>O<sub>2</sub>.</p>
+<p id="p0117" num="0117">Using the prepared positive active material, a coin-type half cell was prepared in the same method as in Embodiment 1.</p>
+<heading id="h0029"><b>(Embodiment 3)</b></heading>
+<p id="p0118" num="0118">In the large-particle diameter and small-particle diameter active materials, except for adjusting a content of Al<sub>2</sub>O<sub>3</sub> (Aldrich, 3N) so that an Al doping ratio became 0.014, the same process as Embodiment 1 was performed to prepare the large-particle diameter active material and the small-particle diameter active material, and they were mixed at 8:2 to prepare the positive active material. In the prepared large-particle diameter and small-particle diameter active materials, the entire composition was Li(Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)<sub>0.9805</sub>. Zr<sub>0.003</sub>Al<sub>0.014</sub>W<sub>0.0005</sub>Ti<sub>0.002</sub>O<sub>2</sub>.</p>
+<p id="p0119" num="0119">Using the prepared positive active material, a coin-type half cell was prepared in the same method as in Embodiment 1.</p>
+<heading id="h0030"><b>(Embodiment 4)</b></heading>
+<p id="p0120" num="0120">In the large-particle diameter and small-particle diameter active materials, except for adjusting a content of Al<sub>2</sub>O<sub>3</sub> (Aldrich, 3N) so that an Al<!-- EPO <DP n="28"> --> doping ratio became 0.01, the same process as in Embodiment 1 was performed to prepare the large-particle diameter active material and small-particle diameter active material, and they were mixed at 8:2 to prepare the positive active material. In the prepared large-particle diameter and small-particle diameter active material, the entire composition was Li(Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)<sub>0.9845</sub> Zr<sub>0.003</sub>Al<sub>0.010</sub>W<sub>0.0005</sub>Ti<sub>0.002</sub>O<sub>2</sub>.</p>
+<p id="p0121" num="0121">Using the prepared positive active material, a coin-type half cell was prepared in the same method as in Embodiment 1.</p>
+<heading id="h0031"><b>(Embodiment 5)</b></heading>
+<p id="p0122" num="0122">In the large-particle diameter and small-particle diameter active materials, except for adjusting a content of Al<sub>2</sub>O<sub>3</sub> (Aldrich, 3N) so that an Al doping ratio became 0.007, the same process as in Embodiment 1 was performed to prepare the large-particle diameter active material and small-particle diameter active material, and they were mixed at 8:2 to prepare the positive active material. In the prepared large-particle diameter and small-particle diameter active material, the entire composition was Li(Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)<sub>0.9875</sub> Zr<sub>0.003</sub>Al<sub>0.007</sub>W<sub>0.0005</sub>Ti<sub>0.002</sub>O<sub>2</sub>.</p>
+<p id="p0123" num="0123">Using the prepared positive active material, a coin-type half cell was prepared in the same method as in Embodiment 1.</p>
+<heading id="h0032"><b>(Embodiment 6)</b></heading>
+<p id="p0124" num="0124">In the large-particle diameter and small-particle diameter active materials, except for adjusting a content of Al<sub>2</sub>O<sub>3</sub> (Aldrich, 3N) so that an Al doping ratio became 0.025, the same process as in Embodiment 1 was performed to prepare the large-particle diameter active material and small-particle<!-- EPO <DP n="29"> --> diameter active material, and they were mixed at 8:2 to prepare the positive active material. In the prepared large-particle diameter and small-particle diameter active material, the entire composition was Li(Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)<sub>0.9695</sub> Zr<sub>0.003</sub>Al<sub>0.025</sub>W<sub>0.0005</sub>Ti<sub>0.002</sub>O<sub>2</sub></p>
+<p id="p0125" num="0125">Using the prepared positive active material, a coin-type half cell was prepared in the same method as in Embodiment 1.</p>
+<heading id="h0033"><b>(Embodiment 7)</b></heading>
+<p id="p0126" num="0126">In the large-particle diameter and small-particle diameter active materials, except for adjusting a content of Al<sub>2</sub>O<sub>3</sub> (Aldrich, 3N) so that an Al doping ratio became 0.03, the same process as in Embodiment 1 was performed to prepare the large-particle diameter active material and small-particle diameter active material, and they were mixed at 8:2 to prepare the positive active material. In the prepared large-particle diameter and small-particle diameter active material, the entire composition was Li(Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)<sub>0.9645</sub> Zr<sub>0.003</sub>Al<sub>0.030</sub>W<sub>0.0005</sub>Ti<sub>0.002</sub>O<sub>2</sub>.</p>
+<p id="p0127" num="0127">Using the prepared positive active material, a coin-type half cell was prepared in the same method as in Embodiment 1.</p>
+<heading id="h0034"><b>(Embodiment 8)</b></heading>
+<p id="p0128" num="0128">In the large-particle diameter and small-particle diameter active materials, except for adjusting a content of Al<sub>2</sub>O<sub>3</sub> (Aldrich, 3N) so that an Al doping ratio became 0.033, the same process as in Embodiment 1 was performed to prepare the large-particle diameter active material and small-particle diameter active material, and they were mixed at 8:2 to prepare the positive active material. In the prepared large-particle diameter and small-particle<!-- EPO <DP n="30"> --> diameter active material, the entire composition was Li Li(Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)<sub>0.9615</sub> Zr<sub>0.003</sub>Al<sub>0.033</sub>W<sub>0.0005</sub>Ti<sub>0.002</sub>O<sub>2</sub>.</p>
+<p id="p0129" num="0129">Using the prepared positive active material, a coin-type half cell was prepared in the same method as in Embodiment 1.</p>
+<heading id="h0035"><b>(Embodiment 9)</b></heading>
+<p id="p0130" num="0130">In the large-particle diameter and small-particle diameter active materials, except for adjusting a content of ZrO<sub>2</sub> (Aldrich, 4N) so that an Zr doping ratio became 0.004, the same process as in Embodiment 1 was performed to prepare the large-particle diameter active material and small-particle diameter active material, and they were mixed at 8:2 to prepare the positive active material. In the prepared large-particle diameter and small-particle diameter active material, the entire composition was Li(Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)<sub>0.9765</sub> Zr<sub>0.004</sub>Al<sub>0.017</sub>W<sub>0.0005</sub>Ti<sub>0.002</sub>O<sub>2</sub>.</p>
+<p id="p0131" num="0131">Using the prepared positive active material, a coin-type half cell was prepared in the same method as in Embodiment 1.</p>
+<heading id="h0036"><b>(Embodiment 10)</b></heading>
+<p id="p0132" num="0132">In the large-particle diameter and small-particle diameter active materials, except for adjusting a content of ZrO<sub>2</sub> (Aldrich, 4N) so that a Zr doping ratio became 0.002, the same process as in Embodiment 1 was performed to prepare the large-particle diameter active material and small-particle diameter active material, and they were mixed at 8:2 to prepare the positive active material. In the prepared large-particle diameter and small-particle diameter active material, the entire composition was Li(Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)<sub>0.9785</sub> Zr<sub>0.002</sub>Al<sub>0.017</sub>W<sub>0.0005</sub>Ti<sub>0.002</sub>O<sub>2</sub>.<!-- EPO <DP n="31"> --></p>
+<p id="p0133" num="0133">Using the prepared positive active material, a coin-type half cell was prepared in the same method as in Embodiment 1.</p>
+<heading id="h0037"><b>(Embodiment 11)</b></heading>
+<p id="p0134" num="0134">In the large-particle diameter and small-particle diameter active materials, except for adjusting a content of WO<sub>3</sub> (Aldrich, 3N) so that a W doping ratio became 0.001, the same process as in Embodiment 1 was performed to prepare the large-particle diameter active material and small-particle diameter active material, and they were mixed at 8:2 to prepare the positive active material. In the prepared large-particle diameter and small-particle diameter active material, the entire composition was Li(Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)<sub>0.977</sub> Zr<sub>0.003</sub>Al<sub>0.017</sub>W<sub>0.001</sub>Ti<sub>0.002</sub>O<sub>2</sub>.</p>
+<p id="p0135" num="0135">Using the prepared positive active material, a coin-type half cell was prepared in the same method as in Embodiment 1.</p>
+<heading id="h0038"><b>(Embodiment 12)</b></heading>
+<p id="p0136" num="0136">In the large-particle diameter and small-particle diameter active materials, except for adjusting a content of WO<sub>3</sub> (Aldrich, 3N) so that a W doping ratio became 0.0008, the same process as in Embodiment 1 was performed to prepare the large-particle diameter active material and small-particle diameter active material, and they were mixed at 8:2 to prepare the positive active material. In the prepared large-particle diameter and small-particle diameter active material, the entire composition was Li(Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)<sub>0.977</sub> Zr<sub>0.003</sub>Al<sub>0.017</sub>W<sub>0.008</sub>Ti<sub>0.002</sub>O<sub>2</sub>.</p>
+<p id="p0137" num="0137">Using the prepared positive active material, a coin-type half cell was prepared in the same method as in Embodiment 1.<!-- EPO <DP n="32"> --></p>
+<heading id="h0039"><b>(Embodiment 13)</b></heading>
+<p id="p0138" num="0138">In the large-particle diameter and small-particle diameter active materials, except for adjusting a content of WO<sub>3</sub> (Aldrich, 3N) so that a W doping ratio became 0.0003, the same process as in Embodiment 1 was performed to prepare the large-particle diameter active material and small-particle diameter active material, and they were mixed at 8:2 to prepare the positive active material. In the prepared large-particle diameter and small-particle diameter active material, the entire composition was Li(Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)<sub>0.9777</sub>Zr<sub>0.003</sub>Al<sub>0.017</sub>W<sub>0.0003</sub>Ti<sub>0.002</sub>O<sub>2</sub>.</p>
+<p id="p0139" num="0139">Using the prepared positive active material, a coin-type half cell was prepared in the same method as in Embodiment 1.</p>
+<heading id="h0040"><b>(Embodiment 14)</b></heading>
+<p id="p0140" num="0140">In the large-particle diameter and small-particle diameter active materials, except for adjusting a content of WO<sub>3</sub> (Aldrich, 3N) so that a Ti doping ratio became 0.004, the same process as in Embodiment 1 was performed to prepare the large-particle diameter active material and small-particle diameter active material, and they were mixed at 8:2 to prepare the positive active material. In the prepared large-particle diameter and small-particle diameter active material, the entire composition was Li(Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)<sub>0.9755</sub>Zr<sub>0.003</sub>Al<sub>0.017</sub>W<sub>0.0005</sub>Ti<sub>0.004</sub>O<sub>2</sub>.</p>
+<p id="p0141" num="0141">Using the prepared positive active material, a coin-type half cell was prepared in the same method as in Embodiment 1.</p>
+<heading id="h0041"><b>(Embodiment 15)</b></heading>
+<p id="p0142" num="0142">In the large-particle diameter and small-particle diameter active<!-- EPO <DP n="33"> --> materials, except for adjusting a content of WO<sub>3</sub> (Aldrich, 3N) so that a Ti doping ratio became 0.001, the same process as in Embodiment 1 was performed to prepare the large-particle diameter active material and small-particle diameter active material, and they were mixed at 8:2 to prepare the positive active material. In the prepared large-particle diameter and small-particle diameter active material, the entire composition was Li(Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)<sub>0.9785</sub>Zr<sub>0.003</sub>Al<sub>0.017</sub>W<sub>0.0005</sub>Ti<sub>0.001</sub>O<sub>2</sub>.</p>
+<p id="p0143" num="0143">Using the prepared positive active material, a coin-type half cell was prepared in the same method as in Embodiment 1.</p>
+<heading id="h0042"><b>(Embodiment 16)</b></heading>
+<p id="p0144" num="0144">In the large-particle diameter and small-particle diameter active materials, except for adjusting a content of WO<sub>3</sub> (Aldrich, 3N) so that a Ti doping ratio became 0.005, the same process as in Embodiment 1 was performed to prepare the large-particle diameter active material and small-particle diameter active material, and they were mixed at 8:2 to prepare the positive active material. In the prepared large-particle diameter and small-particle diameter active material, the entire composition was Li(Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)<sub>0.979</sub>Zr<sub>0.003</sub>Al<sub>0.017</sub>W<sub>0.0005</sub>Ti<sub>0.0005</sub>O<sub>2</sub>.</p>
+<p id="p0145" num="0145">Using the prepared positive active material, a coin-type half cell was prepared in the same method as in Embodiment 1.</p>
+<heading id="h0043"><b>(Embodiment 17)</b></heading>
+<heading id="h0044"><u>1) Preparation of a large-particle diameter precursor and large-particle diameter active material</u></heading>
+<p id="p0146" num="0146">First, a metal salt aqueous solution was prepared using NiSO<sub>4</sub>·6H<sub>2</sub>O as<!-- EPO <DP n="34"> --> a nickel raw material, CoSO<sub>4</sub>·7H<sub>2</sub>O as a cobalt raw material, and MnSO<sub>4</sub>·H<sub>2</sub>O as a manganese raw material and charged into a metal salt supply tank.</p>
+<p id="p0147" num="0147">A co-precipitation reactor was prepared, distilled water was added to the co-precipitation reactor, and the reactor was stirred while maintaining a constant temperature.</p>
+<p id="p0148" num="0148">Also, NH<sub>4</sub>(OH) was used as a chelating agent, a NaOH solution of 0.1 was used as a pH regulator, and during the process, an input amount was properly adjusted so that the pH in the reactor was maintained at 11.3.</p>
+<p id="p0149" num="0149">In the reactor where the pH was maintained and the chelating agent was supplied, the metal salt aqueous solution was injected at 0.5 L/h from the metal salt aqueous solution supply tank connected to the reactor, and the impregnation rate of the reactor was adjusted to 160 rpm, thus, the co-precipitation reaction was carried out until the diameter of the precipitate became about 14.7 µm. At this time, the flow rate was adjusted so that the average residence time of the solution in the reactor was about 20 hours.</p>
+<p id="p0150" num="0150">The precipitate obtained according to the co-precipitation process was filtered, washed with water, and dried in an oven at 100 °C for 24 hours, and a large-particle diameter active material precursor having the composition of the entire particle of (Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>, OH)2 and an average particle diameter of about 15.2 µm was prepared. Next, the precursor was charged into a heat treatment furnace and an air atmosphere was inflowed at 200 mL/min, and heat treatment was performed to prepare a porous Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>O<sub>2</sub> oxide precursor. Next, using the large-particle diameter oxide precursor, a large-particle diameter active material was prepared in the same method as that of 1)<!-- EPO <DP n="35"> --> of Embodiment 1.</p>
+<p id="p0151" num="0151">The entire composition of the prepared large-particle diameter active material was Li (Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)<sub>0.978</sub> Zr<sub>0.003</sub>Al<sub>0.017</sub>Ti<sub>0.002</sub>O<sub>2</sub>.</p>
+<heading id="h0045"><u>2) Preparation of a small-particle diameter precursor and small-particle diameter active material</u></heading>
+<p id="p0152" num="0152">A small-particle diameter active material precursor having a composition of (Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)(OH)<sub>2</sub> and an average particle diameter of 4.8 µm was prepared by the same method as that of 1), except for performing the co-precipitation reaction until the diameter of the precipitate became 4.7 µm by adjusting the injection speed of the metal salt aqueous solution and the impregnation rate of the co-precipitation reactor in the co-precipitation process.</p>
+<p id="p0153" num="0153">Next, the small-particle diameter active material was prepared by the same method as 1) using the precursor. The entire composition of the prepared small-particle diameter active material was (Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)<sub>0.978</sub> Zr<sub>0.003</sub>Al<sub>0.017</sub>Ti<sub>0.002</sub>O<sub>2</sub>.</p>
+<heading id="h0046">3) Active material preparation</heading>
+<p id="p0154" num="0154">The prepared large-particle diameter active material and small-particle diameter active material were mixed at an 8:2 weight ratio to prepare a final positive active material.</p>
+<heading id="h0047">4) Half-cell preparation</heading>
+<p id="p0155" num="0155">The prepared final positive active material, polyvinylidene fluoride, the binder (brand name: KF1100), and a DENKA black conductive material were mixed at a weight ratio of 92.5:3.5:4, and this mixture was added to an N-methyl-2-pyrrolidone) solvent so that a solid content was about 30 wt% to<!-- EPO <DP n="36"> --> prepare a positive active material slurry.</p>
+<p id="p0156" num="0156">The slurry was coated on an Al foil (thickness: 15 µm) current collector using a doctor blade, and dried and rolled to prepare a positive electrode. The loading amount of the positive electrode was 14.6 mg/cm<sup>2</sup>, and the rolling density was 3.1 g/cm<sup>3</sup>.</p>
+<p id="p0157" num="0157">The positive electrode, a lithium metal negative electrode (a thickness of 200 µm, Honzo metal), an electrolyte solution, and a polypropylene separator were used to prepare a 2032 coin-type half cell by a typical method. As the electrolyte solution, a mixed solvent (mixing ratio of 1:1 volume%) of ethylene carbonate in which 1 M LiPF<sub>6</sub> was dissolved, and dimethyl carbonate was used.</p>
+<heading id="h0048"><b>(Comparative Example 1)</b></heading>
+<p id="p0158" num="0158">Except that ZrO<sub>2</sub> (Aldrich, 4N), Al<sub>2</sub>O<sub>3</sub> (Aldrich, 3N), TiO<sub>2</sub> (Aldrich, 3N), and WO<sub>3</sub> (Aldrich, 3N) were not used, the process was carried out in the same manner as in Embodiment 1 to prepare a large-particle diameter active material and a small-particle diameter active material, and and a positive active material was prepared by mixing them at 8: 2. In the prepared large-particle diameter and small-particle diameter active material, the entire composition was Li(Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)O<sub>2</sub>.</p>
+<p id="p0159" num="0159">Using the prepared positive active material, a coin-type half cell was prepared in the same method as in Embodiment 1.</p>
+<heading id="h0049"><b>(Comparative Example 2)</b></heading>
+<p id="p0160" num="0160">Except that ZrO<sub>2</sub> (Aldrich, 4N) was only used and Al<sub>2</sub>O<sub>3</sub> (Aldrich, 3N), TiO<sub>2</sub> (Aldrich, 3N), and WO<sub>3</sub> (Aldrich, 3N) were not used, the process was carried out in the same manner as in Embodiment 1 to prepare a large-particle<!-- EPO <DP n="37"> --> diameter active material and a small-particle diameter active material and, and a positive active material was prepared by mixing them at 8:2. In the prepared large-particle diameter and small-particle diameter active material, the entire composition was (Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)<sub>0.997</sub>Zr<sub>0.003</sub>O<sub>2</sub>.</p>
+<p id="p0161" num="0161">Using the prepared positive active material, a coin-type half cell was prepared in the same method as in Embodiment 1.</p>
+<heading id="h0050"><b>(Comparative Example 3)</b></heading>
+<p id="p0162" num="0162">Except that ZrO<sub>2</sub> (Aldrich, 4N) and Al<sub>2</sub>O<sub>3</sub> (Aldrich, 3N) were only used and TiO<sub>2</sub> (Aldrich, 3N) and WO<sub>3</sub> (Aldrich, 3N) were not used, the process was carried out in the same manner as in Embodiment 1 to prepare a large-particle diameter active material and a small-particle diameter active material and, and a positive active material was prepared by mixing them at 8:2. In the prepared large-particle diameter and small-particle diameter active material, the entire composition was (Ni<sub>0.88</sub>Co<sub>0.09</sub>Mn<sub>0.03</sub>)<sub>0.98</sub>Zr<sub>0.003</sub>Al<sub>0.017</sub>O<sub>2</sub>.</p>
+<p id="p0163" num="0163">Using the prepared positive active material, a coin-type half cell was prepared in the same method as in Embodiment 1.</p>
+<heading id="h0051"><b>X-ray diffraction evaluation</b></heading>
+<p id="p0164" num="0164">A lattice constant of the positive active material of the active material prepared according to Embodiments 1 to 17 and Comparative Examples 1 to 3 was obtained by X-ray diffraction measurement using CuKa rays. The measured a-axis length and c-axis length are shown in Table 1 below. In addition, a distance ratio (a c/a axis ratio) between crystal axes is also shown in Table 1 below.</p>
+<p id="p0165" num="0165">In addition, the grain size (a crystalline size) of the active material was<!-- EPO <DP n="38"> --> measured and is shown in Table 1 below.</p>
+<p id="p0166" num="0166">For the active material, a CuKa ray was used as a target ray, X'Pert powder (PANalytical) XRD equipment was used, a measurement condition was a condition of 2θ = 10° to 80°, a scan speed (°/S)=0.328, a step size of 0.026°/step to perform an X-ray diffraction measurement test, and an intensity (a peak area) of a 003 plane and a 104 plane were determined.</p>
+<p id="p0167" num="0167">From this result, I (003)/l (104) was obtained, and the result is shown in Table 1 below. For crystallographic consideration by doping, a Rietveld analysis was performed using high score plus Rietveld software, and the results are shown in Table 1 below as R-factor. An XRD measurement for the Rietveld analysis used CuKa rays as target rays, X'Pert powder (PANalytical company) XRD equipment was used, and a measurement condition was a condition of 2θ = 10° to 130°, a scan speed (°/S))=0.328, and a step size of 0.026°/step, thereby the intensity of the 006 plane, the 102 plane, and the 101 plane were obtained, and from this result, the R-factor was calculated according to Equation 1 below, and the result is shown in Table 1 below. In this result, as a GOF (Goodness of Fit) value is calculated within 1.2, it may be said that the Rietveld structure analysis result is a reliable value. <maths id="math0003" num="[Equation 1]"><math display="block"><mi>R-factor</mi><mo>=</mo><mfenced open="{" close="}" separators=""><mi mathvariant="normal">I</mi><mspace width="1ex"/><mi>006</mi><mo>+</mo><mi mathvariant="normal">I</mi><mspace width="1ex"/><mi>102</mi></mfenced><mo>/</mo><mi mathvariant="normal">I</mi><mspace width="1ex"/><mi>101</mi></math><img id="ib0003" file="imgb0003.tif" wi="64" he="14" img-content="math" img-format="tif"/></maths><!-- EPO <DP n="39"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>(Table 1)</title>
+<tgroup cols="8">
+<colspec colnum="1" colname="col1" colwidth="38mm"/>
+<colspec colnum="2" colname="col2" colwidth="15mm"/>
+<colspec colnum="3" colname="col3" colwidth="17mm"/>
+<colspec colnum="4" colname="col4" colwidth="15mm"/>
+<colspec colnum="5" colname="col5" colwidth="26mm"/>
+<colspec colnum="6" colname="col6" colwidth="24mm"/>
+<colspec colnum="7" colname="col7" colwidth="17mm"/>
+<colspec colnum="8" colname="col8" colwidth="14mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry valign="top">a(Å)</entry>
+<entry valign="top">c(Å)</entry>
+<entry valign="top">c/a</entry>
+<entry valign="top">grain size (nm)</entry>
+<entry valign="top">I (003)/l (104)</entry>
+<entry valign="top">R-factor</entry>
+<entry valign="top">GOF</entry></row></thead>
+<tbody>
+<row>
+<entry>Comparative Example 1</entry>
+<entry>2.8730</entry>
+<entry>14.2063</entry>
+<entry>4.9447</entry>
+<entry>145.90</entry>
+<entry>1.214</entry>
+<entry>0.534</entry>
+<entry>1.146</entry></row>
+<row>
+<entry>Comparative Example 2</entry>
+<entry>2.8664</entry>
+<entry>14.1820</entry>
+<entry>4.9476</entry>
+<entry>146.70</entry>
+<entry>1.212</entry>
+<entry>0.532</entry>
+<entry>1.146</entry></row>
+<row>
+<entry>Comparative Example 3</entry>
+<entry>2.8663</entry>
+<entry>14.2352</entry>
+<entry>4.9664</entry>
+<entry>127.50</entry>
+<entry>1.173</entry>
+<entry>0.523</entry>
+<entry>1.146</entry></row>
+<row>
+<entry>Embodiment 1</entry>
+<entry>2.8665</entry>
+<entry>14.2378</entry>
+<entry>4.9667</entry>
+<entry>123.10</entry>
+<entry>1.173</entry>
+<entry>0.523</entry>
+<entry>1.146</entry></row>
+<row>
+<entry>Embodiment 2</entry>
+<entry>2.8667</entry>
+<entry>14.2388</entry>
+<entry>4.9666</entry>
+<entry>118.70</entry>
+<entry>1.173</entry>
+<entry>0.523</entry>
+<entry>1.162</entry></row>
+<row>
+<entry>Embodiment 3</entry>
+<entry>2.8683</entry>
+<entry>14.2218</entry>
+<entry>4.9638</entry>
+<entry>122.30</entry>
+<entry>1.176</entry>
+<entry>0.523</entry>
+<entry>1.148</entry></row>
+<row>
+<entry>Embodiment 4</entry>
+<entry>2.8705</entry>
+<entry>14.1821</entry>
+<entry>4.9407</entry>
+<entry>128.70</entry>
+<entry>1.181</entry>
+<entry>0.524</entry>
+<entry>1.146</entry></row>
+<row>
+<entry>Embodiment 5</entry>
+<entry>2.8721</entry>
+<entry>14.1821</entry>
+<entry>4.9379</entry>
+<entry>134.60</entry>
+<entry>1.186</entry>
+<entry>0.524</entry>
+<entry>1.163</entry></row>
+<row>
+<entry>Embodiment 6</entry>
+<entry>2.8710</entry>
+<entry>14.2828</entry>
+<entry>4.9748</entry>
+<entry>109.70</entry>
+<entry>1.162</entry>
+<entry>0.522</entry>
+<entry>1.172</entry></row><!-- EPO <DP n="40"> -->
+<row>
+<entry>Embodiment 7</entry>
+<entry>2.8597</entry>
+<entry>14.2864</entry>
+<entry>4.9958</entry>
+<entry>102.30</entry>
+<entry>1.148</entry>
+<entry>0.522</entry>
+<entry>1.142</entry></row>
+<row>
+<entry>Embodiment 8</entry>
+<entry>2.8581</entry>
+<entry>14.2864</entry>
+<entry>4.9986</entry>
+<entry>98.40</entry>
+<entry>1.132</entry>
+<entry>0.521</entry>
+<entry>1.151</entry></row>
+<row>
+<entry>Embodiment 9</entry>
+<entry>2.8645</entry>
+<entry>14.2308</entry>
+<entry>4.9679</entry>
+<entry>115.70</entry>
+<entry>1.173</entry>
+<entry>0.523</entry>
+<entry>1.143</entry></row>
+<row>
+<entry>Embodiment 10</entry>
+<entry>2.8689</entry>
+<entry>14.2469</entry>
+<entry>4.9660</entry>
+<entry>123.60</entry>
+<entry>1.173</entry>
+<entry>0.523</entry>
+<entry>1.137</entry></row>
+<row>
+<entry>Embodiment 11</entry>
+<entry>2.8669</entry>
+<entry>14.2397</entry>
+<entry>4.9669</entry>
+<entry>107.60</entry>
+<entry>1.161</entry>
+<entry>0.523</entry>
+<entry>1.123</entry></row>
+<row>
+<entry>Embodiment 12</entry>
+<entry>2.8668</entry>
+<entry>14.2394</entry>
+<entry>4.9669</entry>
+<entry>112.40</entry>
+<entry>1.166</entry>
+<entry>0.522</entry>
+<entry>1.162</entry></row>
+<row>
+<entry>Embodiment 13</entry>
+<entry>2.8666</entry>
+<entry>14.2384</entry>
+<entry>4.9670</entry>
+<entry>122.80</entry>
+<entry>1.171</entry>
+<entry>0.523</entry>
+<entry>1.181</entry></row>
+<row>
+<entry>Embodiment 14</entry>
+<entry>2.8669</entry>
+<entry>14.2414</entry>
+<entry>4.9675</entry>
+<entry>117.60</entry>
+<entry>1.171</entry>
+<entry>0.523</entry>
+<entry>1.123</entry></row>
+<row>
+<entry>Embodiment 15</entry>
+<entry>2.8664</entry>
+<entry>14.2350</entry>
+<entry>4.9661</entry>
+<entry>119.20</entry>
+<entry>1.174</entry>
+<entry>0.523</entry>
+<entry>1.124</entry></row>
+<row>
+<entry>Embodiment 16</entry>
+<entry>2.8665</entry>
+<entry>14.2356</entry>
+<entry>4.9662</entry>
+<entry>118.40</entry>
+<entry>1.174</entry>
+<entry>0.521</entry>
+<entry>1.136</entry></row>
+<row>
+<entry>Embodiment 17</entry>
+<entry>2.8669</entry>
+<entry>14.2315</entry>
+<entry>4.9641</entry>
+<entry>124.50</entry>
+<entry>1.175</entry>
+<entry>0.523</entry>
+<entry>1.132</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="41"> --></p>
+<p id="p0168" num="0168">From the results shown in Table 1, it may be confirmed that the factor values representing the crystal structure analyzed in the XRD change according to the doping element and the doping ratio. Particularly, it may be confirmed that the grain size greatly varies even in the same firing condition according to the doping element and doping content.</p>
+<p id="p0169" num="0169">Particularly, as shown in the Table 1, it may be confirmed that the a-axis length and the c-axis length were not significantly changed according to the Zr doping, but the a-axis length and the c-axis length were slightly reduced according to the doping of Zr.</p>
+<p id="p0170" num="0170">In addition, when doping Zr and Al together, it may be confirmed that the a-axis length further decreased while the c-axis length increased, and the positive ion mixing index of the I (003)/l (104) value rapidly decreased, and the R-factor also decreased.</p>
+<p id="p0171" num="0171">In addition, it may be confirmed that the grain size of the ternary element or the quaternary element doped positive active material according to Embodiments 1 to 17 was obtained in 98.4 to 134.6 nm, because the grain size was reduced by 30 nm or more compared to the positive active material of Comparative Example 1 which is not doped.</p>
+<heading id="h0052"><b>EDS (Energy dispersive x-ray spectroscopy) analysis</b></heading>
+<p id="p0172" num="0172">In Embodiment 2, a cross-section of the prepared positive active material is cut with an FIB (focused ion beam), and an element existing in the positive active material is mapped by an energy dispersive x-ray spectroscopy analysis to analyze a cross-sectional shape and a distribution of Ni, Mn, Co, W,<!-- EPO <DP n="42"> --> O, Al, Zr, and Ti, and the results are respectively shown in <figref idref="f0001">FIG. 1</figref>.</p>
+<p id="p0173" num="0173">As shown in <figref idref="f0001">FIG. 1</figref>, since the prepared positive active material according to Embodiment 2 is a high content Ni positive active material, Ni and O are very clearly displayed as images, and Mn and Co are also well seen. In addition, it may be confirmed that the Zr, Al, W, and Ti quaternary element elements used as doping elements exist, but that Al well appears due to a relatively large doping amount, whereas Zr, W, and Ti appear as dots due to relatively small doping amounts, but are uniformly present inside the positive active material.</p>
+<heading id="h0053"><b>SAED (selected area diffraction) photo</b></heading>
+<p id="p0174" num="0174">The SAD photograph obtained by measuring the diffraction pattern using TEM for the surface portion and the center portion of one primary particle of the large-particle diameter positive active material prepared according to Embodiment 2 is shown as (a) and (b) in <figref idref="f0002">FIG. 2</figref>, respectively. As shown in <figref idref="f0002">FIG. 2 (a) and (b)</figref>, it may be confirmed that both the surface and the center portion have a rhombohedral layered structure of LiNiO<sub>2</sub>.</p>
+<heading id="h0054"><b>Charge and discharge characteristic evaluation</b></heading>
+<p id="p0175" num="0175">After aging the coin-type half cell prepared according to Embodiments 1 to 16 and Comparative Examples 1 to 3 at a room temperature of 25 °C for 10 hours, a charge and discharge test was performed.</p>
+<p id="p0176" num="0176">A capacity evaluation was based on 205 mAh/g, and a charging and discharging condition was a constant current (CC)/constant voltage (CV) 2.5 V to 4.25 V, and 1/20 C cut-off condition.</p>
+<p id="p0177" num="0177">After performing the charging and discharging of 0.1 C charge/0.1 C<!-- EPO <DP n="43"> --> discharge once, the 0.2 C charge/0.2 C discharge was performed once, and the discharge capacity was measured, and the results are shown in Table 2 below as the discharge capacity. In addition, the 0.2 C discharge capacity ratio to the 0.2 C charge capacity was calculated, and the results are shown in Table 2 to Table 5 below as initial efficiency.</p>
+<p id="p0178" num="0178">A room temperature cycle lifespan characteristic is at a room temperature of 25 °C, a high temperature cycle lifespan characteristic is at a high temperature 45 °C, and by performing the charge and discharge 30 times in the 0.3 C charging/0.3 C discharging condition, the discharge capacity ratio of 30 times to the one discharge capacity was calculated, and the results are shown in Table 2 to Table 5 below.</p>
+<p id="p0179" num="0179">For high temperature initial resistance (DC internal resistance: DC-IR (direct current internal resistance)), with a constant current-constant voltage of 2.5 V to 4.25 V, and a 1/20 C cut-off condition at 45 °C, the charge of 0.2 C and 0.2 discharge was carried out once to the battery, and the voltage value after 60 seconds after application of the discharge current at 4.25 V charging 100 % was measured, calculated, and the results are shown in Table 2 to Table 5 below.</p>
+<p id="p0180" num="0180">For a resistance increase rate, a resistance was measured in the same method as the initial resistance measurement method after 30 cycles of the cycle lifespan compared to a resistance (a high temperature initial resistance), initially measured at a high temperature 45 °C and an increasing rate thereof converted into percentage (%), the results are shown in Table 2 to Table 5 below.</p>
+<p id="p0181" num="0181">For an average leakage current, current generation is measured over<!-- EPO <DP n="44"> --> 120 hours when the half-cell is maintained at 4.7 V at a high temperature of 55 °C, and an average value of the value is calculated and the result is shown in Table 2 to Table 5.</p>
+<p id="p0182" num="0182">For a differential scanning calorimetry (DSC) analysis, the half-cell is charged to 4.25 V at the initial 0.1 C charge condition and disassembled to obtain only the positive electrode separately, and the positive electrode is prepared by being washed five times with dimethyl carbonate. After impregnating the washed positive electrode in a DSC crucible with an electrolyte solution, the temperature was increased to 265 °C, and a calorie change was measured using a DSC1 star system of Mettler Toledo with a DSC instrument, an obtained DSC peak temperature and a calorific value results are shown in Table 2 to Table 5 below. The DSC peak temperature represents a temperature at which a thermal peak appeared.
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>(Table 2)</title>
+<tgroup cols="10">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="26mm"/>
+<colspec colnum="3" colname="col3" colwidth="19mm"/>
+<colspec colnum="4" colname="col4" colwidth="29mm"/>
+<colspec colnum="5" colname="col5" colwidth="23mm"/>
+<colspec colnum="6" colname="col6" colwidth="32mm"/>
+<colspec colnum="7" colname="col7" colwidth="27mm"/>
+<colspec colnum="8" colname="col8" colwidth="25mm"/>
+<colspec colnum="9" colname="col9" colwidth="23mm"/>
+<colspec colnum="10" colname="col10" colwidth="17mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry valign="top">Discharge capacity (mAh/g)</entry>
+<entry valign="top">initial efficiency (%)</entry>
+<entry valign="top">Room temperature lifespan (%)</entry>
+<entry valign="top">High temperature lifespan (%)</entry>
+<entry valign="top">High temperature Initial resistance (Ω)</entry>
+<entry valign="top">Resistance increase rate (%)</entry>
+<entry valign="top">Average leakage current (mA)</entry>
+<entry valign="top">DSC peak temperature (°C)</entry>
+<entry valign="top">Calorific value (J/g)</entry></row></thead>
+<tbody>
+<row>
+<entry>Comparative Example 1</entry>
+<entry>213.1</entry>
+<entry>88.2</entry>
+<entry>90.1</entry>
+<entry>85.5</entry>
+<entry>29.5</entry>
+<entry>180</entry>
+<entry>0.56</entry>
+<entry>218.3</entry>
+<entry>1720</entry></row><!-- EPO <DP n="45"> -->
+<row>
+<entry>Comparative Example 2</entry>
+<entry>210.3</entry>
+<entry>89.5</entry>
+<entry>94.5</entry>
+<entry>92.5</entry>
+<entry>28.5</entry>
+<entry>160</entry>
+<entry>0.48</entry>
+<entry>219.5</entry>
+<entry>1650</entry></row>
+<row>
+<entry>Comparative Example 3</entry>
+<entry>206</entry>
+<entry>89.3</entry>
+<entry>94.3</entry>
+<entry>92.3</entry>
+<entry>27.1</entry>
+<entry>113</entry>
+<entry>0.45</entry>
+<entry>234.5</entry>
+<entry>1214</entry></row>
+<row>
+<entry>Embodiment 1</entry>
+<entry>206.3</entry>
+<entry>89.4</entry>
+<entry>94.6</entry>
+<entry>93.1</entry>
+<entry>25.1</entry>
+<entry>102</entry>
+<entry>0.37</entry>
+<entry>234</entry>
+<entry>1310</entry></row>
+<row>
+<entry>Embodiment 2</entry>
+<entry>207</entry>
+<entry>90.1</entry>
+<entry>98</entry>
+<entry>95.1</entry>
+<entry>15.2</entry>
+<entry>50</entry>
+<entry>0.12</entry>
+<entry>241.1</entry>
+<entry>1021</entry></row>
+<row>
+<entry>Embodiment 3</entry>
+<entry>207</entry>
+<entry>90</entry>
+<entry>97.9</entry>
+<entry>95</entry>
+<entry>15.5</entry>
+<entry>53</entry>
+<entry>0.13</entry>
+<entry>239.0</entry>
+<entry>1025</entry></row>
+<row>
+<entry>Embodiment 4</entry>
+<entry>207.1</entry>
+<entry>90.3</entry>
+<entry>97.6</entry>
+<entry>94.9</entry>
+<entry>15.5</entry>
+<entry>55</entry>
+<entry>0.14</entry>
+<entry>239.5</entry>
+<entry>1020</entry></row>
+<row>
+<entry>Embodiment 5</entry>
+<entry>207</entry>
+<entry>90</entry>
+<entry>97.5</entry>
+<entry>95</entry>
+<entry>16.8</entry>
+<entry>75</entry>
+<entry>0.21</entry>
+<entry>232.5</entry>
+<entry>1320</entry></row>
+<row>
+<entry>Embodiment 6</entry>
+<entry>206.6</entry>
+<entry>89.7</entry>
+<entry>97.8</entry>
+<entry>94.7</entry>
+<entry>15.8</entry>
+<entry>60</entry>
+<entry>0.16</entry>
+<entry>240.5</entry>
+<entry>1125</entry></row>
+<row>
+<entry>Embodiment 7</entry>
+<entry>206</entry>
+<entry>89.8</entry>
+<entry>97.5</entry>
+<entry>94.8</entry>
+<entry>16.6</entry>
+<entry>69</entry>
+<entry>0.19</entry>
+<entry>238.3</entry>
+<entry>1088</entry></row><!-- EPO <DP n="46"> -->
+<row>
+<entry>Embodiment 8</entry>
+<entry>198.5</entry>
+<entry>89.1</entry>
+<entry>96.4</entry>
+<entry>92.5</entry>
+<entry>17.5</entry>
+<entry>88</entry>
+<entry>0.21</entry>
+<entry>238.5</entry>
+<entry>1100</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0183" num="0183">As shown in Table 2, in the case of the battery of Comparative Example 1 using the positive active material that does not include the doping element, it may be confirmed that the discharge capacity is the highest at 213.1 mAh/g, but the room temperature and high temperature cycle lifespan characteristics are very low, the resistance increase rate is 180 %, and the average leakage current is also very high at 0.56 mA. Particularly, the DSC peak temperature, which represents a thermal safety index, is 218.3 °C, indicating that the thermal safety is very low.</p>
+<p id="p0184" num="0184">The cell of Comparative Example 2, using the positive active material doped with Zr alone has somehow stabilized the structure, and the room temperature and high temperature cycle lifespan characteristics are slightly improved compared to Comparative Example 1, but the average leakage current is still high, and also the DSC peak temperature had little improvement.</p>
+<p id="p0185" num="0185">When describing the cell of Comparative Example 3 using the positive active material doped with Zr and Al at the same time, when Al is doped at 1.7 mol%, the capacity slightly decreases, and the cycle lifespan characteristic and resistance increase rate were improved, particularly the DSC peak temperature was a large increase in 234.5 °C, but the leakage current and initial resistance were still high.</p>
+<p id="p0186" num="0186">On the other hand, in the case of the cell of Embodiment 1 using a positive active material doped with three elements of Zr, Al, and Ti at the same<!-- EPO <DP n="47"> --> time, it may be confirmed that the high temperature cycle lifespan characteristic and resistance increase rate are significantly improved compared to the comparative examples.</p>
+<p id="p0187" num="0187">In addition, in the case of Embodiment 2 using a positive active material doped with the quaternary elements of Zr, Al, Ti, and W at the same time, It may be confirmed that the discharge capacity was 207 mAh/g, the initial efficiency was 90.1 %, which was similar to the design value, particularly the temperature cycle lifespan and high temperature cycle lifespan characteristics, high temperature initial resistance, resistance increase rate, and average leakage current are significantly improved. Particularly, the DSC peak temperature is 241.1 °C, indicating a very high value even though the Ni content is 85 mol% or more.</p>
+<p id="p0188" num="0188">In addition, in the cell results of Embodiments 3, 4, 6, and 7 including a positive active material in which the amounts of Zr, Ti, and W are fixed constant and only the Al content is changed, the discharge capacity is excellent, as well as the initial efficiency, room temperature cycle lifespan, and high temperature, it can be seen that cycle lifespan characteristic, high temperature initial resistance, resistance increase rate, and average leakage current are improved, and the DSC peak temperature and calorific value characteristic are also improved.</p>
+<p id="p0189" num="0189">In the case of Embodiment 5 using a positive active material with an Al content of 0.007 mol, it may be confirmed that the excellent discharge capacity, initial efficiency, room temperature cycle lifespan characteristic, and high temperature cycle lifespan characteristic are exhibited, and low high<!-- EPO <DP n="48"> --> temperature initial resistance, resistance increase rate, and average leakage current are exhibited, and in the case of Embodiment 8 using a positive active material having an Al content of 0.033 mol, it may be confirmed that excellent initial efficiency, low high temperature initial resistance, and average leakage current are exhibited, and improved DSC peak temperature and calorific value characteristics are exhibited.</p>
+<p id="p0190" num="0190">From the results shown in Table 2, it may be confirmed that when the quaternary elements of Zr, Al, Ti, and W are doped into a positive active material including a high content of Ni, cell chemistry characteristics may be greatly improved.
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>(Table 3)</title>
+<tgroup cols="10">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="25mm"/>
+<colspec colnum="3" colname="col3" colwidth="19mm"/>
+<colspec colnum="4" colname="col4" colwidth="27mm"/>
+<colspec colnum="5" colname="col5" colwidth="27mm"/>
+<colspec colnum="6" colname="col6" colwidth="29mm"/>
+<colspec colnum="7" colname="col7" colwidth="26mm"/>
+<colspec colnum="8" colname="col8" colwidth="25mm"/>
+<colspec colnum="9" colname="col9" colwidth="24mm"/>
+<colspec colnum="10" colname="col10" colwidth="19mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry valign="top">Discharge capacity (mAh/g)</entry>
+<entry valign="top">initial efficiency (%)</entry>
+<entry valign="top">Room temperature lifespan (%)</entry>
+<entry valign="top">High temperature lifespan (%)</entry>
+<entry valign="top">High temperature initial resistance (Ω)</entry>
+<entry valign="top">Resistance increase rate (%)</entry>
+<entry valign="top">Average leakage current (mA)</entry>
+<entry valign="top">DSC peak temperature (°C)</entry>
+<entry valign="top">Calorific value (J/g)</entry></row></thead>
+<tbody>
+<row>
+<entry>Embodiment 9</entry>
+<entry>201.2</entry>
+<entry>90</entry>
+<entry>98.2</entry>
+<entry>94.8</entry>
+<entry>16.8</entry>
+<entry>62</entry>
+<entry>0.19</entry>
+<entry>240.2</entry>
+<entry>986</entry></row>
+<row>
+<entry>Embodiment 10</entry>
+<entry>208.7</entry>
+<entry>89.8</entry>
+<entry>97</entry>
+<entry>94</entry>
+<entry>20</entry>
+<entry>74</entry>
+<entry>0.24</entry>
+<entry>239.2</entry>
+<entry>1,032</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0191" num="0191">As shown in Table 3, in the case of Embodiment 10 using a positive<!-- EPO <DP n="49"> --> active material in which the amounts of Al, W, and Ti are kept constant and the amount of Zr doping is changed, it may be confirmed that the excellent discharge capacity, initial efficiency, room temperature cycle lifespan, and high temperature cycle lifespan characteristics are exhibited, and low high temperature initial resistance, resistance increase rate, average leakage current are exhibited, and the improved DSC peak temperature and calorific value are exhibited.</p>
+<p id="p0192" num="0192">In the case of Embodiment 9 using a positive active material with a Zr doping ratio of 0.002 mol, it may be confirmed that excellent initial efficiency, room temperature cycle lifespan, and high temperature cycle lifespan characteristics are exhibited, and the low high temperature initial resistance, resistance increase rate, and average leakage current are exhibited, while the improved DSC peak temperature and calorific value are exhibited.
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title>(Table 4)</title>
+<tgroup cols="10">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="25mm"/>
+<colspec colnum="3" colname="col3" colwidth="19mm"/>
+<colspec colnum="4" colname="col4" colwidth="27mm"/>
+<colspec colnum="5" colname="col5" colwidth="27mm"/>
+<colspec colnum="6" colname="col6" colwidth="29mm"/>
+<colspec colnum="7" colname="col7" colwidth="26mm"/>
+<colspec colnum="8" colname="col8" colwidth="25mm"/>
+<colspec colnum="9" colname="col9" colwidth="24mm"/>
+<colspec colnum="10" colname="col10" colwidth="19mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry valign="top">Discharge capacity (mAh/g)</entry>
+<entry valign="top">Initial efficiency (%)</entry>
+<entry valign="top">Room temperature lifespan (%)</entry>
+<entry valign="top">High temperature lifespan (%)</entry>
+<entry valign="top">High temperature initial resistance (Ω)</entry>
+<entry valign="top">Resistance increase rate (%)</entry>
+<entry valign="top">Average leakage current (mA)</entry>
+<entry valign="top">DSC peak temperature (°C)</entry>
+<entry valign="top">Calorific value (J/g)</entry></row></thead>
+<tbody>
+<row>
+<entry>Embodiment 11</entry>
+<entry>198</entry>
+<entry>89.6</entry>
+<entry>98.7</entry>
+<entry>96.1</entry>
+<entry>15.0</entry>
+<entry>56</entry>
+<entry>0.15</entry>
+<entry>238.7</entry>
+<entry>980</entry></row>
+<row>
+<entry>Embodiment 12</entry>
+<entry>205</entry>
+<entry>89.5</entry>
+<entry>98.1</entry>
+<entry>95.8</entry>
+<entry>18.2</entry>
+<entry>65</entry>
+<entry>0.21</entry>
+<entry>238.8</entry>
+<entry>1,120</entry></row><!-- EPO <DP n="50"> -->
+<row>
+<entry>Embodiment 13</entry>
+<entry>207</entry>
+<entry>90.1</entry>
+<entry>96.8</entry>
+<entry>94.2</entry>
+<entry>15.9</entry>
+<entry>60</entry>
+<entry>0.23</entry>
+<entry>236</entry>
+<entry>1,330</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0193" num="0193">As shown in Table 4, in the case of Embodiments 12 and 13 using positive active materials in which the amounts of Zr, Al, and Ti are kept constant and the amount of W doping is changed, it may be confirmed that the excellent discharge capacity, initial efficiency, room temperature cycle lifespan, and high temperature cycle lifespan characteristics are exhibited, the low high temperature initial resistance, resistance increase rate, and average leakage current are exhibited, and improved DSC peak temperature and calorific value are exhibited.</p>
+<p id="p0194" num="0194">In addition, in the case of Embodiment 10, where the W doping amount is 0.001 mol, the initial efficiency, room temperature cycle lifespan, and high temperature cycle lifespan characteristics are exhibited, the low high temperature initial resistance, resistance increase rate, and average leakage current are exhibited, and the improved DSC peak temperature and calorific value are exhibited.<!-- EPO <DP n="51"> -->
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<title>(Table 5)</title>
+<tgroup cols="10">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="25mm"/>
+<colspec colnum="3" colname="col3" colwidth="19mm"/>
+<colspec colnum="4" colname="col4" colwidth="27mm"/>
+<colspec colnum="5" colname="col5" colwidth="27mm"/>
+<colspec colnum="6" colname="col6" colwidth="29mm"/>
+<colspec colnum="7" colname="col7" colwidth="26mm"/>
+<colspec colnum="8" colname="col8" colwidth="25mm"/>
+<colspec colnum="9" colname="col9" colwidth="24mm"/>
+<colspec colnum="10" colname="col10" colwidth="19mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry valign="top">Discharge capacity (mAh/g)</entry>
+<entry valign="top">Initial efficiency (%)</entry>
+<entry valign="top">Room temperature lifespan (%)</entry>
+<entry valign="top">High temperature lifespan (%)</entry>
+<entry valign="top">High temperature initial resistance (Ω)</entry>
+<entry valign="top">Resistance increase rate (%)</entry>
+<entry valign="top">Average leakage current (mA)</entry>
+<entry valign="top">DSC peak temperature (°C)</entry>
+<entry valign="top">Calorific value (J/g)</entry></row></thead>
+<tbody>
+<row>
+<entry>Embodiment 14</entry>
+<entry>192</entry>
+<entry>92.1</entry>
+<entry>96.5</entry>
+<entry>93.3</entry>
+<entry>24.2</entry>
+<entry>88</entry>
+<entry>0.31</entry>
+<entry>239.3</entry>
+<entry>1,221</entry></row>
+<row>
+<entry>Embodiment 15</entry>
+<entry>207.3</entry>
+<entry>89.8</entry>
+<entry>98.2</entry>
+<entry>95.4</entry>
+<entry>16.7</entry>
+<entry>56</entry>
+<entry>0.17</entry>
+<entry>240.6</entry>
+<entry>1,110</entry></row>
+<row>
+<entry>Embodiment 16</entry>
+<entry>208</entry>
+<entry>90.2</entry>
+<entry>98.1</entry>
+<entry>95.6</entry>
+<entry>20</entry>
+<entry>84</entry>
+<entry>0.24</entry>
+<entry>240.2</entry>
+<entry>1,002</entry></row>
+<row>
+<entry>Embodiment 17</entry>
+<entry>207.3</entry>
+<entry>90.4</entry>
+<entry>98.2</entry>
+<entry>95.4</entry>
+<entry>15.1</entry>
+<entry>48</entry>
+<entry>0.11</entry>
+<entry>240</entry>
+<entry>1,003</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0195" num="0195">As shown in Table 5, in the case of Embodiment 15 using a positive active material in which the amounts of Zr, Al, and W are kept constant and the amount of Ti doping is changed, it may be confirmed that the excellent discharge capacity, initial efficiency, room temperature cycle lifespan, and high temperature cycle lifespan characteristics are exhibited, the low high temperature initial resistance, resistance increase rate, and average leakage current are exhibited, and the improved DSC peak temperature and calorific value are exhibited.</p>
+<p id="p0196" num="0196">In the case of Embodiment 14, in which the Ti doping ratio is 0.004 mol,<!-- EPO <DP n="52"> --> it may be confirmed that the excellent initial efficiency, room temperature cycle lifespan, and high temperature cycle lifespan characteristics are exhibited, and the improved DSC peak temperature and calorific value are exhibited.</p>
+<p id="p0197" num="0197">In the case of Embodiment 16 where the Ti doping ratio is 0.0005 mol, it may be confirmed that the excellent discharge capacity, initial efficiency, room temperature cycle lifespan, and high temperature cycle lifespan characteristic are exhibited, the low high temperature initial resistance is exhibited, and the improved DSC peak temperature and calorific value are exhibited.</p>
+<p id="p0198" num="0198">In addition, even in the case of Embodiment 17 in which the ternary doping element is used and a positive active material having no core-shell concentration gradient is applied at the same time, it may be confirmed that the excellent initial efficiency, room temperature cycle lifespan, and high temperature cycle lifespan characteristics are exhibited, and the improved DSC peak temperature and calorific value are exhibited.</p>
+<p id="p0199" num="0199">The present invention may be embodied in many different forms, and should not be construed as being limited to the disclosed embodiments. In addition, it will be understood by those skilled in the art that various changes in form and details may be made thereto without departing from the technical spirit and essential features of the present invention. Therefore, it is to be understood that the above-described exemplary embodiments are for illustrative purposes only and the scope of the present invention is not limited thereto.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="53"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A positive active material for a lithium secondary battery comprises lithium, nickel, cobalt, manganese, and a doping element,<br/>
+wherein the doping element includes Zr, Al, and Ti.</claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The positive active material for the lithium secondary battery of claim 1, wherein<br/>
+the doping ratio of Zr is 0.1 mol% to 0.5 mol% with respect to 100 mol% of nickel, cobalt, manganese, and the doping element.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The positive active material for the lithium secondary battery of claim 1, wherein<br/>
+the doping ratio of Al is 0.7 mol% to 3.3 mol% with respect to 100 mol% of nickel, cobalt, manganese, and the doping element.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The positive active material for the lithium secondary battery of claim 1, wherein<br/>
+the doping ratio of Ti is 0.05 mol% to 0.4 mol% with respect to 100 mol% of nickel, cobalt, manganese, and the doping element.<!-- EPO <DP n="54"> --></claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The positive active material for the lithium secondary battery of claim 1, wherein<br/>
+the doping element further includes W.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The positive active material for the lithium secondary battery of claim 5, wherein<br/>
+the doping ratio of W is 0.03 mol% to 0.1 mol% with respect to 100 mol% of nickel, cobalt, manganese, and the doping element.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The positive active material for the lithium secondary battery of claim 1, wherein<br/>
+the positive active material for the lithium secondary battery is represented by Chemical Formula 1 below:
+<claim-text>[Chemical Formula 1]</claim-text>
+<claim-text>Li<sub>a1[</sub>Ni<sub>x1</sub>Co<sub>y1</sub>Mn<sub>z1</sub>]t<sub>1</sub>(Zr<sub>h1</sub>Alg<sub>1</sub>Ti<sub>u1</sub>)O<sub>2-</sub>pX<sub>1p</sub></claim-text>
+<claim-text>(in Chemical Formula 1,</claim-text>
+<claim-text>X1 is at least one element selected from a group including F, N, and P,</claim-text>
+<claim-text>a1 is 0.8≤a1 ≤ 1.3,</claim-text>
+<claim-text>t1 is 0.9580 ≤ t1 ≤ 0.9915, and<!-- EPO <DP n="55"> --></claim-text>
+<claim-text>0.6 ≤ x1 ≤ 0.95, 0 &lt; y1 ≤ 0.2, 0 &lt; z1 ≤ 0.2, 0.0010 ≤ h1 ≤ 0.005, 0.007 ≤ g1 ≤ 0.033, 0.0005 ≤ u1 ≤ 0.004, and 0 ≤ p ≤ 0.02).</claim-text></claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>The positive active material for the lithium secondary battery of claim 5, wherein<br/>
+the positive active material for the lithium secondary battery is represented by Chemical Formula 2 below:
+<claim-text>[Chemical Formula 2]</claim-text>
+<claim-text>Li<sub>a2[</sub>Ni<sub>x2</sub>Coy<sub>2</sub>Mn<sub>z2</sub>]t<sub>2</sub>(Zr<sub>h2</sub>Alg<sub>2</sub>W<sub>j</sub>Ti<sub>u2</sub>)O<sub>2-p</sub>X2p</claim-text>
+<claim-text>(in Chemical Formula 2,</claim-text>
+<claim-text>X2 is at least one element selected from a group including F, N, and P,</claim-text>
+<claim-text>a2 is 0.8 ≤ a2 ≤ 1.3,</claim-text>
+<claim-text>t2 is 0.9570 ≤ t2 ≤ 0.9912, and</claim-text>
+<claim-text>0.6 ≤ x2 ≤ 0.95, 0 &lt; y2 ≤ 0.2, 0 &lt; z2 ≤ 0.2, 0.001 ≤ h2 ≤ 0.005, 0.007≤ g2 ≤ 0.033, 0.0003 ≤ j ≤ 0.001, 0.0005 ≤ u2 ≤ 0.004, and 0 ≤ p ≤ 0.02).</claim-text></claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>The positive active material for the lithium secondary battery of claim 1, wherein<br/>
+the positive active material for the lithium secondary battery has a ratio I (003)/l (104) of a peak intensity on a 003 plane to a peak intensity on a 104<!-- EPO <DP n="56"> --> plane of 1.1 to 1.2 when measuring an X-ray diffraction pattern.</claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>The positive active material for the lithium secondary battery of claim 1, wherein<br/>
+for the positive active material for the lithium secondary battery, when measuring an X-ray diffraction pattern, an a-axis length (La) is 2.8500 Å to 2.8800 Å, a c-axis length (Lc) is 14.1800 Å to 14.2900 Å, and a distance ratio (c/a) between a crystal axis of the c-axis length to the a-axis length is 4.93 to 5.0.</claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>The positive active material for the lithium secondary battery of claim 1, wherein
+<claim-text>for the positive active material for the lithium secondary battery when measuring an X-ray diffraction pattern,</claim-text>
+<claim-text>an average grain size (a crystalline size, Lc) is 80 nm to 140 nm,</claim-text>
+<claim-text>and an R-factor value represented by Equation 1 is 0.52 to 0.55,</claim-text>
+<maths id="math0004" num="[Equation 1]"><math display="block"><mi>R-factor</mi><mo>=</mo><mfenced open="{" close="}" separators=""><mi mathvariant="normal">I</mi><mspace width="1ex"/><mi>006</mi><mo>+</mo><mi mathvariant="normal">I</mi><mspace width="1ex"/><mi>102</mi></mfenced><mo>/</mo><mi mathvariant="normal">I</mi><mspace width="1ex"/><mi>101</mi><mi mathvariant="normal">.</mi></math><img id="ib0004" file="imgb0004.tif" wi="54" he="14" img-content="math" img-format="tif"/></maths></claim-text></claim>
+<claim id="c-en-0012" num="0012">
+<claim-text>A lithium secondary battery comprising:<!-- EPO <DP n="57"> -->
+<claim-text>a positive electrode including a positive active material of any one of claim 1 to claim 11;</claim-text>
+<claim-text>a negative electrode; and</claim-text>
+<claim-text>a non-aqueous electrolyte.</claim-text></claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="58"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="102" he="187" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="59"> -->
+<figure id="f0002" num="2A,2B"><img id="if0002" file="imgf0002.tif" wi="72" he="176" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="153" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="153" he="233" type="tif"/></search-report-data>
+</ep-patent-document>

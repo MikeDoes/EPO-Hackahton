@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP20845090A1" file="EP20845090NWA1.xml" lang="en" country="EP" doc-number="3889252" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3889252</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>20845090.8</B210><B220><date>20200722</date></B220><B240><B241><date>20210629</date></B241></B240><B250>ko</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>20190088576</B310><B320><date>20190722</date></B320><B330><ctry>KR</ctry></B330><B310>20200090266</B310><B320><date>20200721</date></B320><B330><ctry>KR</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>C12N   5/00        20060101AFI20210129BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C12N  11/08        20200101ALI20210129BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>C12N  11/08        20130101 LI20210223BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>C12N   5/00        20130101 LI20210223BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>MIKROTRÄGER FÜR ZELLKULTUR, VERFAHREN ZU SEINER HERSTELLUNG UND ZELLKULTURVERFAHREN DAMIT</B542><B541>en</B541><B542>CELL CULTURE MICROCARRIER, METHOD FOR PRODUCING SAME, AND CELL CULTURE METHOD USING SAME</B542><B541>fr</B541><B542>MICROSUPPORT POUR CULTURE CELLULAIRE, SON PROCÉDÉ DE PRODUCTION, ET PROCÉDÉ DE CULTURE CELLULAIRE L'UTILISANT</B542></B540><B590><B598>1</B598></B590></B500><B700><B710><B711><snm>LG Chem, Ltd.</snm><iid>101886670</iid><irf>L13787WOEP</irf><adr><str>128, Yeoui-daero, 
+Yeongdeungpo-gu,</str><city>Seoul 07336,</city><ctry>KR</ctry></adr></B711></B710><B720><B721><snm>KIM, Jee Seon</snm><adr><str>LG Chem Research Park, 188, Munji-ro, Yuseong-gu</str><city>Daejeon 34122</city><ctry>KR</ctry></adr></B721><B721><snm>SHIN, Jung Youn</snm><adr><str>LG Chem Research Park, 188, Munji-ro, Yuseong-gu</str><city>Daejeon 34122</city><ctry>KR</ctry></adr></B721><B721><snm>KIM, Chanjoong</snm><adr><str>LG Chem Research Park, 188, Munji-ro, Yuseong-gu</str><city>Daejeon 34122</city><ctry>KR</ctry></adr></B721><B721><snm>KIM, Minchae</snm><adr><str>LG Chem Research Park, 188, Munji-ro, Yuseong-gu</str><city>Daejeon 34122</city><ctry>KR</ctry></adr></B721><B721><snm>KIM, Yunseop</snm><adr><str>LG Chem Research Park, 188, Munji-ro, Yuseong-gu</str><city>Daejeon 34122</city><ctry>KR</ctry></adr></B721><B721><snm>KIM, Chang Young</snm><adr><str>LG Chem Research Park, 188, Munji-ro, Yuseong-gu</str><city>Daejeon 34122</city><ctry>KR</ctry></adr></B721><B721><snm>NAM, Seung Woo</snm><adr><str>LG Chem Research Park, 188, Munji-ro, Yuseong-gu</str><city>Daejeon 34122</city><ctry>KR</ctry></adr></B721></B720><B740><B741><snm>Goddar, Heinz J.</snm><iid>100002032</iid><adr><str>Boehmert &amp; Boehmert 
+Anwaltspartnerschaft mbB 
+Pettenkoferstrasse 22</str><city>80336 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>KR2020009642</anum></dnum><date>20200722</date></B861><B862>ko</B862></B860><B870><B871><dnum><pnum>WO2021015547</pnum></dnum><date>20210128</date><bnum>202104</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">The present disclosure relates to a microcarrier that has excellent adhesion to cells and also is easily isolated from cells after culturing, a method for producing the same, and a cell culture method using the same.<img id="iaf01" file="imgaf001.tif" wi="165" he="63" img-content="drawing" img-format="tif"/></p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001"><b>[TECHNICAL FIELD]</b></heading>
+<heading id="h0002">CROSS-REFERENCE TO RELATED APPLICATION(S)</heading>
+<p id="p0001" num="0001">This application claims the benefit of <patcit id="pcit0001" dnum="KR1020190088576"><text>Korean Patent Application Nos. 10-2019-0088576 filed on July 22, 2019</text></patcit> and <patcit id="pcit0002" dnum="KR1020200090266"><text>Korean Patent Application No. 10-2020-0090266 filed on July 21, 2020</text></patcit> in the Korean Intellectual Property Office, each of which is incorporated herein by reference in its entirety.</p>
+<p id="p0002" num="0002">The present disclosure relates to a microcarrier for cell culture, a method for producing the same, and a cell culture method using the same.</p>
+<heading id="h0003"><b>[BACKGROUND OF THE INVENTION]</b></heading>
+<p id="p0003" num="0003">Along with the expansion of the fields of biopharmaceuticals and regenerative medicine, the need for the large-scale cell culture technology capable of efficiently producing cells, tissues, microorganisms, and the like is growing.</p>
+<p id="p0004" num="0004">Adherent cells are cultured using a microcarrier within a 3D bioreactor. A cell, a culture medium, and a microcarrier are put in a bioreactor, and the culture medium is stirred to make contact with the cell and the microcarrier, so that the cells are adhered to the microcarrier surface to culture. The microcarriers used at this time are suitable for the large-scale culture of cells because they provide a high surface area/volume on which cells can adhere and grow.</p>
+<p id="p0005" num="0005">Currently commercially used microcarriers have a density of about 1.1 to 1.3 g/cm<sup>3</sup>, and the density of cells is about 1.2 g/cm<sup>3</sup>. In this case, it is advantageous to adhere cells at early stages of culture within the bioreactor, but at the time of isolating and recovering cells after culturing, a centrifugal separation is difficult, and filtering methods based on the microcarriers and cell size should be utilized. However, in this case, there is a problem that the filter is clogged or the process time is long, and the physical damage and contamination of cells can easily occur, which can lead to loss of cells.<!-- EPO <DP n="2"> --></p>
+<p id="p0006" num="0006">In order to solve the above problems, microcarriers were produced using the properties of a material having a density lower than 1.0 g/cm<sup>3</sup> or higher than 1.3 g/cm<sup>3</sup>, but in this case, there is a disadvantage that the range of densities that can be implemented is limited, and the floatability of microcarriers cannot be adjusted in conformity to the culture conditions.</p>
+<p id="p0007" num="0007">Therefore, there is a need to develop a new microcarrier that can be more easily isolated at the time of isolating and recovering the microcarriers and the cells after culturing the cells, while adjusting the floatability of particles in conformity to the culture conditions in the aqueous solution.</p>
+<heading id="h0004"><b>[BRIEF SUMMARY OF THE INVENTION]</b></heading>
+<p id="p0008" num="0008">The present disclosure provides a microcarrier that has excellent adhesion to cells and also is easily isolated from cells after culturing.</p>
+<p id="p0009" num="0009">The present disclosure also provides a method for producing a microcarrier that has excellent adhesion to cells and also is easily isolated from cells after culturing.</p>
+<p id="p0010" num="0010">The present disclosure further provides a cell culture method using the microcarrier that has excellent adhesion to cells and also is easily isolated from cells after culturing.</p>
+<p id="p0011" num="0011">Provided herein is a microcarrier for cell culture comprising: a foam core containing polystyrene; a primer polymer layer formed on the surface of the foam core; and a cell adhesion-inducing layer formed on the surface of the primer polymer layer, wherein the microcarrier has a density of 0.80 g/cm<sup>3</sup> to 0.99 g/cm<sup>3</sup>.</p>
+<p id="p0012" num="0012">Also provided herein is a method for producing a microcarrier for cell culture, the method comprising the steps of: heating an aqueous solution containing polystyrene containing a foaming agent; foaming the foaming agent to produce a foam core; and recovering and drying the produced foam core and then applying a primer polymer layer to the surface of the foam core.</p>
+<p id="p0013" num="0013">Further provided herein is a cell culture method using a microcarrier for cell culture comprising: a foam core containing polystyrene; a primer polymer layer formed on the surface of the foam core; and a cell adhesion-inducing layer formed on the surface of the primer polymer layer, wherein the microcarrier has a density of 0.80 g/cm<sup>3</sup> to 0.99 g/cm<sup>3</sup>.<!-- EPO <DP n="3"> --></p>
+<heading id="h0005"><b>[DETAILED DESCRIPTION OF THE INVENTION]</b></heading>
+<p id="p0014" num="0014">Hereinafter, a microcarrier for cell culture according to a specific embodiment of the present disclosure, a method for producing the same, and a cell culture method using the same will be described in more detail.</p>
+<p id="p0015" num="0015">The terms used herein are used only to describe exemplary embodiments, and are not intended to limit the present disclosure. Singular expression includes a plural expression unless they have definitely opposite meanings in the context. It should be understood that the terms "comprise", "include", and "have" as used herein are intended to designate the presence of stated features, numbers, steps, constitutional elements, or combinations thereof, but it should be understood that they do not preclude a possibility of existence or addition of one or more other features, numbers, steps, constitutional elements, or combinations thereof.</p>
+<p id="p0016" num="0016">Since the present disclosure may be modified in various forms, and may have various embodiments, the following exemplary embodiments are illustrated and described in detail. However, this is not intended to limit the present disclosure to specific embodiments, and the present disclosure should be construed to encompass various changes, equivalents, and substitutions without departing from the technical scope and spirit.</p>
+<p id="p0017" num="0017">According to one exemplary embodiment of the present disclosure, there can be provided a microcarrier for cell culture comprising: a foam core containing polystyrene; a primer polymer layer formed on the surface of the foam core; and a cell adhesion-inducing layer formed on the surface of the primer polymer layer, wherein the microcarrier has a density of 0.80 g/cm<sup>3</sup> to 0.99 g/cm<sup>3</sup>.</p>
+<p id="p0018" num="0018">The present inventors have conducted research on microcarriers for cell culture, and confirmed through experiments that when cells are cultured by using a microcarrier comprising: a foam core containing polystyrene; a primer polymer layer formed on the surface of the foam core; and a cell adhesion-inducing layer formed on the surface of the primer polymer layer, wherein the microcarrier has a density of 0.80 g/cm<sup>3</sup> to 0.99 g/cm<sup>3</sup>, the microcarrier and the cells can be easily isolated by using the difference in sedimentation velocity due to gravity after cell culture, while adjusting the fluidity in conformity to the stirring process in an incubator to improve the adhesion to cells, thereby completing the present disclosure.<!-- EPO <DP n="4"> --></p>
+<p id="p0019" num="0019">The microcarrier of the exemplary embodiment is a microcarrier which includes a foam core containing polystyrene, and a primer polymer layer primarily formed on the surface of the foam core, and also includes a cell adhesion-inducing layer secondarily formed on the surface of the primer polymer layer.</p>
+<p id="p0020" num="0020">In this case, the microcarrier may have a density of 0.80 to 0.99 g/cm<sup>3</sup>, or 0.85 to 0.99 g/cm<sup>3</sup>, or 0.90 to 0.99 g/cm<sup>3</sup>, or 0.95 to 0.99 g/cm<sup>3</sup>.</p>
+<p id="p0021" num="0021">When the microcarrier has a density in the above range, the cell and the microcarrier can be easily isolated through the difference in sedimentation velocity due to gravity when isolating and recovering the microcarrier and the cell after culturing the cell.</p>
+<p id="p0022" num="0022">When the density of the microcarrier exceeds 0.99 g/cm<sup>3</sup>, the density difference between cells and microcarriers is small, and so centrifugal separation may be difficult during cell isolation and recovery after culture. When the density is less than 0.80 g/cm<sup>3</sup>, it may be difficult to adhere cells to microcarriers at early stages of culture.</p>
+<p id="p0023" num="0023">Meanwhile, the foam core of the microcarrier may have a closed cell structure. Usually, the porous structure contains a large number of pores, and the large number of pores may be classified into, for example, two types of closed pores or opened pores. The porous structure may be formed in a structure containing either each of them or both of them.</p>
+<p id="p0024" num="0024">The closed pores may be pores in which all of the wall surfaces of the pores are formed in a closed structure and thus are not connected to other pores, and are also referred to as closed cells. The opened pores are pores in which at least a part of the wall surfaces of the pores are formed in an opened structure and are connected to other pores, and may be referred to as opened cells.</p>
+<p id="p0025" num="0025">When the foam core of the microcarrier has a closed cell structure, it is possible to prevent the culture medium from penetrating into the microcarrier during cell culture, and thus, it can be adjusted so that the microcarrier has a density in the above range, and when isolating and recovering microcarriers and cells after culturing the cells, the cells and the microcarriers can be easily isolated through the difference in sedimentation velocity due to gravity.</p>
+<p id="p0026" num="0026">At this time, when the foam core of the microcarrier has an opened cell structure rather than a closed cell structure, there is a problem that a culture medium penetrates into the microcarrier during culture, thereby increasing the density of the microcarrier.</p>
+<p id="p0027" num="0027">On the other hand, the culture medium permeation rate can be confirmed by the change in<!-- EPO <DP n="5"> --> the density of the microcarriers before and after culturing. In other words, it can be confirmed from the following general formula 1, wherein d<sub>2</sub> is the density of microcarrier before culturing, d<sub>3</sub> is the density of microcarrier after culturing, and d<sub>m</sub> is the density of the culture medium. And p means the volume ratio of pores in the microcarrier. <maths id="math0001" num="[General Formula 1]"><math display="block"><mi>Culture</mi><mspace width="1ex"/><mi>medium</mi><mspace width="1ex"/><mi>permeation</mi><mspace width="1ex"/><mi>rate</mi><mfenced><mi>%</mi></mfenced><mo>=</mo><mfrac><mrow><msub><mi>d</mi><mn>3</mn></msub><mo>−</mo><msub><mi>d</mi><mn>2</mn></msub></mrow><msub><mi>d</mi><mi>m</mi></msub></mfrac><mo>×</mo><mfrac><mn>1</mn><mi>p</mi></mfrac><mo>×</mo><mn>100</mn></math><img id="ib0001" file="imgb0001.tif" wi="106" he="21" img-content="math" img-format="tif"/></maths></p>
+<p id="p0028" num="0028">For example, the foam core may have a culture medium permeation rate in the range of 0 vol% to 30 vol% of the internal pore volume at the time of culturing cells at 37°C for 72 hours.</p>
+<p id="p0029" num="0029">As described above, the foam core has a closed cell structure and can prevent the culture medium from penetrating into the microcarrier during the cell culture. Thus, the permeation rate of the culture medium during cell culture can be adjusted within the above range.</p>
+<p id="p0030" num="0030">At this time, when the culture medium penetration rate exceeds 30 vol% of the internal pore volume at the time of culturing cells at 37°C for 72 hours, the density of the microcarriers increases, and so centrifugal separation may be difficult at the time of isolating and recovering cells after culturing.</p>
+<p id="p0031" num="0031">Meanwhile, the foam core may be produced by heating an aqueous solution containing polystyrene containing a foaming agent and then foaming the foaming agent, as in the method of producing a microcarrier described later.</p>
+<p id="p0032" num="0032">At this time, after increasing the temperature of the aqueous solution containing polystyrene containing the foaming agent, the immersion time in the aqueous solution is adjusted to induce foaming of the foaming agent, thereby adjusting the internal porosity of the foam core.</p>
+<p id="p0033" num="0033">Meanwhile, the foam core may have pores of 2% to 30%, or 5% to 30%, or 5% to 25% of the volume of the foam therein. That is, the foam core may have an internal porosity of 2% to 30%, or 5% to 30%, or 5% to 25%. The internal porosity means a ratio (or percentage) of the volume of pores formed inside the foam core to the total volume of the foam core. The internal porosity can be measured using various porosimeters or the like by applying a known method without limitation.</p>
+<p id="p0034" num="0034">Through the adjustment of the internal porosity of the foam core, the floatability of the microcarrier can be adjusted for each cell to be suitable for the culture and isolation process. The<!-- EPO <DP n="6"> --> floatability of the foam core in the aqueous solution can be adjusted in conformity to the cell culture conditions to increase the adhesion between microcarriers and cells, and it can be easily purified by utilizing the density difference after cell detachment.</p>
+<p id="p0035" num="0035">On the other hand, the primer polymer layer serves as an adhesive layer capable of introducing a functional polymer onto the surface of polystyrene having no functional group, whereby a polymer layer for cell adhesion is effectively introduced onto the surface of the microcarrier so as to be stably maintained even during culture.</p>
+<p id="p0036" num="0036">Examples of the primer polymer layer may include, but are not particularly limited to, any one or more one selected from the group consisting of L-dihydroxy phenylalanine (L-DOPA), dopamine, norepinephrine, epinephrine, epigallocatechin, and derivatives thereof as catechol derivatives capable of inducing water-phase adhesion.</p>
+<p id="p0037" num="0037">Meanwhile, the cell adhesion-inducing layer is composed of cell adhesion materials, which serve to provide a place where transmembrane proteins of cells can bind, and allow adherent cells to stably adhere, spread and culture.</p>
+<p id="p0038" num="0038">Examples of the polymer forming the cell adhesion-inducing layer may include, but are not particularly limited to, any one or more selected from the group consisting of gelatin, collagen, fibronectin, chitosan, polydopamine, poly L-lysine, vitronectin, peptide containing RGD, lignin, cationic dextran, and derivatives thereof.</p>
+<p id="p0039" num="0039">The microcarrier includes a primer polymer layer formed on the surface of the foam core containing polystyrene, and by modifying the surface of the microcarrier to be hydrophilic, it can exhibit the effects of being water-dispersed, stably introducing a cell adhesion-inducing layer onto the surface of the primer polymer layer to adjust the floatability of microcarriers in the culture medium, and stably adhering and culturing cells.</p>
+<p id="p0040" num="0040">Meanwhile, the ratio of the radius of the foam core to the thickness of the primer polymer layer may be 1:0.00001 to 1:0.01, or 1:0.0001 to 1:0.001.</p>
+<p id="p0041" num="0041">When the ratio of the radius of the foam core to the thickness of the surface coating layer is less than 1:0.00001, the primer polymer layer is too thin relative to the foam core, so the effect of modifying the microcarrier surface to be hydrophilic is insignificant. When the ratio exceeds 1:0.01, the primer polymer layer becomes thicker relative to the foam core, which may reduce the adhesion between cells and microcarriers during the cell culture.<!-- EPO <DP n="7"> --></p>
+<p id="p0042" num="0042">Meanwhile, the microcarrier may have an average diameter of 50 to 800 um, or 100 to 700 um, or 120 to 600 um, or 150 to 500 um. When the average diameter of the microcarrier satisfies the above range, the cell adhesion and culture performance are excellent.</p>
+<p id="p0043" num="0043">Meanwhile, when the average diameter of the microcarrier is less than 50 um, there is a possibility that the content of the foaming agent is lowered, the foaming efficiency decreases, and the surface area for enabling cell culture is small and thus, the culture efficiency is lowered. When the average diameter exceeds 800 um, there may be a problem that the interaction between adherent cells is reduced, the density of cells in the incubator is reduced, and the cell culture efficiency is reduced, which is not preferable.</p>
+<p id="p0044" num="0044">Meanwhile, the microcarrier may have a specific surface area of 50 to 2000 cm<sup>2</sup>/g, or 70 to 1500 cm<sup>2</sup>/g, or 100 to 800 cm<sup>2</sup>/g, or 150 to 500 cm<sup>2</sup>/g. The specific surface area can be measured by applying a known BET (Brunauer-Emmett-Teller) measurement method without limitation.</p>
+<p id="p0045" num="0045">As described above, the foam core may increase the specific surface area of the microcarrier through volume expansion. When the microcarrier satisfies the specific surface area in the above range, the adhesion between cells and microcarriers is maximized, thus making it more suitable for the large-scale culture of cells.</p>
+<p id="p0046" num="0046">When the specific surface area of the microcarrier exceeds 2000 cm<sup>2</sup> /g, the size of the microcarrier becomes small and thus, it may be difficult to isolate microcarriers and cells after culturing the cells. When the specific surface area is less than 50 cm<sup>2</sup>/g, the number of microcarriers inside the bioreactor is greatly reduced, so that initial microcarrier and cell adhesion and culture efficiency may be reduced.</p>
+<p id="p0047" num="0047">On the other hand, <figref idref="f0002">FIG. 3</figref> shows the analysis results of an FT-IR spectrum of a foam containing polystyrene, and specifically, each spectrum of <figref idref="f0002">FIG. 3</figref> has the following meaning.
+<ul id="ul0001" list-style="dash" compact="compact">
+<li>Spectrum 1: Gelatin on the surface of polystyrene foam</li>
+<li>Spectrum 2: Gelatin on the surface of polystyrene foam to which the polydopamine layer was introduced</li>
+<li>Spectrum 3: Polydopamine on the surface of polystyrene foam</li>
+<li>Spectrum 4: Gelatin and polydopamine layer on the surface of polystyrene foam to which the polydopamine layer was introduced</li>
+</ul></p>
+<p id="p0048" num="0048">According to <figref idref="f0002">FIG. 3</figref>, in the light of the characteristic peak intensity of gelatin based on the<!-- EPO <DP n="8"> --> amide bond of 1650 cm<sup>-1</sup> and an amine functional group of the region of 3300-3400 cm<sup>-1</sup> shown in the spectrum, it can be seen that the cell adhesion-inducing layer (gelatin layer) was more stably introduced into the polystyrene foam to which the primer polymer layer (polydopamine layer) was introduced.</p>
+<p id="p0049" num="0049">On the other hand, <figref idref="f0003">FIG. 4</figref> shows the results of SEM analysis of the polystyrene surface before and after foaming of polystyrene containing a foaming agent and after coating the primer polymer layer. Through the comparison of the shapes of polystyrene corresponding to each case of <figref idref="f0003">FIG. 4</figref>, it can be confirmed that during the foaming process, the surface roughness of the particles increases and microcracks may occur, but through the primer polymer layer coating process, the cracks on the particle surface were recovered and the roughness was alleviated.</p>
+<p id="p0050" num="0050">On the other hand, according to another embodiment of the disclosure, there can be provided a method for producing a microcarrier for cell culture, the method comprising the steps of: heating an aqueous solution containing polystyrene containing a foaming agent; foaming the foaming agent to produce a foam core; and recovering and drying the produced foam core and then applying a primer polymer layer to the surface of the foam core.</p>
+<p id="p0051" num="0051">The polystyrene particles may be obtained by performing suspension polymerization of a polymer of a styrene-based monomer such as styrene, α-methylstyrene, or a styrene-based monomer and a monomer copolymerizable therewith, and examples thereof are not particularly limited.</p>
+<p id="p0052" num="0052">For example, water, a monomer containing styrene, an initiator, and a surfactant are charged into a reactor to perform primary polymerization, and then the synthesized spherical polystyrene particles are sealed in a reactor, and a foaming agent is injected therein, thereby being able to obtain polystyrene containing a foaming agent.</p>
+<p id="p0053" num="0053">At this time, examples of the foaming agent may include, but are not particularly limited to, any one or more selected from the group consisting of a physical foaming agent, a chemical foaming agent, an inorganic foaming agent, and mixtures thereof.</p>
+<p id="p0054" num="0054">For example, the physical foaming agent may be a low-boiling point liquid and an organic solvent, such as butane, pentane, hexane, 2-methylbutane, cyclohexane, neopentane, heptane, isoheptane, benzene, toluene, methyl chloride, trichlorethylene, dichloroethane, methylene chloride, trichlorofluoromethane, Freon 11, Freon 12, Freon 13, Freon 113, Freon 114, and the like.</p>
+<p id="p0055" num="0055">The method for producing the microcarrier according to the embodiment of the disclosure<!-- EPO <DP n="9"> --> may include a step of heating the aqueous solution containing polystyrene containing a foaming agent, and foaming the foaming agent to produce a foam core.</p>
+<p id="p0056" num="0056">At this time, after increasing the temperature of the aqueous solution containing polystyrene containing the foaming agent, the immersion time in the aqueous solution is adjusted to induce foaming of the foaming agent, thereby adjusting the internal porosity of the foam core.</p>
+<p id="p0057" num="0057">Specifically, the step of heating the aqueous solution containing polystyrene containing a foaming agent may include a step of heat-treating at 50°C to 150°C, or 80°C to 120°C, or 90°C to 110°C for 1 to 10 minutes, or 2 to 8 minutes, or 3 to 5 minutes.</p>
+<p id="p0058" num="0058">As described above, the foam core may have pores of 2% to 30%, or 5% to 30%, or 5% to 25% of the volume of the foam therein. That is, the foam core may have an internal porosity of 2% to 30%, or 5% to 30%, or 5% to 25%. The internal porosity means a ratio (or percentage) of the volume of pores formed inside the foam core to the total volume of the foam core, and the internal porosity can be measured using various porosimeters or the like by applying a known method without limitation.</p>
+<p id="p0059" num="0059">Through the adjustment of the internal porosity of the foam core, the floatability of the microcarrier can be adjusted for each cell to be suitable for the culture and isolation process. The floatability of the foam core in the aqueous solution can be adjusted in conformity to the cell culture conditions to increase the adhesion between the microcarriers and the cells, and it can be easily purified by utilizing the density difference after cell detachment.</p>
+<p id="p0060" num="0060">Meanwhile, the foam core of the microcarrier may have a closed cell structure. When the foam core of the microcarrier has a closed cell structure, it is possible to prevent the culture medium from penetrating into the microcarrier during cell culture, and thus, it can be adjusted so that the microcarrier has a density in the range of 0.80 to 0.99 g/cm<sup>3</sup>, and when isolating and recovering microcarriers and cells after culturing the cells, the cells and microcarriers can be easily isolated through the difference in sedimentation velocity due to gravity.</p>
+<p id="p0061" num="0061">On the other hand, the method for producing the microcarrier according to the embodiment of the disclosure may include a step of recovering and drying the produced foam core and then applying a primer polymer layer to the surface of the foam core after the step of foaming a foaming agent to produce a foam core.</p>
+<p id="p0062" num="0062">Specifically, the step of recovering and drying the produced foam core and then applying a<!-- EPO <DP n="10"> --> primer polymer layer to the surface of the foam core may include a step of immersing the foam core in the primer polymer solution for 1 to 10 hours, or 2 to 6 hours, or 3 to 5 hours.</p>
+<p id="p0063" num="0063">Examples of the primer polymer layer may include, but are not particularly limited to, any one or more selected from the group consisting of L-dihydroxy phenylalanine (L-DOPA), dopamine, norepinephrine, epinephrine, epigallocatechin, and derivatives thereof as catechol derivatives capable of inducing water-phase adhesion.</p>
+<p id="p0064" num="0064">By recovering and drying the produced foam core and then applying a primer polymer layer to the surface of the foam core, and thus, modifying the surface of the microcarrier to be hydrophilic, it can exhibit the effect of being water-dispersed, stably introducing a cell adhesion-inducing layer to adjust the floatability of the microcarrier, and stably adhering and culturing cells.</p>
+<p id="p0065" num="0065">At this time, the ratio of the radius of the foam core to the thickness of the primer polymer layer may be 1:0.00001 to 1:0.01, or 1:0.0001 to 1:0.001.</p>
+<p id="p0066" num="0066">Details of the radius of the foam core and the thickness of the primer polymer layer include the contents described above for the embodiment of the disclosure.</p>
+<p id="p0067" num="0067">On the other hand, the method for producing the microcarrier according to the embodiment of the disclosure may further include a step of coating with a solution containing any one or more selected from the group consisting of gelatin, collagen, fibronectin, chitosan, polydopamine, poly L-lysine, vitronectin, peptide containing RGD, lignin, cationic dextran, and derivatives thereof after the step of recovering and drying the produced foam core and then applying a primer polymer layer to the surface of the foam.</p>
+<p id="p0068" num="0068">The solution containing any one or more selected from the group consisting of gelatin, collagen, fibronectin, chitosan, polydopamine, poly L-lysine, vitronectin, peptide containing RGD, lignin, cationic dextran, and derivatives thereof can act as an adhesion factor that adheres cells to microcarriers. Thus, when the primer polymer layer is coated with a solution containing the gelatin or the like, the adhesion between cells and microcarriers can be increased, and thus, it can be more suitable for the large-scale culture of cells.</p>
+<p id="p0069" num="0069">Specifically, the step of coating with a solution containing any one or more selected from the group consisting of gelatin, collagen, fibronectin, chitosan, polydopamine, poly L-lysine, vitronectin, peptide containing RGD, lignin, cationic dextran, and derivatives thereof after the step of recovering and drying the produced foam core and then applying a primer polymer layer to the<!-- EPO <DP n="11"> --> surface of the foam may include a step in which a material obtained from the step of recovering and drying the produced foam core and then applying a primer polymer layer to the surface of the foam core is immersed in a solution containing any one or more selected from the group consisting of gelatin, collagen, fibronectin, chitosan, polydopamine, poly L-lysine, vitronectin, peptide containing RGD, lignin, cationic dextran, and derivatives thereof for 10 to 20 hours, or 15 to 20 hours, or 17 to 19 hours.</p>
+<p id="p0070" num="0070">On the other hand, according to another embodiment of the disclosure, there can be provided a cell culture method using a microcarrier for cell culture comprising: a foam core containing polystyrene; a primer polymer layer formed on the surface of the foam core; and a cell adhesion-inducing layer formed on the surface of the primer polymer layer, wherein the microcarrier has a density of 0.80 g/cm<sup>3</sup> to 0.99 g/cm<sup>3</sup>.</p>
+<p id="p0071" num="0071">Details of the microcarrier for cell culture comprising: a foam core containing polystyrene; a primer polymer layer formed on the surface of the foam core; and a cell adhesion-inducing layer formed on the surface of the primer polymer layer, wherein the microcarrier has a density of 0.80 g/cm<sup>3</sup> to 0.99 g/cm<sup>3</sup>, include the contents described above for the embodiment of the disclosure.</p>
+<p id="p0072" num="0072">The cells for enabling culture using the microcarrier for cell culture are adherent animal cells, and examples thereof include, but are not particularly limited to, fibroblasts, chondrocytes, mesenchymal stem cells, CHO, HEK 293, vero cells, BHK21, MDCK, and the like.</p>
+<heading id="h0006"><b>[ADVANTAGEOUS EFFECTS]</b></heading>
+<p id="p0073" num="0073">According to the present disclosure, a microcarrier that has excellent adhesion to cells and also is easily isolated from cells after culturing can be provided.</p>
+<p id="p0074" num="0074">In addition, according to the present disclosure, a method for producing a microcarrier that has excellent adhesion to cells and also is easily isolated from cells after culturing can be provided.</p>
+<p id="p0075" num="0075">Further, according to the present disclosure, a cell culture method using the microcarrier that has excellent adhesion to cells and also is easily isolated from cells after culturing can be provided.</p>
+<heading id="h0007"><b>[BRIEF DESCRIPTION OF THE DRAWING]</b></heading>
+<p id="p0076" num="0076">
+<ul id="ul0002" list-style="none" compact="compact">
+<li><figref idref="f0001">FIG. 1</figref> is the optical microscope observation images of the microcarriers produced in<!-- EPO <DP n="12"> --> Examples 1 to 3 of the present disclosure.</li>
+<li><figref idref="f0001">FIG. 2</figref> shows an SEM analysis result of a cross section after foaming of a microcarrier produced in Example 3 of the present disclosure.</li>
+<li><figref idref="f0002">FIG. 3</figref> shows the FT-IR spectrum results of a foam containing polystyrene.</li>
+<li><figref idref="f0003">FIG. 4</figref> shows the SEM analysis results of the polystyrene surface before and after foaming of polystyrene containing a foaming agent and after coating a primer polymer layer.</li>
+<li><figref idref="f0003">FIG. 5</figref> shows the results of observing the distribution of the microcarriers produced in Examples 1 to 3 of the present disclosure in the culture medium.</li>
+<li><figref idref="f0004">FIG. 6</figref> shows the results of cell culture of 1×10<sup>4</sup> chondrocytes for 3 days using 0.2 g of microcarriers produced in Example 3 and Comparative Example 2 of the present disclosure.</li>
+<li><figref idref="f0005">FIG. 7</figref> shows the results of analyzing the cell adhesion shape of the microcarriers produced in Example 3 and Comparative Example 3 of the present disclosure.</li>
+</ul></p>
+<p id="p0077" num="0077">Below, the present disclosure will be described in more detail by way of examples. However, these examples are provided for illustrative purposes only, and should not be construed as limiting the scope of the present disclosure to these examples.</p>
+<heading id="h0008"><b>Example 1: Production of microcarriers for cell culture</b></heading>
+<p id="p0078" num="0078">An aqueous solution containing foamable polystyrene particles (provided by LG Chem) with an average diameter of 250 um or less was heated at 100°C for 5 minutes, and then water at room temperature was added, and the foaming process was stopped to produce a foam core, which was then recovered, and dried at room temperature.</p>
+<p id="p0079" num="0079">The dried foam core was immersed in a 1 mg/mL dopamine aqueous solution, and stirred for 4 hours to evenly introduce a polydopamine layer onto the surface of the foam, wherein the thickness of the primer polymer layer was 1 µm or less. The coated foam was recovered, washed with ethanol at least 3 times, and dried at room temperature for 18 hours. In order to purify particles with a density of 0.8g/cm<sup>3</sup> (0.78 - 0.83 g/cm<sup>3</sup>), separation based on density differences was performed using 75% aqueous ethanol solution and 100% ethanol, and then, placed in a sterile gelatin solution having a concentration of 0.2 w/v, coated for 18 hours, recovered, washed with<!-- EPO <DP n="13"> --> ethanol, then dried and recovered. By the above method, a microcarrier for cell culture having an average particle size of 500 um and a specific surface area of 150 cm<sup>2</sup>/g was produced.</p>
+<heading id="h0009"><b>Example 2: Production of microcarrier for cell culture</b></heading>
+<p id="p0080" num="0080">An aqueous solution containing foamable polystyrene particles (supplied by LG Chem) with an average diameter of 250 um or less was heated at 100°C for 4 minutes, and then water at room temperature was added, and the foaming process was stopped to produce a foam core, which was then recovered, and dried at room temperature.</p>
+<p id="p0081" num="0081">The dried foam core was immersed in a 1 mg/mL dopamine aqueous solution, and stirred for 4 hours to evenly introduce a polydopamine layer onto the surface of the foam, wherein the thickness of the primer polymer layer was 1 µm or less. The coated foam was recovered, washed with ethanol at least 3 times, and dried at room temperature for 18 hours.</p>
+<p id="p0082" num="0082">Subsequently, it was placed in a sterile gelatin solution having a concentration of 0.2 w/v, coated for 18 hours, recovered, washed with ethanol, then dried and recovered. In order to purify particles with a density of 0.9g/cm<sup>3</sup> (0.85 - 0.93 g/cm<sup>3</sup>), separation based on density differences was performed using 30% aqueous ethanol solution and 70% aqueous ethanol solution. By the above method, a microcarrier for cell culture having an average particle size of 350 um and a specific surface area of 190 cm<sup>2</sup>/g was produced.</p>
+<heading id="h0010"><b>Example 3: Production of microcarrier for cell culture</b></heading>
+<p id="p0083" num="0083">An aqueous solution containing foamable polystyrene particles (supplied by LG Chem) with an average diameter of 250 um or less was heated at 100°C for 3 minutes, and then water at room temperature was added, and the foaming process was stopped to produce a foam core, which was then recovered, and dried at room temperature.</p>
+<p id="p0084" num="0084">The dried foam core was immersed in a 1 mg/mL dopamine aqueous solution, and stirred for 4 hours to evenly introduce a polydopamine layer onto the surface of the foam, wherein the thickness of the primer polymer layer was 1 µm or less. The coated foam was recovered, washed with ethanol at least 3 times, and dried at room temperature for 18 hours.</p>
+<p id="p0085" num="0085">Subsequently, it was placed in a sterile gelatin solution having a concentration of 0.2 w/v, coated for 18 hours, recovered, washed with ethanol, dried and recovered. In order to purify<!-- EPO <DP n="14"> --> particles with a density of 0.95g/cm<sup>3</sup> (0.93 - 0.98 g/cm<sup>3</sup>), separation based on density differences was performed using 20% aqueous ethanol solution and 5% aqueous ethanol solution. By the above method, a microcarrier for cell culture having an average particle size of 300 um and a specific surface area of 210 cm<sup>2</sup>/g was produced.</p>
+<p id="p0086" num="0086">The density, internal porosity, average diameter, and specific surface area of the produced microcarriers are summarized in Table 1 below.
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>[Table 1]</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="45mm"/>
+<colspec colnum="2" colname="col2" colwidth="20mm"/>
+<colspec colnum="3" colname="col3" colwidth="20mm"/>
+<colspec colnum="4" colname="col4" colwidth="20mm"/>
+<thead>
+<row>
+<entry valign="middle">Category</entry>
+<entry valign="middle">Example 1</entry>
+<entry valign="middle">Example 2</entry>
+<entry valign="middle">Example 3</entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">Density (g/cm<sup>3</sup>)</entry>
+<entry valign="middle">0.8</entry>
+<entry valign="middle">0.9</entry>
+<entry valign="middle">0.95</entry></row>
+<row>
+<entry valign="middle">Internal porosity (%)</entry>
+<entry valign="middle">23</entry>
+<entry valign="middle">13</entry>
+<entry valign="middle">9</entry></row>
+<row>
+<entry valign="middle">Average diameter (um)</entry>
+<entry valign="middle">500</entry>
+<entry valign="middle">350</entry>
+<entry valign="middle">300</entry></row>
+<row>
+<entry valign="middle">Specific surface area (cm<sup>2</sup>/g)</entry>
+<entry valign="middle">150</entry>
+<entry valign="middle">190</entry>
+<entry valign="middle">210</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0011"><b>Comparative Example 1: Production of microcarrier for cell culture</b></heading>
+<p id="p0087" num="0087">Non-foaming polystyrene particles having a diameter of 250 µm or less were immersed in water at room temperature for 3 minutes, which was then recovered and dried at room temperature. The dried non-foamed core was immersed in 1 mg/mL dopamine aqueous solution and stirred for 4 hours to evenly introduce a polydopamine layer onto the surface of the non-foamed one, wherein the thickness of the primer polymer layer was 1 µm or less. The coated foam was recovered, washed with ethanol at least 3 times, and dried at room temperature for 18 hours.</p>
+<p id="p0088" num="0088">Subsequently, it was placed in a sterile gelatin solution having a concentration of 0.2 w/v, coated for 18 hours, recovered, washed with ethanol, then dried and recovered. By the above method, a microcarrier for cell culture having an average particle size of 250 um and a specific surface area of 230 cm<sup>2</sup>/g was produced.<!-- EPO <DP n="15"> --></p>
+<heading id="h0012"><b>Comparative Example 2: Production of microcarrier for cell culture</b></heading>
+<p id="p0089" num="0089">Low-density polyethylene particles with a diameter of 212-250 um and a density of 0.96 g/cm<sup>3</sup> were immersed in water at room temperature for 3 minutes, which was then recovered and dried at room temperature. The dried low-density polyethylene core was immersed in 1 mg/mL dopamine aqueous solution, and stirred for 4 hours to introduce a polydopamine layer, wherein the thickness of the primer polymer layer was 1 µm or less. The coated particles were recovered, washed with ethanol at least 3 times, and dried at room temperature for 18 hours.</p>
+<p id="p0090" num="0090">By the above method, a microcarrier for cell culture having an average particle size of 300 um and a specific surface area of 200 cm<sup>2</sup>/g was produced.</p>
+<heading id="h0013"><b>Comparative Example 3: Production of microcarrier for cell culture</b></heading>
+<p id="p0091" num="0091">An aqueous solution containing foamable polystyrene particles (supplied by LG Chem) with a diameter of 250 um or less was heated at 100°C for 3 minutes, and then water at room temperature was added, and the foaming process was stopped to produce a foam core, which was then recovered, and dried at room temperature.</p>
+<p id="p0092" num="0092">The dried foam core was placed in a sterile gelatin solution at a concentration of 0.2 w/v without introducing a primer polymer layer, coated for 18 hours, recovered, washed with ethanol, then dried and recovered. In order to purify particles with a density of 0.95g/cm<sup>3</sup> (0.93 - 0.98 g/cm<sup>3</sup>), separation based on density differences was performed using 20% aqueous ethanol solution and 5% aqueous ethanol solution. By the above method, a microcarrier for cell culture having an average particle size of 300 um and a specific surface area of 210 cm<sup>2</sup>/g was produced.</p>
+<p id="p0093" num="0093">The density, internal porosity, average diameter, and specific surface area of the microcarriers produced in Comparative Examples 1 to 3 are summarized in Table 2 below.
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>[Table 2]</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="44mm"/>
+<colspec colnum="2" colname="col2" colwidth="38mm"/>
+<colspec colnum="3" colname="col3" colwidth="47mm"/>
+<colspec colnum="4" colname="col4" colwidth="38mm"/>
+<thead>
+<row>
+<entry valign="top">Category</entry>
+<entry valign="top">Comparative Example 1</entry>
+<entry valign="top">Comparative Example 2</entry>
+<entry valign="top">Comparative Example 3</entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">Density (g/cm<sup>3</sup>)</entry>
+<entry valign="middle">1.05</entry>
+<entry valign="middle">0.96</entry>
+<entry valign="middle">0.95</entry></row>
+<row>
+<entry valign="middle">Internal porosity(%)</entry>
+<entry valign="middle">0</entry>
+<entry valign="middle">0</entry>
+<entry valign="middle">9</entry></row><!-- EPO <DP n="16"> -->
+<row>
+<entry valign="middle">Average diameter (um)</entry>
+<entry valign="middle">250</entry>
+<entry valign="middle">300</entry>
+<entry valign="middle">300</entry></row>
+<row>
+<entry>Specific surface area (cm<sup>2</sup>/g)</entry>
+<entry>230</entry>
+<entry>200</entry>
+<entry>210</entry></row>
+<row>
+<entry>Remarks</entry>
+<entry>-</entry>
+<entry>No cell adhesion-inducing layer</entry>
+<entry>No primer polymer layer</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0014"><b>Experimental Example: Measurement of physical properties of microcarrier for cell culture</b></heading>
+<p id="p0094" num="0094">For the microcarriers for cell culture produced in Examples and Comparative Examples, the cell culture rate of the microcarriers, the behavior of the microcarriers in the culture medium, and the recovery efficiency of the microcarriers were evaluated by the following methods.</p>
+<heading id="h0015"><b>1. Evaluation of cell culture rate of microcarriers</b></heading>
+<p id="p0095" num="0095">The culture medium was filled in a 250 ml spinner flask, and 0.1 g of a microcarrier was added, and the mixture was stirred at 30 rpm. At this time, the temperature of the culture medium was maintained at 37°C, and cultured for 3 days to confirm the cell culture rate of the microcarrier.</p>
+<heading id="h0016"><b>2. Evaluation of the behavior of microcarrier in the culture medium</b></heading>
+<p id="p0096" num="0096">The culture medium was filled in a 250 ml spinner flask, and 0.1 g of a microcarrier was added, and the mixture was stirred at 30 rpm. At this time, the temperature of the culture medium was maintained at 37□ and the behavior of the microcarrier was confirmed. The degree of sedimentation of the microcarriers according to the culture time was evaluated.</p>
+<heading id="h0017"><b>3. Evaluation of recovery efficiency of microcarrier</b></heading>
+<p id="p0097" num="0097">The cells (chondrocytes) in the culture medium and the microcarriers for cell culture produced in Examples and Comparative Examples were injected and stirred, and the cells were adhered to the microcarriers. After culturing at 37°C for 3 days, the microcarriers to which the cells were adhered were recovered, and then subjected to trypsin treatment to remove the adhered cells, and then, re-dispersed in the culture medium, and the adhered cells were separated in a<!-- EPO <DP n="17"> --> centrifuge at a rotation speed of 1000 rpm for 5 minutes. Thereafter, the supernatant of the precipitated culture medium was filtered through a 0.2 µm filter to recover microcarriers, which were dried, and then the weight was measured to evaluate the recovery efficiency.
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>[Table 3]</title>
+<tgroup cols="7">
+<colspec colnum="1" colname="col1" colwidth="30mm"/>
+<colspec colnum="2" colname="col2" colwidth="18mm"/>
+<colspec colnum="3" colname="col3" colwidth="18mm"/>
+<colspec colnum="4" colname="col4" colwidth="18mm"/>
+<colspec colnum="5" colname="col5" colwidth="28mm"/>
+<colspec colnum="6" colname="col6" colwidth="28mm"/>
+<colspec colnum="7" colname="col7" colwidth="28mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry valign="top">Example 1</entry>
+<entry valign="top">Example 2</entry>
+<entry valign="top">Example 3</entry>
+<entry valign="top">Comparative Example 1</entry>
+<entry valign="top">Comparative Example 2</entry>
+<entry valign="top">Comparative Example 3</entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">Cell culture rate</entry>
+<entry valign="middle">- 200%</entry>
+<entry valign="middle">- 300%</entry>
+<entry valign="middle">- 400%</entry>
+<entry valign="middle">∼400%</entry>
+<entry valign="middle">-150%</entry>
+<entry valign="middle">-200%</entry></row>
+<row>
+<entry>Degree of sedimentation</entry>
+<entry>of -</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>100%</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Recovery efficiency</entry>
+<entry>75%</entry>
+<entry>90%</entry>
+<entry>95%</entry>
+<entry>0%</entry>
+<entry>95%</entry>
+<entry>95%</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0098" num="0098">As shown in Table 3, it was confirmed that when the microcarriers produced in Examples 1 to 3 were used, the cells could be easily isolated from the microcarriers after culturing, while maintaining a high cell culture rate compared to Comparative Examples.</p>
+<p id="p0099" num="0099">On the other hand, <figref idref="f0001">FIG. 2</figref> shows an SEM analysis result of a cross section after foaming of a microcarrier produced in Example 3 of the present disclosure. Through <figref idref="f0001">FIG. 2</figref>, the cross section of the microcarrier with increased internal porosity after foaming could be confirmed. <figref idref="f0003">FIG. 5</figref> shows the results of observing the distribution of the microcarriers produced in Examples 1 to 3 of the present disclosure in the culture medium. Through <figref idref="f0003">FIG. 5</figref>, it was confirmed that when the density of the microcarrier falls within the range of 0.90-0.98 g/cm<sup>3</sup>, it is evenly floated in the culture medium, which is advantageous for the cell culture.</p>
+<p id="p0100" num="0100">In addition, <figref idref="f0004">FIG. 6</figref> shows the results of cell culture of 1 × 10<sup>4</sup> chondrocytes for 3 days using 0.2 g of microcarriers produced in Example 3 and Comparative Example 2 of the present disclosure. Through Comparative Example 2, it was confirmed that the cell culture efficiency was significantly reduced when the cell adhesion-inducing layer was not introduced.</p>
+<p id="p0101" num="0101"><figref idref="f0005">FIG. 7</figref> shows the results of analyzing the cell adhesion shape of the microcarriers produced<!-- EPO <DP n="18"> --> in Example 3 and Comparative Example 3 of the present disclosure. In the case of Comparative Example 3, it was confirmed that the cell adhesion-inducing layer into which the primer coating layer was not introduced was unstable as compared with Example 3 under the same conditions, so that the cells were not evenly adhered, and the cells could not be efficiently cultured.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="19"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A microcarrier for cell culture comprising:
+<claim-text>a foam core containing polystyrene;</claim-text>
+<claim-text>a primer polymer layer formed on a surface of the foam core; and</claim-text>
+<claim-text>a cell adhesion-inducing layer formed on the surface of the primer polymer layer,</claim-text>
+<claim-text>wherein the microcarrier has a density of 0.80 g/cm<sup>3</sup> to 0.99 g/cm<sup>3</sup>.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The microcarrier for cell culture according to claim 1,<br/>
+wherein the foam core has a closed cell structure.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The microcarrier for cell culture according to claim 1,<br/>
+wherein the foam core has an internal porosity of 2% to 30%.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The microcarrier for cell culture according to claim 1,<br/>
+wherein the foam core has a culture medium permeation rate in the range of 0 vol% to 30 vol% of the internal pore volume at the time of culturing cells at 37°C for 72 hours.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The microcarrier for cell culture according to claim 1,<br/>
+wherein the primer polymer layer comprises at least one selected from the group consisting of L-dihydroxy phenylalanine, dopamine, norepinephrine, epinephrine, epigallocatechin, and derivatives thereof.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The microcarrier for cell culture according to claim 1,<br/>
+wherein the cell adhesion-inducing layer comprises at least one selected from the group consisting of gelatin, collagen, fibronectin, chitosan, polydopamine, poly L-lysine, vitronectin, peptide containing RGD, lignin, cationic dextran, and derivatives thereof.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The microcarrier for cell culture according to claim 1,<br/>
+wherein the microcarrier has an average diameter of 50 um to 800 um.<!-- EPO <DP n="20"> --></claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>The microcarrier for cell culture according to claim 1,<br/>
+wherein the microcarrier has a specific surface area of 50 cm<sup>2</sup>/g to 2000 cm<sup>2</sup>/g.</claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>A method for producing a microcarrier for cell culture, the method comprising the steps of:
+<claim-text>heating an aqueous solution containing polystyrene containing a foaming agent;</claim-text>
+<claim-text>foaming the foaming agent to produce a foam core; and</claim-text>
+<claim-text>recovering and drying the produced foam core and then applying a primer polymer layer to a surface of the foam core.</claim-text></claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>The method for producing a microcarrier for cell culture according to claim 9,<br/>
+wherein the foam core has a closed cell structure.</claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>The method for producing a microcarrier for cell culture according to claim 9,<br/>
+wherein the foam core has an internal porosity of 2% to 30%.</claim-text></claim>
+<claim id="c-en-0012" num="0012">
+<claim-text>The method for producing a microcarrier for cell culture according to claim 9,<br/>
+wherein the primer polymer layer comprises at least one selected from the group consisting of L-dihydroxy phenylalanine, dopamine, norepinephrine, epinephrine, epigallocatechin, and derivatives thereof.</claim-text></claim>
+<claim id="c-en-0013" num="0013">
+<claim-text>The method for producing a microcarrier for cell culture according to claim 9,<br/>
+further comprising a step of coating with a solution containing at least one or more selected from the group consisting of gelatin, collagen, fibronectin, chitosan, polydopamine, poly L-lysine, vitronectin, peptide containing RGD, lignin, cationic dextran, and derivatives thereof after the step of applying a primer polymer layer.</claim-text></claim>
+<claim id="c-en-0014" num="0014">
+<claim-text>The method for producing a microcarrier for cell culture according to claim 9,<br/>
+wherein the foaming agent is selected from the group consisting of a physical foaming agent, a chemical foaming agent, an inorganic foaming agent, and mixtures thereof.<!-- EPO <DP n="21"> --></claim-text></claim>
+<claim id="c-en-0015" num="0015">
+<claim-text>The method for producing a microcarrier for cell culture according to claim 9,<br/>
+wherein the step of heating the aqueous solution comprises a step of heat-treating at a temperature of 50°C to 150°C for 1 minute to 10 minutes.</claim-text></claim>
+<claim id="c-en-0016" num="0016">
+<claim-text>The method for producing a microcarrier for cell culture according to claim 9,<br/>
+wherein the step of recovering and drying the produced foam core and then applying the primer polymer layer to the surface of the foam core comprises a step of immersing the foam core in the primer polymer solution for 1 hour to 10 hours.</claim-text></claim>
+<claim id="c-en-0017" num="0017">
+<claim-text>The method for producing a microcarrier for cell culture according to claim 13,<br/>
+wherein the step of coating with the solution comprises:<br/>
+a step in which a material obtained from the step of recovering and drying the produced foam core and then applying a primer polymer layer to the surface of the foam core is immersed in the solution containing at least one selected from the group consisting of gelatin, collagen, fibronectin, chitosan, polydopamine, poly L-lysine, vitronectin, peptide containing RGD, lignin, cationic dextran, and derivatives thereof for 10 hours to 20 hours.</claim-text></claim>
+<claim id="c-en-0018" num="0018">
+<claim-text>A cell culture method using the microcarrier of claim 1.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="22"> -->
+<figure id="f0001" num="1,2"><img id="if0001" file="imgf0001.tif" wi="153" he="219" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="23"> -->
+<figure id="f0002" num="3"><img id="if0002" file="imgf0002.tif" wi="152" he="222" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="24"> -->
+<figure id="f0003" num="4,5"><img id="if0003" file="imgf0003.tif" wi="153" he="226" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="25"> -->
+<figure id="f0004" num="6"><img id="if0004" file="imgf0004.tif" wi="137" he="83" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="26"> -->
+<figure id="f0005" num="7"><img id="if0005" file="imgf0005.tif" wi="153" he="128" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="157" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="153" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="KR1020190088576"><document-id><country>KR</country><doc-number>1020190088576</doc-number><date>20190722</date></document-id></patcit><crossref idref="pcit0001">[0001]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="KR1020200090266"><document-id><country>KR</country><doc-number>1020200090266</doc-number><date>20200721</date></document-id></patcit><crossref idref="pcit0002">[0001]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

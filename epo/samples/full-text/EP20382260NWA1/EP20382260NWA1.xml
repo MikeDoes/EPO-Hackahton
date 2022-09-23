@@ -1,0 +1,1145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP20382260A1" file="EP20382260NWA1.xml" lang="en" country="EP" doc-number="3889251" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3889251</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>20382260.6</B210><B220><date>20200331</date></B220><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>C12N   1/20        20060101AFI20200718BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C07K  14/30        20060101ALI20200718BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>C07K  16/12        20060101ALI20200718BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>C12N   5/00        20060101ALI20200718BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>C12N   5/0031      20130101 LI20200714BHEP        </text></classification-cpc><classification-cpc sequence="2"><text>C12N   1/20        20130101 LI20200714BHEP        </text></classification-cpc><classification-cpc sequence="3"><text>C12N   5/0018      20130101 LI20200714BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>KULTURMEDIEN FÜR MYKOPLASMA</B542><B541>en</B541><B542>CULTURE MEDIA FOR MYCOPLASMA</B542><B541>fr</B541><B542>MILIEUX DE CULTURE DE MYCOPLASME</B542></B540><B590><B598>NONE</B598></B590></B500><B700><B710><B711><snm>Fundació Centre de Regulació Genòmica</snm><iid>101852173</iid><irf>P19311EP00</irf><adr><str>Carrer de Doctor Aiguader 88, 5ª planta</str><city>08003 Barcelona</city><ctry>ES</ctry></adr></B711><B711><snm>Institució Catalana de Recerca i Estudis Avançats</snm><iid>100830680</iid><irf>P19311EP00</irf><adr><str>Passeig Lluís Companys, 23</str><city>08010 Barcelona</city><ctry>ES</ctry></adr></B711></B710><B720><B721><snm>BURGOS CASTELLANOS, Raúl</snm><adr><str>Joan Miro, 48, Bajos 1</str><city>08110 Montcada i Reixac, Barcelona</city><ctry>ES</ctry></adr></B721><B721><snm>LLUCH SENAR, Maria</snm><adr><str>Pau Muñoz i Castanyer, 26 baixos 1</str><city>08174 Sant Cugat del Vallés, Barcelona</city><ctry>ES</ctry></adr></B721><B721><snm>SERRANO PUBUL, Luis</snm><adr><str>Tramontana, 7</str><city>08950 Esplugues de Llobregat, Barcelona</city><ctry>ES</ctry></adr></B721></B720><B740><B741><snm>ABG Intellectual Property Law, S.L.</snm><iid>100061541</iid><adr><str>Avenida de Burgos, 16D 
+Edificio Euromor</str><city>28036 Madrid</city><ctry>ES</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">The invention relates to serum free media for the culture of Mycoplasma as well as to methods for the culture of Mycoplasma using the serum free culture media.</p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001"><b>FIELD OF THE INVENTION</b></heading>
+<p id="p0001" num="0001">The invention relates to cell culture medium formulations. Specifically, the invention provides serum-free cell culture medium formulations that facilitate the in vitro cultivation of Mycoplasma cells.</p>
+<heading id="h0002"><b>BACKGROUND OF INVENTION</b></heading>
+<p id="p0002" num="0002">Mycoplasmas comprise a large group of species capable of colonizing a wide range of organisms, including animals, plants, insects and humans. They are characterized to lack a cell wall, which makes them naturally resistant to antibiotics that target cell wall synthesis, but also more sensitive to membrane-active agents. Mycoplasmas have also reduced genomes with few metabolic capabilities, thus relying on their host for much of their nutrition. For all these reasons, growth of mycoplasma species in axenic conditions has been historically difficult and dependent on animal serum.</p>
+<p id="p0003" num="0003">Mycoplasmas are generally surface parasites. Some species act as commensal bacteria, living innocuously with their host as part of the natural flora. However, many species like <i>M. hyopneumoniae</i> act as pathogens, often causing chronic infections. Indeed, diseases associated to mycoplasmas are an important economic burden, both in human and livestock systems. Vaccination has been proven as an efficient strategy to alleviate the economic impact that some mycoplasma infections cause on milk production, weight gain and animal health. In this regard, some of the most effective vaccines available against mycoplasma infections are live-attenuated or inactivated vaccines, in which growth and production of the bacterial strain is required. The culture medium used in the production of these vaccines usually contains animal components such as BHI (brain heart infusion broth), PPLO (beef heart infusion, pancreatic digest of casein and beef extract broth) and animal serum. The use of animal serum in culture medium entails several disadvantages, including: low batch-to-batch reproducibility, not defined composition, possible interference with downstream processing, and increase considerably the cost of the medium. In addition, both the use of animal serum and raw materials derived from animals have important safety concerns, since these may contain viruses, antibiotics, endotoxins and other bioactive molecules. Therefore, there is a need in the art for the development of a culture medium that: (1) is safe and free of animal<!-- EPO <DP n="2"> --> components, (2) supports robust growth, and (3) allows serial passaging in mycoplasma vaccine development or other mycoplasma-based therapies.</p>
+<heading id="h0003"><b>SUMMARY OF THE INVENTION</b></heading>
+<p id="p0004" num="0004">The authors of the invention have developed several culture media that are capable of supporting the growth of Mycoplasma cells and, in particular, of <i>Mycoplasma hyopneumoniae</i> cells, to biomass levels similar to those obtained with standard growth medium, said media being characterized in that they are free of animal serum and, in some cases, free of components of animal origin (i.e. bovine seroalbumin, BSA).</p>
+<p id="p0005" num="0005">In a first aspect, the invention relates to a serum free medium suitable for the culture of <i>Mycoplasma pneumoniae</i> that comprises:
+<ol id="ol0001" compact="compact" ol-style="">
+<li>(i) a carbon source comprising at least a pyruvate salt,</li>
+<li>(ii) an amino acid mixture,</li>
+<li>(iii) a vitamin mixture,</li>
+<li>(iv) lipids,</li>
+<li>(v) inorganic salts,</li>
+<li>(vi) a nucleoside mixture comprising thymidine,</li>
+<li>(vii) a mixture of enzymatic cofactors,</li>
+<li>(viii) a pyruvate salt,</li>
+<li>(ix) a proteolytic digest of a microorganism or of a plant or animal tissue and</li>
+<li>(x) a vehicle to solubilize and deliver the lipids.</li>
+</ol></p>
+<p id="p0006" num="0006">In another aspect, the invention provides a method for the culture of a Mycoplasma strain comprising placing an inoculum of said strain into the media of the invention and maintaining the inoculated media under conditions adequate for the proliferation of the Mycoplasma strain.</p>
+<p id="p0007" num="0007">In another aspect, the invention provides a method for obtaining a biomass of a Mycoplasma strain which comprises placing an inoculum of said Mycoplasma strain into the media according to the invention and maintaining the inoculated media under conditions adequate for the proliferation of the Mycoplasma strain and the formation of the biomass.<!-- EPO <DP n="3"> --></p>
+<heading id="h0004"><b>DESCRIPTION OF THE FIGURES</b></heading>
+<p id="p0008" num="0008">
+<ul id="ul0001" list-style="none">
+<li><figref idref="f0001"><b>Figure 1</b></figref><b>.</b> Composition and biomass yield of different media versions. Table showing the detailed composition of each of the different media versions developed for <i>M</i>. <i>hyopneumoniae</i> cultivation.</li>
+<li><figref idref="f0002"><b>Figure 2</b></figref> DNA biomass yield of different media versions after 96h of culture as compare to rich medium.</li>
+<li><figref idref="f0003"><b>Figure 3</b></figref><b>.</b> Scheme showing the workflow during the process of medium optimization.</li>
+<li><figref idref="f0004"><b>Figure 4</b></figref><b>.</b> Impact of several components on DNA biomass yield using a medium free of serum. (A). Fold change in DNA biomass yield after adding new components (BSA: bovine serum albumin replacing cyclodextrin, FA, fatty acids including palmitic and oleic acid, PG: L-α-Phosphatidyl-DL-glycerol, DPPC: 1,2-Dipalmitoyl-sn-glycero-3-phosphocholine) or optimizing original components (SPM: decrease of sphingomyelin from 40 to 10 µg/ml, Vit: removal of vitamin mix including pyridoxamine, nicotinic acid, riboflavin and choline pyridoxamine, Pyr: increase of pyruvate from 2.2g/L to 4g/L).<br/>
+(B). Essentiality of several components in medium performance shown as the relative DNA biomass yield compared to the same media formulation after removing the indicated component (CMRL: CMRL-1066 medium CMRL defined medium, TCY: TC Yeastolate, PC: phosphatidylcholine, SPM: sphingomyelin).</li>
+<li><figref idref="f0005"><b>Figure 5</b></figref><b>.</b> Growth curve analysis of <i>M. hyopneumoniae</i> non-pathogenic strain J in rich medium (Friss) and serum-free medium versions. Cultures of 30ml in 125ml Erlenmeyer flasks were inoculated with frozen stocks (1:200 dilution) and DNA biomass measured over time during 7 days. Data for each medium represent the mean±SD of 3 biological culture replicates.</li>
+</ul></p>
+<heading id="h0005"><b>DETAILED DESCRIPTION OF THE INVENTION</b></heading>
+<p id="p0009" num="0009">The invention relates to a serum-free culture medium for the growing of <i>Mycoplasma hyopneumoniae.</i> Said serum-free culture medium comprises at least one carbon source, amino acids, vitamins, amino acids, nucleotides, lipids, inorganic salts enzymatic cofactors, buffering agents, a proteolytic digest of a microorganism, plant or animal tissue and a vehicle to solubilize and deliver the lipids.<!-- EPO <DP n="4"> --></p>
+<p id="p0010" num="0010">Thus in a first aspect, the invention relates to a serum free medium suitable for the culture of <i>Mycoplasma pneumoniae</i> that comprises:
+<ol id="ol0002" compact="compact" ol-style="">
+<li>(i) a carbon source comprising at least a pyruvate salt,</li>
+<li>(ii) an amino acid mixture,</li>
+<li>(iii) a vitamin mixture,</li>
+<li>(iv) lipids,</li>
+<li>(v) inorganic salts,</li>
+<li>(vi) a nucleoside mixture comprising thymidine,</li>
+<li>(vii) a mixture of enzymatic cofactors,</li>
+<li>(viii) a proteolytic digest of a microorganism or of a plant or animal tissue and</li>
+<li>(ix) a vehicle to solubilize and deliver the lipids.</li>
+</ol></p>
+<p id="p0011" num="0011">As used herein, the term "serum-free medium" refers to medium which is substantially free of serum and which can maintain <i>in vitro</i> growth and proliferation of cells for a long period. There is no particular limitation on the serum-free medium of the present invention, which can be any serum-free culture medium suitable for cultivation or preservation of a culture of <i>Mycoplasma hyopneumoniae.</i> In some embodiments, the medium according to the present invention can maintain growth of Mycoplasma cells, preferably <i>M.hyopneumoniae</i> cells until biomass levels are reached which are at least 10%, at least 20%, at least 30%, at least 40%, at least 50%, at least 60%, at least 70%, at least 80%, at least 90% of the biomass levels that can be reached with rich medium such as, for instance, the Hayflick medium,</p>
+<p id="p0012" num="0012">The term, "culture", "cell culture" or "cultivation" refers to the maintenance or proliferation of cells in an artificial in vitro environment. The culture media of the present invention can be used for the culture of any Mycoplasma species, especially <i>Mycoplasma hyopneumoniae.</i></p>
+<p id="p0013" num="0013">The term "Mycoplasma" as used herein, refers to a genus of spherical to filamentous cells with no cell walls. Presently, more than 100 species have been included in the genus Mycoplasma. Mycoplasma are the smallest self-replicating organisms with the smallest genomes, comprising a total of about 500 to 1000 genes. Mycoplasma are nutritionally fastidious. Many require cholesterol, a unique property among prokaryotes.<!-- EPO <DP n="5"> --></p>
+<p id="p0014" num="0014">The term <i>"Mycoplasma hyopneumoniae"</i>, as used herein, refers to a species of the Mollicutes which causes the disease the disease porcine enzootic pneumonia. As all Mycoplasma species, also <i>M. hyopneumoniae</i> is characterized by the absence of a peptidoglycan cell wall and resulting resistance to many antibacterial agents.</p>
+<p id="p0015" num="0015">The carbon source in the serum-free culture medium according to the invention comprises pyruvate, preferably in the form of a salt and, more preferably, as a sodium salt.</p>
+<p id="p0016" num="0016">In one embodiment, the sodium pyruvate is found at a concentration of at least 2.2 g/L, preferably at least 4 g/L. In further embodiments, the sodium pyruvate is found at a concentration of 0,1 g/L to 10 g/L, 0,2 to 8 g/L, 0,4 to 6 g/L.</p>
+<p id="p0017" num="0017">The carbon source in the serum-free culture medium according to the invention comprises, in addition to a pyruvate salt, a sugar, preferably a monosaccharide such as fructose and glucose, a disaccharide such as lactose and maltose, or a mixture thereof. In an embodiment, the carbon source is selected from glucose, mannose, , acetate, glucuronate, pyruvate, acetate, ascorbate and lactate. In another embodiment, the carbon source is mannose or glucose.</p>
+<p id="p0018" num="0018">A carbon source suitable for the serum-free culture medium according to the invention preferably is or comprises glucose. The carbon source in the serum-free culture medium according to the invention preferably is present between 0.01 and 30 % (w/w), more preferably between 0.02 and 2% (w/w).</p>
+<p id="p0019" num="0019">In some embodiments, the carbon source is provided in combination with a second polyol compound, such as glycerol. When present, glucose and glycerol preferably are present between 0.2 and 25% (w/w), more preferably between 0.5 and 2% (w/w), preferably at 0,75% (w/w) for glucose; and between 0.01 and 0.5% (w/w), more preferably between 0.002 and 0.5% (w/w), more preferably between 0.005 and 0.05% (w/w), preferably at 0.025% (w/w) for glycerol.</p>
+<p id="p0020" num="0020">In a preferred embodiment, the glycerol concentration is of at least 0.01% (w/w), preferably of at least 0.025% (w/w) and more preferably of at least 0,05% (w/w).<!-- EPO <DP n="6"> --></p>
+<p id="p0021" num="0021">In a particular embodiment the source of carbon is D-glucose in a concentration of between 100 to 5000 mg/L. In another embodiment, the concentration of D-glucose is of about 500 mg/L. In another embodiment the concentration of D-glucose is of about 2000 mg/L.</p>
+<p id="p0022" num="0022">The chemically defined medium comprises one or more of the amino acids. The term "one or more amino acids" refers to native amino acids or their derivatives (e.g., amino acid analogs), as well as their D- and L-forms.</p>
+<p id="p0023" num="0023">In a preferred embodiment, the serum-free culture medium according to the invention comprises at least the amino acids Glycine, hydroxy L-proline, L-Alanine, L-Arginine hydrochloride, L-Aspartic acid, L-Cysteine, L-Cystine, L-Glutamic Acid, L-Glutamine, L-Histidine hydrochloride-H2O, L-Isoleucine, L-Leucine, L-Lysine hydrochloride, L-Methionine, L-Phenylalanine, L-Proline, L-Serine, L-Threonine, L-Tryptophan, L-Tyrosine, L-Valine.</p>
+<p id="p0024" num="0024">In a preferred embodiment, the serum-free culture medium of the invention comprises the amino acids Glycine, Hydroxy L-proline, L-Alanine, L-Arginine hydrochloride, L-Cysteine, L-Cystine, L-Glutamine, L-Histidine hydrochloride-H<sub>2</sub>O, L-Isoleucine, L-Leucine, L-Lysine hydrochloride, L-Methionine, L-Phenylalanine, L-Proline, L-Serine, L-Threonine, L-Tryptophan, L-Tyrosine, L-Valine but lacks L-Aspartic acid, L-Glutamic Acid and L-asparagine.</p>
+<p id="p0025" num="0025">In a preferred embodiment, the serum-free culture medium of the invention comprises the amino acids Glycine, Hydroxy L-proline, L-Alanine, L-Arginine hydrochloride, L-Cysteine, L-Cystine, L-Glutamine Acid, L-Histidine hydrochloride-H<sub>2</sub>O, L-Isoleucine, L-Leucine, L-Lysine hydrochloride, L-Methionine, L-Phenylalanine, L-Proline, L-Serine, L-Threonine, L-Tryptophan, L-Tyrosine, L-Valine but lacks L-Aspartic acid.</p>
+<p id="p0026" num="0026">When present in the serum-free culture medium, the amino acids are preferably contained in the concentration ranges defined below.</p>
+<p id="p0027" num="0027">Glycine in a range of 0.1 mg/L to 1000 mg/L, more preferably in a range between 1 mg/L to 500mg/L, preferably between 10 to 200 mg/L. In a particular embodiment the concentration of Glycine is of about 25 mg/L. In another embodiment, the concentration<!-- EPO <DP n="7"> --> of glycine if of about 50 mg/L. In another embodiment, the concentration of glycine is of about 100 mg/L.</p>
+<p id="p0028" num="0028">Hydroxy-L-proline in a range between 0.01 mg/L to 200 mg/L, more preferably between 0.1 mg/L to 100 mg/L. in a particular embodiment, the concentration of Hydroxy-L-proline is of about 1 mg/L. In another embodiment, the concentration of Hydroxy-L-proline is of about 10 mg/L. In another embodiment, the concentration of Hydroxy-L-proline is of about 20 mg/L.</p>
+<p id="p0029" num="0029">L-alanine in a range of 0.1 mg/L to 1000 mg/L. more preferably between 1 mg/L to 100 mg/L. In a particular embodiment, the concentration of L-alanine is of about 12 mg/L. In another embodiment, the concentration of L-alanine is of about 25 mg/L. In another embodiment the concentration of L-alanine is of about 50 mg/L.</p>
+<p id="p0030" num="0030">L-arginine hydrochloride in a range of 0.1 mg/L to 1000 mg/L, more preferably between 1 mg/L to 500 mg/L. In a particular embodiment, the concentration of L-arginine hydrochloride is of about 35 mg/L. In another embodiment, the concentration of L-arginine hydrochloride is of about 70 mg/L. In another embodiment, the concentration of L-arginine hydrochloride is of about 140 mg/L.</p>
+<p id="p0031" num="0031">L-aspartic acid in a range of 0.1 mg/L to 1000 mg/L, more preferably between 1 mg/L to 100 mg/L. In a particular embodiment, the concentration of L-aspartic acid is of about 15 mg/L. In another embodiment, the concentration of L-aspartic acid is of about 30 mg/L. In another embodiment, the concentration of L-aspartic acid is of about 60 mg/L.</p>
+<p id="p0032" num="0032">L-cysteine in a range of 1 mg/L to 1000 mg/L, more preferably between 50 mg/L to 500. In a particular embodiment, the concentration of L-cysteine is about 100 mg/L. In another embodiment, the concentration of L-cysteine is of about 200 mg/L. In another embodiment, the concentration of L-cysteine is of about 400 mg/L.</p>
+<p id="p0033" num="0033">L-cystine in a range of 0.1 mg/L to 1000 mg/L, more preferably between 1 mg/L to 100 mg/L. In a particular embodiment, the concentration of L-cystine is of about 10 mg/L. In another embodiment, the concentration of L-cystine is of about 20 mg/L. In another embodiment, the concentration of L-cystine is of about 40 mg/L.<!-- EPO <DP n="8"> --></p>
+<p id="p0034" num="0034">L-glutamic acid in a range of 0.1 mg/L to 1000 mg/L, more preferably between 1 mg/L to 500 mg/L. In a particular embodiment, the concentration of L-glutamic acid is of about 35 mg/L. In another embodiment, the concentration of L-glutamic acid is of about 15 mg/L. In another embodiment, the concentration of L-glutamic acid is of about 15 mg/L , preferably at 150 mg/L.</p>
+<p id="p0035" num="0035">L-histidine hydrochloride monohydrate in a range of 0.1 mg/L to 500 mg/L, more preferably between 1 mg/L to 100 mg/L. In a particular embodiment, the concentration of L-histidine hydrochloride monohydrate is of about 10 mg/L. In another embodiment, the concentration of L-histidine hydrochloride monohydrate is of about 20 mg/L. In another embodiment, the concentration of L-histidine hydrochloride monohydrate is of about 40 mg/L.</p>
+<p id="p0036" num="0036">L-isoleucine in a range of 0.1 mg/L to 1000 mg/L, more preferably between 1 mg/L to 100 mg/L. In a particular embodiment, the concentration of L-isoleucine is of about 10 mg/L. In another embodiment, the concentration of L-isoleucine is of about 20 mg/L. In another embodiment, the concentration of L-isoleucine is of about 40 mg/L.</p>
+<p id="p0037" num="0037">L-leucine in a range of 0.1 mg/L to 1000 mg/L, more preferably between 1 mg/L to 500 mg/L. In a particular embodiment, the concentration of L-leucine of about 30 mg/L. In another embodiment, the concentration of L-leucine is of about 60 mg/L. In another embodiment, the concentration of L-leucine is of about 120 mg/L.</p>
+<p id="p0038" num="0038">L-lysine hydrochloride in a range of 0.1 mg/L to 1000 mg/L, more preferably between 1 mg/L to 500 mg/L. In a particular embodiment, the concentration of L-lysine hydrochloride is of about 35 mg/L. In another embodiment, the concentration of L-lysine hydrochloride is of about 70 mg/L. In another embodiment, the concentration of L-lysine hydrochloride is of about 140 mg/L.</p>
+<p id="p0039" num="0039">L-methionine in a range of 0.1 mg/L to 1000 mg/L, more preferably between 1 mg/L to 100 mg/L. In a particular embodiment, the concentration of L-methionine is of about 7.5 mg/L. In another embodiment, the concentration of L-methionine is of about 15 mg/L. In another embodiment, the concentration of L-methionine is of about 30 mg/L.<!-- EPO <DP n="9"> --></p>
+<p id="p0040" num="0040">L-phenylalanine in a range of 0.1 mg/L to 1000 mg/L, more preferably between 1 mg/L to 100 mg/L. In a particular embodiment, the concentration of L-phenylalanine is of about 12.5 mg/L. In another embodiment, the concentration of L-phenylalanine is of about 25 mg/L. In another embodiment, the concentration of L-phenylalanine is of about 50 mg/L.</p>
+<p id="p0041" num="0041">L-proline in a range of 0.1 mg/L to 1000 mg/L, more preferably between 1 mg/L to 100 mg/L. In a particular embodiment, the concentration of L-proline is of about 20 mg/L. In another embodiment, the concentration of L-proline is of about 40 mg/L. In another embodiment, the concentration of L-proline is of about 80 mg/L.</p>
+<p id="p0042" num="0042">L-serine in a range of 0.1 mg/L to 1000 mg/L, more preferably between 1 mg/L to 100 mg/L. In a particular embodiment, the concentration of L-serine is of about 12.5 mg/L. In another embodiment, the concentration of L-serine is of about 25 mg/L. In another embodiment, the concentration of L-serine is of about 50 mg/L.</p>
+<p id="p0043" num="0043">L-threonine in a range of 0.1 mg/L to 1000 mg/L, more preferably between 1 mg/L to 100 mg/L. In a particular embodiment, the concentration of L-threonine is of about 15 mg/L. In another embodiment, the concentration of L-threonine is of about 30 mg/L. In another embodiment, the concentration of L-threonine is of about 60 mg/L.</p>
+<p id="p0044" num="0044">L-tryptophan in a range of 0.1 mg/L to 1000 mg/L, more preferably between 1 mg/L to 1000 mg/L. In a particular embodiment, the concentration of L-tryptophan is of about 5 mg/L. In another embodiment, the concentration of L-tryptophan is of about 10 mg/L. In another embodiment, the concentration of L-tryptophan is of about 20 mg/L.</p>
+<p id="p0045" num="0045">L-tyrosine in a range of 0.1 mg/L to 1000 mg/L, more preferably between 1 mg/L to 100mg/L. In a particular embodiment, the concentration of L-tyrosine is of about 20 mg/L. In another embodiment, the concentration of L-tyrosine is of about 40 mg/L. In another embodiment, the concentration of L-tyrosine is of about 80 mg/L.</p>
+<p id="p0046" num="0046">L-valine in a range of 0.1 mg/L to 1000 mg/L, more preferably between 1 mg/L to 100 mg/L. In a particular embodiment, the concentration of L-valine is of about 12.5 mg/L. In another embodiment, the concentration of L-valine is of about 25 mg/L. In another embodiment, the concentration of L-valine is of about 50 mg/L.<!-- EPO <DP n="10"> --></p>
+<p id="p0047" num="0047">The serum-free culture medium additionally comprises L-Glutamine. In a preferred embodiment, the content of the serum-free medium in L-Glutamine is of at least 1 nM, more preferably of at least 2 mM.</p>
+<p id="p0048" num="0048">Glutamine is known to be quite unstable in an aqueous solution. As been reported, glutamine may be stabilized with one or more divalent cations selected from the group consisting of calcium and magnesium, whereby the ration of glutamine to divalent cations is in the range of from 2:1 to 2.9:1 (<patcit id="pcit0001" dnum="US5474931A"><text>US patent 5,474,931</text></patcit>). In addition, the presence of pantothenate and sodium chloride may help stabilize glutamine and prevent its degradation into pyrrolidone carboxylic acid and ammonia. As an alternative, or in addition, unstable glutamine may be replaced with the dipeptide I-alanyl-I-glutamine or glycyl-I-glutamine. Thus in an embodiment, the content of the I-alanyl-I-glutamine or glycyl-I-glutamine in the free-serum culture medium is of at least 1 mM, more preferably, of at least 2 mM.</p>
+<p id="p0049" num="0049">Similarly, redox active cysteine may be replaced with N-acetyl-I-cysteine of S-sulfo-I-cysteine (<nplcit id="ncit0001" npl-type="s"><text>Hecklau et al., 2016, J. Biotech 218: 53-63</text></nplcit>), and the amino acid derivative phosphor-I-tyrosine may replace tyrosine (<nplcit id="ncit0002" npl-type="s"><text>Zimmer et al., 2014, J. Biotechnol 186: 110-8</text></nplcit>).</p>
+<p id="p0050" num="0050">In another embodiment, the essential amino acids or the serum-free culture medium are preferentially administered in the form of peptides. Suitable peptides for the serum-free medium or the invention include without limitation, dipeptides selected from the group consisting of L-alanyl-L-glutamine, glycyl-L-glutamine and N-acetyl-L-glutamine. If the amino acids are provided in the form of peptides, then the culture medium may further comprise a reducing or antioxidant agent so as to avoid the formation of disulphide bridges between the Cys residues. Suitable antioxidant agents and concentrations thereof are defined below in the context of the antioxidant components. In a preferred embodiment, the antioxidant is reduced glutathione.</p>
+<p id="p0051" num="0051">In a particular embodiment, the peptides are derived from the proteolytic digest of a microorganism or of a plant or animal tissue, in which case the peptide may be selected from peptone, PPLO and yeastolate, as will be specified below.<!-- EPO <DP n="11"> --></p>
+<p id="p0052" num="0052">The serum-free culture medium of the invention comprises a vitamin mixture, said vitamin mixture comprising thioctic acid. In addition to the thioic acid, the vitamin mixture preferably includes ascorbic acid, biotin, Choline chloride, D-Calcium pantothenate, Folic Acid, Niacinamide, Nicotinic acid (Niacin), Para-Aminobenzoic Acid, vitamin B6, Pyridoxal hydrochloride, Pyridoxine hydrochloride, Riboflavin and Thiamine hydrochloride. These vitamins and/or essential nutrients can be obtained commercially, for example from Sigma (Sant Louis, Missouri). Said vitamins optionally may be provided by addition of a yeast extract, as it is known by a person skilled in the art.</p>
+<p id="p0053" num="0053">The term "vitamin" or "essential nutrient" as used herein refers to an organic molecule (or related set of molecules) that is an essential micronutrient that an organism needs in small quantities for the proper functioning of its metabolism. Essential nutrients cannot be synthesized in the organism, either at all or not in sufficient quantities, and therefore must be obtained through the diet. The term vitamin does not include the three other groups of essential nutrients: minerals, essential fatty acids, and essential amino acids.</p>
+<p id="p0054" num="0054">The term "Ascorbic acid" or "vitamin C", as used herein refers to a natural water soluble vitamin of formula C<sub>6</sub>H<sub>8</sub>O<sub>6</sub> or HC<sub>6</sub>H<sub>7</sub>O<sub>6</sub>. Ascorbic acid is a potent reducing and antioxidant agent that functions in fighting bacterial infections, in detoxifying reactions, and in the formation of collagen in fibrous tissue, teeth, bones, connective tissue, skin, and capillaries.</p>
+<p id="p0055" num="0055">As used herein, the term "biotin", also known as vitamin H, vitamin B7 or coenzyme R, is an enzyme cofactor of formula C<sub>10</sub>H<sub>16</sub>N<sub>2</sub>O<sub>3</sub>S. It occurs mainly bound to proteins or polypeptides and is abundant in liver, kidney, pancreas, yeast, and milk. Biotin has been recognized as an essential nutrient.</p>
+<p id="p0056" num="0056">The term "Choline chloride", also known as hepacholine, biocolina, 2-Hydroxy-N,N,N-trimethylethanaminium, refers to a quaternary ammonium salt with choline cation and chloride anion, of formula C<sub>5</sub>H<sub>14</sub>NO.Cl or C<sub>5</sub>H1<sub>4</sub>ClNO. It has a role as an animal growth promotant. It is a chloride salt and a quaternary ammonium salt. It contains a choline.</p>
+<p id="p0057" num="0057">As used herein, the term "D-Calcium pantothenate", also known as calpanate refers to the calcium salt of the water soluble vitamin B5, ubiquitously found in plants and animal tissues with antioxidant property. Pentothenate is a component of coenzyme A (CoA)<!-- EPO <DP n="12"> --> and a part of the vitamin B2 complex. Vitamin B5 is a growth factor and is essential for various metabolic functions, including the metabolism of carbohydrates, proteins, and fatty acids. This vitamin is also involved in the synthesis of cholesterol, lipids, neurotransmitters, steroid hormones, and hemoglobin.</p>
+<p id="p0058" num="0058">The term "Folic Acid", as used herein, also known as folate or vitamin M, of formula C<sub>19</sub>H<sub>19</sub>N<sub>7</sub>O<sub>6</sub>, is a collective term for pteroylglutamic acids and their oligoglutamic acid conjugates. As a natural water-soluble substance, folic acid is involved in carbon transfer reactions of amino acid metabolism, in addition to purine and pyrimidine synthesis, and is essential for hematopoiesis and red blood cell production.</p>
+<p id="p0059" num="0059">The term "Nicotinamide", also known as niacinamide or 3-Pyridinecarboxamide is the active form of vitamin B3 and a component of the coenzyme nicotinamide adenine dinucleotide (NAD). It has the molecular formula C<sub>6</sub>H<sub>6</sub>N<sub>2</sub>O.</p>
+<p id="p0060" num="0060">The term "Nicotinic acid", also known as niacin, or vitamin B3, with molecular formula C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub> or HOOC<sub>5</sub>H<sub>4</sub>N or C<sub>5</sub>H<sub>4</sub>NCOOH, is a water-soluble vitamin whose derivatives such as NADH, NAD, NAD+, and NADP play essential roles in energy metabolism in the living cell and DNA repair. The designation vitamin B3 also includes the amide form, nicotinamide or niacinamide.</p>
+<p id="p0061" num="0061">In some embodiments, the medium contains nicotinic acid at a concentration of at least 0,2 µg/ml, preferably 0,5 µg/ml.</p>
+<p id="p0062" num="0062">The term "Para-Aminobenzoic Acid", also known as 4-aminobenzoic acid, or simply PABA, is an organic compound with molecular formula C<sub>7</sub>H<sub>7</sub>NO<sub>2</sub>. PABA is a white crystalline substance that is only slightly soluble in water. It consists of a benzene ring substituted with an amino group and a carboxylic acid. PABA is an essential nutrient for some bacteria and is sometimes called Vitamin Bx.</p>
+<p id="p0063" num="0063">As used herein, the term "vitamin B6" refers to a refers to a group of chemically similar compounds which can be interconverted in biological systems to yield the active form which is, pyridoxal 5'-phosphat. The term includes pyridoxal hydrochloride, pyridoxine hydrochloride and pyridoxamine.<!-- EPO <DP n="13"> --></p>
+<p id="p0064" num="0064">As used herein, the term "Pyridoxal hydrochloride", also known as Pyridoxal HCI, or 3-Hydroxy-5-(hydroxymethyl)-2-methylisonicotinaldehyde hydrochloride, with molecular formula C<sub>8</sub>H<sub>10</sub>ClNO<sub>3</sub>, refers to a hydrochloride obtained by combining pyridoxal with one molar equivalent of hydrochloric acid. It has a role as an Escherichia coli metabolite, a Saccharomyces cerevisiae metabolite, a cofactor, a human metabolite and a mouse metabolite. It is a hydrochloride and a pyridinium salt. It contains a pyridoxal(1+).</p>
+<p id="p0065" num="0065">The term "Pyridoxine hydrochloride", as used herein, refers to the compound of formula C<sub>8</sub>H<sub>12</sub>ClNO<sub>3</sub>, which is the hydrochloride salt form of pyridoxine, a water-soluble vitamin B.</p>
+<p id="p0066" num="0066">The term pyridoxamine, as used herein, refers to one form of vitamin B6 which consists of a pyridine ring structure, with hydroxyl, methyl, aminomethyl, and hydroxymethyl substituents. It differs from pyridoxine by the substituent at the 4-position, which is an aminomethyl group in the pyridoxamine and a hydroxymethyl group in pyridoxine</p>
+<p id="p0067" num="0067">The term "Riboflavin", as used herein, also known as lactoflavin or vitamin B2, refers to is an essential human nutrient that is a heat-stable and water-soluble flavin belonging to the vitamin B family. Riboflavin is a precursor of the coenzymes flavin mononucleotide (FMN) and flavin adenine dinucleotide (FAD). It has the molecular formula C<sub>17</sub>H<sub>20</sub>N<sub>4</sub>O<sub>6</sub>.</p>
+<p id="p0068" num="0068">The term "Thiamine hydrochloride", as used herein, also known as Thiamine HCl, Aneurine hydrochloride or Vitamin B1 hydrochloride, refers to the hydrochloride salt form of thiamine, a vitamin essential for aerobic metabolism, cell growth, transmission of nerve impulses and acetylcholine synthesis. Upon hydrolysis, thiamine hydrochloride is phosphorylated by thiamine diphosphokinase to form active thiamine pyrophosphate (TPP), also known as cocarboxylase. TPP is a coenzyme for many enzymatic activities involving fatty acid, amino acid and carbohydrate metabolism. It has the molecular formula HC<sub>12</sub>H<sub>17</sub>ON<sub>4</sub>SCl<sub>2</sub> or C<sub>12</sub>H<sub>18</sub>Cl<sub>2</sub>N<sub>4</sub>OS.</p>
+<p id="p0069" num="0069">As used herein the term "thioctic acid" also known as "Lipoic acid (LA)" or "alpha lipoic acid (ALA)" refers to the compound of formula (R)-5-(1,2-Dithiolan-3-yl)pentanoic acid and is an organosulfur compound derived from octanoic acid. Thioctic acid contains two sulfur atoms (at C6 and C8) connected by a disulfide bond and is thus considered to be oxidized although either sulfur atom can exist in higher oxidation states.<!-- EPO <DP n="14"> --></p>
+<p id="p0070" num="0070">In a preferred embodiment the serum-free culture medium of the invention comprises thioctic acid at a concentration in a range between 0.001 mg/L to 10 mg/L, more preferably between 0.01 to 1 mg/L, preferably at 0.1 mg/L. In another embodiment, the serum-free culture medium of the invention comprises thioctic acid at a concentration of at least 0,1 µg/mL, preferably 0,2 µg/mL.</p>
+<p id="p0071" num="0071">The vitamin mixture preferably contains the following vitamins in the concentration ranges defined below:
+<ul id="ul0002" list-style="dash" compact="compact">
+<li>Thioctic acid, in a range between 0.001 mg/L to 10 mg/L, more preferably between 0.01 to 1 mg/L, preferably at 0.1 mg/L. In one embodiment, the thioctic acid is present at a concentration of at least 0,1 µg/ml, preferably of at least 0,2 µg/ml,</li>
+<li>Ascorbic acid in a range between 0.1 to 1000 mg/L, more preferably between 1 to 100 mg/L. In a particular embodiment, the concentration of ascorbic acid is of about 25 mg/L. In another embodiment, the concentration of ascorbic acid is of about 50 mg/L. In another embodiment, the concentration of ascorbic acid is of about 100 mg/L.</li>
+<li>Biotin in a range between 0.0001 to 1 mg/ml, preferably between 0.001 to 0.1 mg/L. In a particular embodiment, the concentration of biotin is of about 0.005 mg/L. In another embodiment, the concentration of biotin is of about 0.01 mg/L. In another embodiment, the concentration of biotin is of about 0.02 mg/L.</li>
+<li>Choline chloride in a range between 0.001 to 10 mg/L, more preferably between 0.01 to 1 mg/L. In a particular embodiment, the concentration of Choline chloride is of about 0.25 mg/L. In another embodiment, the concentration of Choline chloride is of about 0.5 mg/L. In another embodiment, the concentration of Choline chloride is of about 1 mg/L. In another embodiment, choline is present at a concentration of at least 0,2 µg/ml, preferably of at least 0,5 µg/ml.</li>
+<li>D-Calcium pantothenate in a range between 0.0001 to 1 mg/L, preferably between 0.001 to 0.1 mg/L. In a particular embodiment, the concentration of D-Calcium pantothenate is of about 0.005 mg/L. In another embodiment, the concentration of D-Calcium pantothenate is of about 0.01 mg/L. In another embodiment, the concentration of D-Calcium pantothenate is of about 0.02 mg/L.</li>
+<li>Folic acid in a range between 0.0001 to 1 mg/L, preferably between 0.001 to 0.1 mg/L, preferably at 0.01 mg/L. In a particular embodiment, the concentration of<!-- EPO <DP n="15"> --> Folic acid is of about 0.005 mg/L. In another embodiment, the concentration of Folic acid is of about 0.01 mg/L. In another embodiment, the concentration of Folic acid is of about 0.02 mg/L.</li>
+<li>Niacinamide in a range between 0.0001 to 1 mg/L, preferably between 0.001 to 0.1 mg/L. In a particular embodiment, the concentration of Niacinamide is of about 0.0125 mg/L. In another embodiment, the concentration of Niacinamide is of about 0.025 mg/L. In another embodiment, the concentration of Niacinamide is of about 0.05 mg/L.</li>
+<li>Nicotinic acid (Niacin) in a range between 0.0001 to 1 mg/L, preferably between 0.001 to 0.1 mg/L. In a particular embodiment, the concentration of Nicotinic acid is of about 0.0125 mg/L. In another embodiment, the concentration of Nicotinic acid is of about 0.025 mg/L. In another embodiment, the concentration of Nicotinic acid is of about 0.05 mg/L. In one embodiment, the nicotinic acid is present at a concentration of at least 0,2 µg/ml, preferably of about 0,5 µg/ml or of at least 0,5 µg/ml.</li>
+<li>Para-Aminobenzoic acid in a range between 0.0001 to 1 mg/L, preferably between 0.001 to 0.1 mg/L. In a particular embodiment, the concentration of Para-Aminobenzoic acid is of about 0.025 mg/L. In another embodiment, the concentration of Para-Aminobenzoic acid is of about 0.05 mg/L. In another embodiment, the concentration of Para-Aminobenzoic acid is of about 0.1 mg/L.</li>
+<li>Pyridoxal-hydrochloride in a range between 0.0001 to 1 mg/L, preferably between 0.001 to 0.1 mg/L. In a particular embodiment, the concentration of Pyridoxal-hydrochloride is of about 0.0125 mg/L. In another embodiment, the concentration of Pyridoxal-hydrochloride is of about 0.025 mg/L. In another embodiment, the concentration of P Pyridoxal-hydrochloride is of about 0.05 mg/L.</li>
+<li>Pyridoxine hydrochloride in a range between 0.0001 to 1 mg/L, preferably between 0.001 to 0.1 mg/L. In a particular embodiment, the concentration of Pyridoxine hydrochloride is of about 0.0125 mg/L. In another embodiment, the concentration of Pyridoxine hydrochloride is of about 0.025 mg/L. In another embodiment, the concentration of Pyridoxine hydrochloride is of about 0.05 mg/L.</li>
+<li>Riboflavin in a range between 0.0001 to 1 mg/L, preferably between 0.001 to 0.1 mg/L. In a particular embodiment, the concentration of Riboflavin hydrochloride is of about 0.005 mg/L. In another embodiment, the concentration of Riboflavin is of about 0.01 mg/L. In another embodiment, the concentration of Riboflavin is<!-- EPO <DP n="16"> --> of about 0.02 mg/L. In further embodiments, riboflavin is present at a concentration of at least 0,2 µg/ml, preferably 0,5 µg/ml.</li>
+<li>Thiamine hydrochloride in a range between 0.0001 to 1 mg/L, preferably between 0.001 to 0.1 mg/L. In a particular embodiment, the concentration of Thiamine hydrochloride is of about 0.005 mg/L. In another embodiment, the concentration of Thiamine hydrochloride is of about 0.01 mg/L. In another embodiment, the concentration of Thiamine hydrochloride is of about 0.02 mg/L.</li>
+</ul></p>
+<p id="p0072" num="0072">The serum-free culture medium of the present invention may additionally comprise i-inositol in a range between 0.0001 to 1 mg/L, preferably between 0.001 to 0.1 mg/L, preferably at 0.05 mg/L. In a particular embodiment, the concentration of i-inositol is of about 0.025 mg/L. In another embodiment, the concentration of i-inositol is of about 0.05 mg/L. In another embodiment, the concentration of i-inositol is of about 0.1 mg/L.</p>
+<p id="p0073" num="0073">The serum-free culture medium of the invention comprises lipids, said lipids being a mixture comprising cholesterol, sphingomyelin or ceramide, phosphatidylcholine, L-α-Phosphatidyl-DL-glycerol, 1,2-Dipalmitoyl-sn-glycero-3-phosphocholine.</p>
+<p id="p0074" num="0074">The term cholesterol as used herein refers to the chemical compound with the molecular formula C<sub>27</sub>H<sub>46</sub>O. Cholesterol is an animal sterol found in the body tissues (and blood plasma) of vertebrates. It is a cholestanoid consisting of cholestane having a double bond at the 5,6-position as well as a 3beta-hydroxy group. It is a 3beta-sterol, a cholestanoid, a C27-steroid and a 3beta-hydroxy-Delta(5)-steroid</p>
+<p id="p0075" num="0075">In one embodiment, cholesterol is present at a concentration of about 30 µg/mL In further embodiments, cholesterol is present at a concentration of between 1 and 100 µg/mL, 2 and 90 µg/mL, 5 and 80 µg/mL, 10 and 70 µg/mL, 15 and 60 µg/mL, 20 and 50 µg/mL, 25 and 35 µg/mL.</p>
+<p id="p0076" num="0076">The term "sphingomyelin" (SPM), or formula (E,2S,3R)-3-hydroxy-2-[[(Z)-tetracos-15-enoyl]amino]octadec-4-enyl] 2-(trimethylazaniumyl)ethyl phosphate), is a type of sphingolipid found in animal cell membranes, especially in the membranous myelin sheath that surrounds some nerve cell axons. It usually consists of phosphocholine and ceramide, or a phosphoethanolamine head group; therefore, sphingomyelins can also be classified as sphingophospholipids.<!-- EPO <DP n="17"> --></p>
+<p id="p0077" num="0077">The term "ceramide" as used herein, refers to a family of compounds which result from esterification of sphingosine by a fatty acid. Depending on the type of fatty acid forming part of the ceramide, this can be classified as a Ceramide I, ceramide Ila, ceramide IIb, ceramide III, ceramide IV, ceramide V, ceramide V or ceramide VI).</p>
+<p id="p0078" num="0078">In one embodiment, sphingomyelin is present at a concentration of about 10 µg/mL. In further embodiments, sphingomyelin is present at a concentration of between 0,1 and 100 µg/mL, 0,5 and 90 µg/mL, 1 and 80 µg/mL, 1,5 and 70 µg/mL, 2 and 60 µg/mL, 3 and 50 µg/mL, 3,5 and 35 µg/mL, 4 and 30 µg/mL, 5 and 20 µg/mL or 5 and 15 µg/mL,</p>
+<p id="p0079" num="0079">The term "phosphatidylcholine", as used herein refers to a class of phospholipids that have choline as a head group. This phospholipid is composed of a choline head group and glycerophosphoric acid, with a variety of fatty acids. Usually, one is a saturated fatty acid (in the given figure, this can be palmitic or hexadecanoic acid, H<sub>3</sub>C-(CH<sub>2</sub>)<sub>14</sub>-COOH; margaric acid identified by Gobley in egg yolk, or heptadecanoic acid H<sub>3</sub>C-(CH<sub>2</sub>)<sub>15</sub>-COOH, also belong to that class); and the other is an unsaturated fatty acid (here oleic acid, or 9Z-octadecenoic acid, as in Gobley's original egg yolk lecithin). However, there are also examples of disaturated species.</p>
+<p id="p0080" num="0080">In one embodiment, phosphatidylcholine is present at a concentration of about 60 µg/mL. In further embodiments, phosphatidylcholine is present at a concentration of between 0,1 and 500 µg/mL, 0,5 and 400 µg/mL, 1 and 300 µg/mL, 5 and 200 µg/mL, 10 and 100 µg/mL, 40 and 70 µg/mL</p>
+<p id="p0081" num="0081">As used herein, L-α-Phosphatidyl-DL-glycerol refers to a family of compounds in which the DL-glycerol 3-phosphate backbone ester-is bonded to either saturated or unsaturated fatty acids on carbons 1 and 2.</p>
+<p id="p0082" num="0082">In further embodiments, L-α-Phosphatidyl-DL-glycerol is present at concentrations of between 0,1 and 200 µg/mL, between 0,5 and 150 µg/mL, between 1 and 100 µg/mL, between 0,5 and 50 µg/mL or between 10 and 20 µg/mL.<!-- EPO <DP n="18"> --></p>
+<p id="p0083" num="0083">The term 1,2-Dipalmitoyl-sn-glycero-3-phosphocholine is used to refer to a compound which results from the attachment of two palmitic acids to a phosphatidylcholine head-group.</p>
+<p id="p0084" num="0084">In further embodiments, the 1,2-Dipalmitoyl-sn-glycero-3-phosphocholine is present at concentrations of between 0,1 and 200 µg/mL, between 0,5 and 150 µg/mL, between 1 and 100 µg/mL, between 0,5 and 50 µg/mL or between 10 and 20 µg/mL</p>
+<p id="p0085" num="0085">One or more of the lipids mentioned above may be provided as a complex with a delivery vehicle. In one embodiment, cholesterol is provided as a complex with a delivery vehicle. In another embodiment, sphingomyelin is provided as a complex with a delivery vehicle. In another embodiment, phosphatidylcholine is provided as a complex with a delivery vehicle. In another embodiment, L-α-Phosphatidyl-DL-glycerol is provided as a complex with a delivery vehicle. In another embodiment, 1,2-Dipalmitoyl-sn-glycero-3-phosphocholine is provided as a complex with a delivery vehicle. In some embodiments, at least two, at least three, at least four or all lipids defined above are provided as a complex with a delivery vehicle.</p>
+<p id="p0086" num="0086">It will be understood that the concentrations of these components, while being present at concentration ratios as defined above, should also be present at concentrations that do not result in a substantially toxicity to the cells.</p>
+<p id="p0087" num="0087">The term "concentration that does not result in a substantial toxicity to the cells" as used herein, refers to the concentration of a component in a culture medium that does not substantially delay the growth of the cells in comparison with the growth in the same medium and under the same condition in the absence of the component. The concentration of a given component that does not result in a substantial toxicity to the cells prevent the cells to grow when present in a culture medium can determined by calculating the IC50 for said component, said IC50 being the concentration that causes a 50% growth inhibition. In some embodiments, the concentration that does not result in a substantial toxicity to the cells for sphingomyelin and for phosphatidylcholine corresponds to the IC50, to 90% of the IC50, to 80% of the IC50, to 70% of the IC50, to 60% of the IC50 or less.</p>
+<p id="p0088" num="0088">In another embodiment the lipid mixture additionally comprises a fatty acid.<!-- EPO <DP n="19"> --></p>
+<p id="p0089" num="0089">The term "fatty acid" as used herein, refers to an aliphatic carboxylic acid having the formula RCOOH wherein R is an aliphatic group having at least 4 carbons, typically between about 4 and about 28 carbon atoms. The aliphatic R group can be saturated or unsaturated, branched or unbranched. Unsaturated fatty acids" may be monounsaturated or polyunsaturated.</p>
+<p id="p0090" num="0090">In one embodiment, the fatty acid is palmitic acid, oleic acid or a mixture thereof.</p>
+<p id="p0091" num="0091">In particular the concentration of palmitic acid in the serum-free culture medium is in the range between 0.01 and 100 mg/L, more preferably between 0.1 and 100 mg/L, preferably between 10 and 40 mg/L, preferably at about 20 mg/L, and more particularly at about 16.6 mg/L.</p>
+<p id="p0092" num="0092">In another embodiment, the concentration of oleic acid in the serum-free culture medium is in the range between 0.01 and 100 mg/L, more preferably between 0.1 and 100 mg/L (w/w), preferably between 10 and 40 mg/L preferably at about 20 mg/L (w/w), and more particularly at 20 mg/L..</p>
+<p id="p0093" num="0093">The fatty acids are preferably provided in free form, i.e. not forming part of a complex to a vehicle or a carrier, including bovine serum albumin (BSA), preferably delipidated BSA, polyvinyl alcohol (PVA) or lipid vesicles. In particular embodiment, the carrier to deliver cholesterol is BSA, at a concentration range between 0.1 and 10%, more preferably between 1 and 5%, preferably at about 3%.</p>
+<p id="p0094" num="0094">The serum-free culture medium also comprises inorganic salts. In an embodiment, the inorganic salt is selected from the group comprising Calcium Chloride (CaCl<sub>2</sub>-2H<sub>2</sub>O), Magnesium Sulfate (MgSO<sub>4</sub>-7H<sub>2</sub>O), Potassium Chloride (KCl), Sodium Bicarbonate (NaHCO<sub>3</sub>), Sodium Chloride (NaCl), Sodium Phosphate monobasic (NaH<sub>2</sub>PO<sub>4</sub>-2H<sub>2</sub>O).</p>
+<p id="p0095" num="0095">The inorganic salts are preferably contained in the medium in the concentration ranges defined below.
+<ul id="ul0003" list-style="dash" compact="compact">
+<li>Calcium Chloride (CaCl<sub>2</sub>-2H<sub>2</sub>O), in a range between 1 to 1000 mg/L, more particularly between 10 to 600 mg/L. In an embodiment, the concentration of Calcium Chloride is of about 130 mg/L. In another embodiment, the concentration<!-- EPO <DP n="20"> --> of Calcium Chloride is about 165 mg/L. In another embodiment, the concentration of Calcium Chloride is about 530 mg/L.</li>
+<li>Magnesium Sulfate (MgSO<sub>4</sub>-7H<sub>2</sub>O), in a range between 1 to 1000 mg/L, more particularly between 10 to 600 mg/L. In a particular embodiment, the concentration of Magnesium Sulfate is of about 100 mg/L. In another embodiment, the concentration of Magnesium Sulfate is of about 400 mg/L. In another embodiment, the concentration of Magnesium Sulfate is of about 200 mg/L.</li>
+<li>Potassium Chloride (KCl), in a range between 1 and 15000 mg/L, more particularly between 100 to 1000 mg/L. In an embodiment the concentration of Potassium Chloride is of about 200 mg/L. In another embodiment the concentration of Potassium Chloride is of about 400 mg/L. In another embodiment, the concentration of Potassium Chloride is of about 800 mg/L.</li>
+<li>Sodium Bicarbonate (NaHCO<sub>3</sub>), in a range between 100 and 10000 mg/L, preferably between 500 and 5000 mg/L. In a particular embodiment, the concentration of Sodium Bicarbonate is of about 1100 mg/L. In another embodiment, the concentration of Sodium Bicarbonate is of about 2200 mg/L, In another embodiment, the concentration of Sodium Bicarbonate is of about 4400 mg/L.</li>
+<li>Sodium Chloride (NaCl), in a range between 100 and 20000 mg/L, preferably between 1000 and 15000 mg/L. In a particular embodiment, the concentration of Sodium Chloride is of about 3400 mg/L. In another embodiment, the concentration of Sodium Chloride is of about 6800 mg/L. In another embodiment, the concentration of Sodium Chloride is of about 13600 mg/L.</li>
+</ul></p>
+<p id="p0096" num="0096">In a particular embodiment, the inorganic salts present in the serum-free culture medium of the invention include at least one salt wherein the cation is calcium, magnesium, potassium or sodium and wherein the anion is chloride, sulfate, bicarbonate or phosphate monobasic.</p>
+<p id="p0097" num="0097">The serum-free culture medium of the invention comprises nucleosides or nucleotides monophosphate. Nucleosides are molecules consisting of a nitrogenous base and either ribose or deoxyribose. Nucleotides monophosphate are molecule consisting of a nucleoside and one phosphate group.<!-- EPO <DP n="21"> --></p>
+<p id="p0098" num="0098">Nucleosides include cytidine, deoxycytidine, uridine, adenosine, deoxyadenosine, guanosine, deoxyguanosine and thymidine.</p>
+<p id="p0099" num="0099">Nucleotides monophosphate include adenosine monophosphate, guanosine monophosphate, cytidine monophosphate, thymidine monophosphate and uridine monophosphate. Said nucleotides preferably include adenosine ribonucleotide monophosphate, and adenosine deoxyribonucleotide monophosphate, collectively termed herein adenine; guanosine ribonucleotide monophosphate and guanosine deoxyribonucleotide monophosphate, collectively termed herein guanine; cytidine ribonucleotide monophosphate, termed cytidine; cytidine deoxyribonucleotide monophosphate, termed deoxycytidine; thymidine deoxyribonucleotide monophosphate, termed thymidine; uridine ribonucleotide monophosphate, termed uracil; adenosine ribonucleotide 3'5'-biphosphate, or a combination thereof. These nucleosides and nucleotides monophosphate may be obtained commercially, for example from Sigma (Saint Louis, Missouri).</p>
+<p id="p0100" num="0100">Said nucleotides monophosphate or nucleosides as defined above are preferably present in the serum-free culture medium of the invention at a concentration between 1 µM and 1mM, more preferably at a concentration between 50 µM and 200 µM.</p>
+<p id="p0101" num="0101">In an embodiment, the serum-free culture medium of the invention comprises nucleosides selected from the group comprising 2'-deoxyadenosine, 2'-deoxycytidine and 2'-deoxyguanosine but lacks thymidine and uridine.</p>
+<p id="p0102" num="0102">In an embodiment, the serum-free culture medium of the invention comprises nucleosides selected from the group comprising adenosine, cytidine and guanosine but lacks thymidine and uridine.</p>
+<p id="p0103" num="0103">In an embodiment, the serum-free culture medium of the invention comprises nucleotides monophosphate selected from the group comprising 2'-deoxyadenosine monophosphate, 2'-deoxycytidine monophosphate, 2'-deoxyguanosine monophosphate but lacks thymidine monophosphate and uridine-5'-monophosphate.</p>
+<p id="p0104" num="0104">In an embodiment, the serum-free culture medium of the invention comprises nucleotides monophosphate selected from the group comprising adenosine monophosphate,<!-- EPO <DP n="22"> --> cytidine monophosphate, guanosine monophosphate, but lacks thymidine monophosphate and uridine-5'-monophosphate.</p>
+<p id="p0105" num="0105">These nucleosides and nucleotides monophosphate are preferably contained in the medium in the concentration ranges defined below.</p>
+<p id="p0106" num="0106">2'-deoxyadenosine or 2'-deoxyadenosine monophosphate can be found in a range between 0.1 and 100 mg/L, preferably between 1 and 100 mg/L. In a particular embodiment, the concentration of 2'Deoxyadenosine or 2'-deoxyadenosine monophosphate is of about 5 mg/L. In another embodiment, the concentration of 2'Deoxyadenosine or 2'-deoxyadenosine monophosphate is of about 10 mg/L. In another embodiment, the concentration of 2'Deoxyadenosine or 2'-deoxyadenosine monophosphate is of about 20 mg/L.</p>
+<p id="p0107" num="0107">Adenosine or adenosine monophosphate can be found in a range between 0.1 and 100 mg/L, preferably between 1 and 100 mg/L. In a particular embodiment, the concentration of adenosine or adenosine monophosphate is of about 5 mg/L. In another embodiment, the concentration of adenosine or adenosine monophosphate is of about 10 mg/L. In another embodiment, the concentration of adenosine or adenosine monophosphate is of about 20 mg/L.</p>
+<p id="p0108" num="0108">2'-deoxycytidine or 2'-deoxycytidine monophosphate can be found in a range between 0.1 and 100 mg/L, preferably between 1 and 100 mg/L. In a particular embodiment, the concentration of 2'Deoxycytidine or of 2'-deoxycytidine monophosphate is of about 5 mg/L. In another embodiment, the concentration of 2'Deoxycytidine or of 2'-deoxycytidine monophosphate is of about 10 mg/L. In another embodiment, the concentration of 2'Deoxycytidine or of 2'-deoxycytidine monophosphate is of about 20 mg/L.</p>
+<p id="p0109" num="0109">Deoxycytidine or cytidine monophosphate can be found in a range between 0.1 and 100 mg/L, preferably between 1 and 100 mg/L. In a particular embodiment, the concentration of cytidine or of cytidine monophosphate is of about 5 mg/L. In another embodiment, the concentration of cytidine or of cytidine monophosphate is of about 10 mg/L. In another embodiment, the concentration of cytidine or of ycytidine monophosphate is of about 20 mg/L.<!-- EPO <DP n="23"> --></p>
+<p id="p0110" num="0110">2'-deoxyguanosine or 2'-deoxyguanosine monophosphate can be found in a range between 0.1 and 100 mg/L, preferably between 1 and 100 mg/L. In a particular embodiment, the concentration of 2'Deoxyguanosine or 2'-deoxyguanosine monophosphate is of about 5 mg/L. In another embodiment, the concentration of 2'Deoxyguanosine or 2'-deoxyguanosine monophosphate is of about 10 mg/L. In another embodiment, the concentration of 2'Deoxyguanosine or 2'-deoxyguanosine monophosphate is of about 20 mg/L.</p>
+<p id="p0111" num="0111">Guanosine or guanosine monophosphate can be found in a range between 0.1 and 100 mg/L, preferably between 1 and 100 mg/L. In a particular embodiment, the concentration of guanosine or guanosine monophosphate is of about 5 mg/L. In another embodiment, the concentration of guanosine or guanosine monophosphate is of about 10 mg/L. In another embodiment, the concentration of guanosine or guanosine monophosphate is of about 20 mg/L.</p>
+<p id="p0112" num="0112">When present, 5-Methyl-deoxycytidine or 5-Methyl-deoxycytidine monophosphate can be found in a range between 0.01 and 100 mg/L, preferably between 0.1 and 10 mg/L. In a particular embodiment, the concentration of 5-Methyl-deoxycytidine or 5-Methyl-deoxycytidine monophosphate is of about 0.05 mg/L. In another embodiment, the concentration of 5-Methyl-deoxycytidine or 5-Methyl-deoxycytidine monophosphate is of about 0.1 mg/L. In another embodiment, the concentration of 5-Methyl-deoxycytidine or 5-Methyl-deoxycytidine monophosphate is of about 0.2 mg/L.</p>
+<p id="p0113" num="0113">Uridine or uridine monophosphate can be found in a range of between 0.01 to 100 mg/L, preferably between 0.1 and 10 mg/L. In a particular embodiment, the concentration of uridine or uridine monophosphate is of about 0.5 mg/L. In another embodiment, the concentration of uridine or uridine monophosphate is of about 1 mg/L. In another embodiment, the concentration of uridine or uridine monophosphate is of about 2 mg/L.</p>
+<p id="p0114" num="0114">Thymidine or thymidine monophosphate can be found at a a concentration range between 0.01 to 100 mg/L, preferably between 0.1 to 50 mg/L. In a particular embodiment, the concentration of thymidine or thymidine monophosphate is about 5 mg/L. In another embodiment, the concentration of thymidine or thymidine<!-- EPO <DP n="24"> --> monophosphate is about 11 mg/L. In another embodiment, the concentration of thymidine or thymidine monophosphate is about 20 mg/L.</p>
+<p id="p0115" num="0115">The serum-free culture medium of the invention comprises a mixture of enzymatic cofactors. A used herein, the term "enzymatic cofactor" or "enzyme cofactor" refers to a compound of non-proteinaceous structure which is required by an enzyme to perform its catalytic activity. Cofactors are classified into two groups: (a) metals or metalloorganic compounds; and (b) organic molecules, or coenzymes. Coenzymes can be further divided into two subgroups. In the first of these, the coenzyme is attached to the active site and can be separated, usually reversibly, from it. Thiamine pyrophosphate and pyridoxal phosphate are good examples of such coenzymes. The coenzymes of the second group are not parts of the active site, but are specific and necessary reagents of the catalyzed reactions. Suitable enzymatic cofactors for the serum-free culture medium of the invention include, without limitation NAD, NADP, NADH, NADPH, FAD and FMN.</p>
+<p id="p0116" num="0116">In another embodiment, mixture of enzymatic cofactors of the serum-free medium of the invention comprises co-carboxylase, Coenzyme A, diphosphopyridine nucleotide (NAD) and flavin adenine dinucleotide (FAD) and triphosphopyridine Nucleotide (NADP). In one embodiment, the mixture of enzymatic cofactors contains NAD but lacks NADP.</p>
+<p id="p0117" num="0117">The term co-carboxylase, also known as thiamine pyrophosphate co-carboxylase as used herein refers to the coenzyme form of Vitamin B1 present in many animal tissues. It is a required intermediate in the pyruvate dehydrogenase complex and the ketoglutarate dehydrogenase complex. Is has the molecular formula C<sub>12</sub>H<sub>19</sub>ClN<sub>4</sub>O<sub>7</sub>P<sub>2</sub>S. The concentration of co-carboxylase within the serum-free culture medium of the invention is in a range between 0.1 to 100 mg/L, more preferably between 1 to 10 mg/L. In a particular embodiment, the concentration of co-carboxylase in the culture medium of the invention is of about 0.5 mg/L. In another embodiment, the concentration of co-carboxylase in the culture medium of the invention is of about 1 mg/L. In another embodiment, the concentration of co-carboxylase in the culture medium of the invention is of about 2 mg/L.</p>
+<p id="p0118" num="0118">The term Coenzyme A, as used herein, also known as S-Acetyl coenzyme A refers to acyl-CoA having acetyl as its S-acetyl component. It has a role as an effector, a coenzyme, an acyl donor and a fundamental metabolite. It derives from an acetic acid<!-- EPO <DP n="25"> --> and a coenzyme A. It is a conjugate acid of an acetyl-CoA. The concentration of coenzyme A within the serum-free culture medium of the invention is in a range between 0.1 to 100 mg/L, more preferably between 1 to 10 mg/L. In a particular embodiment, the concentration of coenzyme A in the culture medium of the invention is of about 1.25 mg/L. In another embodiment, the concentration of coenzyme A in the culture medium of the invention is of about 2.5 mg/L. In another embodiment, the concentration of coenzyme A in the culture medium of the invention is of about 5 mg/L.</p>
+<p id="p0119" num="0119">The term "diphosphopyridine nucleotide" (NAD), as used herein, also known as alpha-NAD, makes reference to a cofactor that is central to metabolism. Found in all living cells, NAD is called a dinucleotide because it consists of two nucleotides joined through their phosphate groups. One nucleotide contains an adenine nucleobase and the other nicotinamide. NAD exists in two forms: an oxidized and reduced form, abbreviated as NAD+ and NADH respectively. It has the molecular formula C<sub>21</sub>H<sub>27</sub>N<sub>7</sub>O<sub>14</sub>P<sub>2</sub>. The concentration of NAD within the serum-free culture medium of the invention is in a range between 0.1 to 100 mg/L, more preferably between 1 to 20 mg/L. In a particular embodiment, the concentration of NAD in the culture medium of the invention is of about 3.5 mg/L. In another embodiment, the concentration of NAD in the culture medium of the invention is of about 7 mg/L. In another embodiment, the concentration of NAD in the culture medium of the invention is of about 14 mg/L.</p>
+<p id="p0120" num="0120">The term flavin adenine dinucleotide (FAD), also known as flavin-adenine dinucleotide or flavitan, refers to a flavin adenine dinucleotide in which the substituent at position 10 of the flavin nucleus is a 5'-adenosyldiphosphoribityl group. It has a role as a human metabolite, an Escherichia coli metabolite, a mouse metabolite, a prosthetic group and a cofactor. It has the molecular formula C<sub>27</sub>H<sub>33</sub>N<sub>9</sub>O<sub>15</sub>P<sub>2</sub>. The concentration of FAD within the serum-free culture medium of the invention is in a range between 0.1 to 100 mg/L, more preferably between 1 to 10 mg/L. In a particular embodiment, the concentration of FAD in the culture medium of the invention is of about 0.5 mg/L. In another embodiment, the concentration of FAD in the culture medium of the invention is of about 1 mg/L. In another embodiment, the concentration of FAD in the culture medium of the invention is of about 2 mg/L.</p>
+<p id="p0121" num="0121">As used herein, the term triphosphopyridine Nucleotide (NADP), also known as codehydrogenase II, or nicotinamide adenine dinucleotide phosphate refers to a<!-- EPO <DP n="26"> --> coenzyme composed of ribosylnicotinamide 5'-phosphate (NMN) coupled by pyrophosphate linkage to the 5'-phosphate adenosine 2',5'-bisphosphate. It serves as an electron carrier in a number of reactions, being alternately oxidized (NADP+) and reduced (NADPH). The concentration of NADP in the culture medium of the invention is in a range between 0.01 to 100 mg/L, more particularly between 0.1 to 10 mg/L, preferably of about 1 mg/L. In a particular embodiment the concentration of NADP within the serum-free culture medium is of about 0.5 mg/L. In another embodiment the concentration of NADP in the culture medium of the invention is of about 1 mg/L. In another embodiment, the concentration of NADP in the culture medium of the invention if of about 2 mg/L.</p>
+<p id="p0122" num="0122">The serum-free culture medium of the invention comprises a proteolytic digest of a microorganism or a plant or animal tissue. The term "proteolytic digest" refers to the product derived from the breakdown of proteins into smaller polypeptides or amino acids. Proteolysis is typically catalysed by cellular enzymes called proteases, but may also occur by intra-molecular digestion or different processes known by a skilled in the art. As mentioned above, the proteolytic digest will provide amino acids to the medium in the form of peptides. In a particular embodiment, the peptides are derived from the proteolytic digest of a microorganism or of a plant or animal tissue, in which case the peptide may be selected from peptone, PPLO and yeastolate.</p>
+<p id="p0123" num="0123">It will be understood that, although not specifically excluded from the invention, the media defined herein usually contain a single type of proteolytic digest of a microorganism or a plant or animal tissue. Thus, in some embodiments, the media contains PPLO but lacks yeastolate. In other embodiments, the media contains yeastolate but lacks PPLO.</p>
+<p id="p0124" num="0124">The term PPLO, refers to a beef heart infusion, pancreatic digest of casein and beef extract broth. In a particular embodiment, the culture medium of the invention comprises PPLO in a concentration in a range between 0.01 to 10 mg/ml, more particularly between 0.1 to 10 mg/ml. In preferred embodiment, the concentration of PPLO is of about 1 mg/ml. In a preferred embodiment, the concentration of PPLO in the serum-free culture medium of the invention is of 15 mg/ml.</p>
+<p id="p0125" num="0125">The term "yeastolate" refers to are animal-free and water-soluble portions of autolyzed yeast or <i>Saccharomyces cerevisiae.</i> It comprises a mixture of peptides, amino acids,<!-- EPO <DP n="27"> --> carbohydrates, simple and complex as well as vitamins. In a particular embodiment, the culture medium of the invention comprises yeastolate in a concentration in a range between 0.1 to 100 mg/ml, more particularly between 1 to 50 mg/ml. In preferred embodiment, the concentration of yeastolate is of about 10 mg/ml. In a preferred embodiment, the concentration of yeastolate in the serum-free culture medium of the invention is of 10 mg/ml. In preferred embodiment, the concentration of yeastolate is of about 7,5 mg/ml. In a preferred embodiment, the concentration of yeastolate in the serum-free culture medium of the invention is of 7,5 mg/ml.</p>
+<p id="p0126" num="0126">In another embodiment, the culture medium according to the invention contains a vehicle to solubilize and deliver the lipids.</p>
+<p id="p0127" num="0127">The term "vehicle for solubilizing and delivering lipids" as used herein, refers to any compound which is capable of forming a complex with lipids and of shielding their hydrophobic parts such as the complexes can be found dissolved or dispersed in an aqueous solution.</p>
+<p id="p0128" num="0128">In another embodiment, the vehicle to solubilize and deliver the lipids forming part of the culture medium according to the invention is not a cyclodextrin.</p>
+<p id="p0129" num="0129">As used herein, cyclodextrins refer to a macrocyclic ring of glucose subunits joined by α-1,4 glycosidic bonds and which consist of 5 or more α-D-glucopyranoside units linked 1-&gt;4, as in amylose (a fragment of starch). Typical cyclodextrins contain a number of glucose monomers ranging from six to eight units in a ring, creating a cone shape and include α-cydodextrin (6 glucose subunits), β-cydodextrin: (7 glucose subunits) and γ-cyclodextrin (8 glucose subunits). Suitable cyclodextrins for use in the present invention include any of the cyclodextrins commonly used in drug delivery such as those described by <nplcit id="ncit0003" npl-type="s"><text>Chordiya and Senthilkumaran (2012) Research and Reviews: Journal of Pharmacy and Pharmaceutical Sciences I(I):19-29 </text></nplcit>(especially Table 2 thereof as it describes different cyclodextrins in use as carriers). These include α-cyclodextrin, β-cydodextrin, and γ-cydodextrin, or derivatives of any of these cyclodextrins. The cyclodextrin derivatives herein refers to, for example, compounds obtained by replacing hydrogen or hydroxyl group(s) of cyclodextrin with other substituent(s). Examples of such substituents include, but are not limited to, alkyl having 1 to 4 carbon atoms, alkenyl having 1 to 4 carbon atoms, and groups having a C-O bond, such as acetyl.<!-- EPO <DP n="28"> --></p>
+<p id="p0130" num="0130">In another embodiment, the vehicle to solubilize and deliver the lipids forming part of the culture medium according to the invention comprises polyvinyl alcohol. PVA is well known in the art and can be commercially purchased. PVA analogues or derivatives can also be used for the preparation of the culture medium according to the present invention but PVA as disclosed herein is preferred. The skilled person knows how to prepare and dissolve PVA to obtain a suitable PVA liquid form.</p>
+<p id="p0131" num="0131">In some embodiments, PVA is present in the culture medium at a concentration of at least about 0,5%, at least about 1% or at least about 2%.</p>
+<p id="p0132" num="0132">In another embodiment, the vehicle to solubilize and deliver the lipids forming part of the culture medium according to the invention comprises liposomes.</p>
+<p id="p0133" num="0133">The term liposomes, as used herein, refers to a closed structure comprising an outer lipid bi- or multi-layer membrane surrounding an internal aqueous space. Liposomes may be multi-laminar or unilaminar. The liposome is contemplated to range in size from 5 to 10 micro M in diameter to nanoparticle size. In certain embodiments, the liposome nanoparticle is from about 50 to 500 nm, from about 100 nm to 300 nm or from about 100 to 200 nm in diameter.</p>
+<p id="p0134" num="0134">In one embodiment, the liposomes are provided at a concentration of about present 0.1% (w/w). In some embodiments, the liposomes are provided at concentrations of between 0,01 and 1%, between 0,02 and 0,9%, between 0,03 and 0,7%, between 0,04% and 0,6%, between 0,05% and 0,5%, between 0,06 and 0,4%, between 0,07 and 0,8% or between 0,09 and 0,11%.</p>
+<p id="p0135" num="0135">In various embodiments, the liposomes comprise lipids, fatty acids, sterols and/or free fatty acids. In various embodiments, the liposomes comprise cholesterol and phosphatidylcholine at concentrations that provide a more physiologically relevant milieu for cell growth. In one embodiment, the liposomes contain L-alpha-phosphatidylcholine and cholesterol. In additional embodiments, the liposomes contain about 18,8 mg/ml of<!-- EPO <DP n="29"> --> L-alpha-phosphatidylcholine and about 4,2 mg/ml of cholesterol. IN additional embodiments, the ratio of phosphatidylcholine and cholesterol in the liposomes is of about 4:1 (w/w).</p>
+<p id="p0136" num="0136">It will be understood that, although not specifically excluded from the invention, the media defined herein usually contain a single type of vehicle for solubilizing and delivering lipids. Thus, in some embodiments, the medium according to the present invention contains a lipid-binding protein but lacks cyclodextrins, polyvinyl alcohol (PVA) and liposomes. In some embodiments, the medium according to the present invention contains a polyvinyl alcohol (PVA) but lacks a lipid-binding protein, cyclodextrin and liposomes. In some embodiments, the medium according to the present invention contains a liposomes, but lacks lipid-binding protein, polyvinyl alcohol (PVA) or a cyclodextrin.</p>
+<p id="p0137" num="0137">In another embodiment, the serum-free culture medium of the invention also comprises a polyamine. The term "polyamine" refers to any of a group of organic compounds composed of carbon, nitrogen, and hydrogen, and containing two or more amino groups. For example, the term encompasses molecules selected from the group consisting of cadaverine, putrescine, spermidine, spermine, agmatine, and ornithine.</p>
+<p id="p0138" num="0138">In a preferred embodiment, the polyamine is spermine. The term spermine, also known as musculamine, or neuridine refers to a spermidine-derived biogenic polyamine found as a polycation at all pH values. The concentration of spermine in the culture medium of the invention is in a range between 0.01 to 100 mg/L, more particularly between 0.1 to 50 mg/L, preferably of about 10 mg/L. In a preferred embodiment the concentration of spermine is of about 1 mg/ml.</p>
+<p id="p0139" num="0139">In a particular embodiment, the medium of the invention further comprises one or more organic acids or a salt thereof.</p>
+<p id="p0140" num="0140">As used herein "organic salts" are defined as compounds build on a carbon skeleton, containing a functional group with acidic properties, usually weaker than mineral acid. This term includes in particular carboxylic acids and sulfonic acids, containing the group -SO<sub>2</sub>OH. Carboxylic acids are characterized with the presence of a carboxyl group (-COOH) composed of two functional groups: a hydroxyl group (-OH) that is bonded to a<!-- EPO <DP n="30"> --> carbonyl group (C=0). Organic acids are written in a condensed form R-COOH. Carboxylic acids include aliphatic, aromatic and cycloaliphatic carboxylic acids, depending on the structure of the carbon skeleton (R).</p>
+<p id="p0141" num="0141">Suitable organic acids to be used in the culture medium according to the invention include, without limitation, one or more of lactic acid, acetic acid, glucuronic acid, succinic acid, propionic acid, butyric acid, methyl butyric acid, hydroxybutyric acid, aminobutyric acid (in particular GABA, gamma-aminobutyric acid), valeric acid, formic acid, aspartic acid, fumaric acid, oxalic acid, orotic acid, ketoglutaric acids, citric acid, glutamic acid, glyoxylic acid, glycolic acid, pyruvic acid, malic acid, sorbic acid and tartaric acid.</p>
+<p id="p0142" num="0142">In another embodiment, the organic acids present in the culture medium of the invention are acetate or glucuronate. In additional embodiments, acetate is found in the culture medium at concentrations of at least about 41,5 mg/L, at least about 83 mg/L or at least about 166 mg/L. In other embodiments, acetate is found in the culture medium at concentrations of between 1 and 500 mg/L, between 10 and 400 mg/L, between 20 and 300 mg/L or between 40 and 200 mg/L.</p>
+<p id="p0143" num="0143">In additional embodiments, glucuronate is found in the culture medium at concentrations of about 8,40 mg/L, about 4,2 mg/L or about 2.1 mg/L. In additional embodiments, acetate is found in the culture medium at concentrations of between about 0,1 mg/L and 50 mg/L, of between 0,2 and 40 mg/L, of between 0,5 and 30 mg/L, of between 1 and 20 mg/L or of between 2 and 10 mg/L.</p>
+<p id="p0144" num="0144">In another embodiment, the serum-free media of the invention lacks RNA, including RNA from any source such as RNA from yeast.</p>
+<p id="p0145" num="0145">In a particular embodiment the serum-free culture medium of the invention further comprises an antioxidant.</p>
+<p id="p0146" num="0146">As used herein, an "antioxidant" can be defined as "any substance that delays, prevents or removes oxidative damage to a target molecule". A target molecule can be any oxidizable substrate, e.g., any organic molecule found in vivo. In some embodiments, an antioxidant is a substance that significantly delays or prevents oxidation of an oxidizable<!-- EPO <DP n="31"> --> substrate. In some embodiments, an antioxidant is capable of significantly delaying or preventing oxidation of an oxidizable substrate even when present at low concentrations compared with those of an oxidizable substrate</p>
+<p id="p0147" num="0147">As used herein, the term "antioxidant" includes compounds with a known structure as well as compositions that may be at least partially uncharacterized. An antioxidant can be a naturally occurring compound or may be a compound invented by man. Exemplary antioxidants include vitamin C, vitamin E, lipoic acid, L-sulforaphane, reduced L-glutathione, butylated hydroxyanisole, alpha tocopherol, deferoxamine, resveratrol, N-acetylcysteine, Trolox, curcumin, morin hydrate, vitamin A, a vitamin B (e.g., vitamin B I, B2, B6, and/or B12), coenzyme Q, green tea (epigallocatechin gallate-EGCG), citric acid, oxalic acid, phytic acid, chicoric acid, chlorogenic acid, cinnamic acid, ellagic acid, gallic acid, gallotannins, rosmarinic acid, silymarin, eugenol, manganese, zinc, adenosine, transferrin, lactoferrin, cysteine, histidine-containing dipeptides, pyridoxamine, carotenoids, flavonoids (e.g., kaempferol, myricetin, silymarin, quercetin), flavones and flavonols (e.g., planar flavones and flavonols with a 7-hydroxyl group), other phenolic compounds (e.g., plant-derived phenolics), melatonin, coelenterazine, nordihydroguaiaretic acid (NDGA), curcumin (diferuloylmethane), 21 -amino steroids (also called lazaroids), various antibiotics (e.g., tetracyclines), azoles (e.g., ketoconazole), thiols (e.g., mercaptopropionylglycine), metal ion chelators (e.g., iron chelators such as ICRF-187, deferasirox, deferiprone, hydroxypyridones), fullerenes, xanthine oxidase inhibitors (e.g., purine analogues such as allopurinol, oxypurinol, and tisopurine and other compounds such as febuxostat and inositols), selenium (e.g., sodium selenite, selenous acid), uric acid, bilirubin, trehalose, lipid-soluble chain-breaking antioxidants such as BHT and ethoxyquin, superoxide dismutase (SOD), catalase, superoxide dismutase (SOD).</p>
+<p id="p0148" num="0148">In a preferred embodiment the antioxidant is reduced glutathione. The concentration of glutathione in the medium is of at least 20 mg/L, of at least 10 mg/L or of at least 5 mg/L. In other embodiments, reduced glutathione is present in the culture medium at a concentration of between 1 and 50 mg/L, between 2 and 40 mg/L, between 3 and 30 mg/L, between 4 and 20 g/L or between 5 and 10 mg/L.</p>
+<p id="p0149" num="0149">In another embodiment, the serum-free culture medium of the invention further comprises one or more detergents. Detergents are amphipathic molecules with a polar<!-- EPO <DP n="32"> --> portion and a hydrophobic portion. Detergents respond to an aqueous environment following the same principles as do membrane lipids. Suitable detergents for the culture medium of the invention include without limitation</p>
+<p id="p0150" num="0150">In a particular embodiment, the detergent is selected from Tween 40 and/or Tween 80. In a particular embodiment, the detergent is Tween 80, in which case, the concentration is of at least 0.00075% (w/w). In another embodiment the detergent present in the culture medium of the invention is Tween 40, in which case, the concentration is of at least 0.0015%. In another embodiment the detergent is Tween 80, Tween 40 or a mixture thereof.</p>
+<p id="p0151" num="0151">In preferred embodiments, the serum-free culture media according to the present invention comprise the vB2, vB3, vB4, vB6, vB7, vB8, vB9, vB10 or vB11 as defined in Figure 8.</p>
+<p id="p0152" num="0152">In another embodiment, the serum-free culture medium of the invention comprises components defined in the "Components" column in the Table 2 at concentrations indicated in the "Concentration 1" column, at the concentrations indicated in the "Concentration 2" column or at the concentrations indicated in the "Concentration 3" column.
+<tables id="tabl0001" num="0001">
+<table frame="none">
+<tgroup cols="4" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="50mm"/>
+<colspec colnum="2" colname="col2" colwidth="39mm"/>
+<colspec colnum="3" colname="col3" colwidth="39mm"/>
+<colspec colnum="4" colname="col4" colwidth="39mm"/>
+<thead>
+<row>
+<entry valign="middle"><b>Components</b></entry>
+<entry align="center" valign="middle"><b>Concentration 1 (mg/L)</b></entry>
+<entry align="center" valign="middle"><b>Concentration 2 (mg/L)</b></entry>
+<entry align="center" valign="middle"><b>Concentration 3 (mg/L)</b></entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">Glycine</entry>
+<entry align="center" valign="middle">100.0</entry>
+<entry align="center" valign="middle">50.0</entry>
+<entry align="center" valign="middle">25.0</entry></row>
+<row>
+<entry valign="middle">Hydroxy L-proline</entry>
+<entry align="center" valign="middle">20.0</entry>
+<entry align="center" valign="middle">10.0</entry>
+<entry align="center" valign="middle">5.0</entry></row>
+<row>
+<entry valign="middle">L-Alanine</entry>
+<entry align="center" valign="middle">50.0</entry>
+<entry align="center" valign="middle">25.0</entry>
+<entry align="center" valign="middle">12,5</entry></row>
+<row>
+<entry valign="middle">L-Arginine hydrochloride</entry>
+<entry align="center" valign="middle">140.0</entry>
+<entry align="center" valign="middle">70.0</entry>
+<entry align="center" valign="middle">35.0</entry></row>
+<row>
+<entry valign="middle">L-Aspartic acid</entry>
+<entry align="center" valign="middle">60.0</entry>
+<entry align="center" valign="middle">30.0</entry>
+<entry align="center" valign="middle">15.0</entry></row>
+<row>
+<entry valign="middle">L-Cysteine</entry>
+<entry align="center" valign="middle">399.76</entry>
+<entry align="center" valign="middle">199.88</entry>
+<entry align="center" valign="middle">99,94</entry></row>
+<row>
+<entry valign="middle">L-Cystine</entry>
+<entry align="center" valign="middle">40.0</entry>
+<entry align="center" valign="middle">20.0</entry>
+<entry align="center" valign="middle">10.0</entry></row>
+<row>
+<entry valign="middle">L-Glutamic Acid</entry>
+<entry align="center" valign="middle">150.0</entry>
+<entry align="center" valign="middle">75.0</entry>
+<entry align="center" valign="middle">37.5</entry></row>
+<row>
+<entry valign="middle">L-Histidine hydrochloride-H2O</entry>
+<entry align="center" valign="middle">40.0</entry>
+<entry align="center" valign="middle">20.0</entry>
+<entry align="center" valign="middle">10.0</entry></row>
+<row>
+<entry valign="middle">L-Isoleucine</entry>
+<entry align="center" valign="middle">40.0</entry>
+<entry align="center" valign="middle">20.0</entry>
+<entry align="center" valign="middle">10.0</entry></row>
+<row>
+<entry valign="middle">L-Leucine</entry>
+<entry align="center" valign="middle">120.0</entry>
+<entry align="center" valign="middle">60.0</entry>
+<entry align="center" valign="middle">30.0</entry></row>
+<row>
+<entry valign="middle">L-Lysine hydrochloride</entry>
+<entry align="center" valign="middle">140.0</entry>
+<entry align="center" valign="middle">70.0</entry>
+<entry align="center" valign="middle">35.0</entry></row>
+<row>
+<entry valign="middle">L-Methionine</entry>
+<entry align="center" valign="middle">30.0</entry>
+<entry align="center" valign="middle">15.0</entry>
+<entry align="center" valign="middle">7.5</entry></row>
+<row>
+<entry valign="middle">L-Phenylalanine</entry>
+<entry align="center" valign="middle">50.0</entry>
+<entry align="center" valign="middle">25.0</entry>
+<entry align="center" valign="middle">12.5</entry></row>
+<row>
+<entry valign="middle">L-Proline</entry>
+<entry align="center" valign="middle">80.0</entry>
+<entry align="center" valign="middle">40.0</entry>
+<entry align="center" valign="middle">20.0</entry></row>
+<row>
+<entry valign="middle">L-Serine</entry>
+<entry align="center" valign="middle">50.0</entry>
+<entry align="center" valign="middle">25.0</entry>
+<entry align="center" valign="middle">12.5</entry></row>
+<row>
+<entry valign="middle">L-Threonine</entry>
+<entry align="center" valign="middle">60.0</entry>
+<entry align="center" valign="middle">30.0</entry>
+<entry align="center" valign="middle">15.0</entry></row>
+<row>
+<entry valign="middle">L-Tryptophan</entry>
+<entry align="center" valign="middle">20.0</entry>
+<entry align="center" valign="middle">10.0</entry>
+<entry align="center" valign="middle">5.0</entry></row><!-- EPO <DP n="33"> -->
+<row>
+<entry valign="middle">L-Tyrosine</entry>
+<entry align="center" valign="middle">80.0</entry>
+<entry align="center" valign="middle">40.0</entry>
+<entry align="center" valign="middle">20.0</entry></row>
+<row>
+<entry valign="middle">L-Valine</entry>
+<entry align="center" valign="middle">50.0</entry>
+<entry align="center" valign="middle">25.0</entry>
+<entry align="center" valign="middle">12.5</entry></row>
+<row>
+<entry valign="middle">Ascorbic Acid</entry>
+<entry align="center" valign="middle">100.0</entry>
+<entry align="center" valign="middle">50.0</entry>
+<entry align="center" valign="middle">25.0</entry></row>
+<row>
+<entry valign="middle">Biotin</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.005</entry></row>
+<row>
+<entry valign="middle">Cholesterol</entry>
+<entry align="center" valign="middle">0.4</entry>
+<entry align="center" valign="middle">0.2</entry>
+<entry align="center" valign="middle">0.1</entry></row>
+<row>
+<entry valign="middle">Choline chloride</entry>
+<entry align="center" valign="middle">1.0</entry>
+<entry align="center" valign="middle">0.5</entry>
+<entry align="center" valign="middle">0.25</entry></row>
+<row>
+<entry valign="middle">D-Calcium pantothenate</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.005</entry></row>
+<row>
+<entry valign="middle">Folic Acid</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.005</entry></row>
+<row>
+<entry valign="middle">Niacinamide</entry>
+<entry align="center" valign="middle">0.05</entry>
+<entry align="center" valign="middle">0.025</entry>
+<entry align="center" valign="middle">0.0125</entry></row>
+<row>
+<entry valign="middle">Nicotinic acid (Niacin)</entry>
+<entry align="center" valign="middle">0.05</entry>
+<entry align="center" valign="middle">0.025</entry>
+<entry align="center" valign="middle">0.0125</entry></row>
+<row>
+<entry valign="middle">Para-Aminobenzoic Acid</entry>
+<entry align="center" valign="middle">0.10</entry>
+<entry align="center" valign="middle">0.05</entry>
+<entry align="center" valign="middle">0.025</entry></row>
+<row>
+<entry valign="middle">Pyridoxal hydrochloride</entry>
+<entry align="center" valign="middle">0.05</entry>
+<entry align="center" valign="middle">0.025</entry>
+<entry align="center" valign="middle">0.0125</entry></row>
+<row>
+<entry valign="middle">Pyridoxine hydrochloride</entry>
+<entry align="center" valign="middle">0.05</entry>
+<entry align="center" valign="middle">0.025</entry>
+<entry align="center" valign="middle">0.0125</entry></row>
+<row>
+<entry valign="middle">Riboflavin</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.005</entry></row>
+<row>
+<entry valign="middle">Thiamine hydrochloride</entry>
+<entry align="center" valign="middle">0.02</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.005</entry></row>
+<row>
+<entry valign="middle">i-Inositol</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.05</entry>
+<entry align="center" valign="middle">0.0025</entry></row>
+<row>
+<entry valign="middle">Calcium Chloride (CaCl2-2H2O)</entry>
+<entry align="center" valign="middle">528.0</entry>
+<entry align="center" valign="middle">264.0</entry>
+<entry align="center" valign="middle">132.0</entry></row>
+<row>
+<entry valign="middle">Magnesium Sulfate (MgSO4-7H2O)</entry>
+<entry align="center" valign="middle">400.0</entry>
+<entry align="center" valign="middle">200.0</entry>
+<entry align="center" valign="middle">100.0</entry></row>
+<row>
+<entry valign="middle">Potassium Chloride (KCl)</entry>
+<entry align="center" valign="middle">800.0</entry>
+<entry align="center" valign="middle">400.0</entry>
+<entry align="center" valign="middle">200.0</entry></row>
+<row>
+<entry valign="middle">Sodium Bicarbonate (NaHCO3)</entry>
+<entry align="center" valign="middle">4400.0</entry>
+<entry align="center" valign="middle">2200.0</entry>
+<entry align="center" valign="middle">1100.0</entry></row>
+<row>
+<entry valign="middle">Sodium Chloride (NaCl) Sodium Phosphate monobasic (NaH2PO4-</entry>
+<entry align="center" valign="middle">13598.0</entry>
+<entry align="center" valign="middle">6799.0</entry>
+<entry align="center" valign="middle">3399.5 75.4</entry></row>
+<row>
+<entry valign="middle">2H2O)</entry>
+<entry align="center" valign="middle">316.0</entry>
+<entry align="center" valign="middle">158.0</entry>
+<entry align="center" valign="middle"/></row>
+<row>
+<entry valign="middle">2'Deoxyadenosine</entry>
+<entry align="center" valign="middle">20.0</entry>
+<entry align="center" valign="middle">10.0</entry>
+<entry align="center" valign="middle">5.0</entry></row>
+<row>
+<entry valign="middle">2'Deoxycytidine</entry>
+<entry align="center" valign="middle">20.0</entry>
+<entry align="center" valign="middle">10.0</entry>
+<entry align="center" valign="middle">5.0</entry></row>
+<row>
+<entry valign="middle">2'Deoxyguanosine</entry>
+<entry align="center" valign="middle">20.0</entry>
+<entry align="center" valign="middle">10.0</entry>
+<entry align="center" valign="middle">5.0</entry></row>
+<row>
+<entry valign="middle">5-Methyl-deoxycytidine</entry>
+<entry align="center" valign="middle">0.2</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.05</entry></row>
+<row>
+<entry valign="middle">Co-carboxylase</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">1.0</entry>
+<entry align="center" valign="middle">0.05</entry></row>
+<row>
+<entry valign="middle">Coenzyme A</entry>
+<entry align="center" valign="middle">5.0</entry>
+<entry align="center" valign="middle">2.5</entry>
+<entry align="center" valign="middle">1.25</entry></row>
+<row>
+<entry valign="middle">D-Glucose (Dextrose)</entry>
+<entry align="center" valign="middle">2000.0</entry>
+<entry align="center" valign="middle">1000.0</entry>
+<entry align="center" valign="middle">500.0</entry></row>
+<row>
+<entry valign="middle">Diphosphopyridine nucleotide (NAD)</entry>
+<entry align="center" valign="middle">14.0</entry>
+<entry align="center" valign="middle">7.0</entry>
+<entry align="center" valign="middle">3.5</entry></row>
+<row>
+<entry valign="middle">FAD (flavin adenine dinucleotide)</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">1.0</entry>
+<entry align="center" valign="middle">0.05</entry></row>
+<row>
+<entry valign="middle">Glutathione (reduced)</entry>
+<entry align="center" valign="middle">20.0</entry>
+<entry align="center" valign="middle">10.0</entry>
+<entry align="center" valign="middle">5.0</entry></row>
+<row>
+<entry valign="middle">Phenol Red</entry>
+<entry align="center" valign="middle">40.0</entry>
+<entry align="center" valign="middle">20.0</entry>
+<entry align="center" valign="middle">10.0</entry></row>
+<row>
+<entry valign="middle">Sodium acetate-3H2O</entry>
+<entry align="center" valign="middle">166.0</entry>
+<entry align="center" valign="middle">83.0</entry>
+<entry align="center" valign="middle">41.5</entry></row>
+<row>
+<entry valign="middle">Sodium glucuronate-H2O</entry>
+<entry align="center" valign="middle">8.40</entry>
+<entry align="center" valign="middle">4.2</entry>
+<entry align="center" valign="middle">2.1</entry></row>
+<row>
+<entry valign="middle">Thymidine</entry>
+<entry align="center" valign="middle">20.0</entry>
+<entry align="center" valign="middle">10.0</entry>
+<entry align="center" valign="middle">5.0</entry></row>
+<row>
+<entry valign="middle">Triphosphopyridine Nucleotide (NADP)</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">1.0</entry>
+<entry align="center" valign="middle">0.5</entry></row>
+<row>
+<entry valign="middle">Tween 80®</entry>
+<entry align="center" valign="middle">10.0</entry>
+<entry align="center" valign="middle">5.0</entry>
+<entry align="center" valign="middle">2.5</entry></row>
+<row>
+<entry valign="middle">Uridine 5'- triphosphate</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">1.0</entry>
+<entry align="center" valign="middle">0.5</entry></row>
+<row>
+<entry namest="col1" nameend="col4" align="left" valign="middle">Table 2: Composition of the CMRL medium at 1x, 2x or 0,5 x.</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="34"> --></p>
+<p id="p0153" num="0153">In another embodiment, the medium according to the present invention further comprises a pH indicator.</p>
+<p id="p0154" num="0154">Suitable pH indicators for use in the culture media according to the invention are those pH indicators with a transition range that extends below pH 7.0. Non-limiting examples of suitable pH indicators include halochromic compounds with a transition pH range that extends below the pH of the inoculated culture medium. A suitable pH indicator will have a transition pH range that extends far enough below the pH of the inoculated medium to detect (visually and/or by using an imaging system) a change in the pH indicator in or adjacent to a growing colony of acid-producing bacteria. Preferably, the pH indicator will have a transition pH range with a low endpoint that is not less than 0.25 pH units below the pH of the inoculated culture medium. More preferably, the pH indicator will have a transition pH range with a low endpoint that is not less than 0.5 pH units below the pH of the inoculated culture medium. Even more preferably, the pH indicator will have a transition pH range that extends not less than 1.0 pH unit below the pH of the inoculated culture medium. Most preferably, the pH indicator will have a transition pH range with a low endpoint that is about 3.5. Nonlimiting examples of suitable pH indicators include bromcresol purple, bromphenol blue, chlorophenol red, and bromcresol green.</p>
+<p id="p0155" num="0155">A pH indicator such as phenol red may be added that turns yellow in acidic conditions (&lt;6.8), and pink in basic conditions (&gt;8.2). Incubation pH is controlled by the high CO<sub>2</sub> levels in the incubator of 5% or more. In a particular embodiment, the serum-free medium of the invention comprises phenol red pH 7 at a concentration in a range between 0.00001% to 0.1%, more preferably between 0.0001% to 0.01%, preferably at about 0.0005%, preferably at about 0.0035%.</p>
+<p id="p0156" num="0156">In another embodiment, the medium according to the present invention further comprises an antibiotic.</p>
+<p id="p0157" num="0157">The term "antibiotic" is intended to mean any compound capable of preventing or slowing down the growth of a bacterium. Suitable antibiotics for use in the present invention includes antibiotics of the aminoglycoside family, of the ansamycin family, of the carbacephem family, of the cephalsporine family, of the macrolide family, of the monobactam family, of the penicillin family, of the Sulfonamide family or of the tetracycline family.<!-- EPO <DP n="35"> --></p>
+<p id="p0158" num="0158">An aminoglycoside, including, but not limited to amikacin, gentamicin, kanamycin, neomycin, netilmicin, streptomycin, tobramycin, and paromomycin; an ansamycin, including, but not limited to, geldanamycin and herbimycin. A carbacephem, including, but not limited to, loracarbef. A carbapenem, including, but not limited to, ertapenem, doripenem, imipenem/cilastatin, and meropenem. First generation cephalosporins, including, but not limited to, cefadroxil, cefazolin, cefalotin, and cephalexin. Second generation cephalosporins, including, but not limited to, cefaclor, cefamandole, cefoxitin, cefprozil, and cefuroxime. Third generation cephalosporins, including, but not limited to, cefixime, cefdinir, cefditoren, cefoperazone, cefotaxime, cefpodoxime, ceftazidime, ceftibuten, ceftizoxime, ceftriaxone, and cefdinir. Fourth generation cephalosporins, including, but not limited to cefepime. Glycopeptides, including, but not limited to, teicoplanin and vancomycin. Macrolides, including, but not limited to azithromycin, clarithromycin, dirithromycin, erythromycin, roxithromycin, telithromycin, and spectinomycin. Monobactams, including but not limited to aztreonam. Penicillins, including, but not limited to, amoxicillin, ampicillin, azlocillin, carbenicillin, cloxacillin, dicloxacillin, flucloxacillin, mezlocillin, nafcillin, penicillin, piperacillin, and ticarcillin. Polypeptides, including, but not limited to, bacitracin, colistin, and polymyxin B. Quinolones, including, but not limited to, ciprofloxacin, enoxacin, gatifloxacin, levofloxacin, lomefloxacin, moxifloxacin, norfloxacin, ofloxacin, and trovafloxacin. Sulfonamides, including, but not limited to, mafenide, prontosil, sulfacetamide, sulfamethizole, sulfanilamide, sulfasalazine, sulfisoxazole, trimethoprim, and trimethoprim-sulfamethoxazole (co-trimoxazole (TMP-SMX). Tetracyclines, including, but not limited to demeclocycline, doxycycline, minocycline, oxytetracycline, and tetracycline. And other antibiotics, including, but not limited to, arsphenamine, chloramphenicol, clindamycin, lincomycin, ethambutol, fosfomycin, fusidic acid, furazolidone, isoniazid, linezolid, metronidazole, mupirocin, nitrofurantoin, platensimycin, pyrazinamide, quinupristin/dalfopristin, rifampin, and tinidazole.</p>
+<p id="p0159" num="0159">The serum-free culture medium of the invention preferably lacks a chemical buffering system or a buffering agent. The terms "buffer," "buffering system," and/or "buffer solution" refer to a solution, which reduces the change of pH upon addition of small amounts of acid or base, or upon dilution. The term "buffering agent" refers to a weak acid or weak base in a buffer solution.<!-- EPO <DP n="36"> --></p>
+<heading id="h0006"><u>Methods for the culture of Mycoplasma</u></heading>
+<p id="p0160" num="0160">In another aspect, the invention relates to a method for the culture of a Mycoplasma strain comprising placing an inoculum of said strain into the media according to the invention and maintaining the inoculated media under conditions adequate for the proliferation of the Mycoplasma strain.</p>
+<p id="p0161" num="0161">In another aspect, the invention relates to a method for obtaining a biomass of a Mycoplasma strain which comprises placing an inoculum of said Mycoplasma strain into the media according to the invention and maintaining the inoculated media under conditions adequate for the proliferation of the Mycoplasma strain and the formation of the biomass.</p>
+<p id="p0162" num="0162">In one embodiment, the Mycoplasma is <i>Mycoplasma hyopneumoniae.</i> In another embodiment, he Mycoplasma is a <i>Mycoplasma hyopenumoniae</i> wild-type strain or a Mycoplasma pneumoniae variant strain. In yet another embodiment, the inoculum of <i>Mycoplasma hyopneumoniae</i> cells contains about 10<sup>7</sup> cells/ml.</p>
+<p id="p0163" num="0163">In some embodiments, the serum-free media can be used in methods for culturing cells.. In some embodiments, cells are cultured for at least at or about 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, or 20 days with the provided serum- free media. In some embodiments, cells are cultured for about 2-3 days, 3-4 days, 4-5 days, 5-6 days, 6-7 days, 7-8 days, 8-9 days, 9-10 days, 10-11 days, 11-12 days, 12-13 days, 13-14 days, 14-15 days, 15-16 days, 16-17 days, 17-18 days, 18-19 days, or 19-20 days, each inclusive. In some embodiments, the cells are cultured at about 37 degrees centigrade In some embodiments, the cells are cultured in 5 percent C0<sub>2</sub>/95 percent air atmosphere. In some embodiments, the culturing can be carried for more than or more than about 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, or 20 days without changing the media when culturing cells. In some embodiments, methods of perfusion, such as semi-continuous perfusion, can be employed in connection with culturing the cells.</p>
+<p id="p0164" num="0164">In some embodiments, provided herein are methods for culturing cells, such as for cultivation, expansion or proliferation of cells. In some embodiments, the methods are carried out to expand the cells at least at or about 1.5-fold, 2-fold, 3-fold, 4-fold, 5-fold, 6-fold, 7-fold, 8-fold, 9-fold, 10-fold, 15-fold, 20-fold, 25-fold, 30-fold, 35-fold, 40-fold, 45-fold,<!-- EPO <DP n="37"> --> 50-fold, 55- fold, 60-fold, 65-fold, 70-fold, 75-fold, 80-fold, 85-fold, 90-fold, 95-fold, 100-fold or more, such as following culture in the presence of serum-free media for at or about 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 or more days. In some embodiments, the cells expand at least about 5-fold, 10-fold, 20-fold, 30-fold, 40-fold, or 50-fold or more after culture in the serum-free medium formulation for about 5 to 6 days. In some embodiments, the expansion is comparable or improved compared to culture with serum-containing media under the same conditions, such as following culture for at or about 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 or more days.</p>
+<p id="p0165" num="0165">The invention is defined by the following aspects:<br/>
+1. A serum-free culture medium suitable for the culture of <i>Mycoplasma hyopneumoniae</i> that comprises:
+<ol id="ol0003" compact="compact" ol-style="">
+<li>(i) a carbon source comprising pyruvate,</li>
+<li>(ii) an amino acid mixture,</li>
+<li>(iii) a vitamin mixture,</li>
+<li>(iv) lipids,</li>
+<li>(v) inorganic salts,</li>
+<li>(vi) a nucleoside mixture comprising thymidine,</li>
+<li>(vii) a mixture of enzymatic cofactors,</li>
+<li>(viii) a pyruvate salt,</li>
+<li>(ix) a proteolytic digest of a microorganism or of a plant or animal tissue and</li>
+<li>(x) a vehicle to solubilize and deliver the lipids.</li>
+</ol>
+2. The medium according to any preceding aspect wherein the pyruvate salt is sodium pyruvate.<br/>
+3. The medium according to aspect 23 wherein the sodium pyruvate is found at a concentration of at least 2.2 g/L, preferably at least 4 g/L.<br/>
+4. The medium of any preceding aspect wherein the carbon source comprises glucose, acetate, glucuronate or a combination thereof.<br/>
+<!-- EPO <DP n="38"> -->5. The medium of any preceding aspect further comprising glycerol at a concentration of at least 0,01%.<br/>
+6. The medium according to any of aspects 1 to 3 wherein the amino acids include Glycine, Hydroxy L-proline, L-Alanine, L-Arginine, L-Aspartic acid, L-Cysteine, L-Cystine, L-Glutamic Acid, L-Histidine, L-Isoleucine, L-Leucine, L-Lysine, L-Methionine, L-Phenylalanine, L-Proline, L-Serine, L-Threonine, L-Tryptophan, L-Tyrosine, L-Valine and L-glutamine.<br/>
+7. The medium according to aspect 6 wherein the amino acids further incude L-asparfic acid and L-glutamic acid.<br/>
+8. The medium of aspect 6 wherein the content in L-Glutamine is of least 2 mM.<br/>
+9. The medium according to any preceding aspect wherein the vitamins include ascorbic acid, biotin, D-Calcium pantothenate, folic acid, niacinamide, nicotinic acid (Niacin), para-aminobenzoic acid, pyridoxal, pyridoxine, riboflavin, thiamine, i-Inositol, and choline, thioctic acid, pyridoxamine, or any precursor thereof.<br/>
+10. The medium according to aspect 9 wherein pyridoxamine is found at a concentration of at least 0,5 µg/mL, nicotinic acid is found at a concentration of at least 0,5 µg/mL and/or riboflavin is found at a concentration of at least 0,5 µg/mL.<br/>
+11. The medium according to aspect 10 wherein the concentration of nicotinic acid is of 0,025 µg/mL or less and/or wherein the concentration of riboflavin is of 0.01 µg/mL or less.<br/>
+12. The medium according to any preceding aspect wherein the content of thioctic acid is of at least 0,2 µg/ml.<br/>
+13. The medium according to any preceding aspect wherein the lipids are cholesterol, sphingomyelin, phosphatidylcholine, L-α-Phosphatidyl-DL-glycerol, 1,2-Dipalmitoyl-sn-glycero-3-phosphocholine or a combination thereof.<br/>
+<!-- EPO <DP n="39"> -->14. The medium according to aspect 13 wherein the cholesterol is present at a concentration of about 30 µg/mL.<br/>
+15. The medium according to aspects 13 or 14 wherein the sphingomyelin is present at a concentration of less than about 10 µg/mL.<br/>
+16. The medium according to any of aspects 13 to 14 wherein the phosphatidylcoholine is present at a concentration of ca. 40 µg/mL, preferably at ca. 60 µg/mL.<br/>
+17. The medium according to any of aspects 13 to 16 wherein the L-α-Phosphatidyl-DL-glycerol is present at a concentration of between. 10 and 20 µg/mL.<br/>
+18. The medium according to any of aspects 13 to 17 wherein the 1,2-Dipalmitoyl-sn-glycero-3-phosphocholine is present at a concentration of 10 to. 20 µg/mL.<br/>
+19. The medium according to any preceding aspect wherein the inorganic salts include at least one salt wherein the cation is calcium, magnesium, potassium or sodium and wherein the anion is chloride, sulfate, bicarbonate or phosphate monobasic.<br/>
+20. The medium according to any preceding aspect wherein the nucleoside mixture further comprises one or more deoxyribonucleosides or one or more ribonucleosides.<br/>
+21. The medium according to aspect 20 wherein the deoxyribonucleoside is 2'-deoxyadenosine, 2'-deoxycytidine, 2'-deoxyguanosine, 5-methyl-deoxycytidine or a mixture thereof and wherein the ribonucleosides are thymidine, uridine-5'-triphosphate, thymidine, adenosine, cytidine, guanosine, thymine or a mixture thereof.<br/>
+22. The medium according to any of aspects 1 to 21 wherein the thymidine content is of at least 40 µg/mL.<br/>
+23. The medium according to any preceding aspect wherein the medium lacks RNA and contains ribonucleosides.<br/>
+<!-- EPO <DP n="40"> -->24. The medium according to any preceding aspect wherein the enzymatic cofactor is co-carboxylase, Coenzyme A, diphosphopyridine nucleotide (NAD) and flavin adenine dinucleotide (FAD) and triphosphopyridine Nucleotide (NADP).<br/>
+25. The medium of any preceding aspect wherein the proteolytic digest of a microorganism or of a plant or animal tissue is yeastolate.<br/>
+26. The method of aspect 25 wherein the yeastolate is present at a concentration of about 7,5 mg/L.<br/>
+27. The medium according to any preceding aspect wherein the vehicle to solubilize and deliver the lipids is selected from the group of a lipid-binding protein, PVA and a liposome.<br/>
+28. The medium according to any preceding aspect wherein the vehicle to solubilize and deliver the lipids is a lipid-binding protein, preferably delipidated BSA.<br/>
+29. The medium according to aspect 28 wherein the delipidated bovine serum albumin is complexed to cholesterol.,<br/>
+30. The medium according to any of aspect 28 or 29 wherein the BSA is found at a concentration of 0,5% (w/w) or less, preferably at 0,3% (w/w) or less.<br/>
+31. The medium according to any preceding aspect further comprising a polyamine.<br/>
+32. The medium according to aspect 28 wherein the polyamine is spermine.<br/>
+33. The method according to aspect 29 wherein the spermine is present at a concentration of about 10 µg/mL.<br/>
+34. The medium according to any preceding aspect further comprising an antioxidant.<br/>
+35. The medium according to aspect 34 wherein the antioxidant is reduced glutathione.<br/>
+<!-- EPO <DP n="41"> -->36. The medium according to any preceding aspect further comprising a detergent.<br/>
+37. The medium according to aspect 36 wherein the detergent is Tween 80.<br/>
+38. The medium according to aspect 34 wherein the concentration of Tween 80 is of at least 0.00075%.<br/>
+39. The medium according to any preceding aspect which lacks oleic acid, palmitic acid or both.<br/>
+40. The medium according to any preceding aspect wherein the components defined in the "component" column in the following table are present at concentrations indicated in the "Concentration" column.
+<tables id="tabl0002" num="0002">
+<table frame="none">
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="76mm"/>
+<colspec colnum="2" colname="col2" colwidth="39mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"><b>Components</b></entry>
+<entry align="center" valign="middle"><b>Concentration (mg/L)</b></entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">Glycine</entry>
+<entry align="center" valign="middle">25.0</entry></row>
+<row>
+<entry valign="middle">Hydroxy L-proline</entry>
+<entry align="center" valign="middle">5.0</entry></row>
+<row>
+<entry valign="middle">L-Alanine</entry>
+<entry align="center" valign="middle">12,5</entry></row>
+<row>
+<entry valign="middle">L-Arginine hydrochloride</entry>
+<entry align="center" valign="middle">35.0</entry></row>
+<row>
+<entry valign="middle">L-Aspartic acid</entry>
+<entry align="center" valign="middle">15.0</entry></row>
+<row>
+<entry valign="middle">L-Cysteine</entry>
+<entry align="center" valign="middle">99,94</entry></row>
+<row>
+<entry valign="middle">L-Cystine</entry>
+<entry align="center" valign="middle">10.0</entry></row>
+<row>
+<entry valign="middle">L-Glutamic Acid</entry>
+<entry align="center" valign="middle">37.5</entry></row>
+<row>
+<entry valign="middle">L-Histidine hydrochloride-H2O</entry>
+<entry align="center" valign="middle">10.0</entry></row>
+<row>
+<entry valign="middle">L-Isoleucine</entry>
+<entry align="center" valign="middle">10.0</entry></row>
+<row>
+<entry valign="middle">L-Leucine</entry>
+<entry align="center" valign="middle">30.0</entry></row>
+<row>
+<entry valign="middle">L-Lysine hydrochloride</entry>
+<entry align="center" valign="middle">35.0</entry></row>
+<row>
+<entry valign="middle">L-Methionine</entry>
+<entry align="center" valign="middle">7.5</entry></row>
+<row>
+<entry valign="middle">L-Phenylalanine</entry>
+<entry align="center" valign="middle">12.5</entry></row>
+<row>
+<entry valign="middle">L-Proline</entry>
+<entry align="center" valign="middle">20.0</entry></row>
+<row>
+<entry valign="middle">L-Serine</entry>
+<entry align="center" valign="middle">12.5</entry></row>
+<row>
+<entry valign="middle">L-Threonine</entry>
+<entry align="center" valign="middle">15.0</entry></row>
+<row>
+<entry valign="middle">L-Tryptophan</entry>
+<entry align="center" valign="middle">5.0</entry></row>
+<row>
+<entry valign="middle">L-Tyrosine</entry>
+<entry align="center" valign="middle">20.0</entry></row>
+<row>
+<entry valign="middle">L-Valine</entry>
+<entry align="center" valign="middle">12.5</entry></row>
+<row>
+<entry valign="middle">Ascorbic Acid</entry>
+<entry align="center" valign="middle">25.0</entry></row>
+<row>
+<entry valign="middle">Biotin</entry>
+<entry align="center" valign="middle">0.005</entry></row>
+<row>
+<entry valign="middle">Cholesterol</entry>
+<entry align="center" valign="middle">0.1</entry></row>
+<row>
+<entry valign="middle">Choline chloride</entry>
+<entry align="center" valign="middle">0.25</entry></row>
+<row>
+<entry valign="middle">D-Calcium pantothenate</entry>
+<entry align="center" valign="middle">0.005</entry></row>
+<row>
+<entry valign="middle">Folic Acid</entry>
+<entry align="center" valign="middle">0.005</entry></row><!-- EPO <DP n="42"> -->
+<row>
+<entry valign="middle">Niacinamide</entry>
+<entry align="center" valign="middle">0.0125</entry></row>
+<row>
+<entry valign="middle">Nicotinic acid (Niacin)</entry>
+<entry align="center" valign="middle">0.0125</entry></row>
+<row>
+<entry valign="middle">Para-Aminobenzoic Acid</entry>
+<entry align="center" valign="middle">0.025</entry></row>
+<row>
+<entry valign="middle">Pyridoxal hydrochloride</entry>
+<entry align="center" valign="middle">0.0125</entry></row>
+<row>
+<entry valign="middle">Pyridoxine hydrochloride</entry>
+<entry align="center" valign="middle">0.0125</entry></row>
+<row>
+<entry valign="middle">Riboflavin</entry>
+<entry align="center" valign="middle">0.005</entry></row>
+<row>
+<entry valign="middle">Thiamine hydrochloride</entry>
+<entry align="center" valign="middle">0.005</entry></row>
+<row>
+<entry valign="middle">i-Inositol</entry>
+<entry align="center" valign="middle">0.0025</entry></row>
+<row>
+<entry valign="middle">Calcium Chloride (CaCl2-2H2O)</entry>
+<entry align="center" valign="middle">132.0</entry></row>
+<row>
+<entry valign="middle">Magnesium Sulfate (MgSO4-7H2O)</entry>
+<entry align="center" valign="middle">100.0</entry></row>
+<row>
+<entry valign="middle">Potassium Chloride (KCl)</entry>
+<entry align="center" valign="middle">200.0</entry></row>
+<row>
+<entry valign="middle">Sodium Bicarbonate (NaHCO3)</entry>
+<entry align="center" valign="middle">1100.0</entry></row>
+<row>
+<entry valign="middle">Sodium Chloride (NaCl)</entry>
+<entry align="center" valign="middle">3399.5</entry></row>
+<row>
+<entry valign="middle">Sodium Phosphate monobasic (NaH2PO4-2H2O)</entry>
+<entry align="center" valign="middle">75.4</entry></row>
+<row>
+<entry valign="middle">2'Deoxyadenosine</entry>
+<entry align="center" valign="middle">5.0</entry></row>
+<row>
+<entry valign="middle">2'Deoxycytidine</entry>
+<entry align="center" valign="middle">5.0</entry></row>
+<row>
+<entry valign="middle">2'Deoxyguanosine</entry>
+<entry align="center" valign="middle">5.0</entry></row>
+<row>
+<entry valign="middle">5-Methyl-deoxycytidine</entry>
+<entry align="center" valign="middle">0.05</entry></row>
+<row>
+<entry valign="middle">Co-carboxylase</entry>
+<entry align="center" valign="middle">0.05</entry></row>
+<row>
+<entry valign="middle">Coenzyme A</entry>
+<entry align="center" valign="middle">1.25</entry></row>
+<row>
+<entry valign="middle">D-Glucose (Dextrose)</entry>
+<entry align="center" valign="middle">500.0</entry></row>
+<row>
+<entry valign="middle">Diphosphopyridine nucleotide (NAD)</entry>
+<entry align="center" valign="middle">3.5</entry></row>
+<row>
+<entry valign="middle">FAD (flavin adenine dinucleotide)</entry>
+<entry align="center" valign="middle">0.05</entry></row>
+<row>
+<entry valign="middle">Glutathione (reduced)</entry>
+<entry align="center" valign="middle">5.0</entry></row>
+<row>
+<entry valign="middle">Phenol Red</entry>
+<entry align="center" valign="middle">10.0</entry></row>
+<row>
+<entry valign="middle">Sodium acetate-3H2O</entry>
+<entry align="center" valign="middle">41.5</entry></row>
+<row>
+<entry valign="middle">Sodium glucuronate-H2O</entry>
+<entry align="center" valign="middle">2.1</entry></row>
+<row>
+<entry valign="middle">Thymidine</entry>
+<entry align="center" valign="middle">5.0</entry></row>
+<row>
+<entry valign="middle">Triphosphopyridine Nucleotide (NADP)</entry>
+<entry align="center" valign="middle">0.5</entry></row>
+<row>
+<entry valign="middle">Tween 80®</entry>
+<entry align="center" valign="middle">2.5</entry></row>
+<row>
+<entry valign="middle">Uridine 5'- triphosphate</entry>
+<entry align="center" valign="middle">0.5</entry></row></tbody></tgroup>
+</table>
+</tables>
+41. The medium according to aspect 40 wherein the content of one or more components selected from the group consisting of Tween80, thiamin, niacinamide, nicotinic acid, folic acid, pathonthenic acid, ascorbic acid, riboflavin, spermidine, Para-Aminobenzoic Acid, Pyridoxal hydrochloride, Pyridoxine hydrochloride, Histidine, Methionine, Proline, Cysteine and Tryptophan is not higher than those provided in the Table in aspect 36.<br/>
+42. The medium of any preceding aspects further comprising a pH indicator, an antibiotic or a combination thereof.<br/>
+<!-- EPO <DP n="43"> -->43. The medum according to any preceding aspect wherein the medium lacks a buffering system.<br/>
+44. The medium according to any preceding aspect wherein the medium is selected from the group consisting of the vH5, vH5.1 or vH5.2.<br/>
+45. A method for the culture of a Mycoplasma strain comprising placing an inoculum of said strain into the media according to any of aspects 1 to 44 and maintaining the inoculated media under conditions adequate for the proliferation of the Mycoplasma strain.<br/>
+46. A method for obtaining a biomass of a Mycoplasma strain which comprises placing an inoculum of said Mycoplasma strain into the media according to any of aspects 1 to 44 and maintaining the inoculated media under conditions adequate for the proliferation of the Mycoplasma strain and the formation of the biomass.<br/>
+47. The method according to any of aspects 45 or 46 wherein the Mycoplasma is <i>Mycoplasma hyopenumoniae.</i><br/>
+48. The method according to any of aspect 47 wherein the <i>Mycoplasma hyopneumoniae</i> strain is a wild-type strain or an attenuated strain.</p>
+<p id="p0166" num="0166">The invention will be described by way of the following examples which are to be considered as merely illustrative and not limitative of the scope of the invention.</p>
+<heading id="h0007"><b>EXAMPLES</b></heading>
+<heading id="h0008"><b>EXAMPLE 1</b></heading>
+<heading id="h0009"><b>1. <u>First development of a serum-free medium for <i>M. hyopneumoniae</i></u></b></heading>
+<p id="p0167" num="0167">The CRG has used the <i>M hyopneumoniae</i> vaccine strain J (22JAN2016) provided by MSD and the vB13 medium as a starting point to develop a serum-free medium for <i>M<!-- EPO <DP n="44"> --> hyopneumoniae.</i> The vB13 (<figref idref="f0001">figure 1</figref>) medium has been developed by CRG and supports robust growth of <i>M pneumoniae</i>, producing 80% of biomass when compared to rich media in a 96-well plate format, and 60-70% when the culture volume is scaled up to 5ml in 25cm2 culture flasks. In addition, the composition of this medium also tolerates serial passaging.</p>
+<p id="p0168" num="0168"><i>M hyopneumoniae</i> produces less lactic acid and grows in suspension in contrast to <i>M pneumoniae.</i> This has hampered the implementation of the highthroughput method established previously to monitor growth for <i>M pneumoniae.</i> It was also found that culture conditions in a 96-well plate format were not optimal for growing <i>M hyopneumoniae</i> and that biomass estimation by protein quantification gives a high background signal for this bacterium, especially in certain media formulations. In addition, CRG has not access on a daily basis to flow cytometers to monitor growth of <i>M hyopneumoniae.</i> To overcome these difficulties the CRG has modified the screening method to monitor growth of <i>M. hyopneumoniae</i> as follows. For each experiment, 3 culture replicates of 4ml each containing the tested medium were inoculated with frozen stocks (1:200 dilutions). Frozen stocks were prepared as MSD recommended with MHM medium, which was also provided by MSD. For media comparison, the MHM rich medium was used in each experiment as the reference medium (also tested by triplicate). Cultures were incubated at 3 7°C in orbital shacking (180rpm) in 15ml conical tubes and total biomass was estimated after 4 days of culture by DNA quantification (the specific protocol can be found the methodology described below).</p>
+<heading id="h0010"><b><i>Results</i></b></heading>
+<p id="p0169" num="0169">Using the culture conditions described above, <i>M. hyopneumoniae</i> barely grows in vB13. Hence, the vB13 version was optimized by modifying concentrations and testing the effect of new components. It was fundamental to define the precise concentration of some components when combined with others, meaning that new components were repetitively re-tested on improved versions of the medium. Following this set up, it was found that sodium pyruvate stimulated growth as previously described. Thymidine was required for growth consistent with the fact that this bacterium does not possess the thy gene. Although CMRL contains thymidine it was found that higher levels were beneficial. Also, it was found that ribonucleosides were a better option than RNA. Moreover, non-lipidated BSA complexed to cholesterol was an important growth factor together with sphingomyielin (SPM) and phosphatidylcholine (PC). Interestingly, it was found that <i>M<!-- EPO <DP n="45"> --> hyopneumoniae</i> depends completely on PC and seems to be less dependent and in fact tolerates less SPM compared toM pneumoniae. Cardiolipin did not improve growth, but it was found that other phospholipids such as 1,2-Dipalmitoyl-sn-glycero-3-phosphocholine and especially L-a-Phosphatidyl-DL-glycerol improved medium performance. Addition of palmitic and oleic acid was detrimental as expected, since in contrast to <i>M. pneumoniae</i>, <i>M hyopneumoniae</i> cannot use these components to make phospholipids. On the other hand, we did not observe significant improvements when tested the effect of other components such as Tween80, Tween40, myo-inositol, thiamin, niacinamide, folic acid, pathonthenic acid, ascorbic acid, putrescine, spermidine, and several aminoacids such as Histidine, Methionine, Proline, Cysteine and Tryptophan. Some improvement adding PVA, PEG8000, or heptadecanoic acid were observed, but it was not consistent in further experiments</p>
+<p id="p0170" num="0170">The modifications mentioned above and the refinement of the concentration of specific components have generated a serum-free version medium (vH5), which supports 57% growth of <i>M hyopneumoniae</i> compared to rich medium (<figref idref="f0002">Fig. 2</figref> and Table 2. Instructions to prepare the medium are also disclosed in the methodology below).<!-- EPO <DP n="46"> -->
+<tables id="tabl0003" num="0003"><img id="ib0001" file="imgb0001.tif" wi="155" he="157" img-content="table" img-format="tif"/>
+</tables></p>
+<p id="p0171" num="0171">Noteworthy, it was found significant variability in the total biomass yields of both, MHM rich medium and the serum-free medium derivatives (<figref idref="f0003">Fig. 3</figref>). This variability hampered to precise the contribution of some components and suggests that both mediums are not robust enough; culture conditions are not optimal, and/or exists inherent variability in the method to estimate biomass.</p>
+<heading id="h0011"><b><i>Summary of the experiment</i></b></heading>
+<p id="p0172" num="0172">It was found possible improvements to vH5 medium, including the increase of sodium pyruvate (vH5.1) or the removal of all vitamins except thioctic acid (vH5.2), which is the only vitamin not present in CMRL (<figref idref="f0003">Fig. 3</figref> and Table 2). Given that these improvements arise from a single experiment (with 3 replicates), we suggest confirming these results<!-- EPO <DP n="47"> --> and performing experiments to see if the combination of these changes further improves the medium performance. On the other hand, it was not possible to substitute the BSA by cyclodextrin, which resulted in a decrease in performance of 8-10% growth. Therefore, other strategies must be considered to obtain a completely animal component free medium. Finally, in order to reduce the cost of the medium, consider removing 1,2-Dipalmitoyl-sn-glycero-3-phosphocholine and especially L-a-Phosphatidyl-DL-glycerol and increasing PC to 60J.tg/ml. However, in these conditions, a 20% reduction of growth compared to vH5 medium was observed. BSA, also an expensive component, can be reduced up to 0.3% but also with concomitant reduction of growth.</p>
+<heading id="h0012"><b><i>Methodology</i></b></heading>
+<heading id="h0013"><i><u>DNA quantification</u></i></heading>
+<p id="p0173" num="0173">For total DNA extraction we use the Master Pure DNA purification Kit (Epicentre, ref: MCD85201) and for DNA quantification we use a fluorometric method (QUBIT dsDNA HS assay Kit, Invitrogen, ref:Q32851). Below, there is a detailed protocol.</p>
+<heading id="h0014"><i>Harvest and lysis of samples</i></heading>
+<p id="p0174" num="0174">
+<ul id="ul0004" list-style="none" compact="compact">
+<li>- -Harvest cells by centrifugation (14100g 10min) and discard supernatant.</li>
+<li>- (M. hyopneumoniae growth in 4ml cultures in 15ml conical tubes was normally tested. To estimate growth, the whole culture was pelleted).</li>
+<li>- -Resuspend each pellet in 300fll Tissue and Cell Lysis solution+ 1 fll Proteinase K (Epicentre Kit).</li>
+<li>- -incubate 15min at 65C, vortex every 5min.</li>
+<li>- -cool sample at 37C, add 1fll RnaseA and mix thoroughly (Epicentre Kit).</li>
+<li>- -incubate at 37C for 30min.</li>
+<li>- -after incubation place sample on ice 5min and proceed with DNA precipitation.</li>
+</ul></p>
+<heading id="h0015"><i>DNA precipitation</i></heading>
+<p id="p0175" num="0175">
+<ul id="ul0005" list-style="none" compact="compact">
+<li>- -add 175 fll of MPC Protein precipitation reagent (Epicentre Kit) to each sample</li>
+<li>- and vortex mix vigorously for 10 sec.</li>
+<li>- -centrifuge for 10min at 14000rpm in a microcentrifuge.</li>
+<li>- -transfer supernatant to a clean tube.</li>
+<li>- -add 500 fll of isopropanol to the recovered supernatant and mix by inverting the</li>
+<li>- tube 30-40 times.</li>
+<li>- -incubate for 15min at RT.<!-- EPO <DP n="48"> --></li>
+<li>- -pellet the DNA by centrifugation at 4C for 10min at 14000rpm.</li>
+<li>- -carefully pour off the isopropanol and rinse twice the pellet with 1ml 75%</li>
+<li>- ethanol (in each washing step repeat centrifugation).
+<ul id="ul0006" list-style="dash" compact="compact">
+<li>remove all of the residual ethanol with a pipet and dry the pellet at RT.</li>
+<li>resuspend the DNA pellet in 100 fll MilliQ water.</li>
+</ul></li>
+</ul></p>
+<heading id="h0016"><i>DNA quantification</i></heading>
+<p id="p0176" num="0176">-measure DNA using QUBIT dsDNA HS assay Kit following manufacturer's instructions (typically we use 1:200 dilutions or more).</p>
+<heading id="h0017"><i><u>Instructions for preparing 4ml of complete vH5 medium</u></i></heading>
+<heading id="h0018">(when preparing follow the order described in table of figure 4)</heading>
+<p id="p0177" num="0177">
+<ol id="ol0004" compact="compact" ol-style="">
+<li>1. Prepare the base by adding the different components in the order described in the table. The base is stable at 4°C, therefore, it is useful to<br/>
+prepare a larger volume.</li>
+<li>2. It is recommended to prepare the final medium freshly when needed by adding the remaining components in the described order to the base. Scale up the volume as desired.</li>
+<li>3. To prepare 4 ml complete medium:
+<ul id="ul0007" list-style="none" compact="compact">
+<li>- -Add 8uL ofPhosphathidylcholine into 2354.5ul of base and mix thoroughly.</li>
+<li>- -Add 2.7ul of 1,2-Dipalmitoyl-sn-glycero-3-phosphocholine and mix thoroughly.</li>
+<li>- -Add Sui ofL-a-Phosphatidyl-DL-glycerol and mix thoroughly.</li>
+<li>- -Then, add 512µl BSA+cholesterol mix and mix thoroughly (see comment 2).</li>
+<li>- -Finally, add Sui of Sphingomyelin and mix thoroughly.</li>
+</ul></li>
+</ol></p>
+<heading id="h0019"><i>Comments when preparing stocks (*):</i></heading>
+<p id="p0178" num="0178">
+<ol id="ol0005" ol-style="">
+<li>1. From a stock of 10 M NaOH (sterile solution) prepare 1M stock solution with sterile water. The media pH is adjusted at 7.4-7.6 when adding the amount indicated ofNaOH. However, the pH of the final medium can be checked and adjusted with NaOH or HCl if necessary. (Optimal pH 7.6).</li>
+<li>2. To prepare the BSA+ cholesterol mix, homogenize by pippting up and down several times 12 ul cholesterol into 500u14% BSA. During the homogenization process you will create some foam. This step is critical to complex cholesterol to the BSA. Note, that the<!-- EPO <DP n="49"> --> volumes indicated for the BSA+ cholesterol mix are for 4ml of medium but it can be scaled up to larger volumes and store aliquots at -20C. Indeed, this is recommended as we observed some variation in the performance of the medium when different BSA+ cholesterol mix were used, probably indicating different degrees of complexation.</li>
+</ol></p>
+<heading id="h0020"><b>EXAMPLE 2</b></heading>
+<heading id="h0021"><b><u>Optimization of a serum-free medium for mycoplasma growth</u></b></heading>
+<heading id="h0022"><b><i>Methods and description of the invention</i></b></heading>
+<p id="p0179" num="0179">the development and optimization of a serum-free medium capable to support and maintain growth of <i>M. hyopneumoniae</i> is provided, In principle, the composition of the medium developed can be used as a platform to grow other related mycoplasmas species.</p>
+<heading id="h0023"><i>1.1 Preparation of bacterial stocks</i></heading>
+<p id="p0180" num="0180">Frozen stocks of the <i>M. hyopneumoniae non-pathogenic</i> strain J were used as starting inocula in the culture tests. Bacterial stocks were prepared as follows. A 50ml conical tube containing 10ml of modified Friss rich medium (Kamminga et al., 2017) was inoculated with 250µl of <i>M. hyopneumoniae</i> cell suspension and cultured at 37°C in an orbital shaker set at 180rpm. After 72h of growth, the 10 ml culture was diluted in 90 ml of fresh medium in an Erlenmeyer flask of 250ml. After 24h of culture, the 100 ml culture was diluted again by adding 150ml of fresh media in an Erlenmeyer flask of 500ml and cultured for 24h more. Then, bacterial cells were harvested by centrifugation (14100g, 10 min) and the pellet resuspended in 30 ml of fresh medium. Finally, the cell suspension was stored at -80°C in aliquots of 400µl until needed. For each experiment, an aliquot was thaw to avoid repeating freezing and thawing cycles.</p>
+<heading id="h0024"><i>1.2 Culture conditions and methods used to monitor growth</i></heading>
+<p id="p0181" num="0181"><i>M. hyopneumoniae</i> grows in suspension. This growth feature hampered the implementation of a high-throughput method to monitor growth in a 96-well plate format that was previously established for <i>M. pneumoniae</i> (EP application <patcit id="pcit0002" dnum="EP19382930"><text>EP19382930.6</text></patcit>). In particular, we found that culture conditions in this platform were not optimal for growing <i>M. hyopneumoniae</i>, even using shaking conditions. In addition, determination of cell<!-- EPO <DP n="50"> --> biomass gain by protein quantification resulted in high background signals, especially from the 96-well plate format. For all these reasons, to estimate growth and aid the optimization process of a serum-free medium for <i>M. hyopneumoniae,</i> the following culture conditions and methods were set up. For each experiment, 3 culture replicates of 4ml each containing the tested medium were inoculated with frozen stocks (1:200 dilutions). For media comparison, modified Friss rich medium was used in each experiment as the reference medium (also tested by triplicate). Cultures were incubated at 37°C in orbital shaking (180rpm) in 15ml conical tubes and total DNA biomass was estimated after 96h of culture as follows. The 4ml bacterial culture was harvested by centrifugation (14100g, 10 min), and the pellet directly lysed with 300µl of Tissue and Cell Lysis solution plus Proteinase K from the MasterPure DNA purification Kit (Epicentre). DNA was extracted following the recommendations of the Kit manufacturer, and DNA measured using a fluorometric method (Qubit dsDNA HS assay Kit, Invitrogen).</p>
+<p id="p0182" num="0182">To evaluate in more detail the performance of certain media formulations, growth curve analysis was performed as follows. Erlenmeyer flasks of 125ml containing 30 ml of medium were inoculated by triplicate with frozen stocks (1:200 dilutions) and incubated at 37°C in an orbital shaker set at 180rpm. Then, 1 ml of culture sample was collected at different time points (0h, 24h, 48h, 72, 96h, 168h), and cells harvested by centrifugation (14100g, 10 min) prior to DNA quantification following the methods described above.</p>
+<heading id="h0025"><i>1.3 Medium optimization workflow to develop a serum-free medium for M. hyopneumoniae.</i></heading>
+<p id="p0183" num="0183">A culture medium for mycoplasma likely requires a carbon source, amino acids, nucleosides, lipids, vitamins and co-factors, essential metals and minerals.. In this invention, we developed a culture medium free of animal serum, which was optimized for cultivation of <i>M. hyopneumoniae.</i> As a starting point to achieve this objective, we used a medium composition free of animal components, previously established for <i>M</i>. <i>pneumoniae</i> cultivation (EP application <patcit id="pcit0003" dnum="EP19382930"><text>EP19382930.6</text></patcit>). Primarily, this medium (named vB13, see <figref idref="f0001">Figure 1</figref> for detailed composition) contains RNA, Yeastolate and the commercially available CMRL-1066 medium (Invitrogen), providing most of the amino acids, bases, vitamins and inorganic salts required for growth. As lipid sources, it contains phosphatidylcholine (PC), sphingomyelin (SPM), and cholesterol delivered by cyclodextrin. Of note, this medium supports growth of <i>M. pneumoniae,</i> allowing biomass yields close to 60-70% as compared to rich media.<!-- EPO <DP n="51"> --></p>
+<p id="p0184" num="0184">As shown in <figref idref="f0002">Figure 2</figref>, the composition of the vB13 medium resulted sub-optimal for cultivation of <i>M. hyopneumoniae.</i> To optimize the composition of this medium for this specie, a workflow method to systematically test different media formulations was stablished (<figref idref="f0003">Fig. 3</figref>). First, the contribution of different concentrations of the original components in the performance of vB13 medium was tested. Then, it was tested the contribution of new components that could improve performance based on the review of the literature and the analysis of the metabolic map of <i>M. hyopneumoniae</i> (Kamminga et al., 2017). When an improvement was found, it was fixed, the influence of different concentrations of the other components was tested again on a systematic manner, as it was found that small variations could affect the optimal range of the other components. This methodology was repeated until it was not possible to find a significant improvement, resulting in a total of more than 170 experiments. For each media tested, growth was assessed by measuring DNA biomass at 96h of culture as detailed above (see method section entitled <i>"culture conditions and methods used to monitor growth"</i>)<i>.</i></p>
+<heading id="h0026"><i>1.4 Major improvements found during medium optimization process.</i></heading>
+<p id="p0185" num="0185">Below, it is disclosed a summary of the major improvements found during the optimization process aimed to develop a serum-free culture medium for cultivation of <i>M. hyopneumoniae.</i> The composition details and performance of intermediate media versions is summarized in <figref idref="f0001">Figure 1</figref>.</p>
+<heading id="h0027"><u>Buffering system</u></heading>
+<p id="p0186" num="0186">Although <i>M. hyopneumoniae</i> uses glucose as a carbon source and has the ability to ferment glucose, its metabolism produces less lactic acid compared to <i>M. pneumoniae,</i> resulting in a reduction of medium acidification. As a consequence, it was found that removal of HEPES from vB13 as a buffering system allowed us to better assess qualitative growth by monitoring color change without affecting growth rates.</p>
+<heading id="h0028"><u>Carbon source</u></heading>
+<p id="p0187" num="0187">As previously described (Kamminga et al., 2017), it was found that pyruvate in addition to glucose improved growth of <i>M. hyopneumoniae.</i> Of note, 4 g/L instead of 2.2g/L of pyruvate was preferred in the present culture conditions (<figref idref="f0004">Fig. 4A</figref>). In addition, it was found that glycerol play a comparatively minor role in contrast to <i>M. pneumoniae.</i> Indeed, higher amounts of glycerol resulted in non-reproducible cultures.<!-- EPO <DP n="52"> --></p>
+<heading id="h0029"><u>Amino acids and broth extracts</u></heading>
+<p id="p0188" num="0188">All the essential amino acids were provided by the commercially available CMRL-1066 medium (Invitrogen). Only glutamine was added separately as this amino acid is absent in CMRL. As in <i>M. pneumoniae,</i> increasing amino acids amounts did not improve growth, but the presence of peptones or similar hydrolyzed extracts were critical. In this regard, absence of TC Yeastolate (used here as it is not derived from animal materials) resulted in failure of growth (<figref idref="f0004">Fig. 4B</figref>). In comparison to vB13, it was found that a decrease of Yeastolate concentration from 10mg/L to 7.5 mg/L improved growth. Although other concentrations tested were tolerated, 7.5 mg/L seem to be optimal for growth in the context of the medium composition tested.</p>
+<heading id="h0030"><u>Bases and nucleosides</u></heading>
+<p id="p0189" num="0189">Essential nucleosides were mostly provided by the CMRL-1066 medium and Yeastolate, although supplementation of extra nucleosides, especially thymidine improved slightly the robustness of the medium. Of note, <i>M. hyopneumoniae</i> lacks the thymidylate synthase in contrast to <i>M. pneumoniae.</i> The presence of RNA did not provide a better growth performance, and therefore it was removed from the original medium.</p>
+<heading id="h0031"><u>Vitamins</u></heading>
+<p id="p0190" num="0190">Essential vitamins were mostly provided by the CMRL-1066 medium, except for thioctic acid which was supplemented separately. In <i>M. pneumoniae,</i> extra amounts of vitamins such as pyridoxamine, nicotinic acid, riboflavin and choline slightly improved the robustness of the medium. In contrast, the addition of these extra vitamins resulted in reduced yields in <i>M. hyopneumoniae</i> (<figref idref="f0004">Fig 4A</figref>).</p>
+<heading id="h0032"><u>CMRL as a nutrient substitute</u></heading>
+<p id="p0191" num="0191">Commercially available CMRL-1066 medium was used to facilitate media preparation and substitute several components that should be otherwise supplemented separately, including for example amino acids, nucleosides, essential minerals, anti-oxidants, vitamins and other co-factors. The presence of CMRL in the medium is essential to support growth (<figref idref="f0004">Fig. 4B</figref>), and as in <i>M. pneumoniae,</i> it was found particularly important the adjustment of the amount of CMRL supplemented, being 0.5X the optimal concentration. Note that higher concentrations had inhibitory effects. Although the use of CMRL extremely simplify the preparation of the medium, it is also possible to add separately the components, since the formulation of CMRL is publically available.<!-- EPO <DP n="53"> --></p>
+<heading id="h0033"><u>Lipids and lipid carriers</u></heading>
+<p id="p0192" num="0192">The delivery of lipids was critical for medium development, as variations in the lipid content resulted in the major improvements achieved. As in the case of <i>M. pneumoniae,</i> the cholesterol amount present in CMRL was not enough to support growth, demanding additional cholesterol supplementation with an optimal concentration close to 30µg/ml. In addition, cholesterol had to be delivered by a carrier protein such as BSA (<figref idref="f0004">Fig. 4A</figref>), as its replacement by cyclodextrin resulted in failure of growth. Similar results were obtained with PVA. The addition of liposomes or related lipid carriers may be capable to substitute BSA to obtain a full animal component-free medium. BSA concentrations around 0.5% appeared to provide optimal results under our culture conditions. It was also found that BSA complexed with a lipid mix containing palmitic acid, oleic acid and cholesterol resulted in decreased performance compared to BSA complexed with cholesterol alone (<figref idref="f0004">Fig. 4A</figref>).</p>
+<p id="p0193" num="0193">Addition of phospholipids were also found fundamental to improve growth performance. In particular, phosphatidylcholine (PC) was absolutely required for growth (Fig. 7B), with concentrations ranging from 40 to 60 µg/ml being optimal. This was in contrast to <i>M. pneumoniae,</i> in which PC was an important growth factor, but not essential. Moreover, it was found that sphingomyelin (SPM) was less essential compared to PC. Although absence of SPM decreases growth significantly (<figref idref="f0004">Fig. 4B</figref>), higher amounts than 10 µg/ml were toxic in the context of the medium composition tested. Thus, decrease of SPM from 40 µg/ml to 10 µg/ml resulted in enhanced performance (<figref idref="f0004">Fig. 4A</figref>). Finally, it was found that addition of 10 to 20 µg/ml of L-α-Phosphatidyl-DL-glycerol and 1,2-Dipalmitoyl-sn-glycero-3-phosphocholine also improved growth (Fig. 7A).</p>
+<heading id="h0034"><i>1.5 Growth curve analyses and passaging experiments to test medium performance</i></heading>
+<p id="p0194" num="0194">The optimization process resulted in media formulations reaching 60 to 80% of the DNA biomass obtained with rich medium (<figref idref="f0005">Figure 5</figref>). To better assess growth performance, growth curve analyses of the vH5 derivative mediums (see <figref idref="f0001">Figure 1</figref> for detailed composition) was performed by measuring DNA biomass over time as described above (for details see method section entitled <i>"culture conditions and methods used to monitor growth"</i>)<i>.</i> Of note, cultures were scaled up to 30ml in contrast to the 4ml used in the optimization process. As shown in Figure 8, the enhanced performance of vH5.1 and especially vH5.2 versions compared to vH5 was reproduced. In particular, both vH5.1<!-- EPO <DP n="54"> --> and vH5.2 media formulations promoted growth with shorter lag phases, thus approximating to the yields obtained in rich medium after 72-96h of growth.</p>
+<p id="p0195" num="0195">To test whether these media formulations could support growth after serial passages, passaging experiments were also performed as follows. Conical tubes of 15ml containing 4ml of medium were inoculated and incubated at 37°C in an orbital shaker set at 180rpm for 72h. For the next passage, 400µl of cell suspension was diluted in 4ml of fresh medium to start a new culture. This process could be repeated up to 2 passages. Based on these results, it was conclude that the media formulations of the vH5 derivative versions could be used for bacterial production upon the process of industrial scaling up.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="55"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A serum-free culture medium suitable for the culture of <i>Mycoplasma hyopneumoniae</i> that comprises:
+<claim-text>(i) a carbon source comprising at least a pyruvate salt,</claim-text>
+<claim-text>(ii) an amino acid mixture,</claim-text>
+<claim-text>(iii) a vitamin mixture,</claim-text>
+<claim-text>(iv) lipids,</claim-text>
+<claim-text>(v) inorganic salts,</claim-text>
+<claim-text>(vi) a nucleoside mixture comprising thymidine,</claim-text>
+<claim-text>(vii) a mixture of enzymatic cofactors,</claim-text>
+<claim-text>(viii) a proteolytic digest of a microorganism or of a plant or animal tissue and</claim-text>
+<claim-text>(ix) a vehicle to solubilize and deliver the lipids.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The medium of claim 1 wherein the carbon source comprises glucose, mannose, glycerol, acetate, glucuronate, , acetate, ascorbate and lactate or a combination thereof.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The medium according to claims 1 o 2 wherein the pyruvate is provided as the sodium salt and is found at a concentration of at least 2.2 g/L, preferably at least 4 g/L.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The medium of any preceding claim wherein the content in L-Glutamine is of least 2 mM.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The medium according to any preceding claim wherein the lipids are cholesterol, sphingomyelin, phosphatidylcholine, L-α-Phosphatidyl-DL-glycerol, 1,2-Dipalmitoyl-sn-glycero-3-phosphocholine or a combination thereof.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The medium according to claim 5 wherein the cholesterol is present at a concentration of about 30 µg/mL, wherein the sphingomyelin is present at a concentration of less than about 10 µg/mL, wherein the phosphatidylcholine is present at a concentration of ca. 40 µg/mL, preferably at ca. 60 µg/mL. wherein the L-α-Phosphatidyl-DL-glycerol is present at a concentration of between. 10 and 20<!-- EPO <DP n="56"> --> µg/mL and/or wherein the 1,2-Dipalmitoyl-sn-glycero-3-phosphocholine is present at a concentration of 10 to. 20 µg/mL.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The medium of any preceding claim wherein the proteolytic digest of a microorganism or of a plant or animal tissue is yeastolate.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>The method of claim 7 wherein the yeastolate is present at a concentration of about 7,5 mg/L.</claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>The medium according to any preceding claim wherein the vehicle to solubilize and deliver the lipids is selected from the group of a lipid-binding protein, PVA and a liposome.</claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>The medium according to any preceding claim wherein the vehicle to solubilize and deliver the lipids is a lipid-binding protein, preferably delipidated BSA.</claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>The medium according to claim 10 wherein the delipidated bovine serum albumin is complexed to cholesterol and not complexed with fatty acids.,</claim-text></claim>
+<claim id="c-en-0012" num="0012">
+<claim-text>The medium according to any of claim 10 or 11 wherein the BSA is found at a concentration of 0,5% (w/w) or less, preferably at 0,3% (w/w) or less.</claim-text></claim>
+<claim id="c-en-0013" num="0013">
+<claim-text>The medium according to any preceding aspect wherein the medium lacks a buffering system.</claim-text></claim>
+<claim id="c-en-0014" num="0014">
+<claim-text>The medium according to any preceding claim wherein the components defined in the "component" column in the following table are present at concentrations indicated in the "Concentration" column.
+<tables id="tabl0004" num="0004">
+<table frame="none">
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="76mm"/>
+<colspec colnum="2" colname="col2" colwidth="39mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"><b>Components</b></entry>
+<entry align="center" valign="middle"><b>Concentration (mg/L)</b></entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">Glycine</entry>
+<entry align="center" valign="middle">25.0</entry></row>
+<row>
+<entry valign="middle">Hydroxy L-proline</entry>
+<entry align="center" valign="middle">5.0</entry></row>
+<row>
+<entry valign="middle">L-Alanine</entry>
+<entry align="center" valign="middle">12,5</entry></row>
+<row>
+<entry valign="middle">L-Arginine hydrochloride</entry>
+<entry align="center" valign="middle">35.0</entry></row>
+<row>
+<entry valign="middle">L-Aspartic acid</entry>
+<entry align="center" valign="middle">15.0</entry></row><!-- EPO <DP n="57"> -->
+<row>
+<entry valign="middle">L-Cysteine</entry>
+<entry align="center" valign="middle">99,94</entry></row>
+<row>
+<entry valign="middle">L-Cystine</entry>
+<entry align="center" valign="middle">10.0</entry></row>
+<row>
+<entry valign="middle">L-Glutamic Acid</entry>
+<entry align="center" valign="middle">37.5</entry></row>
+<row>
+<entry valign="middle">L-Histidine hydrochloride-H2O</entry>
+<entry align="center" valign="middle">10.0</entry></row>
+<row>
+<entry valign="middle">L-Isoleucine</entry>
+<entry align="center" valign="middle">10.0</entry></row>
+<row>
+<entry valign="middle">L-Leucine</entry>
+<entry align="center" valign="middle">30.0</entry></row>
+<row>
+<entry valign="middle">L-Lysine hydrochloride</entry>
+<entry align="center" valign="middle">35.0</entry></row>
+<row>
+<entry valign="middle">L-Methionine</entry>
+<entry align="center" valign="middle">7.5</entry></row>
+<row>
+<entry valign="middle">L-Phenylalanine</entry>
+<entry align="center" valign="middle">12.5</entry></row>
+<row>
+<entry valign="middle">L-Proline</entry>
+<entry align="center" valign="middle">20.0</entry></row>
+<row>
+<entry valign="middle">L-Serine</entry>
+<entry align="center" valign="middle">12.5</entry></row>
+<row>
+<entry valign="middle">L-Threonine</entry>
+<entry align="center" valign="middle">15.0</entry></row>
+<row>
+<entry valign="middle">L-Tryptophan</entry>
+<entry align="center" valign="middle">5.0</entry></row>
+<row>
+<entry valign="middle">L-Tyrosine</entry>
+<entry align="center" valign="middle">20.0</entry></row>
+<row>
+<entry valign="middle">L-Valine</entry>
+<entry align="center" valign="middle">12.5</entry></row>
+<row>
+<entry valign="middle">Ascorbic Acid</entry>
+<entry align="center" valign="middle">25.0</entry></row>
+<row>
+<entry valign="middle">Biotin</entry>
+<entry align="center" valign="middle">0.005</entry></row>
+<row>
+<entry valign="middle">Cholesterol</entry>
+<entry align="center" valign="middle">0.1</entry></row>
+<row>
+<entry valign="middle">Choline chloride</entry>
+<entry align="center" valign="middle">0.25</entry></row>
+<row>
+<entry valign="middle">D-Calcium pantothenate</entry>
+<entry align="center" valign="middle">0.005</entry></row>
+<row>
+<entry valign="middle">Folic Acid</entry>
+<entry align="center" valign="middle">0.005</entry></row>
+<row>
+<entry valign="middle">Niacinamide</entry>
+<entry align="center" valign="middle">0.0125</entry></row>
+<row>
+<entry valign="middle">Nicotinic acid (Niacin)</entry>
+<entry align="center" valign="middle">0.0125</entry></row>
+<row>
+<entry valign="middle">Para-Aminobenzoic Acid</entry>
+<entry align="center" valign="middle">0.025</entry></row>
+<row>
+<entry valign="middle">Pyridoxal hydrochloride</entry>
+<entry align="center" valign="middle">0.0125</entry></row>
+<row>
+<entry valign="middle">Pyridoxine hydrochloride</entry>
+<entry align="center" valign="middle">0.0125</entry></row>
+<row>
+<entry valign="middle">Riboflavin</entry>
+<entry align="center" valign="middle">0.005</entry></row>
+<row>
+<entry valign="middle">Thiamine hydrochloride</entry>
+<entry align="center" valign="middle">0.005</entry></row>
+<row>
+<entry valign="middle">i-Inositol</entry>
+<entry align="center" valign="middle">0.0025</entry></row>
+<row>
+<entry valign="middle">Calcium Chloride (CaCl2-2H2O)</entry>
+<entry align="center" valign="middle">132.0</entry></row>
+<row>
+<entry valign="middle">Magnesium Sulfate (MgSO4-7H2O)</entry>
+<entry align="center" valign="middle">100.0</entry></row>
+<row>
+<entry valign="middle">Potassium Chloride (KCl)</entry>
+<entry align="center" valign="middle">200.0</entry></row>
+<row>
+<entry valign="middle">Sodium Bicarbonate (NaHCO3)</entry>
+<entry align="center" valign="middle">1100.0</entry></row>
+<row>
+<entry valign="middle">Sodium Chloride (NaCl)</entry>
+<entry align="center" valign="middle">3399.5</entry></row>
+<row>
+<entry valign="middle">Sodium Phosphate monobasic (NaH2PO4-2H2O)</entry>
+<entry align="center" valign="middle">75.4</entry></row>
+<row>
+<entry valign="middle">2'Deoxyadenosine</entry>
+<entry align="center" valign="middle">5.0</entry></row>
+<row>
+<entry valign="middle">2'Deoxycytidine</entry>
+<entry align="center" valign="middle">5.0</entry></row>
+<row>
+<entry valign="middle">2'Deoxyguanosine</entry>
+<entry align="center" valign="middle">5.0</entry></row>
+<row>
+<entry valign="middle">5-Methyl-deoxycytidine</entry>
+<entry align="center" valign="middle">0.05</entry></row>
+<row>
+<entry valign="middle">Co-carboxylase</entry>
+<entry align="center" valign="middle">0.05</entry></row>
+<row>
+<entry valign="middle">Coenzyme A</entry>
+<entry align="center" valign="middle">1.25</entry></row>
+<row>
+<entry valign="middle">D-Glucose (Dextrose)</entry>
+<entry align="center" valign="middle">500.0</entry></row>
+<row>
+<entry valign="middle">Diphosphopyridine nucleotide (NAD)</entry>
+<entry align="center" valign="middle">3.5</entry></row>
+<row>
+<entry valign="middle">FAD (flavin adenine dinucleotide)</entry>
+<entry align="center" valign="middle">0.05</entry></row><!-- EPO <DP n="58"> -->
+<row>
+<entry valign="middle">Glutathione (reduced)</entry>
+<entry align="center" valign="middle">5.0</entry></row>
+<row>
+<entry valign="middle">Phenol Red</entry>
+<entry align="center" valign="middle">10.0</entry></row>
+<row>
+<entry valign="middle">Sodium acetate-3H2O</entry>
+<entry align="center" valign="middle">41.5</entry></row>
+<row>
+<entry valign="middle">Sodium glucuronate-H2O</entry>
+<entry align="center" valign="middle">2.1</entry></row>
+<row>
+<entry valign="middle">Thymidine</entry>
+<entry align="center" valign="middle">5.0</entry></row>
+<row>
+<entry valign="middle">Triphosphopyridine Nucleotide (NADP)</entry>
+<entry align="center" valign="middle">0.5</entry></row>
+<row>
+<entry valign="middle">Tween 80®</entry>
+<entry align="center" valign="middle">2.5</entry></row>
+<row>
+<entry valign="middle">Uridine 5'- triphosphate</entry>
+<entry align="center" valign="middle">0.5</entry></row></tbody></tgroup>
+</table>
+</tables></claim-text></claim>
+<claim id="c-en-0015" num="0015">
+<claim-text>The medium according to claim 14 wherein the content of one or more components selected from the group consisting of Tween80, thiamin, niacinamide, nicotinic acid, folic acid, pathonthenic acid, ascorbic acid, riboflavin, spermidine, Para-Aminobenzoic Acid, Pyridoxal hydrochloride, Pyridoxine hydrochloride, Histidine, Methionine, Proline, Cysteine and Tryptophan is not higher than those provided in the Table in claim 36.</claim-text></claim>
+<claim id="c-en-0016" num="0016">
+<claim-text>The medium according to any preceding claim wherein the medium is selected from the group consisting of the vH5, vH5.1 or vH5.2 as shown in Fig, 5.</claim-text></claim>
+<claim id="c-en-0017" num="0017">
+<claim-text>A method for the culture of a Mycoplasma strain comprising placing an inoculum of said strain into the media according to any of claims 1 to 15 and maintaining the inoculated media under conditions adequate for the proliferation of the Mycoplasma strain.</claim-text></claim>
+<claim id="c-en-0018" num="0018">
+<claim-text>A method for obtaining a biomass of a Mycoplasma strain which comprises placing an inoculum of said Mycoplasma strain into the media according to any of claims 1 to 15 and maintaining the inoculated media under conditions adequate for the proliferation of the Mycoplasma strain and the formation of the biomass.</claim-text></claim>
+<claim id="c-en-0019" num="0019">
+<claim-text>The method according to any of claims 17 or 18 wherein the Mycoplasma is <i>Mycoplasma hyopenumoniae.</i></claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="59"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="165" he="132" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="60"> -->
+<figure id="f0002" num="2"><img id="if0002" file="imgf0002.tif" wi="139" he="120" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="61"> -->
+<figure id="f0003" num="3"><img id="if0003" file="imgf0003.tif" wi="141" he="94" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="62"> -->
+<figure id="f0004" num="4A,4B"><img id="if0004" file="imgf0004.tif" wi="98" he="199" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="63"> -->
+<figure id="f0005" num="5"><img id="if0005" file="imgf0005.tif" wi="95" he="83" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="151" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="151" he="233" type="tif"/><doc-page id="srep0003" file="srep0003.tif" wi="155" he="233" type="tif"/></search-report-data><search-report-data date-produced="20200714" id="srepxml" lang="en" srep-office="EP" srep-type="ep-sr" status="n"><!--
+ The search report data in XML is provided for the users' convenience only. It might differ from the search report of the PDF document, which contains the officially published data. The EPO disclaims any liability for incorrect or incomplete data in the XML for search reports.
+ -->
+
+<srep-info><file-reference-id>P19311EP00</file-reference-id><application-reference><document-id><country>EP</country><doc-number>20382260.6</doc-number></document-id></application-reference><applicant-name><name>Fundació Centre de Regulació Genòmica</name></applicant-name><srep-established srep-established="yes"/><srep-invention-title title-approval="yes"/><srep-abstract abs-approval="yes"/><srep-figure-to-publish figinfo="none-suggested"/><srep-info-admin><srep-office><addressbook><text>MN</text></addressbook></srep-office><date-search-report-mailed><date>20200723</date></date-search-report-mailed></srep-info-admin></srep-info><srep-for-pub><srep-fields-searched><minimum-documentation><classifications-ipcr><classification-ipcr><text>C12N</text></classification-ipcr><classification-ipcr><text>C12R</text></classification-ipcr><classification-ipcr><text>C07K</text></classification-ipcr></classifications-ipcr></minimum-documentation></srep-fields-searched><srep-citations><citation id="sr-cit0001"><nplcit id="sr-ncit0001" medium="online" npl-type="w"><online><author><name>R E Davis ET AL</name></author><online-title>Cultivation of Phytomonas davidi (Trypanosomatidae) in Serum-Free</online-title><serial><sertitle>Phytopathology</sertitle></serial><pubdate>19870101</pubdate><location><pp><ppf>177</ppf><ppl>182</ppl></pp></location><avail>https://www.apsnet.org/publications/phytopathology/backissues/Documents/1987Articles/Phyto77n02_177.PDF</avail><srchdate><date>20200713</date></srchdate><refno>XP055714058</refno></online></nplcit><category>X</category><rel-claims>1-15,17-19</rel-claims><rel-passage><passage>* p. 179 col. 1, 1st §, p. 180 col. 2, penultimate §;tables 1-2 *</passage></rel-passage></citation><citation id="sr-cit0002"><patcit dnum="WO2015157335A1" id="sr-pcit0001" url="http://v3.espacenet.com/textdoc?DB=EPODOC&amp;IDX=WO2015157335&amp;CY=ep"><document-id><country>WO</country><doc-number>2015157335</doc-number><kind>A1</kind><name>BAYER HEALTHCARE LLC [US]</name><date>20151015</date></document-id></patcit><category>X</category><rel-claims>1-15,17-19</rel-claims><rel-passage><passage>* p.3, 2nd §, p. 4, 2nd §-p. 8, penultimate §, p. 18, 2nd §, p. 24, 3rd §, p. 25, last §;examples 2-4; table 1 *</passage></rel-passage></citation><citation id="sr-cit0003"><nplcit id="sr-ncit0002" npl-type="b"><article><book><author><name>KUCHLER ET AL</name></author><book-title>Milieu for Maintaining and Growing Animal Cells In Vitro</book-title><imprint><name>BIOCHEMICAL METHODS IN CELL CULTURE AND VIROLOGY,, PAGE(S) 45</name><pubdate>19770101</pubdate></imprint><refno>XP001345237</refno></book></article></nplcit><category>T</category><rel-claims>1-19</rel-claims><rel-passage><passage>* p. 70, last § *</passage></rel-passage></citation><citation id="sr-cit0004"><nplcit id="sr-ncit0003" medium="online" npl-type="w"><online><author><name>Anonymous</name></author><online-title>Sodium Phosphate Monobasic Monohydrate | 10049-21-5</online-title><pubdate>20170101</pubdate><avail>https://www.chemicalbook.com/ChemicalProductProperty_EN_cb5158267.htm</avail><srchdate><date>20200714</date></srchdate><refno>XP055714491</refno></online></nplcit><category>T</category><rel-claims>1-19</rel-claims><rel-passage><passage>* p. 3, 1st § *</passage></rel-passage></citation><citation id="sr-cit0005"><nplcit id="sr-ncit0004" medium="online" npl-type="w"><online><author><name>Anonymous</name></author><online-title>ProductInformation CMRL-1066 With L-Glutamine, Without Sodium Bicarbonate Product Number C0422 Storage Temperature 2-8°C</online-title><pubdate>19981001</pubdate><avail>https://www.sigmaaldrich.com/content/dam/sigma-aldrich/docs/Sigma/Datasheet/c0422dat.pdf</avail><srchdate><date>20200714</date></srchdate><refno>XP055714693</refno></online></nplcit><category>T</category><rel-claims>1-19</rel-claims><rel-passage><passage>* p. 1, left column *</passage></rel-passage></citation></srep-citations><srep-admin><examiners><primary-examiner><name>Landré, Julien</name></primary-examiner></examiners><srep-office><addressbook><text>Munich</text></addressbook></srep-office><date-search-completed><date>20200714</date></date-search-completed></srep-admin><!--							The annex lists the patent family members relating to the patent documents cited in the above mentioned European search report.							The members are as contained in the European Patent Office EDP file on							The European Patent Office is in no way liable for these particulars which are merely given for the purpose of information.							For more details about this annex : see Official Journal of the European Patent Office, No 12/82						--><srep-patent-family><patent-family><priority-application><document-id><country>WO</country><doc-number>2015157335</doc-number><kind>A1</kind><date>20151015</date></document-id></priority-application><family-member><document-id><country>AU</country><doc-number>2015243961</doc-number><kind>A1</kind><date>20161027</date></document-id></family-member><family-member><document-id><country>CA</country><doc-number>2945390</doc-number><kind>A1</kind><date>20151015</date></document-id></family-member><family-member><document-id><country>CN</country><doc-number>106459907</doc-number><kind>A</kind><date>20170222</date></document-id></family-member><family-member><document-id><country>EP</country><doc-number>3129463</doc-number><kind>A1</kind><date>20170215</date></document-id></family-member><family-member><document-id><country>JP</country><doc-number>6665104</doc-number><kind>B2</kind><date>20200313</date></document-id></family-member><family-member><document-id><country>JP</country><doc-number>2017510283</doc-number><kind>A</kind><date>20170413</date></document-id></family-member><family-member><document-id><country>KR</country><doc-number>20160144429</doc-number><kind>A</kind><date>20161216</date></document-id></family-member><family-member><document-id><country>PE</country><doc-number>20161326</doc-number><kind>A1</kind><date>20161211</date></document-id></family-member><family-member><document-id><country>SG</country><doc-number>11201608390S</doc-number><kind>A</kind><date>20161129</date></document-id></family-member><family-member><document-id><country>US</country><doc-number>2017191025</doc-number><kind>A1</kind><date>20170706</date></document-id></family-member><family-member><document-id><country>WO</country><doc-number>2015157335</doc-number><kind>A1</kind><date>20151015</date></document-id></family-member><family-member><document-id><country>ZA</country><doc-number>201607719</doc-number><kind>B</kind><date>20181128</date></document-id></family-member></patent-family></srep-patent-family></srep-for-pub></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="US5474931A"><document-id><country>US</country><doc-number>5474931</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0048]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="EP19382930" dnum-type="L"><document-id><country>EP</country><doc-number>19382930</doc-number></document-id></patcit><crossref idref="pcit0002">[0181]</crossref><crossref idref="pcit0003">[0183]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="s"><article><author><name>HECKLAU et al.</name></author><atl/><serial><sertitle>J. Biotech</sertitle><pubdate><sdate>20160000</sdate><edate/></pubdate><vid>218</vid></serial><location><pp><ppf>53</ppf><ppl>63</ppl></pp></location></article></nplcit><crossref idref="ncit0001">[0049]</crossref></li>
+<li><nplcit id="ref-ncit0002" npl-type="s"><article><author><name>ZIMMER et al.</name></author><atl/><serial><sertitle>J. Biotechnol</sertitle><pubdate><sdate>20140000</sdate><edate/></pubdate><vid>186</vid></serial><location><pp><ppf>110</ppf><ppl>8</ppl></pp></location></article></nplcit><crossref idref="ncit0002">[0049]</crossref></li>
+<li><nplcit id="ref-ncit0003" npl-type="s"><article><author><name>CHORDIYA</name></author><author><name>SENTHILKUMARAN</name></author><atl/><serial><sertitle>Research and Reviews: Journal of Pharmacy and Pharmaceutical Sciences</sertitle><pubdate><sdate>20120000</sdate><edate/></pubdate><vid>I</vid><ino>I</ino></serial><location><pp><ppf>19</ppf><ppl>29</ppl></pp></location></article></nplcit><crossref idref="ncit0003">[0129]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

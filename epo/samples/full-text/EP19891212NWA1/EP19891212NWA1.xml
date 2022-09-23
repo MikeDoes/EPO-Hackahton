@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19891212A1" file="EP19891212NWA1.xml" lang="en" country="EP" doc-number="3888910" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3888910</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19891212.3</B210><B220><date>20191119</date></B220><B240><B241><date>20210621</date></B241></B240><B250>ja</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>2018225788</B310><B320><date>20181130</date></B320><B330><ctry>JP</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>B32B  27/00        20060101AFI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>B32B  27/28        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>B65D  65/40        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>C08L  23/06        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>C08L  23/08        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="6"><text>C08L  25/08        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="7"><text>C08L 101/12        20060101ALI20200605BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>C08L  23/08        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>B32B  27/28        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="3"><text>B32B  27/00        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="4"><text>C08L 101/12        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="5"><text>C08L  23/06        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="6"><text>B65D  65/40        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="7"><text>C08L  25/08        20130101 LI20200626BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>HARZZUSAMMENSETZUNG FÜR DICHTUNGSMASSE, SCHICHTKÖRPER, VERPACKUNGSMATERIAL UND VERPACKUNGSKÖRPER</B542><B541>en</B541><B542>RESIN COMPOSITION FOR SEALANT, LAYERED BODY, PACKAGING MATERIAL AND PACKAGING BODY</B542><B541>fr</B541><B542>COMPOSITION DE RÉSINE DESTINÉE À UN AGENT D'ÉTANCHÉITÉ, CORPS STRATIFIÉ, MATÉRIAU D'EMBALLAGE ET CORPS D'EMBALLAGE</B542></B540></B500><B700><B710><B711><snm>DOW-MITSUI POLYCHEMICALS CO., LTD.</snm><iid>101825101</iid><irf>P29501WOEP</irf><adr><str>5-2, Higashi-Shimbashi 1-chome 
+Minato-ku</str><city>Tokyo
+1057122</city><ctry>JP</ctry></adr></B711></B710><B720><B721><snm>NISHIJIMA, Koichi</snm><adr><str>c/o DOW-MITSUI POLYCHEMICALS CO.,LTD., 6,  
+Chigusakaigan</str><city>Ichihara-shi, Chiba 299-0108</city><ctry>JP</ctry></adr></B721><B721><snm>MACHIYA, Hiroaki</snm><adr><str>c/o DOW-MITSUI POLYCHEMICALS CO.,LTD., 6,  
+Chigusakaigan</str><city>Ichihara-shi, Chiba 299-0108</city><ctry>JP</ctry></adr></B721><B721><snm>GONOHE, Hisao</snm><adr><str>c/o DOW-MITSUI POLYCHEMICALS CO.,LTD., 6,  
+Chigusakaigan</str><city>Ichihara-shi, Chiba 299-0108</city><ctry>JP</ctry></adr></B721><B721><snm>HIRONAKA, Yoshitaka</snm><adr><str>c/o DOW-MITSUI POLYCHEMICALS CO.,LTD., 6,  
+Chigusakaigan</str><city>Ichihara-shi, Chiba 299-0108</city><ctry>JP</ctry></adr></B721></B720><B740><B741><snm>Gulde &amp; Partner</snm><iid>101079545</iid><adr><str>Patent- und Rechtsanwaltskanzlei mbB 
+Wallstraße 58/59</str><city>10179 Berlin</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>JP2019045273</anum></dnum><date>20191119</date></B861><B862>ja</B862></B860><B870><B871><dnum><pnum>WO2020110829</pnum></dnum><date>20200604</date><bnum>202023</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">A resin composition for a sealant has excellent heat-sealing strength with respect to a substrate, and a reduced elution amount thereof into normal heptane.</p>
+<p id="pa02" num="0002">A resin composition for a sealant includes: a resin (A) which is an ethylene-(meth)acrylic acid ester copolymer in which a content of a (meth)acrylic acid ester unit is from 10% by mass to 25% by mass; and a tackifying resin (B), in which a content of the resin (A) is more than 45% by mass with respect to a total amount of resin components in the resin composition for a sealant, and a content of the tackifying resin (B) is from 0.1% by mass to 10% by mass with respect to the total amount of the resin components in the resin composition for a sealant.</p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">Technical Field</heading>
+<p id="p0001" num="0001">The present disclosure relates to a resin composition for a sealant, a laminate, a packaging material, and a package.</p>
+<heading id="h0002">Related Art</heading>
+<p id="p0002" num="0002">Conventionally, various studies have been conducted on a resin composition for a sealant. A resin composition for a sealant is also referred to as a resin composition for a sealing material.</p>
+<p id="p0003" num="0003">For example, <patcit id="pcit0001" dnum="JP2008095044A"><text>Japanese Patent Application Laid-Open No. 2008-95044</text></patcit> discloses a resin composition for a sealing material which contains from 30 to 80 parts by mass of an ethylene-vinyl ester copolymer resin (A), from 1 to 45 parts by mass of an ethylene-(meth)acrylic acid ester copolymer resin (B), and from 3 to 30 parts by mass of a tackifying resin (C) (wherein, a total amount of the resins (A), (B), and (C) is 100 parts by mass), the resin composition for a sealing material being a heat-sealing resin composition which is suitable as a heat-sealing material used for a plastic container, and particularly for a high-impact polystyrene container, has a peeling strength within an appropriate range with respect to a container main body structural member as compared to a conventional composition, maintains physical properties required as a heat-sealing material for a sealing protective property of a container content, such as a food, that are almost similar to those of the conventional composition, and exhibits a higher heat resistance and a smooth and comfortable peeling property in spite of a heat-sealing treatment at a low temperature as compared to the conventional composition.</p>
+<heading id="h0003">SUMMARY OF THE INVENTION</heading>
+<p id="p0004" num="0004">It may be required for the resin composition for a sealing material described in <patcit id="pcit0002" dnum="JP2008095044A"><text>JP-A No. 2008-95044</text></patcit> (that is, the resin composition for a sealant) to have a further increased heat-seal strength to a substrate.</p>
+<p id="p0005" num="0005">In addition, from the viewpoint of hygiene, it may be required for the resin composition for a sealant to have a reduced elution amount into normal heptane.</p>
+<p id="p0006" num="0006">The disclosure has been prepared in consideration of the above circumstances.</p>
+<p id="p0007" num="0007">An object of a first aspect of the disclosure is to provide a resin composition for a sealant that has excellent heat-sealing strength with respect to a substrate and a reduced<!-- EPO <DP n="2"> --> elution amount into normal heptane.</p>
+<p id="p0008" num="0008">An object of a second aspect of the disclosure is to provide a laminate that includes a substrate layer and a sealant layer, that has excellent heat-sealing strength with respect to a substrate, and in which the sealant layer has a reduced elution amount into normal heptane.</p>
+<p id="p0009" num="0009">An object of a third aspect of the disclosure is to provide a packaging material that includes the laminate, that has excellent heat-sealing strength with respect to a substrate, and in which the sealant layer has a reduced elution amount into normal heptane.</p>
+<p id="p0010" num="0010">An object of a fourth aspect of the disclosure is to provide a package that includes a substrate, a laminate including a substrate layer and a sealant layer, and a packaged object, that has excellent heat-sealing strength between the substrate and the laminate, and in which the sealant layer has a reduced elution amount into normal heptane.</p>
+<p id="p0011" num="0011">The disclosure includes the following aspects.
+<ol id="ol0001" compact="compact" ol-style="">
+<li>&lt;1&gt; A resin composition for a sealant, containing:
+<ul id="ul0001" list-style="none" compact="compact">
+<li>a resin (A) that is an ethylene-(meth)acrylic acid ester copolymer in which a content of a (meth)acrylic acid ester unit is from 10% by mass to 25% by mass; and</li>
+<li>a tackifying resin (B),</li>
+<li>wherein a content of the resin (A) is more than 45% by mass with respect to a total amount of resin components in the resin composition for a sealant, and</li>
+<li>a content of the tackifying resin (B) is from 0.1% by mass to 10% by mass with respect to a total amount of resin components in the resin composition for a sealant.</li>
+</ul></li>
+<li>&lt;2&gt; The resin composition for a sealant according to &lt;1&gt;, further comprising a resin (C) that is an ethylene-vinyl ester copolymer.</li>
+<li>&lt;3&gt; The resin composition for a sealant according to &lt;1&gt; or &lt;2&gt;, further comprising a resin (D) that is at least one selected from the group consisting of an ethylene-α-olefin copolymer elastomer, a styrene-based elastomer and polyethylene.</li>
+<li>&lt;4&gt; The resin composition for a sealant according to &lt;3&gt;, wherein a content of the resin (D) is from 5% by mass to 40% by mass with respect to a total amount of resin components in the resin composition.</li>
+<li>&lt;5&gt; The resin composition for a sealant according to any one of &lt;1&gt; to &lt;4&gt;, used as a sealant for a packaging material.</li>
+<li>&lt;6&gt; The resin composition for a sealant according to &lt;5&gt;, wherein the packaging material is for skin pack packaging.</li>
+<li>&lt;7&gt; A laminate, including:
+<ul id="ul0002" list-style="none" compact="compact">
+<li>a substrate layer; and</li>
+<li>a sealant layer containing the resin composition for a sealant according to any one of<!-- EPO <DP n="3"> --> &lt;1&gt; to &lt;6&gt;.</li>
+</ul></li>
+<li>&lt;8&gt; The laminate according to &lt;7&gt;, wherein the substrate layer contains at least one selected from the group consisting of an ionomer of an ethylene-unsaturated carboxylic acid copolymer and an ethylene-unsaturated ester copolymer.</li>
+<li>&lt;9&gt; The laminate according to &lt;7&gt; or &lt;8&gt;, wherein a thickness of the laminate is from 40 µm to 300 µm.</li>
+<li>&lt;10&gt; A packaging material, including the laminate according to any one of &lt;7&gt; to &lt;9&gt;.</li>
+<li>&lt;11&gt; The packaging material according &lt;10&gt;, further including a substrate.</li>
+<li>&lt;12&gt; The packaging material according to &lt;11&gt;, wherein the substrate contains polypropylene.</li>
+<li>&lt;13&gt; A package, including:
+<ul id="ul0003" list-style="none" compact="compact">
+<li>a substrate;</li>
+<li>the laminate according to any one of &lt;7&gt; to &lt;9&gt;; and</li>
+<li>a packaged object packaged by the substrate and the laminate.</li>
+</ul></li>
+</ol></p>
+<p id="p0012" num="0012">According to the first aspect of the disclosure, there is provided a resin composition for a sealant that has excellent heat-sealing strength with respect to a substrate and a reduced elution amount into normal heptane.</p>
+<p id="p0013" num="0013">According to the second aspect of the disclosure, there is provided a laminate that includes a substrate layer and a sealant layer, that has excellent heat-sealing strength with respect to a substrate, and in which the sealant layer has a reduced elution amount into normal heptane.</p>
+<p id="p0014" num="0014">According to the third aspect of the disclosure, there is provided a packaging material that includes the laminate, that has excellent heat-sealing strength with respect to a substrate, and in which the sealant layer has a reduced elution amount into normal heptane.</p>
+<p id="p0015" num="0015">According to the fourth aspect of the disclosure, there is provided a package that includes a substrate, a laminate including a substrate layer and a sealant layer, and a packaged object, that has excellent heat-sealing strength between the substrate and the laminate, and in which the sealant layer has a reduced elution amount into normal heptane.</p>
+<heading id="h0004">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p0016" num="0016">In the disclosure, a range of numerical values indicated by "to" represents a range including numerical values described before and after "to" as the minimum value and the maximum value, respectively.</p>
+<p id="p0017" num="0017">In the disclosure, in a case in which a plurality of substances corresponding to<!-- EPO <DP n="4"> --> components are present in the composition, the amount of each component in the composition means the total amount of the plurality of substances present in the composition, unless otherwise noted.</p>
+<p id="p0018" num="0018">In the numerical value range described in a stepwise manner in the disclosure, an upper limit value or a lower limit value described in a certain numerical value range may be replaced with an upper limit value or a lower limit value of the numerical value range of another stepwise description or may be replaced with values shown in examples.</p>
+<p id="p0019" num="0019">In the disclosure, "(meth)acrylic acid" is a concept that encompasses both acrylic acid, and methacrylic acid and "(meth)acrylic acid ester" is a concept that encompasses both an acrylic acid ester and a methacrylic acid ester.</p>
+<heading id="h0005">[Resin Composition for Sealant]</heading>
+<p id="p0020" num="0020">A resin composition for a sealant of the disclosure contains: a resin (A) that is an ethylene-(meth)acrylic acid ester copolymer in which a content of a (meth)acrylic acid ester unit is from 10% by mass to 25% by mass; and a tackifying resin (B), in which a content of the resin (A) is more than 45% by mass with respect to a total amount of resin components in the resin composition for a sealant, and a content of the tackifying resin (B) is from 0.1% by mass to 10% by mass with respect to a total amount of resin components in the resin composition for a sealant.</p>
+<p id="p0021" num="0021">The resin composition for a sealant of the disclosure has excellent heat-sealing strength with respect to a substrate.</p>
+<p id="p0022" num="0022">The resin composition for a sealant of the disclosure has a reduced elution amount into normal heptane, the elution amount being one of hygienic indices.</p>
+<p id="p0023" num="0023">The reason that the effects are exhibited is assumed as follows.</p>
+<p id="p0024" num="0024">It is considered that the followings are contributing to the effect of excellent heat-sealing strength with respect to a substrate: the content of the (meth)acrylic acid ester unit in the resin (A) (that is, ethylene-(meth)acrylic acid ester copolymer) is 10% by mass or more; the content of the resin (A) with respect to the total amount of the resin components in the resin composition for a sealant (hereinafter, simply referred to as "the content of the resin (A)") is more than 45% by mass; and the content of the tackifying resin (B) is 0.1% by mass or more.</p>
+<p id="p0025" num="0025">It is considered that the followings are contributing to the effect of reducing the elution amount into normal heptane to some extent: the content of the tackifying resin (B) with respect to the total amount of the resin components in the resin composition for a sealant (hereinafter, simply referred to as "the content of the tackifying resin (B)") is 10% by mass or less; and the content of the (meth)acrylic acid ester unit in the resin (A) (that is, ethylene-(meth)acrylic<!-- EPO <DP n="5"> --> acid ester copolymer) is 25% by mass or less.</p>
+<p id="p0026" num="0026">In particular, the resin composition for a sealant of the disclosure has excellent adhesion to a substrate containing a resin [for example, polyethylene (PE), polypropylene (PP), polystyrene (PS), high-impact polystyrene (HIPS), polyethylene terephthalate (PET), a mixture of polyethylene (PE) and polybutene (PB), or a mixture of polyethylene (PE) and polypropylene (PP)].</p>
+<p id="p0027" num="0027">The substrate containing a resin may further contain a filler and the like.</p>
+<p id="p0028" num="0028">In a case in which a film is used as a substrate containing PE, PP, PS, HIPS, or PET, the film may be a stretched film or a non-stretched film.</p>
+<p id="p0029" num="0029">Examples of a substrate containing a mixture of PE and PB or a mixture of PE and PP include a cohesive failure film.</p>
+<p id="p0030" num="0030">Among the substrates containing the resin described above, for example, the substrate containing polypropylene (PP) is relatively difficult to secure a heat-seal strength to another object. The resin composition for a sealant of the disclosure has an excellent heat-seal strength even to a substrate containing polypropylene (PP) (see Examples described later).</p>
+<heading id="h0006">&lt;Resin (A)&gt;</heading>
+<p id="p0031" num="0031">The resin composition for a sealant of the disclosure contains a resin (A).</p>
+<p id="p0032" num="0032">The resin (A) is an ethylene-(meth)acrylic acid ester copolymer in which a content of a (meth)acrylic acid ester unit (that is, a structural unit derived from a (meth)acrylic acid ester) is from 10% by mass to 25% by mass.</p>
+<p id="p0033" num="0033">Here, the content of the (meth)acrylic acid ester unit is a content with respect to a total amount of the ethylene-(meth)acrylic acid ester copolymer (that is, the resin (A)) (when two or more types of (meth)acrylic acid ester units are included in the resin (A), the content means a total content thereof).</p>
+<p id="p0034" num="0034">The resin (A) contained in the resin composition for a sealant of the disclosure may be used singly, or in combination of two or more kinds thereof.</p>
+<p id="p0035" num="0035">The (meth)acrylic acid ester unit contained in the resin (A) may be used singly, or in combination of two or more kinds thereof.</p>
+<p id="p0036" num="0036">In the resin composition for a sealant of the disclosure, the content of the (meth)acrylic acid ester unit in the resin (A) is 10% by mass or more, such that the heat-seal strength to the substrate of the resin composition for a sealant is increased. From the viewpoint of further increasing a heat-seal strength to a substrate, the content of the (meth)acrylic acid ester unit in the resin (A) is preferably 15% by mass or more and more preferably 18% by mass or more.<!-- EPO <DP n="6"> --></p>
+<p id="p0037" num="0037">In the resin composition for a sealant of the disclosure, the content of the (meth)acrylic acid ester unit in the resin (A) is 25% by mass or less, such that the resin composition for a sealant has a reduced elution amount into normal heptane.</p>
+<p id="p0038" num="0038">From the viewpoint of reducing the elution amount of the resin composition for a sealant into normal heptane, the content of the (meth)acrylic acid ester unit in the resin (A) is preferably 24% by mass or less and more preferably 22% by mass or less.</p>
+<p id="p0039" num="0039">A content of an ethylene unit (that is, a structural unit derived from ethylene) in the resin (A) is preferably from 75% by mass to 90% by mass.</p>
+<p id="p0040" num="0040">Here, the content of the ethylene unit is a content with respect to the total amount of the ethylene-(meth)acrylic acid ester copolymer (that is, the resin (A)).</p>
+<p id="p0041" num="0041">In the resin composition for a sealant of the disclosure, the content of the ethylene unit in the resin (A) is 90% by mass or less, such that the heat-sealing strength with respect to the substrate of the resin composition for a sealant is increased. From the viewpoint of further increasing heat-sealing strength with respect to the substrate of the resin composition for a sealant, the content of the ethylene unit in the resin (A) is preferably 85% by mass or less and more preferably 82% by mass or less.</p>
+<p id="p0042" num="0042">In the resin composition for a sealant of the disclosure, the content of the ethylene unit in the resin (A) is 75% by mass or more, such that the resin composition for a sealant has a reduced elution amount into normal heptane.</p>
+<p id="p0043" num="0043">From the viewpoint of reducing the elution amount of the resin composition for a sealant into normal heptane, the content of the ethylene unit in the resin (A) is preferably 76% by mass or more and more preferably 78% by mass or more.</p>
+<p id="p0044" num="0044">The ethylene-(meth)acrylic acid ester copolymer (that is, the resin (A)) may or need not contain other structural units in addition to the ethylene unit and the (meth)acrylic acid ester unit.</p>
+<p id="p0045" num="0045">The total content of the ethylene unit and the (meth)acrylic acid ester unit in the resin (A) is preferably 80% by mass or more and more preferably 90% by mass or more with respect to the total amount of the resin (A).</p>
+<p id="p0046" num="0046">As a monomer for forming the (meth)acrylic acid ester unit, a (meth)acrylic acid alkyl ester is preferable and a (meth)acrylic acid alkyl ester having from 1 to 10 carbon atoms in an alkyl ester moiety (that is, an alkoxy group) is more preferable.</p>
+<p id="p0047" num="0047">In the monomer for forming the (meth)acrylic acid ester unit, the number of carbon atoms of the alkyl ester moiety (that is, the alkoxy group) is more preferably from 1 to 8, still more preferably from 1 to 6, still more preferably from 1 to 4, and still more preferably 1 or 2.</p>
+<p id="p0048" num="0048">Examples of the monomer for forming the (meth)acrylic acid ester unit include<!-- EPO <DP n="7"> --> methyl (meth)acrylate, ethyl (meth)acrylate, n-propyl (meth)acrylate, isopropyl (meth)acrylate, n-butyl (meth)acrylate, isobutyl (meth)acrylate, n-hexyl (meth)acrylate, isohexyl (meth)acrylate, n-octyl (meth)acrylate, isooctyl (meth)acrylate, and 2-ethylhexyl (meth)acrylate.</p>
+<p id="p0049" num="0049">A melt flow rate (MFR: measured in accordance with JIS K7210-1999 under a condition at 190°C and 2,160 g load) of the resin (A) is preferably from 0.1 g/10 min to 100 g/10 min, more preferably from 1 g/10 min to 50 g/10 min, and still more preferably from 1 g/10 min to 30 g/10 min, from the viewpoint of a characteristic and workability as a resin composition for a sealant.</p>
+<p id="p0050" num="0050">A synthesis method of the resin (A) is not particularly limited and a known synthesis method can be applied.</p>
+<p id="p0051" num="0051">For the synthesis method of the resin (A), for example, the descriptions in paragraphs 0020 to 0023 of <patcit id="pcit0003" dnum="JP2008095044A"><text>JP-A No. 2008-95044</text></patcit> can be referred, as appropriate.</p>
+<p id="p0052" num="0052">Specifically, in the disclosure, as the ethylene-(meth)acrylic acid ester copolymer (resin (A)), it is particularly preferable to use a copolymer resin produced by a tubular high-pressure polymerization method.</p>
+<p id="p0053" num="0053">The copolymer resin obtained by this method has a higher melting point compared with an ethylene (meth) acrylic acid ester copolymer produced by another method such as a usual radical polymerization method, even if the copolymer composition and the average molecular weight are the same. Further, a thermal property such as a viscoelastic behavior in a softening to a molten state, and other attributes of the copolymer resin obtained by this method are different from those produced by another method, so that a composition obtained by blending the copolymer resin obtained by this method exhibits better characteristics of the above described composition of the disclosure.</p>
+<p id="p0054" num="0054">A tubular high-pressure polymerization method is a method of radical polymerization using a free radical catalyst at high pressure using a tubular reactor, and examples thereof include a method described in <patcit id="pcit0004" dnum="JPS62273214A" dnum-type="L"><text>Japanese Patent Application Laid-open (JP-A) No. S62-273214</text></patcit>.</p>
+<p id="p0055" num="0055">Specifically, the tubular high-pressure polymerization method is performed by (a) utilizing a tubular reactor, (b) setting the reactor inlet pressure being from 2300 kg/cm<sup>2</sup> to 3000 kg/cm<sup>2</sup>, and preferably from 2400 kg/cm<sup>2</sup> to 2800 kg/cm<sup>2</sup>, (c) setting the average reaction temperature (T) in the reactor as 190 ° C &lt; T AV&lt; 230 ° C, and (d) ethylene is introduced from the inlet of the reactor, or from the inlet and at least one side portion, and the total amount of ethyl acrylate, that is, a co-monomer is introduced from the inlet, thereby radically polymerizing in the presence of a free radical catalyst and a chain transfer agent, and<!-- EPO <DP n="8"> --> an auxiliary agent if necessary.</p>
+<p id="p0056" num="0056">In the copolymer obtained by the polymerization method, a relation between (meth) acrylic acid ester content E (% by weight) and a copolymer melting point T (° C) is expressed by the following formula (I). <maths id="math0001" num="(1)"><math display="block"><mo>−</mo><mn>0.8</mn><mo>×</mo><mi mathvariant="normal">E</mi><mo>+</mo><mn>115</mn><mo>≥</mo><mi mathvariant="normal">T</mi><mo>≥</mo><mo>−</mo><mi mathvariant="normal">0</mi><mi>.8</mi><mo>×</mo><mi mathvariant="normal">E</mi><mo>+</mo><mn>109</mn></math><img id="ib0001" file="imgb0001.tif" wi="72" he="5" img-content="math" img-format="tif"/></maths></p>
+<p id="p0057" num="0057">It is characterized in that the copolymer obtained by the polymerization method has a melting point higher than that of a copolymer having an equivalent composition obtained by another polymerization method and excellent in heat resistance.</p>
+<p id="p0058" num="0058">The copolymer obtained by the above polymerization method has less random sequence of ethylene units or (meth) acrylic acid ester unit, that has a high sequence nonuniformity, and that has a polymer structure and a physical property similar to those of block copolymers, as compared with copolymers having good randomness produced by conventional radical polymerization methods.</p>
+<p id="p0059" num="0059">Therefore, it is considered that the melting point and the ester unit content have the above relationship.</p>
+<p id="p0060" num="0060">The content of the resin (A) with respect to the total amount of the resin components in the resin composition for a sealant of the disclosure (hereinafter, simply referred to as "the content of the resin (A)") is more than 45% by mass. Thereby, heat-sealing strength with respect to the substrate of the resin composition for a sealant is increased.</p>
+<p id="p0061" num="0061">From the viewpoint of further increasing heat-sealing strength with respect to the substrate of the resin composition for a sealant, the content of the resin (A) is preferably 46% by mass or more, more preferably 47% by mass or more, and still more preferably 50% by mass or more.</p>
+<p id="p0062" num="0062">An upper limit of a content of the resin (A) depends on a content of other components such as the tackifying resin (B).</p>
+<p id="p0063" num="0063">The upper limit of the content of the resin (A) is 99.9% by mass in principle. Examples of an upper limit of the content of the resin (A) include 98.9% by mass, 98% by mass, 97.9% by mass, 90% by mass, 80% by mass, 70% by mass, and 65% by mass.</p>
+<p id="p0064" num="0064">In the disclosure, the resin component includes at least the resin (A) and a tackifying resin (B) described later.</p>
+<p id="p0065" num="0065">In a case in which the resin composition for a sealant of the disclosure contains a resin (C) described later, the resin component also includes the resin (C).</p>
+<p id="p0066" num="0066">In a case in which the resin composition for a sealant of the disclosure contains a resin (D) described later, the resin component also includes the resin (D).</p>
+<p id="p0067" num="0067">In the resin composition for a sealant of the disclosure, a total content of the resin<!-- EPO <DP n="9"> --> components is preferably 80% by mass or more and more preferably 90% by mass or more with respect to the total amount of the resin composition for a sealant.</p>
+<heading id="h0007">&lt;Tackifying Resin (B)&gt;</heading>
+<p id="p0068" num="0068">The resin composition for a sealant of the disclosure contains a tackifying resin (B).</p>
+<p id="p0069" num="0069">The tackifying resin (B) contained in the resin composition for a sealant may be used singly, or in combination of two or more kinds thereof.</p>
+<p id="p0070" num="0070">Examples of the tackifying resin (B) include an aliphatic hydrocarbon resin, an alicyclic hydrocarbon resin, an aromatic hydrocarbon resin, a styrene resin, a terpene resin, and rosins.</p>
+<p id="p0071" num="0071">Examples of the aliphatic hydrocarbon resin include a polymer of a monomer raw material which is mainly composed of C<sub>4</sub>-C<sub>5</sub> monoolefin or diolefin, such as 1-butene, isobutene, butadiene, 1,3-pentadiene, isoprene, and piperylene.</p>
+<p id="p0072" num="0072">Examples of the alicyclic hydrocarbon resin include a resin obtained by polymerizing diene components in a spent C<sub>4</sub>-C<sub>5</sub> fraction after cyclization and dimerization, a resin obtained by polymerizing a cyclic monomer such as cyclopentadiene, and a resin obtained by intranuclear hydrogenation of an aromatic hydrocarbon resin.</p>
+<p id="p0073" num="0073">Examples of the aromatic hydrocarbon resin include a polymer of a monomer raw material which is mainly composed of C<sub>9</sub>-C<sub>10</sub> vinyl aromatic hydrocarbon, such as vinyl toluene, indene, and α-methyl styrene.</p>
+<p id="p0074" num="0074">Examples of the styrene resin include a polymer of a monomer raw material which is mainly composed of styrene, vinyl toluene, α-methyl styrene, or isopropenyl toluene.</p>
+<p id="p0075" num="0075">Examples of the terpene resin include an α-pinene polymer, a β-pinene polymer, a dipentene polymer, a terpene-phenol copolymer, an α-pinene-phenol copolymer, and a hydrogenated terpene resin.</p>
+<p id="p0076" num="0076">Examples of the rosins include a rosin, a polymerized rosin, a hydrogenated rosin, a rosin ester, a rosin phenol resin, and an ester of a rosin phenol resin.</p>
+<p id="p0077" num="0077">As the tackifying resin, an alicyclic hydrocarbon resin, an aliphatic hydrocarbon resin, or a hydrogenated terpene resin is preferable, and an alicyclic hydrocarbon resin is more preferable.</p>
+<p id="p0078" num="0078">A ring and ball method softening point of the tackifying resin is preferably from 70°C to 150°, and more preferably from 100°C to 130°.</p>
+<p id="p0079" num="0079">The ring and ball method softening point means a value measured in accordance with JIS K6863 (1994).</p>
+<p id="p0080" num="0080">The content of the tackifying resin (B) with respect to the total amount of the resin components in the resin composition for a sealant of the disclosure (hereinafter, simply<!-- EPO <DP n="10"> --> referred to as "the content of the tackifying resin (B)") is from 0.1% by mass to 10% by mass.</p>
+<p id="p0081" num="0081">In the resin composition for a sealant of the disclosure, the content of the tackifying resin (B) is 0.1% by mass or more, such that heat-sealing strength with respect to the substrate of the resin composition for a sealant is increased. From the viewpoint of further increasing heat-sealing strength with respect to the substrate of the resin composition for a sealant, the content of the tackifying resin (B) is preferably 0.5% by mass or more, more preferably 1% by mass or more, and still more preferably 1.5% by mass or more.</p>
+<p id="p0082" num="0082">The content of the tackifying resin (B) is 10% by mass or less, such that the resin composition for a sealant has a reduced elution amount into normal heptane. From the viewpoint of reducing the elution amount of the resin composition for a sealant into normal heptane, the content of the tackifying resin (B) is preferably 5% by mass or less, more preferably 3% by mass or less, still more preferably less than 3% by mass and particularly preferably less than 2.5% by mass.</p>
+<heading id="h0008">&lt;Resin (C)&gt;</heading>
+<p id="p0083" num="0083">It is preferable that the resin composition for a sealant of the disclosure further contains a resin (C) which is an ethylene-vinyl ester copolymer.</p>
+<p id="p0084" num="0084">In this case, the resin (C) contained may be used singly, or in combination of two or more kinds thereof.</p>
+<p id="p0085" num="0085">In the case in which the resin composition for a sealant of the disclosure further contains the resin (C), when a film-shaped laminate is produced as a laminate described later, it is advantageous in that roll sticking when producing the laminate is reduced and adhesion between films is reduced.</p>
+<p id="p0086" num="0086">The resin (C) (that is, ethylene-vinyl ester copolymer) contains an ethylene unit (that is, a structural unit derived from ethylene) and a vinyl ester unit (that is, a structural unit derived from a vinyl ester).</p>
+<p id="p0087" num="0087">As a vinyl ester for forming a vinyl ester unit, vinyl acetate or vinyl propionate is preferable and vinyl acetate is more preferable.</p>
+<p id="p0088" num="0088">A content of the vinyl ester unit with respect to a total amount of the resin (C) (that is, ethylene-vinyl ester copolymer) (hereinafter, simply referred to as "the content of the vinyl ester unit") is preferably from 2% by mass to 30% by mass, more preferably from 5% by mass to 25% by mass, still more preferably from 6% by mass to 19% by mass, and still more preferably from 7% by mass to 13% by mass.</p>
+<p id="p0089" num="0089">In the case in which the content of the vinyl ester is 2% by mass or more, heat-sealing strength with respect to the substrate of the resin composition for a sealant is further increased.<!-- EPO <DP n="11"> --></p>
+<p id="p0090" num="0090">In the case in which the content of the vinyl ester is 30% by mass or less, heat-sealing strength with respect to the substrate of the resin composition for a sealant is further increased, and the resin composition for a sealant has a further reduced elution amount into normal heptane.</p>
+<p id="p0091" num="0091">A content of the ethylene unit with respect to the total amount of the resin (C) (that is, ethylene-vinyl ester copolymer) (hereinafter, simply referred to as "the content of the ethylene unit") is preferably from 70% by mass to 98% by mass, more preferably from 75% by mass to 95% by mass, still more preferably from 81% by mass to 94% by mass, and still more preferably from 87% by mass to 93% by mass.</p>
+<p id="p0092" num="0092">In the case in which the content of the ethylene unit is 98% by mass or less, heat-sealing strength with respect to the substrate of the resin composition for a sealant is further increased.</p>
+<p id="p0093" num="0093">In the case in which the content of the ethylene unit is 70% by mass or more, heat-sealing strength with respect to the substrate of the resin composition for a sealant is further increased, and the resin composition for a sealant has a further reduced elution amount into normal heptane.</p>
+<p id="p0094" num="0094">The resin (C) (that is, ethylene-vinyl ester copolymer) may or need not contain other structural units in addition to the ethylene unit and the vinyl ester unit.</p>
+<p id="p0095" num="0095">The total content of the ethylene unit and the vinyl ester unit in the resin (C) is preferably 80% by mass or more and more preferably 90% by mass or more with respect to the total amount of the resin (C).</p>
+<p id="p0096" num="0096">A melt flow rate (MFR: measured in accordance with JIS K7210-1999 under a condition at 190°C and 2,160 g load) of the resin (C) is preferably from 0.1 g/10 min to 100 g/10 min, more preferably from 1 g/10 min to 50 g/10 min, and still more preferably from 1 g/10 min to 30 g/10 min, from the viewpoint of a characteristic and workability as a resin composition for a sealant.</p>
+<p id="p0097" num="0097">In the case in which the resin composition for a sealant of the disclosure contains the resin (C), the content of the resin (C) with respect to the total amount of the resin components in the resin composition for a sealant (hereinafter, simply referred to as "the content of the resin (C)") is preferably from 1% by mass to 50% by mass, more preferably from 5% by mass to 45% by mass, and still more preferably from 15% by mass to 45% by mass.</p>
+<p id="p0098" num="0098">In the case in which the content of the resin (C) is 50% by mass or less, heat-sealing strength with respect to the substrate of the resin composition for a sealant is further increased.</p>
+<p id="p0099" num="0099">In the case in which the content of the resin (C) is 1% by mass or more, when a film-shaped<!-- EPO <DP n="12"> --> laminate is produced as a laminate described later, it is advantageous in that roll sticking when producing the laminate is reduced and adhesion between films is reduced.</p>
+<heading id="h0009">&lt;Resin (D)&gt;</heading>
+<p id="p0100" num="0100">It is preferable that the resin composition for a sealant of the disclosure further contains a resin (D) which is at least one selected from the group consisting of an ethylene-α-olefin copolymer elastomer, a styrene-based elastomer, and polyethylene.</p>
+<p id="p0101" num="0101">In the case in which the resin composition for a sealant of the disclosure further contains the resin (D), heat-sealing strength with respect to the substrate of the resin composition for a sealant is further increased.</p>
+<p id="p0102" num="0102">From the viewpoint of obtaining further effectiveness, it is preferable that the resin (D) further contains at least one selected from the group consisting of an ethylene-α-olefin copolymer elastomer and a styrene-based elastomer.</p>
+<p id="p0103" num="0103">The ethylene-α-olefin copolymer elastomer is an elastomer containing an ethylene unit and an α-olefin unit (that is, a structural unit derived from α-olefin).</p>
+<p id="p0104" num="0104">The number of carbon atoms of α-olefin for forming the α-olefin unit is preferably from 3 to 10 and more preferably from 3 to 8.</p>
+<p id="p0105" num="0105">Examples of α-olefin for forming the α-olefin unit include propylene, 1-butene, 1-pentene, 1-hexene, 1-octene, and 4-methyl-1-pentene.</p>
+<p id="p0106" num="0106">The ethylene-α-olefin copolymer elastomer is preferably an ethylene-1-butene copolymer elastomer, an ethylene-propylene copolymer elastomer, or an ethylene-1-octene copolymer elastomer.</p>
+<p id="p0107" num="0107">The ethylene-α-olefin copolymer elastomer is produced, for example, by performing random copolymerization on ethylene and α-olefin in the presence of a catalyst combination of a transition metal compound (for example, a vanadium compound or a zirconium compound) and an organic aluminum compound.</p>
+<p id="p0108" num="0108">A degree of crystallization of the ethylene-α-olefin copolymer elastomer measured by an X-ray is preferably from 1% to 20% (more preferably from 3% to 15%).</p>
+<p id="p0109" num="0109">There are slight differences depending on the type of catalyst to be used or α-olefin, and examples of a method of obtaining the ethylene-α-olefin copolymer elastomer having the degree of crystallization include a method of copolymerizing ethylene and α-olefin so that a copolymerization ratio of the α-olefin is from 7 mole% to 20 mole% (preferably from 8 mole% to 16 mole%).</p>
+<p id="p0110" num="0110">A melt flow rate (MFR: measured in accordance with JIS K7210-1999 under a condition at 190°C and 2,160 g load) of the ethylene-α-olefin copolymer elastomer is preferably from 0.1 g/10 min to 100 g/10 min, more preferably from 1 g/10 min to 50 g/10<!-- EPO <DP n="13"> --> min, and still more preferably from 1 g/10 min to 30 g/10 min.</p>
+<p id="p0111" num="0111">A density of the ethylene-α-olefin copolymer elastomer is preferably from 850 kg/m<sup>3</sup> to less than 900 kg/m<sup>3</sup>, more preferably from 860 kg/m<sup>3</sup> to 890 kg/m<sup>3</sup>, and still more preferably from 860 kg/m<sup>3</sup> to 880 kg/m<sup>3</sup>.</p>
+<p id="p0112" num="0112">Examples of the styrene-based elastomer include an A-B-A type block copolymer (wherein A represents a styrene copolymer block and B represents an alkylene copolymer block).</p>
+<p id="p0113" num="0113">Here, the styrene copolymer block refers to a portion of polystyrene, and the alkylene copolymer block refers to a portion of an alkylene copolymer obtained by copolymerizing two or more alkenes.</p>
+<p id="p0114" num="0114">Examples of the alkylene copolymer block include an ethylene-butene copolymer block and an ethylene-propylene copolymer block.</p>
+<p id="p0115" num="0115">Such a block copolymer is obtained by hydrogenating a styrene-butadiene-styrene block copolymer, or a butadiene copolymer unit or an isoprene copolymer unit of a styreneisoprene-styrene block copolymer.</p>
+<p id="p0116" num="0116">Examples of the A-B-A type block copolymer include polystyrene-poly(ethylenebutylene)-polystyrene triblock copolymer (SEBS) and polystyrene-poly(ethylene-propylene)-polystyrene triblock copolymer (SEPS).</p>
+<p id="p0117" num="0117">Specific examples of the A-B-A type block copolymer include Kraton G1657 produced by Kraton Corporation, and Tuftec H1221 produced by Asahi Kasei Corporation.</p>
+<p id="p0118" num="0118">A melt flow rate (MFR: measured in accordance with JIS K7210-1999 under a condition at 230°C and 5,000 g load) of the styrene-based elastomer (preferably the A-B-A type block copolymer) is preferably from 0.1 g/10 min to 100 g/10 min, more preferably from 1 g/10 min to 50 g/10 min, and still more preferably from 1 g/10 min to 30 g/10 min.</p>
+<p id="p0119" num="0119">Examples of the polyethylene include high-density polyethylene (HDPE), low-density polyethylene (LDPE), medium-density polyethylene (MDPE), and linear low-density polyethylene (LLDPE).</p>
+<p id="p0120" num="0120">A density of polyethylene depends on the type of polyethylene, and preferably 900 kg/m<sup>3</sup> or more and more preferably 910 kg/m<sup>3</sup> or more. An upper limit of the density of polyethylene is not particularly limited, and the upper limit is, for example, 960 kg/m<sup>3</sup>.</p>
+<p id="p0121" num="0121">A density of HDPE is preferably 942 kg/m<sup>3</sup> or more and more preferably from 942 kg/m<sup>3</sup> to 960 kg/m<sup>3</sup>.</p>
+<p id="p0122" num="0122">A density of MDPE is preferably from 930 kg/m<sup>3</sup> to less than 942 kg/m<sup>3</sup>.</p>
+<p id="p0123" num="0123">A density of LDPE is preferably from 910 kg/m<sup>3</sup> to less than 930 kg/m<sup>3</sup>.</p>
+<p id="p0124" num="0124">A density of LLDPE is preferably from 900 kg/m<sup>3</sup> or to less than 930 kg/m<sup>3</sup>.<!-- EPO <DP n="14"> --></p>
+<p id="p0125" num="0125">A melt flow rate (MFR: measured in accordance with JIS K7210-1999 under a condition at 190°C and 2,160 g load) of polyethylene is preferably from 0.1 g/10 min to 100 g/10 min, more preferably from 1 g/10 min to 50 g/10 min, and still more preferably from 1 g/10 min to 30 g/10 min.</p>
+<p id="p0126" num="0126">In the case in which the resin composition for a sealant of the disclosure contains the resin (D), the content of the resin (D) with respect to the total amount of the resin components in the resin composition for a sealant (hereinafter, simply referred to as "the content of the resin (D)") is preferably from 1% by mass to 50% by mass, more preferably from 5% by mass to 40% by mass, and still more preferably from 10% by mass to 30% by mass.</p>
+<p id="p0127" num="0127">In the case in which the content of the resin (D) is 1% by mass or more, heat-sealing strength with respect to the substrate of the resin composition for a sealant is further increased.</p>
+<p id="p0128" num="0128">In the case in which the content of the resin (D) is 50% by mass or less, an excessive heat-sealing strength with respect to the substrate of the resin composition for a sealant is further suppressed.</p>
+<heading id="h0010">&lt;Other Components&gt;</heading>
+<p id="p0129" num="0129">The resin composition for a sealant of the disclosure may contain other components in addition to the components described above.</p>
+<p id="p0130" num="0130">An example of the other components includes an additive such as a slipping agent or a roll release agent.</p>
+<p id="p0131" num="0131">Examples of the additive include: various amides such as palmitic acid amide, stearic acid amide, behenic acid amide, oleic acid amide, erucic acid amide, oleyl palmitamide, stearyl palmitamide, methylene bis stearylamide, methylene bis oleylamide, and ethylene bis erucic acid amide; polyalkylene glycol such as polyethylene glycol and polypropylene glycol; hydrogenated castor oil; and an inorganic additive such as silica, talc, and zeolite.</p>
+<p id="p0132" num="0132">A content of the additive is preferably from 0.01% by mass to 3% by mass with respect to the total amount of the resin components.</p>
+<p id="p0133" num="0133">In the resin composition for a sealant of the disclosure, the total content of the resin components is preferably 80% by mass or more and more preferably 90% by mass or more with respect to the total amount of the resin composition for a sealant.</p>
+<p id="p0134" num="0134">In the disclosure, the resin component includes at least the resin (A) and the tackifying resin (B).</p>
+<p id="p0135" num="0135">In the case in which the resin composition for a sealant of the disclosure contains the resin (C), the resin component also includes the resin (C). A preferred embodiment according to the resin composition for a sealant of the disclosure is that the composition contains the<!-- EPO <DP n="15"> --> resin (A), the tackifying resin (B) and the resin (C), as the resin components, in which the content of the resin (A) is more than 45% by mass, the content of the tackifying resin (B) is from 0.1% by mass to 10% by mass, and the content of the resin (C) is from 1% by mass to 50% by mass, with respect to the total amount of the resin composition for a sealant.</p>
+<p id="p0136" num="0136">In the case in which the resin composition for a sealant of the disclosure contains the resin (D), the resin component also includes the resin (D). A preferred embodiment according to the resin composition for a sealant of the disclosure is that the composition contains the resin (A), the tackifying resin (B), the resin (C), and the resin (D), as the resin components, in which the content of the resin (A) is more than 45% by mass, the content of the tackifying resin (B) is from 0.1% by mass to 10% by mass, the content of the resin (C) is from 1% by mass to 50% by mass, and the content of the resin (D) is from 1% by mass to 50% by mass, with respect to the total amount of the resin composition for a sealant.</p>
+<heading id="h0011">&lt;Preferred Application&gt;</heading>
+<p id="p0137" num="0137">The resin composition for a sealant of the disclosure can be applied to various applications which are required to increase heat-sealing strength with respect to the substrate and reduce the elution amount into normal heptane.</p>
+<p id="p0138" num="0138">Applications of the resin composition for a sealant of the disclosure are not particularly limited, and the resin composition for a sealant is preferably used as a sealant for a packaging material.</p>
+<p id="p0139" num="0139">An example of the packaging material includes a packaging material for packaging a food, a toy, stationery, a household good, a cosmetic, a medicine, a quasi-drug, and medical instrument.</p>
+<p id="p0140" num="0140">The packaging material is preferably a packaging material for a food.</p>
+<p id="p0141" num="0141">Examples of the food include meat, a meat product, a meat dish, seafood, a seafood dish, a processed seafood, a daily dish, a cooked pasta, and a milk processed product.</p>
+<p id="p0142" num="0142">The food can refer to Notification No. 370 by The Ministry of Health and Welfare ("Standards for Food and Additives").</p>
+<p id="p0143" num="0143">In addition, the packaging material is preferably a packaging material for skin pack packaging.</p>
+<p id="p0144" num="0144">The skin pack packaging means vacuum packaging in a state in which at least a part of the packaging material is closely adhered to a packaged object while following the shape of the packaged object.</p>
+<p id="p0145" num="0145">In the skin pack packaging, a sealant is used in order to realize the vacuum packaging of the above state.</p>
+<p id="p0146" num="0146">Since the packaging material for skin pack packaging often includes a substrate (for<!-- EPO <DP n="16"> --> example, a container and a tray), the sealant for such a packaging material is often required to have heat-sealing strength with respect to the substrate. Since hygiene for maintaining the quality of the packaged object (for example, reduction of the elution amount into normal heptane) is often required for the packaging material for skin pack packaging, a sealant for a packaging material is often required to have a reduced elution amount into normal heptane.</p>
+<p id="p0147" num="0147">For these reasons, as packaging material to which the resin composition for a sealant of the disclosure is applied, a packaging material for skin pack packaging is preferable.</p>
+<heading id="h0012">[Laminate]</heading>
+<p id="p0148" num="0148">The laminate of the disclosure includes a substrate layer and a sealant layer containing the resin composition for a sealant of the disclosure described above.</p>
+<p id="p0149" num="0149">Since the laminate of the disclosure includes a sealant layer containing the resin composition for a sealant of the disclosure, the laminate has excellent heat-sealing strength with respect to the substrate and a reduced elution amount from the sealant layer into normal heptane.</p>
+<heading id="h0013">&lt;Substrate Layer&gt;</heading>
+<p id="p0150" num="0150">A substrate layer is a layer for securing the strength as a packaging material, in which the sealant layer containing the resin composition for a sealant of the disclosure described above is laminated on the substrate layer directly or via another layer.</p>
+<p id="p0151" num="0151">A material of the substrate layer is not particularly limited. Examples of the material of the substrate layer include a stretched film and a non-stretched film, for example, polyester such as polyethylene terephthalate; polyamide; polyolefin such as polypropylene, and polyethylene; an ethylene-unsaturated ester copolymer such as an ethylene-vinyl acetate copolymer, and an ethylene-unsaturated carboxylic acid ester copolymer; an ethylene-unsaturated carboxylic acid copolymer or ionomer thereof; an ethylene-vinyl alcohol copolymer; a paper; aluminum foil; vapor-deposited film with aluminium, silica, alumina or magnesia; and a film coated with a gas barrier material such as polyvinylidene chloride, and polyvinyl alcohol.</p>
+<p id="p0152" num="0152">A structure of the substrate layer may be a single layer structure and may be a laminated structure including two or more layers.</p>
+<p id="p0153" num="0153">The substrate layer preferably contains a resin. Thermoplastic resin is preferably used as the resin. Thermoplastic resin is not particularly limited, and examples thereof include polyester such as polyethylene terephthalate; polyamide; polyolefin such as polypropylene, and polyethylene; an ethylene-unsaturated ester copolymer such as an ethylene-vinyl acetate copolymer, and an ethylene-unsaturated carboxylic acid ester copolymer; an ethylene-unsaturated carboxylic acid copolymer or ionomer thereof; and an<!-- EPO <DP n="17"> --> ethylene-vinyl alcohol copolymer.</p>
+<p id="p0154" num="0154">It is more preferable that the substrate layer contains at least one selected from the group consisting of an ionomer of an ethylene-unsaturated carboxylic acid copolymer and an ethylene-unsaturated ester copolymer.</p>
+<p id="p0155" num="0155">In particular, in the case in which the substrate layer contains at least one selected from the above group, extensibility of the laminate is improved. The extensibility is a characteristic that may be required, for example, in a case in which the laminate is used as a packaging material.</p>
+<p id="p0156" num="0156">In particular, in a case in which the laminate having excellent extensibility is used as a packaging material for skin pack packaging, followability to a shape of the packaged object and adhesiveness to the packaged object are further improved.</p>
+<heading id="h0014">(Ionomer of Ethylene-Unsaturated Carboxylic Acid Copolymer)</heading>
+<p id="p0157" num="0157">The substrate layer may contain at least one ionomer of an ethylene-unsaturated carboxylic acid copolymer.</p>
+<p id="p0158" num="0158">In the case in which the substrate layer contains the ionomer of the ethylene-unsaturated carboxylic acid copolymer, a puncture strength of the laminate is increased as well as the extensibility of the laminate.</p>
+<p id="p0159" num="0159">The puncture strength is also a property that may be required in the case in which the laminate is used as a packaging material (in particular, the packaging material for skin pack packaging).</p>
+<p id="p0160" num="0160">In the disclosure, the ionomer of the ethylene-unsaturated carboxylic acid copolymer means a compound in which at least a part of an acidic group (that is, carboxyl group) in the ethylene-unsaturated carboxylic acid copolymer as a base polymer is neutralized with a metal ion.</p>
+<p id="p0161" num="0161">The ethylene-unsaturated carboxylic acid copolymer as a base polymer is a copolymer obtained by copolymerizing at least ethylene and unsaturated carboxylic acid, and includes an ethylene unit (that is, a structural unit derived from ethylene) and an unsaturated carboxylic acid unit (that is, a structural unit derived from unsaturated carboxylic acid).</p>
+<p id="p0162" num="0162">The ethylene-unsaturated carboxylic acid copolymer may be any of a block copolymer, a random copolymer, and a graft copolymer.</p>
+<p id="p0163" num="0163">From the viewpoint of industrial availability, the ethylene-unsaturated carboxylic acid copolymer is preferably a random copolymer.</p>
+<p id="p0164" num="0164">Examples of the unsaturated carboxylic acid unit include a (meth)acrylic acid unit, a fumaric acid unit, and a maleic acid unit.</p>
+<p id="p0165" num="0165">Among them, the unsaturated carboxylic acid unit is preferably a (meth)acrylic acid<!-- EPO <DP n="18"> --> unit, and more preferably a methacrylic acid unit.</p>
+<p id="p0166" num="0166">A content of the unsaturated carboxylic acid unit in the ethylene-unsaturated carboxylic acid copolymer as a base polymer is preferably from 1% by mass to 25% by mass, more preferably from 3% by mass to 20% by mass, and still more preferably from 5% by mass to 15% by mass, with respect to a total amount of the copolymer.</p>
+<p id="p0167" num="0167">A content of the ethylene unit in the ethylene-unsaturated carboxylic acid copolymer as a base polymer is preferably from 75% by mass to 99% by mass, more preferably from 80% by mass to 97% by mass, and still more preferably from 85% by mass to 95% by mass, with respect to the total amount of the copolymer.</p>
+<p id="p0168" num="0168">The ethylene-unsaturated carboxylic acid copolymer as a base polymer may or need not contain other structural units in addition to the ethylene unit and the unsaturated carboxylic acid unit.</p>
+<p id="p0169" num="0169">An example of other structural units includes an unsaturated carboxylic acid ester unit. A preferred aspect of the unsaturated carboxylic acid ester unit is similar to the preferred aspect of the (meth)acrylic acid ester unit in the resin (A) described above.</p>
+<p id="p0170" num="0170">A total content of the ethylene unit and the unsaturated carboxylic acid unit in the ethylene-unsaturated carboxylic acid copolymer is preferably 80% by mass or more and more preferably 90% by mass or more with respect to a total amount of the ethylene-unsaturated carboxylic acid copolymer.</p>
+<p id="p0171" num="0171">In the ionomer of the ethylene-unsaturated carboxylic acid copolymer, the type of metal ion for neutralizing the acidic group in the ethylene-unsaturated carboxylic acid copolymer (that is, a base polymer) is not particularly limited.</p>
+<p id="p0172" num="0172">Examples of the metal ion include: an alkali metal ion such as a lithium ion, a sodium ion, a potassium ion, a rubidium ion, and a cesium ion; an alkali earth metal ion such as a magnesium ion and a calcium ion; a transition metal ion such as a zinc ion; and various metal ions such as an aluminum ion.</p>
+<p id="p0173" num="0173">The metal ion is preferably at least one selected from the group consisting of a zinc (Zn) ion, a magnesium (Mg) ion, and a sodium (Na) ion, and more preferably at least one of a zinc ion or a sodium ion, and still more preferably a sodium ion.</p>
+<p id="p0174" num="0174">The metal ion for neutralizing the acidic group in the base polymer may be used singly, or in combination of two or more kinds thereof.</p>
+<p id="p0175" num="0175">A neutralization degree of the ionomer of the ethylene-unsaturated carboxylic acid copolymer is preferably 90% or less, more preferably from 5% to 80%, and still more preferably from 10% to 70%.</p>
+<p id="p0176" num="0176">When the neutralization degree is 90% or less, an ion aggregate can be appropriately<!-- EPO <DP n="19"> --> suppressed, degradation of fluidity can be further suppressed, and molding workability can be further appropriately maintained.</p>
+<p id="p0177" num="0177">When the neutralization degree is 5% or more, a performance of the ionomer can be further efficiently exhibited.</p>
+<p id="p0178" num="0178">Here, "the neutralization degree (%)" refers to a ratio (mol%) of a carboxyl group obtained by being neutralized with the metal ion to all the carboxyl groups included in the ethylene-unsaturated carboxylic acid copolymer (base polymer).</p>
+<p id="p0179" num="0179">A melt flow rate (MFR: measured in accordance with JIS K7210-1999 under a condition at 190°C and 2,160 g load) of the ionomer of the ethylene-unsaturated carboxylic acid copolymer is preferably from 0.1 g/10 min to 100 g/10 min, more preferably from 0.3 g/10 min to 50 g/10 min, and still more preferably from 0.5 g/10 min to 20 g/10 min, from the viewpoint of workability.</p>
+<heading id="h0015">Ethylene-Unsaturated Ester Copolymer</heading>
+<p id="p0180" num="0180">The substrate layer may contain at least one ethylene-unsaturated ester copolymer.</p>
+<p id="p0181" num="0181">The ethylene-unsaturated ester copolymer includes an ethylene unit and an unsaturated ester unit (that is, a structural unit derived from an unsaturated ester).</p>
+<p id="p0182" num="0182">The ethylene-unsaturated ester copolymer may be any of a block copolymer, a random copolymer, and a graft copolymer.</p>
+<p id="p0183" num="0183">Examples of the unsaturated ester for forming the unsaturated ester unit include: vinyl ester such as vinyl acetate and vinyl propionate; and (meth)acrylic acid ester such as methyl (meth)acrylate, ethyl (meth)acrylate, isobutyl (meth)acrylate, n-butyl (meth)acrylate, and isooctyl (meth)acrylate.</p>
+<p id="p0184" num="0184">Among them, the unsaturated ester is preferably at least one of vinyl acetate or (meth)acrylic acid ester.</p>
+<p id="p0185" num="0185">As the ethylene-unsaturated ester copolymer, an ethylene-vinyl acetate copolymer or an ethylene-(meth)acrylic acid ester copolymer is preferable, and an ethylene-vinyl acetate copolymer is more preferable.</p>
+<p id="p0186" num="0186">A content of the unsaturated ester unit is preferably from 1% by mass to 40% by mass, more preferably from 2% by mass to 30% by mass, and still more preferably from 5% by mass to 25% by mass, with respect to a total amount of the ethylene-unsaturated ester copolymer.</p>
+<p id="p0187" num="0187">A content of the ethylene unit is preferably from 60% by mass to 99% by mass, more preferably from 70% by mass to 98% by mass, and still more preferably from 75% by mass to 95% by mass, with respect to the total amount of the ethylene-unsaturated ester copolymer.</p>
+<p id="p0188" num="0188">The ethylene-unsaturated ester copolymer may or need not contain other structural<!-- EPO <DP n="20"> --> units in addition to the ethylene unit and the unsaturated ester unit.</p>
+<p id="p0189" num="0189">A total content of the ethylene unit and the unsaturated ester unit in the ethylene-unsaturated ester copolymer is preferably 80% by mass or more and more preferably 90% by mass or more with respect to a total amount of the ethylene-unsaturated ester copolymer.</p>
+<p id="p0190" num="0190">In the case in which the substrate layer contains the ethylene-unsaturated ester copolymer, it is preferable that the ethylene-unsaturated ester copolymer in the substrate layer has a crosslinked structure. Thereby, the puncture strength of the substrate layer and the laminate is further increased.</p>
+<p id="p0191" num="0191">Examples of a method of forming a crosslinked structure include a thermally crosslinking method, an electron-beam crosslinking method, and a radiation crosslinking method. Among them, an electron-beam crosslinking method is preferable from the viewpoint of crosslinking efficiency and hygiene.</p>
+<p id="p0192" num="0192">A melt flow rate (MFR: measured in accordance with JIS K7210-1999 under a condition at 190°C and 2,160 g load) of the ethylene-unsaturated ester copolymer is preferably from 0.1 g/10 min to 100 g/10 min, more preferably from 1 g/10 min to 50 g/10 min, and still more preferably from 1 g/10 min to 30 g/10 min, from the viewpoint of workability.</p>
+<p id="p0193" num="0193">From the viewpoint of improving the extensibility and the puncture strength of the laminate, it is preferable that the substrate layer contains at least one selected from the group consisting of the ionomer of the ethylene-unsaturated carboxylic acid copolymer and the ethylene-unsaturated ester copolymer having a crosslinked structure.</p>
+<heading id="h0016">(Other Components)</heading>
+<p id="p0194" num="0194">The substrate layer may contain other components such as an additive.</p>
+<p id="p0195" num="0195">A total amount of the ionomer of the ethylene-unsaturated carboxylic acid copolymer and the ethylene-unsaturated ester copolymer is preferably 80% by mass or more and more preferably 90% by mass or more with respect to the total amount of the substrate layer.</p>
+<heading id="h0017">&lt;Sealant Layer&gt;</heading>
+<p id="p0196" num="0196">The sealant layer is a layer containing the resin composition for a sealant of the disclosure described above.</p>
+<p id="p0197" num="0197">A structure of the sealant layer may be a single layer structure and may be a laminated structure including two or more layers.</p>
+<p id="p0198" num="0198">The sealant layer is produced, for example, by melt extrusion using the resin composition for a sealant of the disclosure (and other components such as an additive, if necessary).</p>
+<p id="p0199" num="0199">In the sealant layer, the content of the resin composition for a sealant of the<!-- EPO <DP n="21"> --> disclosure is preferably 80% by mass or more and more preferably 90% by mass or more with respect to a total amount of the sealant layer.</p>
+<p id="p0200" num="0200">A shape of the laminate of the disclosure is not particularly limited and is appropriately a sheet shape (that is, film shape).</p>
+<p id="p0201" num="0201">A thickness of the laminate of the disclosure is not particularly limited, and is preferably from 40 µm to 300 µm, more preferably from 50 µm to 300 µm, and still more preferably from 50 µm to 200 µm.</p>
+<p id="p0202" num="0202">A thickness of the sealant layer of the laminate is not particularly limited, and is preferably from 1 µm to 500 µm, more preferably from 2 µm to 30 µm, and still more preferably from 3 µm to 20 µm.</p>
+<p id="p0203" num="0203">A thickness of the substrate layer of the laminate (a total thickness in a case of a laminated structure including two or more layers) is not particularly limited, and is preferably from 40 µm to 300 µm, more preferably from 50 µm to 300 µm, and still more preferably from 50 µm to 200 µm.</p>
+<heading id="h0018">&lt;Preferred Method of Producing Laminate&gt;</heading>
+<p id="p0204" num="0204">The laminate of the disclosure can be produced using a known method.</p>
+<p id="p0205" num="0205">Examples of a method of producing a laminate include an extrusion lamination method, a coextrusion inflation method, and a coextrusion T type method.</p>
+<p id="p0206" num="0206">Among them, a coextrusion T type method is preferable from the viewpoint of controlling the thickness of the laminate.</p>
+<heading id="h0019">&lt;Preferred Application of Laminate&gt;</heading>
+<p id="p0207" num="0207">An application of the laminate of the disclosure is not particularly limited.</p>
+<p id="p0208" num="0208">A preferred application of the laminate of the disclosure is similar to the preferred application of the resin composition for a sealant of the disclosure described above.</p>
+<heading id="h0020">[Packaging Material]</heading>
+<p id="p0209" num="0209">The packaging material of the disclosure includes the laminate of the disclosure described above.</p>
+<p id="p0210" num="0210">Therefore, the packaging material has excellent heat-sealing strength with respect to the substrate, and in which the sealant layer has a reduced elution amount into normal heptane.</p>
+<p id="p0211" num="0211">It is preferable that the packaging material of the disclosure further includes a substrate.</p>
+<p id="p0212" num="0212">Examples of such a packaging material include a packaging material which is a set including a substrate and a laminate, and an integrated packaging material in which a portion of a substrate and a portion of a sealant layer of a laminate are adhered to each other.<!-- EPO <DP n="22"> --></p>
+<p id="p0213" num="0213">As the substrate, a substrate containing a resin is preferable.</p>
+<p id="p0214" num="0214">An example of the resin is as described in the section of "the resin composition for a sealant". Examples include polyethylene (PE), polypropylene (PP), polystyrene (PS), high-impact polystyrene (HIPS), polyethylene terephthalate (PET), a mixture of polyethylene (PE) and polybutene (PB), or a mixture of polyethylene (PE) and polypropylene (PP), and polypropylene (PP) is preferable.</p>
+<p id="p0215" num="0215">The substrate may contain other components such as a filler and an additive.</p>
+<p id="p0216" num="0216">A content of the resin in the substrate is preferably 80% by mass or more and more preferably 90% by mass or more with respect to a total amount of the substrate.</p>
+<p id="p0217" num="0217">A shape of the substrate is not particularly limited.</p>
+<p id="p0218" num="0218">Examples of the shape of the substrate include a sheet shape (that is, film shape) and a container shape such as a tray shape. In a case in which a film is used as a substrate containing PE, PP, PS, HIPS, or PET, the film may be a stretched film or a non-stretched film. Examples of a substrate containing a mixture of PE and PB or a mixture of PE and PP include a cohesive failure film.</p>
+<p id="p0219" num="0219">A structure of the substrate may be a single layer structure and may be a laminated structure including two or more layers.</p>
+<p id="p0220" num="0220">A thickness of the substrate (a total thickness in a case of a laminated structure including two or more layers) is not particularly limited, and is preferably 0.05 mm or more, more preferably 0.1 mm or more, and still more preferably 0.2 mm or more, from the viewpoint of securing a performance in a case in which the substrate is used as a container.</p>
+<p id="p0221" num="0221">An upper limit of the thickness of the substrate is, for example, 5 mm or less, 3 mm or less, and 2 mm or less.</p>
+<p id="p0222" num="0222">From the viewpoint of securing a performance in the case in which the substrate is used as a container, it is preferable that the thickness of the substrate is greater than a thickness of the laminate.</p>
+<p id="p0223" num="0223">A ratio of the thickness of the substrate to the thickness of the laminate (that is, a ratio of [thickness of substrate/thickness of laminate]) is preferably 1.5 or more, more preferably 2.0 or more, and still more preferably 3.0 or more.</p>
+<p id="p0224" num="0224">An upper limit of the ratio [thickness of substrate/thickness of laminate] is, for example, 30 or less, 20 or less, and 15 or less.</p>
+<p id="p0225" num="0225">An application of the packaging material of the disclosure is not particularly limited.</p>
+<p id="p0226" num="0226">A preferred application of the packaging material of the disclosure is similar to the preferred application of the resin composition for a sealant of the disclosure described above.</p>
+<heading id="h0021">[Package]</heading><!-- EPO <DP n="23"> -->
+<p id="p0227" num="0227">The package of the disclosure includes the substrate, the laminate of the disclosure, and the packaged object packaged by the substrate and the laminate.</p>
+<p id="p0228" num="0228">Since the packaging material of the disclosure includes the laminate, the packaging material of the disclosure has a reduced elution amount of the sealant layer into normal heptane and excellent heat-sealing strength between the substrate and the laminate.</p>
+<p id="p0229" num="0229">Preferred aspects of the substrate, the laminate, and the packaged object are as described above.</p>
+<p id="p0230" num="0230">In particular, it is preferable that the package of the disclosure is a skin pack package (that is, a package obtained by skin pack packaging).</p>
+<heading id="h0022">EXAMPLES</heading>
+<p id="p0231" num="0231">Hereinafter, Examples of the disclosure will be described, and the disclosure is not limited to the following Examples.</p>
+<p id="p0232" num="0232">Hereinafter, a melt flow rate (MFR) was measured in accordance with JIS K7210-1999.</p>
+<p id="p0233" num="0233">Hereinafter, an "ethylene unit content", a "methylacrylate unit content", and a "vinyl acetate unit content" mean a content of a structural unit derived from ethylene, a content of a structural unit derived from methylacrylate, and a content of a structural unit derived from vinyl acetate, respectively.</p>
+<heading id="h0023">[Examples 1 to 10 and Comparative Examples 1 to 5]</heading>
+<heading id="h0024">&lt;Production of Resin Composition for Sealant&gt;</heading>
+<p id="p0234" num="0234">The following components were mixed at a mixing ratio shown in Tables 1 and 2 so that a charged amount is 10 kg. The resulting mixture was put into an extruder (65 mmcp, L/D = 28, front tip Dulmage flight screw) and melt-kneaded at a processing temperature of 160°C, thereby obtaining resin compositions for a sealant of Examples and Comparative Examples.</p>
+<p id="p0235" num="0235">Each of blanks in Tables 1 and 2 means that the corresponding component is not contained.
+<ul id="ul0004" list-style="none" compact="compact">
+<li>Resin (A)
+<ul id="ul0005" list-style="bullet" compact="compact">
+<li>EMA1 (comparative resin): ethylene-methyl acrylate copolymer [91% by mass of ethylene unit content, 9% by mass of methylacrylate unit content (written as "MA9%" in Tables 1 and 2), and MFR (190°C, a load of 2,160 g) of 6 g/10 min, produced by high-pressure radical polymerization in accordance with tubular method]</li>
+<li>EMA2: ethylene-methyl acrylate copolymer [80% by mass of ethylene unit content, 20% by mass of methylacrylate unit content (written as "MA20%" in Tables 1 and 2), and MFR (190°C, a load of 2,160 g) of 8 g/10 min, produced by high-pressure radical<!-- EPO <DP n="24"> --> polymerization in accordance with tubular method]</li>
+<li>EMA3: ethylene-methyl acrylate copolymer [76% by mass of ethylene unit content, 24% by mass of methylacrylate unit content (written as "MA24%" in Tables 1 and 2), and MFR (190°C, a load of 2,160 g) of 20 g/10 min, produced by high-pressure radical polymerization in accordance with tubular method]</li>
+</ul></li>
+<li>Tackifying Resin (B)
+<ul id="ul0006" list-style="bullet" compact="compact">
+<li>"ARKON AM-1" (an alicyclic hydrocarbon resin having a ring and ball method softening point of 115°C) produced by Arakawa Chemical Industries, Ltd.</li>
+</ul></li>
+<li>Resin (C)
+<ul id="ul0007" list-style="bullet" compact="compact">
+<li>EVA1: ethylene-vinyl acetate copolymer [94% by mass of ethylene unit content, 6% by mass of vinyl acetate unit content (written as "VA6%" in Tables 1 and 2), and MFR (190°C, a load of 2,160 g) of 7 g/10 min]</li>
+<li>EVA2: ethylene-vinyl acetate copolymer [90% by mass of ethylene unit content, 10% by mass of vinyl acetate unit content (written as "VA10%" in Tables 1 and 2), and MFR (190°C, a load of 2,160 g) of 9 g/10 min]</li>
+<li>EVA3: ethylene-vinyl acetate copolymer [81% by mass of ethylene unit content, 19% by mass of vinyl acetate unit content (written as "VA19%" in Tables 1 and 2), and MFR (190°C, a load of 2,160 g) of 15 g/10 min]</li>
+</ul></li>
+<li>Resin (D)
+<ul id="ul0008" list-style="bullet" compact="compact">
+<li>PO-1: ethylene-1-butene copolymer [density of 885 kg/m<sup>3</sup>, and MFR (190°C, a load of 2,160 g) of 3.7 g/10 min (Tafmer A4085S produced by Mitsui Chemicals, Inc.)]</li>
+<li>PO-2: ethylene-propylene copolymer [density of 875 kg/m<sup>3</sup>, and MFR (190°C, a load of 2,160 g) of 2 g/10 min (Tafmer P0275 produced by Mitsui Chemicals, Inc.)]</li>
+<li>PO-3: ethylene-1-octene copolymer [density of 870 kg/m<sup>3</sup>, and MFR (190°C, a load of 2,160 g) of 5 g/10 min (Tafmer H5030S produced by Mitsui Chemicals, Inc.)]</li>
+<li>Styrene-based elastomer 1: polystyrene-poly(ethylene-butylene)-polystyrene triblock copolymer (SEBS) [density of 900 kg/m<sup>3</sup>, and MFR (230°C, a load of 5,000 g) of 22 g/10 min (Kraton G1657 produced by Kraton Corporation)]</li>
+</ul></li>
+</ul></p>
+<heading id="h0025">(Slipping Agent Masterbatch)</heading>
+<p id="p0236" num="0236">
+<ul id="ul0009" list-style="bullet" compact="compact">
+<li>Mixture of erucic acid amide as a slipping agent (2 parts by mass), silica (20 parts by mass), and an ethylene-vinyl acetate copolymer as a base polymer (78 parts by mass) (M445 produced by Du Pont-Mitsui Polychemicals Co., Ltd.)</li>
+</ul></p>
+<heading id="h0026">&lt;Production of Laminate&gt;</heading>
+<heading id="h0027">(Production of Laminate Having Layer Structure A: Examples 1 to 8, and 10, and Comparative Examples 1 to 5)</heading><!-- EPO <DP n="25"> -->
+<p id="p0237" num="0237">Cast molding was performed under a condition of a processing speed of 25 m/min by using the resin composition for a sealant, the following HDPE, and the following ionomer as a raw material with a three-kind three-layer cast molding machine of 40 mmcp, thereby obtaining a film-shaped laminate having the following layer structure A and a thickness of 100 µm.
+<ul id="ul0010" list-style="bullet" compact="compact">
+<li>HDPE: HI-ZEX 3300F produced by Prime Polymer Co., Ltd. (high-density polyethylene, density of 950 kg/m<sup>3</sup>, and MFR (190°C, a load of 2,160 g) of 1.1 g/10 min)</li>
+<li>Ionomer: Na neutralized product (Na neutralization degree of 50% and MFR (190°C, a load of 2,160 g) of 1.3 g/10 min) of ethylene-methacrylic acid copolymer (90% by mass of ethylene unit content and 10% by mass of methacrylic acid unit content)</li>
+<li>Layer structure A: HDPE layer/ionomer layer/sealant layer (layer ratio of [HDPE layer/ionomer layer/sealant layer] = 10/80/10 or 10/85/5, Tables 1 and 2 show the details)</li>
+</ul></p>
+<p id="p0238" num="0238">In the layer structure A, the sealant layer is a layer derived from the resin composition for a sealant, the HDPE layer is a layer derived from the HDPE, and the ionomer layer is a layer derived from the ionomer.</p>
+<p id="p0239" num="0239">In the layer structure A, a portion of HDPE layer/ionomer layer is a substrate layer.</p>
+<heading id="h0028">(Production of Laminate Having Layer Structure B: Example 9)</heading>
+<p id="p0240" num="0240">Cast molding was performed under a condition of a processing speed of 25 m/min by using the resin composition for a sealant, the EVA2, and the EVA3 as a raw material with a three-kind three-layer cast molding machine of 40 mmcp, thereby obtaining a film-shaped molded body having a three-layer structure. In the obtained molded body, the layer derived from EVA2 and the layer derived from EVA3 were subjected to electron-beam crosslinking, thereby obtaining a film-shaped laminate having the following layer structure B and a thickness of 100 µm.<br/>
+Layer structure B: EVA2 layer/EVA3 layer/sealant layer (layer ratio of [EVA2 layer/EVA3 layer/sealant layer] = 30/60/10)</p>
+<p id="p0241" num="0241">In the layer structure B, the sealant layer is a layer derived from the resin composition for a sealant, the EVA2 layer is a layer derived from the EVA2 (in detail, a layer obtained by performing electron-beam crosslinking after cast molding), and the EVA3 layer is a layer derived from the EVA3 (in detail, a layer obtained by performing electron-beam crosslinking after cast molding).</p>
+<p id="p0242" num="0242">In the layer structure B, a portion of EVA2 layer/EVA3 layer is a substrate layer.</p>
+<heading id="h0029">[Evaluation]</heading>
+<p id="p0243" num="0243">The following evaluation was performed using the resin composition for a sealant and the laminate.<!-- EPO <DP n="26"> --></p>
+<p id="p0244" num="0244">The results are shown in Tables 1 and 2.</p>
+<heading id="h0030">&lt;Heat-Sealing Strength with respect to Substrate&gt;</heading>
+<heading id="h0031">(Production of Test Sample 1)</heading>
+<p id="p0245" num="0245">The laminate was overlapped on a polypropylene (PP) sheet (F317DV produced by Prime Polymer Co., Ltd.) which is a substrate and has a thickness of 0.4 mm in a direction in which the sealant layer and the substrate of the laminate are in contact with each other, heat sealing was performed under conditions of a pressing force of 0.2 MPa, a heating temperature of 120°C, and a heating time of 1.0 second, and then the overlapped laminate was left for 24 hours at room temperature, thereby obtaining a test sample 1 having a layer structure of substrate layer/sealant layer/substrate.</p>
+<heading id="h0032">(Measurement of Peeling Strength)</heading>
+<p id="p0246" num="0246">A test piece having a width of 15 mm was cut out from the obtained test sample 1.</p>
+<p id="p0247" num="0247">A substrate side and a substrate layer side of the cut-out test piece were pulled in opposite directions (that is, a T-type peeling direction) and a peeling strength (N/15 mm) was obtained.</p>
+<p id="p0248" num="0248">The peeling strength (N/15 mm) represents a heat-sealing strength with respect to the substrate of the resin composition for a sealant.</p>
+<p id="p0249" num="0249">From the viewpoint of the heat-sealing strength with respect to the substrate of the resin composition for a sealant, the peeling strength (N/15 mm) is preferably 3 N/15 mm or more.</p>
+<heading id="h0033">&lt;Elution Amount into Normal Heptane&gt;</heading>
+<heading id="h0034">(Production of Test Sample 2)</heading>
+<p id="p0250" num="0250">Cast molding was performed under a condition of a processing speed of 25 m/min by using the resin composition for a sealant and the following LDPE as a raw material with a three-kind three-layer cast molding machine of 40 mmcp, thereby obtaining a film-shaped test sample 2 having the following layer structure C and a thickness of 100 µm.
+<ul id="ul0011" list-style="bullet" compact="compact">
+<li>LDPE: low-density polyethylene, density of 917 kg/m<sup>3</sup>, and MFR (190°C, a load of 2,160 g) of 3.7 g/10 min (MIRASON 16P produced by Du Pont-Mitsui Polychemicals Co., Ltd.)</li>
+<li>Layer structure C: LDPE layer/LDPE layer/sealant layer (layer ratio of [LDPE layer/LDPE layer/sealant layer] = 10/80/10 or 10/85/5, Tables 1 and 2 show the details)</li>
+</ul></p>
+<p id="p0251" num="0251">In the layer structure C, the sealant layer is a layer derived from the resin composition for a sealant, and the LDPE layer is a layer derived from the LDPE.</p>
+<p id="p0252" num="0252">In the layer structure C, a portion of LDPE layer/LDPE layer is a substrate layer.</p>
+<p id="p0253" num="0253">In the evaluation of the elution amount into normal heptane, the reason that the layer<!-- EPO <DP n="27"> --> structure of the laminate was the layer structure C (that is, reason that the substrate layer was LDPE layer/LDPE layer) is for appropriately evaluating the elution amount from the sealant layer into normal heptane by extremely reducing the elution amount from the substrate layer into normal heptane.</p>
+<heading id="h0035">(Elution Amount into Normal Heptane)</heading>
+<p id="p0254" num="0254">In accordance with Notification No. 370 by The Ministry of Health and Welfare, normal heptane was brought into contact with the sealant layer of the test sample 2 at room temperature for 2 hours, and then the normal heptane was recovered.</p>
+<p id="p0255" num="0255">The recovered normal heptane was evaporated with an evaporator, the residue was weighed, and then the elution amount (µg/mL) from the sealant layer (that is, the resin composition for a sealant) per 1 mL of normal heptane was calculated based on the weighed value.</p>
+<p id="p0256" num="0256">From the viewpoint of hygiene, the elution amount (µg/mL) is preferably 30 µg/mL or less.<!-- EPO <DP n="28"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>[Table 1]</title>
+<tgroup cols="13">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="20mm"/>
+<colspec colnum="3" colname="col3" colwidth="21mm"/>
+<colspec colnum="4" colname="col4" colwidth="18mm"/>
+<colspec colnum="5" colname="col5" colwidth="18mm"/>
+<colspec colnum="6" colname="col6" colwidth="18mm"/>
+<colspec colnum="7" colname="col7" colwidth="18mm"/>
+<colspec colnum="8" colname="col8" colwidth="18mm"/>
+<colspec colnum="9" colname="col9" colwidth="18mm"/>
+<colspec colnum="10" colname="col10" colwidth="18mm"/>
+<colspec colnum="11" colname="col11" colwidth="18mm"/>
+<colspec colnum="12" colname="col12" colwidth="18mm"/>
+<colspec colnum="13" colname="col13" colwidth="18mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">Example 1</entry>
+<entry align="center" valign="middle">Example 2</entry>
+<entry align="center" valign="middle">Example 3</entry>
+<entry align="center" valign="middle">Example 4</entry>
+<entry align="center" valign="middle">Example 5</entry>
+<entry align="center" valign="middle">Example 6</entry>
+<entry align="center" valign="middle">Example 7</entry>
+<entry align="center" valign="middle">Example 8</entry>
+<entry align="center" valign="middle">Example 9</entry>
+<entry align="center" valign="middle">Example 10</entry></row></thead>
+<tbody>
+<row>
+<entry morerows="11" align="center" valign="middle">Resin composition for sealant</entry>
+<entry morerows="2" align="center" valign="middle">Resin (A)</entry>
+<entry align="center" valign="middle">EMA 1 (MA9%)</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/></row>
+<row>
+<entry align="center" valign="middle">EMA 2 (MA20%)</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">98</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle">50</entry></row>
+<row>
+<entry align="center" valign="middle">EMA 3 (MA24%)</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/></row>
+<row>
+<entry align="center" valign="middle">Tackifying resin (B)</entry>
+<entry align="center" valign="middle">AM-1</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry></row>
+<row>
+<entry morerows="2" align="center" valign="middle">Resin (C)</entry>
+<entry align="center" valign="middle">EVA 1 (VA6%)</entry>
+<entry align="center" valign="middle">38</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/></row>
+<row>
+<entry align="center" valign="middle">EVA 2 (VA10%)</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">38</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">38</entry>
+<entry align="center" valign="middle">28</entry>
+<entry align="center" valign="middle">33</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">38</entry>
+<entry align="center" valign="middle">18</entry></row>
+<row>
+<entry align="center" valign="middle">EVA 3 (VA19%)</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">38</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/></row>
+<row>
+<entry morerows="3" align="center" valign="middle">Resin (D)</entry>
+<entry align="center" valign="middle">Styrene-based elastomer 1</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/></row>
+<row>
+<entry align="center" valign="middle">PO-1</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/></row>
+<row>
+<entry align="center" valign="middle">PO-2</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/></row>
+<row>
+<entry align="center" valign="middle">PO-3</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">30</entry></row>
+<row>
+<entry namest="col2" nameend="col3" align="center" valign="middle">Slipping agent masterbatch</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">5</entry></row>
+<row>
+<entry morerows="3" align="center" valign="middle">Heat -sealing strength to sub strate</entry>
+<entry morerows="2" align="center" valign="middle">Laminate</entry>
+<entry align="center" valign="middle">Layer structure</entry>
+<entry align="center" valign="middle">A</entry>
+<entry align="center" valign="middle">A</entry>
+<entry align="center" valign="middle">A</entry>
+<entry align="center" valign="middle">A</entry>
+<entry align="center" valign="middle">A</entry>
+<entry align="center" valign="middle">A</entry>
+<entry align="center" valign="middle">A</entry>
+<entry align="center" valign="middle">A</entry>
+<entry align="center" valign="middle">B</entry>
+<entry align="center" valign="middle">A</entry></row>
+<row>
+<entry align="center" valign="middle">Layer ratio</entry>
+<entry align="center" valign="middle">10/80/10</entry>
+<entry align="center" valign="middle">10/80/10</entry>
+<entry align="center" valign="middle">10/80/10</entry>
+<entry align="center" valign="middle">10/80/10</entry>
+<entry align="center" valign="middle">10/80/10</entry>
+<entry align="center" valign="middle">10/85/5</entry>
+<entry align="center" valign="middle">10/85/5</entry>
+<entry align="center" valign="middle">10/80/10</entry>
+<entry align="center" valign="middle">10/80/10</entry>
+<entry align="center" valign="middle">10/85/5</entry></row>
+<row>
+<entry align="center" valign="middle">Thickness of sealant layer (µm)</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">5</entry></row>
+<row>
+<entry namest="col2" nameend="col3" align="center" valign="middle">Peeling strength (N/15 mm)</entry>
+<entry align="center" valign="middle">3.4</entry>
+<entry align="center" valign="middle">6.3</entry>
+<entry align="center" valign="middle">3.9</entry>
+<entry align="center" valign="middle">5.4</entry>
+<entry align="center" valign="middle">7.4</entry>
+<entry align="center" valign="middle">9.7</entry>
+<entry align="center" valign="middle">7.2</entry>
+<entry align="center" valign="middle">4.7</entry>
+<entry align="center" valign="middle">3.0</entry>
+<entry align="center" valign="middle">9.3</entry></row>
+<row>
+<entry morerows="3" align="center" valign="middle">Elution amount into normal heptane</entry>
+<entry morerows="2" align="center" valign="middle">Laminate</entry>
+<entry align="center" valign="middle">Layer structure</entry>
+<entry align="center" valign="middle">C</entry>
+<entry align="center" valign="middle">C</entry>
+<entry align="center" valign="middle">C</entry>
+<entry align="center" valign="middle">C</entry>
+<entry align="center" valign="middle">C</entry>
+<entry align="center" valign="middle">C</entry>
+<entry align="center" valign="middle">C</entry>
+<entry align="center" valign="middle">C</entry>
+<entry align="center" valign="middle">C</entry>
+<entry align="center" valign="middle">C</entry></row>
+<row>
+<entry align="center" valign="middle">Layer ratio</entry>
+<entry align="center" valign="middle">45/45/10</entry>
+<entry align="center" valign="middle">45/45/10</entry>
+<entry align="center" valign="middle">45/45/10</entry>
+<entry align="center" valign="middle">45/45/10</entry>
+<entry align="center" valign="middle">45/45/10</entry>
+<entry align="center" valign="middle">47/48/5</entry>
+<entry align="center" valign="middle">47/48/5</entry>
+<entry align="center" valign="middle">45/45/10</entry>
+<entry align="center" valign="middle">45/45/10</entry>
+<entry align="center" valign="middle">47/48/5</entry></row>
+<row>
+<entry align="center" valign="middle">Thickness of sealant layer (µm)</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">5</entry></row>
+<row>
+<entry namest="col2" nameend="col3" align="center" valign="middle">Elution amount (µg/mL)</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">22</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">28</entry>
+<entry align="center" valign="middle">26</entry>
+<entry align="center" valign="middle">26</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle">26</entry>
+<entry align="center" valign="middle">16</entry>
+<entry align="center" valign="middle">25</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="29"> -->
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>[Table 2]</title>
+<tgroup cols="8">
+<colspec colnum="1" colname="col1" colwidth="31mm"/>
+<colspec colnum="2" colname="col2" colwidth="26mm"/>
+<colspec colnum="3" colname="col3" colwidth="34mm"/>
+<colspec colnum="4" colname="col4" colwidth="30mm"/>
+<colspec colnum="5" colname="col5" colwidth="30mm"/>
+<colspec colnum="6" colname="col6" colwidth="30mm"/>
+<colspec colnum="7" colname="col7" colwidth="30mm"/>
+<colspec colnum="8" colname="col8" colwidth="30mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col3" align="center" valign="middle"/>
+<entry align="center" valign="middle">Comparative Example 1</entry>
+<entry align="center" valign="middle">Comparative Example 2</entry>
+<entry align="center" valign="middle">Comparative Example 3</entry>
+<entry align="center" valign="middle">Comparative Example 4</entry>
+<entry align="center" valign="middle">Comparative Example 5</entry></row></thead>
+<tbody>
+<row>
+<entry morerows="11" align="center" valign="middle">Resin composition for sealant</entry>
+<entry morerows="2" align="center" valign="middle">Resin (A)</entry>
+<entry align="center" valign="middle">EMA 1 (MA9%)</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/></row>
+<row>
+<entry align="center" valign="middle">EMA 2 (MA20%)</entry>
+<entry align="center" valign="middle">60</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">18</entry>
+<entry align="center" valign="middle"/></row>
+<row>
+<entry align="center" valign="middle">EMA 3 (MA24%)</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/></row>
+<row>
+<entry align="center" valign="middle">Tackifying resin (B)</entry>
+<entry align="center" valign="middle">AM-1</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">20</entry></row>
+<row>
+<entry morerows="2" align="center" valign="middle">Resin (C)</entry>
+<entry align="center" valign="middle">EVA 1 (VA6%)</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">40</entry></row>
+<row>
+<entry align="center" valign="middle">EVA 2 (VA10%)</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">38</entry>
+<entry align="center" valign="middle">78</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle"/></row>
+<row>
+<entry align="center" valign="middle">EVA 3 (VA19%)</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/></row>
+<row>
+<entry morerows="3" align="center" valign="middle">Resin (D)</entry>
+<entry align="center" valign="middle">Styrene-based elastomer 1</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/></row>
+<row>
+<entry align="center" valign="middle">PO-1</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">40</entry></row>
+<row>
+<entry align="center" valign="middle">PO-2</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle"/></row>
+<row>
+<entry align="center" valign="middle">PO-3</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/></row>
+<row>
+<entry namest="col2" nameend="col3" align="center" valign="middle">Slipping agent masterbatch</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">5</entry></row>
+<row>
+<entry morerows="3" align="center" valign="middle">Heat-sealing strength to sub strate</entry>
+<entry morerows="2" align="center" valign="middle">Laminate</entry>
+<entry align="center" valign="middle">Layer structure</entry>
+<entry align="center" valign="middle">A</entry>
+<entry align="center" valign="middle">A</entry>
+<entry align="center" valign="middle">A</entry>
+<entry align="center" valign="middle">A</entry>
+<entry align="center" valign="middle">A</entry></row>
+<row>
+<entry align="center" valign="middle">Layer ratio</entry>
+<entry align="center" valign="middle">10/80/10</entry>
+<entry align="center" valign="middle">10/80/10</entry>
+<entry align="center" valign="middle">10/80/10</entry>
+<entry align="center" valign="middle">10/85/5</entry>
+<entry align="center" valign="middle">10/80/10</entry></row>
+<row>
+<entry align="center" valign="middle">Thickness of sealant layer (µm)</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">10</entry></row>
+<row>
+<entry namest="col2" nameend="col3" align="center" valign="middle">Peeling strength (N/15 mm)</entry>
+<entry align="center" valign="middle">0.3</entry>
+<entry align="center" valign="middle">0.4</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">2.9</entry>
+<entry align="center" valign="middle">&gt;10</entry></row>
+<row>
+<entry morerows="3" align="center" valign="middle">Elution amount into normal heptane</entry>
+<entry morerows="2" align="center" valign="middle">Laminate</entry>
+<entry align="center" valign="middle">Layer structure</entry>
+<entry align="center" valign="middle">C</entry>
+<entry align="center" valign="middle">C</entry>
+<entry align="center" valign="middle">C</entry>
+<entry align="center" valign="middle">C</entry>
+<entry align="center" valign="middle">C</entry></row>
+<row>
+<entry align="center" valign="middle">Layer ratio</entry>
+<entry align="center" valign="middle">45/45/10</entry>
+<entry align="center" valign="middle">45/45/10</entry>
+<entry align="center" valign="middle">45/45/10</entry>
+<entry align="center" valign="middle">47/48/5</entry>
+<entry align="center" valign="middle">45/45/10</entry></row>
+<row>
+<entry align="center" valign="middle">Thickness of sealant layer (µm)</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">10</entry></row>
+<row>
+<entry namest="col2" nameend="col3" align="center" valign="middle">Elution amount (µg/mL)</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">28</entry>
+<entry align="center" valign="middle">20</entry>
+<entry align="center" valign="middle">16</entry>
+<entry align="center" valign="middle">&gt;200</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="30"> --></p>
+<p id="p0257" num="0257">As shown in Tables 1 and 2, each of the resin compositions for a sealant of Examples 1 to 10 had the reduced elution amount into normal heptane and excellent heat-sealing strength with respect to the substrate, the resin composition containing: a resin (A) which is an ethylene-(meth)acrylic acid ester copolymer in which a content of a (meth)acrylic acid ester unit is from 10% by mass to 25% by mass; and a tackifying resin (B), a content of the resin (A) being more than 45% by mass, and a content of the tackifying resin (B) being from 0.1% by mass to 10% by mass.</p>
+<p id="p0258" num="0258">The resin composition for a sealant of Comparative Example 1 which contained no tackifying resin (B) had insufficient heat-sealing strength with respect to the substrate, as compared to each of the respective resin compositions for a sealant of the Examples.</p>
+<p id="p0259" num="0259">The resin composition for a sealant of Comparative Example 2 in which a content of the (meth)acrylic acid ester unit in the ethylene-(meth)acrylic acid ester copolymer was less than 10% by mass also had insufficient heat-sealing strength with respect to the substrate.</p>
+<p id="p0260" num="0260">Each of the resin compositions for a sealant of Comparative Examples 3 and 4 in which the content of the resin (A) was less than 45% by mass also had insufficient heat-sealing strength with respect to the substrate.</p>
+<p id="p0261" num="0261">The resin composition for a sealant of Comparative Example 5 in which the content of the tackifying resin (B) was more than 10% by mass had the excessive elution amount into normal heptane.</p>
+<heading id="h0036">&lt;Skin Pack Packaging Suitability&gt;</heading>
+<p id="p0262" num="0262">Skin pack packaging suitability for each of the laminates having the layer structure A in Examples 1 to 8 and 10, and the laminate having the layer structure B in Example 9 was confirmed as follows.</p>
+<p id="p0263" num="0263">A wood piece having a height of 2 cm and an area of 50 cm<sup>2</sup> (10 cm in width x 5 cm in length) as a packaged object was disposed on a polypropylene tray, and a laminate was disposed thereon, whereby the packaged object and the tray were entirely covered.</p>
+<p id="p0264" num="0264">In this state, the packaged object was skin-pack packaged by the laminate as a packaging material and the tray with a tray sealer T200 produced by MULTIVAC under conditions of a set temperature of 130°C, a heating time of 1 second, and a vacuum degree of 10 mbar.</p>
+<p id="p0265" num="0265">As a result, even in a case of using any laminate, it was possible to perform skin pack packaging in which the laminate follows the shape of the packaged object and was closely adhered to the packaged object, without generation of a hole and a wrinkle in the laminate.</p>
+<p id="p0266" num="0266">From the above, it was confirmed that each of the laminates having the layer structure A in Examples 1 to 8 and 10, and the laminate having the layer structure B in<!-- EPO <DP n="31"> --> Example 9 had the skin pack packaging suitability.</p>
+<p id="p0267" num="0267">The disclosure of <patcit id="pcit0005" dnum="JP2018225788A"><text>Japanese Patent Application No. 2018-225788 filed on November 30, 2018</text></patcit>, is hereby incorporated by reference in their entirety.</p>
+<p id="p0268" num="0268">All the documents, patent applications and technical standards that are described in the present specification are hereby incorporated by reference to the same extent as if each individual document, patent application or technical standard is concretely and individually described to be incorporated by reference.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="32"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A resin composition for a sealant, comprising:
+<claim-text>a resin (A) that is an ethylene-(meth)acrylic acid ester copolymer in which a content of a (meth)acrylic acid ester unit is from 10% by mass to 25% by mass; and</claim-text>
+<claim-text>a tackifying resin (B),</claim-text>
+<claim-text>wherein a content of the resin (A) is more than 45% by mass with respect to a total amount of resin components in the resin composition for a sealant, and</claim-text>
+<claim-text>a content of the tackifying resin (B) is from 0.1% by mass to 10% by mass with respect to a total amount of resin components in the resin composition for a sealant.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The resin composition for a sealant according to claim 1, further comprising a resin (C) that is an ethylene-vinyl ester copolymer.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The resin composition for a sealant according to claim 1 or 2, further comprising a resin (D) that is at least one selected from the group consisting of an ethylene-α-olefin copolymer elastomer, a styrene-based elastomer and polyethylene.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The resin composition for a sealant according to claim 3, wherein a content of the resin (D) is from 5% by mass to 40% by mass with respect to a total amount of resin components in the resin composition.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The resin composition for a sealant according to any one of claims 1 to 4, used as a sealant for a packaging material.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The resin composition for a sealant according to claim 5, wherein the packaging material is for skin pack packaging.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>A laminate, comprising:
+<claim-text>a substrate layer; and</claim-text>
+<claim-text>a sealant layer containing the resin composition for a sealant according to any one of claims 1 to 6.</claim-text></claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>The laminate according to claim 7, wherein the substrate layer contains at least one selected from the group consisting of an ionomer of an ethylene-unsaturated carboxylic acid copolymer and an ethylene-unsaturated ester copolymer.<!-- EPO <DP n="33"> --></claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>The laminate according to claim 7 or 8, wherein a thickness of the laminate is from 40 µm to 300 µm.</claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>A packaging material, comprising the laminate according to any one of claims 7 to 9.</claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>The packaging material according to claim 10, further comprising a substrate.</claim-text></claim>
+<claim id="c-en-0012" num="0012">
+<claim-text>The packaging material according to claim 11, wherein the substrate comprises polypropylene.</claim-text></claim>
+<claim id="c-en-0013" num="0013">
+<claim-text>A package, comprising:
+<claim-text>a substrate;</claim-text>
+<claim-text>the laminate according to any one of claims 7 to 9; and</claim-text>
+<claim-text>a packaged object packaged by the substrate and the laminate.</claim-text></claim-text></claim>
+</claims>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="165" he="226" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="165" he="226" type="tif"/><doc-page id="srep0003" file="srep0003.tif" wi="165" he="226" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="JP2008095044A"><document-id><country>JP</country><doc-number>2008095044</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0003]</crossref><crossref idref="pcit0002">[0004]</crossref><crossref idref="pcit0003">[0051]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="JPS62273214A" dnum-type="L"><document-id><country>JP</country><doc-number>S62273214</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0004">[0054]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="JP2018225788A"><document-id><country>JP</country><doc-number>2018225788</doc-number><kind>A</kind><date>20181130</date></document-id></patcit><crossref idref="pcit0005">[0267]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

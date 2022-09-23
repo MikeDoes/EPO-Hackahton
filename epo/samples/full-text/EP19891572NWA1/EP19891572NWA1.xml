@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19891572A1" file="EP19891572NWA1.xml" lang="en" country="EP" doc-number="3889315" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3889315</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19891572.0</B210><B220><date>20191129</date></B220><B240><B241><date>20210621</date></B241></B240><B250>ko</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>20180152573</B310><B320><date>20181130</date></B320><B330><ctry>KR</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>C23C   2/28        20060101AFI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C23C   2/12        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>C23C   2/40        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>C23C  24/04        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>C23C  28/02        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="6"><text>C22C  38/04        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="7"><text>C22C  38/02        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="8"><text>C22C  38/06        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="9"><text>C22C  38/00        20060101ALI20200605BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>C23C  28/02        20130101 LI20200625BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>C23C  24/04        20130101 LI20200625BCEP        </text></classification-cpc><classification-cpc sequence="3"><text>C22C  38/06        20130101 LI20200625BCEP        </text></classification-cpc><classification-cpc sequence="4"><text>C23C   2/12        20130101 LI20200625BCEP        </text></classification-cpc><classification-cpc sequence="5"><text>C23C   2/40        20130101 LI20200625BCEP        </text></classification-cpc><classification-cpc sequence="6"><text>C22C  38/04        20130101 LI20200625BCEP        </text></classification-cpc><classification-cpc sequence="7"><text>C23C   2/28        20130101 LI20200625BCEP        </text></classification-cpc><classification-cpc sequence="8"><text>C22C  38/02        20130101 LI20200625BCEP        </text></classification-cpc><classification-cpc sequence="9"><text>C22C  38/00        20130101 LI20200625BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>PLATTIERTES STAHLBLECH AUF DER BASIS VON EISEN-ALUMINIUM FÜR HEISSPRESSFORMEN MIT HERVORRAGENDEN EIGENSCHAFTEN GEGEN VERZÖGERTEN WASSERSTOFFINDUZIERTEN BRUCH UND PUNKTSCHWEISSEIGENSCHAFTEN SOWIE VERFAHREN ZU SEINER HERSTELLUNG</B542><B541>en</B541><B542>IRON-ALUMINUM-BASED PLATED STEEL SHEET FOR HOT PRESS FORMING, HAVING EXCELLENT HYDROGEN DELAYED FRACTURE PROPERTIES AND SPOT WELDING PROPERTIES, AND MANUFACTURING METHOD THEREFOR</B542><B541>fr</B541><B542>TÔLE D'ACIER PLAQUÉE À BASE DE FER-ALUMINIUM POUR FORMAGE À CHAUD AYANT D'EXCELLENTES PROPRIÉTÉS DE FRACTURE RETARDÉE À L'HYDROGÈNE ET PROPRIÉTÉS DE SOUDAGE PAR POINTS, ET SON PROCÉDÉ DE FABRICATION</B542></B540><B590><B598>2</B598></B590></B500><B700><B710><B711><snm>POSCO</snm><iid>101903152</iid><irf>M/CSO-474-PC/EP</irf><adr><str>(Goedong-dong) 6261 Donghaean-ro 
+Nam-gu</str><city>Pohang-si, Gyeongsangbuk-do 37859</city><ctry>KR</ctry></adr></B711></B710><B720><B721><snm>OH, Jin-Keun</snm><adr><str>c/o Gwangyang Iron &amp; Steel Works, 
+20-26, Pokposarang-gil</str><city>Gwangyang-si, 
+Jeollanam-do 57807</city><ctry>KR</ctry></adr></B721><B721><snm>KIM, Seong-Woo</snm><adr><str>c/o Gwangyang Iron &amp; Steel Works, 
+20-26, Pokposarang-gil</str><city>Gwangyang-si, 
+Jeollanam-do 57807</city><ctry>KR</ctry></adr></B721><B721><snm>KIM, Sang-Heon</snm><adr><str>c/o Gwangyang Iron &amp; Steel Works, 
+20-26, Pokposarang-gil</str><city>Gwangyang-si,
+Jeollanam-do 57807</city><ctry>KR</ctry></adr></B721><B721><snm>CHO, Yeol-Rae</snm><adr><str>c/o Pohang Iron &amp; Steel Works,
+ 6262, Donghaean-ro,
+Nam-gu</str><city>Pohang-si, 
+Gyeongsangbuk-do 37877</city><ctry>KR</ctry></adr></B721></B720><B740><B741><snm>Zech, Stefan Markus</snm><iid>100755512</iid><adr><str>Meissner Bolte Patentanwälte 
+Rechtsanwälte Partnerschaft mbB 
+Postfach 86 06 24</str><city>81633 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>KR2019016766</anum></dnum><date>20191129</date></B861><B862>ko</B862></B860><B870><B871><dnum><pnum>WO2020111883</pnum></dnum><date>20200604</date><bnum>202023</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">The present invention provides an iron-aluminum-based plated steel sheet, and a manufacturing method therefor, the iron-aluminum-based plated steel sheet comprising a base steel sheet and a plated layer formed on the surface of the base steel sheet, wherein the alloy plated layer comprises: a diffusion layer comprising an Fe-Al-based intermetallic compound having a cubic structure; and an alloyed layer formed on the diffusion layer and composed of an alloy phase differing from that of the cubic structure, the thickness of the diffusion layer is 3-20 µm, and the thickness of the diffusion layer is greater than 50% of the total thickness of the plated layer.<img id="iaf01" file="imgaf001.tif" wi="157" he="102" img-content="drawing" img-format="tif"/></p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">[Technical Field]</heading>
+<p id="p0001" num="0001">The present disclosure relates to an iron-aluminum-based plated steel sheet for hot press forming, having excellent hydrogen delayed fracture properties and spot welding properties, and manufacturing method therefor.</p>
+<heading id="h0002">[Background Art]</heading>
+<p id="p0002" num="0002">In recent years, due to depletion of petroleum energy resources and high interest in the environment, regulations on improving fuel efficiency of automobiles have been strengthened. In terms of materials, reducing a thickness of a steel sheet used in automobiles may be a method for improving fuel efficiency of automobiles; however, reducing the thickness of a steel sheet may cause problems in automobile safety, and thus, in this case, improvement of strength of the steel sheet should be facilitated.</p>
+<p id="p0003" num="0003">Thus, there has been continuous demand for highstrength steel sheets, and various kinds of steel sheets<!-- EPO <DP n="2"> --> have been developed. However, since these steel sheets have high strength in themselves, workability thereof is poor. That is, since a product of strength and elongation for each grade of steel sheet tends to always have a constant value, when strength of the steel sheet increases, elongation, an index of workability, decreases.</p>
+<p id="p0004" num="0004">In order to solve this problem, a hot press forming method has been proposed. The hot press forming method is a method of forming a low temperature structure, such as martensite, in the steel sheet by forming at a high temperature suitable for forming and then quenching the steel sheet at a low temperature structure to increase the strength of the final product. In this case, the problem of workability may be minimized when manufacturing a member having high strength.</p>
+<p id="p0005" num="0005">However, in the case of the aforementioned hot press forming method, since the steel sheet has to be heated to have a high temperature, a surface of the steel sheet is oxidized, which additionally requires a process of removing oxides on the surface of the steel sheet after press forming. In order to solve this problem, patent document 1 was proposed. In this document, a steel sheet subjected to aluminum plating is used in a process of hot press forming or heating and quenching after room temperature forming (briefly, post-heat treatment). Since an aluminum plating<!-- EPO <DP n="3"> --> layer is present on the surface of the steel sheet, the steel sheet is not oxidized at the time of heating, but an increase in thickness of the plating layer may deteriorate spot welding properties of the hot press formed member.</p>
+<p id="p0006" num="0006">Meanwhile, when subjected to hot press forming, the steel sheet may have a strength of 1000 MPa or more, and in some cases, 1400 MPa or more. In recent years, the required level for strength has been further increased, and a steel sheet may have a strength of 1800 MPa or more. However, when strength of the steel sheet is increased, the steel sheet becomes sensitive to hydrogen delayed fracture, so even when a small amount of hydrogen is included, the steel sheet may be fractured. In addition, in the case of hot press forming an aluminum-plated steel sheet, Fe diffuses from a base steel of the steel sheet to the plating layer on the surface, resulting in alloying in the plating layer, and hydrogen penetrated during hot press forming cannot easily escape due to the alloying layer, so that hydrogen resistance properties of the hot press formed member become inferior.</p>
+<p id="p0007" num="0007">(Patent document 1) US Patent Registration No. <patcit id="pcit0001" dnum="US6296805B"><text>6,296,805</text></patcit></p>
+<heading id="h0003">[Disclosure]</heading>
+<heading id="h0004">[Technical Problem]</heading>
+<p id="p0008" num="0008">An aspect of the present disclosure may provide an<!-- EPO <DP n="4"> --> iron-aluminum-based plated steel sheet for hot press forming having excellent resistance against hydrogen delayed fracture and spot welding properties, and a manufacturing method therefor.</p>
+<p id="p0009" num="0009">The technical problem of the present disclosure is not limited to the aforementioned matters. Additional problems of the present disclosure are described in the overall contents of the disclosure, and those of ordinary skill in the art to which the present disclosure pertains will not have any difficulty in understanding the additional problems of the present disclosure from the contents described in the disclosure of the present disclosure.</p>
+<heading id="h0005">[Technical Solution]</heading>
+<p id="p0010" num="0010">According to an aspect of the present disclosure, an iron-aluminum-based plated steel sheet used for hot press forming includes: a base steel sheet; and a plating layer formed on a surface of the base steel sheet, wherein the plating layer includes: a diffusion layer including a Fe-Al-based intermetallic compound having a cubic structure; and an alloying layer formed on the diffusion layer and having a crystal structure different from the cubic structure, wherein a thickness of the diffusion layer is 3 µm to 20 µm, and the thickness of the diffusion layer exceeds 50% of a total thickness of the plating layer.<!-- EPO <DP n="5"> --></p>
+<p id="p0011" num="0011">A thickness of the plating layer may be 5 µm to 20 µm.</p>
+<p id="p0012" num="0012">The plating layer may include, by wt%, 0.0001% to 7% of silicon (Si) and 1.1% to 15% of magnesium (Mg) when a remaining alloy composition excluding an Fe content diffused from the base steel sheet is 100%.</p>
+<p id="p0013" num="0013">The base steel sheet may include, by wt%, 0.04% to 0.5% of carbon (C), 0.01% to 2% of silicon (Si), 0.01% to 10% of manganese (Mn), 0.001% to 1.0% of aluminum (Al), 0.05% or less of phosphorus (P), 0.02% or less of silicon (S), 0.02% or less of nitrogen (N), a balance of iron (Fe), and other inevitable impurities.</p>
+<p id="p0014" num="0014">The base steel sheet may further include one or more of 0.01% to 4.0% of the sum of one or more selected from the group consisting of chromium (Cr), molybdenum (Mo), and tungsten (W), 0.001% to 0.4% of the sum of one or more selected from the group consisting of titanium (Ti), niobium (Nb), zirconium (Zr), and vanadium (V); 0.005% to 2.0% of copper (Cu)+nickel (Ni), 0.001% to 1.0% of antimony (Sb)+tin (Sn), and 0.0001% to 0.01% of boron (B).</p>
+<p id="p0015" num="0015">According to another aspect of the present disclosure, a hot press formed member is obtained by hot press forming the above iron-aluminum-based plated steel sheet, in which the thickness of the diffusion layer may be 90% or more of the total thickness of the plating layer.<!-- EPO <DP n="6"> --></p>
+<p id="p0016" num="0016">According to another aspect of the present disclosure, a method of manufacturing an iron-aluminum-based plated steel sheet includes: preparing a base steel sheet; obtaining an aluminum plated steel sheet through dipping the base steel sheet in an aluminum plating bath including, by wt%, 0.0001% to 7% of silicon (Si), 1.1% to 15% of magnesium (Mg), a balance of aluminum (Al), and other inevitable impurities to plate the base steel sheet with a coating amount of 10 to 40 g/m<sup>2</sup> per side; and obtaining an iron-aluminum-based plated steel sheet through online alloying of performing a heat treatment by maintaining the aluminum plated steel sheet for 1 to 20 seconds within a heating temperature range of 670°C to 900°C successively, without cooling the aluminum plated steel sheet, after the plating.</p>
+<heading id="h0006">[Advantageous Effects]</heading>
+<p id="p0017" num="0017">As described above, in the present disclosure, since the stable diffusion layer mainly formed of an Fe-Al-based intermetallic compound having a cubic structure is formed in excess of 50% of a total thickness of the plating layer on a surface of the plated steel sheet before hot press forming, hydrogen delayed fracture properties and spot welding properties of the hot press formed member may be remarkably improved.</p>
+<p id="p0018" num="0018">In addition, the present disclosure may provide a<!-- EPO <DP n="7"> --> method for manufacturing an iron-aluminum-based plated steel sheet capable of reducing manufacturing costs and improving productivity, while forming a stable diffusion layer mainly formed of an Fe-Al-based intermetallic compound having a cubic structure, by appropriately controlling Si and Mg components of a plating bath and process conditions of an alloying heat treatment and immediately performing a heat treatment without performing cooling after hot dip aluminum plating.</p>
+<heading id="h0007">[Description of Drawings]</heading>
+<p id="p0019" num="0019">
+<ul id="ul0001" list-style="none" compact="compact">
+<li><figref idref="f0001">FIG. 1</figref> schematically illustrates a manufacturing apparatus implementing a manufacturing method according to an aspect of the present disclosure.</li>
+<li><figref idref="f0001">FIG. 2</figref> is a photograph of a cross-section of an iron-aluminum-based plated steel sheet manufactured according to Inventive Example 1, observed with a scanning electron microscope (SEM).</li>
+<li><figref idref="f0002">FIG. 3</figref> is a photograph of a cross-section of an iron-aluminum-based plated steel sheet manufactured by Comparative Example 8, observed with an optical microscope.</li>
+<li><figref idref="f0002">FIG. 4</figref> is a photograph of a cross-section of a plating layer after hot press forming an iron-aluminum-based plated steel sheet manufactured according to Inventive Example 1, observed with an SEM.<!-- EPO <DP n="8"> --></li>
+<li><figref idref="f0003">FIG. 5</figref> is a photograph of a cross-section of a plating layer after hot press forming an aluminum-based plated steel sheet prepared according to Comparative Example 8, observed with an optical microscope.</li>
+</ul></p>
+<heading id="h0008">[Best Mode for Invention]</heading>
+<p id="p0020" num="0020">Hereinafter, the present disclosure will be described in detail.</p>
+<p id="p0021" num="0021">In the present disclosure, it should be appreciated that, when representing a content of each element, % refers to percent by weight (wt%), unless otherwise specified. In addition, the ratio of crystals or tissues is based on area unless otherwise indicated.</p>
+<p id="p0022" num="0022">The inventors of the present disclosure studied in depth alloy phases of several layers formed of an Fe-Al-based intermetallic compound formed on an aluminum-plated steel sheet during conventional hot press forming, and found that alloy phases (e.g., FeAl(Si), Fe<sub>3</sub>Al, etc.) having a cubic structure in the Fe-Al-based intermetallic compound are stable, while other alloy phases (e.g., FeAl<sub>3</sub>, Fe<sub>2</sub>Al<sub>5</sub>, etc.) were brittle.</p>
+<p id="p0023" num="0023">After a more in-depth study thereof, the inventors of the present disclosure found that hydrogen was removed from a member after hot press forming, and here, an aspect in which hydrogen was removed significantly varied<!-- EPO <DP n="9"> --> depending on what kind of plating phase was formed on a surface of a steel sheet before hot press forming. In particular, it was found that, in the formed alloy phase, when an orthorhombic crystal phase such as Fe<sub>2</sub>Al<sub>5</sub> was formed in a plating layer, movement of hydrogen was blocked and hydrogen in the steel sheet could not be discharged to the outside. Based on these results, the inventors of the present disclosure completed the present disclosure based upon recognition that, when a diffusion layer mainly formed of an Fe-Al-based intermetallic compound having a cubic structure is formed to exceed 50% of a total thickness of the plating layer, the diffusion layer is formed to be 90% or more in a member after hot press forming, thereby securing excellent hydrogen resistance properties.</p>
+<p id="p0024" num="0024">Hereinafter, an iron-aluminum-based plated steel sheet according to an aspect of the present disclosure will be described in detail.</p>
+<heading id="h0009">[Iron-aluminum-based plated steel sheet]</heading>
+<p id="p0025" num="0025">An iron-aluminum-based plated steel sheet according to an embodiment of the present disclosure includes: a base steel sheet; and a plating layer formed on a surface of the base steel sheet, wherein the plating layer includes: a diffusion layer including a Fe-Al-based intermetallic compound having a cubic structure; and an alloying layer formed on the diffusion layer and having a crystal structure<!-- EPO <DP n="10"> --> different from the cubic structure, wherein a thickness of the diffusion layer is 3 µm to 20 µm, and the thickness of the diffusion layer exceeds 50% of a total thickness of the plating layer.</p>
+<p id="p0026" num="0026">In general, when hot press forming is performed on an aluminum-plated steel sheet, Fe of a base steel sheet is diffused into an aluminum plating layer having a high Al content, resulting in an Fe-Al-based intermetallic compound, which is a variety of hard alloy phases of several layers. In this case, a layer mainly formed of the Fe-Al-based intermetallic compound having a cubic structure with excellent resistance to hydrogen embrittlement is formed on a side close to the base steel sheet, and is stable, but an alloy phase having a crystal structure such as orthorhombic system or the like is formed in a direction toward the surface. However, when such a crystal phase is formed in the plating layer, movement of hydrogen is blocked so that hydrogen in the steel sheet cannot be discharged to the outside, degrading hydrogen resistance properties.</p>
+<p id="p0027" num="0027">In order to solve the problem of the related art, in the iron-aluminum-based plated steel sheet according to an aspect of the present disclosure, a diffusion layer formed of an Fe-Al-based intermetallic compound having a cubic structure is formed to meet a condition of 3 µm to 20 µm and exceeding 50% of a total thickness of the plating layer, as<!-- EPO <DP n="11"> --> shown in <figref idref="f0001">FIG. 2</figref>.</p>
+<p id="p0028" num="0028">First, according to an embodiment of the present disclosure, the diffusion layer may include an Fe-Al-based intermetallic compound having a cubic structure. In addition, the diffusion layer may mainly include the Fe-Al-based intermetallic compound having a cubic structure.</p>
+<p id="p0029" num="0029">Specifically, according to an embodiment of the present disclosure, the diffusion layer may include 50% or more of an Fe-Al-based intermetallic compound having a cubic structure, preferably 80% or more, more preferably 90% or more, and most preferably 95% or more.</p>
+<p id="p0030" num="0030">In addition, according to an embodiment of the present disclosure, the diffusion layer mainly includes an Fe-Al-based intermetallic compound having a cubic structure and may also include inevitable impurities and a small amount of other elements that may be included in a plating bath.</p>
+<p id="p0031" num="0031">For example, when Mg is added, Mg may be partially included in an alloy phase of the Fe-Al-based intermetallic compound in the diffusion layer, and the diffusion layer may include other alloy phases including the Fe-Al-Mg-based alloy phase.</p>
+<p id="p0032" num="0032">It may be formed of an Fe-Al-based intermetallic compound having a cubic structure. In the Fe-Al-based intermetallic compound, the cubic structure is formed in a region with a relatively high Fe content, and is formed as<!-- EPO <DP n="12"> --> Fe of the base steel sheet is diffused into the aluminum plating layer during an alloying heat treatment. In addition, an alloy phase of the Fe-Al-based intermetallic compound having a cubic structure may include FeAl(Si), Fe<sub>3</sub>Al, etc. but is not limited thereto.</p>
+<p id="p0033" num="0033">If the thickness of the diffusion layer is less than 3 µm, corrosion resistance is inferior, whereas if the thickness of the diffusion layer exceeds 20 µm, welding properties is deteriorated. Therefore, the thickness of the diffusion layer is preferably limited to a thickness of 3 µm to 20 µm, and more preferably 3.7 µm to 17.9 µm.</p>
+<p id="p0034" num="0034">In addition, the thickness of the diffusion layer may be more than 50% of a total thickness of the plating layer including the alloying layer, or may be more than 54%. The thickness of the diffusion layer may be preferably 70% or more, and more preferably 90% or more. When the thickness of the diffusion layer exceeds 50% of the total thickness of the plating layer, a plating layer structure in which the thickness of the Fe-Al-based intermetallic compound having a cubic structure occupies 90% or more in the plating layer of the hot press formed member may be easily obtained. From a viewpoint of hydrogen resistance, a higher proportion of the Fe-Al-based intermetallic compound having a cubic structure is more preferable, and thus an upper limit thereof may not be limited.<!-- EPO <DP n="13"> --></p>
+<p id="p0035" num="0035">In addition, the thickness of the plating layer may be 4.5 µm to 20 µm. If the thickness of the plating layer is less than 4.5 µm, corrosion resistance may be inferior, while if the thickness of the plating layer exceeds 20 µm, it may be difficult to secure a diffusion layer more than 50% in the plating layer before hot press forming, and if ever, the thickness of the plating layer may be too thick after hot press forming, making it difficult to secure spot welding properties. Therefore, in the present disclosure, the thickness of the plating layer may be 4.5 µm to 20 µm, more preferably 4.5 µm to 18.9 µm.</p>
+<p id="p0036" num="0036">According to an embodiment of the present disclosure, the plating layer may include, by wt%, 0.0001% to 7% of Si, 1.1% to 15% of Mg, a balance of Al, and other inevitable impurities, when a remaining alloy composition excluding the Fe content diffused from the base steel sheet is 100%.</p>
+<p id="p0037" num="0037">In more detail, in an embodiment of the present disclosure, Si may be included in an amount of 0.0001% to 7%. Si serves to make alloying uniform with Fe in the plating layer, and in order to obtain such an effect, Si needs to be included in an amount of at least 0.0001% or more. Meanwhile, since Si also serves to inhibit diffusion of Fe, and thus, if Si is included in excess of 7%, diffusion of Fe may be excessively inhibited, and thus a desired<!-- EPO <DP n="14"> --> plating structure may not be obtained in the present disclosure. The Si content may be 0.03% to 7%, preferably 1% to 7%, and more preferably 4% to 7%.</p>
+<p id="p0038" num="0038">Meanwhile, Mg serves to improve corrosion resistance of the plated steel sheet and has an effect of increasing an alloying rate. In order to obtain the above effect, Mg needs to be included in an amount of at least 1.1% or more, but if Mg is included in excess of 15%, welding properties and paintability may be degraded. Thus, an Mg content may be 1.2% to 12.5%, more preferably 1.1% to 10%, and most preferably 1.1% to 5%. In addition, Mg in the plating layer tends to diffuse toward the surface, and thus, the Mg content measured at a depth of 0.5 µm from the surface of the plating layer with a glow discharge spectrometer (GDS) may be 1 wt% to 20 wt%.</p>
+<p id="p0039" num="0039">According to an embodiment of the present disclosure, oxygen measured at a depth of 0.1 µm from the surface of the plating layer with a GDS may be 10 wt% or less, and the GDS may be GDS 850A (device name) of LECO of the United States. If oxygen on the surface of the plating layer exceeds 10 wt%, stains may occur on the surface of the plated steel sheet, resulting in poor surface quality. Meanwhile, the less oxygen on the surface of the plating layer is more advantageous, and thus, a lower limit of the oxygen content may not be limited.<!-- EPO <DP n="15"> --></p>
+<p id="p0040" num="0040">According to an embodiment of the present disclosure, the base steel sheet (base iron), as a steel sheet for hot press forming, may not be particularly limited when used in hot press forming. However, as a non-limiting example, the base steel sheet may have a composition including, by wt%, 0.04% to 0.5% of carbon (C), 0.01% to 2% of silicon, 0.01% to 10% of manganese (Mn), 0.001% to 1.0% of aluminum (Al), 0.005% or less of phosphorus (P), 0.002% or less of silicon (Si), and 0.02% of less of nitrogen (N).</p>
+<heading id="h0010">C: 0.04% to 0.5%</heading>
+<p id="p0041" num="0041">Carbon (C) may be added in an appropriate amount as an essential element to increase strength of a heat treatment member. That is, in order to ensure sufficient strength of the heat treatment member, C may be added in an amount of 0.04% or more. Preferably, a lower limit of the C content may be 0.1% or more. However, if the C content is too high, when a cold rolled material is produced, strength of a hot rolled material is too high when cold rolling the hot rolled material, and thus, cold rolling properties may be significantly deteriorated and spot welding properties may be significantly lowered. Therefore, in order to ensure sufficient cold rolling property and spot welding properties, carbon (C) may be added in an amount of 0.5% or less. Also, the C content may be 0.45% or less, and more preferably, the C content may be limited to be 0.4% or<!-- EPO <DP n="16"> --> less.</p>
+<heading id="h0011">Si: 0.01% to 2%</heading>
+<p id="p0042" num="0042">Silicon (Si) should be added as a deoxidizer in steel making and also serves to inhibit an occurrence of a carbide, which has the greatest effect on strength of the hot rolled press formed member. In the present disclosure, Si may be added in an amount of 0.01% or more to secure residual austenite by concentrating carbon at martensite lath grain boundaries after the formation of martensite in hot press forming. In addition, an upper limit of the Si content may be set to 2% to ensure sufficient plating properties when performing aluminum plating on the steel sheet after rolling. Preferably, the Si content may be limited to 1.5% or less.</p>
+<heading id="h0012">Mn: 0.01% to 10%</heading>
+<p id="p0043" num="0043">Manganese (Mn) may be added in an amount of 0.01% or more to lower a critical cooling rate for securing martensite in the hot press formed member, as well as securing a solid solution strengthening effect. In addition, the Mn content may be limited to 10% or less in that hot press forming process workability is secured, manufacturing costs is reduced, and spot welding properties is improved by appropriately maintaining strength of the steel sheet. Preferably, the Mn content may be 9% or less, and in some cases, 8% or less.<!-- EPO <DP n="17"> --></p>
+<heading id="h0013">Al: 0.001% to 1.0%</heading>
+<p id="p0044" num="0044">Aluminum (Al) may increase cleanliness of the steel by deoxidizing the steel together with Si and may be added in an amount of 0.001% or more to obtain the above effect. In addition, the content of Al may be limited to 1.0% or less to prevent the Ac3 temperature from becoming too high, so that heating required during hot press forming may be performed within an appropriate temperature range.</p>
+<heading id="h0014">P: 0.05% or less</heading>
+<p id="p0045" num="0045">Phosphorus (P) is present as an impurity in the steel and a less content thereof is advantageous. Accordingly, in the present disclosure, the P content may be limited to 0.05% or less, and preferably, may be limited to 0.03% or less. Since a smaller amount of P is advantageous, there is no need to specifically set an upper limit of the content. However, excessive lowering the P content may lead to an increase in manufacturing costs, and in consideration thereof, a lower limit of the P content may be set to 0.001%.</p>
+<heading id="h0015">S: 0.02% or less</heading>
+<p id="p0046" num="0046">Since sulfur (S) is an impurity in the steel and is an element that inhibits ductility, impacts characteristics and welding properties of the member, thus, a maximum content of S is limited to 0.02%, and preferably, to 0.01% or less. In addition, if a minimum content thereof is less than 0.0001%, manufacturing costs may increase, so<!-- EPO <DP n="18"> --> a lower limit of the S content may be set to 0.0001%.</p>
+<heading id="h0016">N: 0.02% or less</heading>
+<p id="p0047" num="0047">Nitrogen (N) is an element included as an impurity in the steel. In order to reduce sensitivity to crack occurrence and secure impact characteristics during continuous slab casting, and, a lower content thereof is more advantageous, and therefore, N may be included in an amount of 0.02% or less. Although it is not necessary to set a lower limit, the N content may be set to 0.001% or more in consideration of an increase in manufacturing costs.</p>
+<p id="p0048" num="0048">In the present disclosure, optionally as necessary, in addition to the aforementioned steel composition, 0.01% to 4.0% of the sum of one or more selected from the group consisting of Cr, Mo, and W, 0.001% to 0.4% of the sum of one or more selected from the group consisting of Ti, Nb, Zr, and V, 0.005% to 2.0% of Cu + Ni, 0.001% to 1.0% of Sb + Sn, and 0.0001% to 0.01% of B may be additionally added.</p>
+<heading id="h0017">The sum of one or more selected from the group consisting of Cr, Mo and W: 0.01% to 4.0%</heading>
+<p id="p0049" num="0049">Since the Cr, Mo and W may secure strength and grain refinement through the improvement of hardenability and precipitation strengthening effect, one or more thereof may be added by 0.01% or more based on the total content. In addition, in order to secure welding properties of the<!-- EPO <DP n="19"> --> member, the content may be limited to 4.0% or less. In addition, if the content of these elements exceeds 4.0%, the effect is saturated, so the content may be limited to 4.0% or less.</p>
+<heading id="h0018">The sum of one or more selected from the group consisting of Ti, Nb, Zr, and V: 0.001% to 0.4%</heading>
+<p id="p0050" num="0050">The Ti, Nb, and V are effective in improving the strength of the heat treatment member by forming fine precipitates, stabilizing residual austenite and improving impact toughness by grain refinement, so one or more thereof may be added by 0.001% or more based on the total content. However, if the added amount exceeds 0.4%, the effect may be saturated and cost may increase due to excessive addition of ferroalloy.</p>
+<heading id="h0019">Cu + Ni: 0.005% to 2.0%</heading>
+<p id="p0051" num="0051">Copper (Cu) and nickel (Ni) are elements that improve strength by forming fine precipitates. In order to obtain the aforementioned effect, the sum of one or more of these components may be 0.005% or more. However, if the value exceeds 2.0%, costs may be excessively increased, and thus, an upper limit thereof may be set at 2.0%.</p>
+<heading id="h0020">Sb + Sn: 0.001% to 1.0%</heading>
+<p id="p0052" num="0052">Antimony (Sb) and tin (Sn) are concentrated on the surface during an annealing heat treatment for Al-Si plating to inhibit the formation of Si or Mn oxide on the<!-- EPO <DP n="20"> --> surface, thereby improving plating properties. 0.001% or more of Sb + Sn may be added to obtain such an effect. However, an addition amount of Sb + Sn exceeding 1.0% may incur excessive ferroalloy cost and cause Sb and Sn to be dissolved along grain boundaries of a slab to cause coil edge cracks during a hot rolling process. Thus, an upper limit thereof is set to 1.0%.</p>
+<heading id="h0021">B: 0.0001% to 0.01%</heading>
+<p id="p0053" num="0053">The addition of even a small amount of boron (B) improves hardenability. B segregates along prioraustenite grain boundaries to inhibit embrittlement of a hot press formed member based on grain boundary segregation of P and S. Thus, B may be added by 0.0001% or more. If the boron content exceeds 0.01%, the effect is saturated and causes brittleness at hot rolling, and thus, an upper limit of the boron content may be set to 0.01%, and in an implementation example, the boron content may be set to 0.005% or less.</p>
+<p id="p0054" num="0054">The balance other than the aforementioned components may include iron (Fe) and inevitable impurities, and addition of a component that may be included in the steel sheet for hot press forming may not be particularly limited.</p>
+<p id="p0055" num="0055">When the iron-aluminum-based plated steel sheet including the plating layer having the aforementioned layer structure is heat-treated in a temperature range of 880°C to<!-- EPO <DP n="21"> --> 950°C for 3 to 10 minutes and then hot press formed to manufacture a hot press formed member, at least 90% of the plating layer of the hot press formed member may be formed of an Fe-Al-based intermetallic compound having a cubic structure, and thus, hydrogen that has penetrated into the steel material may easily escape during hot press forming and a diffusive hydrogen content in the steel material may be 0.1 ppm or less, thereby improving hydrogen resistance properties. In addition, a spot welding current range satisfies 1 kA or more, so that spot welding properties may be improved.</p>
+<p id="p0056" num="0056">Hereinafter, a method of manufacturing an iron-aluminum-based plated steel sheet for hot press forming according to another aspect of the present disclosure will be described in detail. However, the following method of manufacturing an iron-aluminum-based plated steel sheet for hot press forming is only an example and it does not mean that the iron-aluminum-based plated steel sheet for hot press forming according to the present disclosure must be manufactured by this manufacturing method. It should be appreciated that any method may be used to implement each embodiment of the present disclosure if it satisfies the claims of the disclosure.</p>
+<heading id="h0022">[Method of manufacturing iron-aluminum-based plated steel sheet]</heading><!-- EPO <DP n="22"> -->
+<p id="p0057" num="0057">An iron-aluminum-based plated steel sheet according to another aspect of the present disclosure may be obtained by performing aluminum plating on a surface of a hot rolled or cold rolled base steel sheet with a coating amount of 10~40g/m<sup>2</sup> per side and performing an online alloying treatment by performing a heat-treatment immediately after the plating process.</p>
+<heading id="h0023">Step of obtaining an aluminum plated steel sheet</heading>
+<p id="p0058" num="0058">In an embodiment of the present disclosure, a base steel sheet is prepared and immersed in an aluminum plating bath including, by wt%, 0.0001% to 7% of Si, 1.1% to 15% of Mg, a balance of Al, and other inevitable impurities to plate a surface of the base steel sheet with aluminum with a coating amount of 10 to 40 g/m<sup>2</sup> per side to obtain an aluminum plated steel sheet. Meanwhile, the coating amount may be more preferably 11 to 38 g/m<sup>2</sup> per side. In addition, annealing may be selectively performed on the steel sheet before plating.</p>
+<heading id="h0024">Step of spraying aluminum powder</heading>
+<p id="p0059" num="0059">After the aluminum plating, aluminum powder may be sprayed on the surface of the aluminum-plated steel sheet as needed. The aluminum powder not only cools the surface locally but also may refine surface spangle. Here, when only the surface is locally cooled by aluminum powder, diffusion of Mg in the plating layer to the surface in the<!-- EPO <DP n="23"> --> subsequent online alloying process may be more inhibited, thereby reducing a Mg oxide generated by diffusion of Mg to the surface after hot press forming and improving spot welding properties. In addition, the surface may be uniformly formed after hot press forming by refining the surface spangle.</p>
+<p id="p0060" num="0060">An average particle diameter of the aluminum powder may be 5 µm to 40 µm, and more preferably 10 µm to 30 µm. If the average particle diameter of the aluminum powder is less than 5 µm, the surface cooling and spangle refinement effect may be insufficient, whereas if the average particle diameter exceeds 40 µm, the aluminum powder may not be sufficiently dissolved in the plating layer and remain on the surface, resulting in a surface quality problem.</p>
+<p id="p0061" num="0061">In the present disclosure, a spraying amount of the aluminum powder may be determined within a limit that satisfies a condition that a surface temperature does not fall below 640°C after powder spraying. If the surface temperature of the steel sheet after powder spraying falls below 640°C, more power has to be applied for alloying in a subsequent online alloying heat treatment, causing an equipment load. The spraying amount of the aluminum powder is related to the surface temperature of the steel sheet, but the surface temperature of the steel sheet may vary significantly depending on process conditions, equipment,<!-- EPO <DP n="24"> --> and environmental conditions at the time of implementation, and thus cannot be uniformly determined. Therefore, since the spraying amount of aluminum powder satisfying the above condition may be sufficient, and a specific range of the spraying amount may not be particularly limited. However, as a non-limiting example, the aluminum powder may be sprayed within a range of 0.01 to 10 g per 1 m<sup>2</sup> of the aluminum plated steel sheet.</p>
+<heading id="h0025">Step of obtaining iron-aluminum-based plated steel sheet by performing alloying heat treatment</heading>
+<p id="p0062" num="0062">After the aluminum plating, an online alloying treatment of performing a heat treatment immediately after performing minimal air cooling may be performed. In addition, in the case of selectively spraying aluminum powder after aluminum plating, the online alloying treatment may be performed immediately after powder spraying. Here, a heating temperature range during the alloying heat treatment may be 670°C to 900°C, and a holding time may be 1 to 20 seconds.</p>
+<p id="p0063" num="0063">In the present disclosure, the online alloying treatment refers to a process of heat treatment by heating after minimum air cooling after hot-dip aluminum plating or hot-dip aluminum plating and aluminum powder spraying, as shown in <figref idref="f0001">FIG. 1</figref>. In the online alloying method according to the present disclosure, since the heat treatment starts<!-- EPO <DP n="25"> --> before the plating layer is cooled and hardened after hot-dip aluminum plating, the heat treatment may be performed within a short time without requiring a separate heating process. In the general aluminum-plated steel sheet having a thick plating layer, alloying could not be completed within a short time due to a thickness thereof, and thus, it was difficult to apply the online alloying method of performing a heat-treatment immediately after plating. In contrast, in the present disclosure, alloying of the aluminum plating layer may be effectively completed despite a short heat treatment time of 1 to 20 seconds by adjusting the plating bath components described above and controlling a coating amount of the aluminum plating layer to 10 to 40 g/m<sup>2</sup> per side.</p>
+<p id="p0064" num="0064">The heating temperature is based on a surface temperature of the steel sheet to be heat-treated. If the heating temperature is lower than 670°C, insufficient alloying may occur. Meanwhile, if the heating temperature exceeds 900°C, it is difficult to cool after alloying, and if the cooling rate is increased, strength of the base steel sheet may become too high. Therefore, the heating temperature during the alloying heat treatment is preferably limited to 670°C to 900°C, more preferably 680°C to 880°C, and most preferably 700°C to 800°C.</p>
+<p id="p0065" num="0065">Meanwhile, during the alloying heat treatment,<!-- EPO <DP n="26"> --> the holding time may be limited to 1 to 20 seconds. In the present disclosure, the holding time refers to a time during which the heating temperature (including deviation ±10°C) is maintained in the steel sheet. If the holding time is less than 1 second, the heating time is too short to achieve sufficient alloying. Meanwhile, if the holding time exceeds 20 seconds, productivity may be too low. Therefore, the holding time during the alloying heat treatment is preferably limited to 1 to 20 seconds, more preferably 1 to 12 seconds, and most preferably 1 to 10 seconds.</p>
+<p id="p0066" num="0066">The formation of the diffusion layer through the alloying heat treatment depends on a heat treatment temperature and a holding time and is also affected by the content of Si and Mg included in the aluminum plating layer. As the amount of Si included in the aluminum plating layer decreases and the amount of Mg increases, an alloying rate may increase, and thus the thickness of the diffusion layer may increase. In the case of performing the online heat treatment as in the present disclosure, since the heat treatment time is relatively very short compared to a phase annealing method, a diffusion layer having a sufficient thickness cannot be obtained unless the process conditions are precisely controlled. Accordingly, the inventors of the present disclosure controlled the Si and Mg contents and heat treatment conditions, thereby effectively obtaining a<!-- EPO <DP n="27"> --> diffusion layer having a sufficient thickness despite a short heat treatment time of 1 to 20 seconds.</p>
+<p id="p0067" num="0067">Meanwhile, according to another embodiment of the present disclosure, a hot press formed member obtained by hot press forming the iron-aluminum-based plated steel sheet of the present disclosure may be provided. Here, hot press forming may use a method generally used in the art. For example, the iron-aluminum-based plated steel sheet according to the present disclosure may be heated in a temperature range of 880°C to 950°C for 3 to 10 minutes, and the heated steel sheet may be hot press formed to have a desired shape using pressing, but the present disclosure is not limited thereto. In addition, in the hot press formed member of the present disclosure, a thickness of a diffusion layer formed of an Fe-Al-based intermetallic compound having a cubic structure on a surface of a base steel sheet may be 90% or more of the total thickness of a plating layer. In addition, a composition of the base steel sheet of the hot press formed member may be the same as a composition of the base steel sheet of the iron-aluminum-based plated steel sheet described above.</p>
+<heading id="h0026">[Mode for Invention]</heading>
+<p id="p0068" num="0068">Hereinafter, the present disclosure will be described more specifically by way of example. It should be<!-- EPO <DP n="28"> --> noted that the following examples are intended to illustrate the present disclosure in more detail and to not limit the scope of the present disclosure. The scope of the present disclosure may be determined by the matters described in the claims and the matters reasonably deduced therefrom.</p>
+<heading id="h0027">(Example)</heading>
+<p id="p0069" num="0069">First, a cold-rolled steel sheet for hot press forming having the composition of Table 1 below was prepared as a base steel sheet, and aluminum plating and alloying heat treatment were performed on a surface of the base steel sheet with a plating bath composition, a plating bath temperature of 660°C, and an alloying heat treatment conditions shown in Table 2.</p>
+<p id="p0070" num="0070">After cooling followed by the alloying heat treatment, a structure of an alloyed plating layer of the iron-aluminum plated steel sheet obtained by the above method was observed with an optical microscope and a scanning electron microscope (SEM) to identify a thickness of the plating layer and the diffusion layer.</p>
+<p id="p0071" num="0071">In addition, an energy dispersive spectroscopy (EDS) analysis was performed on a diffusion layer portion of <figref idref="f0001">FIG. 2</figref> observed with an alloyed layer portion by the SEM to confirm phases of Fe<sub>3</sub>Al and FeAl having a cubic structure.</p>
+<p id="p0072" num="0072">In addition, in <figref idref="f0001">FIG. 2</figref>, an EDS analysis was performed on a portion of the alloyed layer formed on the<!-- EPO <DP n="29"> --> diffusion layer to detect, by wt%, 48% of Al, 50% of Fe, and 2% of Si, and it was confirmed that the phase was Fe<sub>2</sub>Als having an orthorhombic structure, not a cubic structure.
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>[Table 1]</title>
+<tgroup cols="11">
+<colspec colnum="1" colname="col1" colwidth="23mm"/>
+<colspec colnum="2" colname="col2" colwidth="12mm"/>
+<colspec colnum="3" colname="col3" colwidth="12mm"/>
+<colspec colnum="4" colname="col4" colwidth="10mm"/>
+<colspec colnum="5" colname="col5" colwidth="12mm"/>
+<colspec colnum="6" colname="col6" colwidth="12mm"/>
+<colspec colnum="7" colname="col7" colwidth="14mm"/>
+<colspec colnum="8" colname="col8" colwidth="15mm"/>
+<colspec colnum="9" colname="col9" colwidth="10mm"/>
+<colspec colnum="10" colname="col10" colwidth="12mm"/>
+<colspec colnum="11" colname="col11" colwidth="15mm"/>
+<tbody>
+<row>
+<entry>Element</entry>
+<entry>C</entry>
+<entry>Si</entry>
+<entry>Mn</entry>
+<entry>Al</entry>
+<entry>P</entry>
+<entry>S</entry>
+<entry>N</entry>
+<entry>Cr</entry>
+<entry>Ti</entry>
+<entry>B</entry></row>
+<row>
+<entry>Content (%)</entry>
+<entry>0.22</entry>
+<entry>0.20</entry>
+<entry>1.2</entry>
+<entry>0.03</entry>
+<entry>0.01</entry>
+<entry>0.002</entry>
+<entry>0.0054</entry>
+<entry>0.2</entry>
+<entry>0.03</entry>
+<entry>0.0025</entry></row></tbody></tgroup>
+</table>
+</tables>
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>[Table 2]</title>
+<tgroup cols="10">
+<colspec colnum="1" colname="col1" colwidth="25mm"/>
+<colspec colnum="2" colname="col2" colwidth="20mm"/>
+<colspec colnum="3" colname="col3" colwidth="19mm"/>
+<colspec colnum="4" colname="col4" colwidth="19mm"/>
+<colspec colnum="5" colname="col5" colwidth="32mm"/>
+<colspec colnum="6" colname="col6" colwidth="18mm"/>
+<colspec colnum="7" colname="col7" colwidth="17mm"/>
+<colspec colnum="8" colname="col8" colwidth="29mm"/>
+<colspec colnum="9" colname="col9" colwidth="31mm"/>
+<colspec colnum="10" colname="col10" colwidth="34mm"/>
+<thead>
+<row>
+<entry morerows="1" valign="top">Classification</entry>
+<entry namest="col2" nameend="col4" align="left" valign="top">Aluminum plating condition</entry>
+<entry valign="top">Average particle diameter of Al (<i>µ</i>m)</entry>
+<entry namest="col6" nameend="col7" align="left" valign="top">Alloying heat treatment condition</entry>
+<entry namest="col8" nameend="col10" align="left" valign="top">Plating layer of steel sheet</entry></row>
+<row>
+<entry valign="top">Coating amount (g/m<sup>2</sup>)</entry>
+<entry valign="top">Si content (Wt.%)</entry>
+<entry valign="top">Mg content (Wt.%)</entry>
+<entry valign="top"/>
+<entry valign="top">Temper ature (°C)</entry>
+<entry valign="top">Time (sec.)</entry>
+<entry valign="top">Thickness of plating layer (µm)</entry>
+<entry valign="top">Thickness of diffusion layer (<i>µ</i>m)</entry>
+<entry valign="top">Ratio of thickness of diffusion layer (%)</entry></row></thead>
+<tbody>
+<row>
+<entry>Inventive Example1</entry>
+<entry>38</entry>
+<entry>6.8</entry>
+<entry>12.5</entry>
+<entry>25</entry>
+<entry>680</entry>
+<entry>10</entry>
+<entry>15.1</entry>
+<entry>8.2</entry>
+<entry>54</entry></row>
+<row>
+<entry>Inventive Example 2</entry>
+<entry>38</entry>
+<entry>6.8</entry>
+<entry>12.5</entry>
+<entry>25</entry>
+<entry>800</entry>
+<entry>10</entry>
+<entry>16.8</entry>
+<entry>10.2</entry>
+<entry>61</entry></row>
+<row>
+<entry>Inventive Example 3</entry>
+<entry>38</entry>
+<entry>6.8</entry>
+<entry>12.5</entry>
+<entry>25</entry>
+<entry>880</entry>
+<entry>10</entry>
+<entry>17.8</entry>
+<entry>12.5</entry>
+<entry>70</entry></row>
+<row>
+<entry>Comparative Example 1</entry>
+<entry>38</entry>
+<entry>6.8</entry>
+<entry>12.5</entry>
+<entry>25</entry>
+<entry><u>600</u></entry>
+<entry>10</entry>
+<entry>13.3</entry>
+<entry>6.1</entry>
+<entry><u>46</u></entry></row>
+<row>
+<entry>Comparative Example 2</entry>
+<entry>38</entry>
+<entry>6.8</entry>
+<entry>12.5</entry>
+<entry>25</entry>
+<entry><u>950</u></entry>
+<entry>10</entry>
+<entry><u>23.3</u></entry>
+<entry><u>21.2</u></entry>
+<entry>91</entry></row><!-- EPO <DP n="30"> -->
+<row>
+<entry>Inventive Example 4</entry>
+<entry>37</entry>
+<entry>1.2</entry>
+<entry>10.7</entry>
+<entry>30</entry>
+<entry>680</entry>
+<entry>1</entry>
+<entry>16.2</entry>
+<entry>10.8</entry>
+<entry>67</entry></row>
+<row>
+<entry>Inventive Example 5</entry>
+<entry>37</entry>
+<entry>1.2</entry>
+<entry>10.7</entry>
+<entry>30</entry>
+<entry>800</entry>
+<entry>1</entry>
+<entry>17.8</entry>
+<entry>13.5</entry>
+<entry>76</entry></row>
+<row>
+<entry>Inventive Example 6</entry>
+<entry>37</entry>
+<entry>1.2</entry>
+<entry>10.7</entry>
+<entry>30</entry>
+<entry>880</entry>
+<entry>1</entry>
+<entry>18.9</entry>
+<entry>17.9</entry>
+<entry>95</entry></row>
+<row>
+<entry>Comparative Example 3</entry>
+<entry>37</entry>
+<entry>1.2</entry>
+<entry>10.7</entry>
+<entry>30</entry>
+<entry>680</entry>
+<entry><u>0.1</u></entry>
+<entry>15.4</entry>
+<entry>7.2</entry>
+<entry><u>47</u></entry></row>
+<row>
+<entry>Comparative Example 4</entry>
+<entry>37</entry>
+<entry>1.2</entry>
+<entry>10.7</entry>
+<entry>30</entry>
+<entry><u>600</u></entry>
+<entry>5</entry>
+<entry>15.1</entry>
+<entry><u>2.9</u></entry>
+<entry><u>19</u></entry></row>
+<row>
+<entry>Comparative Example 5</entry>
+<entry>37</entry>
+<entry>1.2</entry>
+<entry>10.7</entry>
+<entry>30</entry>
+<entry>880</entry>
+<entry><u>25</u></entry>
+<entry><u>22.7</u></entry>
+<entry>19.4</entry>
+<entry>85</entry></row>
+<row>
+<entry>Comparative Example 6</entry>
+<entry>37</entry>
+<entry>1.2</entry>
+<entry>10.7</entry>
+<entry>30</entry>
+<entry><u>950</u></entry>
+<entry>5</entry>
+<entry><u>27.4</u></entry>
+<entry><u>26.8</u></entry>
+<entry>98</entry></row>
+<row>
+<entry>Inventive Example 7</entry>
+<entry>15</entry>
+<entry>4.2</entry>
+<entry>5.3</entry>
+<entry>10</entry>
+<entry>680</entry>
+<entry>3</entry>
+<entry>5.5</entry>
+<entry>3.8</entry>
+<entry>69</entry></row>
+<row>
+<entry>Inventive Example 8</entry>
+<entry>15</entry>
+<entry>4.2</entry>
+<entry>5.3</entry>
+<entry>10</entry>
+<entry>800</entry>
+<entry>3</entry>
+<entry>5.7</entry>
+<entry>4.7</entry>
+<entry>82</entry></row>
+<row>
+<entry>Inventive Example 9</entry>
+<entry>15</entry>
+<entry>4.2</entry>
+<entry>5.3</entry>
+<entry>10</entry>
+<entry>880</entry>
+<entry>3</entry>
+<entry>5.8</entry>
+<entry>5.6</entry>
+<entry>97</entry></row>
+<row>
+<entry>Inventive Example 10</entry>
+<entry>11</entry>
+<entry>0.03</entry>
+<entry>1.2</entry>
+<entry>16</entry>
+<entry>680</entry>
+<entry>12</entry>
+<entry>4.5</entry>
+<entry>3.7</entry>
+<entry>82</entry></row>
+<row>
+<entry>Inventive Example 11</entry>
+<entry>11</entry>
+<entry>0.03</entry>
+<entry>1.2</entry>
+<entry>16</entry>
+<entry>800</entry>
+<entry>12</entry>
+<entry>5.2</entry>
+<entry>4.5</entry>
+<entry>87</entry></row>
+<row>
+<entry>Inventive Example 12</entry>
+<entry>11</entry>
+<entry>0.03</entry>
+<entry>1.2</entry>
+<entry>16</entry>
+<entry>880</entry>
+<entry>12</entry>
+<entry>5.7</entry>
+<entry>5.4</entry>
+<entry>95</entry></row>
+<row>
+<entry>Comparative Example 7</entry>
+<entry>35</entry>
+<entry>5.5</entry>
+<entry><u>0</u></entry>
+<entry><u>3</u></entry>
+<entry>800</entry>
+<entry>10</entry>
+<entry>5.7</entry>
+<entry><u>2.8</u></entry>
+<entry><u>49</u></entry></row><!-- EPO <DP n="31"> -->
+<row>
+<entry>Comparative Example 8</entry>
+<entry><u>50</u></entry>
+<entry>6.5</entry>
+<entry>7.8</entry>
+<entry>18</entry>
+<entry>800</entry>
+<entry>10</entry>
+<entry><u>26.7</u></entry>
+<entry>5.5</entry>
+<entry><u>21</u></entry></row>
+<row>
+<entry>Comparative Example 9</entry>
+<entry>35</entry>
+<entry><u>13.4</u></entry>
+<entry>1.5</entry>
+<entry><u>55</u></entry>
+<entry>800</entry>
+<entry>10</entry>
+<entry>17.8</entry>
+<entry><u>2.4</u></entry>
+<entry><u>13</u></entry></row>
+<row>
+<entry>Comparative Example 10</entry>
+<entry>35</entry>
+<entry><u>0</u></entry>
+<entry><u>17.8</u></entry>
+<entry>22</entry>
+<entry>800</entry>
+<entry>10</entry>
+<entry><u>34.7</u></entry>
+<entry>18.9</entry>
+<entry>54</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0073" num="0073">Thereafter, each iron-aluminum-based steel sheet was heated at 930°C for 6 minutes in an atmospheric atmosphere and was subsequently subjected to hot press forming to obtain a hot press formed member. Thereafter, a structure of a plating layer of the member was observed to measure a content of diffusible hydrogen and spot welding properties, which are shown in Table 3 below. To measure the content of diffusible hydrogen, a hydrogen content discharged by heating the sample to 300°C was measured using a gas chromatography technique, and spot welding properties were evaluated based on ISO 18278 to analyze a current range.
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>[Table 3]</title>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" colwidth="27mm"/>
+<colspec colnum="2" colname="col2" colwidth="30mm"/>
+<colspec colnum="3" colname="col3" colwidth="28mm"/>
+<colspec colnum="4" colname="col4" colwidth="30mm"/>
+<colspec colnum="5" colname="col5" colwidth="28mm"/>
+<colspec colnum="6" colname="col6" colwidth="25mm"/>
+<thead>
+<row>
+<entry morerows="1" valign="top">Classification</entry>
+<entry namest="col2" nameend="col3" align="left" valign="top">Iron-aluminum-based plated steel sheet</entry>
+<entry namest="col4" nameend="col6" align="left" valign="top">Hot press formed member</entry></row>
+<row>
+<entry valign="top">Ratio of thickness of diffusion layer (%)</entry>
+<entry valign="top">Content of diffusible hydrogen (ppm)</entry>
+<entry valign="top">Ratio of thickness of diffusion layer (%)</entry>
+<entry valign="top">Content of diffusible hydrogen (ppm)</entry>
+<entry valign="top">Spot welding current range (kA)</entry></row></thead>
+<tbody>
+<row>
+<entry>Inventive Example1</entry>
+<entry>54</entry>
+<entry>0.01</entry>
+<entry>99</entry>
+<entry>0.05</entry>
+<entry>1.6</entry></row><!-- EPO <DP n="32"> -->
+<row>
+<entry>Inventive Example 2</entry>
+<entry>61</entry>
+<entry>0.02</entry>
+<entry>100</entry>
+<entry>0.04</entry>
+<entry>1.6</entry></row>
+<row>
+<entry>Inventive Example 3</entry>
+<entry>70</entry>
+<entry>0.01</entry>
+<entry>100</entry>
+<entry>0.02</entry>
+<entry>1.4</entry></row>
+<row>
+<entry>Comparative Example 1</entry>
+<entry>46</entry>
+<entry>0.02</entry>
+<entry><u>82</u></entry>
+<entry><u>0.24</u></entry>
+<entry>1.8</entry></row>
+<row>
+<entry>Comparative Example 2</entry>
+<entry>91</entry>
+<entry>0.02</entry>
+<entry>100</entry>
+<entry>0.03</entry>
+<entry><u>0.6</u></entry></row>
+<row>
+<entry>Inventive Example 4</entry>
+<entry>67</entry>
+<entry>0.01</entry>
+<entry>96</entry>
+<entry>0.08</entry>
+<entry>1.6</entry></row>
+<row>
+<entry>Inventive Example 5</entry>
+<entry>76</entry>
+<entry>0.007</entry>
+<entry>96</entry>
+<entry>0.07</entry>
+<entry>1.6</entry></row>
+<row>
+<entry>Inventive Example 6</entry>
+<entry>95</entry>
+<entry>0.01</entry>
+<entry>97</entry>
+<entry>0.06</entry>
+<entry>1.4</entry></row>
+<row>
+<entry>Comparative Example 3</entry>
+<entry>47</entry>
+<entry>0.01</entry>
+<entry><u>75</u></entry>
+<entry><u>0.28</u></entry>
+<entry>1.8</entry></row>
+<row>
+<entry>Comparative Example 4</entry>
+<entry>19</entry>
+<entry>0.01</entry>
+<entry><u>52</u></entry>
+<entry><u>0.52</u></entry>
+<entry>1.8</entry></row>
+<row>
+<entry>Comparative Example 5</entry>
+<entry>85</entry>
+<entry>0.02</entry>
+<entry>100</entry>
+<entry>0.05</entry>
+<entry><u>0.4</u></entry></row>
+<row>
+<entry>Comparative Example 6</entry>
+<entry>98</entry>
+<entry>0.01</entry>
+<entry>100</entry>
+<entry>0.05</entry>
+<entry><u>0.2</u></entry></row>
+<row>
+<entry>Inventive Example 7</entry>
+<entry>69</entry>
+<entry>0.02</entry>
+<entry>97</entry>
+<entry>0.06</entry>
+<entry>2.2</entry></row>
+<row>
+<entry>Inventive Example 8</entry>
+<entry>82</entry>
+<entry>0.01</entry>
+<entry>100</entry>
+<entry>0.02</entry>
+<entry>2.0</entry></row>
+<row>
+<entry>Inventive Example 9</entry>
+<entry>97</entry>
+<entry>0.02</entry>
+<entry>100</entry>
+<entry>0.03</entry>
+<entry>2.0</entry></row>
+<row>
+<entry>Inventive Example 10</entry>
+<entry>82</entry>
+<entry>0.01</entry>
+<entry>100</entry>
+<entry>0.03</entry>
+<entry>1.6</entry></row><!-- EPO <DP n="33"> -->
+<row>
+<entry>Inventive Example 11</entry>
+<entry>87</entry>
+<entry>0.008</entry>
+<entry>100</entry>
+<entry>0.02</entry>
+<entry>1.6</entry></row>
+<row>
+<entry>Inventive Example 12</entry>
+<entry>95</entry>
+<entry>0.01</entry>
+<entry>100</entry>
+<entry>0.02</entry>
+<entry>1.6</entry></row>
+<row>
+<entry>Comparative Example 7</entry>
+<entry>49</entry>
+<entry>0.01</entry>
+<entry><u>48</u></entry>
+<entry><u>0.58</u></entry>
+<entry>2.0</entry></row>
+<row>
+<entry>Comparative Example 8</entry>
+<entry>21</entry>
+<entry>0.004</entry>
+<entry><u>64</u></entry>
+<entry><u>0.34</u></entry>
+<entry>1.6</entry></row>
+<row>
+<entry>Comparative Example 9</entry>
+<entry>13</entry>
+<entry>0.02</entry>
+<entry>35</entry>
+<entry>0.6</entry>
+<entry>0.4</entry></row>
+<row>
+<entry>Comparative Example 10</entry>
+<entry>54</entry>
+<entry>0.01</entry>
+<entry><u>94</u></entry>
+<entry>0.08</entry>
+<entry><u>0.8</u></entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0074" num="0074">As can be seen in Tables 1 to 3, Inventive Examples 1 to 12 satisfy all of the plating bath components and the alloying heat treatment conditions presented in the present disclosure, and the ratio of the thickness of the diffusion layer including an alloy phase of the Fe-Al-based intermetallic compound having a cubic structure in the plated steel sheet was 50% or more.</p>
+<p id="p0075" num="0075">In addition, it can be seen that the diffusive hydrogen content in the steel was 0.1 ppm or less, and the spot welding current range satisfied 1 kA or more when the hot press formed member was manufactured, so that the hydrogen delayed fracture properties and spot welding properties are excellent.</p>
+<p id="p0076" num="0076">However, in Comparative Examples 1 and 4, the<!-- EPO <DP n="34"> --> alloying heat treatment temperature was lower than 670°C, and Comparative Example 1 had a diffusion layer thickness ratio of 50% or less because the diffusion layer was not sufficiently formed, and Comparative Example 4 had a diffusion layer having a thickness less than 3 µm. Accordingly, in the hot press formed members manufactured with the plated steel sheets of Comparative Examples 1 and 4, the ratio of the thickness of the diffusion layer was less than 90%, and hydrogen did not easily escape, so that the content of diffusible hydrogen was 0.1 ppm or more, degrading hydrogen resistance.</p>
+<p id="p0077" num="0077">In Comparative Examples 2 and 6, the alloying heat treatment temperature exceeded 900°C, and the thickness of the plating layer and the diffusion layer exceeded 20 µm. Accordingly, in the hot press formed member, the spot welding point current range was less than 1 kA, resulting in poor spot welding properties.</p>
+<p id="p0078" num="0078">Meanwhile, Comparative Examples 3 and 5 are cases in which a holding time during the alloying heat treatment is outside of the range of the present disclosure. In the case of Comparative Example 3, the heat treatment time was too short to sufficiently form the diffusion layer, so the ratio of the thickness of the diffusion layer of the hot press formed member was low as 75%, degrading hydrogen resistance. In addition, in the case of Comparative Example<!-- EPO <DP n="35"> --> 6, the heat treatment time was as long as 25 seconds, so that the thickness of the plating layer exceeded 20 µm, resulting in poor spot welding properties.</p>
+<p id="p0079" num="0079">Comparative Examples 7, 9 and 10 are examples in which the Si or Mg content of components of the aluminum plating bath does not satisfy the conditions of the present disclosure. Comparative Example 7 is a case in which Mg was not added and Comparative Example 9 is a case in which Si was added in excess of 7%, and the diffusion layer was not sufficiently formed due to a low alloying rate. As a result, the content of diffusible hydrogen in the steel increased in the hot press formed member, hydrogen resistance decreased. In addition, in Comparative Example 10, Mg was added in excess of 15%, so that the plating layer was formed to a thickness exceeding 20 µm, and accordingly, spot welding properties were poor.</p>
+<p id="p0080" num="0080">Comparative Example 8 is a case in which the amount of aluminum plating is outside of the scope of the present disclosure, the thickness of the plating layer increased to 26.7 µm, the ratio of the thickness of the diffusion layer was reduced to degrade hydrogen resistance.</p>
+<p id="p0081" num="0081">While embodiments of the present disclosure have been shown and described, it will be apparent to those skilled in the art that modifications and variations could be made without departing from the scope of the present<!-- EPO <DP n="36"> --> disclosure. Therefore, the scope of the present disclosure is not limited to the embodiments but should be defined by the appended claims and equivalents thereof.</p>
+<heading id="h0028">[DETAILED DESCRIPTION OF MAIN ELEMENTS]</heading>
+<p id="p0082" num="0082">
+<dl id="dl0001" compact="compact">
+<dt>1:</dt><dd>HEAT TREATMENT FURNACE</dd>
+<dt>2:</dt><dd>ALUMINUM PLATING BATH</dd>
+<dt>3:</dt><dd>ALUMINUM POWDER SPRAY DEVICE</dd>
+<dt>4:</dt><dd>ALLOYING HEAT TREATMENT DEVICE</dd>
+</dl></p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="37"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>An iron-aluminum-based plated steel sheet for hot press forming, the iron-aluminum-based plated steel sheet comprising:
+<claim-text>a base steel sheet; and</claim-text>
+<claim-text>a plating layer formed on a surface of the base steel sheet,</claim-text>
+<claim-text>wherein the plating layer includes:
+<claim-text>a diffusion layer including a Fe-Al-based intermetallic compound having a cubic structure; and</claim-text>
+<claim-text>an alloying layer formed on the diffusion layer and having a crystal structure different from the cubic structure,</claim-text></claim-text>
+<claim-text>wherein a thickness of the diffusion layer is 3 µm to 20 µm, and the thickness of the diffusion layer exceeds 50% of a total thickness of the plating layer.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The iron-aluminum-based plated steel sheet of claim 1, wherein a thickness of the plating layer is 5 µm to 20 µm.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The iron-aluminum-based plated steel sheet of claim 1,<!-- EPO <DP n="38"> --> wherein the plating layer includes, by wt%, 0.0001% to 7% of silicon (Si), 1.1% to 15% of magnesium (Mg), a balance of aluminum (Al), and other inevitable impurities, when a remaining alloy composition excluding an Fe content diffused from the base steel sheet is 100%.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The iron-aluminum-based plated steel sheet of claim 1, wherein the base steel sheet includes, by wt%, 0.04% to 0.5% of carbon (C), 0.01% to 2% of silicon (Si), 0.01% to 10% of manganese (Mn), 0.001% to 1.0% of aluminum (Al), 0.05% or less of phosphorus (P), 0.02% or less of silicon (S), 0.02% or less of nitrogen (N), a balance of iron (Fe), and other inevitable impurities.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The iron-aluminum-based plated steel sheet of claim 4, wherein the base steel sheet further includes, by wt%, one or more of 0.01% to 4.0% of the sum of one or more selected from the group consisting of chromium (Cr), molybdenum (Mo), and tungsten (W), 0.001% to 0.4% of the sum of one or more selected from the group consisting of titanium (Ti), niobium (Nb), zirconium (Zr), and vanadium (V), 0.005% to 2.0% of copper (Cu)+nickel (Ni), 0.001% to 1.0% of antimony (Sb)+tin<!-- EPO <DP n="39"> --> (Sn), and 0.0001% to 0.01% of boron (B).</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>A hot press formed member obtained by hot press forming the iron-aluminum-based plated steel sheet according to any one of claims 1 to 5, wherein the thickness of the diffusion layer is 90% or more of the total thickness of the plating layer.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The hot press formed member of claim 6, wherein a content of diffusible hydrogen in the hot press formed member is 0.1 ppm or less, and a spot welding current range of the hot press formed member is 1 kA or more.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>A method of manufacturing an iron-aluminum-based plated steel sheet for hot press forming, the method comprising:
+<claim-text>preparing a base steel sheet;</claim-text>
+<claim-text>obtaining an aluminum plated steel sheet through dipping the base steel sheet in an aluminum plating bath including, by wt%, 0.0001% to 7% of silicon (Si), 1.1% to 15% of magnesium (Mg), a balance of aluminum (Al), and other<!-- EPO <DP n="40"> --> inevitable impurities to plate the base steel sheet with a coating amount of 10 to 40 g/m<sup>2</sup> per side; and</claim-text>
+<claim-text>obtaining an iron-aluminum-based plated steel sheet through online alloying of performing a heat treatment by maintaining the aluminum plated steel sheet for 1 to 20 seconds within a heating temperature range of 670°C to 900°C after the plating.</claim-text></claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>The method of claim 8, further comprising spraying aluminum powder particles onto a surface of the aluminum plated steel sheet, after obtaining the aluminum plated steel sheet.</claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>The method of claim 9, wherein an average particle diameter of the aluminum powder particles is 5 µm to 40 µm.</claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>The method of claim 8, wherein the base steel sheet includes, by wt%, 0.04% to 0.5% of carbon (C), 0.01% to 2% of silicon (Si), 0.01% to 10% of manganese (Mn), 0.001% to 1.0% of aluminum (Al), 0.05% or less of phosphorus (P), 0.02%<!-- EPO <DP n="41"> --> or less of sulfur (S), 0.02% or less of nitrogen (N), a balance of iron (Fe), and other inevitable impurities.</claim-text></claim>
+<claim id="c-en-0012" num="0012">
+<claim-text>The method of claim 11, wherein the base steel sheet further includes, by wt%, one or more of 0.01% to 4.0% of the sum of one or more selected from the group consisting of chromium (Cr), molybdenum (Mo), and tungsten (W), 0.001% to 0.4% of the sum of one or more selected from the group consisting of titanium (Ti), niobium (Nb), zirconium (Zr), and vanadium (V), 0.005% to 2.0% of copper (Cu)+nickel (Ni), 0.001% to 1.0% of antimony (Sb)+tin (Sn), and 0.0001% to 0.01% of boron (B).</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="42"> -->
+<figure id="f0001" num="1,2"><img id="if0001" file="imgf0001.tif" wi="152" he="198" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="43"> -->
+<figure id="f0002" num="3,4"><img id="if0002" file="imgf0002.tif" wi="152" he="201" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="44"> -->
+<figure id="f0003" num="5"><img id="if0003" file="imgf0003.tif" wi="151" he="93" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="154" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="154" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="US6296805B"><document-id><country>US</country><doc-number>6296805</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0001">[0007]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

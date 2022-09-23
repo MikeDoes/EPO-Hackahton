@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP18941210A1" file="EP18941210NWA1.xml" lang="en" country="EP" doc-number="3888473" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3888473</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>18941210.9</B210><B220><date>20181130</date></B220><B240><B241><date>20210527</date></B241></B240><B250>ja</B250><B251EP>en</B251EP><B260>en</B260></B200><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>A23L   7/157       20160101AFI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>A23L   5/10        20160101ALI20200605BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>A23L   5/10        20160801 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>A23L   7/157       20160801 LI20200626BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>TEIG FÜR FRITTIERTE LEBENSMITTEL</B542><B541>en</B541><B542>BATTER FOR FRIED FOOD</B542><B541>fr</B541><B542>INGRÉDIENT DE PÂTE POUR ALIMENT FRIT</B542></B540></B500><B700><B710><B711><snm>Nisshin Foods Inc.</snm><iid>101883799</iid><irf>EA-PCT-17981</irf><adr><str>25, Kanda-Nishiki-cho 1-chome, 
+Chiyoda-ku,</str><city>Tokyo 101-8441</city><ctry>JP</ctry></adr></B711></B710><B720><B721><snm>ITO, Takashi</snm><adr><str>c/o Nisshin Foods Inc.
+19-12, Nihonbashikoamicho
+Chuo-ku</str><city>Tokyo 103-8544</city><ctry>JP</ctry></adr></B721><B721><snm>TSUJI, Akito</snm><adr><str>c/o Nisshin Foods Inc.
+19-12, Nihonbashikoamicho
+Chuo-ku</str><city>Tokyo 103-8544</city><ctry>JP</ctry></adr></B721><B721><snm>TAKASU, Ryosuke</snm><adr><str>c/o Nisshin Foods Inc.
+19-12, Nihonbashikoamicho
+Chuo-ku</str><city>Tokyo 103-8544</city><ctry>JP</ctry></adr></B721><B721><snm>ISHIKAWA, Yasuyoshi</snm><adr><str>c/o Nisshin Foods Inc.
+19-12, Nihonbashikoamicho
+Chuo-ku</str><city>Tokyo 103-8544</city><ctry>JP</ctry></adr></B721><B721><snm>SHIGEMATSU, Toru</snm><adr><str>c/o Nisshin Foods Inc.
+19-12, Nihonbashikoamicho
+Chuo-ku</str><city>Tokyo 103-8544</city><ctry>JP</ctry></adr></B721><B721><snm>HIWATASHI, Souichiro</snm><adr><str>c/o Nisshin Foods Inc.
+19-12, Nihonbashikoamicho
+Chuo-ku</str><city>Tokyo 103-8544</city><ctry>JP</ctry></adr></B721></B720><B740><B741><snm>Schiener, Jens</snm><iid>101548999</iid><adr><str>Wächtershäuser &amp; Hartz 
+Patentanwaltspartnerschaft mbB 
+Weinstraße 8</str><city>80333 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>JP2018044255</anum></dnum><date>20181130</date></B861><B862>ja</B862></B860><B870><B871><dnum><pnum>WO2020110308</pnum></dnum><date>20200604</date><bnum>202023</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">Provided are a fried food having a favorable appearance and an improved coating texture, and a batter for producing the same. The batter for fried foods contains a pregelatinized crosslinked starch. The pregelatinized crosslinked starch has a degree of pregelatinization of 65% or more, and a starch solution obtained by adding 1000 parts by mass of water to 100 parts by mass of the pregelatinized crosslinked starch has a viscosity of 500 mPa·s or less when the viscosity is measured with a rotary viscometer under conditions of a product temperature of 25°C and 12 to 30 rpm.</p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">Technical Field</heading>
+<p id="p0001" num="0001">The present invention relates to a batter for fried foods.</p>
+<heading id="h0002">Background Art</heading>
+<p id="p0002" num="0002">A fried food is usually produced by attaching a batter to surfaces of various food ingredients and deep-frying the food ingredients to which the batter is attached. A general batter for fried foods is roughly classified into a powdered batter (breader) and a liquid batter (batter liquid). The batter not only prevents oil absorption and moisture evaporation in a food ingredient covered with the batter during deep-frying but also imparts a favorable texture, flavor, and appearance to a fried food when the batter itself is cooked by deep-frying.</p>
+<p id="p0003" num="0003">Meanwhile, coating may have a greasy and smeary texture, or a sticky or too hard texture, and such coating reduces favorability of texture of a fried food. For appearance of a fried food, desirably, coating on a surface is rough, mat and does not look greasy, and has<!-- EPO <DP n="2"> --> irregularities like rocks. However, the coating having a greasy and smeary texture or a sticky texture as described above often also reduces favorability of the appearance of a fried food. The quality of texture and appearance of coating after deep-frying is not a little affected by a cooking operation, but also affected by the material and composition of a batter. Various types of batters have been conventionally provided in order to improve the texture and appearance of a fried food.</p>
+<p id="p0004" num="0004">Patent Literature 1 describes that a deep-fried food having a good texture can be obtained with a deep-fry powder characterized by containing a powdered pregelatinized starch having a solubility of 30% or less and a swelling degree of 10% or more. Patent Literature 2 describes that a batter composition containing a gellan gum-containing pregelatinized starch obtained by pregelatinizing a gellan gum-containing starch and a fried food obtained by using the batter composition have crispness even after the batter composition and the fried food are reheated by a microwave oven. Patent Literature 3 describes that a deep-fried food having a rugged appearance, a floury appearance, and crispness can be obtained with a deep-fry powder containing a modified starch containing 0.01 to 2% by weight of a water-soluble<!-- EPO <DP n="3"> --> component, having a polarized cross, and having a viscosity of a suspension having a concentration of 42% by weight of 25 to 500 mPa·s. Patent Literature 4 describes that a fried food having a good coating texture without deterioration of an appearance by bleeding of oil, even after the fried food is reheated by a microwave oven, can be obtained with a batter liquid for fried foods, the batter liquid containing a pregelatinized starch, a raw starch, edible oil and fat, and water and containing no wheat flour.</p>
+<heading id="h0003">Citation List</heading>
+<heading id="h0004">Patent Literature</heading>
+<p id="p0005" num="0005">
+<ul id="ul0001" list-style="none" compact="compact">
+<li>Patent Literature 1: <patcit id="pcit0001" dnum="JPH856599A"><text>JP H8-56599 A</text></patcit></li>
+<li>Patent Literature 2: <patcit id="pcit0002" dnum="JPH9201170A"><text>JP H9-201170 A</text></patcit></li>
+<li>Patent Literature 3: <patcit id="pcit0003" dnum="JP2009296961A"><text>JP 2009-296961 A</text></patcit></li>
+<li>Patent Literature 4: <patcit id="pcit0004" dnum="JP2000333633A"><text>JP 2000-333633 A</text></patcit></li>
+</ul></p>
+<heading id="h0005">Summary of Invention</heading>
+<heading id="h0006">Technical Problem</heading>
+<p id="p0006" num="0006">The present invention provides a fried food having a favorable appearance and an improved coating texture, and a batter for producing the same.<!-- EPO <DP n="4"> --></p>
+<heading id="h0007">Solution to Problem</heading>
+<p id="p0007" num="0007">By using a pregelatinized starch having a predetermined property as a material of a batter for fried foods, the present inventors found that a fried food having a non-greasy appearance with floury coating is obtained and that the fried food has a light texture that is crispy and non-greasy.</p>
+<p id="p0008" num="0008">Therefore, the present invention provides a batter for fried foods, the batter containing a pregelatinized crosslinked starch, in which
+<ul id="ul0002" list-style="none" compact="compact">
+<li>the pregelatinized crosslinked starch has a degree of pregelatinization of 65% or more, and</li>
+<li>a starch solution containing the pregelatinized crosslinked starch and water at a mass ratio of 1 : 10 has a viscosity of 500 mPa·s or less.</li>
+</ul></p>
+<p id="p0009" num="0009">The present invention also provides use of a pregelatinized crosslinked starch in producing a batter for fried foods, in which
+<ul id="ul0003" list-style="none" compact="compact">
+<li>the pregelatinized crosslinked starch has a degree of pregelatinization of 65% or more, and</li>
+<li>a starch solution containing the pregelatinized crosslinked starch and water at a mass ratio of 1 : 10 has<!-- EPO <DP n="5"> --> a viscosity of 500 mPa·s or less.</li>
+</ul></p>
+<p id="p0010" num="0010">The present invention also provides use of a pregelatinized crosslinked starch as a batter for fried foods, in which
+<ul id="ul0004" list-style="none" compact="compact">
+<li>the pregelatinized crosslinked starch has a degree of pregelatinization of 65% or more, and</li>
+<li>a starch solution containing the pregelatinized crosslinked starch and water at a mass ratio of 1 : 10 has a viscosity of 500 mPa·s or less.</li>
+</ul></p>
+<p id="p0011" num="0011">The present invention also provides a method for producing a fried food, the method including attaching the batter for fried foods to a food ingredient and deep-frying the food ingredient to which the batter is attached.</p>
+<heading id="h0008">Advantageous Effects of Invention</heading>
+<p id="p0012" num="0012">A fried food obtained by using the batter for fried foods of the present invention has coating with a light texture that is crispy and non-greasy, also has floury coating that does not make a consumer feel that the coating is greasy, and also has an excellent appearance.</p>
+<heading id="h0009">Description of Embodiments</heading>
+<p id="p0013" num="0013">The present invention provides a modified<!-- EPO <DP n="6"> --> pregelatinized starch for use as a batter for fried foods. The modified pregelatinized starch used in the present invention is characterized by having a specific degree of pregelatinization and viscosity.</p>
+<p id="p0014" num="0014">When starch is heated together with water, starch absorbs water and swells, and becomes water-soluble. The starch before being heated is called a raw starch, and the water-soluble starch is called a pregelatinized starch. The degree of gelatinization of starch is referred to as the degree of pregelatinization. The raw starch is water-insoluble. However, by pregelatinizing the raw starch as described above, making the raw starch coexist with an electrolyte, or hydrolyzing the raw starch, for example, starch particles swell, crystallinity is broken, or amylose is eluted, and the raw starch becomes water-soluble. A starch solution is viscous and used also as a food thickener. The viscosity of the starch solution usually increases as the degree of pregelatinization is increased, while the viscosity of the starch solution decreases, for example, by suppressing swelling of starch particles by crosslinking of amylose, or shortening the chain of amylose by hydrolyzing amylose.</p>
+<p id="p0015" num="0015">The degree of pregelatinization of the modified<!-- EPO <DP n="7"> --> pregelatinized starch used in the present invention is preferably 65% or more, more preferably 70%, and still more preferably 75% or more. The degree of pregelatinization of the modified pregelatinized starch is preferably 95% or less. Here, the degree of gelatinization of starch refers to the degree of pregelatinization measured by a β-amylase/pullulanase (BAP) method (see <nplcit id="ncit0001" npl-type="s"><text>Jap. Soc. Starch Sci, 28 (4): 235-240 (1981</text></nplcit>)). The viscosity of a solution of the modified pregelatinized starch is preferably 500 mPa·s or less, and more preferably 350 mPa·s or less. Here, the viscosity of the starch solution refers to the viscosity of a starch solution containing starch and water (mass ratio 1 : 10) measured with a rotary viscometer under conditions of a product temperature of 25°C and 12 to 30 rpm. The property of starch reflected in the viscosity of the starch solution may be referred to as the "viscosity" of the starch. For example, by measuring the viscosity of a starch solution prepared using 100 parts by mass of the modified pregelatinized starch and 1000 parts by mass of water with a rotary viscometer under conditions of a product temperature of 25°C and 12 to 30 rpm, the viscosity of the solution of the modified pregelatinized starch is obtained, and represents the "viscosity" of the modified pregelatinized starch. Meanwhile, a lower limit of the viscosity of the solution of the modified pregelatinized<!-- EPO <DP n="8"> --> starch only needs to be equal to or higher than a lower limit of a measurement limit of the rotary viscometer. This is because the rotary viscometer measures the viscosity based on resistance of a liquid, and in principle, cannot measure the viscosity of a liquid having almost no resistance. Therefore, the viscosity of the solution of the modified pregelatinized starch is preferably from the lower limit of the measurement limit of the rotary viscometer to 500 mPa·s, and more preferably from the lower limit of the measurement limit of the rotary viscometer to 350 mPa·s.</p>
+<p id="p0016" num="0016">By containing the modified pregelatinized starch having the degree of pregelatinization and viscosity within the above ranges, a non-greasy appearance with floury coating and a light texture that is crispy are imparted to coating of a fried food. Meanwhile, such an improvement in the appearance of a fried food and the texture of coating cannot be achieved when the pregelatinized starch does not have the above-described degree of pregelatinization and viscosity. The modified pregelatinized starch used in the present invention has a higher viscosity than the raw starch and a lower viscosity than a general pregelatinized starch that is commercially available. It is considered that such properties contribute to the improvement in the<!-- EPO <DP n="9"> --> appearance of a fried food and the texture of coating by the modified pregelatinized starch.</p>
+<p id="p0017" num="0017">The modified pregelatinized starch can be prepared by preparing various starches by changing the type of starch as a raw material, a combination thereof, the type of starch processing method, a combination thereof, or the degree thereof, measuring the degree of pregelatinization and the viscosity of a starch solution by the procedure described above, and selecting one having a desired degree of pregelatinization and viscosity from among the various starches. Alternatively, a commercially available starch having a desired degree of pregelatinization and viscosity may be used in the present invention as the modified pregelatinized starch.</p>
+<p id="p0018" num="0018">The modified pregelatinized starch is preferably a pregelatinized crosslinked starch. By pregelatinizing and crosslinking starch, the above-described degree of pregelatinization and viscosity can be achieved at the same time. The pregelatinized crosslinked starch can be prepared by crosslinking a pregelatinized starch or pregelatinizing a crosslinked starch. Examples of the crosslinking include phosphoric acid crosslinking and adipic acid crosslinking, and phosphoric acid crosslinking<!-- EPO <DP n="10"> --> is preferable. The pregelatinized crosslinked starch may be subjected to another type of processing as long as the pregelatinized crosslinked starch has the above-described degree of pregelatinization and viscosity. Examples of the other type of processing include oil and fat processing, etherification, esterification, oxidation, and a combination thereof. Preferably, the pregelatinized crosslinked starch has not been etherified or esterified, and more preferably, the pregelatinized crosslinked starch has not been subjected to any type of processing other than pregelatinization and crosslinking.</p>
+<p id="p0019" num="0019">The type of starch used as a raw material of the modified pregelatinized starch is not particularly limited as long as starch can be used for food, and examples thereof include potato starch, tapioca starch, cornstarch, waxy cornstarch, rice starch, and wheat starch. Among these starches, above-ground starch derived from an above-ground part of a plant is preferable. Examples of the above-ground starch include rice starch, wheat starch, cornstarch, and waxy cornstarch. Out of these starches, wheat starch, cornstarch, and waxy cornstarch are preferable, and cornstarch is more preferable.</p>
+<p id="p0020" num="0020">Preferably, the modified pregelatinized starch contains<!-- EPO <DP n="11"> --> a fraction with a size that does not pass through a sieve having an opening of 400 µm and passes through a sieve having an opening of 2000 µm preferably in an amount of 50% by mass or more, more preferably in an amount of 60% by mass or more, still more preferably in an amount of 70% by mass or more, further still more preferably in an amount of 80% by mass or more in the total mass of the modified pregelatinized starch. By increasing the ratio of the above fraction having a specific size in the modified pregelatinized starch, the appearance of a fried food and the texture of coating can be further improved. Such a fraction can be prepared by sieving the modified pregelatinized starch using a sieve having an opening of 2000 µm and a sieve having an opening of 400 µm, and collecting a fraction that passes through a sieve having an opening of 2000 µm and does not pass through a sieve having an opening of 400 µm.</p>
+<p id="p0021" num="0021">The above-described modified pregelatinized starch is used for producing a fried food as a batter. The modified pregelatinized starch is preferably provided in a form of powder and can be applied to an ingredient or can be blended with another batter component.</p>
+<p id="p0022" num="0022">Therefore, the present invention provides a batter for<!-- EPO <DP n="12"> --> fried foods, the batter containing the modified pregelatinized starch. By blending the modified pregelatinized starch with another batter component, if necessary, the batter for fried foods of the present invention (hereinafter, also simply referred to as the batter of the present invention) is produced. The content of the modified pregelatinized starch in the batter of the present invention is preferably 5 to 100% by mass, more preferably 10 to 90% by mass, and still more preferably 15 to 70% by mass in the total mass of the batter. When the content of the modified pregelatinized starch in the batter of the present invention is less than 5% by mass, an effect of improving the appearance of a fried food and the texture of coating is reduced.</p>
+<p id="p0023" num="0023">The modified pregelatinized starch in the batter of the present invention contains a fraction with a size that does not pass through a sieve having an opening of 400 µm and passes through a sieve having an opening of 2000 µm preferably in an amount of 50% by mass or more, more preferably in an amount of 60% by mass or more, still more preferably in an amount of 70% by mass or more, further still more preferably in an amount of 80% by mass or more in the total amount of the modified pregelatinized starch from a viewpoint of further improving the appearance of a<!-- EPO <DP n="13"> --> fried food and the texture of coating. For example, when the batter of the present invention contains the modified pregelatinized starch in an amount of 15 to 70% by mass, the content of the fraction with a size that does not pass through a sieve having an opening of 400 µm and passes through a sieve having an opening of 2000 µm in the batter of the present invention can be preferably 7.5 to 70% by mass, more preferably 9 to 70% by mass, still more preferably 10.5 to 70% by mass, and further still more preferably 12 to 70% by mass in the total mass of the batter. Alternatively, in another example, the content of the fraction may be 25 to 70% by mass, 30 to 70% by mass, or 30 to 50% by mass in the total mass of the batter.</p>
+<p id="p0024" num="0024">The batter of the present invention may be a composition containing a component other than the above-described modified pregelatinized starch. Examples of the other component include: cereal flour such as wheat flour or rice flour; starch other than the modified pregelatinized starch or processed starch; egg flour such as whole egg flour or egg white flour; a thickener; a swelling agent; a seasoning such as common salt, powdered soy sauce, a fermented seasoning, powdered soybean paste, or an amino acid; a spice; a fragrance; a nutritional component such as vitamin or mineral; a coloring agent;<!-- EPO <DP n="14"> --> powdered oil and fat; and salts. These other components can be used singly or in combination of two or more types thereof depending on desired characteristics of a fried food. The total content of these other components is preferably 95% by mass or less, more preferably 90% by mass or less, and still more preferably 85% by mass or less in the total mass of the batter of the present invention.</p>
+<p id="p0025" num="0025">The type of fried food produced using the batter of the present invention is not particularly limited, and examples thereof include a deep-fried food, fried chicken, and a fried food with bread crumbs such as a cutlet. An ingredient of a fried food is not particularly limited, and examples thereof include livestock meat such as chicken, pork, beef, mutton, or goat meat; seafood; and vegetables. A food ingredient to which the batter of the present invention is applied is preferably meat or seafood. The food ingredient may be seasoned before the batter of the present invention is applied thereto. A method for seasoning the ingredient is not particularly limited, and a known method can be used. For example, the food ingredient may be soaked in a powder or a liquid containing seasonings, herbs, spices, sugars, amino acids, thickening polysaccharides, enzymes, and the like.</p>
+<p id="p0026" num="0026"><!-- EPO <DP n="15"> --> In producing a fried food using the batter of the present invention, typically, the batter of the present invention is attached to a food ingredient, and the food ingredient to which the batter is attached is deep-fried. A method for attaching the batter of the present invention to a food ingredient is not particularly limited. The powdered batter of the present invention may be attached to a food ingredient, or a batter liquid containing the batter of the present invention may be attached to a food ingredient. Depending on the type of fried food to be produced, before the batter of the present invention is attached to a food ingredient, for example, cereal flour, starch, an egg liquid, or a batter liquid not containing the batter of the present invention may be attached to the food ingredient. When a fried food with bread crumbs is produced, bread crumbs may be attached to a food ingredient to which an egg liquid or a batter liquid are attached together with the batter of the present invention. It is preferable to attach the powdered batter of the present invention to a food ingredient from a viewpoint of forming coating having a floury appearance on a produced fried food. In addition, it is preferable not to attach another batter to the same layer as the batter of the present invention or an upper layer thereof from a viewpoint of forming coating having the floury appearance.<!-- EPO <DP n="16"> --></p>
+<p id="p0027" num="0027">Preferably, the powdered batter of the present invention is sprinkled on a food ingredient and attached thereto. Examples of a method for the "sprinkling" include a general sprinkling operation, for example, 1) an operation of sprinkling the batter from above a food ingredient, 2) an operation of putting the batter and a food ingredient into a bag, and shaking the bag with an opening of the bag closed, or 3) an operation of laying the batter in a relatively wide container such as a plate, and rolling a food ingredient on the batter. Meanwhile, examples of a method for attaching a batter liquid containing the batter of the present invention to a food ingredient include immersing the food ingredient in the batter liquid and spraying the batter liquid onto the food ingredient.</p>
+<p id="p0028" num="0028">A food ingredient to which the batter is attached can be deep-fried according to a usual method. For example, heating temperature (oil temperature) and heating time for deep-frying only need to be appropriately set according to the type and size of a food ingredient.</p>
+<heading id="h0010">Examples</heading>
+<p id="p0029" num="0029"><!-- EPO <DP n="17"> --> Hereinafter, the present invention will be described in more detail with reference to Examples. However, the present invention is not limited to the following Examples.</p>
+<heading id="h0011">Test Example 1</heading>
+<heading id="h0012">(Preparation of pregelatinized starch)</heading>
+<p id="p0030" num="0030">To 100 parts by mass of each of the various raw material starches illustrated in Table 1, 100 to 400 parts by mass of water was added to prepare a slurry-like starch solution. This solution was spread on a drum dryer heated to 130 to 170°C so as to form a thin film, heated and dried while the drum was rotated, and then crushed to prepare each of Nos. 1 to 4 pregelatinized starches illustrated in Table 1. The degree of pregelatinization of each of the obtained pregelatinized starches was measured by a BAP method. In addition, 1000 parts by mass of water was added to 100 parts by mass of each of the pregelatinized starches to prepare a starch solution, and the viscosity of the starch solution was measured with a rotary viscometer under conditions of a product temperature of 25°C and 12 to 30 rpm. Note that the degree of pregelatinization and viscosity of each of an unprocessed cornstarch and a phosphoric acid-crosslinked cornstarch, which are raw materials of Nos. 1 and 2 pregelatinized starches, respectively, were measured by a similar procedure. The<!-- EPO <DP n="18"> --> degree of pregelatinization was 3% for the unprocessed cornstarch and 2% for the phosphoric acid-crosslinked cornstarch. The viscosity could not be measured because both starches were precipitated and the viscosity for each of the starches was very low.
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>[Table 1]</title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="11mm"/>
+<colspec colnum="2" colname="col2" colwidth="54mm"/>
+<colspec colnum="3" colname="col3" colwidth="52mm"/>
+<colspec colnum="4" colname="col4" colwidth="31mm"/>
+<colspec colnum="5" colname="col5" colwidth="20mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle">No.</entry>
+<entry align="center" valign="middle">Pregelatinized starch</entry>
+<entry align="center" valign="middle">Raw material starch</entry>
+<entry align="center" valign="middle">Degree of pregelatinization*<sup>1</sup></entry>
+<entry align="center" valign="middle">Viscosity* <sup>2</sup></entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">Pregelatinized phosphoric acid-crosslinked cornstarch</entry>
+<entry align="center" valign="middle">Phosphoric acid-crosslinked cornstarch</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">300</entry></row>
+<row>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">Pregelatinized cornstarch</entry>
+<entry align="center" valign="middle">Cornstarch</entry>
+<entry align="center" valign="middle">78</entry>
+<entry align="center" valign="middle">8000</entry></row>
+<row>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">Pregelatinized acetylated phosphoric acid-crosslinked potato starch</entry>
+<entry align="center" valign="middle">Acetylated phosphoric acid-crosslinked potato starch</entry>
+<entry align="center" valign="middle">66</entry>
+<entry align="center" valign="middle">21000</entry></row>
+<row>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">Pregelatinized hydroxypropylated wheat starch</entry>
+<entry align="center" valign="middle">Hydroxypropylated wheat starch</entry>
+<entry align="center" valign="middle">80</entry>
+<entry align="center" valign="middle">32600</entry></row></tbody></tgroup>
+<tgroup cols="5" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="11mm"/>
+<colspec colnum="2" colname="col2" colwidth="54mm"/>
+<colspec colnum="3" colname="col3" colwidth="52mm"/>
+<colspec colnum="4" colname="col4" colwidth="31mm"/>
+<colspec colnum="5" colname="col5" colwidth="20mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col5" align="justify">*1: β-amylase/pullulanase (BAP) method<br/>
+*2: Viscosity measured with B-type viscometer (product temperature: 25°C, 12 to 30 rpm, starch solution having a ratio of starch : water = 1 : 10)</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0013">(Preparation of batter)</heading>
+<p id="p0031" num="0031">50% by mass of the prepared pregelatinized starch and 50% by mass of commercially available wheat flour (soft wheat flour) were mixed to prepare batters for fried foods of Production Example 1 and Comparative Examples 1 to 3 as illustrated in Table 2. As Reference Example 1, a batter containing the raw material starch of No. 1 pregelatinized starch and wheat flour was prepared, and as Reference<!-- EPO <DP n="19"> --> Example 2, a batter containing the raw material starch of No. 2 pregelatinized starch and wheat flour was prepared. As Reference example 3, a batter containing wheat flour was prepared.</p>
+<heading id="h0014">(Production of fried food)</heading>
+<p id="p0032" num="0032">Chicken thigh was cut into pieces each having 25 g and seasoned to prepare a food ingredient. The batter prepared above was sprinkled on this food ingredient and attached thereto. The food ingredient with the batter was deep-fried with salad oil heated to 175°C for four minutes to produce deep-fried chicken. The produced fried food was evaluated for appearance and texture of coating after rough heat was removed from the fried food. In the evaluation, 10 specialized panelists scored the appearance of the fried food and the texture of the coating according to the following evaluation criteria, and an average of the scores of the 10 panelists was calculated. The evaluation results are illustrated in Table 2.</p>
+<heading id="h0015">Evaluation criteria</heading>
+<heading id="h0016">(Appearance)</heading>
+<p id="p0033" num="0033">
+<ul id="ul0005" list-style="none" compact="compact">
+<li>5: The surface is dry, and flouriness is observed. Very good.</li>
+<li>4: There is a part moistened with oil on the surface,<!-- EPO <DP n="20"> --> however flouriness is observed. Good.</li>
+<li>3: The whole is moistened with oil, and flouriness is slightly observed.</li>
+<li>2: Oil floating is partially observed, and flouriness is not observed so much. Poor.</li>
+<li>1: Oil floating is observed overall, and flouriness is not observed. Very poor.</li>
+</ul></p>
+<heading id="h0017">(Texture of coating)</heading>
+<p id="p0034" num="0034">
+<ul id="ul0006" list-style="none" compact="compact">
+<li>5: Very good because the coating is very light and crispy, and does not make a consumer feel at all that the coating is greasy.</li>
+<li>4: Good because the coating is light and crispy, and does not make a consumer feel that the coating is greasy.</li>
+<li>3: The coating is slightly crispy, and makes a consumer slightly feel that the coating is greasy.</li>
+<li>2: Poor because the coating has no crispness, is slightly hard or slightly sticky, and makes a consumer feel that the coating is greasy.</li>
+<li>1: Very poor because the coating has no crispness, is hard or sticky, and makes a consumer strongly feel that the coating is greasy.</li>
+</ul><!-- EPO <DP n="21"> -->
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>[Table 2]</title>
+<tgroup cols="8">
+<colspec colnum="1" colname="col1" colwidth="59mm"/>
+<colspec colnum="2" colname="col2" colwidth="33mm"/>
+<colspec colnum="3" colname="col3" colwidth="12mm"/>
+<colspec colnum="4" colname="col4" colwidth="12mm"/>
+<colspec colnum="5" colname="col5" colwidth="12mm"/>
+<colspec colnum="6" colname="col6" colwidth="11mm"/>
+<colspec colnum="7" colname="col7" colwidth="11mm"/>
+<colspec colnum="8" colname="col8" colwidth="11mm"/>
+<thead>
+<row>
+<entry morerows="1" align="center" valign="middle">Composition of batter (% by mass)</entry>
+<entry align="center" valign="middle">Production Example</entry>
+<entry namest="col3" nameend="col5" align="center" valign="middle">Comparative Example</entry>
+<entry namest="col6" nameend="col8" align="center" valign="middle">Reference Example</entry></row>
+<row>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">3</entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry valign="middle">Pregelatinized starch</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/></row>
+<row rowsep="0">
+<entry>No.1</entry>
+<entry align="center">50</entry>
+<entry align="center"/>
+<entry align="center"/>
+<entry align="center"/>
+<entry align="center"/>
+<entry align="center"/>
+<entry align="center"/></row>
+<row rowsep="0">
+<entry>No.2</entry>
+<entry align="center"/>
+<entry align="center">50</entry>
+<entry align="center"/>
+<entry align="center"/>
+<entry align="center"/>
+<entry align="center"/>
+<entry align="center"/></row>
+<row rowsep="0">
+<entry>No.3</entry>
+<entry align="center"/>
+<entry align="center"/>
+<entry align="center">50</entry>
+<entry align="center"/>
+<entry align="center"/>
+<entry align="center"/>
+<entry align="center"/></row>
+<row>
+<entry>No.4</entry>
+<entry align="center"/>
+<entry align="center"/>
+<entry align="center"/>
+<entry align="center">50</entry>
+<entry align="center"/>
+<entry align="center"/>
+<entry align="center"/></row>
+<row>
+<entry valign="middle">Phosphoric acid-crosslinked cornstarch</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/></row>
+<row>
+<entry valign="middle">Cornstarch</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle"/></row>
+<row>
+<entry valign="middle">Wheat flour</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">100</entry></row>
+<row>
+<entry valign="middle">Total</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry></row>
+<row>
+<entry valign="middle">Appearance</entry>
+<entry align="center" valign="middle">4.5</entry>
+<entry align="center" valign="middle">2.1</entry>
+<entry align="center" valign="middle">1.9</entry>
+<entry align="center" valign="middle">1.9</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">1.9</entry>
+<entry align="center" valign="middle">2.2</entry></row>
+<row>
+<entry valign="middle">Texture of coating</entry>
+<entry align="center" valign="middle">4.3</entry>
+<entry align="center" valign="middle">2.4</entry>
+<entry align="center" valign="middle">2.5</entry>
+<entry align="center" valign="middle">2.2</entry>
+<entry align="center" valign="middle">1.9</entry>
+<entry align="center" valign="middle">2.1</entry>
+<entry align="center" valign="middle">2.6</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0018">Test Example 2</heading>
+<p id="p0035" num="0035">No. 1 pregelatinized starch prepared in Test Example 1 and wheat flour were blended at the compositions illustrated in Table 3 to prepare batters for fried foods. Using the obtained batters, deep-fried chicken was produced by a similar procedure to Test Example 1 and evaluated. The evaluation results are illustrated in Table 3 together with the results of Production Example 1.<!-- EPO <DP n="22"> -->
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>[Table 3]</title>
+<tgroup cols="9">
+<colspec colnum="1" colname="col1" colwidth="52mm"/>
+<colspec colnum="2" colname="col2" colwidth="11mm"/>
+<colspec colnum="3" colname="col3" colwidth="11mm"/>
+<colspec colnum="4" colname="col4" colwidth="11mm"/>
+<colspec colnum="5" colname="col5" colwidth="11mm"/>
+<colspec colnum="6" colname="col6" colwidth="11mm"/>
+<colspec colnum="7" colname="col7" colwidth="11mm"/>
+<colspec colnum="8" colname="col8" colwidth="11mm"/>
+<colspec colnum="9" colname="col9" colwidth="11mm"/>
+<thead>
+<row>
+<entry morerows="1" align="center" valign="middle">Composition of batter (% by mass)</entry>
+<entry namest="col2" nameend="col9" align="center" valign="middle">Production Example</entry></row>
+<row>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">8</entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">No.1 Pregelatinized starch</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">90</entry>
+<entry align="center" valign="middle">100</entry></row>
+<row>
+<entry valign="middle">Wheat flour</entry>
+<entry align="center" valign="middle">97</entry>
+<entry align="center" valign="middle">95</entry>
+<entry align="center" valign="middle">90</entry>
+<entry align="center" valign="middle">85</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry valign="middle">Total</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry></row>
+<row>
+<entry valign="middle">Appearance</entry>
+<entry align="center" valign="middle">3.5</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">4.0</entry>
+<entry align="center" valign="middle">4.2</entry>
+<entry align="center" valign="middle">4.5</entry>
+<entry align="center" valign="middle">4.4</entry>
+<entry align="center" valign="middle">4.1</entry>
+<entry align="center" valign="middle">3.9</entry></row>
+<row>
+<entry valign="middle">Texture of coating</entry>
+<entry align="center" valign="middle">3.4</entry>
+<entry align="center" valign="middle">3.8</entry>
+<entry align="center" valign="middle">3.9</entry>
+<entry align="center" valign="middle">4.2</entry>
+<entry align="center" valign="middle">4.3</entry>
+<entry align="center" valign="middle">4.2</entry>
+<entry align="center" valign="middle">4.0</entry>
+<entry align="center" valign="middle">3.7</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0019">Test Example 3</heading>
+<p id="p0036" num="0036">From No. 1 pregelatinized starch prepared in Test Example 1, a fraction having a size that passes through a sieve having an opening of 2000 µm and does not pass through a sieve having an opening of 400 µm (fraction A) and a fraction that passes through a sieve having an opening of 400 µm (fraction B) were collected. The obtained fractions were mixed at the ratios illustrated in Table 4 to prepare batters for fried foods. Using the obtained batters, deep-fried chicken was produced by a similar procedure to Test Example 1 and evaluated.<!-- EPO <DP n="23"> -->
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title>[Table 4]</title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="84mm"/>
+<colspec colnum="2" colname="col2" colwidth="11mm"/>
+<colspec colnum="3" colname="col3" colwidth="11mm"/>
+<colspec colnum="4" colname="col4" colwidth="11mm"/>
+<colspec colnum="5" colname="col5" colwidth="11mm"/>
+<thead>
+<row>
+<entry morerows="1" align="center" valign="middle">Composition of batter (% by mass)</entry>
+<entry namest="col2" nameend="col5" align="center" valign="middle">Production Example</entry></row>
+<row>
+<entry align="center" valign="middle">9</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">11</entry>
+<entry align="center" valign="middle">12</entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">Pregelatinized starch (fraction A + fraction B)</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry></row>
+<row>
+<entry valign="middle">(Content of fraction A in pregelatinized starch, % by mass)</entry>
+<entry align="center" valign="middle">(50)</entry>
+<entry align="center" valign="middle">(60)</entry>
+<entry align="center" valign="middle">(70)</entry>
+<entry align="center" valign="middle">(80)</entry></row>
+<row>
+<entry valign="middle">Wheat flour</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry></row>
+<row>
+<entry valign="middle">Total</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry></row>
+<row>
+<entry valign="middle">Appearance</entry>
+<entry align="center" valign="middle">4.7</entry>
+<entry align="center" valign="middle">4.8</entry>
+<entry align="center" valign="middle">4.9</entry>
+<entry align="center" valign="middle">4.9</entry></row>
+<row>
+<entry valign="middle">Texture of coating</entry>
+<entry align="center" valign="middle">4.5</entry>
+<entry align="center" valign="middle">4.5</entry>
+<entry align="center" valign="middle">4.6</entry>
+<entry align="center" valign="middle">4.7</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="24"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A batter for fried foods, the batter comprising a pregelatinized crosslinked starch, wherein
+<claim-text>the pregelatinized crosslinked starch has a degree of pregelatinization of 65% or more, and</claim-text>
+<claim-text>a starch solution containing the pregelatinized crosslinked starch and water at a mass ratio of 1 : 10 has a viscosity of 500 mPa·s or less.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The batter for fried foods according to claim 1, wherein the pregelatinized crosslinked starch is a pregelatinized phosphoric acid-crosslinked starch.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The batter for fried foods according to claim 1 or 2, the batter comprising 5 to 100% by mass of the pregelatinized starch.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The batter for fried foods according to any one of claims 1 to 3, wherein the pregelatinized crosslinked starch contains a fraction that does not pass through a sieve having an opening of 400 µm and passes through a sieve having an opening of 2000 µm in an amount of 50% by mass or more in the total mass of the pregelatinized crosslinked starch.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The batter for fried foods according to any one of claims 1 to 4, wherein the starch is an above-ground starch.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The batter for fried foods according to any one of<!-- EPO <DP n="25"> --> claims 1 to 5, which is in a powder form.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>A method for producing a fried food, the method comprising attaching the batter for fried foods according to any one of claims 1 to 6 to a food ingredient and deep-frying the food ingredient to which the batter is attached.</claim-text></claim>
+</claims>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="165" he="227" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="165" he="227" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="JPH856599A"><document-id><country>JP</country><doc-number>H856599</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0005]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="JPH9201170A"><document-id><country>JP</country><doc-number>H9201170</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0002">[0005]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="JP2009296961A"><document-id><country>JP</country><doc-number>2009296961</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0003">[0005]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="JP2000333633A"><document-id><country>JP</country><doc-number>2000333633</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0004">[0005]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="s"><article><atl/><serial><sertitle>Jap. Soc. Starch Sci</sertitle><pubdate><sdate>19810000</sdate><edate/></pubdate><vid>28</vid><ino>4</ino></serial><location><pp><ppf>235</ppf><ppl>240</ppl></pp></location></article></nplcit><crossref idref="ncit0001">[0015]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

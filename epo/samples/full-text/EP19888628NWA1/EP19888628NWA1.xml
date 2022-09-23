@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19888628A1" file="EP19888628NWA1.xml" lang="en" country="EP" doc-number="3889322" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3889322</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19888628.5</B210><B220><date>20191122</date></B220><B240><B241><date>20210527</date></B241></B240><B250>ja</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>2018223660</B310><B320><date>20181129</date></B320><B330><ctry>JP</ctry></B330><B310>2019156545</B310><B320><date>20190829</date></B320><B330><ctry>JP</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>C25B   1/21        20060101AFI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C01G  45/02        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>H01M   4/50        20100101ALI20200605BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>C01G  45/02        20130101 LI20200625BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>Y02E  60/10        20130101 LA20200826BGEP        </text></classification-cpc><classification-cpc sequence="3"><text>C25B   1/21        20130101 LI20200625BCEP        </text></classification-cpc><classification-cpc sequence="4"><text>H01M   4/50        20130101 LI20200625BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>ELEKTROLYTISCHES MANGANDIOXID, VERFAHREN ZUR HERSTELLUNG DAVON UND VERWENDUNG DAVON</B542><B541>en</B541><B542>ELECTROLYTIC MANGANESE DIOXIDE, METHOD FOR MANUFACTURING SAME, AND USE THEREOF</B542><B541>fr</B541><B542>DIOXYDE DE MANGANÈSE ÉLECTROLYTIQUE, SON PROCÉDÉ DE FABRICATION ET SON UTILISATION</B542></B540></B500><B700><B710><B711><snm>Tosoh Corporation</snm><iid>101784379</iid><irf>EP103116</irf><adr><str>4560, Kaisei-cho, 
+Shunan-shi</str><city>Yamaguchi 746-8501</city><ctry>JP</ctry></adr></B711></B710><B720><B721><snm>SUZUKI, Naoto</snm><adr><str>c/o TOSOH CORPORATION, Nanyo Complex, 4560,  
+Kaisei-cho</str><city>Shunan-shi Yamaguchi 746-8501</city><ctry>JP</ctry></adr></B721><B721><snm>ESHITA, Akinori</snm><adr><str>c/o TOSOH CORPORATION, Nanyo Complex, 4560,  
+Kaisei-cho</str><city>Shunan-shi Yamaguchi 746-8501</city><ctry>JP</ctry></adr></B721><B721><snm>SHOJI, Takayuki</snm><adr><str>c/o TOSOH HYUGA CORPORATION,1,Funaba-cho</str><city>Hyuga-shi Miyazaki 883-0065</city><ctry>JP</ctry></adr></B721></B720><B740><B741><snm>TBK</snm><iid>100061560</iid><adr><str>Bavariaring 4-6</str><city>80336 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>JP2019045829</anum></dnum><date>20191122</date></B861><B862>ja</B862></B860><B870><B871><dnum><pnum>WO2020110951</pnum></dnum><date>20200604</date><bnum>202023</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">To provide electrolytic manganese dioxide excellent in cell performance in high rate discharge and middle rate discharge when used as a cathode material for alkaline manganese dry cells, and a method for its production.</p>
+<p id="pa02" num="0002">Electrolytic manganese dioxide, characterized in that the average size of mesopores is at least 6.5 nm and at most 10 nm, and the alkali potential is at least 290 mV and at most 350 mV; a method for its production and its application.</p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">TECHNICAL FIELD</heading>
+<p id="p0001" num="0001">The present invention relates to electrolytic manganese dioxide and a method for its production, and its application. More particularly, it relates to electrolytic manganese dioxide to be used as a cathode active material for e.g. manganese dry cells, particularly alkaline manganese dry cells, and a method for its production.</p>
+<heading id="h0002">BACKGROUND ART</heading>
+<p id="p0002" num="0002">Manganese dioxide is known as a cathode active material for e.g. manganese dry cells, particularly, alkaline manganese dry cells, and has such merits that it is excellent in storage stability and is inexpensive. In particular, alkaline manganese dry cells using electrolytic manganese dioxide as the cathode active material are excellent in the cell performance in a wide range of rate, that is low rate discharge, middle rate discharge and high rate discharge, and thus are widely used in digital cameras, portable information devices, game machines and toys, and further improvement in cell performance in high rate and middle rate discharge has been desired in recent years.</p>
+<p id="p0003" num="0003">Heretofore, in order to improve the cell performance in high rate discharge of an alkaline manganese dry cell, electrolytic manganese dioxide has been proposed which is characterized in that in XRD measurement using CuKα as the radiation source, the half width of the (110) is at least 1.8° and less than 2.2°, the peak intensity ratio of X-ray diffraction peaks (110)/(021) is at least 0.70 and at most 1.10, and further JIS-pH (JIS K1467) is at least 1.5 and less than 5.0 (Patent Document 1). Further, electrolytic manganese dioxide has been proposed such that the potential measured in a 40 wt% aqueous KOH solution by using a mercury/mercury oxide reference electrode as the standard (hereinafter referred to as alkali potential) is high (Patent Documents 2 to 4).<!-- EPO <DP n="2"> --></p>
+<p id="p0004" num="0004">Further, in order to improve the cell performance in middle rate discharge of an alkali manganese dry cell, electrolytic manganese dioxide has been proposed such that the potential measured in a 40 wt% aqueous KOH solution by using a mercury/mercury oxide reference electrode as the standard is at least 280 mV and less than 310 mV, and the full width at half maximum (FWHM) of the (110) by XRD measurement using CuKα as the radiation source is at least 2.2° and at most 2.9° (Patent Document 5).</p>
+<heading id="h0003">PRIOR ART DOCUMENTS</heading>
+<heading id="h0004">PATENT DOCUMENTS</heading>
+<p id="p0005" num="0005">
+<ul id="ul0001" list-style="none" compact="compact">
+<li>Patent Document 1: <patcit id="pcit0001" dnum="JP2017179583A"><text>JP-A-2017-179583</text></patcit></li>
+<li>Patent Document 2: <patcit id="pcit0002" dnum="JP4827501B"><text>Japanese Patent No. 4827501</text></patcit></li>
+<li>Patent Document 3: <patcit id="pcit0003" dnum="US6527941B"><text>U.S. Patent No. 6527941</text></patcit></li>
+<li>Patent Document 4: <patcit id="pcit0004" dnum="JP5428163B"><text>Japanese Patent No. 5428163</text></patcit></li>
+<li>Patent Document 5: <patcit id="pcit0005" dnum="JP5909845B"><text>Japanese Patent No. 5909845</text></patcit></li>
+</ul></p>
+<heading id="h0005">DISCLOSURE OF INVENTION</heading>
+<heading id="h0006">TECHNICAL PROBLEM</heading>
+<p id="p0006" num="0006">Even with the electrolytic manganese dioxides disclosed in Patent Documents 1 to 5, cell performance in high rate discharge and middle rate discharge is not sufficient, and electrolytic manganese dioxide capable of further improving cell performance in high rate discharge and middle rate discharge has been desired.</p>
+<p id="p0007" num="0007">It is an object of the present invention to provide electrolytic manganese dioxide which is useful as a cathode active material for a manganese dry cell and an alkaline manganese dry cell excellent in cell performance particularly in high rate discharge and middle rate discharge, and is different from conventional ones in that the average size of mesopores is large and the alkali potential is high, a method for its production and its application.<!-- EPO <DP n="3"> --></p>
+<heading id="h0007">SOLUTION TO PROBLEM</heading>
+<p id="p0008" num="0008">The present inventors have conducted extensive studies on electrolytic manganese dioxide to be used as a cathode active material for a manganese dry cell, particularly an alkaline manganese dry cell, and as a result, have found that by electrolytic manganese dioxide having such features that the average size of mesopores is at least 6.5 nm and at most 10 nm and the alkali potential is at least 290 mV and at most 340 mV, it becomes to be a cathode material which is excellent in cell performance particularly in high rate discharge and middle rate discharge, and thus have accomplished the present invention.</p>
+<p id="p0009" num="0009">That is, the present invention resides in the following [1] to [9].
+<ol id="ol0001" compact="compact" ol-style="">
+<li>[1] Electrolytic manganese dioxide, characterized in that the average size of mesopores is at least 6.5 nm and at most 10 nm, and the alkali potential is at least 290 mV and at most 350 mV.</li>
+<li>[2] The electrolytic manganese dioxide according to the above [1], characterized in that the sulfate group (SO<sub>4</sub>) content is at most 1.5 wt%.</li>
+<li>[3] The electrolytic manganese dioxide according to the above [1] or [2], characterized in that the sodium content is at least 10 wt ppm and at most 5,000 wt ppm.</li>
+<li>[4] The electrolytic manganese dioxide according to any one of the above [1] to [3], characterized in that the structural water content is at least 3.70 wt%.</li>
+<li>[5] The electrolytic manganese dioxide according to any one of the above [1] to [4], characterized in that the area of micropores is at least 46 m<sup>2</sup>/g and at most 60 m<sup>2</sup>/g.</li>
+<li>[6] A method for producing the electrolytic manganese dioxide as defined in any one of the above [1] to [5], which comprises producing manganese dioxide by electrolysis in a sulfuric acid/manganese sulfate mixed electrolyte, characterized in that the sulfuric<!-- EPO <DP n="4"> --> acid concentration in the electrolyte is continuously increased from low concentration to high concentration while the manganese/sulfuric acid concentration ratio in the electrolyte is kept constant at 0.50 or lower from the initiation of electrolysis to the completion of electrolysis.</li>
+<li>[7] The method for producing the electrolytic manganese dioxide according to the above [6], characterized in that the temperature of the electrolyte at the time of electrolysis is at least 80°C and at most 98°C.</li>
+<li>[8] A cathode active material for a dry cell, characterized by comprising the electrolytic manganese dioxide as defined in any one of the above [1] to [7].</li>
+<li>[9] A dry cell characterized by comprising the cathode active material for a dry cell as defined in the above [8].</li>
+</ol></p>
+<heading id="h0008">ADVANTAGEOUS EFFECTS OF INVENTION</heading>
+<p id="p0010" num="0010">The electrolytic manganese dioxide of the present invention achieves excellent cell performance particularly in high rate discharge and middle rate discharge when used as a cathode material of an alkaline dry cell, and further, according to the production method of the present invention, the electrolytic manganese dioxide of the present invention can be obtained.</p>
+<heading id="h0009">DESCRIPTION OF EMBODIMENTS</heading>
+<p id="p0011" num="0011">Hereinafter, the present invention will be described in more detail.</p>
+<p id="p0012" num="0012">The electrolytic manganese dioxide of the present invention is such that the average size of mesopores is at least 6.5 nm and at most 10 nm. If the average size of mesopores is smaller than 6.5 nm, the concentration polarization of the electrolyte retained in the electrolytic manganese dioxide particles tends to be large at the time of discharge and the voltage drop tends to be large, and as a result, the cell performance<!-- EPO <DP n="5"> --> particularly in high rate discharge and middle rate discharge tends to be low. If the average size of mesopores is larger than 10 nm, the density of the electrolytic manganese dioxide particles tends to be low and as a result, the packing density in the dry cell tends to be low. To further improve cell performance in high rate discharge and middle rate discharge, the average size of mesopores is preferably at least 6.5 nm and at most 9.5 nm, more preferably at least 6.5 nm and at most 9.0 nm. The average size of mesopores is measured in accordance with &lt;Measurement of average size of mesopores&gt; in Examples.</p>
+<p id="p0013" num="0013">The electrolytic manganese dioxide of the present invention is such that the alkali potential is at least 290 mV and at most 350 mV. If the alkali potential is lower than 290 mV, the cell performance particularly in high rate discharge and middle rate discharge tends to be low. If the alkali potential is higher than 350 mV, the cell performance particularly after storage tends to be low. The alkali potential is preferably at least 295 mV and at most 335 mV, more preferably at least 300 mV and at most 330 mV.</p>
+<p id="p0014" num="0014">The electrolytic manganese dioxide of the present invention is such that to achieve more excellent cell performance in high rate discharge and to keep high cell performance after storage when used for an alkaline manganese dry cell, the sulfate group (SO<sub>4</sub>) content is preferably at most 1.5 wt%, more preferably at most 1.3 wt%.</p>
+<p id="p0015" num="0015">The electrolytic manganese dioxide of the present invention is such that to further suppress corrosion of a metal material such as a can and to further achieve more excellent cell performance in high rate discharge when used for an alkaline manganese dry cell, the sodium content is preferably at least 10 wt ppm and at most 5,000 wt ppm, more preferably at least 10 wt ppm and at most 3,000 wt ppm. Sodium content in the electrolytic manganese dioxide is derived mainly from sodium hydroxide used as a neutralizing agent.</p>
+<p id="p0016" num="0016">The electrolytic manganese dioxide of the present invention is such that to further achieve more excellent cell performance in high rate discharge when used for an<!-- EPO <DP n="6"> --> alkaline manganese dry cell, the structural water content is preferably at least 3.70 wt%, more preferably at least 4.10 wt%. The structural water content means water content quantitatively measured as the H<sub>2</sub>O desorption amount at from 110°C to 320°C by thermogravimetric analysis. By setting the temperature range of the thermogravimetric analysis to be at least 110°C, physically adsorbed H<sub>2</sub>O (water of adhesion) which desorbs at lower temperature is excluded, and by setting the upper limit to be 320°C, the water content is distinguished from O<sub>2</sub> discharged by reduction of MnO<sub>2</sub>. The structural water content is measured in accordance with &lt;Measurement of structural water content&gt; in Examples.</p>
+<p id="p0017" num="0017">The electrolytic manganese dioxide of the present invention is such that to further achieve more excellent cell performance in high rate discharge when used for an alkaline manganese dry cell, the area of micropores is preferably at least 46 m<sup>2</sup>/g and at most 60 m<sup>2</sup>/g, more preferably at least 46 m<sup>2</sup>/g and at most 53 m<sup>2</sup>/g. The area of micropores is measured in accordance with &lt;Measurement of area of micropores&gt; in Examples.</p>
+<p id="p0018" num="0018">The electrolytic manganese dioxide of the present invention is such that to achieve more excellent cell performance in high rate discharge of a dry cell to be higher and to maintain the packing density of the cathode mixture in a dry cell to be higher, the BET specific surface area is preferably at least 20 m<sup>2</sup>/g and at most 30 m<sup>2</sup>/g, more preferably at least 24 m<sup>2</sup>/g and at most 27 m<sup>2</sup>/g.</p>
+<p id="p0019" num="0019">The electrolytic manganese dioxide of the present invention is such that to readily further improve cell performance in high rate/middle rate/low rate discharge when used for an alkaline manganese dry cell, the average particle size is preferably at least 20 µm and at most 80 µm, more preferably at least 20 µm and at most 70 µm.</p>
+<p id="p0020" num="0020">Now, the method for producing electrolytic manganese dioxide of the present invention will be described.</p>
+<p id="p0021" num="0021">In the method for producing electrolytic manganese dioxide of the present<!-- EPO <DP n="7"> --> invention, the sulfuric acid concentration in the electrolyte is continuously increased from low concentration to high concentration while the manganese/sulfuric acid concentration ratio in the electrolyte is kept constant at 0.50 or lower from the initiation of electrolysis to the completion of electrolysis, whereby electrolytic manganese dioxide such that the average size of mesopores is at least 6.5 nm and at most 10 nm and the alkali potential is at least 290 mV and at most 350 mV can be produced.</p>
+<p id="p0022" num="0022">In the method for producing electrolytic manganese dioxide of the present invention, the sulfuric acid concentration in the electrolyte is continuously increased from low concentration to high concentration, and as the low concentration, the sulfuric acid concentration at the initiation of electrolysis is preferably at least 15 g/L and at most 40 g/L, and as the high concentration, the sulfuric acid concentration at the completion of electrolysis is preferably at least 45 g/L and at most 75 g/L, and the sulfuric acid concentration at the initiation of electrolysis is more preferably at least 20 g/L and at most 40 g/L, and as the high concentration, the sulfuric acid concentration at the completion of electrolysis is more preferably at least 45 g/L and at most 65 g/L.</p>
+<p id="p0023" num="0023">As the electrolyte in the electrolytic cell, a sulfuric acid/manganese sulfate mixed solution is used. Here, the sulfuric acid concentration is a value excluding sulfate ions of manganese sulfate.</p>
+<p id="p0024" num="0024">The method for producing electrolytic manganese dioxide of the present invention is not particularly limited, and to increase the current efficiency and to suppress evaporation of the electrolyte at the time of electrolysis, the temperature of the electrolyte is preferably at least 80°C and at most 98°C, more preferably at least 90°C and at most 97°C.</p>
+<p id="p0025" num="0025">In the method for producing electrolytic manganese dioxide of the present invention, the manganese concentration in the electrolyte feed solution is not limited and may, for example, be preferably at least 20 g/L and at most 60 g/L, more preferably at least 30 g/L and at most 50 g/L.</p>
+<p id="p0026" num="0026"><!-- EPO <DP n="8"> --> In the method for producing electrolytic manganese dioxide of the present invention, the electrolysis current density is not limited and to increase the production efficiency and to improve the electrodeposition state of the electrolytic manganese dioxide, it is preferably at least 0.2 A/dm<sup>2</sup> and at most 0.7 A/dm<sup>2</sup>, more preferably at least 0.3 A/dm<sup>2</sup> and at most 0.6 A/dm<sup>2</sup>.</p>
+<p id="p0027" num="0027">The method for producing electrolytic manganese dioxide of the present invention is to mill the electrolytic manganese dioxide obtained by the electrolysis. For the milling, for example, a roller mill, a jet mill, etc. may be used. The roller mill may, for example, be a centrifugal roller mill, a vertical type Loesche mill, etc. Among roller mills, in view of excellency in cost and durability and being suitable for industrial use, preferred is a roller mill which is capable of milling a raw material having such a hardness that the micro Vickers hardness is at least 400 HV (JIS Z2244), and which has a mill motor of at least 20 kW and at most 150 kW.</p>
+<p id="p0028" num="0028">There is no particular limitation as to the method of using the electrolytic manganese dioxide of the present invention as a cathode active material for an alkaline manganese dry cell, and by a known method, it may be mixed with additives and used as a cathode mixture. For example, to the electrolytic manganese dioxide (cathode active material), graphite for imparting conductivity, an electrolyte, etc. may be added to prepare a mixed powder, which may be press-molded in a disc-shape or ring-shape to obtain a powder molded body which is useful as a cathode mixture. The cathode mixture, a negative electrode, a negative electrode current collector, a separator and an electrolyte are put in a cathode can, which is sealed to obtain a cell (dry cell).</p>
+<heading id="h0010">EXAMPLES</heading>
+<p id="p0029" num="0029">Now, the present invention will be described in further detail with reference to Examples and Comparative Examples, but the present invention is by no means limited by these Examples.</p>
+<heading id="h0011">&lt;Measurement of average size of mesopores&gt;</heading><!-- EPO <DP n="9"> -->
+<p id="p0030" num="0030">The average size of mesopores of electrolytic manganese dioxide was measured as follows.</p>
+<p id="p0031" num="0031">The mesopore size was measured by using high precision multi-sample gas adsorption amount measuring apparatus (Autosorb-iQ, trade name, manufactured by Anton Paar). The electrolytic manganese dioxide was dehydrated at 150°C for 4 hours in vacuum, and then using argon as the adsorbent, the argon adsorption amount was measured at 87 K within a pressure range of from 0.0001 to 760 Torr. NLDFT was applied to the obtained adsorption isotherm to calculate the pore size distribution, and the pore volume and the pore area of pores within a range of from 2.02 to 49.03 nm were respectively taken as the mesopore volume and the mesopore area. In NLDFT, fitting was conducted using a zeolite/silica cylindrical pore model. The average size of mesopores was calculated from (4 × mesopore volume/mesopore area).</p>
+<heading id="h0012">&lt;Measurement of alkali potential&gt;</heading>
+<p id="p0032" num="0032">The alkali potential of electrolytic manganese dioxide was measured in a 40 wt% aqueous KOH solution as follows.</p>
+<p id="p0033" num="0033">To 3 g of the electrolytic manganese dioxide, 0.9 g of graphite as a conductive agent was added to obtain a mixed powder, and 4 ml of a 40 wt% aqueous KOH solution was added to this mixed powder, to obtain a mixture slurry of the electrolytic manganese dioxide, graphite and the aqueous KOH solution. The potential of the mixture slurry was measured, using a mercury/mercury oxide reference electrode as the standard, and the obtained value was taken as the alkali potential of the electrolytic manganese dioxide.</p>
+<heading id="h0013">&lt;Measurement of sulfate group and sodium contents&gt;</heading>
+<p id="p0034" num="0034">The sulfate group and sodium contents in electrolytic manganese dioxide were quantitatively measured by dissolving the electrolytic manganese dioxide in nitric acid and hydrogen peroxide and measuring the obtained solution by ICP.</p>
+<heading id="h0014">&lt;Measurement of structural water content&gt;</heading><!-- EPO <DP n="10"> -->
+<p id="p0035" num="0035">The structural water content of electrolytic manganese dioxide was measured using a thermogravimetric analyzer (TG/DTA6300, trade name, manufactured by Seiko Instruments Inc.) as follows.</p>
+<p id="p0036" num="0036">Water of adhesion was removed by heating the electrolytic manganese dioxide in the thermogravimetric analyzer in a stream of nitrogen up to 110°C and holding it for 16 hours. Then, the electrolytic manganese dioxide was heated to 240°C and held for 12 hours, and further heated to 320°C and held for 12 hours, and the weight loss from 110°C to 320°C was taken as the weight of the structural water. Then, the electrolytic manganese dioxide was heated to 620°C and held for 1 hour to remove substances which can desorb from the electrolytic manganese dioxide, and the weight after drying was obtained. By dividing the weight of the structural water by the weight after drying, the structural water content of the electrolytic manganese dioxide was obtained. The heating rate for the measurement was 10°C/hour. The desorbed substance from 110°C to 320°C being H<sub>2</sub>O was confirmed by mass spectrometric analysis of the desorbed substance.</p>
+<heading id="h0015">&lt;Measurement of area of micropores&gt;</heading>
+<p id="p0037" num="0037">The area of micropores of electrolytic manganese dioxide was measured as follows.</p>
+<p id="p0038" num="0038">In the pore size distribution calculated by NLDFT as described above, the pore area of pores within a range of from 0.41 to 2.02 nm was taken as the area of micropores.</p>
+<heading id="h0016">&lt;Measurement of BET specific surface area&gt;</heading>
+<p id="p0039" num="0039">The BET specific surface area of electrolytic manganese dioxide was measured by nitrogen adsorption by a BET one point method. As the measuring apparatus, a gas adsorption specific surface area measuring apparatus (Flow Sorb III, trade name, manufactured by Shimadzu Corporation) was used. Prior to the measurement, the electrolytic manganese dioxide was dehydrated by heating at 150°C for 1 hour.</p>
+<p id="p0040" num="0040"><!-- EPO <DP n="11"> --> &lt;Measurement of average particle size&gt;</p>
+<p id="p0041" num="0041">The average particle size (50% size) of electrolytic manganese dioxide was measured by a particle size distribution measuring apparatus (Microtrac MT3300EXII, trade name, manufactured by MicrotracBEL Corp.) at HRA mode. No dispersion treatment such as ultrasonic dispersion was conducted at the time of measurement.</p>
+<heading id="h0017">&lt;Measurement of cell performances in high rate discharge and middle rate discharge&gt;</heading>
+<p id="p0042" num="0042">The cell performances in high rate discharge and middle rate discharge were measured as follows.</p>
+<p id="p0043" num="0043">65 g of the electrolytic manganese dioxide, 2.9 g of graphite and 5.1 g of a 37 wt% aqueous potassium hydroxide solution were mixed by a V mixer for 20 minutes, calendered by a roller compactor under a pressure of 30 MPa, and further classified by a sieve into 180 µm to 1 mm to obtain cathode mixture granules. 3.5 g of the cathode mixture granules were pressed by a mold having an outer diameter of 13 mm and an inner diameter of 9 mm under 2.7 t/cm<sup>2</sup> to prepare a ring-shaped molded product. Three such ring-shaped molded products were put in a cathode can for AA dry cell and pressed under 2.7 t/cm<sup>2</sup> to conduct secondary molding.</p>
+<p id="p0044" num="0044">In the inside of the ring-shaped secondarily molded cathode mixture, a cylindrical separator was set, 1.6 g of a 37 wt% aqueous potassium hydroxide solution was dropped on the bottom of the dry cell, the dry cell was left at rest for 30 minutes, 6 g of an anode gel having 67 wt% of Zn particles mixed with a 37 wt% aqueous potassium hydroxide solution having polyacrylic acid dissolved, was injected into the inside of the cylindrical separator, and the cathode can was sealed with an anode can equipped with a current collecting rod to prepare a dry cell. The dry cell was stored at 20°C for 7 days, and the number of 1.5 W pulses was counted in accordance with 1.5 W discharge method as stipulated by American National Standards Institute (ANSI) and was taken as the cell performance in high rate discharge, and the discharge capacity measured in accordance with 0.25 A discharge method was taken as the cell performance in middle rate discharge. Measurement was conducted at 20°C.<!-- EPO <DP n="12"> --></p>
+<heading id="h0018">EXAMPLE 1</heading>
+<p id="p0045" num="0045">Electrolysis was conducted by using an electrolytic cell which has a heating device, and a titanium plate as an anode and a graphite plate as a cathode, which are suspended so as to face each other.</p>
+<p id="p0046" num="0046">Using as an electrolyte feed solution an aqueous manganese sulfate solution with a manganese concentration of 45 g/L, and keeping the electrolysis current density to be 0.34 A/dm<sup>2</sup> and the manganese/sulfuric acid concentration ratio in the electrolyte to be 0.25, electrolysis was conducted for 15 days while the sulfuric acid concentration in the electrolyte was continuously increased from 38 g/L at the initiation of electrolysis to 63 g/L at the completion of electrolysis. The temperature of the electrolyte was 93°C until the sulfuric acid concentration reached 40 g/L and changed to 97°C when the concentration reached 40 g/L.</p>
+<p id="p0047" num="0047">After the electrolysis, the electrodeposited plate-shaped electrolytic manganese dioxide was washed with pure water and then milled to obtain a milled product of the electrolytic manganese dioxide. Then, this electrolytic manganese dioxide milled product was put in a water bath and stirred, and an aqueous sodium hydroxide solution was added, to conduct a neutralization treatment so as to bring the pH of the slurry to be 4.2. Then, the electrolytic manganese dioxide was washed with water, filtered for separation and dried, and subjected to a sieve with an opening of 63 µm to obtain an electrolytic manganese dioxide powder. Of the obtained electrolytic manganese dioxide, the results of evaluation (the average size of mesopores, the alkali potential, the sulfate group content, the sodium content, the content of structural water, the area of micropores, the BET specific surface area, the average particle size, the cell performance in high rate discharge and the cell performance in middle rate discharge, the same applies hereinafter) are shown in Table 1.<!-- EPO <DP n="13"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>[Table 1]</title>
+<tgroup cols="11">
+<colspec colnum="1" colname="col1" colwidth="15mm"/>
+<colspec colnum="2" colname="col2" colwidth="22mm"/>
+<colspec colnum="3" colname="col3" colwidth="18mm"/>
+<colspec colnum="4" colname="col4" colwidth="18mm"/>
+<colspec colnum="5" colname="col5" colwidth="18mm"/>
+<colspec colnum="6" colname="col6" colwidth="22mm"/>
+<colspec colnum="7" colname="col7" colwidth="17mm"/>
+<colspec colnum="8" colname="col8" colwidth="24mm"/>
+<colspec colnum="9" colname="col9" colwidth="20mm"/>
+<colspec colnum="10" colname="col10" colwidth="38mm"/>
+<colspec colnum="11" colname="col11" colwidth="35mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">Average size of mesopores (nm)</entry>
+<entry align="center" valign="middle">Alkali potential (mV)</entry>
+<entry align="center" valign="middle">SO<sub>4</sub> Content (wt%)</entry>
+<entry align="center" valign="middle">Na Content (wtppm)</entry>
+<entry align="center" valign="middle">Structural water content (wt%)</entry>
+<entry align="center" valign="middle">Area of micro pores (m<sup>2</sup>/g)</entry>
+<entry align="center" valign="middle">BET Specific surface area (m<sup>2</sup>/g)</entry>
+<entry align="center" valign="middle">Average particle size (µm)</entry>
+<entry align="center" valign="middle">Cell performance in high rate discharge (number of 1.5W pulses)</entry>
+<entry align="center" valign="middle">Cell performance in middle rate discharge (mAh/g)</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Ex. 1</entry>
+<entry align="center" valign="middle">7.96</entry>
+<entry align="center" valign="middle">327</entry>
+<entry align="center" valign="middle">1.26</entry>
+<entry align="center" valign="middle">1510</entry>
+<entry align="center" valign="middle">4.35</entry>
+<entry align="center" valign="middle">47.0</entry>
+<entry align="center" valign="middle">25.6</entry>
+<entry align="center" valign="middle">23</entry>
+<entry align="center" valign="middle">117</entry>
+<entry align="center" valign="middle">223</entry></row>
+<row>
+<entry align="center" valign="middle">Ex. 2</entry>
+<entry align="center" valign="middle">8.25</entry>
+<entry align="center" valign="middle">317</entry>
+<entry align="center" valign="middle">1.26</entry>
+<entry align="center" valign="middle">1460</entry>
+<entry align="center" valign="middle">4.21</entry>
+<entry align="center" valign="middle">49.7</entry>
+<entry align="center" valign="middle">24.7</entry>
+<entry align="center" valign="middle">24</entry>
+<entry align="center" valign="middle">109</entry>
+<entry align="center" valign="middle">220</entry></row>
+<row>
+<entry align="center" valign="middle">Ex. 3</entry>
+<entry align="center" valign="middle">7.74</entry>
+<entry align="center" valign="middle">335</entry>
+<entry align="center" valign="middle">1.26</entry>
+<entry align="center" valign="middle">1550</entry>
+<entry align="center" valign="middle">4.28</entry>
+<entry align="center" valign="middle">50.1</entry>
+<entry align="center" valign="middle">26.1</entry>
+<entry align="center" valign="middle">22</entry>
+<entry align="center" valign="middle">105</entry>
+<entry align="center" valign="middle">218</entry></row>
+<row>
+<entry align="center" valign="middle">Comp. Ex. 1</entry>
+<entry align="center" valign="middle">6.38</entry>
+<entry align="center" valign="middle">298</entry>
+<entry align="center" valign="middle">1.19</entry>
+<entry align="center" valign="middle">1200</entry>
+<entry align="center" valign="middle">3.53</entry>
+<entry align="center" valign="middle">45.2</entry>
+<entry align="center" valign="middle">27.3</entry>
+<entry align="center" valign="middle">39</entry>
+<entry align="center" valign="middle">96</entry>
+<entry align="center" valign="middle">212</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="14"> --></p>
+<heading id="h0019">EXAMPLE 2</heading>
+<p id="p0048" num="0048">Electrolysis was conducted in the same method as in Example 1 except that the sulfuric acid concentration at the initiation of electrolysis was 30 g/L, and that the sulfuric acid concentration at the completion of electrolysis was 49 g/L. The results of evaluation of the obtained electrolytic manganese dioxide are shown in Table 1.</p>
+<heading id="h0020">EXAMPLE 3</heading>
+<p id="p0049" num="0049">Electrolysis was conducted in the same method as in Example 1 except that the manganese/sulfuric acid concentration ratio in the electrolyte was kept at 0.34, that the sulfuric acid concentration at the initiation of electrolysis was 38 g/L, and that the sulfuric acid concentration at the completion of electrolysis was 56 g/L. The results of evaluation of the obtained electrolytic manganese dioxide are shown in Table 1.</p>
+<heading id="h0021">COMPARATIVE EXAMPLE 1</heading>
+<p id="p0050" num="0050">Electrolysis was conducted in the same method as in Example 3 except that the manganese/sulfuric acid concentration ratio in the electrolyte was 0.75 for the first 10 days and was 0.34 for the latter 5 days, and that the temperature of the electrolyte was kept at 97°C from the initiation to the completion of electrolysis. The results of evaluation of the obtained electrolytic manganese dioxide are shown in Table 1.</p>
+<p id="p0051" num="0051">It is found from Table 1 that by producing electrolytic manganese dioxide at a manganese/sulfuric acid concentration ratio and at a sulfuric acid concentration in each of Examples 1 to 3, the obtained electrolytic manganese dioxide has a larger average size of mesopores, a higher apparent alkali potential and more excellent cell performance in high rate discharge and middle rate discharge, as compared with Comparative Example 1.</p>
+<p id="p0052" num="0052">The entire disclosures of <patcit id="pcit0006" dnum="JP2018223660A"><text>Japanese Patent Application No. 2018-223660 filed on November 29, 2018</text></patcit> and <patcit id="pcit0007" dnum="JP2019156545A"><text>Japanese Patent Application No. 2019-156545 filed on August 29, 2019</text></patcit> including specifications, claims, drawings and summaries are incorporated herein by reference in their entireties.<!-- EPO <DP n="15"> --></p>
+<heading id="h0022">INDUSTRIAL APPLICABILITY</heading>
+<p id="p0053" num="0053">Since the electrolytic manganese dioxide of the present invention has specific average size of mesopores and alkali potential, it is useful as a cathode active material for manganese dry cells, in particular alkaline manganese dry cells, excellent in cell performance particularly in high rate discharge and middle rate discharge.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="16"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>Electrolytic manganese dioxide, <b>characterized in that</b> the average size of mesopores is at least 6.5 nm and at most 10 nm, and the alkali potential is at least 290 mV and at most 350 mV.</claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The electrolytic manganese dioxide according to Claim 1, <b>characterized in that</b> the sulfate group (SO<sub>4</sub>) content is at most 1.5 wt%.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The electrolytic manganese dioxide according to Claim 1 or 2, <b>characterized in that</b> the sodium content is at least 10 wt ppm and at most 5,000 wt ppm.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The electrolytic manganese dioxide according to any one of Claims 1 to 3, <b>characterized in that</b> the structural water content is at least 3.70 wt%.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The electrolytic manganese dioxide according to any one of Claims 1 to 4, <b>characterized in that</b> the area of micropores is at least 46 m<sup>2</sup>/g and at most 60 m<sup>2</sup>/g.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>A method for producing the electrolytic manganese dioxide as defined in any one of Claims 1 to 5, which comprises producing manganese dioxide by electrolysis in a sulfuric acid/manganese sulfate mixed electrolyte, <b>characterized in that</b> the sulfuric acid concentration in the electrolyte is continuously increased from low concentration to high concentration while the manganese/sulfuric acid concentration ratio in the electrolyte is kept constant at 0.50 or lower from the initiation of electrolysis to the completion of electrolysis.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The method for producing the electrolytic manganese dioxide according to Claim 6, <b>characterized in that</b> the temperature of the electrolyte at the time of electrolysis is at least 80°C and at most 98°C.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>A cathode active material for a dry cell, <b>characterized by</b> comprising the electrolytic manganese dioxide as defined in any one of Claims 1 to 5.</claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>A dry cell <b>characterized by</b> comprising the cathode active material for a dry cell as defined in Claim 8.</claim-text></claim>
+</claims>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="162" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="162" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="JP2017179583A"><document-id><country>JP</country><doc-number>2017179583</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0005]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="JP4827501B"><document-id><country>JP</country><doc-number>4827501</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0002">[0005]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="US6527941B"><document-id><country>US</country><doc-number>6527941</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0003">[0005]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="JP5428163B"><document-id><country>JP</country><doc-number>5428163</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0004">[0005]</crossref></li>
+<li><patcit id="ref-pcit0005" dnum="JP5909845B"><document-id><country>JP</country><doc-number>5909845</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0005">[0005]</crossref></li>
+<li><patcit id="ref-pcit0006" dnum="JP2018223660A"><document-id><country>JP</country><doc-number>2018223660</doc-number><kind>A</kind><date>20181129</date></document-id></patcit><crossref idref="pcit0006">[0052]</crossref></li>
+<li><patcit id="ref-pcit0007" dnum="JP2019156545A"><document-id><country>JP</country><doc-number>2019156545</doc-number><kind>A</kind><date>20190829</date></document-id></patcit><crossref idref="pcit0007">[0052]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

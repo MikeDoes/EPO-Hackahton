@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19890353A1" file="EP19890353NWA1.xml" lang="en" country="EP" doc-number="3890043" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3890043</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19890353.6</B210><B220><date>20191126</date></B220><B240><B241><date>20210323</date></B241></B240><B250>ja</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>2018223635</B310><B320><date>20181129</date></B320><B330><ctry>JP</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>H01L  51/50        20060101AFI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C07D 498/04        20060101ALI20200605BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>C07D 498/04        20130101 LI20200625BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>H01L  51/50        20130101 LI20200625BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>VERBINDUNG MIT AZABENZOXAZOLRINGSTRUKTUR UND ORGANISCHEM ELEKTROLUMINESZENTEM ELEMENT</B542><B541>en</B541><B542>COMPOUND HAVING AZABENZOXAZOLE RING STRUCTURE AND ORGANIC ELECTROLUMINESCENT ELEMENT</B542><B541>fr</B541><B542>COMPOSÉ À STRUCTURE D'ANNEAU D'AZABENZOXAZOLE ET ÉLÉMENT ÉLECTROLUMINESCENT ORGANIQUE</B542></B540><B590><B598>none</B598></B590></B500><B700><B710><B711><snm>Hodogaya Chemical Co., Ltd.</snm><iid>101591716</iid><irf>23615-EP</irf><adr><str>2-4-1, Yaesu 
+Chuo-ku</str><city>Tokyo 104-0028</city><ctry>JP</ctry></adr></B711></B710><B720><B721><snm>KASE, Kouki</snm><adr><str>c/o Hodogaya Chemical Co., Ltd., 
+2-4-1, Yaesu,  
+Chuo-ku</str><city>Tokyo 104-0028</city><ctry>JP</ctry></adr></B721><B721><snm>KIM, Si-In</snm><adr><str>c/o Hodogaya Chemical Co., Ltd., 
+2-4-1, Yaesu,  
+Chuo-ku</str><city>Tokyo 104-0028</city><ctry>JP</ctry></adr></B721><B721><snm>KIM, Ji-Yung</snm><adr><str>c/o Hodogaya Chemical Co., Ltd., 
+2-4-1, Yaesu,  
+Chuo-ku</str><city>Tokyo 104-0028</city><ctry>JP</ctry></adr></B721><B721><snm>HIRAYAMA, Yuta</snm><adr><str>c/o Hodogaya Chemical Co., Ltd., 
+2-4-1, Yaesu,  
+Chuo-ku</str><city>Tokyo 104-0028</city><ctry>JP</ctry></adr></B721></B720><B740><B741><snm>Forstmeyer, Dietmar</snm><sfx>et al</sfx><iid>100036911</iid><adr><str>BOETERS &amp; LIECK 
+Oberanger 32</str><city>80331 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>JP2019046248</anum></dnum><date>20191126</date></B861><B862>ja</B862></B860><B870><B871><dnum><pnum>WO2020111081</pnum></dnum><date>20200604</date><bnum>202023</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">An object of the present invention is to provide, as a material for a highly efficient and highly durable organic EL element, an organic compound having excellent properties, including excellent electron-injecting/transporting capability, hole-blocking capability, and high stability in the form of a thin film. Another object of the present invention is to provide a highly efficient and highly durable organic EL element by using this compound. The compound having an azabenzoxazole ring structure of the present invention has excellent heat resistance, and good electron-transporting capability. An organic EL element having an electron-transporting layer, a hole-blocking layer, a light-emitting layer, or an electron-injecting layer including the compound had favorable element characteristics.</p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">Technical Field</heading>
+<p id="p0001" num="0001">The present invention relates to a compound suitable for organic electroluminescent elements (hereinafter referred to simply as organic EL elements), which are self-emissive elements favorably used in various display devices, and also to an element. More particularly, the present invention relates to a compound having an azabenzoxazole ring structure and an organic EL element including the compound.</p>
+<heading id="h0002">Background Art</heading>
+<p id="p0002" num="0002">Since organic EL elements are self-emissive elements, they have larger brightness and better viewability than elements including liquid crystals, and can thus provide a clearer display. For these reasons, active studies have been carried out on organic EL elements.</p>
+<p id="p0003" num="0003">In 1987, C. W. Tang et al. of Eastman Kodak Company developed an element having a layered structure in which various functions were assigned to different materials, and thus made a practical organic EL element including organic materials. They made an organic EL element having a layered structure including a layer of a fluorescent substance capable of transporting electrons and a layer of an organic substance capable of transporting holes, and injected both charges into the layer of the fluorescent substance to thereby cause the layer to emit light, and as a result, the organic EL element achieved a luminance as high as 1,000 cd/m<sup>2</sup> or more at a voltage of 10 V or less (see Patent<!-- EPO <DP n="2"> --> Literatures 1 and 2, for example).</p>
+<p id="p0004" num="0004">Organic EL elements have been heretofore much improved to put them to practical use. Electroluminescent elements have been suggested in which an anode, a hole-injecting layer, a hole-transporting layer, a light-emitting layer, an electron-transporting layer, an electron-injecting layer, and a cathode are sequentially provided on a substrate to subdivide various functions in the multi-layered structure even further, and such electroluminescent elements successfully have high efficiency and durability (see Non-Patent Literature 1, for example).</p>
+<p id="p0005" num="0005">To further increase luminous efficacy, attempts have been made to utilize triplet excitons, and the utilization of phosphorescent compounds has been investigated (see Non-Patent Literature 2, for example).</p>
+<p id="p0006" num="0006">Moreover, elements that utilize light emission by thermally activated delayed fluorescence (TADF) have also been developed. In 2011, Adachi et al. from Kyushu University achieved a result of an external quantum efficiency of 5.3% by an element including a thermally activated delayed fluorescence material (see Non-Patent Literature 3, for example).</p>
+<p id="p0007" num="0007">An light-emitting layer can also be prepared by doping a charge-transporting compound, generally called a host material, with a fluorescent compound, a phosphorescent compound, or a material that radiates delayed fluorescence. As stated in the non-patent literature above, the selection of the organic materials in an organic EL element greatly affects the characteristics of that element, such as efficiency and durability (see Non-Patent Literature 2, for example).<!-- EPO <DP n="3"> --></p>
+<p id="p0008" num="0008">In an organic EL element, the charges injected from both electrodes recombine in the light-emitting layer, thereby producing light emission, and how efficiently the both charges, i.e., the holes and the electrons, are passed to the light-emitting layer is of importance. For this purpose, it is necessary to enhance the electron-injecting capability and increase the electron mobility to increase the probability that holes and electrons recombine in the light-emitting layer. In other words, highly efficient light emission can be achieved, if an environment that increases the probability of the recombination even more can be created by confining holes transported from the anode side in the light-emitting layer, preventing deterioration of the electron-transporting layer, and confining excitons generated in the light-emitting layer. Therefore, the functions of the electron-transporting material are important, and there is a need for an electron-transporting material that has great electron-injecting capability, high electron mobility, high hole-blocking capability, and high durability against holes.</p>
+<p id="p0009" num="0009">Moreover, with regard to element lifespan, heat resistance and amorphousness of the materials are also important. A material with low heat resistance thermally decomposes, due to heat generated during driving the element, even at a low temperature, and thus the material deteriorates. A film made of a material with low amorphousness causes crystallization thereof even in a short period of time to result in deterioration of the element. Thus, the materials to be used are required to have high heat resistance and good amorphousness.</p>
+<p id="p0010" num="0010">Tris(8-hydroxyquinoline)aluminum (hereinafter abbreviated as Alq3), which is a typical light emitting material, is also commonly used as an electron-transporting material; however, it provides low electron mobility and has a work function of 5.6 eV, and therefore it cannot be said that Alq3 has sufficient hole-blocking capability.<!-- EPO <DP n="4"> --></p>
+<p id="p0011" num="0011">Compounds having a benzotriazole structure have been suggested as compounds improved in the properties including the electron-injecting capability and the electron mobility (see Patent Literature 3, for example). Elements having an electron-transporting layer including such a compound have the improved properties including luminous efficacy; however, these properties are still insufficient. Therefore, there is a demand for a further decrease in driving voltage and a further increase in luminous efficacy.</p>
+<p id="p0012" num="0012">Also, 3-(4-biphenylyl)-4-phenyl-5-(4-t-butylphenyl)-1,2,4-triazole (hereinafter abbreviated as TAZ) has been suggested as an electron-transporting material with excellent hole-blocking capability (see Patent Literature 4, for example).</p>
+<p id="p0013" num="0013">TAZ has a work function as high as 6.6 eV and has high hole-blocking capability. Therefore, TAZ is used for an electron transportable, hole-blocking layer stacked on the cathode side of a fluorescent or phosphorescent light-emitting layer produced by vacuum deposition or coating, and TAZ thus contributes to an increase in the efficiency of an organic EL element (see Non-Patent Literature 4, for example).</p>
+<p id="p0014" num="0014">However, low electron-transporting capability is a critical problem with TAZ, and it is necessary to combine TAZ with an electron-transporting material having higher electron-transporting capability when producing an organic EL element (see Non-Patent Literature 5, for example).</p>
+<p id="p0015" num="0015">2,9-dimethyl-4,7-diphenyl-1,10-phenanthroline (BCP), which is known as an<!-- EPO <DP n="5"> --> electron-transporting material, also has a work function as high as 6.7 eV and has high hole-blocking capability. However, BCP has a glass transition point (Tg) as low as 83°C, which results in poor stability of a thin film made of it, and therefore cannot be said to be capable of sufficiently functioning as a hole-blocking layer.</p>
+<p id="p0016" num="0016">All of these materials have insufficient stability in the form of a film or have insufficient hole-blocking capability. In order to improve characteristics of an organic EL element, there is a demand for an organic compound that has excellent electron-injecting/transporting capability and hole-blocking capability and also has high stability in the form of a thin film.</p>
+<heading id="h0003">Citation List</heading>
+<heading id="h0004">Patent Literature</heading>
+<p id="p0017" num="0017">
+<ul id="ul0001" list-style="none" compact="compact">
+<li>Patent Literature 1: <patcit id="pcit0001" dnum="US5792557A"><text>US 5792557</text></patcit></li>
+<li>Patent Literature 2: <patcit id="pcit0002" dnum="US5639914A"><text>US 5639914</text></patcit></li>
+<li>Patent Literature 3: <patcit id="pcit0003" dnum="US9123897B"><text>US 9123897</text></patcit></li>
+<li>Patent Literature 4: <patcit id="pcit0004" dnum="US5869199A"><text>US 5869199</text></patcit></li>
+<li>Patent Literature 5: <patcit id="pcit0005" dnum="US9199966B"><text>US9199966</text></patcit></li>
+<li>Patent Literature 6: <patcit id="pcit0006" dnum="EP2684932A"><text>EP2684932</text></patcit></li>
+<li>Patent Literature 7: <patcit id="pcit0007" dnum="US6878469B"><text>US6878469</text></patcit></li>
+</ul></p>
+<heading id="h0005">Non-Patent Literature</heading>
+<p id="p0018" num="0018">
+<ul id="ul0002" list-style="none" compact="compact">
+<li>Non-Patent Literature 1: <nplcit id="ncit0001" npl-type="s"><text>Proceedings of the 9th Meeting of the Japan Society of Applied Physics, pp. 55-61 (2001</text></nplcit>)</li>
+<li>Non-Patent Literature 2: <nplcit id="ncit0002" npl-type="s"><text>Proceedings of the 9th Meeting of the Japan Society of Applied Physics, pp. 23-31 (2001</text></nplcit>)<!-- EPO <DP n="6"> --></li>
+<li>Non-Patent Literature 3: <nplcit id="ncit0003" npl-type="s"><text>Appl. Phys. Lett., 98, 083302 (2011</text></nplcit>)</li>
+<li>Non-Patent Literature 4: <nplcit id="ncit0004" npl-type="b"><text>Extended Abstracts of the 50th Meeting, the Japan Society of Applied Physics and Related Societies, 28p-A-6, p. 1413 (2003</text></nplcit>)</li>
+<li>Non-Patent Literature 5: <nplcit id="ncit0005" npl-type="b"><text>The Journal of Molecular Electronics and Bioelectronics, the Japan Society of Applied Physics, Vol. 11, No. 1, pp. 13-19 (2000</text></nplcit>)</li>
+<li>Non-Patent Literature 6: <nplcit id="ncit0006" npl-type="s"><text>Synlett. 2009 (7), 1172-1174</text></nplcit>.</li>
+</ul></p>
+<heading id="h0006">Summary of Invention</heading>
+<p id="p0019" num="0019">An object of the present invention is to provide, as a material for a highly efficient and highly durable organic EL element, an organic compound having excellent properties, including excellent electron-injecting/transporting capability, hole-blocking capability, and high stability in the form of a thin film. Furthermore, another object of the present invention is to provide a highly efficient and highly durable organic EL element by using this compound.</p>
+<p id="p0020" num="0020">An organic compound to be provided by the present invention should have the following physical properties: (1) good electron-injecting properties, (2) high electron mobility, (3) excellent hole-blocking capability, (4) stability in the form of a thin film, and (5) excellent heat resistance. Moreover, an organic EL element to be provided by the present invention should have the following physical characteristics: (1) high luminous efficacy and high power efficiency, (2) a low voltage for the start of light emission, (3) a low driving voltage in actual use, and (4) a long lifespan.</p>
+<p id="p0021" num="0021">To achieve the above-described objects, the inventors of the present invention have focused on the properties of the azabenzoxazole ring, which has affinity for electrons, and specifically focused on the capability of its nitrogen atoms to coordinate a<!-- EPO <DP n="7"> --> metal and also on excellent heat resistance. The inventors have thus designed and chemically synthesized compounds having an azabenzoxazole ring structure, and then experimentally produced various organic EL elements including the compounds, followed by thoroughly evaluating the characteristics thereof, and thus, the present invention has been accomplished.
+<ol id="ol0001" ol-style="">
+<li>1) Specifically, the present invention provides a compound having an azabenzoxazole ring structure and being represented by the general formula (a-1):
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="98" he="47" img-content="chem" img-format="tif"/></chemistry>
+<ul id="ul0003" list-style="none" compact="compact">
+<li>where R is the same or different, and each represents a group represented by the structural formula (b-1), a hydrogen atom, a deuterium atom, a fluorine atom, a chlorine atom, a cyano group, a nitro group, a trimethylsilyl group, a triphenylsilyl group, a substituted or unsubstituted aromatic hydrocarbon group, a substituted or unsubstituted aromatic heterocyclic group, a substituted or unsubstituted fused polycyclic aromatic group, a linear or branched alkyl group having 1 to 6 carbon atoms and optionally having a substituent, a cycloalkyl group having 5 to 10 carbon atoms and optionally having a substituent, a linear or branched alkenyl group having 2 to 6 carbon atoms and optionally having a substituent, a linear or branched alkyloxy group having 1 to 6 carbon atoms and optionally having a substituent, or a cycloalkyloxy group having 5 to 10 carbon atoms and optionally having a substituent; and</li>
+<li>Y is the same or different, and each represents a carbon atom having R or a<!-- EPO <DP n="8"> --> nitrogen atom;</li>
+<li>provided that at least one R is a group represented by the structural formula (b-1), and that at least one Y is a nitrogen atom,<br/>
+[Chem.2]<br/>
+<br/>
+        - - - -L-Het     (b-1)<br/>
+<br/>
+
+<ul id="ul0004" list-style="none" compact="compact">
+<li>where L represents a single bond, or a divalent group of a substituted or unsubstituted aromatic hydrocarbon group, a substituted or unsubstituted aromatic heterocyclic group, or a substituted or unsubstituted fused polycyclic aromatic group;</li>
+<li>Het represents a substituted or unsubstituted pyridyl group, a substituted or unsubstituted pyrimidyl group, a substituted or unsubstituted triazyl group, a substituted or unsubstituted quinolyl group, a substituted or unsubstituted isoquinolyl group, a substituted or unsubstituted phenanthrolinyl group, a substituted or unsubstituted indolyl group, a substituted or unsubstituted azafluorenyl group, a substituted or unsubstituted diazafluorenyl group, a substituted or unsubstituted azaspirobifluorenyl group, or a substituted or unsubstituted diazaspirobifluorenyl group; and</li>
+<li>the dashed line represents a binding site.</li>
+</ul></li>
+</ul></li>
+<li>2) The present invention also provides the compound having an azabenzoxazole ring structure as set forth in clause 1), wherein the compound is represented by the general formula (a-2):
+<chemistry id="chem0002" num="0002"><img id="ib0002" file="imgb0002.tif" wi="19" he="5" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="9"> -->
+<chemistry id="chem0003" num="0003"><img id="ib0003" file="imgb0003.tif" wi="92" he="30" img-content="chem" img-format="tif"/></chemistry>
+where R is as defined in the general formula (a-1).</li>
+<li>3) The present invention also provides the compound having an azabenzoxazole ring structure as set forth in clause 1), wherein the compound is represented by the general formula (a-3):
+<chemistry id="chem0004" num="0004"><img id="ib0004" file="imgb0004.tif" wi="88" he="40" img-content="chem" img-format="tif"/></chemistry>
+where R is as defined in the general formula (a-1).</li>
+<li>4) The present invention also provides the compound having an azabenzoxazole ring structure as set forth in clause 1), wherein the compound is represented by the general formula (a-4):
+<chemistry id="chem0005" num="0005"><img id="ib0005" file="imgb0005.tif" wi="19" he="5" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="10"> -->
+<chemistry id="chem0006" num="0006"><img id="ib0006" file="imgb0006.tif" wi="84" he="30" img-content="chem" img-format="tif"/></chemistry>
+where R is as defined in the general formula (a-1).</li>
+<li>5) The present invention also provides the compound having an azabenzoxazole ring structure as set forth in clause 1), wherein the compound is represented by the general formula (a-5):
+<chemistry id="chem0007" num="0007"><img id="ib0007" file="imgb0007.tif" wi="86" he="40" img-content="chem" img-format="tif"/></chemistry>
+where R is as defined in the general formula (a-1).</li>
+<li>6) The present invention also provides the compound having an azabenzoxazole ring structure as set forth in clause 1), wherein the compound is represented by the general formula (a-6) or (a-7):
+<chemistry id="chem0008" num="0008"><img id="ib0008" file="imgb0008.tif" wi="19" he="5" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="11"> -->
+<chemistry id="chem0009" num="0009"><img id="ib0009" file="imgb0009.tif" wi="74" he="30" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0010" num="0010"><img id="ib0010" file="imgb0010.tif" wi="83" he="40" img-content="chem" img-format="tif"/></chemistry>
+where R is as defined in the general formula (a-1).</li>
+<li>7) The present invention also provides the compound having an azabenzoxazole ring structure as set forth in any one of clauses 2) to 6),<br/>
+wherein L in the structural formula (b-1) represents a single bond, a substituted or unsubstituted phenyl group, a substituted or unsubstituted biphenylyl group, or a substituted or unsubstituted naphthyl group.</li>
+<li>8) The compound having an azabenzoxazole ring structure as set forth in clause 7),<br/>
+wherein Het in the structural formula (b-1) represents a substituted or unsubstituted pyridyl group, a substituted or unsubstituted pyrimidyl group, a substituted or unsubstituted quinolyl group, a substituted or unsubstituted isoquinolyl group, or a substituted or unsubstituted phenanthrolinyl group.<!-- EPO <DP n="12"> --></li>
+<li>9) An organic EL element comprising a pair of electrodes and one or more organic layers sandwiched therebetween,<br/>
+wherein the compound having an azabenzoxazole ring structure as set forth in any one of clauses 1) to 8) is included in at least one of the organic layers as a constituent material thereof.</li>
+<li>10) The organic EL element as set forth in clause 9),<br/>
+wherein the organic layer including the compound having an azabenzoxazole ring structure is an electron-transporting layer.</li>
+<li>11) The organic EL element as set forth in clause 9),<br/>
+wherein the organic layer including the compound having an azabenzoxazole ring structure is a hole-blocking layer.</li>
+<li>12) The organic EL element as set forth in clause 9) above,<br/>
+wherein the organic layer including the compound having an azabenzoxazole ring structure is a light-emitting layer.</li>
+<li>13) The organic EL element as set forth in clause 9) above,<br/>
+wherein the organic layer including the compound having an azabenzoxazole ring structure is an electron-injecting layer.</li>
+</ol></p>
+<p id="p0022" num="0022">Specific examples of the "aromatic hydrocarbon group", the "aromatic<!-- EPO <DP n="13"> --> heterocyclic group", or the "fused polycyclic aromatic group" of the "substituted or unsubstituted aromatic hydrocarbon group", the "substituted or unsubstituted aromatic heterocyclic group", or the "substituted or unsubstituted fused polycyclic aromatic group" represented by R in the general formula (a-1) include a phenyl group, a biphenylyl group, a terphenylyl group, a naphthyl group, an anthracenyl group, a phenanthrenyl group, a fluorenyl group, a spirobifluorenyl group, an indenyl group, a pyrenyl group, a perylenyl group, a fluoranthenyl group, a triphenylenyl group, a pyridyl group, a pyrimidinyl group, a triazinyl group, a furyl group, a pyrrolyl group, a thienyl group, a quinolyl group, an isoquinolyl group, a benzofuranyl group, a benzothienyl group, an indolyl group, a carbazolyl group, a benzooxazolyl group, a benzothiazolyl group, an azafluorenyl group, a diazafluorenyl group, an azaspirobifluorenyl group, a diazaspirobifluorenyl group, a quinoxalinyl group, a benzimidazolyl group, a pyrazolyl group, a dibenzofuranyl group, a dibenzothienyl group, a naphthyridinyl group, a phenanthrolinyl group, an acridinyl group, and a carbolinyl group; and also an aryl group having 6 to 30 carbon atoms, and a heteroaryl group having 2 to 20 carbon atoms.</p>
+<p id="p0023" num="0023">Specific examples of the "substituent" of the "substituted aromatic hydrocarbon group", the "substituted aromatic heterocyclic group", or the "substituted fused polycyclic aromatic group" represented by R in the general formula (a-1) include a deuterium atom, a cyano group, and a nitro group; halogen atoms such as a fluorine atom, a chlorine atom, a bromine atom, and an iodine atom; silyl groups such as a trimethylsilyl group and a triphenylsilyl group; linear or branched alkyl groups having 1 to 6 carbon atoms such as a methyl group, an ethyl group, and a propyl group; linear or branched alkyloxy groups having 1 to 6 carbon atoms such as a methyloxy group, an ethyloxy group, and a propyloxy group; alkenyl groups such as a vinyl group and an allyl group; aryloxy groups such as a phenyloxy group and a tolyloxy group; arylalkyloxy groups such as a benzyloxy group and a phenethyloxy group; aromatic hydrocarbon groups or fused polycyclic aromatic groups such as a phenyl group, a biphenylyl group, a terphenylyl group, a naphthyl group, an anthracenyl group, a phenanthrenyl group, a fluorenyl group, a<!-- EPO <DP n="14"> --> spirobifluorenyl group, an indenyl group, a pyrenyl group, a perylenyl group, a fluoranthenyl group, and a triphenylenyl group; and aromatic heterocyclic groups such as a pyridyl group, a thienyl group, a furyl group, a pyrrolyl group, a quinolyl group, an isoquinolyl group, a benzofuranyl group, a benzothienyl group, an indolyl group, a carbazolyl group, a benzooxazolyl group, a benzothiazolyl group, a quinoxalinyl group, a benzimidazolyl group, a pyrazolyl group, a dibenzofuranyl group, a dibenzothienyl group, and a carbolinyl group. These substituents may further be substituted by any of the substituents listed above as examples. Moreover, such a substituent and the benzene ring substituted therewith, or a plurality of substituents that substitute the same benzene ring may be bonded to each other to form a ring via a single bond, a substituted or unsubstituted methylene group, an oxygen atom, or a sulfur atom.</p>
+<p id="p0024" num="0024">Specific examples of the "carbon atom having a linear or branched alkyl group having 1 to 6 carbon atoms", the "carbon atom having a cycloalkyl group having 5 to 10 carbon atoms", or the "carbon atom having a linear or branched alkenyl group having 2 to 6 carbon atoms" of the "carbon atom having a linear or branched alkyl group having 1 to 6 carbon atoms and optionally having a substituent", the "carbon atom having a cycloalkyl group having 5 to 10 carbon atoms and optionally having a substituent", or the "carbon atom having a linear or branched alkenyl group having 2 to 6 carbon atoms and optionally having a substituent" represented by R in the general formula (a-1) include a methyl group, an ethyl group, an n-propyl group, an isopropyl group, an n-butyl group, an isobutyl group, a tert-butyl group, an n-pentyl group, an isopentyl group, a neopentyl group, an n-hexyl group, a cyclopentyl group, a cyclohexyl group, a 1-adamantyl group, a 2-adamantyl group, a vinyl group, an allyl group, an isopropenyl group, and a 2-butenyl group. Such a substituent and the benzene ring substituted therewith, or a plurality of the substituents that substitute the same benzene ring may be bonded to each other to form a ring via a single bond, a substituted or unsubstituted methylene group, a substituted or unsubstituted amino group, an oxygen atom, or a sulfur atom.<!-- EPO <DP n="15"> --></p>
+<p id="p0025" num="0025">Examples of the "substituent" of the "linear or branched alkyl group having 1 to 6 carbon atoms and optionally having a substituent", the "cycloalkyl group having 5 to 10 carbon atoms and optionally having a substituent", or the "linear or branched alkenyl group having 2 to 6 carbon atoms and optionally having a substituent" represented by R in the general formula (a-1) are the same as those listed above as examples of the "substituent" of the "substituted aromatic hydrocarbon group", the "substituted aromatic heterocyclic group", or the "substituted fused polycyclic aromatic group" represented by R in the general formula (a-1). The same holds true for the form that the substituent may be in.</p>
+<p id="p0026" num="0026">Specific examples of the "carbon atom having a linear or branched alkyloxy group having 1 to 6 carbon atoms" or the "carbon atom having a cycloalkyloxy group having 5 to 10 carbon atoms" of the "carbon atom having a linear or branched alkyloxy group having 1 to 6 carbon atoms and optionally having a substituent" or the "carbon atom having a cycloalkyloxy group having 5 to 10 carbon atoms and optionally having a substituent" represented by R in the general formula (a-1) include a methyloxy group, an ethyloxy group, an n-propyloxy group, an isopropyloxy group, an n-butyloxy group, a tert-butyloxy group, an n-pentyloxy group, an n-hexyloxy group, a cyclopentyloxy group, a cyclohexyloxy group, a cycloheptyloxy group, a cyclooctyloxy group, a 1-adamantyloxy group, and a 2-adamantyloxy group. Such a substituent and the benzene ring substituted therewith, or a plurality of the substituents that substitute the same benzene ring may be bonded to each other to form a ring via a single bond, a substituted or unsubstituted methylene group, a substituted or unsubstituted amino group, an oxygen atom, or a sulfur atom.</p>
+<p id="p0027" num="0027">Examples of the "substituent" of the "linear or branched alkyloxy group having 1 to 6 carbon atoms and optionally having a substituent" or the "cycloalkyloxy group<!-- EPO <DP n="16"> --> having 5 to 10 carbon atoms and optionally having a substituent" represented by R in the general formula (a-1) are the same as those listed above as examples of the "substituent" of the "substituted aromatic hydrocarbon group", the "substituted aromatic heterocyclic group", or the "substituted fused polycyclic aromatic group" represented by R in the general formula (a-1). The same holds true for the form that the substituent may be in.</p>
+<p id="p0028" num="0028">Examples of the "aromatic hydrocarbon group", the "aromatic heterocyclic group", or the "fused polycyclic aromatic group" of the "substituted or unsubstituted aromatic hydrocarbon group", the "substituted or unsubstituted aromatic heterocyclic group", or the "substituted or unsubstituted fused polycyclic aromatic group" represented by L in the structural formula (b-1) are similar to those listed above as examples of the "aromatic hydrocarbon group", the "aromatic heterocyclic group", or the "fused polycyclic aromatic group" of the "substituted or unsubstituted aromatic hydrocarbon group", the "substituted or unsubstituted aromatic heterocyclic group", or the "substituted or unsubstituted fused polycyclic aromatic group" represented by R in the general formula (a-1). The same holds true for the form that the substituent may be in.</p>
+<p id="p0029" num="0029">Examples of the "substituent" of the "substituted aromatic hydrocarbon group", the "substituted aromatic heterocyclic group", or the "substituted fused polycyclic aromatic group" represented by L in the structural formula (b-1) are the same as those listed above as examples of the "substituent" of the "substituted aromatic hydrocarbon group", the "substituted aromatic heterocyclic group", or the "substituted fused polycyclic aromatic group" represented by R in the general formula (a-1). The same holds true for the form that the substituent may be in.</p>
+<p id="p0030" num="0030">Examples of the "substituent" of the "substituted pyridyl group", the "substituted<!-- EPO <DP n="17"> --> pyrimidyl group", the "substituted triazyl group", the "substituted quinolyl group", the "substituted isoquinolyl group", the "substituted phenanthrolinyl group", the "substituted indolyl group", the "substituted azafluorenyl group", the "substituted diazafluorenyl group", the "substituted azaspirobifluorenyl group", or the "substituted diazaspirobifluorenyl group" represented by Het in the structural formula (b-1) are the same as those listed above as examples of the "substituent" of the "substituted aromatic hydrocarbon group", the "substituted aromatic heterocyclic group", or the "substituted fused polycyclic aromatic group" represented by R in the general formula (a-1). The same holds true for the form that the substituent may be in.</p>
+<p id="p0031" num="0031">In the general formula (a-1), R in the case where it is a group other than the group represented by structural formula (b-1) is preferably a hydrogen atom, or the "substituted or unsubstituted fused polycyclic aromatic group".</p>
+<p id="p0032" num="0032">The "substituted or unsubstituted fused polycyclic aromatic group" is preferably a substituted or unsubstituted naphthyl group, anthracenyl group, phenanthrenyl group, fluorenyl group, or spirobifluorenyl group, and more preferably a substituted or unsubstituted anthracenyl group or spirobifluorenyl group. If these groups have a substituent, the substituent is preferably a phenyl group, a biphenylyl group, a terphenylyl group, a naphthyl group, a phenanthrenyl group, or an anthracenyl group, and more preferably a phenyl group or a naphthyl group.</p>
+<p id="p0033" num="0033">Preferable specific examples of R in the general formula (a-1) include the groups represented by the following structure:
+<chemistry id="chem0011" num="0011"><img id="ib0011" file="imgb0011.tif" wi="65" he="33" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="18"> -->
+where the dashed line represents a binding site.</p>
+<p id="p0034" num="0034">L in the structural formula (b-1) is preferably a substituted or unsubstituted phenyl group, biphenylyl group, terphenylyl group, naphthyl group, anthracenyl group, or phenanthrenyl group, and more preferably a substituted or unsubstituted phenyl group, biphenylyl group, or naphthyl group.</p>
+<p id="p0035" num="0035">Het in the structural formula (b-1) is preferably a substituted or unsubstituted pyridyl group, pyrimidyl group, quinolyl group, isoquinolyl group, or phenanthrolinyl group, and more preferably a substituted or unsubstituted pyridyl group or pyrimidyl group.</p>
+<p id="p0036" num="0036">Preferable specific examples of the structural formula (b-1) include the groups represented by the following structure:
+<chemistry id="chem0012" num="0012"><img id="ib0012" file="imgb0012.tif" wi="122" he="63" img-content="chem" img-format="tif"/></chemistry>
+where the dashed line represents a binding site.</p>
+<p id="p0037" num="0037">The compound having an azabenzoxazole ring structure and represented by the general formula (a-1) are suitable for use in the organic EL element of the present<!-- EPO <DP n="19"> --> invention, and can be used as a constituent material of an electron-injecting layer, an electron-transporting layer, or a hole-blocking layer of the organic EL element. The compound having an azabenzoxazole ring structure and represented by the general formula (a-1) is particularly preferable as a material of the electron-injecting layer or the electron-transporting layer due to its high electron mobility.</p>
+<p id="p0038" num="0038">The organic EL element of the present invention includes the compound having an azabenzoxazole ring structure and represented by the general formula (a-1), which has excellent electron-injecting/transporting capability, excellent stability in the form of a thin film, and excellent durability. Therefore, compared with a conventional organic EL element, the organic EL element of the present invention has improved efficiency in terms of transporting electrons from the electron-transporting layer to the light-emitting layer and hence improved luminous efficacy, as well as a reduced driving voltage and hence improved durability of the organic EL element, and thus the organic EL element of the present invention can achieve high efficiency, a low driving voltage, and a long lifespan.</p>
+<p id="p0039" num="0039">The compound having an azabenzoxazole ring structure of the present invention has the properties including: (1) good electron-injecting properties, (2) high electron mobility, (3) excellent hole-blocking capability, (4) stability in the form of a thin film, and (5) excellent heat resistance. The organic EL element of the present invention has the characteristics including: (6) high luminous efficacy, (7) a low voltage for the start of light emission, (8) a low driving voltage in actual use, and (9) a long lifespan.</p>
+<p id="p0040" num="0040">The compound having an azabenzoxazole ring structure of the present invention has good electron-injecting properties and high electron mobility. Therefore, an organic EL element having an electron-injecting layer and/or an electron-transporting layer<!-- EPO <DP n="20"> --> including the compound as an electron-injecting material and/or an electron-transporting material has improved efficiency in terms of transporting electrons to the light-emitting layer and hence improved luminous efficacy, and also has a lower driving voltage and hence improved durability.</p>
+<p id="p0041" num="0041">The compound having an azabenzoxazole ring structure of the present invention is characterized by excellent hole-blocking capability and electron-transporting capability, stability in the form of a thin film, and capability to confine excitons generated in a light-emitting layer. Therefore, an organic EL element including a hole-blocking layer produced by using the compound as a hole-blocking material has high luminous efficacy because the probability of recombination of holes and electrons is increased to thereby suppress the heat inactivation, and also has an increased maximum luminance because the driving voltage is reduced to thereby improve the current resistance.</p>
+<p id="p0042" num="0042">The compound having an azabenzoxazole ring structure of the present invention has excellent electron-transporting capability and has a wide band gap. Therefore, an organic EL element including a light-emitting layer prepared by using the compound as a host material has a reduced driving voltage and hence improved luminous efficacy when the light-emitting layer contains a fluorescent emitter, a phosphorescent emitter, or a delayed fluorescent emitter, which are called dopants.</p>
+<p id="p0043" num="0043">Accordingly, the compound having an azabenzoxazole ring structure of the present invention is useful as the material of an electron-injecting layer, an electron-transporting layer, a hole-blocking layer, or a light-emitting layer of an organic EL element, and can improve the luminous efficacy, the driving voltage, and the durability of a conventional organic EL element.<!-- EPO <DP n="21"> --></p>
+<heading id="h0007">Brief Description of Drawings</heading>
+<p id="p0044" num="0044">
+<ul id="ul0005" list-style="none" compact="compact">
+<li>[<figref idref="f0001">Fig. 1] Fig. 1</figref> shows Compounds (1) to (18) as preferable specific examples of the compound having an azabenzoxazole ring structure and represented by the general formula (a-1)</li>
+<li>[<figref idref="f0002">Fig. 2] Fig. 2</figref> shows Compounds (19) to (33) as preferable specific examples of the compound having an azabenzoxazole ring structure and represented by the general formula (a-1).</li>
+<li>[<figref idref="f0003">Fig. 3] Fig. 3</figref> shows Compounds (34) to (47) as preferable specific examples of the compound having an azabenzoxazole ring structure and represented by the general formula (a-1).</li>
+<li>[<figref idref="f0004">Fig. 4] Fig. 4</figref> shows Compounds (48) to (63) as preferable specific examples of the compound having an azabenzoxazole ring structure and represented by the general formula (a-1).</li>
+<li>[<figref idref="f0005">Fig. 5] Fig. 5</figref> shows Compounds (64) to (72) as preferable specific examples of the compound having an azabenzoxazole ring structure and represented by the general formula (a-1).</li>
+<li>[<figref idref="f0005">Fig. 6] Fig. 6</figref> is a diagram showing the configuration of organic EL elements of Examples 9 to 14 and Comparative Examples 1 and 2.</li>
+</ul></p>
+<heading id="h0008">Description of Embodiments</heading>
+<p id="p0045" num="0045">Although the compound having an azabenzoxazole ring structure of the present invention is a novel compound, the compound itself can be synthesized according to a known method (see Non-Patent Literature 6, for example).</p>
+<p id="p0046" num="0046">Specific preferable examples of the compound having an azabenzoxazole ring structure and represented by the general formula (a-1), which is suitable for use in the organic EL element of the present invention, will be shown in <figref idref="f0001 f0002 f0003 f0004 f0005">Figs. 1 to 5</figref>. However, the<!-- EPO <DP n="22"> --> present invention is not limited to these compounds.</p>
+<p id="p0047" num="0047">The compounds having an azabenzoxazole ring structure and represented by the general formulas (a-1) to (a-7) can be purified using a known purification method such as column chromatography, adsorption with silica gel, activated carbon, activated clay, or others, recrystallization or crystallization from a solvent, or sublimation. The compounds can be identified by NMR analysis. The physical properties can be measured in terms of a melting point, a glass transition point (Tg), a work function, and others. The melting point is a measure of vapor deposition properties, the glass transition point (Tg) is a measure of stability in the form of a thin film, and the work function is a measure of hole-transporting capability and hole-blocking cability.</p>
+<p id="p0048" num="0048">The melting point and the glass transition point (Tg) can be measured on the compound in the form of a powder using a high-sensitivity differential scanning calorimeter (DSC3100SA manufactured by Bruker AXS K.K.), for example.</p>
+<p id="p0049" num="0049">The work function can be measured on the compound in the form of a thin film with a thickness of 100 nm formed on an ITO substrate using an ionization potential measuring device (PYS-202 manufactured by Sumitomo Heavy Industries, Ltd.), for example.</p>
+<p id="p0050" num="0050">The organic EL element of the present invention may have a structure in which an anode, a hole-injecting layer, a hole-transporting layer, a light-emitting layer, an electron-transporting layer, an electron-injecting layer, and a cathode are sequentially provided on a substrate; and the structure may further include an electron-blocking layer<!-- EPO <DP n="23"> --> between the hole-transporting layer and the light-emitting layer and also may further include a hole-blocking layer between the light-emitting layer and the electron-transporting layer. In these multilayer structures, a single organic layer may perform functions of some layers. For example, a single organic layer may serve as both the hole-injecting layer and the hole-transporting layer, and a single organic layer may serve as both the electron-injecting layer and the electron-transporting layer. Moreover, it is possible to stack two or more organic layers having the same function. Specifically, two hole-transporting layers may be stacked; two light-emitting layers may be stacked; and two electron-transporting layers may be stacked.</p>
+<p id="p0051" num="0051">An electrode material having a high work function, such as ITO or gold, is used for the anode of the organic EL element of the present invention. Examples of a material used for the hole-injecting layer of the organic EL element of the present invention include porphyrin compounds typified by copper phthalocyanine; starburst triphenylamine derivatives; arylamine compounds having a structure containing two or more triphenylamine structures or carbazolyl structures in the molecule, the triphenylamine or the carbazolyl structures being linked via a single bond or a divalent group having no heteroatom; heterocyclic compounds of acceptor type, such as hexacyanoazatriphenylene; polymer materials of coating type. These materials can be formed into a thin film using a known method such as vapor deposition, spin coating, or inkjet printing.</p>
+<p id="p0052" num="0052">Examples of a material used for the hole-transporting layer of the organic EL element of the present invention include benzidine derivatives, such as N,N'-diphenyl-N,N'-di(m-tolyl)-benzidine (hereinafter abbreviated as TPD), N,N'-diphenyl-N,N'-di(α-naphthyl)benzidine (hereinafter abbreviated as NPD), and N,N,N',N'-tetrabiphenylyl benzidine; 1,1-bis[(di-4-tolylamino)phenyl]cyclohexane (hereinafter abbreviated as TAPC); and arylamine compounds having a structure<!-- EPO <DP n="24"> --> containing two or more triphenylamine structures or carbazolyl structures in the molecule, the triphenylamine or the carbazolyl structures being linked via a single bond or a divalent group having no heteroatom.</p>
+<p id="p0053" num="0053">These materials may be used singly for film formation, or two or more of these material may be mixed and used for film formation. In each case, a single layer may be formed. The hole-transporting layer may have a layered structure composed of different layers each formed of a single kind of the materials described above, a layered structure composed of different layers each formed of a mixture of the materials described above, or a layered structure composed of a layer formed of a single kind of the materials described above and a layer formed of a mixture of two or more of the materials described above.</p>
+<p id="p0054" num="0054">It is also possible to use, as a material for a hole-injecting/transporting layer, polymer materials of coating type, such as poly(3,4-ethylenedioxythiophene) (hereinafter abbreviated as PEDOT)/poly(styrenesulfonate) (hereinafter abbreviated as PSS)</p>
+<p id="p0055" num="0055">These materials can be formed into a thin film using a known method such as vapor deposition, spin coating, or inkjet printing.</p>
+<p id="p0056" num="0056">Other examples of the material used for the hole-injecting layer or the hole-transporting layer include a material obtained by p-doping a material normally used for these layers with trisbromophenylamine hexachloroantimony or a radialene derivative (see Patent Literature 6, for example); and a polymer compound having the structure of a benzidine derivative, such as TPD, as a partial structure thereof.</p>
+<p id="p0057" num="0057">Examples of a material used for the electron-blocking layer of the organic EL element of the present invention include compounds having an electron-blocking effect, such as carbazole derivatives such as 4,4',4"-tri(N-carbazolyl)triphenylamine (hereinafter abbreviated as TCTA), 9,9-bis[4-(carbazole-9-yl)phenyl]fluorene, 1,3-bis(carbazole-9-yl)benzene (hereinafter abbreviated as mCP), and<!-- EPO <DP n="25"> --> 2,2-bis(4-carbazole-9-ylphenyl)adamantane (hereinafter abbreviated as Ad-Cz); and compounds having a triphenylsilyl group and a triarylamine structure and typified by 9-[4-(carbazole-9-yl)phenyl]-9-[4-(triphenylsilyl)phenyl]-9H-fluorene . These materials may be used singly for film formation, or a mixture of any of these material and another material may be used to form a single layer.</p>
+<p id="p0058" num="0058">These materials may be used singly for film formation, or two or more of these material may be mixed and used for film formation. In each case, a single layer may be formed. The electron-blockting layer may have a layered structure composed of different layers each formed of a single kind of the materials described above, a layered structure composed of different layers each formed of a mixture of the materials described above, or a layered structure composed of a layer formed of a single kind of the materials described above and a layer formed of a mixture of two or more of the materials described above. These materials can be formed into a thin film using a known method such as vapor deposition, spin coating, or inkjet printing.</p>
+<p id="p0059" num="0059">Examples of a material used for the light-emitting layer of the organic EL element of the present invention include the compound having an azabenzoxazole ring structure of the present invention, and also metal complexes of quinolinol derivatives such as Alq<sub>3</sub>, various types of metal complexes, an anthracene derivative, a bisstyrylbenzene derivative, a pyrene derivative, an oxazole derivative, and a polyphenylene vinylene derivative. The light-emitting layer may include a host material and a dopant material. As the host material, an anthracene derivative is preferably used. Other examples of the host material include the above-listed light-emitting materials including the compound having an azabenzoxazole ring structure of the present invention, and also a heterocyclic compound having an indole ring as a partial structure of a fused ring, a heterocyclic compound having a carbazole ring as a partial structure of a fused ring, a carbazole derivative, a thiazole derivative, a benzimidazole derivative, and a polydialkylfluorene derivative. Examples of the dopant material include quinacridone, coumalin, rubrene, perylene, and derivatives thereof; a benzopyran derivative; a<!-- EPO <DP n="26"> --> rhodamine derivative; and an aminostyryl derivative.</p>
+<p id="p0060" num="0060">These materials may be used singly for film formation, or two or more of these material may be mixed and used for film formation. In each case, a single layer may be formed. The light-emitting layer may have a layered structure composed of different layers each formed of a single kind of the materials described above, a layered structure composed of different layers each formed of a mixture of the materials described above, or a layered structure composed of a layer formed of a single kind of the materials described above and a layer formed of a mixture of two or more of the materials described above. These materials can be formed into a thin film using a known method such as vapor deposition, spin coating, or inkjet printing.</p>
+<p id="p0061" num="0061">A phosphorescent emitter can also be used as a light-emitting material. The phosphorescent emitter may be a metal complex of iridium, platinum, or the like, and examples thereof include a green phosphorescent emitter such as Ir(ppy)<sub>3</sub>, a blue phosphorescent emitter such as FIrpic or FIr6, and a red phosphorescent emitter such as Btp<sub>2</sub>Ir (acac). As a host material in this case, a host material having hole injecting/transporting capability may be used, including carbazole derivatives such as 4,4'-di(N-carbazolyl)biphenyl (hereinafter abbreviated as CBP), TCTA, and mCP, and also the compound having an azabenzoxazole ring structure of the present invention. Also, host materials having electron-transporting capability may be used, including p-bis(triphenylsilyl)benzene (hereinafter abbreviated as UGH2) and 2,2',2"-(1,3,5-phenylene)-tris(1-phenyl-1H-benzimidazole) (hereinafter abbreviated as TPBI). Use of these materials enables production of a high-performance organic EL element.</p>
+<p id="p0062" num="0062">In order to avoid concentration quenching, doping of the host material with a phosphorescent material is preferably performed by co-deposition in an amount within a range of 1 to 30 wt% based on the entire light-emitting layer.<!-- EPO <DP n="27"> --></p>
+<p id="p0063" num="0063">As the light-emitting material, a material that emits delayed fluorescence can also be used, including a CDCB derivative, such as PIC-TRZ, CC2TA, PXZ-TRZ, or 4CzIPN (see Non-Patent Literature 3, for example). These materials can be formed into a thin film using a known method such as vapor deposition, spin coating, or inkjet printing.</p>
+<p id="p0064" num="0064">Examples of a material used for the hole-blocking layer of the organic EL element of the present invention include the compound having an azabenzoxazole ring structure of the present invention, and also compounds exhibiting a hole-blocking effect including a phenanthroline derivative, such as bathocuproine (hereinafter abbreviated as BCP); a metal complex of a quinolinol derivative, such as BAlq; various types of rare-earth complexes; an oxazole derivative; a triazole derivative; and a triazine derivative. These materials may also serve as the material of the electron-transporting layer.</p>
+<p id="p0065" num="0065">These materials may be used singly for film formation, or two or more of these material may be mixed and used for film formation. In each case, a single layer may be formed. The hole-bloking layer may have a layered structure composed of different layers each formed of a single kind of the materials described above, a layered structure composed of different layers each formed of a mixture of the materials described above, or a layered structure composed of a layer formed of a single kind of the materials described above and a layer formed of a mixture of two or more of the materials described above. These materials can be formed into a thin film using a known method such as vapor deposition, spin coating, or inkjet printing.</p>
+<p id="p0066" num="0066">Examples of a material used for the electron-transporting layer of the organic EL element of the present invention include the compound having an azabenzoxazole ring structure of the present invention, and also metal complexes of quinolinol derivatives, such as Alq<sub>3</sub> and BAlq; various types of metal complexes; a triazole derivative; a triazine<!-- EPO <DP n="28"> --> derivative; an oxadiazole derivative; a pyridine derivative; a benzimidazole derivative; a thiadiazole derivative; an anthracene derivative; a carbodiimide derivative; a quinoxaline derivative; a pyridoindole derivative; a phenanthroline derivative; and a silole derivative.</p>
+<p id="p0067" num="0067">These materials may be used singly for film formation, or two or more of these material may be mixed and used for film formation. In each case, a single layer may be formed. The electron-transporting layer may have a layered structure composed of different layers each formed of a single kind of the materials described above, a layered structure composed of different layers each formed of a mixture of the materials described above, or a layered structure composed of a layer formed of a single kind of the materials described above and a layer formed of a mixture of two or more of the materials described above. These materials can be formed into a thin film using a known method such as vapor deposition, spin coating, or inkjet printing.</p>
+<p id="p0068" num="0068">Examples of a material used for the electron-injecting layer of the organic EL element of the present invention include the compound having an azabenzoxazole ring structure of the present invention, and also an alkali metal salt such as lithium fluoride or cesium fluoride; an alkaline earth metal salt such as magnesium fluoride; a metal complex of a quinolinol derivative such as lithium quinolinol; a metal oxide such as aluminum oxide; and a metal such as ytterbium (Yb), samarium (Sm), calcium (Ca), strontium (Sr), and cesium (Cs). The electron-injecting layer can however be omitted when an electron-transporting layer and a cathode are suitably selected.</p>
+<p id="p0069" num="0069">Furthermore, a material obtained by n-doping a material normally used for an electron-injecting layer or an electron-transporting layer with a metal such as cesium can be used for the electron-injecting layer or the electron-transporting layer.</p>
+<p id="p0070" num="0070"><!-- EPO <DP n="29"> --> Examples of an electrode material used for the cathode of the organic EL element of the present invention include a metal having a low work function, such as aluminum; and an alloy having an even lower work function, such as a magnesium-silver alloy, a magnesium-indium alloy, and an aluminum-magnesium alloy.</p>
+<heading id="h0009">Examples</heading>
+<p id="p0071" num="0071">Hereinafter, embodiments of the present invention will be described in greater detail by way of Examples. However, the present invention is not limited to Examples below as long as it does not depart from the gist thereof.</p>
+<heading id="h0010">Example 1</heading>
+<heading id="h0011">&lt;Synthesis of 6-(10-phenyl-anthracene-9-yl)-2-(4-pyridine-3-yl-phenyl)-7-azabenzoxazole (Compound (5))&gt;</heading>
+<p id="p0072" num="0072">First, 4.1 g of 2-(4-chlorophenyl)-6-(10-phenyl-anthracene-9-yl)-7-azabenzoxazole, 1.1 g of 3-pyridylboronic acid, 0.6 g of tris(dibenzylideneacetone)dipalladium(0), 1.0 ml of 50% (w/v) tri-(t-butyl)phosphine solution in toluene, and 5.2 g of cesium carbonate were placed in a reaction vessel, and stirred under reflux overnight in a 1,4-dioxane/H<sub>2</sub>O mixed solvent. The reaction system was allowed to cool. Then, ethyl acetate/H<sub>2</sub>O was added thereto, and an organic layer was obtained through extraction and separation, and concentrated to obtain a crude product. The thus obtained crude product was purified by column chromatography (carrier: silica gel, eluent: dichloromethane/ethyl acetate) to thereby obtain 3.2 g (yield: 71%) of a pale yellow powder of 6-(10-phenyl-anthracene-9-yl)-2-(4-pyridine-3-yl-phenyl)-7-azabenzoxazole (Compound (5)).<!-- EPO <DP n="30"> -->
+<chemistry id="chem0013" num="0013"><img id="ib0013" file="imgb0013.tif" wi="135" he="32" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0073" num="0073">The structure of the obtained pale yellow powder was identified using NMR.</p>
+<p id="p0074" num="0074">In <sup>1</sup>H-NMR (CDCl<sub>3</sub>), the following signals of 23 hydrogens were detected. δ (ppm) = 8.99 (1H), 8.70 (1H), 8.50 (2H), 8.36 (1H), 8.01 (1H), 7.85 (2H), 7.79-7.57 (8H), 7.56-7.33 (7H).</p>
+<heading id="h0012">Example 2</heading>
+<heading id="h0013">&lt;Synthesis of 2-{4'-(pyridine-3-yl)-biphenyl-4-yl}-6-(9,9'-spirobi[9H]fluorene-2-yl)-7-azabenzoxazole (Compound (15))&gt;</heading>
+<p id="p0075" num="0075">First, 10.0 g of 2-(4-chlorophenyl)-6-(9,9'-spirobi[9H]fluorene-2-yl)-7-azabenzoxazole, 4.4 g of 4-(pyridine-3-yl)-phenylboronic acid, 0.5 g of tris(dibenzylideneacetone)dipalladium(0), 0.3 g of tricyclohexylphosphine, and 11.7 g of tripotassium phosphate were placed in a reaction vessel, and stirred under reflux overnight in a 1,4-dioxane/H<sub>2</sub>O mixed solvent. The reaction system was allowed to cool. Then, ethyl acetate/H<sub>2</sub>O was added thereto, and an organic layer was obtained through extraction and separation, and concentrated to obtain a crude product. The thus obtained crude product was purified by column chromatography (carrier: silica gel, eluent: dichloromethane/ethyl acetate) to thereby obtain 8.7 g (yield: 71%) of a pale yellow powder of 2-{4'-(pyridine-3-yl)-biphenyl-4-yl}-6-(9,9'-spirobi[9H]fluorene-2-yl)-7-azabenzoxazole (Compound (15)).<!-- EPO <DP n="31"> -->
+<chemistry id="chem0014" num="0014"><img id="ib0014" file="imgb0014.tif" wi="135" he="31" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0076" num="0076">The structure of the obtained pale yellow powder was identified using NMR.</p>
+<p id="p0077" num="0077">In <sup>1</sup>H-NMR (CDCl<sub>3</sub>), the following signals of 29 hydrogens were detected. δ (ppm) = 8.94 (1H), 8.65 (1H), 8.37 (2H), 8.21 (1H), 8.01 (2H), 7.96 (1H), 7.92 (3H), 7.83 (2H), 7.81 (2H), 7.73 (2H), 7.69 (1H), 7.50 (1H), 7.42 (4H), 7.16 (2H), 7.14 (1H), 6.82 (2H), 6.76 (1H).</p>
+<heading id="h0014">Example 3</heading>
+<heading id="h0015">&lt;Synthesis of 2-{3'-(pyridine-3-yl)-biphenyl-4-yl}-6-(9,9'-spirobi[9H]fluorene-2-yl)-7-azabenzoxazole (Compound (17))&gt;</heading>
+<p id="p0078" num="0078">First, 10.0 g of 2-(4-chlorophenyl)-6-(9,9'-spirobi[9H]fluorene-2-yl)-7-azabenzoxazole, 4.4 g of 3-(pyridine-3-yl)-phenylboronic acid, 0.5 g of tris(dibenzylideneacetone)dipalladium(0), 0.3 g of tricyclohexylphosphine, 11.7 g of tripotassium phosphate were placed in a reaction vessel, and stirred under reflux overnight in a 1,4-dioxane/H<sub>2</sub>O mixed solvent. The reaction system was allowed to cool. Then, ethyl acetate/H<sub>2</sub>O was added thereto, and an organic layer was obtained through extraction and separation, and concentrated to obtain a crude product. The thus obtained crude product was purified by column chromatography (carrier: silica gel, eluent: dichloromethane/ethyl acetate) to thereby obtain 8.3 g (yield: 68%) of a pale yellow powder of 2-{3'-(pyridine-3-yl)-biphenyl-4-yl}-6-(9,9'-spirobi[9H]fluorene-2-yl)-7-azabenzoxazole<!-- EPO <DP n="32"> --> (Compound (17)).
+<chemistry id="chem0015" num="0015"><img id="ib0015" file="imgb0015.tif" wi="135" he="31" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0079" num="0079">The structure of the obtained pale yellow powder was identified using NMR.</p>
+<p id="p0080" num="0080">In <sup>1</sup>H-NMR (CDCl<sub>3</sub>), the following signals of 29 hydrogens were detected. δ (ppm) = 8.94 (1H), 8.66 (1H), 8.38 (2H), 8.21 (1H), 8.01 (2H), 7.97 (1H), 7.91 (3H), 7.87 (1H), 7.84 (2H), 7.72 (1H), 7.70 (1H), 7.63 (2H), 7.50 (1H), 7.41 (4H), 7.16 (2H), 7.13 (1H), 6.82 (2H), 6.76 (1H).</p>
+<heading id="h0016">Example 4</heading>
+<heading id="h0017">&lt;Synthesis of 2-{4-(10-phenyl-anthracene-9-yl)-phenyl}-6-(4-pyridine-3-yl-phenyl)-7-azabenzoxazole (Compound (22))&gt;</heading>
+<p id="p0081" num="0081">First, 8.1 g of 2-(4-chlorophenyl)-6-(4-pyridine-3-yl-phenyl)-7-azabenzoxazole, 6.9 g of 10-phenyl-9-anthraceneboronic acid, 0.6 g of tris(dibenzylideneacetone)dipalladium(0), 4.0 ml of 50% (w/v) tri-(t-butyl)-phosphine solution in toluene, and 13.7 g of cesium carbonate were placed in a reaction vessel, and stirred under reflux overnight in a 1,4-dioxane/H<sub>2</sub>O mixed solvent. The reaction system was allowed to cool. Then, methanol was added thereto, and the deposited solid was collected by filtering to thereby obtain a crude product. The thus obtained crude product was purified by column chromatography (carrier: silica gel, eluent: dichloromethane/ethyl<!-- EPO <DP n="33"> --> acetate) to thereby obtain 4.2 g (yield: 33%) of a yellow powder of 2-{4-(10-phenyl-anthracene-9-yl)-phenyl}-6-(4-pyridine-3-yl-phenyl)-7-azabenzoxazole (Compound (22)).
+<chemistry id="chem0016" num="0016"><img id="ib0016" file="imgb0016.tif" wi="137" he="36" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0082" num="0082">The structure of the obtained yellow powder was identified using NMR.</p>
+<p id="p0083" num="0083">In <sup>1</sup>H-NMR (CDCl<sub>3</sub>), the following signals of 27 hydrogens were detected. δ (ppm) = 8.98 (1H), 8.66 (1H), 8.60 (2H), 8.29 (2H), 8.24 (1H), 8.02 (1H), 7.97 (1H), 7.84-7.70 (8H), 7.64 (3H), 7.52 (2H), 7.47-7.36 (5H).</p>
+<heading id="h0018">Example 5</heading>
+<heading id="h0019">&lt;Synthesis of 2-[4-{2,6-bis(4-naphthalene-1-yl-phenyl)-pyrimidine-4-yl}-phenyl]-7-azabenzoxazole (Compound (26))&gt;</heading>
+<p id="p0084" num="0084">First, 4.6 g of 2-{4-(2,6-dichloropyrimidine-4-yl)-phenyl}-7-azabenzoxazole, 7.3 g of 4-(naphthalene-1-yl)-phenylboronic acid, and 0.6 g of tetrakis(triphenylphosphine)palladium(0) were placed in a reaction vessel, and 32 mL of toluene, 8 mL of ethanol, and an aqueous solution of 5.6 g of potassium carbonate in 20 mL of H<sub>2</sub>O were added thereto. The resulting mixture was stirred under reflux overnight.<!-- EPO <DP n="34"> --> The reaction system was allowed to cool. Then, methanol was added thereto, and the deposited solid was collected by filtering to obtain a crude product. The obtained crude product was purified through recrystallization from a monochlorobenzene solvent to thereby obtain 5.8 g (yield: 64%) of a white solid of 2-[4-{2,6-bis(4-naphthalene-1-yl-phenyl)-pyrimidine-4-yl}-phenyl]-7-azabenzoxazole (Compound (26)).
+<chemistry id="chem0017" num="0017"><img id="ib0017" file="imgb0017.tif" wi="129" he="54" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0085" num="0085">The structure of the obtained white powder was identified using NMR.</p>
+<p id="p0086" num="0086">In <sup>1</sup>H-NMR (CDCl<sub>3</sub>), the following signals of 30 hydrogens were detected. δ (ppm) = 8.91 (2H), 8.55 (4H), 8.50 (2H), 8.41 (1H), 8.23 (1H), 8.13 (1H), 8.01 (2H), 7.94 (4H), 7.76 (2H), 7.74 (2H), 7.62-7.44 (8H), 7.41 (1H).</p>
+<heading id="h0020">Example 6</heading>
+<heading id="h0021">&lt;Synthesis of 2-[4-{2-(4-naphthalene-1-yl-phenyl)-6-(4-pyridine-3-yl-phenyl)-pyrimidine-4-yl}-phenyl ]-7-azabenzoxazole (Compound (30))&gt;</heading>
+<p id="p0087" num="0087">First, 6.3 g of<!-- EPO <DP n="35"> --> 2-[4-{2-chloro-6-(4-pyridine-3-yl-phenyl)-pyrimidine-4-yl}-phenyl]-7-azabenzoxazole, 4.1 g of 4-(naphthalene-1-yl)-phenylboronic acid, and 0.3 g of tetrakis(triphenylphosphine)palladium(0) were placed in a reaction vessel, and 44 mL of toluene, 11 mL of ethanol, and an aqueous solution of 2.3 g of potassium carbonate in 8 mL of H<sub>2</sub>O were added thereto. The resulting mixture was stirred under reflux overnight. The reaction system was allowed to cool. Then, methanol was added thereto, and the deposited solid was collected by filtering to obtain a crude product. The thus obtained crude product was purified by column chromatography (carrier: silica gel, eluent: dichloromethane/ethyl acetate) to thereby obtain 3.2 g (yield: 37%) of a white solid of 2-[4-{2-(4-naphthalene-1-yl-phenyl)-6-(4-pyridine-3-yl-phenyl)-pyrimidine-4-yl}-phenyl ]-7-azabenzoxazole (Compound (30)).
+<chemistry id="chem0018" num="0018"><img id="ib0018" file="imgb0018.tif" wi="120" he="47" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0088" num="0088">The structure of the obtained white powder was identified using NMR.</p>
+<p id="p0089" num="0089">In <sup>1</sup>H-NMR (CDCl<sub>3</sub>), the following signals of 27 hydrogens were detected. δ (ppm) = 8.97 (1H), 8.88 (2H), 8.66 (1H), 8.54 (4H), 8.49 (2H), 8.41 (1H), 8.18 (1H), 8.13 (1H), 8.01 (2H), 7.93 (2H), 7.81 (2H), 7.73 (2H), 7.63-7.37 (6H).</p>
+<heading id="h0022">Example 7</heading><!-- EPO <DP n="36"> -->
+<p id="p0090" num="0090">The melting point and the glass transition point of each of the azabenzoxazole compounds represented by the general formulas (a-1) to (a-7) were measured using a high-sensitivity differential scanning calorimeter (DSC3100SA manufactured by Bruker AXS K.K.). Table 1 shows the results.<!-- EPO <DP n="37"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>Table 1</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="32mm"/>
+<colspec colnum="2" colname="col2" colwidth="23mm"/>
+<colspec colnum="3" colname="col3" colwidth="35mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry valign="top">Melting point</entry>
+<entry valign="top">Glass transition point</entry></row></thead>
+<tbody>
+<row>
+<entry>Compound of Ex. 1</entry>
+<entry>342°C</entry>
+<entry>134°C</entry></row>
+<row>
+<entry>Compound of Ex. 2</entry>
+<entry>328°C</entry>
+<entry>165°C</entry></row>
+<row>
+<entry>Compound of Ex. 3</entry>
+<entry>-</entry>
+<entry>146°C</entry></row>
+<row>
+<entry>Compound of Ex. 4</entry>
+<entry>394°C</entry>
+<entry>-</entry></row>
+<row>
+<entry>Compound of Ex. 5</entry>
+<entry>271°C</entry>
+<entry>135°C</entry></row>
+<row>
+<entry>Compound of Ex. 6</entry>
+<entry>293°C</entry>
+<entry>134°C</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0091" num="0091">The compounds having an azabenzoxazole ring structure and represented by the general formulas (a-1) to (a-7) had a glass transition point of at least 130°C, which means that these compounds are stable in the form of a thin film.</p>
+<heading id="h0023">Example 8</heading>
+<p id="p0092" num="0092">A vapor-deposited film (thickness: 100 nm) of the compound having an azabenzoxazole ring structure and represented by the general formula (a-1) to (a-7) was formed on an ITO substrate, and the work function was measured using an ionization potential measuring device (PYS-202 manufactured by Sumitomo Heavy Industries, Ltd.). Table 2 shows the results.
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>Table 2</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="32mm"/>
+<colspec colnum="2" colname="col2" colwidth="24mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry valign="top">Work function</entry></row></thead>
+<tbody>
+<row>
+<entry>Compound of Ex. 1</entry>
+<entry>6.07 eV</entry></row>
+<row>
+<entry>Compound of Ex. 2</entry>
+<entry>6.37 eV</entry></row>
+<row>
+<entry>Compound of Ex. 3</entry>
+<entry>6.35 eV</entry></row>
+<row>
+<entry>Compound of Ex. 4</entry>
+<entry>5.91 eV</entry></row>
+<row>
+<entry>Compound of Ex. 5</entry>
+<entry>6.58 eV</entry></row>
+<row>
+<entry>Compound of Ex. 6</entry>
+<entry>6.64 eV</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="38"> --></p>
+<p id="p0093" num="0093">The compounds having an azabenzoxazole ring structure and represented by the general formulas (a-1) to (a-7) had a work function value greater than 5.5 eV, which is the work function of common hole-transporting materials such as NPD and TPD. This means that these compounds have good hole-blocking capability.</p>
+<heading id="h0024">Example 9</heading>
+<p id="p0094" num="0094">As shown in <figref idref="f0005">Fig. 6</figref>, an organic EL element was prepared by vapor-depositing, on an ITO electrode that was formed as a transparent anode 2 on a glass substrate 1, a hole-injecting layer 3, a hole-transporting layer 4, a light-emitting layer 5, a hole-blocking layer 6, an electron-transporting layer 7, an electron-injecting layer 8, and a cathode (aluminum electrode) 9 in this order.</p>
+<p id="p0095" num="0095">Specifically, a glass substrate 1 having an ITO film with a thickness of 50 nm as a transparent anode 2 was ultrasonically cleaned in isopropyl alcohol for 20 minutes, and then dried for 10 minutes on a hot plate heated at 200°C. After that, UV/ozone treatment was performed for 15 minutes. Then, the glass substrate with ITO was set inside a vacuum vapor deposition machine, and the pressure was reduced to 0.001 Pa or less. Subsequently, an electron acceptor (Acceptor-1) having the structural formula below and a compound (HTM-1) having the structural formula below were vapor-deposited so as to coat the transparent anode 2 through binary vapor deposition at vapor deposition rates such that the ratio of the vapor deposition rate of Acceptor-1 to that of HTM-1 was 3:97, to thereby form a hole-injecting layer 3 with a thickness of 10 nm.</p>
+<p id="p0096" num="0096">On this hole-injecting layer 3, a hole-transporting layer 4 (thickness: 60 nm) made of the compound (HTM-1) having the structural formula below was formed.</p>
+<p id="p0097" num="0097">A compound (EMD-1) having the structural formula below and a compound (EMH-1) having the structural formula below were vapor-deposited on this hole-transporting layer 4 through binary vapor deposition at vapor deposition rates such<!-- EPO <DP n="39"> --> that the ratio of the vapor deposition rate of EMD-1 to that of EMH-1 was 5:95, to thereby form a light-emitting layer 5 with a thickness of 20 nm.</p>
+<p id="p0098" num="0098">Inventive Compound (5) of Example 1 and a compound (ETM-1) having the structural formula below were vapor-deposited on this light-emitting layer 5 through binary vapor deposition at vapor deposition rates such that the ratio of the vapor deposition rate of Compound (5) to that of ETM-1 was 50:50, to thereby form a layer (thickness 30 nm) serving as both a hole-blocking layer 6 and an electron-transporting layer 7.</p>
+<p id="p0099" num="0099">On this layer serving as both the hole-blocking layer 6 and the electron-transporting layer 7, an electron-injecting layer 8 (thickness 1 nm) made of lithium fluoride was formed.</p>
+<p id="p0100" num="0100">Finally, aluminum was vapor-deposited to a thickness of 100 nm to thereby form a cathode 9.</p>
+<p id="p0101" num="0101">The prepared organic EL element was characterized in the atmosphere at normal temperature. Table 1 collectively shows the measurement results of light emission characteristics when a DC voltage was applied to the prepared organic EL element.
+<chemistry id="chem0019" num="0019"><img id="ib0019" file="imgb0019.tif" wi="112" he="54" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="40"> -->
+<chemistry id="chem0020" num="0020"><img id="ib0020" file="imgb0020.tif" wi="91" he="70" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0021" num="0021"><img id="ib0021" file="imgb0021.tif" wi="103" he="39" img-content="chem" img-format="tif"/></chemistry></p>
+<heading id="h0025">Example 10</heading>
+<p id="p0102" num="0102">An organic EL element was prepared under the same conditions as in Example 9, except that, instead of Compound (5) of Example 1, Compound (15) of Example 2 was used as the material of the layer serving as both the hole-blocking layer 6 and the electron-transporting layer 7, and that the binary vapor deposition was performed at vapor deposition rates such that the ratio of the vapor deposition rate of Compound (15) to that of ETM-1 was 50:50. The prepared organic EL element was characterized in the atmosphere at normal temperature. Table 3 collectively shows the measurement results of light emission characteristics when a DC voltage was applied to the prepared organic<!-- EPO <DP n="41"> --> EL element.
+<chemistry id="chem0022" num="0022"><img id="ib0022" file="imgb0022.tif" wi="80" he="40" img-content="chem" img-format="tif"/></chemistry></p>
+<heading id="h0026">Example 11</heading>
+<p id="p0103" num="0103">An organic EL element was prepared under the same conditions as in Example 9, except that, instead of Compound (5) of Example 1, Compound (17) of Example 3 was used as the material of the layer serving as both the hole-blocking layer 6 and the electron-transporting layer 7, and that the binary vapor deposition was performed at vapor deposition rates such that the ratio of the vapor deposition rate of Compound (17) to that of ETM-1 was 50:50. The prepared organic EL element was characterized in the atmosphere at normal temperature. Table 3 collectively shows the measurement results of light emission characteristics when a DC voltage was applied to the prepared organic EL element.
+<chemistry id="chem0023" num="0023"><img id="ib0023" file="imgb0023.tif" wi="68" he="38" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="42"> --></p>
+<heading id="h0027">Example 12</heading>
+<p id="p0104" num="0104">An organic EL element was prepared under the same conditions as in Example 9, except that, instead of Compound (22) of Example 1, Compound (22) of Example 4 was used as the material of the layer serving as both the hole-blocking layer 6 and the electron-transporting layer 7, and that the binary vapor deposition was performed at vapor deposition rates such that the ratio of the vapor deposition rate of Compound (22) to that of ETM-1 was 50:50. The prepared organic EL element was characterized in the atmosphere at normal temperature. Table 3 collectively shows the measurement results of light emission characteristics when a DC voltage was applied to the prepared organic EL element.
+<chemistry id="chem0024" num="0024"><img id="ib0024" file="imgb0024.tif" wi="68" he="40" img-content="chem" img-format="tif"/></chemistry></p>
+<heading id="h0028">Example 13</heading>
+<p id="p0105" num="0105">An organic EL element was prepared under the same conditions as in Example 9, except that, instead of Compound (5) of Example 1, Compound (26) of Example 5 was used as the material of the layer serving as both the hole-blocking layer 6 and the electron-transporting layer 7, and that the binary vapor deposition was performed at vapor deposition rates such that the ratio of the vapor deposition rate of Compound (26) to that of ETM-1 was 50:50. The prepared organic EL element was characterized in the atmosphere at normal temperature. Table 3 collectively shows the measurement results of light emission characteristics when a DC voltage was applied to the prepared organic<!-- EPO <DP n="43"> --> EL element.
+<chemistry id="chem0025" num="0025"><img id="ib0025" file="imgb0025.tif" wi="54" he="62" img-content="chem" img-format="tif"/></chemistry></p>
+<heading id="h0029">Example 14</heading>
+<p id="p0106" num="0106">An organic EL element was prepared under the same conditions as in Example 9, except that, instead of Compound (5) of Example 1, Compound (30) of Example 6 was used as the material of the layer serving as both the hole-blocking layer 6 and the electron-transporting layer 7, and that the binary vapor deposition was performed at vapor deposition rates such that the ratio of the vapor deposition rate of Compound (30) to that of ETM-1 was 50:50. The prepared organic EL element was characterized in the atmosphere at normal temperature. Table 3 collectively shows the measurement results of light emission characteristics when a DC voltage was applied to the prepared organic EL element.
+<chemistry id="chem0026" num="0026"><img id="ib0026" file="imgb0026.tif" wi="21" he="5" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="44"> -->
+<chemistry id="chem0027" num="0027"><img id="ib0027" file="imgb0027.tif" wi="48" he="46" img-content="chem" img-format="tif"/></chemistry></p>
+<heading id="h0030">Comparative Example 1</heading>
+<p id="p0107" num="0107">For comparison, an organic EL element was prepared under the same conditions as in Example 9, except that, instead of Compound (5) of Example 1, a compound (ETM-2) having the structural formula below (see Patent Literature 5, for example) was used as the material of the layer serving as both the hole-blocking layer 6 and the electron-transporting layer 7, and that the binary vapor deposition was performed at vapor deposition rates such that the ratio of the vapor deposition rate of ETM-2 to that of ETM-1 was 50:50. The prepared organic EL element was characterized in the atmosphere at normal temperature. Table 3 collectively shows the measurement results of light emission characteristics when a DC voltage was applied to the prepared organic EL element.
+<chemistry id="chem0028" num="0028"><img id="ib0028" file="imgb0028.tif" wi="53" he="54" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="45"> --></p>
+<heading id="h0031">Comparative Example 2</heading>
+<p id="p0108" num="0108">For comparison, an organic EL element was prepared under the same conditions as in Example 9, except, instead of Compound (5) of Example 1, a compound (ETM-3) having the structural formula below (see Patent Literature 7, for example) was used as the material of the layer serving as both the hole-blocking layer 6 and the electron-transporting layer 7, and that the binary vapor deposition was performed at vapor deposition rates such that the ratio of the vapor deposition rate of ETM-3 to that of ETM-1 was 50:50. The prepared organic EL element was characterized in the atmosphere at normal temperature. Table 3 collectively shows the measurement results of light emission characteristics when a DC voltage was applied to the prepared organic EL element.
+<chemistry id="chem0029" num="0029"><img id="ib0029" file="imgb0029.tif" wi="53" he="55" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0109" num="0109">The element lifespan of each of the organic EL elements prepared in Examples 9 to 14 and Comparative Examples 1 and 2 was measured. Table 3 collectively shows the results. The element lifespan was determined as follows: the organic EL element was driven by constant current to emit light at an initial luminance (luminance when light emission started) of 2,000 cd/m<sup>2</sup>, and the time taken for the luminance to decay to 1,900 cd/m<sup>2</sup> (corresponding to 95% based on the initial luminance (100%): 95% decay) was<!-- EPO <DP n="46"> --> determined and defined as the element lifespan.
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>Table 3</title>
+<tgroup cols="7">
+<colspec colnum="1" colname="col1" colwidth="13mm"/>
+<colspec colnum="2" colname="col2" colwidth="36mm"/>
+<colspec colnum="3" colname="col3" colwidth="19mm"/>
+<colspec colnum="4" colname="col4" colwidth="23mm"/>
+<colspec colnum="5" colname="col5" colwidth="27mm"/>
+<colspec colnum="6" colname="col6" colwidth="27mm"/>
+<colspec colnum="7" colname="col7" colwidth="22mm"/>
+<thead>
+<row>
+<entry valign="middle"/>
+<entry valign="middle">Layer serving as both hole locking layer and electron - transporting layer</entry>
+<entry valign="middle">Voltage [V] (@10mA/ cm<sup>2</sup>)</entry>
+<entry valign="middle">Luminance [cd/m<sup>2</sup>] (@10mA/ cm<sup>2</sup>)</entry>
+<entry valign="middle">Luminous efficacy [cd/A] (@10mA/ cm<sup>2</sup>)</entry>
+<entry valign="middle">Power efficiency [lm/W] (@10mA/ cm<sup>2</sup>)</entry>
+<entry valign="middle">Element lifespan (95% decay)</entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">Ex. 9</entry>
+<entry valign="middle">Compound (5)/ ETM-1</entry>
+<entry valign="middle">3.53</entry>
+<entry valign="middle">861</entry>
+<entry valign="middle">8.62</entry>
+<entry valign="middle">7.69</entry>
+<entry valign="middle">257 hrs.</entry></row>
+<row>
+<entry valign="middle">Ex. 10</entry>
+<entry valign="middle">Compound (15)/ ETM-1</entry>
+<entry valign="middle">3.54</entry>
+<entry valign="middle">876</entry>
+<entry valign="middle">8.76</entry>
+<entry valign="middle">7.79</entry>
+<entry valign="middle">267 hrs.</entry></row>
+<row>
+<entry valign="middle">Ex. 11</entry>
+<entry valign="middle">Compound (17)/ ETM-1</entry>
+<entry valign="middle">3.44</entry>
+<entry valign="middle">874</entry>
+<entry valign="middle">8.75</entry>
+<entry valign="middle">8.00</entry>
+<entry valign="middle">266 hrs.</entry></row>
+<row>
+<entry valign="middle">Ex. 12</entry>
+<entry valign="middle">Compound (22)/ ETM-1</entry>
+<entry valign="middle">3.48</entry>
+<entry valign="middle">871</entry>
+<entry valign="middle">8.72</entry>
+<entry valign="middle">7.87</entry>
+<entry valign="middle">252 hrs.</entry></row>
+<row>
+<entry valign="middle">Ex. 13</entry>
+<entry valign="middle">Compound (26)/ ETM-1</entry>
+<entry valign="middle">3.50</entry>
+<entry valign="middle">866</entry>
+<entry valign="middle">8.68</entry>
+<entry valign="middle">7.81</entry>
+<entry valign="middle">293 hrs.</entry></row>
+<row>
+<entry valign="middle">Ex. 14</entry>
+<entry valign="middle">Compound (30)/ ETM-1</entry>
+<entry valign="middle">3.52</entry>
+<entry valign="middle">880</entry>
+<entry valign="middle">8.81</entry>
+<entry valign="middle">7.87</entry>
+<entry valign="middle">285 hrs.</entry></row>
+<row>
+<entry valign="middle">Com. Ex. 1</entry>
+<entry valign="middle">ETM-2/ETM-1</entry>
+<entry valign="middle">3.82</entry>
+<entry valign="middle">805</entry>
+<entry valign="middle">8.05</entry>
+<entry valign="middle">6.62</entry>
+<entry valign="middle">165 hrs.</entry></row>
+<row>
+<entry valign="middle">Com. Ex. 2</entry>
+<entry valign="middle">ETM-3/ETM-1</entry>
+<entry valign="middle">4.01</entry>
+<entry valign="middle">659</entry>
+<entry valign="middle">6.59</entry>
+<entry valign="middle">5.16</entry>
+<entry valign="middle">203 hrs.</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0110" num="0110">As shown in Table 3, a current of 10 mA/cm<sup>2</sup> in terms of a current density was passed through the organic EL elements, and at that time, while the organic EL elements of Comparative Examples 1 and 2 including the compounds ETM-2 and 3 of the structural formulas shown above, respectively, had a driving voltage of 3.82 to 4.01 V, the organic EL elements of Examples 9 to 14 had a lower driving voltage of 3.44 to 3.54 V. While the organic EL elements of Comparative Examples 1 and 2 had a luminous efficacy of 6.59 to 8.05 cd/A, the organic EL elements of Examples 9 to 14 had an improved luminous efficacy of 8.62 to 8.81 cd/A. While the organic EL elements of Comparative Examples 1 and 2 had a power efficiency of 5.16 to 6.62 lm/W, the organic EL elements<!-- EPO <DP n="47"> --> of Examples 9 to 14 had a significantly improved power efficiency of 7.69 to 8.00 lm/W. While the organic EL elements of Comparative Examples 1 and 2 had an element lifespan (95% decay) of 165 to 203 hours, the organic EL elements of Examples 9 to 14 had a significantly longer lifespan of 252 to 293 hours.</p>
+<p id="p0111" num="0111">As described above, it is seen that the organic EL elements of the present invention had excellent luminous efficacy and power efficiency as well as a long lifespan, compared with the elements including the compounds ETM-2 or 3 of the structural formula shown above.</p>
+<heading id="h0032">Industrial Applicability</heading>
+<p id="p0112" num="0112">The compound having a specific azabenzoxazole ring structure of the present invention has good electron-injecting properties and excellent hole-blocking capability and is stable in the form of a thin film, and the compound of the present invention is therefore an excellent compound for an organic EL element. An organic EL element prepared by using this compound can achieve high efficiency and also achieve a reduced driving voltage and hence improved durability. Thus, the organic EL element can be applied to uses such as home electric appliances and lighting equipment.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="48"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A compound having an azabenzoxazole ring structure and being represented by the general formula (a-1):
+<chemistry id="chem0030" num="0030"><img id="ib0030" file="imgb0030.tif" wi="65" he="33" img-content="chem" img-format="tif"/></chemistry>
+<claim-text>where R is the same or different, and each represents a group represented by the structural formula (b-1), a hydrogen atom, a deuterium atom, a fluorine atom, a chlorine atom, a cyano group, a nitro group, a trimethylsilyl group, a triphenylsilyl group, a substituted or unsubstituted aromatic hydrocarbon group, a substituted or unsubstituted aromatic heterocyclic group, a substituted or unsubstituted fused polycyclic aromatic group, a linear or branched alkyl group having 1 to 6 carbon atoms and optionally having a substituent, a cycloalkyl group having 5 to 10 carbon atoms and optionally having a substituent, a linear or branched alkenyl group having 2 to 6 carbon atoms and optionally having a substituent, a linear or branched alkyloxy group having 1 to 6 carbon atoms and optionally having a substituent, or a cycloalkyloxy group having 5 to 10 carbon atoms and optionally having a substituent; and</claim-text>
+<claim-text>Y is the same or different, and each represents a carbon atom having R or a nitrogen atom;</claim-text>
+<claim-text>provided that at least one R is a group represented by the structural formula (b-1), and that at least one Y is a nitrogen atom,<br/>
+[Chem. 2]<br/>
+<br/>
+        - - - -L-Het     (b-1 )<br/>
+<br/>
+
+<claim-text>where L represents a single bond, or a divalent group of a substituted or unsubstituted aromatic hydrocarbon group, a substituted or unsubstituted aromatic<!-- EPO <DP n="49"> --> heterocyclic group, or a substituted or unsubstituted fused polycyclic aromatic group;</claim-text>
+<claim-text>Het represents a substituted or unsubstituted pyridyl group, a substituted or unsubstituted pyrimidyl group, a substituted or unsubstituted triazyl group, a substituted or unsubstituted quinolyl group, a substituted or unsubstituted isoquinolyl group, a substituted or unsubstituted phenanthrolinyl group, a substituted or unsubstituted indolyl group, a substituted or unsubstituted azafluorenyl group, a substituted or unsubstituted diazafluorenyl group, a substituted or unsubstituted azaspirobifluorenyl group, or a substituted or unsubstituted diazaspirobifluorenyl group; and</claim-text>
+<claim-text>the dashed line represents a binding site.</claim-text></claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The compound having an azabenzoxazole ring structure according to claim 1, wherein the compound is represented by the general formula (a-2):
+<chemistry id="chem0031" num="0031"><img id="ib0031" file="imgb0031.tif" wi="97" he="40" img-content="chem" img-format="tif"/></chemistry>
+where R is as defined in the general formula (a-1).</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The compound having an azabenzoxazole ring structure according to claim 1, wherein the compound is represented by the general formula (a-3):
+<chemistry id="chem0032" num="0032"><img id="ib0032" file="imgb0032.tif" wi="94" he="41" img-content="chem" img-format="tif"/></chemistry>
+where R is as defined in the general formula (a-1).<!-- EPO <DP n="50"> --></claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The compound having an azabenzoxazole ring structure according to claim 1, wherein the compound is represented by the general formula (a-4):
+<chemistry id="chem0033" num="0033"><img id="ib0033" file="imgb0033.tif" wi="90" he="40" img-content="chem" img-format="tif"/></chemistry>
+where R is as defined in the general formula (a-1).</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The compound having an azabenzoxazole ring structure according to claim 1, wherein the compound is represented by the general formula (a-5):
+<chemistry id="chem0034" num="0034"><img id="ib0034" file="imgb0034.tif" wi="93" he="46" img-content="chem" img-format="tif"/></chemistry>
+where R is as defined in the general formula (a-1).</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The compound having an azabenzoxazole ring structure according to claim 1, wherein the compound is represented by the general formula (a-6) or (a-7):
+<chemistry id="chem0035" num="0035"><img id="ib0035" file="imgb0035.tif" wi="96" he="39" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="51"> -->
+<chemistry id="chem0036" num="0036"><img id="ib0036" file="imgb0036.tif" wi="96" he="42" img-content="chem" img-format="tif"/></chemistry>
+where R is as defined in the general formula (a-1).</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The compound having an azabenzoxazole ring structure according to any one of claims 2 to 6,<br/>
+wherein L in the structural formula (b-1) represents a single bond, a substituted or unsubstituted phenyl group, a substituted or unsubstituted biphenylyl group, or a substituted or unsubstituted naphthyl group.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>The compound having an azabenzoxazole ring structure according to claim 7,<br/>
+wherein Het in the structural formula (b-1) represents a substituted or unsubstituted pyridyl group, a substituted or unsubstituted pyrimidyl group, a substituted or unsubstituted quinolyl group, a substituted or unsubstituted isoquinolyl group, or a substituted or unsubstituted phenanthrolinyl group.</claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>An organic electroluminescent element comprising a pair of electrodes and one or more organic layers sandwiched therebetween,<br/>
+wherein the compound having an azabenzoxazole ring structure according to any one of claims 1 to 8 is included in at least one of the organic layers as a constituent material thereof.</claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>The organic electroluminescent element according to claim 9,<br/>
+wherein the organic layer including the compound having an azabenzoxazole<!-- EPO <DP n="52"> --> ring structure is an electron-transporting layer.</claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>The organic electroluminescent element according to claim 9,<br/>
+wherein the organic layer including the compound having an azabenzoxazole ring structure is a hole-blocking layer.</claim-text></claim>
+<claim id="c-en-0012" num="0012">
+<claim-text>The organic electroluminescent element according to claim 9,<br/>
+wherein the organic layer including the compound having an azabenzoxazole ring structure is a light-emitting layer.</claim-text></claim>
+<claim id="c-en-0013" num="0013">
+<claim-text>The organic electroluminescent element according to claim 9,<br/>
+wherein the organic layer including the compound having an azabenzoxazole ring structure is an electron-injecting layer.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="53"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="146" he="205" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="54"> -->
+<figure id="f0002" num="2"><img id="if0002" file="imgf0002.tif" wi="143" he="208" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="55"> -->
+<figure id="f0003" num="3"><img id="if0003" file="imgf0003.tif" wi="139" he="203" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="56"> -->
+<figure id="f0004" num="4"><img id="if0004" file="imgf0004.tif" wi="144" he="215" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="57"> -->
+<figure id="f0005" num="5,6"><img id="if0005" file="imgf0005.tif" wi="153" he="202" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="160" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="160" he="233" type="tif"/><doc-page id="srep0003" file="srep0003.tif" wi="160" he="233" type="tif"/><doc-page id="srep0004" file="srep0004.tif" wi="160" he="233" type="tif"/><doc-page id="srep0005" file="srep0005.tif" wi="160" he="233" type="tif"/><doc-page id="srep0006" file="srep0006.tif" wi="160" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="US5792557A"><document-id><country>US</country><doc-number>5792557</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0017]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="US5639914A"><document-id><country>US</country><doc-number>5639914</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0002">[0017]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="US9123897B"><document-id><country>US</country><doc-number>9123897</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0003">[0017]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="US5869199A"><document-id><country>US</country><doc-number>5869199</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0004">[0017]</crossref></li>
+<li><patcit id="ref-pcit0005" dnum="US9199966B"><document-id><country>US</country><doc-number>9199966</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0005">[0017]</crossref></li>
+<li><patcit id="ref-pcit0006" dnum="EP2684932A"><document-id><country>EP</country><doc-number>2684932</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0006">[0017]</crossref></li>
+<li><patcit id="ref-pcit0007" dnum="US6878469B"><document-id><country>US</country><doc-number>6878469</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0007">[0017]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="s"><article><atl/><serial><sertitle>Proceedings of the 9th Meeting of the Japan Society of Applied Physics</sertitle><pubdate><sdate>20010000</sdate><edate/></pubdate></serial><location><pp><ppf>55</ppf><ppl>61</ppl></pp></location></article></nplcit><crossref idref="ncit0001">[0018]</crossref></li>
+<li><nplcit id="ref-ncit0002" npl-type="s"><article><atl/><serial><sertitle>Proceedings of the 9th Meeting of the Japan Society of Applied Physics</sertitle><pubdate><sdate>20010000</sdate><edate/></pubdate></serial><location><pp><ppf>23</ppf><ppl>31</ppl></pp></location></article></nplcit><crossref idref="ncit0002">[0018]</crossref></li>
+<li><nplcit id="ref-ncit0003" npl-type="s"><article><atl/><serial><sertitle>Appl. Phys. Lett.</sertitle><pubdate><sdate>20110000</sdate><edate/></pubdate><vid>98</vid></serial><location><pp><ppf>083302</ppf><ppl/></pp></location></article></nplcit><crossref idref="ncit0003">[0018]</crossref></li>
+<li><nplcit id="ref-ncit0004" npl-type="b"><article><atl/><book><book-title>Extended Abstracts of the 50th Meeting</book-title><imprint><name>Japan Society of Applied Physics and Related Societies</name><pubdate>20030000</pubdate></imprint><vid>28</vid><location><pp><ppf>1413</ppf><ppl/></pp></location></book></article></nplcit><crossref idref="ncit0004">[0018]</crossref></li>
+<li><nplcit id="ref-ncit0005" npl-type="b"><article><atl/><book><book-title>The Journal of Molecular Electronics and Bioelectronics</book-title><imprint><name>Japan Society of Applied Physics</name><pubdate>20000000</pubdate></imprint><vid>11</vid><location><pp><ppf>13</ppf><ppl>19</ppl></pp></location></book></article></nplcit><crossref idref="ncit0005">[0018]</crossref></li>
+<li><nplcit id="ref-ncit0006" npl-type="s"><article><atl/><serial><sertitle>Synlett</sertitle><pubdate><sdate>20090000</sdate><edate/></pubdate><vid>7</vid></serial><location><pp><ppf>1172</ppf><ppl>1174</ppl></pp></location></article></nplcit><crossref idref="ncit0006">[0018]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

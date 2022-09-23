@@ -1,0 +1,3216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19890073A1" file="EP19890073NWA1.xml" lang="en" country="EP" doc-number="3888686" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3888686</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19890073.0</B210><B220><date>20191118</date></B220><B240><B241><date>20210624</date></B241></B240><B250>ko</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>20180149562</B310><B320><date>20181128</date></B320><B330><ctry>KR</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>A61K  47/60        20170101AFI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>A61K  47/58        20170101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>A61K  47/54        20170101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>A61K  47/69        20170101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>A61K  31/713       20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="6"><text>A61P  17/14        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="7"><text>A61K   8/60        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="8"><text>A61K   8/86        20060101ALI20200605BHEP        </text></classification-ipcr><classification-ipcr sequence="9"><text>A61K   8/81        20060101ALI20200605BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>A61K  47/69        20170801 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>A61K   8/86        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="3"><text>A61K  47/54        20170801 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="4"><text>A61P  17/14        20180101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="5"><text>A61K   8/81        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="6"><text>A61Q   7/00        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="7"><text>A61K  47/60        20170801 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="8"><text>A61K  47/58        20170801 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="9"><text>A61K   8/60        20130101 LI20200626BCEP        </text></classification-cpc><classification-cpc sequence="10"><text>A61K  31/713       20130101 LI20200626BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>DOPPELSTRÄNGIGE OLIGONUKLEOTIDSTRUKTUR MIT ANDROGENREZEPTORSPEZIFISCHER SEQUENZ SOWIE ZUSAMMENSETZUNG ZUR VERHINDERUNG VON HAARAUSFALL UND ZUR FÖRDERUNG DES HAARWUCHSES DAMIT</B542><B541>en</B541><B542>DOUBLE STRANDED OLIGONUCLEOTIDE CONSTRUCT COMPRISING ANDROGEN RECEPTOR SPECIFIC SEQUENCE, AND COMPOSITION FOR PREVENTING HAIR LOSS AND PROMOTING HAIR GROWTH COMPRISING SAME</B542><B541>fr</B541><B542>CONSTRUCTION D'OLIGONUCLÉOTIDE DOUBLE BRIN COMPORTANT UNE SÉQUENCE SPÉCIFIQUE DU RÉCEPTEUR AUX ANDROGÈNES, ET COMPOSITION LA COMPORTANT POUR PRÉVENIR LA PERTE DES CHEVEUX ET STIMULER LA POUSSE DES CHEVEUX</B542></B540><B590><B598>6</B598></B590></B500><B700><B710><B711><snm>Bioneer Corporation</snm><iid>101548692</iid><irf>007951668</irf><adr><str>8-11, Munpyeongseo-ro 
+Daedeok-gu</str><city>Daejeon 34302</city><ctry>KR</ctry></adr></B711></B710><B720><B721><snm>PARK, Han-Oh</snm><adr><str>1003-2502 210, Sicheong-daero</str><city>Sejong 30151</city><ctry>KR</ctry></adr></B721><B721><snm>YUN, Sung Il</snm><adr><str>101-1006 61, Songgang-ro
+42beon-gil Yuseong-gu</str><city>Daejeon 34008</city><ctry>KR</ctry></adr></B721><B721><snm>BYUN, Sang-Jin</snm><adr><str>109-1008 150, Daedeok-daero Seo-gu</str><city>Daejeon 35265</city><ctry>KR</ctry></adr></B721><B721><snm>LEE, Myeong-Mi</snm><adr><str>GA-302 16, Seongsin-ro</str><city>Jeju-si Jeju-do 63127</city><ctry>KR</ctry></adr></B721><B721><snm>YANG, Seung Ya</snm><adr><str>No.446 10, Jangmi-ro
+48beon-gil, Bundang-gu</str><city>Seongnam-si Gyeonggi-do 13496</city><ctry>KR</ctry></adr></B721></B720><B740><B741><snm>Mewburn Ellis LLP</snm><iid>101783151</iid><adr><str>Aurora Building 
+Counterslip</str><city>Bristol BS1 6BX</city><ctry>GB</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>KR2019015723</anum></dnum><date>20191118</date></B861><B862>ko</B862></B860><B870><B871><dnum><pnum>WO2020111614</pnum></dnum><date>20200604</date><bnum>202023</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">Disclosed are a double stranded oligonucleotide construct, configured such that a hydrophilic material and a hydrophobic material are conjugated through a simple covalent bond or a linker-mediated covalent bond to both ends of a double stranded oligonucleotide in order to efficiently deliver an androgen-receptor-specific oligonucleotide into a cell, a nanoparticle capable of being produced by self-assembling double stranded oligonucleotide constructs in an aqueous solution through hydrophobic interactions, and a composition for preventing hair loss or promoting hair growth containing the double stranded oligonucleotide construct. The double stranded oligonucleotide construct including the androgen-receptor-specific oligonucleotide and the composition for preventing hair loss or promoting hair growth containing the same as an active ingredient can suppress the expression of an androgen receptor with high efficiency without side effects, and can thus exhibit excellent effects on preventing hair loss, particularly androgenetic alopecia, alopecia areata, and telogen effluvium, and promoting hair growth.<img id="iaf01" file="imgaf001.tif" wi="165" he="81" img-content="drawing" img-format="tif"/></p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">□ Technical Field□</heading>
+<p id="p0001" num="0001">The present invention relates to a double stranded oligonucleotide construct including an androgen-receptor-specific sequence and a composition for preventing hair loss and promoting hair growth containing the same, and more particularly to a double stranded oligonucleotide construct configured such that a hydrophilic material and a hydrophobic material are conjugated through a simple covalent bond or a linker-mediated covalent bond to both ends of a double stranded oligonucleotide in order to efficiently deliver a nucleotide of an androgen-receptor-specific sequence into a cell, a nanoparticle capable of being produced by self-assembling double stranded oligonucleotide constructs in an aqueous solution through hydrophobic interactions, and a composition for preventing hair loss and promoting hair growth containing the double stranded oligonucleotide construct.<!-- EPO <DP n="2"> --></p>
+<heading id="h0002">□ Background Art□</heading>
+<p id="p0002" num="0002">Hair plays an important role in body protection and external beauty, and the purpose of managing hair is to protect the scalp, maintain a healthy hair condition, improve one's appearance, and the like. Hair loss is the natural loss of hair that has stopped growing depending on the growth cycle, and in general, severe hair loss has been recognized as a genetic phenomenon that occurs mainly in men. In recent years, however, the importance of environmental factors has emerged, such as hair loss due to work stress, environmental pollution, exposure to harmful environments, and incorrect eating habits, and alopecia has been recognized as a disease that refers to a condition where there is no hair in areas where hair should exist. Alopecia is classified into scarring alopecia, in which hair follicles are destroyed and replaced with fibrous tissue, resulting in permanent hair loss, and non-scarring alopecia, in which the tissue is not fibrous and the hair follicles are preserved. Examples of non-scarring alopecia include telogen effluvium, hereditary androgenetic alopecia, alopecia areata, and anagen effluvium.</p>
+<p id="p0003" num="0003">Hair undergoes a so-called "hair cycle" including a growing stage, a degenerating stage, a resting stage,<!-- EPO <DP n="3"> --> and an exogen stage, over time. The lifespan of the growing stage is usually 2 to 8 years, accounting for about 90% of all hair at one time, and the division of hair germinal matrix cells continues in the lower half of the hair bulb in contact with the dermal papilla, resulting in hair. After the growing stage, there comes a period in which hair growth stops for a while, which is called a degenerating stage. This is the time to transition to a resting stage in which the hair generation and development stop, during which the roots of the hair also change, the activity of the hair germinal matrix cells and pigment cells stops, and keratin is not produced, so the growth of the hair is stopped. In the resting stage, the hair bulb contracts, and the hair falls out only in the exogen stage, during which proteases are known to be involved. It is thought that androgen, estrogen, thyroid hormone, steroid, prolactin, and growth hormone may be involved as factors that control hair growth, among which androgen is known as the most important regulator. The most common example of hormone-related hair loss is temporary hair loss after childbirth. During pregnancy, estrogen increases and the progression from the growing stage to the resting stage in the hair cycle is suppressed, and then estrogen decreases rapidly after childbirth, and the progression<!-- EPO <DP n="4"> --> to the resting stage accelerates, resulting in telogen effluvium. In this way, there is hormone-dependent alopecia, but other causes of hair loss include genetic factors, male hormones, aging, blood circulation disorders, stress, superoxide radicals, etc. Here, countermeasures may vary depending on these causes. For hair loss caused by male hormones, DHT blockers are used as a medicine, and the basic mechanism of the blocker is to prevent the conversion of testosterone into highly active dihydrotestosterone (DHT) by 5-α-reductase. Since DHT has at least 5 times higher ability to bind to an androgen receptor (AR) than testosterone, the protein synthesis of hair follicles is delayed, so a substance that blocks the binding to an androgen receptor by preventing overproduction of DHT is used as a medicine (<nplcit id="ncit0001" npl-type="s"><text>Dallob A.L. et al., 1994. J. Clin. Endocrinol. Metab. 79, 703-709</text></nplcit>; <nplcit id="ncit0002" npl-type="s"><text>Ellsworth, K and Harris G., 1995, Biochem. Biophys. Res. Commun. 215, 774-780</text></nplcit>; <nplcit id="ncit0003" npl-type="s"><text>Kaufman KD., 2002. Mol and Cell Endocrinology. 198, 85-89</text></nplcit>).</p>
+<p id="p0004" num="0004">In 1942, Hamilton revealed the relationship between hair loss and male hormones. In androgenetic alopecia (AGA), testosterone present in hair root cells is converted into DHT, which is a powerful metabolite, and DHT (dihydrotestosterone) binds to an androgen<!-- EPO <DP n="5"> --> receptor (AR) in hair follicles, so the activity of adenyl cyclase, which enhances intracellular metabolism, is inhibited, whereby the concentration of cAMP in the cells is lowered and sugar metabolism is decreased, and consequently, energy supply is inhibited and protein synthesis is delayed, which shortens the growing stage of hair follicles, and during the process of repeating this phenomenon, the proportion of hair follicles in the resting stage increases, causing the hair to gradually become thin and short. Briefly, it is known that testosterone present in hair root cells, a DHT receptor, which is a hormone component associated with overexpression of the androgen receptor, and the activity of 5-α-reductase are important for the occurrence of androgenetic alopecia, and also that testosterone is overproduced into dihydrotestosterone (DHT) by 5-α-reductase, and this metabolite stimulates the production of hair cycle inhibitors to thereby shorten the growing stage and inhibit the ability of hair follicles to produce hair (<nplcit id="ncit0004" npl-type="s"><text>Kaufman KD., 2002. Mol. and Cell. Endocrinology. 198, 89-85</text></nplcit>; <nplcit id="ncit0005" npl-type="s"><text>Naito et al., 2008. Br. J. Dermatol. 159, 300-305</text></nplcit>).</p>
+<p id="p0005" num="0005">DHT is known to have at least 5 times higher ability than testosterone to bind to an androgen receptor (AR), and in androgen-specific cells and tissues, DHT is<!-- EPO <DP n="6"> --> known to be more involved in androgen activity than testosterone. There are two subtypes of 5-α-reductase, which is responsible for these metabolic processes, and the roles thereof are somewhat different depending on the tissue. Type 1 5-α-reductase is present in the sebaceous gland, and Type 2 5-α-reductase is mainly present in the genitourinary tract and hair follicles.</p>
+<p id="p0006" num="0006">Finasteride and dutasteride are drugs that target 5-α-reductase in order to suppress the overproduction of DHT, and it is known that finasteride acts only on Type 2 5-α-reductase and dutasteride acts on Type 1 and Type 2 5-α-reductases to thus have great effects on prostate-related diseases. Among these, the drug that has been approved by the FDA as a therapeutic agent for baldness is Propecia, which contains finasteride as a main ingredient. Hair-loss prevention medicines developed to date are mainly single compounds, such as minoxidil for promoting blood circulation and finasteride and dutasteride as male hormone inhibitors, and recently, drugs for JAK inhibitors (ruxolitinib, tofacitinib) have been approved by the FDA. However, research to find a material that is more effective than the above materials is continuously ongoing.<!-- EPO <DP n="7"> --></p>
+<p id="p0007" num="0007">The androgen receptor is a 110 KDa steroidal receptor, and one of the important functions thereof is the transcription of genes related to androgens. The androgen receptor plays an important role in male-hormone-related diseases such as prostate cancer, prostatic hyperplasia, male pattern alopecia, muscle loss, and hypertrichosis. For this reason, the androgen receptor has been used as a target for the treatment of male-specific diseases such as prostate cancer and male pattern baldness. In the case of male hormones collectively referred to as androgens, testosterone is produced in the pituitary gland, adrenal gland, and testes, enters the cells of the target organ, and is reduced into dihydrotestosterone (DHT) by testosterone 5-α-reductase, followed by binding to the receptor and showing the action as an androgen. Therefore, as mentioned above, the development of a therapeutic agent for the disease is being sought using a method of suppressing the production of DHT by inhibiting the action of 5-α-reductase for reducing testosterone into DHT, or a method of suppressing the action of androgen by inhibiting the binding of DHT, produced from testosterone, to the receptor.</p>
+<p id="p0008" num="0008">Technology for inhibiting gene expression is<!-- EPO <DP n="8"> --> regarded as important in the development of therapeutic agents for disease treatment and in target verification. In particular, RNA interference (hereinafter referred to as 'RNAi') has been found to act on sequence-specific mRNA in various kinds of mammalian cells since the role thereof was discovered (<nplcit id="ncit0006" npl-type="s"><text>Silence of the transcripts: RNA interference in medicine. J Mol Med (2005) 83: 764-773</text></nplcit>). When a long-chain RNA double strand is delivered to cells, the delivered RNA double strand is processed by an endonuclease called dicer and converted into small interfering RNA (hereinafter referred to as 'siRNA') of 21 to 23 double strands (base pair, bp), and siRNA binds to the RNA-induced silencing complex (RISC), and thus a guide (antisense) strand recognizes and degrades the target mRNA to thereby inhibit the expression of the target gene in a sequence-specific manner (<nplcit id="ncit0007" npl-type="s"><text>NUCLEIC-ACID THERAPEUTICS: BASIC PRINCIPLES AND RECENT APPLICATIONS. Nature Reviews Drug Discovery. 2002. 1, 503-514</text></nplcit>).</p>
+<p id="p0009" num="0009">According to Bertrand researchers, it has been reported that siRNA for the same target gene has a superior inhibitory effect on the expression of mRNA <i>in vitro</i> and <i>in vivo</i> compared to the antisense oligonucleotide (ASO), and that the effect is long-lasting (<nplcit id="ncit0008" npl-type="s"><text>Comparison of antisense oligonucleotides and siRNAs in cell culture and in vivo. Biochem. Biophys.<!-- EPO <DP n="9"> --> Res. Commun. 2002. 296: 1000-1004</text></nplcit>). Moreover, the mechanism of action of siRNA is that siRNA binds complementarily to target mRNA to regulate the expression of the target gene in a sequence-specific manner, and compared to existing antibody-based drugs or chemical drugs (small-molecule drugs), it has the advantage that the range of applicable targets can be dramatically expanded (<nplcit id="ncit0009" npl-type="s"><text>Progress Towards in Vivo Use of siRNAs. MOLECULAR THERAPY. 2006 13(4):664-670</text></nplcit>).</p>
+<p id="p0010" num="0010">In spite of the excellent effect and wide range of use of siRNA, in order to develop siRNA as a therapeutic agent, siRNA has to be effectively delivered to target cells by improving the stability of siRNA in the body and increasing cell delivery efficiency (<nplcit id="ncit0010" npl-type="s"><text>Harnessing in vivo siRNA delivery for drug discovery and therapeutic development. Drug Discov. Today. 2006 Jan; 11(1-2):67-73</text></nplcit>).</p>
+<p id="p0011" num="0011">With the goal of solving the above problem, thorough research is ongoing into modification of some nucleotides or backbones of siRNA to impart nuclease resistance thereto in order to improve the stability thereof in the body, and into the use of carriers such as viral vectors, liposomes or nanoparticles.</p>
+<p id="p0012" num="0012">Delivery systems using viral vectors such as an<!-- EPO <DP n="10"> --> adenovirus or retrovirus have high transfection efficacy, but high immunogenicity and oncogenicity. On the other hand, a non-viral delivery system containing nanoparticles has lower cell delivery efficiency than a viral delivery system, but it is advantageous because high stability <i>in vivo,</i> the potential for target-specific delivery, an improved delivery effect, such as uptake and internalization of the contained RNAi oligonucleotides into cells or tissues, and almost no cytotoxicity or immune stimulation, so it is currently considered a more powerful delivery method than the viral delivery system (<nplcit id="ncit0011" npl-type="s"><text>Nonviral delivery of synthetic siRNAs in vivo. J Clin Invest. 2007 December 3; 117(12): 3623-3632</text></nplcit>).</p>
+<p id="p0013" num="0013">As for the method of using a nanocarrier in the non-viral delivery system, nanoparticles are formed using various polymers such as liposomes, cationic polymer complexes and the like, and siRNA is loaded on such a nanoparticle, namely a nanocarrier, and is delivered to cells. Among the methods of using a nanocarrier, a polymeric nanoparticle, polymer micelle, lipoplex, etc. may be mainly used, and in particular, the lipoplex is composed of cationic lipids and interacts with the anionic lipids of the endosome of the cell, causing the effect of destabilization of the endosome to thus enable intracellular delivery (<nplcit id="ncit0012" npl-type="s"><text>Proc. Natl. Acad. Sci. 15;<!-- EPO <DP n="11"> --> 93(21) :11493-8, 1996</text></nplcit>).</p>
+<p id="p0014" num="0014">In order to improve the intracellular delivery efficiency of siRNA, technology for attaining the stability of siRNA and efficient cell membrane permeability has been developed using an siRNA conjugate in which a hydrophilic material (e.g. polyethylene glycol (PEG)) as a biocompatible polymer is conjugated to siRNA through a simple covalent bond or a linker-mediated covalent bond (<patcit id="pcit0001" dnum="KR883471"><text>Korean Patent No. 883471</text></patcit>). However, chemical modification of siRNA and conjugation of polyethylene glycol (PEG) (PEGylation) still have the drawbacks such as low stability <i>in vivo</i> and inefficient delivery to target organs. In order to solve these drawbacks, a double stranded oligonucleotide construct, in which hydrophilic and hydrophobic materials are bound to an oligonucleotide, particularly a double stranded oligonucleotide such as siRNA, has been developed, and the construct forms self-assembled nanoparticles called SAMiRNA™ (self-assembled micelle inhibitory RNA) through the hydrophobic interaction of the hydrophobic material (<patcit id="pcit0002" dnum="KR1224828"><text>Korean Patent No. 1224828</text></patcit>). The SAMiRNA™ technology has the advantage of being able to obtain homogenous nanoparticles while being very small in size compared to conventional delivery technologies.<!-- EPO <DP n="12"> --></p>
+<p id="p0015" num="0015">As for a specific example of SAMiRNA™ technology, PEG (polyethylene glycol) or HEG (hexaethylene glycol) is used as a hydrophilic material, and PEG is a synthetic polymer and is often used to increase the solubility of pharmaceuticals, particularly proteins, and to control pharmacokinetics. PEG is a polydisperse material, and a batch of polymers is composed of the total sum of different numbers of monomers, and has a Gaussian molecular weight distribution, and the extent of homogeneity of a material is expressed as a polydispersity index (Mw/Mn). Specifically, when PEG has a low molecular weight (3-5 kDa), it exhibits a polydispersity index of about 1.01, whereas the case of a high molecular weight (20 kDa) shows a high polydispersity index of about 1.2, and thus the higher the molecular weight, the lower the homogeneity of the material (<nplcit id="ncit0013" npl-type="s"><text>F. M. Veronese. Peptide and protein PEGylation: a review of problems and solutions. Biomaterials (2001) 22:405-417</text></nplcit>). Therefore, the case in which PEG is bound to a pharmaceutical is disadvantageous in that it is not easy to verify a single material because the polydispersity characteristic of PEG is reflected in the conjugate. Hence, there is a trend to produce materials having a low polydispersity index by improving the processes for synthesis and purification of PEG. In<!-- EPO <DP n="13"> --> particular, in the case in which PEG is bound to a material having a low molecular weight, there are problems due to the polydispersity characteristics of the material, such as an inconvenient point in which it is not easy to check whether binding is easily achieved (<nplcit id="ncit0014" npl-type="s"><text>Francesco M. Veronese and Gianfranco Pasut. PEGylation, successful approach to drug delivery. DRUG DISCOVERY TODAY(2005) 10(21):1451-1458</text></nplcit>).</p>
+<p id="p0016" num="0016">Accordingly, in recent years, as an improved form of the existing self-assembled nanoparticles SAMi, the hydrophilic material of the double stranded nucleotide construct constituting the SAMiRNA™ is blocked into a basic unit including 1 to 15 homogeneous monomers having a certain molecular weight, and, as necessary, a linker, and by using an appropriate number of blocks depending on the need, a new form of delivery carrier technology has been developed that has a smaller size than that of the existing SAMiRNA™ and has significantly improved polydispersity.</p>
+<p id="p0017" num="0017">Meanwhile, there is a report that the global market related to hair loss will reach $11.8 billion by 2024 (Grand View Research, Inc). Four in seven American men and one in five Chinese men are bald, and in 90% or more of cases, the cause is known to be androgenetic<!-- EPO <DP n="14"> --> alopecia. However, most hair-loss prevention medicines developed to date target DHT and 5-α-reductase, and a medicine or hair growth product targeting the androgen receptor, which is directly related to androgen, has not been developed.</p>
+<p id="p0018" num="0018">Accordingly, the present inventors have made great efforts to develop a hair-growth-related product targeting the androgen receptor, which is directly related to androgen, and ascertained that a certain sequence specific to an androgen receptor may effectively inhibit the expression of the androgen receptor, and that a double stranded oligonucleotide construct including the same and a composition containing the construct are very effective at preventing hair loss or promoting hair growth, thus culminating in the present invention.</p>
+<heading id="h0003">□Disclosure□</heading>
+<p id="p0019" num="0019">It is an object of the present invention to provide a novel oligonucleotide sequence that is specific to an androgen receptor and is capable of inhibiting the expression thereof with very high efficiency, and a double stranded oligonucleotide construct for effectively delivering the sequence to hair root cells.</p>
+<p id="p0020" num="0020">It is another object of the present invention to<!-- EPO <DP n="15"> --> provide a nanoparticle containing the double stranded oligonucleotide construct.</p>
+<p id="p0021" num="0021">It is still another object of the present invention to provide a pharmaceutical composition for preventing hair loss or promoting hair growth containing the novel oligonucleotide sequence or the double stranded oligonucleotide construct as an active ingredient.</p>
+<p id="p0022" num="0022">It is yet another object of the present invention to provide a cosmetic composition for preventing hair loss or promoting hair growth containing the novel oligonucleotide sequence or the double stranded oligonucleotide construct as an active ingredient.</p>
+<p id="p0023" num="0023">In accomplish the above and other objects, the present invention provides a double stranded oligonucleotide construct having the structure of Structural Formula (1) below.<br/>
+<br/>
+        A-X-R-Y-B     Structural Formula (1)<br/>
+<br/>
+</p>
+<p id="p0024" num="0024">In Structural Formula (1), A is a hydrophilic material, B is a hydrophobic material, each of X and Y independently represents a simple covalent bond or a linker-mediated covalent bond, and R represents an androgen-receptor-specific oligonucleotide including a sense strand containing any one sequence selected from<!-- EPO <DP n="16"> --> the group consisting of SEQ ID NOS: 6, 58, 68, 99, 107, 109, 260, 270, 284, 298, 348, 358, 359 and 434 and an antisense strand including a sequence complementary thereto.</p>
+<p id="p0025" num="0025">In addition, the present invention provides a nanoparticle containing the double stranded oligonucleotide construct.</p>
+<p id="p0026" num="0026">In addition, the present invention provides a pharmaceutical composition for preventing hair loss or promoting hair growth containing the double stranded oligonucleotide construct or the nanoparticle as an active ingredient.</p>
+<p id="p0027" num="0027">In addition, the present invention provides a cosmetic composition for preventing hair loss or promoting hair growth containing the double stranded oligonucleotide construct or the nanoparticle as an active ingredient.</p>
+<p id="p0028" num="0028">In addition, the present invention provides a method of treating hair loss including administering the construct, nanoparticle, or pharmaceutical composition according to the present invention to a subject in need of hair growth, or applying the construct, nanoparticle, or pharmaceutical composition according to the present invention onto an area in need of hair growth.</p>
+<p id="p0029" num="0029">In addition, the present invention provides a<!-- EPO <DP n="17"> --> method of preventing hair loss or promoting hair growth containing administering or applying the construct, nanoparticle, or cosmetic composition according to the present invention to a subject in need of hair-loss prevention or hair growth or onto the corresponding area.</p>
+<p id="p0030" num="0030">In addition, the present invention provides the use of the double stranded oligonucleotide construct to prevent hair loss or to promote hair growth.</p>
+<p id="p0031" num="0031">In addition, the present invention provides the use of the double stranded oligonucleotide construct to manufacture a medicine or a cosmetic for preventing hair loss or promoting hair growth.</p>
+<heading id="h0004">□Description of DrawingsD</heading>
+<p id="p0032" num="0032">
+<ul id="ul0001" list-style="none" compact="compact">
+<li><figref idref="f0001">FIG. 1</figref> shows an isoform common region in the exon map of human androgen receptor mRNA NM_000044.3 (isoform 1, 10,661 bp) and NM_001011645.2 (isoform 2, 8112 bp) for a human androgen-receptor-specific oligonucleotide candidate sequence design;</li>
+<li><figref idref="f0002">FIG. 2</figref> shows a process of selecting candidate sequences composed of 19 bases using a 2-base sliding-window algorithm in the isoform common region for a human androgen-receptor-specific oligonucleotide candidate sequence design;<!-- EPO <DP n="18"> --></li>
+<li><figref idref="f0003">FIG. 3</figref> shows the nanoparticle size distribution of double stranded oligonucleotides including randomly selected androgen-receptor-specific oligonucleotides;</li>
+<li><figref idref="f0004">FIG. 4</figref> shows the results of primary screening of 544 types of SAMiRNAs targeting the androgen receptor;</li>
+<li><figref idref="f0005">FIG. 5</figref> shows the results of selection of SAMiRNAs including androgen-receptor-specific oligonucleotides for 14 sequences having the highest androgen receptor expression inhibitory effect among the screening results in <figref idref="f0004">FIG. 4</figref>;</li>
+<li><figref idref="f0006">FIG. 6</figref> shows the results of secondary screening of SAMiRNAs including the androgen-receptor-specific oligonucleotides selected through the primary screening;</li>
+<li><figref idref="f0007">FIG. 7</figref> shows the results of confirmation of the protein expression level of the androgen receptor after treatment of the SAMiRNA construct for the 14 selected sequences and the known sequences in the related literature;</li>
+<li><figref idref="f0008">FIG. 8</figref> shows the results of confirmation of the inhibition of protein expression after treatment of the SAMiRNA construct for the two selected sequences among the results of <figref idref="f0007">FIG. 7</figref> and the sequences of the related literature; and</li>
+<li><figref idref="f0009">FIG. 9</figref> shows the results of confirmation of the delivery effect of SAMiRNA nanoparticles into hair root<!-- EPO <DP n="19"> --> cells using a confocal laser scanning microscope.</li>
+</ul></p>
+<heading id="h0005">□Mode for Invention□</heading>
+<p id="p0033" num="0033">Unless otherwise defined, all technical and scientific terms used herein have the same meanings as those typically understood by those skilled in the art to which the present invention belongs. Generally, the nomenclature used herein and the test method described below are well known in the art and are typical.</p>
+<p id="p0034" num="0034">In the present invention, in order to select an oligonucleotide capable of targeting an androgen receptor and inhibiting the expression thereof, a 2-base sliding-window algorithm was applied to the entire androgen receptor to thus determine a candidate sequence list. 468 candidate sequences having identity of 15 or fewer bases for RNA sequences with other genes were finally selected, and the extent of inhibition of the androgen receptor was tested using a total of 544 oligonucleotide sequences including 76 siRNA sequences disclosed in the known related literature (U.S. Patent Application Publication No. <patcit id="pcit0003" dnum="US20070141009A"><text>US 2007-0141009</text></patcit>), and consequently, 14 types of oligonucleotides that were particularly effective were selected. Moreover, the oligonucleotide was capable of being manufactured into a double stranded<!-- EPO <DP n="20"> --> oligonucleotide construct, thus increasing the intracellular delivery efficiency, thereby preventing hair loss and improving the hair growth effect.</p>
+<p id="p0035" num="0035">Therefore, an aspect of the present invention pertains to an androgen-receptor-specific double stranded oligonucleotide including a sense strand including any one sequence selected from the group consisting of SEQ ID NOS: 6, 58, 68, 99, 107, 109, 260, 270, 284, 298, 348, 358, 359 and 434 and an antisense strand including a sequence complementary thereto.</p>
+<p id="p0036" num="0036">The double stranded oligonucleotide according to the present invention is a concept including all materials having general RNAi (RNA interference) action, and the androgen-receptor-specific sequence also includes androgen-receptor-specific shRNA, ASO, etc., as will be obvious to those of ordinary skill in the art to which the present invention belongs. Conventional methods for delivering siRNA into target cells are still problematic in that siRNA is delivered into the cell through the cell membrane and is thus decreased in the activity thereof as it moves from the endosome in the cell to the cytoplasm, and is also easily degraded by lyases present <i>in vivo.</i> In addition, a DNA-RNA hybrid, in which DNA, which is an antisense oligo, and siRNA for degrading target mRNA are<!-- EPO <DP n="21"> --> combined, is more stable than conventional double stranded oligo RNA <i>in vivo,</i> and the DNA portion thereof has an aptamer base sequence that is able to bind to the target protein, and thus it is efficiently delivered into target cells, and moreover, the DNA-RNA hybrid has an siRNA base sequence that inhibits the expression of RNA as a protein, so it binds to the target mRNA in the target cells and suppresses gene expression. Such DNA-RNA hybrid particles are composed only of biomaterials, are non-toxic, and are greatly resistant to DNase and RNase, which are nucleases present in the body, and thus may be regarded as new technology for RNAi.</p>
+<p id="p0037" num="0037">In addition, so long as specificity to the androgen receptor is maintained, in the sense strand including any one sequence selected from the group consisting of SEQ ID NO: 1 to SEQ ID NO: 468 or the antisense strand complementary thereto, it will be obvious to those of ordinary skill in the art to which the present invention belongs that the androgen-receptor-specific siRNA including the sense strand including the sequence in which at least one base is substituted, deleted or inserted and the antisense strand is also incorporated in the scope of the present invention.</p>
+<p id="p0038" num="0038">SEQ ID NOS: 1 to 468 are human androgen-receptor-specific sequences, and are RNA sense strand sequences<!-- EPO <DP n="22"> --> having homology of 15 or fewer base sequences to other sites of the androgen receptor mRNA (Table 2). Also, SEQ ID NOS: 469 to 544 represent human androgen-receptor-specific siRNA sequences known from an existing patent (<patcit id="pcit0004" dnum="US20070141009A"><text>US 2007-0141009</text></patcit>) (Table 3).</p>
+<p id="p0039" num="0039">According to the present invention, as a result of comparing the intracellular activity with the androgen-receptor-specific oligonucleotide sequence disclosed in the existing patent, it was possible to discover an RNA sequence having superior efficiency and lower homology with other human mRNAs. The oligonucleotide according to the present invention is preferably an androgen-receptor-specific oligonucleotide including any one sequence selected from the group consisting of SEQ ID NOS: 6, 58, 68, 99, 107, 109, 260, 270, 284, 298, 348, 358, 359 and 434 as a sense strand, and more preferably an androgen-receptor-specific oligonucleotide comprising the sequence of SEQ ID NO: 68 or 109 as a sense strand.</p>
+<p id="p0040" num="0040">The sense strand or antisense strand of the oligonucleotide according to the present invention is preferably composed of 19 to 31 nucleotides, and the sense strand comprising any one sequence selected from among SEQ ID NO: 1 to SEQ ID NO: 468 and the antisense strand complementary thereto are comprised.<!-- EPO <DP n="23"> --></p>
+<p id="p0041" num="0041">Since the androgen-receptor-specific oligonucleotide according to the present invention has a base sequence designed to complementarily bind to mRNA encoding the corresponding gene, it is characterized in that it is capable of effectively suppressing the expression of the corresponding gene. In addition, it may include an overhang, which is a structure comprising one, two, or more unpaired nucleotides at the 3' end of the oligonucleotide.</p>
+<p id="p0042" num="0042">In addition, in order to improve the stability of the oligonucleotide <i>in vivo,</i> various modifications may be included for conferring nuclease resistance and reducing non-specific immune responses. In the modification of the first or second oligonucleotide constituting the oligonucleotide, at least one modification selected from among a modification in which the -OH group at the 2' carbon position of the sugar structure in at least one nucleotide is substituted with -CH<sub>3</sub> (methyl), -OCH<sub>3</sub> (methoxy), -NH<sub>2</sub>, -F (fluorine), -O-2-methoxyethyl-O-propyl, -O-2-methylthioethyl, -O-3-aminopropyl, -O-3-dimethylaminopropyl, -O-N-methylacetamido or -O-dimethylamidooxyethyl; a modification in which oxygen in the sugar structure in the nucleotide is substituted with sulfur; and a modification of nucleotide bonds to<!-- EPO <DP n="24"> --> phosphorothioate, boranophosphate, or methyl phosphonate bonds may be used in combination, and modification into PNA (peptide nucleic acid), LNA (locked nucleic acid) or UNA (unlocked nucleic acid) may also be used (<nplcit id="ncit0015" npl-type="s"><text>Ann. Rev. Med. 55, 61-65 2004</text></nplcit>; <patcit id="pcit0005" dnum="US5660985A"><text>US 5,660,985</text></patcit>; <patcit id="pcit0006" dnum="US5958691A"><text>US 5,958,691</text></patcit>; <patcit id="pcit0007" dnum="US6531584B"><text>US 6, 531, 584</text></patcit>; <patcit id="pcit0008" dnum="US5808023A"><text>US 5, 808, 023</text></patcit>; <patcit id="pcit0009" dnum="US6326358B"><text>US 6, 326, 358</text></patcit>; <patcit id="pcit0010" dnum="US6175001B"><text>US 6, 175, 001</text></patcit>; <nplcit id="ncit0016" npl-type="s"><text>Bioorg. Med. Chem. Lett. 14:1139-1143, 2003</text></nplcit>; <nplcit id="ncit0017" npl-type="s"><text>RNA, 9:1034-1048, 2003</text></nplcit>; <nplcit id="ncit0018" npl-type="s"><text>Nucleic Acid Res. 31:589-595, 2003</text></nplcit>; <nplcit id="ncit0019" npl-type="s"><text>Nucleic Acids Research, 38(17) 5761-5773, 2010</text></nplcit>; <nplcit id="ncit0020" npl-type="s"><text>Nucleic Acids Research, 39(5) 1823-1832, 2011</text></nplcit>).</p>
+<p id="p0043" num="0043">The androgen-receptor-specific oligonucleotide according to the present invention not only inhibits the expression of the corresponding gene, but also significantly inhibits the expression of the corresponding protein.</p>
+<p id="p0044" num="0044">In an alternative embodiment, the present invention provides a conjugate in which a hydrophilic material and a hydrophobic material are conjugated to both ends of a double stranded oligonucleotide in order to improve <i>in-vivo</i> stability and efficient delivery of the androgen-receptor-specific double stranded oligonucleotide.</p>
+<p id="p0045" num="0045">As described above, the double stranded oligonucleotide conjugate in which a hydrophilic material<!-- EPO <DP n="25"> --> and a hydrophobic material are bound to a double stranded oligonucleotide may be formed into self-assembled nanoparticles through the hydrophobic interaction of the hydrophobic material (<patcit id="pcit0011" dnum="KR1224828"><text>Korean Patent No. 1224828</text></patcit>). Such nanoparticles have advantages of vastly superior delivery efficiency into the body and stability in the body as well as excellent particle size uniformity, so quality control is easy and the process of manufacturing a drug is simple.</p>
+<p id="p0046" num="0046">Therefore, another aspect of the present invention pertains to a double stranded oligonucleotide construct having the structure of Structural Formula (1) below.<br/>
+<br/>
+        A-X-R-Y-B     Structural Formula (1)<br/>
+<br/>
+</p>
+<p id="p0047" num="0047">In Structural Formula (1), A is a hydrophilic material, B is a hydrophobic material, each of X and Y independently represents a simple covalent bond or a linker-mediated covalent bond, and R represents an androgen-receptor-specific oligonucleotide comprising a sense strand including any one sequence selected from the group consisting of SEQ ID NOS: 6, 58, 68, 99, 107, 109, 260, 270, 284, 298, 348, 358, 359 and 434 and an antisense strand comprising a sequence complementary thereto.<!-- EPO <DP n="26"> --></p>
+<p id="p0048" num="0048">More preferably, the double stranded oligonucleotide construct comprising the androgen-receptor-specific oligonucleotide according to the present invention has the structure of Structural Formula (2) below.
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="86" he="16" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0049" num="0049">In Structural Formula (2), A, B, X and Y are as defined in Structural Formula (1), S represents the sense strand of the androgen-receptor-specific oligonucleotide, and AS represents the antisense strand of the androgen-receptor-specific oligonucleotide.</p>
+<p id="p0050" num="0050">More preferably, the double stranded oligonucleotide construct comprising the androgen-receptor-specific oligonucleotide has the structure of Structural Formula (3) or (4) below.
+<chemistry id="chem0002" num="0002"><img id="ib0002" file="imgb0002.tif" wi="125" he="11" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0003" num="0003"><img id="ib0003" file="imgb0003.tif" wi="126" he="10" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0051" num="0051">In Structural Formula (3) and Structural Formula (4), A, B, S, AS, X and Y are as defined in Structural Formula (1), and 5' and 3' represent a 5' end and a 3' end of the sense strand of the androgen-receptor-specific oligonucleotide.<!-- EPO <DP n="27"> --></p>
+<p id="p0052" num="0052">The double stranded oligonucleotide construct comprising the androgen-receptor-specific oligonucleotide in Structural Formula (1) to Structural Formula (4) may be configured such that one to three phosphate groups are bound to the 5' end of the antisense strand, and shRNA may be used in lieu of RNA, as will be obvious to those of ordinary skill in the art to which the present invention belongs.</p>
+<p id="p0053" num="0053">The hydrophilic material in Structural Formula (1) to Structural Formula (4) is preferably a polymer material having a molecular weight of 200 to 10,000, and more preferably a polymer material having a molecular weight of 1,000 to 2,000. Examples of the hydrophilic polymer material preferably include, but are not necessarily limited to, nonionic hydrophilic polymer compounds, such as polyethylene glycol, polyvinylpyrrolidone, polyoxazoline, and the like.</p>
+<p id="p0054" num="0054">In particular, the hydrophilic material A in Structural Formula (1) to Structural Formula (4) may be used in the form of a hydrophilic material block, as represented by Structural Formula (5) or Structural Formula (6) below. By using the appropriate number of such hydrophilic material blocks (n in Structural Formula (5) or Structural Formula (6)) depending on the need,<!-- EPO <DP n="28"> --> problems due to polydispersity that may occur when using general synthetic polymer materials may be greatly mitigated.<br/>
+<br/>
+        (A'<sub>m</sub>-J)<sub>n</sub>     Structural Formula (5)<br/>
+<br/>
+        (J-A'<sub>m</sub>)<sub>n</sub>     Structural Formula (6)<br/>
+<br/>
+</p>
+<p id="p0055" num="0055">In Structural Formula (5) or Structural Formula (6), A' is a hydrophilic material monomer, J is a linker for connecting m hydrophilic material monomers to each other or connecting m hydrophilic material monomers and siRNA to each other, m is an integer of 1 to 15, n is an integer of 1 to 10, and the repeating unit represented by (A'<sub>m</sub>-J) or (J-A'<sub>m</sub>) corresponds to the basic unit of the hydrophilic material block.</p>
+<p id="p0056" num="0056">When using the hydrophilic material block as in Structural Formula (5) or Structural Formula (6), the double stranded oligonucleotide construct comprising the androgen-receptor-specific oligonucleotide according to the present invention may have the structure of Structural Formula (7) or Structural Formula (8) below.<br/>
+<br/>
+        (A'<sub>m</sub>-J)<sub>n</sub>-X-R-Y-B     Structural Formula (7)<br/>
+<br/>
+        (J-A'<sub>m</sub>)<sub>n</sub>-X-R-Y-B     Structural Formula (8)<br/>
+<br/>
+</p>
+<p id="p0057" num="0057">In Structural Formula (7) and Structural Formula (8), X, R, Y and B are as defined in Structural Formula (1), and A', J, m and n are as defined in Structural Formula (5) and Structural Formula (6).<!-- EPO <DP n="29"> --></p>
+<p id="p0058" num="0058">In Structural Formula (5) and Structural Formula (6), the hydrophilic material monomer A' may be used without limitation, so long as it meets the purpose of the present invention, among monomers of a nonionic hydrophilic polymer, and is preferably a monomer selected from among Compound (1) to Compound (3) shown in Table 1 below, and more preferably a monomer of Compound (1). In Compound (1), G is preferably selected from among CH<sub>2</sub>, O, S, and NH.</p>
+<p id="p0059" num="0059">In particular, among the hydrophilic material monomers, the monomer represented by Compound (1) is advantageous because various functional groups may be introduced thereto and also because it has good affinity <i>in vivo</i> and excellent biocompatibility, such as inducing a lower immune response, increases the <i>in-vivo</i> stability of the oligonucleotide contained in the construct according to Structural Formula (7) or Structural Formula (8), and increases the delivery efficiency thereof, so it is very suitable for the manufacture of the construct according to the present invention.<!-- EPO <DP n="30"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>[Table 1]</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="42mm"/>
+<colspec colnum="2" colname="col2" colwidth="29mm"/>
+<colspec colnum="3" colname="col3" colwidth="33mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col3" align="left" valign="top"><u>Structure of hydrophilic material monomer in the present invention</u></entry></row>
+<row>
+<entry align="center" valign="top">Compound (1)</entry>
+<entry align="center" valign="top">Compound (2)</entry>
+<entry align="center" valign="top">Compound (3)</entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry align="center">
+<chemistry id="chem0004" num="0004"><img id="ib0004" file="imgb0004.tif" wi="36" he="13" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry morerows="1" rowsep="1" align="center">
+<chemistry id="chem0005" num="0005"><img id="ib0005" file="imgb0005.tif" wi="23" he="29" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry morerows="1" rowsep="1" align="center">
+<chemistry id="chem0006" num="0006"><img id="ib0006" file="imgb0006.tif" wi="26" he="32" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row>
+<entry align="center">G is CH<sub>2</sub>, O, S or NH</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0060" num="0060">It is particularly preferable for the hydrophilic material in Structural Formula (5) to Structural Formula (8) to have a total molecular weight in the range of 1,000 to 2,000. Therefore, for example, when hexaethylene glycol according to Compound (1) in Structural Formula (7) and Structural Formula (8), that is, a material in which G is O and m is 6, is used, the molecular weight of the hexaethylene glycol spacer is 344, so the number of repetitions n is preferably 3 to 5. In particular, the present invention is characterized in that the repeating unit of the hydrophilic group, represented as (A'<sub>m</sub>-J) or (J-A'<sub>m</sub>)<sub>n</sub> in Structural Formula (5) and Structural Formula (6), namely a hydrophilic material block, may be used in an appropriate number, represented by n, as necessary. The hydrophilic material monomer A and the linker J included in each of the hydrophilic material blocks may be independently the same or different in the hydrophilic material blocks. Specifically, when three hydrophilic material blocks are used (n=3), the first block may include the hydrophilic<!-- EPO <DP n="31"> --> material monomer according to Compound (1), the second block may include the hydrophilic material monomer according to Compound (2), and the third block may include the hydrophilic material monomer according to Compound (3). In this way, different hydrophilic material monomers may be used for all hydrophilic material blocks, or any one hydrophilic material monomer selected from among the hydrophilic material monomers according to Compound (1) to Compound (3) may be identically used for all hydrophilic material blocks. Likewise, the linker that mediates the bonding of the hydrophilic material monomers may also use the same linker for each hydrophilic material block or a different linker for each hydrophilic material block. In addition, m, which is the number of hydrophilic material monomers, may be the same or different in the hydrophilic material blocks. Specifically, three hydrophilic material monomers (m=3) may be connected in the first hydrophilic material block, five hydrophilic material monomers (m=5) may be connected in the second hydrophilic material block, and four hydrophilic material monomers (m=4) may be connected in the third hydrophilic material block. In this way, different numbers of hydrophilic material monomers may be used, or the same number of hydrophilic material monomers may be used in all hydrophilic material<!-- EPO <DP n="32"> --> blocks.</p>
+<p id="p0061" num="0061">Moreover, in the present invention, the linker J is preferably selected from the group consisting of PO<sub>3</sub><sup>-</sup>, SO<sub>3</sub>, and CO<sub>2</sub>, but is not limited thereto. Any linker may be used, so long as it meets the purpose of the present invention depending on the monomer of the hydrophilic material that is used, as will be obvious to those of ordinary skill in the art.</p>
+<p id="p0062" num="0062">The hydrophobic material B in Structural Formula (1) to Structural Formula (4), Structural Formula (7), and Structural Formula (8) plays a role in forming nanoparticles composed of oligonucleotide constructs according to Structural Formula (1) to Structural Formula (4), Structural Formula (7), and Structural Formula (8) through hydrophobic interaction. The hydrophobic material preferably has a molecular weight of 250 to 1,000, and examples thereof may include, but are not limited to, a steroid derivative, a glyceride derivative, glycerol ether, polypropylene glycol, a C<sub>12</sub>-C<sub>50</sub> unsaturated or saturated hydrocarbon, diacylphosphatidylcholine, fatty acid, phospholipid, lipopolyamine, and the like, and any hydrophobic material may be used so long as it meets the purpose of the present invention, as will be obvious to those of ordinary skill in the art to which<!-- EPO <DP n="33"> --> the present invention belongs.</p>
+<p id="p0063" num="0063">The steroid derivative may be selected from the group consisting of cholesterol, cholestanol, cholic acid, cholesteryl formate, cholestanyl formate, and cholesteryl amine, and the glyceride derivative may be selected from among mono-, di- and tri-glycerides. Here, fatty acid of the glyceride is preferably a C<sub>12</sub>-C<sub>50</sub> unsaturated or saturated fatty acid.</p>
+<p id="p0064" num="0064">In particular, among the hydrophobic materials, saturated or unsaturated hydrocarbon or cholesterol is preferred in that it has the advantage of being able to be easily bound in the synthesis step of the oligonucleotide construct according to the present invention, and a C<sub>24</sub> hydrocarbon, particularly a form containing a disulfide bond, is the most preferable.</p>
+<p id="p0065" num="0065">The hydrophobic material is bound to the distal end of the hydrophilic material, and may be bound to any position on the sense strand or the antisense strand of the oligonucleotide.</p>
+<p id="p0066" num="0066">The hydrophilic material or hydrophobic material and the androgen-receptor-specific oligonucleotide in Structural Formula (1) to Structural Formula (4), Structural Formula (7), and Structural Formula (8) according to the present invention are bound together via<!-- EPO <DP n="34"> --> a simple covalent bond or a linker-mediated covalent bond (X or Y). The linker that mediates the covalent bond is covalently joined at the end of the hydrophilic material or the hydrophobic material and the androgen-receptor-specific oligonucleotide, and is not particularly limited, so long as it provides a cleavable bond in a specific environment as necessary. Therefore, the linker may be any compound that is joined to activate the androgen-receptor-specific oligonucleotide and/or the hydrophilic material (or hydrophobic material) during the process of manufacturing the double stranded oligonucleotide construct according to the present invention. The covalent bond may be either a non-cleavable bond or a cleavable bond. Here, the non-cleavable bond may be an amide bond or a phosphate bond, and the cleavable bond may be a disulfide bond, an acid-cleavable bond, an ester bond, an anhydride bond, a biodegradable bond, or an enzyme-cleavable bond, but the present invention is not limited thereto.</p>
+<p id="p0067" num="0067">In addition, the androgen-receptor-specific oligonucleotide represented by R (or S and AS) in Structural Formula (1) to Structural Formula (4), Structural Formula (7), and Structural Formula (8) may be used without limitation, so long as it is a sequence that<!-- EPO <DP n="35"> --> is able to specifically bind to mRNA of the androgen receptor. In the present invention, the androgen-receptor-specific oligonucleotide is preferably composed of a sense strand comprising any one sequence selected from the group consisting of SEQ ID NOS: 6, 58, 68, 99, 107, 109, 260, 270, 284, 298, 348, 358, 359, and 434 and an antisense strand comprising a sequence complementary thereto.</p>
+<p id="p0068" num="0068">In particular, siRNA contained in Structural Formula (1) to Structural Formula (4), Structural Formula (7), and Structural Formula (8) according to the present invention is preferably an androgen-receptor-specific oligonucleotide composed of a sense strand comprising any one sequence selected from the group consisting of SEQ ID NOS: 6, 58, 68, 99, 107, 109, 260, 270, 284, 298, 348, 358, 359, and 434 and an antisense strand comprising a sequence complementary thereto.</p>
+<p id="p0069" num="0069">In the double stranded oligonucleotide construct including the androgen-receptor-specific oligonucleotide according to the present invention, an amine group or a polyhistidine group may be additionally introduced at an end portion of the hydrophilic material opposite an end portion bound to the oligonucleotide.</p>
+<p id="p0070" num="0070">This serves to facilitate the intracellular introduction of the carrier of the double stranded<!-- EPO <DP n="36"> --> oligonucleotide construct including the androgen-receptor-specific oligonucleotide according to the present invention and the escape thereof from the endosome. In order to facilitate the intracellular introduction of the carrier, such as a quantum dot, dendrimer, liposome, etc., and escape thereof from the endosome, the use of an amine group and a polyhistidine group and the effect thereof have been reported.</p>
+<p id="p0071" num="0071">Specifically, the primary amine group modified at the end or outside of the carrier forms a conjugate through electrostatic interaction with a negatively charged gene while protonating at the pH <i>in vivo,</i> and after intracellular introduction thereof, the carrier may be protected from the degradation of lysosomes because the escape from the endosome is facilitated due to the internal tertiary amine having a buffering effect at the low pH of the endosome (<nplcit id="ncit0021" npl-type="s"><text>Gene transfer and expression inhibition using polymer-based hybrid materials. Polymer Sci. Technol., Vol. 23, No.3, pp 254-259</text></nplcit>). Moreover, histidine, a non-essential amino acid, has imidazoline (pKa3 6.04) at the residue (-R), thus effectively increasing the buffering capacity in endosomes and lysosomes, so it is known that the histidine modification may be used to increase the endosome escape efficiency in non-viral gene carriers including liposomes (<nplcit id="ncit0022" npl-type="s"><text>Novel<!-- EPO <DP n="37"> --> histidine-conjugated galactosylated cationic liposomes for efficient hepatocyte selective gene transfer in human hepatoma HepG2 cells. J. Controlled Release 118, pp262-270</text></nplcit>).</p>
+<p id="p0072" num="0072">The amine group or polyhistidine group may be connected to a hydrophilic material or to a hydrophilic material block via at least one linker.</p>
+<p id="p0073" num="0073">When an amine group or a polyhistidine group is introduced into the hydrophilic material of the double stranded oligonucleotide construct according to Structural Formula (1) of the present invention, the structure of Structural Formula (9) may be represented.<br/>
+<br/>
+        P-J<sub>1</sub>-J<sub>2</sub>-A-X-R-Y-B     Structural Formula (9)<br/>
+<br/>
+</p>
+<p id="p0074" num="0074">In Structural Formula (9), A, B, R, X and Y are as defined in Structural Formula (1).</p>
+<p id="p0075" num="0075">P represents an amine group or a polyhistidine group, J<sub>1</sub> and J<sub>2</sub> are linkers, J<sub>1</sub> and J<sub>2</sub> may be independently selected from among a simple covalent bond, PO<sub>3</sub><sup>-</sup>, SO<sub>3</sub>, CO<sub>2</sub>, C<sub>2-12</sub> alkyl, alkenyl, and alkynyl, but are not limited thereto, and depending on the type of hydrophilic material that is used, any linker for J<sub>1</sub> and J<sub>2</sub> may be used, so long as it meets the purpose of the present invention, as will be obvious to those of<!-- EPO <DP n="38"> --> ordinary skill in the art.</p>
+<p id="p0076" num="0076">When an amine group is introduced, J<sub>2</sub> is preferably a simple covalent bond or PO<sub>3</sub><sup>-</sup>, and J<sub>1</sub> is preferably C<sub>6</sub> alkyl, but the present invention is not limited thereto.</p>
+<p id="p0077" num="0077">Also, when a polyhistidine group is introduced, in Structural Formula (9), J<sub>2</sub> is preferably a simple covalent bond or PO<sub>3</sub><sup>-</sup>, and J<sub>1</sub> is preferably Compound (4) below, but the present invention is not limited thereto.
+<chemistry id="chem0007" num="0007"><img id="ib0007" file="imgb0007.tif" wi="74" he="40" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0078" num="0078">Moreover, when the hydrophilic material of the double stranded oligonucleotide construct according to Structural Formula (9) is a hydrophilic material block according to Structural Formula (5) or Structural Formula (6), and also when an amine group or a polyhistidine group is introduced thereto, the structure of Structural Formula (10) or Structural Formula (11) may be represented.<br/>
+<br/>
+        P-J<sub>1</sub>-J<sub>2</sub>-(A'<sub>m</sub>-J)<sub>n</sub>-X-R-Y-B     Structural Formula (10)<br/>
+<br/>
+        P-J<sub>1</sub>-J<sub>2</sub>-(J-A'<sub>m</sub>)<sub>n</sub>-X-R-Y-B     Structural Formula (11)<br/>
+<br/>
+</p>
+<p id="p0079" num="0079">In Structural Formula (10) and Structural Formula<!-- EPO <DP n="39"> --> (11), X, R, Y, B, A', J, m and n are as defined in Structural Formula (5) or Structural Formula (6), and P, J<sub>1</sub> and J<sub>2</sub> are as defined in Structural Formula (9).</p>
+<p id="p0080" num="0080">In particular, in Structural Formula (10) and Structural Formula (11), the hydrophilic material is preferably provided in the form of being bound to the 3' end of the sense strand of the androgen-receptor-specific oligonucleotide. Here, Structural Formula (9) to Structural Formula (11) may have the form of Structural Formula (12) to Structural Formula (14) below.
+<chemistry id="chem0008" num="0008"><img id="ib0008" file="imgb0008.tif" wi="128" he="14" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0009" num="0009"><img id="ib0009" file="imgb0009.tif" wi="127" he="13" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0010" num="0010"><img id="ib0010" file="imgb0010.tif" wi="127" he="13" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0081" num="0081">In Structural Formula (12) to Structural Formula (14), X, R, Y, B, A, A', J, m, n, P, J<sub>1</sub> and J<sub>2</sub> are as defined in Structural Formula (9) to Structural Formula (11), and 5' and 3' represent a 5' end and a 3' end of the sense strand of the androgen-receptor-specific oligonucleotide.</p>
+<p id="p0082" num="0082">As the amine group that may be introduced in the present invention, primary to tertiary amine groups may<!-- EPO <DP n="40"> --> be used, and the use of a primary amine group is particularly preferable. The amine group that is introduced may be provided as an amine salt, and, for example, the salt of the primary amine group may be provided in the form of NH<sub>3</sub><sup>+</sup>.</p>
+<p id="p0083" num="0083">Also, the polyhistidine group that may be introduced in the present invention preferably comprises 3 to 10 histidines, particularly preferably 5 to 8 histidines, and most preferably 6 histidines. Additionally, at least one cysteine may be included, in addition to histidine.</p>
+<p id="p0084" num="0084">Meanwhile, when the double stranded oligonucleotide construct comprising the androgen-receptor-specific oligonucleotide according to the present invention and the nanoparticle formed therefrom are provided with a targeting moiety, delivery thereof into the target cells is efficiently promoted, and thus it may be delivered even at a relatively low dose to target cells to exhibit a high target gene expression regulation function, and is able to prevent the delivery of non-specific androgen-receptor-specific oligonucleotides to other organs and cells.</p>
+<p id="p0085" num="0085">Accordingly, the present invention provides a double stranded oligonucleotide construct configured<!-- EPO <DP n="41"> --> such that a ligand L, particularly a ligand having a property of specifically binding to a receptor that promotes target cell internalization through receptor-mediated endocytosis (RME), is additionally bound to the construct according to Structural Formula (1) to Structural Formula (4), Structural Formula (7), and Structural Formula (8). For example, the form in which the ligand is bound to the double stranded oligonucleotide construct according to Structural Formula (1) has the structure of Structural Formula (15) below.<br/>
+<br/>
+        (L<sub>i</sub>-Z)-A-X-R-Y-B     Structural Formula (15)<br/>
+<br/>
+</p>
+<p id="p0086" num="0086">In Structural Formula (15), A, B, X and Y are as defined in Structural Formula (1), L is a ligand having a property of specifically binding to a receptor that promotes target cell internalization through receptor-mediated endocytosis (RME), and i is an integer of 1 to 5, preferably an integer of 1 to 3.</p>
+<p id="p0087" num="0087">The ligand in Structural Formula (15) is preferably selected from among target-receptor-specific antibodies, aptamers, and peptides having RME properties capable of promoting cell internalization in a target-cell-specific manner, and chemical materials, including folate (the terms folate and folic acid generally being used interchangeably with each other, with "folate" as<!-- EPO <DP n="42"> --> used herein meaning folate in a natural state or an activated state in the human body), hexoamine such as N-acetylgalactosamine (NAG), a sugar or carbohydrate such as glucose or mannose, and the like, but is not limited thereto.</p>
+<p id="p0088" num="0088">In addition, the hydrophilic material A in Structural Formula (15) may be used in the form of a hydrophilic material block according to Structural Formula (5) and Structural Formula (6).</p>
+<p id="p0089" num="0089">Still another aspect of the present invention pertains to a nanoparticle comprising the double stranded oligonucleotide construct comprising the androgen-receptor-specific oligonucleotide.</p>
+<p id="p0090" num="0090">As described above, the double stranded oligonucleotide construct comprising the androgen-receptor-specific oligonucleotide is amphiphilic because both hydrophobic and hydrophilic materials are contained therein, and the hydrophilic portion has affinity through interactions such as hydrogen bonds, etc. with water molecules present in the body and is thus directed outwards, and hydrophobic materials are directed inwards through hydrophobic interactions therebetween, thus forming a thermodynamically stable nanoparticle. Specifically, the hydrophobic material is located in the<!-- EPO <DP n="43"> --> center of the nanoparticle, and the hydrophilic material is located in the outer direction of the androgen-receptor-specific oligonucleotide, resulting in a nanoparticle having a form that protects the androgen-receptor-specific oligonucleotide. The nanoparticle thus formed improves the intracellular delivery of the androgen-receptor-specific oligonucleotide and increases oligonucleotide efficacy.</p>
+<p id="p0091" num="0091">The nanoparticle according to the present invention may be formed only with the double stranded oligonucleotide construct comprising the oligonucleotide having the same sequence, or may also be composed of a double stranded oligonucleotide construct comprising an oligonucleotide having a different sequence. In the present invention, the oligonucleotide having the different sequence may be an oligonucleotide specific to an androgen receptor as a different target gene, and the case of different sequences while having the same target gene specificity may be incorporated.</p>
+<p id="p0092" num="0092">Also, a double stranded oligonucleotide construct comprising siRNA specific to other hair-loss-related genes, in addition to the androgen-receptor-specific oligonucleotide, may be included in the scope of nanoparticles according to the present invention.<!-- EPO <DP n="44"> --></p>
+<p id="p0093" num="0093">Yet another aspect of the present invention pertains to a pharmaceutical composition for preventing hair loss, particularly androgenetic alopecia, or promoting hair growth, containing, as an active ingredient, an androgen-receptor-specific double stranded oligonucleotide, a double stranded oligonucleotide construct including the same, and/or a nanoparticle including the double stranded oligonucleotide construct.</p>
+<p id="p0094" num="0094">The pharmaceutical composition may be used for a formulation selected from among ointment, paste, gel, jelly, serum, aerosol spray, non-aerosol spray, foam, cream, lotion, solution, and suspension formulations, but is not limited thereto.</p>
+<p id="p0095" num="0095">The composition according to the present invention exhibits an effect of preventing hair loss or inducing hair growth by inhibiting the binding of DHT, which is a metabolite of testosterone, to an androgen receptor.</p>
+<p id="p0096" num="0096">In addition to the double stranded oligonucleotide according to the present invention or the construct thereof, a double stranded oligonucleotide specific to a hair-loss-disease-related gene other than the androgen receptor or a double stranded oligonucleotide construct comprising the same may be further included in the composition according to the<!-- EPO <DP n="45"> --> present invention.</p>
+<p id="p0097" num="0097">The composition according to the present invention may be applied to hair loss associated with a gene involved in the upstream or downstream signaling of the androgen receptor, particularly androgenetic alopecia, but is not limited thereto.</p>
+<p id="p0098" num="0098">The composition of the present invention may be manufactured so as to further include at least one pharmaceutically acceptable carrier in addition to the above active ingredient. The pharmaceutically acceptable carrier has to be compatible with the active ingredient of the present invention, and may include saline, sterile water, Ringer's solution, buffered saline, dextrose solution, maltodextrin solution, glycerol, and ethanol, which may be used alone or in combinations of two or more thereof. Also, other typical additives, such as antioxidants, buffers, bacteriostatic agents, and the like, may be added as necessary. Also, diluents, dispersants, surfactants, binders, and lubricants may be further added to manufacture injectable formulations such as aqueous solutions, suspensions, emulsions, and the like. In particular, it is preferable to provide a formulation in a lyophilized form. In order to manufacture a lyophilized formulation, a method commonly known in the art to which the present invention belongs<!-- EPO <DP n="46"> --> may be used, and a stabilizer for lyophilization may be added. Furthermore, a formulation is preferably manufactured depending on each disease or component using an appropriate method in the art or using a method disclosed in <nplcit id="ncit0023" npl-type="b"><text>Remington's Pharmaceutical Science (Mack Publishing Company, Easton PA</text></nplcit>).</p>
+<p id="p0099" num="0099">The amount and administration method of the active ingredient, etc. contained in the composition of the present invention may be determined by an expert of ordinary skill in the art based on the symptoms and severity of hair loss of an individual. Moreover, the composition of the present invention may be formulated in various forms, such as powders, tablets, injections, ointments, and the like, and may be provided in unit-dose or multi-dose containers, such as sealed ampoules and bottles.</p>
+<p id="p0100" num="0100">Still yet another aspect of the present invention provides a cosmetic composition for preventing hair loss, particularly androgenetic alopecia, or promoting hair growth, containing, as an active ingredient, an androgen-receptor-specific double stranded oligonucleotide, a double stranded oligonucleotide construct comprising the same, and/or a nanoparticle including the double stranded oligonucleotide construct.<!-- EPO <DP n="47"> --></p>
+<p id="p0101" num="0101">The composition may be used for a formulation selected from among hair tonic, hair conditioner, hair essence, hair lotion, hair nutrition lotion, hair shampoo, hair rinse, hair treatment, hair cream, hair nutrition cream, hair moisture cream, hair massage cream, hair wax, hair aerosol, hair pack, hair nutrition pack, hair soap, hair cleansing foam, hair oil, hair drying agent, hair preservative, hair dye, hair wave agent, hair decolorant, hair gel, hair glaze, hair dressing, hair lacquer, hair moisturizer, hair mousse, and hair spray formulations, but is not limited thereto.</p>
+<p id="p0102" num="0102">A further aspect of the present invention provides a method of treating hair loss comprising administering the construct, nanoparticle, or pharmaceutical composition according to the present invention to a subject in need of hair growth, or applying the construct, nanoparticle, or pharmaceutical composition according to the present invention onto an area in need of hair growth.</p>
+<p id="p0103" num="0103">In addition, the present invention pertains to a method of preventing hair loss or promoting hair growth comprising administering or applying the construct, nanoparticle, or cosmetic composition according to the present invention to a subject in need of hair-loss<!-- EPO <DP n="48"> --> prevention or hair growth or onto the corresponding area.</p>
+<p id="p0104" num="0104">In addition, the present invention pertains to the use of the double stranded oligonucleotide construct to prevent hair loss or to promote hair growth.</p>
+<p id="p0105" num="0105">In addition, the present invention pertains to the use of the double stranded oligonucleotide construct to manufacture a medicine or a cosmetic for preventing hair loss or promoting hair growth.</p>
+<p id="p0106" num="0106">Hair loss in the present invention includes androgenetic alopecia, alopecia areata, and telogen effluvium.</p>
+<p id="p0107" num="0107">A better understanding of the present invention may be obtained through the following examples. These examples are merely set forth to illustrate the present invention, and are not to be construed as limiting the scope of the present invention, as will be apparent to those of ordinary skill in the art.</p>
+<heading id="h0006">Example 1. Algorithm and candidate sequence selection for oligonucleotide screening targeting androgen receptor</heading>
+<p id="p0108" num="0108">An siRNA-based high-throughput drug-screening<!-- EPO <DP n="49"> --> method is capable of generating all possible candidate sequences by applying a 1-base or 2-base sliding-window algorithm to total mRNA and also of removing unnecessary candidate sequences through homology filtering, thus confirming the extent of inhibition of gene expression for all of the finally selected oligonucleotides.</p>
+<p id="p0109" num="0109">First, the design process for the oligonucleotide candidate sequence for the androgen receptor was performed in a manner in which the isoform common region was extracted based on the exon map of the human androgen receptor mRNA NM_000044.3 (isoform 1, 10,661 bp) and NM_001011645.2 (isoform 2, 8112 bp), and a 2-base sliding-window algorithm was applied to the extracted isoform common region, thereby selecting 3,956 candidate sequences composed of 19 bases.</p>
+<p id="p0110" num="0110">In the selected oligonucleotide candidate sequence list, 468 candidate sequences having identity of 15 or fewer bases for RNA sequences with other genes were finally selected when the BLAST e-value for human total reference sequence RNA was 100 or less. Here, an experiment on the extent of inhibition of the expression of the androgen receptor was performed using a total of 544 oligonucleotide sequences including 76 siRNA sequences mentioned in previously known related literature (U.S. Patent Application Publication No. <patcit id="pcit0012" dnum="US20070141009A"><text>US<!-- EPO <DP n="50"> --> 2007-0141009</text></patcit>).
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>[Table 2]</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="27mm"/>
+<colspec colnum="2" colname="col2" colwidth="35mm"/>
+<colspec colnum="3" colname="col3" colwidth="39mm"/>
+<colspec colnum="4" colname="col4" colwidth="64mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col4" align="left" valign="top">Androgen-receptor-specific oligonucleotide candidate sequence selected through 2-base sliding-window screening</entry></row>
+<row>
+<entry valign="top"><u>SEQ ID NO:</u></entry>
+<entry valign="top"><u>Accession No.</u></entry>
+<entry valign="top"><u>Position</u></entry>
+<entry valign="top"><u>Sense strand sequence</u></entry></row></thead>
+<tbody>
+<row>
+<entry>1</entry>
+<entry>NM_000044.3</entry>
+<entry>2739-2757</entry>
+<entry>ACTGCCAGGGACCATGTTT</entry></row>
+<row>
+<entry>2</entry>
+<entry>NM_000044.3</entry>
+<entry>2741-2759</entry>
+<entry>TGCCAGGGACCATGTTTTG</entry></row>
+<row>
+<entry>3</entry>
+<entry>NM_000044.3</entry>
+<entry>2743-2761</entry>
+<entry>CCAGGGACCATGTTTTGCC</entry></row>
+<row>
+<entry>4</entry>
+<entry>NM_000044.3</entry>
+<entry>2745-2763</entry>
+<entry>AGGGACCATGTTTTGCCCA</entry></row>
+<row>
+<entry>5</entry>
+<entry>NM_000044.3</entry>
+<entry>2755-2773</entry>
+<entry>TTTTGCCCATTGACTATTA</entry></row>
+<row>
+<entry>6</entry>
+<entry>NM_000044.3</entry>
+<entry>2757-2775</entry>
+<entry>TTGCCCATTGACTATTACT</entry></row>
+<row>
+<entry>7</entry>
+<entry>NM_000044.3</entry>
+<entry>2763-2781</entry>
+<entry>ATTGACTATTACTTTCCAC</entry></row>
+<row>
+<entry>8</entry>
+<entry>NM_000044.3</entry>
+<entry>2765-2783</entry>
+<entry>TGACTATTACTTTCCACCC</entry></row>
+<row>
+<entry>9</entry>
+<entry>NM_000044.3</entry>
+<entry>2767-2785</entry>
+<entry>ACTATTACTTTCCACCCCA</entry></row>
+<row>
+<entry>10</entry>
+<entry>NM_000044.3</entry>
+<entry>2769-2787</entry>
+<entry>TATTACTTTCCACCCCAGA</entry></row>
+<row>
+<entry>11</entry>
+<entry>NM_000044.3</entry>
+<entry>2785-2803</entry>
+<entry>AGAAGACCTGCCTGATCTG</entry></row>
+<row>
+<entry>12</entry>
+<entry>NM_000044.3</entry>
+<entry>2861-2879</entry>
+<entry>CTTCTTCAAAAGAGCCGCT</entry></row>
+<row>
+<entry>13</entry>
+<entry>NM_000044.3</entry>
+<entry>2921-2939</entry>
+<entry>CACTATTGATAAATTCCGA</entry></row>
+<row>
+<entry>14</entry>
+<entry>NM_000044.3</entry>
+<entry>2923-2941</entry>
+<entry>CTATTGATAAATTCCGAAG</entry></row>
+<row>
+<entry>15</entry>
+<entry>NM_000044.3</entry>
+<entry>2947-2965</entry>
+<entry>ATTGTCCATCTTGTCGTCT</entry></row>
+<row>
+<entry>16</entry>
+<entry>NM_000044.3</entry>
+<entry>2959-2977</entry>
+<entry>GTCGTCTTCGGAAATGTTA</entry></row>
+<row>
+<entry>17</entry>
+<entry>NM_000044.3</entry>
+<entry>2965-2983</entry>
+<entry>TTCGGAAATGTTATGAAGC</entry></row><!-- EPO <DP n="51"> -->
+<row>
+<entry>18</entry>
+<entry>NM_000044.3</entry>
+<entry>2971-2989</entry>
+<entry>AATGTTATGAAGCAGGGAT</entry></row>
+<row>
+<entry>19</entry>
+<entry>NM_000044.3</entry>
+<entry>3093-3111</entry>
+<entry>CTGACAGTGTCACACATTG</entry></row>
+<row>
+<entry>20</entry>
+<entry>NM_000044.3</entry>
+<entry>3111-3129</entry>
+<entry>GAAGGCTATGAATGTCAGC</entry></row>
+<row>
+<entry>21</entry>
+<entry>NM_000044.3</entry>
+<entry>3169-3187</entry>
+<entry>TAGTGTGTGCTGGACACGA</entry></row>
+<row>
+<entry>22</entry>
+<entry>NM_000044.3</entry>
+<entry>3171-3189</entry>
+<entry>GTGTGTGCTGGACACGACA</entry></row>
+<row>
+<entry>23</entry>
+<entry>NM_000044.3</entry>
+<entry>3189-3207</entry>
+<entry>AACAACCAGCCCGACTCCT</entry></row>
+<row>
+<entry>24</entry>
+<entry>NM_000044.3</entry>
+<entry>3197-3215</entry>
+<entry>GCCCGACTCCTTTGCAGCC</entry></row>
+<row>
+<entry>25</entry>
+<entry>NM_000044.3</entry>
+<entry>3217-3235</entry>
+<entry>TGCTCTCTAGCCTCAATGA</entry></row>
+<row>
+<entry>26</entry>
+<entry>NM_000044.3</entry>
+<entry>3243-3261</entry>
+<entry>GAGAGACAGCTTGTACACG</entry></row>
+<row>
+<entry>27</entry>
+<entry>NM_000044.3</entry>
+<entry>3251-3269</entry>
+<entry>GCTTGTACACGTGGTCAAG</entry></row>
+<row>
+<entry>28</entry>
+<entry>NM_000044.3</entry>
+<entry>3253-3271</entry>
+<entry>TTGTACACGTGGTCAAGTG</entry></row>
+<row>
+<entry>29</entry>
+<entry>NM_000044.3</entry>
+<entry>3255-3273</entry>
+<entry>GTACACGTGGTCAAGTGGG</entry></row>
+<row>
+<entry>30</entry>
+<entry>NM_000044.3</entry>
+<entry>3257-3275</entry>
+<entry>ACACGTGGTCAAGTGGGCC</entry></row>
+<row>
+<entry>31</entry>
+<entry>NM_000044.3</entry>
+<entry>3259-3277</entry>
+<entry>ACGTGGTCAAGTGGGCCAA</entry></row>
+<row>
+<entry>32</entry>
+<entry>NM_000044.3</entry>
+<entry>3263-3281</entry>
+<entry>GGTCAAGTGGGCCAAGGCC</entry></row>
+<row>
+<entry>33</entry>
+<entry>NM_000044.3</entry>
+<entry>3285-3303</entry>
+<entry>CCTGGCTTCCGCAACTTAC</entry></row>
+<row>
+<entry>34</entry>
+<entry>NM_000044.3</entry>
+<entry>3287-3305</entry>
+<entry>TGGCTTCCGCAACTTACAC</entry></row>
+<row>
+<entry>35</entry>
+<entry>NM_000044.3</entry>
+<entry>3289-3307</entry>
+<entry>GCTTCCGCAACTTACACGT</entry></row>
+<row>
+<entry>36</entry>
+<entry>NM_000044.3</entry>
+<entry>3291-3309</entry>
+<entry>TTCCGCAACTTACACGTGG</entry></row>
+<row>
+<entry>37</entry>
+<entry>NM_000044.3</entry>
+<entry>3293-3311</entry>
+<entry>CCGCAACTTACACGTGGAC</entry></row>
+<row>
+<entry>38</entry>
+<entry>NM_000044.3</entry>
+<entry>3295-3313</entry>
+<entry>GCAACTTACACGTGGACGA</entry></row>
+<row>
+<entry>39</entry>
+<entry>NM_000044.3</entry>
+<entry>3303-3321</entry>
+<entry>CACGTGGACGACCAGATGG</entry></row><!-- EPO <DP n="52"> -->
+<row>
+<entry>40</entry>
+<entry>NM_000044.3</entry>
+<entry>3309-3327</entry>
+<entry>GACGACCAGATGGCTGTCA</entry></row>
+<row>
+<entry>41</entry>
+<entry>NM_000044.3</entry>
+<entry>3325-3343</entry>
+<entry>TCATTCAGTACTCCTGGAT</entry></row>
+<row>
+<entry>42</entry>
+<entry>NM_000044.3</entry>
+<entry>3347-3365</entry>
+<entry>GCTCATGGTGTTTGCCATG</entry></row>
+<row>
+<entry>43</entry>
+<entry>NM_000044.3</entry>
+<entry>3361-3379</entry>
+<entry>CCATGGGCTGGCGATCCTT</entry></row>
+<row>
+<entry>44</entry>
+<entry>NM_000044.3</entry>
+<entry>3369-3387</entry>
+<entry>TGGCGATCCTTCACCAATG</entry></row>
+<row>
+<entry>45</entry>
+<entry>NM_000044.3</entry>
+<entry>3385-3403</entry>
+<entry>ATGTCAACTCCAGGATGCT</entry></row>
+<row>
+<entry>46</entry>
+<entry>NM_000044.3</entry>
+<entry>3391-3409</entry>
+<entry>ACTCCAGGATGCTCTACTT</entry></row>
+<row>
+<entry>47</entry>
+<entry>NM_000044.3</entry>
+<entry>3395-3413</entry>
+<entry>CAGGATGCTCTACTTCGCC</entry></row>
+<row>
+<entry>48</entry>
+<entry>NM_000044.3</entry>
+<entry>3397-3415</entry>
+<entry>GGATGCTCTACTTCGCCCC</entry></row>
+<row>
+<entry>49</entry>
+<entry>NM_000044.3</entry>
+<entry>3399-3417</entry>
+<entry>ATGCTCTACTTCGCCCCTG</entry></row>
+<row>
+<entry>50</entry>
+<entry>NM_000044.3</entry>
+<entry>3401-3419</entry>
+<entry>GCTCTACTTCGCCCCTGAT</entry></row>
+<row>
+<entry>51</entry>
+<entry>NM_000044.3</entry>
+<entry>3403-3421</entry>
+<entry>TCTACTTCGCCCCTGATCT</entry></row>
+<row>
+<entry>52</entry>
+<entry>NM_000044.3</entry>
+<entry>3405-3423</entry>
+<entry>TACTTCGCCCCTGATCTGG</entry></row>
+<row>
+<entry>53</entry>
+<entry>NM_000044.3</entry>
+<entry>3407-3425</entry>
+<entry>CTTCGCCCCTGATCTGGTT</entry></row>
+<row>
+<entry>54</entry>
+<entry>NM_000044.3</entry>
+<entry>3409-3427</entry>
+<entry>TCGCCCCTGATCTGGTTTT</entry></row>
+<row>
+<entry>55</entry>
+<entry>NM_000044.3</entry>
+<entry>3411-3429</entry>
+<entry>GCCCCTGATCTGGTTTTCA</entry></row>
+<row>
+<entry>56</entry>
+<entry>NM_000044.3</entry>
+<entry>3413-3431</entry>
+<entry>CCCTGATCTGGTTTTCAAT</entry></row>
+<row>
+<entry>57</entry>
+<entry>NM_000044.3</entry>
+<entry>3427-3445</entry>
+<entry>TCAATGAGTACCGCATGCA</entry></row>
+<row>
+<entry>58</entry>
+<entry>NM_000044.3</entry>
+<entry>3429-3447</entry>
+<entry>AATGAGTACCGCATGCACA</entry></row>
+<row>
+<entry>59</entry>
+<entry>NM_000044.3</entry>
+<entry>3435-3453</entry>
+<entry>TACCGCATGCACAAGTCCC</entry></row>
+<row>
+<entry>60</entry>
+<entry>NM_000044.3</entry>
+<entry>3437-3455</entry>
+<entry>CCGCATGCACAAGTCCCGG</entry></row>
+<row>
+<entry>61</entry>
+<entry>NM_000044.3</entry>
+<entry>3439-3457</entry>
+<entry>GCATGCACAAGTCCCGGAT</entry></row>
+<row>
+<entry>62</entry>
+<entry>NM_000044.3</entry>
+<entry>3451-3469</entry>
+<entry>CCCGGATGTACAGCCAGTG</entry></row><!-- EPO <DP n="53"> -->
+<row>
+<entry>63</entry>
+<entry>NM_000044.3</entry>
+<entry>3461-3479</entry>
+<entry>CAGCCAGTGTGTCCGAATG</entry></row>
+<row>
+<entry>64</entry>
+<entry>NM_000044.3</entry>
+<entry>3463-3481</entry>
+<entry>GCCAGTGTGTCCGAATGAG</entry></row>
+<row>
+<entry>65</entry>
+<entry>NM_000044.3</entry>
+<entry>3465-3483</entry>
+<entry>CAGTGTGTCCGAATGAGGC</entry></row>
+<row>
+<entry>66</entry>
+<entry>NM_000044.3</entry>
+<entry>3469-3487</entry>
+<entry>GTGTCCGAATGAGGCACCT</entry></row>
+<row>
+<entry>67</entry>
+<entry>NM_000044.3</entry>
+<entry>3479-3497</entry>
+<entry>GAGGCACCTCTCTCAAGAG</entry></row>
+<row>
+<entry>68</entry>
+<entry>NM_000044.3</entry>
+<entry>3495-3513</entry>
+<entry>GAGTTTGGATGGCTCCAAA</entry></row>
+<row>
+<entry>69</entry>
+<entry>NM_000044.3</entry>
+<entry>3507-3525</entry>
+<entry>CTCCAAATCACCCCCCAGG</entry></row>
+<row>
+<entry>70</entry>
+<entry>NM_000044.3</entry>
+<entry>3509-3527</entry>
+<entry>CCAAATCACCCCCCAGGAA</entry></row>
+<row>
+<entry>71</entry>
+<entry>NM_000044.3</entry>
+<entry>3527-3545</entry>
+<entry>ATTCCTGTGCATGAAAGCA</entry></row>
+<row>
+<entry>72</entry>
+<entry>NM_000044.3</entry>
+<entry>3567-3585</entry>
+<entry>CCAGTGGATGGGCTGAAAA</entry></row>
+<row>
+<entry>73</entry>
+<entry>NM_000044.3</entry>
+<entry>3569-3587</entry>
+<entry>AGTGGATGGGCTGAAAAAT</entry></row>
+<row>
+<entry>74</entry>
+<entry>NM_000044.3</entry>
+<entry>3601-3619</entry>
+<entry>ATGAACTTCGAATGAACTA</entry></row>
+<row>
+<entry>75</entry>
+<entry>NM_000044.3</entry>
+<entry>3603-3621</entry>
+<entry>GAACTTCGAATGAACTACA</entry></row>
+<row>
+<entry>76</entry>
+<entry>NM_000044.3</entry>
+<entry>3605-3623</entry>
+<entry>ACTTCGAATGAACTACATC</entry></row>
+<row>
+<entry>77</entry>
+<entry>NM_000044.3</entry>
+<entry>3607-3625</entry>
+<entry>TTCGAATGAACTACATCAA</entry></row>
+<row>
+<entry>78</entry>
+<entry>NM_000044.3</entry>
+<entry>3609-3627</entry>
+<entry>CGAATGAACTACATCAAGG</entry></row>
+<row>
+<entry>79</entry>
+<entry>NM_000044.3</entry>
+<entry>3621-3639</entry>
+<entry>ATCAAGGAACTCGATCGTA</entry></row>
+<row>
+<entry>80</entry>
+<entry>NM_000044.3</entry>
+<entry>3623-3641</entry>
+<entry>CAAGGAACTCGATCGTATC</entry></row>
+<row>
+<entry>81</entry>
+<entry>NM_000044.3</entry>
+<entry>3625-3643</entry>
+<entry>AGGAACTCGATCGTATCAT</entry></row>
+<row>
+<entry>82</entry>
+<entry>NM_000044.3</entry>
+<entry>3627-3645</entry>
+<entry>GAACTCGATCGTATCATTG</entry></row>
+<row>
+<entry>83</entry>
+<entry>NM_000044.3</entry>
+<entry>3629-3647</entry>
+<entry>ACTCGATCGTATCATTGCA</entry></row>
+<row>
+<entry>84</entry>
+<entry>NM_000044.3</entry>
+<entry>3631-3649</entry>
+<entry>TCGATCGTATCATTGCATG</entry></row>
+<row>
+<entry>85</entry>
+<entry>NM_000044.3</entry>
+<entry>3633-3651</entry>
+<entry>GATCGTATCATTGCATGCA</entry></row><!-- EPO <DP n="54"> -->
+<row>
+<entry>86</entry>
+<entry>NM_000044.3</entry>
+<entry>3669-3687</entry>
+<entry>TCCTGCTCAAGACGCTTCT</entry></row>
+<row>
+<entry>87</entry>
+<entry>NM_000044.3</entry>
+<entry>3671-3689</entry>
+<entry>CTGCTCAAGACGCTTCTAC</entry></row>
+<row>
+<entry>88</entry>
+<entry>NM_000044.3</entry>
+<entry>3709-3727</entry>
+<entry>ACTCCGTGCAGCCTATTGC</entry></row>
+<row>
+<entry>89</entry>
+<entry>NM_000044.3</entry>
+<entry>3711-3729</entry>
+<entry>TCCGTGCAGCCTATTGCGA</entry></row>
+<row>
+<entry>90</entry>
+<entry>NM_000044.3</entry>
+<entry>3713-3731</entry>
+<entry>CGTGCAGCCTATTGCGAGA</entry></row>
+<row>
+<entry>91</entry>
+<entry>NM_000044.3</entry>
+<entry>3715-3733</entry>
+<entry>TGCAGCCTATTGCGAGAGA</entry></row>
+<row>
+<entry>92</entry>
+<entry>NM_000044.3</entry>
+<entry>3717-3735</entry>
+<entry>CAGCCTATTGCGAGAGAGC</entry></row>
+<row>
+<entry>93</entry>
+<entry>NM_000044.3</entry>
+<entry>3719-3737</entry>
+<entry>GCCTATTGCGAGAGAGCTG</entry></row>
+<row>
+<entry>94</entry>
+<entry>NM_000044.3</entry>
+<entry>3749-3767</entry>
+<entry>TTTTGACCTGCTAATCAAG</entry></row>
+<row>
+<entry>95</entry>
+<entry>NM_000044.3</entry>
+<entry>3759-3777</entry>
+<entry>CTAATCAAGTCACACATGG</entry></row>
+<row>
+<entry>96</entry>
+<entry>NM_000044.3</entry>
+<entry>3765-3783</entry>
+<entry>AAGTCACACATGGTGAGCG</entry></row>
+<row>
+<entry>97</entry>
+<entry>NM_000044.3</entry>
+<entry>3781-3799</entry>
+<entry>GCGTGGACTTTCCGGAAAT</entry></row>
+<row>
+<entry>98</entry>
+<entry>NM_000044.3</entry>
+<entry>3789-3807</entry>
+<entry>TTTCCGGAAATGATGGCAG</entry></row>
+<row>
+<entry>99</entry>
+<entry>NM_000044.3</entry>
+<entry>3845-3863</entry>
+<entry>GAAAGTCAAGCCCATCTAT</entry></row>
+<row>
+<entry>100</entry>
+<entry>NM_000044.3</entry>
+<entry>3847-3865</entry>
+<entry>AAGTCAAGCCCATCTATTT</entry></row>
+<row>
+<entry>101</entry>
+<entry>NM_000044.3</entry>
+<entry>3937-3955</entry>
+<entry>CTGTTATAACTCTGCACTA</entry></row>
+<row>
+<entry>102</entry>
+<entry>NM_000044.3</entry>
+<entry>3939-3957</entry>
+<entry>GTTATAACTCTGCACTACT</entry></row>
+<row>
+<entry>103</entry>
+<entry>NM_000044.3</entry>
+<entry>3941-3959</entry>
+<entry>TATAACTCTGCACTACTCC</entry></row>
+<row>
+<entry>104</entry>
+<entry>NM_000044.3</entry>
+<entry>3947-3965</entry>
+<entry>TCTGCACTACTCCTCTGCA</entry></row>
+<row>
+<entry>105</entry>
+<entry>NM_000044.3</entry>
+<entry>3971-3989</entry>
+<entry>TTGGGGAATTTCCTCTATT</entry></row>
+<row>
+<entry>106</entry>
+<entry>NM_000044.3</entry>
+<entry>3973-3991</entry>
+<entry>GGGGAATTTCCTCTATTGA</entry></row>
+<row>
+<entry>107</entry>
+<entry>NM_000044.3</entry>
+<entry>3987-4005</entry>
+<entry>ATTGATGTACAGTCTGTCA</entry></row>
+<row>
+<entry>108</entry>
+<entry>NM_000044.3</entry>
+<entry>3989-4007</entry>
+<entry>TGATGTACAGTCTGTCATG</entry></row><!-- EPO <DP n="55"> -->
+<row>
+<entry>109</entry>
+<entry>NM_000044.3</entry>
+<entry>3991-4009</entry>
+<entry>ATGTACAGTCTGTCATGAA</entry></row>
+<row>
+<entry>110</entry>
+<entry>NM_000044.3</entry>
+<entry>3993-4011</entry>
+<entry>GTACAGTCTGTCATGAACA</entry></row>
+<row>
+<entry>111</entry>
+<entry>NM_000044.3</entry>
+<entry>4021-4039</entry>
+<entry>ATTCTATTTGCTGGGCTTT</entry></row>
+<row>
+<entry>112</entry>
+<entry>NM_000044.3</entry>
+<entry>4071-4089</entry>
+<entry>TTCCCTCCCTATCTAACCC</entry></row>
+<row>
+<entry>113</entry>
+<entry>NM_000044.3</entry>
+<entry>4073-4091</entry>
+<entry>CCCTCCCTATCTAACCCTC</entry></row>
+<row>
+<entry>114</entry>
+<entry>NM_000044.3</entry>
+<entry>4075-4093</entry>
+<entry>CTCCCTATCTAACCCTCCC</entry></row>
+<row>
+<entry>115</entry>
+<entry>NM_000044.3</entry>
+<entry>4077-4095</entry>
+<entry>CCCTATCTAACCCTCCCAT</entry></row>
+<row>
+<entry>116</entry>
+<entry>NM_000044.3</entry>
+<entry>4079-4097</entry>
+<entry>CTATCTAACCCTCCCATGG</entry></row>
+<row>
+<entry>117</entry>
+<entry>NM_000044.3</entry>
+<entry>4089-4107</entry>
+<entry>CTCCCATGGCACCTTCAGA</entry></row>
+<row>
+<entry>118</entry>
+<entry>NM_000044.3</entry>
+<entry>4091-4109</entry>
+<entry>CCCATGGCACCTTCAGACT</entry></row>
+<row>
+<entry>119</entry>
+<entry>NM_000044.3</entry>
+<entry>4117-4135</entry>
+<entry>CCATTGTGGCTCCTATCTG</entry></row>
+<row>
+<entry>120</entry>
+<entry>NM_000044.3</entry>
+<entry>4119-4137</entry>
+<entry>ATTGTGGCTCCTATCTGTG</entry></row>
+<row>
+<entry>121</entry>
+<entry>NM_000044.3</entry>
+<entry>4125-4143</entry>
+<entry>GCTCCTATCTGTGTTTTGA</entry></row>
+<row>
+<entry>122</entry>
+<entry>NM_000044.3</entry>
+<entry>4179-4197</entry>
+<entry>CATATGGCCCAGTGTCAAG</entry></row>
+<row>
+<entry>123</entry>
+<entry>NM_000044.3</entry>
+<entry>4181-4199</entry>
+<entry>TATGGCCCAGTGTCAAGTT</entry></row>
+<row>
+<entry>124</entry>
+<entry>NM_000044.3</entry>
+<entry>4205-4223</entry>
+<entry>TGTTTACAGCACTACTCTG</entry></row>
+<row>
+<entry>125</entry>
+<entry>NM_000044.3</entry>
+<entry>4229-4247</entry>
+<entry>GCCACACAAACGTTTACTT</entry></row>
+<row>
+<entry>126</entry>
+<entry>NM_000044.3</entry>
+<entry>4243-4261</entry>
+<entry>TACTTATCTTATGCCACGG</entry></row>
+<row>
+<entry>127</entry>
+<entry>NM_000044.3</entry>
+<entry>4245-4263</entry>
+<entry>CTTATCTTATGCCACGGGA</entry></row>
+<row>
+<entry>128</entry>
+<entry>NM_000044.3</entry>
+<entry>4253-4271</entry>
+<entry>ATGCCACGGGAAGTTTAGA</entry></row>
+<row>
+<entry>129</entry>
+<entry>NM_000044.3</entry>
+<entry>4263-4281</entry>
+<entry>AAGTTTAGAGAGCTAAGAT</entry></row>
+<row>
+<entry>130</entry>
+<entry>NM_000044.3</entry>
+<entry>4265-4283</entry>
+<entry>GTTTAGAGAGCTAAGATTA</entry></row>
+<row>
+<entry>131</entry>
+<entry>NM_000044.3</entry>
+<entry>4267-4285</entry>
+<entry>TTAGAGAGCTAAGATTATC</entry></row><!-- EPO <DP n="56"> -->
+<row>
+<entry>132</entry>
+<entry>NM_000044.3</entry>
+<entry>4269-4287</entry>
+<entry>AGAGAGCTAAGATTATCTG</entry></row>
+<row>
+<entry>133</entry>
+<entry>NM_000044.3</entry>
+<entry>4451-4469</entry>
+<entry>GAGGCCAATAGTGACGAGA</entry></row>
+<row>
+<entry>134</entry>
+<entry>NM_000044.3</entry>
+<entry>4461-4479</entry>
+<entry>GTGACGAGAAGGTGAAAAT</entry></row>
+<row>
+<entry>135</entry>
+<entry>NM_000044.3</entry>
+<entry>4463-4481</entry>
+<entry>GACGAGAAGGTGAAAATTG</entry></row>
+<row>
+<entry>136</entry>
+<entry>NM_000044.3</entry>
+<entry>4487-4505</entry>
+<entry>CCATGGGGAGTTACTGATT</entry></row>
+<row>
+<entry>137</entry>
+<entry>NM_000044.3</entry>
+<entry>4521-4539</entry>
+<entry>TCCACGGGAGACTTTATTT</entry></row>
+<row>
+<entry>138</entry>
+<entry>NM_000044.3</entry>
+<entry>4523-4541</entry>
+<entry>CACGGGAGACTTTATTTTC</entry></row>
+<row>
+<entry>139</entry>
+<entry>NM_000044.3</entry>
+<entry>4549-4567</entry>
+<entry>GGCTATTGCCATTAGAGGG</entry></row>
+<row>
+<entry>140</entry>
+<entry>NM_000044.3</entry>
+<entry>4551-4569</entry>
+<entry>CTATTGCCATTAGAGGGCA</entry></row>
+<row>
+<entry>141</entry>
+<entry>NM_000044.3</entry>
+<entry>4621-4639</entry>
+<entry>AAGGAGGGCAATGGAGCAT</entry></row>
+<row>
+<entry>142</entry>
+<entry>NM_000044.3</entry>
+<entry>4623-4641</entry>
+<entry>GGAGGGCAATGGAGCATCA</entry></row>
+<row>
+<entry>143</entry>
+<entry>NM_000044.3</entry>
+<entry>4625-4643</entry>
+<entry>AGGGCAATGGAGCATCAGT</entry></row>
+<row>
+<entry>144</entry>
+<entry>NM_000044.3</entry>
+<entry>4627-4645</entry>
+<entry>GGCAATGGAGCATCAGTAC</entry></row>
+<row>
+<entry>145</entry>
+<entry>NM_000044.3</entry>
+<entry>4641-4659</entry>
+<entry>AGTACCTGCCCACAGCCTT</entry></row>
+<row>
+<entry>146</entry>
+<entry>NM_000044.3</entry>
+<entry>4661-4679</entry>
+<entry>GTCCCTGGGGGCTAGACTG</entry></row>
+<row>
+<entry>147</entry>
+<entry>NM_000044.3</entry>
+<entry>4667-4685</entry>
+<entry>GGGGGCTAGACTGCTCAAC</entry></row>
+<row>
+<entry>148</entry>
+<entry>NM_000044.3</entry>
+<entry>4691-4709</entry>
+<entry>AGCAATTCATTATACTGAA</entry></row>
+<row>
+<entry>149</entry>
+<entry>NM_000044.3</entry>
+<entry>4713-4731</entry>
+<entry>GTGCTTGTTGTTGAAAATT</entry></row>
+<row>
+<entry>150</entry>
+<entry>NM_000044.3</entry>
+<entry>4735-4753</entry>
+<entry>CTGCATGTTAATGCCTCAC</entry></row>
+<row>
+<entry>151</entry>
+<entry>NM_000044.3</entry>
+<entry>4783-4801</entry>
+<entry>CCTCCAACTTCAGATTGAC</entry></row>
+<row>
+<entry>152</entry>
+<entry>NM_000044.3</entry>
+<entry>4785-4803</entry>
+<entry>TCCAACTTCAGATTGACTT</entry></row>
+<row>
+<entry>153</entry>
+<entry>NM_000044.3</entry>
+<entry>4817-4835</entry>
+<entry>TAAGACCTTTGAACTGAAT</entry></row>
+<row>
+<entry>154</entry>
+<entry>NM_000044.3</entry>
+<entry>4819-4837</entry>
+<entry>AGACCTTTGAACTGAATGT</entry></row><!-- EPO <DP n="57"> -->
+<row>
+<entry>155</entry>
+<entry>NM_000044.3</entry>
+<entry>4853-4871</entry>
+<entry>CTTGGCGACTTCCACAGAA</entry></row>
+<row>
+<entry>156</entry>
+<entry>NM_000044.3</entry>
+<entry>4855-4873</entry>
+<entry>TGGCGACTTCCACAGAAAA</entry></row>
+<row>
+<entry>157</entry>
+<entry>NM_000044.3</entry>
+<entry>4877-4895</entry>
+<entry>TGACCACTGAGAAGAAGGA</entry></row>
+<row>
+<entry>158</entry>
+<entry>NM_000044.3</entry>
+<entry>4935-4953</entry>
+<entry>CAGGTCTGCTTTCTCATGT</entry></row>
+<row>
+<entry>159</entry>
+<entry>NM_000044.3</entry>
+<entry>4947-4965</entry>
+<entry>CTCATGTGTGAGTCAGGGA</entry></row>
+<row>
+<entry>160</entry>
+<entry>NM_000044.3</entry>
+<entry>5019-5037</entry>
+<entry>GACACTGACTGAATAGTTA</entry></row>
+<row>
+<entry>161</entry>
+<entry>NM_000044.3</entry>
+<entry>5037-5055</entry>
+<entry>AAACTCTCACTGCCACTAC</entry></row>
+<row>
+<entry>162</entry>
+<entry>NM_000044.3</entry>
+<entry>5041-5059</entry>
+<entry>TCTCACTGCCACTACCTTT</entry></row>
+<row>
+<entry>163</entry>
+<entry>NM_000044.3</entry>
+<entry>5099-5117</entry>
+<entry>ACTCCGTGAAGCCACAAGC</entry></row>
+<row>
+<entry>164</entry>
+<entry>NM_000044.3</entry>
+<entry>5105-5123</entry>
+<entry>TGAAGCCACAAGCACCTTA</entry></row>
+<row>
+<entry>165</entry>
+<entry>NM_000044.3</entry>
+<entry>5111-5129</entry>
+<entry>CACAAGCACCTTATGTCCT</entry></row>
+<row>
+<entry>166</entry>
+<entry>NM_000044.3</entry>
+<entry>5199-5217</entry>
+<entry>TTCTTTTGGGCATGTTCAC</entry></row>
+<row>
+<entry>167</entry>
+<entry>NM_000044.3</entry>
+<entry>5201-5219</entry>
+<entry>CTTTTGGGCATGTTCACAG</entry></row>
+<row>
+<entry>168</entry>
+<entry>NM_000044.3</entry>
+<entry>5241-5259</entry>
+<entry>CCACCAAGAAGGTTAGCAG</entry></row>
+<row>
+<entry>169</entry>
+<entry>NM_000044.3</entry>
+<entry>5249-5267</entry>
+<entry>AAGGTTAGCAGGCCAACAG</entry></row>
+<row>
+<entry>170</entry>
+<entry>NM_000044.3</entry>
+<entry>5251-5269</entry>
+<entry>GGTTAGCAGGCCAACAGCT</entry></row>
+<row>
+<entry>171</entry>
+<entry>NM_000044.3</entry>
+<entry>5269-5287</entry>
+<entry>TCTGACATCTATCTGTAGA</entry></row>
+<row>
+<entry>172</entry>
+<entry>NM_000044.3</entry>
+<entry>5273-5291</entry>
+<entry>ACATCTATCTGTAGATGCC</entry></row>
+<row>
+<entry>173</entry>
+<entry>NM_000044.3</entry>
+<entry>5275-5293</entry>
+<entry>ATCTATCTGTAGATGCCAG</entry></row>
+<row>
+<entry>174</entry>
+<entry>NM_000044.3</entry>
+<entry>5311-5329</entry>
+<entry>TACCAACTCTCAGATCGCT</entry></row>
+<row>
+<entry>175</entry>
+<entry>NM_000044.3</entry>
+<entry>5313-5331</entry>
+<entry>CCAACTCTCAGATCGCTGG</entry></row>
+<row>
+<entry>176</entry>
+<entry>NM_000044.3</entry>
+<entry>5323-5341</entry>
+<entry>GATCGCTGGAGCCCTTAGA</entry></row>
+<row>
+<entry>177</entry>
+<entry>NM_000044.3</entry>
+<entry>5335-5353</entry>
+<entry>CCTTAGACAAACTGGAAAG</entry></row><!-- EPO <DP n="58"> -->
+<row>
+<entry>178</entry>
+<entry>NM_000044.3</entry>
+<entry>5401-5419</entry>
+<entry>CAGAGATGATACCCTCCCA</entry></row>
+<row>
+<entry>179</entry>
+<entry>NM_000044.3</entry>
+<entry>5407-5425</entry>
+<entry>TGATACCCTCCCAGCAAGT</entry></row>
+<row>
+<entry>180</entry>
+<entry>NM_000044.3</entry>
+<entry>5459-5477</entry>
+<entry>AAAGGGGCTACCCAGATCA</entry></row>
+<row>
+<entry>181</entry>
+<entry>NM_000044.3</entry>
+<entry>5465-5483</entry>
+<entry>GCTACCCAGATCAGGGTTG</entry></row>
+<row>
+<entry>182</entry>
+<entry>NM_000044.3</entry>
+<entry>5493-5511</entry>
+<entry>CTCAATTACCAGGGTGGGA</entry></row>
+<row>
+<entry>183</entry>
+<entry>NM_000044.3</entry>
+<entry>5553-5571</entry>
+<entry>CTTGTCACCCAGCATATCC</entry></row>
+<row>
+<entry>184</entry>
+<entry>NM_000044.3</entry>
+<entry>5647-5665</entry>
+<entry>AGCCTAAAGCCAGATGGAC</entry></row>
+<row>
+<entry>185</entry>
+<entry>NM_000044.3</entry>
+<entry>5715-5733</entry>
+<entry>TCTGACATTGCCCATACTC</entry></row>
+<row>
+<entry>186</entry>
+<entry>NM_000044.3</entry>
+<entry>5771-5789</entry>
+<entry>GAGGGAGGCCAAACCATTG</entry></row>
+<row>
+<entry>187</entry>
+<entry>NM_000044.3</entry>
+<entry>5773-5791</entry>
+<entry>GGGAGGCCAAACCATTGAG</entry></row>
+<row>
+<entry>188</entry>
+<entry>NM_000044.3</entry>
+<entry>5775-5793</entry>
+<entry>GAGGCCAAACCATTGAGAC</entry></row>
+<row>
+<entry>189</entry>
+<entry>NM_000044.3</entry>
+<entry>5795-5813</entry>
+<entry>TTCTACAGAACCATGGCTT</entry></row>
+<row>
+<entry>190</entry>
+<entry>NM_000044.3</entry>
+<entry>5803-5821</entry>
+<entry>AACCATGGCTTCTTTCGGA</entry></row>
+<row>
+<entry>191</entry>
+<entry>NM_000044.3</entry>
+<entry>5811-5829</entry>
+<entry>CTTCTTTCGGAAAGGTCTG</entry></row>
+<row>
+<entry>192</entry>
+<entry>NM_000044.3</entry>
+<entry>5815-5833</entry>
+<entry>TTTCGGAAAGGTCTGGTTG</entry></row>
+<row>
+<entry>193</entry>
+<entry>NM_000044.3</entry>
+<entry>5841-5859</entry>
+<entry>TCCAATACTTTGCCACCCA</entry></row>
+<row>
+<entry>194</entry>
+<entry>NM_000044.3</entry>
+<entry>5859-5877</entry>
+<entry>ATGAACTCAGGGTGTGCCC</entry></row>
+<row>
+<entry>195</entry>
+<entry>NM_000044.3</entry>
+<entry>5867-5885</entry>
+<entry>AGGGTGTGCCCTGGGACAC</entry></row>
+<row>
+<entry>196</entry>
+<entry>NM_000044.3</entry>
+<entry>5883-5901</entry>
+<entry>CACTGGTTTTATATAGTCT</entry></row>
+<row>
+<entry>197</entry>
+<entry>NM_000044.3</entry>
+<entry>5895-5913</entry>
+<entry>ATAGTCTTTTGGCACACCT</entry></row>
+<row>
+<entry>198</entry>
+<entry>NM_000044.3</entry>
+<entry>5897-5915</entry>
+<entry>AGTCTTTTGGCACACCTGT</entry></row>
+<row>
+<entry>199</entry>
+<entry>NM_000044.3</entry>
+<entry>5915-5933</entry>
+<entry>TGTTCTGTTGACTTCGTTC</entry></row>
+<row>
+<entry>200</entry>
+<entry>NM_000044.3</entry>
+<entry>5963-5981</entry>
+<entry>ACCTACTTTCTCATCTTGG</entry></row><!-- EPO <DP n="59"> -->
+<row>
+<entry>201</entry>
+<entry>NM_000044.3</entry>
+<entry>5991-6009</entry>
+<entry>CCTTACTTAGCTCTTAATC</entry></row>
+<row>
+<entry>202</entry>
+<entry>NM_000044.3</entry>
+<entry>5999-6017</entry>
+<entry>AGCTCTTAATCTCATCTGT</entry></row>
+<row>
+<entry>203</entry>
+<entry>NM_000044.3</entry>
+<entry>6005-6023</entry>
+<entry>TAATCTCATCTGTTGAACT</entry></row>
+<row>
+<entry>204</entry>
+<entry>NM_000044.3</entry>
+<entry>6007-6025</entry>
+<entry>ATCTCATCTGTTGAACTCA</entry></row>
+<row>
+<entry>205</entry>
+<entry>NM_000044.3</entry>
+<entry>6045-6063</entry>
+<entry>TCAAGCTGCCCATTTTAAT</entry></row>
+<row>
+<entry>206</entry>
+<entry>NM_000044.3</entry>
+<entry>6077-6095</entry>
+<entry>TTGTTGAGAGGATAGTTTC</entry></row>
+<row>
+<entry>207</entry>
+<entry>NM_000044.3</entry>
+<entry>6099-6117</entry>
+<entry>GTGACATGATATGATCCAC</entry></row>
+<row>
+<entry>208</entry>
+<entry>NM_000044.3</entry>
+<entry>6145-6163</entry>
+<entry>TGATATTAATAGCCAAACG</entry></row>
+<row>
+<entry>209</entry>
+<entry>NM_000044.3</entry>
+<entry>6147-6165</entry>
+<entry>ATATTAATAGCCAAACGAA</entry></row>
+<row>
+<entry>210</entry>
+<entry>NM_000044.3</entry>
+<entry>6149-6167</entry>
+<entry>ATTAATAGCCAAACGAACT</entry></row>
+<row>
+<entry>211</entry>
+<entry>NM_000044.3</entry>
+<entry>6151-6169</entry>
+<entry>TAATAGCCAAACGAACTTC</entry></row>
+<row>
+<entry>212</entry>
+<entry>NM_000044.3</entry>
+<entry>6153-6171</entry>
+<entry>ATAGCCAAACGAACTTCAA</entry></row>
+<row>
+<entry>213</entry>
+<entry>NM_000044.3</entry>
+<entry>6155-6173</entry>
+<entry>AGCCAAACGAACTTCAAAA</entry></row>
+<row>
+<entry>214</entry>
+<entry>NM_000044.3</entry>
+<entry>6157-6175</entry>
+<entry>CCAAACGAACTTCAAAACA</entry></row>
+<row>
+<entry>215</entry>
+<entry>NM_000044.3</entry>
+<entry>6159-6177</entry>
+<entry>AAACGAACTTCAAAACAGC</entry></row>
+<row>
+<entry>216</entry>
+<entry>NM_000044.3</entry>
+<entry>6193-6211</entry>
+<entry>AGAGGGGAACCTAAGATGA</entry></row>
+<row>
+<entry>217</entry>
+<entry>NM_000044.3</entry>
+<entry>6195-6213</entry>
+<entry>AGGGGAACCTAAGATGAGT</entry></row>
+<row>
+<entry>218</entry>
+<entry>NM_000044.3</entry>
+<entry>6197-6215</entry>
+<entry>GGGAACCTAAGATGAGTAA</entry></row>
+<row>
+<entry>219</entry>
+<entry>NM_000044.3</entry>
+<entry>6199-6217</entry>
+<entry>GAACCTAAGATGAGTAATA</entry></row>
+<row>
+<entry>220</entry>
+<entry>NM_000044.3</entry>
+<entry>6211-6229</entry>
+<entry>AGTAATATGCCAATCCAAG</entry></row>
+<row>
+<entry>221</entry>
+<entry>NM_000044.3</entry>
+<entry>6213-6231</entry>
+<entry>TAATATGCCAATCCAAGAC</entry></row>
+<row>
+<entry>222</entry>
+<entry>NM_000044.3</entry>
+<entry>6215-6233</entry>
+<entry>ATATGCCAATCCAAGACTG</entry></row>
+<row>
+<entry>223</entry>
+<entry>NM_000044.3</entry>
+<entry>6243-6261</entry>
+<entry>ACTAAAGCTGACAGGTTCC</entry></row><!-- EPO <DP n="60"> -->
+<row>
+<entry>224</entry>
+<entry>NM_000044.3</entry>
+<entry>6265-6283</entry>
+<entry>TTTGGGGTGGGATAGACAT</entry></row>
+<row>
+<entry>225</entry>
+<entry>NM_000044.3</entry>
+<entry>6299-6317</entry>
+<entry>ATTATTACACAATCTGGCT</entry></row>
+<row>
+<entry>226</entry>
+<entry>NM_000044.3</entry>
+<entry>6301-6319</entry>
+<entry>TATTACACAATCTGGCTCA</entry></row>
+<row>
+<entry>227</entry>
+<entry>NM_000044.3</entry>
+<entry>6317-6335</entry>
+<entry>TCATGTACAGGATCACTTT</entry></row>
+<row>
+<entry>228</entry>
+<entry>NM_000044.3</entry>
+<entry>6377-6395</entry>
+<entry>GTTACACTAGGTTACATTT</entry></row>
+<row>
+<entry>229</entry>
+<entry>NM_000044.3</entry>
+<entry>6395-6413</entry>
+<entry>TTAATAGGTCCTTTACATC</entry></row>
+<row>
+<entry>230</entry>
+<entry>NM_000044.3</entry>
+<entry>6439-6457</entry>
+<entry>GTGATACACAGATTGAATT</entry></row>
+<row>
+<entry>231</entry>
+<entry>NM_000044.3</entry>
+<entry>6469-6487</entry>
+<entry>ATATCTCTCCTTGTAAATA</entry></row>
+<row>
+<entry>232</entry>
+<entry>NM_000044.3</entry>
+<entry>6485-6503</entry>
+<entry>ATACTAGAAGCTCTCCTTT</entry></row>
+<row>
+<entry>233</entry>
+<entry>NM_000044.3</entry>
+<entry>6487-6505</entry>
+<entry>ACTAGAAGCTCTCCTTTAC</entry></row>
+<row>
+<entry>234</entry>
+<entry>NM_000044.3</entry>
+<entry>6533-6551</entry>
+<entry>TGGGTTTCCCAATTGTGAC</entry></row>
+<row>
+<entry>235</entry>
+<entry>NM_000044.3</entry>
+<entry>6607-6625</entry>
+<entry>AGCAGTGTAATTAAAAGCA</entry></row>
+<row>
+<entry>236</entry>
+<entry>NM_000044.3</entry>
+<entry>6623-6641</entry>
+<entry>GCAACAACTGGATTACTCC</entry></row>
+<row>
+<entry>237</entry>
+<entry>NM_000044.3</entry>
+<entry>6625-6643</entry>
+<entry>AACAACTGGATTACTCCAA</entry></row>
+<row>
+<entry>238</entry>
+<entry>NM_000044.3</entry>
+<entry>6661-6679</entry>
+<entry>CTAGGGAAAAATAGCCTAC</entry></row>
+<row>
+<entry>239</entry>
+<entry>NM_000044.3</entry>
+<entry>6663-6681</entry>
+<entry>AGGGAAAAATAGCCTACAC</entry></row>
+<row>
+<entry>240</entry>
+<entry>NM_000044.3</entry>
+<entry>6673-6691</entry>
+<entry>AGCCTACACAAGCCTTTAG</entry></row>
+<row>
+<entry>241</entry>
+<entry>NM_000044.3</entry>
+<entry>6675-6693</entry>
+<entry>CCTACACAAGCCTTTAGGC</entry></row>
+<row>
+<entry>242</entry>
+<entry>NM_000044.3</entry>
+<entry>6677-6695</entry>
+<entry>TACACAAGCCTTTAGGCCT</entry></row>
+<row>
+<entry>243</entry>
+<entry>NM_000044.3</entry>
+<entry>6679-6697</entry>
+<entry>CACAAGCCTTTAGGCCTAC</entry></row>
+<row>
+<entry>244</entry>
+<entry>NM_000044.3</entry>
+<entry>6681-6699</entry>
+<entry>CAAGCCTTTAGGCCTACTC</entry></row>
+<row>
+<entry>245</entry>
+<entry>NM_000044.3</entry>
+<entry>6711-6729</entry>
+<entry>GGGTTTGAGTGAACAAAGG</entry></row>
+<row>
+<entry>246</entry>
+<entry>NM_000044.3</entry>
+<entry>6787-6805</entry>
+<entry>TTTGGCCATTGATGTTCTA</entry></row><!-- EPO <DP n="61"> -->
+<row>
+<entry>247</entry>
+<entry>NM_000044.3</entry>
+<entry>6789-6807</entry>
+<entry>TGGCCATTGATGTTCTAGC</entry></row>
+<row>
+<entry>248</entry>
+<entry>NM_000044.3</entry>
+<entry>6833-6851</entry>
+<entry>TTGCATGCGCTCTGCTCTA</entry></row>
+<row>
+<entry>249</entry>
+<entry>NM_000044.3</entry>
+<entry>6835-6853</entry>
+<entry>GCATGCGCTCTGCTCTACA</entry></row>
+<row>
+<entry>250</entry>
+<entry>NM_000044.3</entry>
+<entry>6837-6855</entry>
+<entry>ATGCGCTCTGCTCTACAAA</entry></row>
+<row>
+<entry>251</entry>
+<entry>NM_000044.3</entry>
+<entry>6845-6863</entry>
+<entry>TGCTCTACAAACAGAGTTG</entry></row>
+<row>
+<entry>252</entry>
+<entry>NM_000044.3</entry>
+<entry>6847-6865</entry>
+<entry>CTCTACAAACAGAGTTGGT</entry></row>
+<row>
+<entry>253</entry>
+<entry>NM_000044.3</entry>
+<entry>6865-6883</entry>
+<entry>TATGGTTGGTATACTGTAC</entry></row>
+<row>
+<entry>254</entry>
+<entry>NM_000044.3</entry>
+<entry>6901-6919</entry>
+<entry>GCCACTCAGACCCACTTAG</entry></row>
+<row>
+<entry>255</entry>
+<entry>NM_000044.3</entry>
+<entry>6903-6921</entry>
+<entry>CACTCAGACCCACTTAGCT</entry></row>
+<row>
+<entry>256</entry>
+<entry>NM_000044.3</entry>
+<entry>6913-6931</entry>
+<entry>CACTTAGCTGGTGAGCTAG</entry></row>
+<row>
+<entry>257</entry>
+<entry>NM_000044.3</entry>
+<entry>6915-6933</entry>
+<entry>CTTAGCTGGTGAGCTAGAA</entry></row>
+<row>
+<entry>258</entry>
+<entry>NM_000044.3</entry>
+<entry>6979-6997</entry>
+<entry>AAGTTGGCAGTGCTCGATG</entry></row>
+<row>
+<entry>259</entry>
+<entry>NM_000044.3</entry>
+<entry>6981-6999</entry>
+<entry>GTTGGCAGTGCTCGATGTG</entry></row>
+<row>
+<entry>260</entry>
+<entry>NM_000044.3</entry>
+<entry>6989-7007</entry>
+<entry>TGCTCGATGTGGACGAAGA</entry></row>
+<row>
+<entry>261</entry>
+<entry>NM_000044.3</entry>
+<entry>6991-7009</entry>
+<entry>CTCGATGTGGACGAAGAGT</entry></row>
+<row>
+<entry>262</entry>
+<entry>NM_000044.3</entry>
+<entry>6999-7017</entry>
+<entry>GGACGAAGAGTGAGGAAGA</entry></row>
+<row>
+<entry>263</entry>
+<entry>NM_000044.3</entry>
+<entry>7095-7113</entry>
+<entry>TCAAAGAAAAGAGTCGTGT</entry></row>
+<row>
+<entry>264</entry>
+<entry>NM_000044.3</entry>
+<entry>7115-7133</entry>
+<entry>GCAGTTTCAGCTCTCGTTC</entry></row>
+<row>
+<entry>265</entry>
+<entry>NM_000044.3</entry>
+<entry>7119-7137</entry>
+<entry>TTTCAGCTCTCGTTCATTG</entry></row>
+<row>
+<entry>266</entry>
+<entry>NM_000044.3</entry>
+<entry>7123-7141</entry>
+<entry>AGCTCTCGTTCATTGGGCA</entry></row>
+<row>
+<entry>267</entry>
+<entry>NM_000044.3</entry>
+<entry>7125-7143</entry>
+<entry>CTCTCGTTCATTGGGCAGC</entry></row>
+<row>
+<entry>268</entry>
+<entry>NM_000044.3</entry>
+<entry>7127-7145</entry>
+<entry>CTCGTTCATTGGGCAGCTC</entry></row>
+<row>
+<entry>269</entry>
+<entry>NM_000044.3</entry>
+<entry>7129-7147</entry>
+<entry>CGTTCATTGGGCAGCTCGC</entry></row><!-- EPO <DP n="62"> -->
+<row>
+<entry>270</entry>
+<entry>NM_000044.3</entry>
+<entry>7169-7187</entry>
+<entry>ACATGGGAGTTGTTGGATT</entry></row>
+<row>
+<entry>271</entry>
+<entry>NM_000044.3</entry>
+<entry>7203-7221</entry>
+<entry>TTTTCTATGCCATAGGCAA</entry></row>
+<row>
+<entry>272</entry>
+<entry>NM_000044.3</entry>
+<entry>7205-7223</entry>
+<entry>TTCTATGCCATAGGCAATA</entry></row>
+<row>
+<entry>273</entry>
+<entry>NM_000044.3</entry>
+<entry>7263-7281</entry>
+<entry>TACTCTGAGAAAGGGATAT</entry></row>
+<row>
+<entry>274</entry>
+<entry>NM_000044.3</entry>
+<entry>7283-7301</entry>
+<entry>TTGAAGGACTGTCATATAT</entry></row>
+<row>
+<entry>275</entry>
+<entry>NM_000044.3</entry>
+<entry>7335-7353</entry>
+<entry>TTTATGTATGTTCACTGGC</entry></row>
+<row>
+<entry>276</entry>
+<entry>NM_000044.3</entry>
+<entry>7337-7355</entry>
+<entry>TATGTATGTTCACTGGCAC</entry></row>
+<row>
+<entry>277</entry>
+<entry>NM_000044.3</entry>
+<entry>7351-7369</entry>
+<entry>GGCACTAAAAAATATAGAG</entry></row>
+<row>
+<entry>278</entry>
+<entry>NM_000044.3</entry>
+<entry>7357-7375</entry>
+<entry>AAAAAATATAGAGAGCTTC</entry></row>
+<row>
+<entry>279</entry>
+<entry>NM_000044.3</entry>
+<entry>7413-7431</entry>
+<entry>GGTTGAAAAATAATGTGCT</entry></row>
+<row>
+<entry>280</entry>
+<entry>NM_000044.3</entry>
+<entry>7431-7449</entry>
+<entry>TGATGCTAGAGTCCCTCTC</entry></row>
+<row>
+<entry>281</entry>
+<entry>NM_000044.3</entry>
+<entry>7433-7451</entry>
+<entry>ATGCTAGAGTCCCTCTCTG</entry></row>
+<row>
+<entry>282</entry>
+<entry>NM_000044.3</entry>
+<entry>7441-7459</entry>
+<entry>GTCCCTCTCTGTCCATACT</entry></row>
+<row>
+<entry>283</entry>
+<entry>NM_000044.3</entry>
+<entry>7487-7505</entry>
+<entry>TAGCAAGTTTTATTTGACT</entry></row>
+<row>
+<entry>284</entry>
+<entry>NM_000044.3</entry>
+<entry>7553-7571</entry>
+<entry>AGCTAACATTGAGCTTCAA</entry></row>
+<row>
+<entry>285</entry>
+<entry>NM_000044.3</entry>
+<entry>7585-7603</entry>
+<entry>GTTTGTTTCATTAGGCACA</entry></row>
+<row>
+<entry>286</entry>
+<entry>NM_000044.3</entry>
+<entry>7587-7605</entry>
+<entry>TTGTTTCATTAGGCACAGC</entry></row>
+<row>
+<entry>287</entry>
+<entry>NM_000044.3</entry>
+<entry>7593-7611</entry>
+<entry>CATTAGGCACAGCACAGAT</entry></row>
+<row>
+<entry>288</entry>
+<entry>NM_000044.3</entry>
+<entry>7647-7665</entry>
+<entry>CAGGGCATAAAGGCCCAGG</entry></row>
+<row>
+<entry>289</entry>
+<entry>NM_000044.3</entry>
+<entry>7695-7713</entry>
+<entry>ACCAAAGCTGCATTTCAGG</entry></row>
+<row>
+<entry>290</entry>
+<entry>NM_000044.3</entry>
+<entry>7709-7727</entry>
+<entry>TCAGGAGACTCTCTCCAGA</entry></row>
+<row>
+<entry>291</entry>
+<entry>NM_000044.3</entry>
+<entry>7721-7739</entry>
+<entry>CTCCAGACAGCCCAGTAAC</entry></row><!-- EPO <DP n="63"> -->
+<row>
+<entry>292</entry>
+<entry>NM_000044.3</entry>
+<entry>7727-7745</entry>
+<entry>ACAGCCCAGTAACTACCCG</entry></row>
+<row>
+<entry>293</entry>
+<entry>NM_000044.3</entry>
+<entry>7729-7747</entry>
+<entry>AGCCCAGTAACTACCCGAG</entry></row>
+<row>
+<entry>294</entry>
+<entry>NM_000044.3</entry>
+<entry>7731-7749</entry>
+<entry>CCCAGTAACTACCCGAGCA</entry></row>
+<row>
+<entry>295</entry>
+<entry>NM_000044.3</entry>
+<entry>7733-7751</entry>
+<entry>CAGTAACTACCCGAGCATG</entry></row>
+<row>
+<entry>296</entry>
+<entry>NM_000044.3</entry>
+<entry>7735-7753</entry>
+<entry>GTAACTACCCGAGCATGGC</entry></row>
+<row>
+<entry>297</entry>
+<entry>NM_000044.3</entry>
+<entry>7777-7795</entry>
+<entry>AGAGGCTGACTGTCTACGA</entry></row>
+<row>
+<entry>298</entry>
+<entry>NM_000044.3</entry>
+<entry>7779-7797</entry>
+<entry>AGGCTGACTGTCTACGAAT</entry></row>
+<row>
+<entry>299</entry>
+<entry>NM_000044.3</entry>
+<entry>7781-7799</entry>
+<entry>GCTGACTGTCTACGAATTA</entry></row>
+<row>
+<entry>300</entry>
+<entry>NM_000044.3</entry>
+<entry>7783-7801</entry>
+<entry>TGACTGTCTACGAATTATC</entry></row>
+<row>
+<entry>301</entry>
+<entry>NM_000044.3</entry>
+<entry>7785-7803</entry>
+<entry>ACTGTCTACGAATTATCTT</entry></row>
+<row>
+<entry>302</entry>
+<entry>NM_000044.3</entry>
+<entry>7791-7809</entry>
+<entry>TACGAATTATCTTGTGCCA</entry></row>
+<row>
+<entry>303</entry>
+<entry>NM_000044.3</entry>
+<entry>7793-7811</entry>
+<entry>CGAATTATCTTGTGCCAGT</entry></row>
+<row>
+<entry>304</entry>
+<entry>NM_000044.3</entry>
+<entry>7845-7863</entry>
+<entry>GGTTTTCATGTTTGACCCA</entry></row>
+<row>
+<entry>305</entry>
+<entry>NM_000044.3</entry>
+<entry>7847-7865</entry>
+<entry>TTTTCATGTTTGACCCACT</entry></row>
+<row>
+<entry>306</entry>
+<entry>NM_000044.3</entry>
+<entry>7969-7987</entry>
+<entry>TTCTACCCCTGATGCCTTT</entry></row>
+<row>
+<entry>307</entry>
+<entry>NM_000044.3</entry>
+<entry>7987-8005</entry>
+<entry>TGTAGGCAGATCTGTTCTC</entry></row>
+<row>
+<entry>308</entry>
+<entry>NM_000044.3</entry>
+<entry>7989-8007</entry>
+<entry>TAGGCAGATCTGTTCTCAC</entry></row>
+<row>
+<entry>309</entry>
+<entry>NM_000044.3</entry>
+<entry>8081-8099</entry>
+<entry>GATTACATTGTACCTGCTA</entry></row>
+<row>
+<entry>310</entry>
+<entry>NM_000044.3</entry>
+<entry>8083-8101</entry>
+<entry>TTACATTGTACCTGCTAAG</entry></row>
+<row>
+<entry>311</entry>
+<entry>NM_000044.3</entry>
+<entry>8087-8105</entry>
+<entry>ATTGTACCTGCTAAGATAC</entry></row>
+<row>
+<entry>312</entry>
+<entry>NM_000044.3</entry>
+<entry>8109-8127</entry>
+<entry>AATTCATAAGGGCAGGGGG</entry></row>
+<row>
+<entry>313</entry>
+<entry>NM_000044.3</entry>
+<entry>8123-8141</entry>
+<entry>GGGGGGGAGCAAGCATTAG</entry></row>
+<row>
+<entry>314</entry>
+<entry>NM_000044.3</entry>
+<entry>8125-8143</entry>
+<entry>GGGGGAGCAAGCATTAGTG</entry></row><!-- EPO <DP n="64"> -->
+<row>
+<entry>315</entry>
+<entry>NM_000044.3</entry>
+<entry>8127-8145</entry>
+<entry>GGGAGCAAGCATTAGTGCC</entry></row>
+<row>
+<entry>316</entry>
+<entry>NM_000044.3</entry>
+<entry>8145-8163</entry>
+<entry>CTCTTTGATAAGCTGTCCA</entry></row>
+<row>
+<entry>317</entry>
+<entry>NM_000044.3</entry>
+<entry>8149-8167</entry>
+<entry>TTGATAAGCTGTCCAAAGA</entry></row>
+<row>
+<entry>318</entry>
+<entry>NM_000044.3</entry>
+<entry>8167-8185</entry>
+<entry>ACAGACTAAAGGACTCTGC</entry></row>
+<row>
+<entry>319</entry>
+<entry>NM_000044.3</entry>
+<entry>8185-8203</entry>
+<entry>CTGGTGACTGACTTATAAG</entry></row>
+<row>
+<entry>320</entry>
+<entry>NM_000044.3</entry>
+<entry>8187-8205</entry>
+<entry>GGTGACTGACTTATAAGAG</entry></row>
+<row>
+<entry>321</entry>
+<entry>NM_000044.3</entry>
+<entry>8191-8209</entry>
+<entry>ACTGACTTATAAGAGCTTT</entry></row>
+<row>
+<entry>322</entry>
+<entry>NM_000044.3</entry>
+<entry>8279-8297</entry>
+<entry>ATGGGTCCTTCACTAAGTG</entry></row>
+<row>
+<entry>323</entry>
+<entry>NM_000044.3</entry>
+<entry>8301-8319</entry>
+<entry>TTATAAGCAGAACTGGCTT</entry></row>
+<row>
+<entry>324</entry>
+<entry>NM_000044.3</entry>
+<entry>8323-8341</entry>
+<entry>TTTTCTCTAGTAGTTGCTG</entry></row>
+<row>
+<entry>325</entry>
+<entry>NM_000044.3</entry>
+<entry>8327-8345</entry>
+<entry>CTCTAGTAGTTGCTGAGCA</entry></row>
+<row>
+<entry>326</entry>
+<entry>NM_000044.3</entry>
+<entry>8343-8361</entry>
+<entry>GCAAATTGTTGAAGCTCCA</entry></row>
+<row>
+<entry>327</entry>
+<entry>NM_000044.3</entry>
+<entry>8349-8367</entry>
+<entry>TGTTGAAGCTCCATCATTG</entry></row>
+<row>
+<entry>328</entry>
+<entry>NM_000044.3</entry>
+<entry>8351-8369</entry>
+<entry>TTGAAGCTCCATCATTGCA</entry></row>
+<row>
+<entry>329</entry>
+<entry>NM_000044.3</entry>
+<entry>8353-8371</entry>
+<entry>GAAGCTCCATCATTGCATG</entry></row>
+<row>
+<entry>330</entry>
+<entry>NM_000044.3</entry>
+<entry>8355-8373</entry>
+<entry>AGCTCCATCATTGCATGGT</entry></row>
+<row>
+<entry>331</entry>
+<entry>NM_000044.3</entry>
+<entry>8357-8375</entry>
+<entry>CTCCATCATTGCATGGTTG</entry></row>
+<row>
+<entry>332</entry>
+<entry>NM_000044.3</entry>
+<entry>8359-8377</entry>
+<entry>CCATCATTGCATGGTTGGA</entry></row>
+<row>
+<entry>333</entry>
+<entry>NM_000044.3</entry>
+<entry>8361-8379</entry>
+<entry>ATCATTGCATGGTTGGAAA</entry></row>
+<row>
+<entry>334</entry>
+<entry>NM_000044.3</entry>
+<entry>8393-8411</entry>
+<entry>AGCCACTGTGTTTGCTAGT</entry></row>
+<row>
+<entry>335</entry>
+<entry>NM_000044.3</entry>
+<entry>8405-8423</entry>
+<entry>TGCTAGTGCCCATGTTAGC</entry></row>
+<row>
+<entry>336</entry>
+<entry>NM_000044.3</entry>
+<entry>8407-8425</entry>
+<entry>CTAGTGCCCATGTTAGCTT</entry></row>
+<row>
+<entry>337</entry>
+<entry>NM_000044.3</entry>
+<entry>8447-8465</entry>
+<entry>GCTGATAAGGGAGCATTTA</entry></row><!-- EPO <DP n="65"> -->
+<row>
+<entry>338</entry>
+<entry>NM_000044.3</entry>
+<entry>8449-8467</entry>
+<entry>TGATAAGGGAGCATTTAAA</entry></row>
+<row>
+<entry>339</entry>
+<entry>NM_000044.3</entry>
+<entry>8455-8473</entry>
+<entry>GGGAGCATTTAAAGTACTA</entry></row>
+<row>
+<entry>340</entry>
+<entry>NM_000044.3</entry>
+<entry>8529-8547</entry>
+<entry>GGCACAAAAAGTTATCTGC</entry></row>
+<row>
+<entry>341</entry>
+<entry>NM_000044.3</entry>
+<entry>8539-8557</entry>
+<entry>GTTATCTGCAGTTGAAGGC</entry></row>
+<row>
+<entry>342</entry>
+<entry>NM_000044.3</entry>
+<entry>8659-8677</entry>
+<entry>GTGTGTGTTCTGATAGCTT</entry></row>
+<row>
+<entry>343</entry>
+<entry>NM_000044.3</entry>
+<entry>8735-8753</entry>
+<entry>TGAGAGAGGATGCAGTTTT</entry></row>
+<row>
+<entry>344</entry>
+<entry>NM_000044.3</entry>
+<entry>8783-8801</entry>
+<entry>ACACCTGGATTGATCAGTT</entry></row>
+<row>
+<entry>345</entry>
+<entry>NM_000044.3</entry>
+<entry>8785-8803</entry>
+<entry>ACCTGGATTGATCAGTTAA</entry></row>
+<row>
+<entry>346</entry>
+<entry>NM_000044.3</entry>
+<entry>8787-8805</entry>
+<entry>CTGGATTGATCAGTTAACT</entry></row>
+<row>
+<entry>347</entry>
+<entry>NM_000044.3</entry>
+<entry>8789-8807</entry>
+<entry>GGATTGATCAGTTAACTAA</entry></row>
+<row>
+<entry>348</entry>
+<entry>NM_000044.3</entry>
+<entry>8793-8811</entry>
+<entry>TGATCAGTTAACTAAAAGT</entry></row>
+<row>
+<entry>349</entry>
+<entry>NM_000044.3</entry>
+<entry>8795-8813</entry>
+<entry>ATCAGTTAACTAAAAGTTT</entry></row>
+<row>
+<entry>350</entry>
+<entry>NM_000044.3</entry>
+<entry>8797-8815</entry>
+<entry>CAGTTAACTAAAAGTTTTC</entry></row>
+<row>
+<entry>351</entry>
+<entry>NM_000044.3</entry>
+<entry>8817-8835</entry>
+<entry>CCCCTATTGGGTTTGACCC</entry></row>
+<row>
+<entry>352</entry>
+<entry>NM_000044.3</entry>
+<entry>8819-8837</entry>
+<entry>CCTATTGGGTTTGACCCAC</entry></row>
+<row>
+<entry>353</entry>
+<entry>NM_000044.3</entry>
+<entry>8825-8843</entry>
+<entry>GGGTTTGACCCACAGGTCC</entry></row>
+<row>
+<entry>354</entry>
+<entry>NM_000044.3</entry>
+<entry>8857-8875</entry>
+<entry>AGGGATAAAAAGAGTAGAG</entry></row>
+<row>
+<entry>355</entry>
+<entry>NM_000044.3</entry>
+<entry>8871-8889</entry>
+<entry>TAGAGGACATGATACATTG</entry></row>
+<row>
+<entry>356</entry>
+<entry>NM_000044.3</entry>
+<entry>8873-8891</entry>
+<entry>GAGGACATGATACATTGTA</entry></row>
+<row>
+<entry>357</entry>
+<entry>NM_000044.3</entry>
+<entry>8881-8899</entry>
+<entry>GATACATTGTACTTTACTA</entry></row>
+<row>
+<entry>358</entry>
+<entry>NM_000044.3</entry>
+<entry>8893-8911</entry>
+<entry>TTTACTAGTTCAAGACAGA</entry></row>
+<row>
+<entry>359</entry>
+<entry>NM_000044.3</entry>
+<entry>8897-8915</entry>
+<entry>CTAGTTCAAGACAGATGAA</entry></row>
+<row>
+<entry>360</entry>
+<entry>NM_000044.3</entry>
+<entry>8989-9007</entry>
+<entry>CCTACCCAAGTGATTGACC</entry></row><!-- EPO <DP n="66"> -->
+<row>
+<entry>361</entry>
+<entry>NM_000044.3</entry>
+<entry>9001-9019</entry>
+<entry>ATTGACCAGTGGCCCCCTA</entry></row>
+<row>
+<entry>362</entry>
+<entry>NM_000044.3</entry>
+<entry>9003-9021</entry>
+<entry>TGACCAGTGGCCCCCTAAT</entry></row>
+<row>
+<entry>363</entry>
+<entry>NM_000044.3</entry>
+<entry>9009-9027</entry>
+<entry>GTGGCCCCCTAATGGGACC</entry></row>
+<row>
+<entry>364</entry>
+<entry>NM_000044.3</entry>
+<entry>9015-9033</entry>
+<entry>CCCTAATGGGACCTGAGCT</entry></row>
+<row>
+<entry>365</entry>
+<entry>NM_000044.3</entry>
+<entry>9017-9035</entry>
+<entry>CTAATGGGACCTGAGCTGT</entry></row>
+<row>
+<entry>366</entry>
+<entry>NM_000044.3</entry>
+<entry>9083-9101</entry>
+<entry>GGGCAGTTTCCTGCATTGG</entry></row>
+<row>
+<entry>367</entry>
+<entry>NM_000044.3</entry>
+<entry>9095-9113</entry>
+<entry>GCATTGGAACCTGGAGCAA</entry></row>
+<row>
+<entry>368</entry>
+<entry>NM_000044.3</entry>
+<entry>9101-9119</entry>
+<entry>GAACCTGGAGCAAGCGCTC</entry></row>
+<row>
+<entry>369</entry>
+<entry>NM_000044.3</entry>
+<entry>9107-9125</entry>
+<entry>GGAGCAAGCGCTCTATCTT</entry></row>
+<row>
+<entry>370</entry>
+<entry>NM_000044.3</entry>
+<entry>9109-9127</entry>
+<entry>AGCAAGCGCTCTATCTTTC</entry></row>
+<row>
+<entry>371</entry>
+<entry>NM_000044.3</entry>
+<entry>9111-9129</entry>
+<entry>CAAGCGCTCTATCTTTCAC</entry></row>
+<row>
+<entry>372</entry>
+<entry>NM_000044.3</entry>
+<entry>9113-9131</entry>
+<entry>AGCGCTCTATCTTTCACAC</entry></row>
+<row>
+<entry>373</entry>
+<entry>NM_000044.3</entry>
+<entry>9125-9143</entry>
+<entry>TTCACACAAATTCCCTCAC</entry></row>
+<row>
+<entry>374</entry>
+<entry>NM_000044.3</entry>
+<entry>9127-9145</entry>
+<entry>CACACAAATTCCCTCACCT</entry></row>
+<row>
+<entry>375</entry>
+<entry>NM_000044.3</entry>
+<entry>9151-9169</entry>
+<entry>TGAGGTGCTCTTGTTACTG</entry></row>
+<row>
+<entry>376</entry>
+<entry>NM_000044.3</entry>
+<entry>9153-9171</entry>
+<entry>AGGTGCTCTTGTTACTGGG</entry></row>
+<row>
+<entry>377</entry>
+<entry>NM_000044.3</entry>
+<entry>9155-9173</entry>
+<entry>GTGCTCTTGTTACTGGGTG</entry></row>
+<row>
+<entry>378</entry>
+<entry>NM_000044.3</entry>
+<entry>9157-9175</entry>
+<entry>GCTCTTGTTACTGGGTGTC</entry></row>
+<row>
+<entry>379</entry>
+<entry>NM_000044.3</entry>
+<entry>9161-9179</entry>
+<entry>TTGTTACTGGGTGTCTGTG</entry></row>
+<row>
+<entry>380</entry>
+<entry>NM_000044.3</entry>
+<entry>9175-9193</entry>
+<entry>CTGTGTGCTGTAATTCTGG</entry></row>
+<row>
+<entry>381</entry>
+<entry>NM_000044.3</entry>
+<entry>9177-9195</entry>
+<entry>GTGTGCTGTAATTCTGGTT</entry></row>
+<row>
+<entry>382</entry>
+<entry>NM_000044.3</entry>
+<entry>9239-9257</entry>
+<entry>TTCTCTGTTAAAACTTGTC</entry></row>
+<row>
+<entry>383</entry>
+<entry>NM_000044.3</entry>
+<entry>9249-9267</entry>
+<entry>AAACTTGTCAGAGTACTAG</entry></row><!-- EPO <DP n="67"> -->
+<row>
+<entry>384</entry>
+<entry>NM_000044.3</entry>
+<entry>9251-9269</entry>
+<entry>ACTTGTCAGAGTACTAGAA</entry></row>
+<row>
+<entry>385</entry>
+<entry>NM_000044.3</entry>
+<entry>9253-9271</entry>
+<entry>TTGTCAGAGTACTAGAAGT</entry></row>
+<row>
+<entry>386</entry>
+<entry>NM_000044.3</entry>
+<entry>9261-9279</entry>
+<entry>GTACTAGAAGTTGTATCTC</entry></row>
+<row>
+<entry>387</entry>
+<entry>NM_000044.3</entry>
+<entry>9271-9289</entry>
+<entry>TTGTATCTCTGTAGGTGCA</entry></row>
+<row>
+<entry>388</entry>
+<entry>NM_000044.3</entry>
+<entry>9325-9343</entry>
+<entry>TGATTAAGAGATTGACACT</entry></row>
+<row>
+<entry>389</entry>
+<entry>NM_000044.3</entry>
+<entry>9327-9345</entry>
+<entry>ATTAAGAGATTGACACTTC</entry></row>
+<row>
+<entry>390</entry>
+<entry>NM_000044.3</entry>
+<entry>9329-9347</entry>
+<entry>TAAGAGATTGACACTTCTG</entry></row>
+<row>
+<entry>391</entry>
+<entry>NM_000044.3</entry>
+<entry>9339-9357</entry>
+<entry>ACACTTCTGTTGCCTAGGA</entry></row>
+<row>
+<entry>392</entry>
+<entry>NM_000044.3</entry>
+<entry>9341-9359</entry>
+<entry>ACTTCTGTTGCCTAGGACC</entry></row>
+<row>
+<entry>393</entry>
+<entry>NM_000044.3</entry>
+<entry>9343-9361</entry>
+<entry>TTCTGTTGCCTAGGACCTC</entry></row>
+<row>
+<entry>394</entry>
+<entry>NM_000044.3</entry>
+<entry>9345-9363</entry>
+<entry>CTGTTGCCTAGGACCTCCC</entry></row>
+<row>
+<entry>395</entry>
+<entry>NM_000044.3</entry>
+<entry>9379-9397</entry>
+<entry>AGGTGAAGGCAGAAAAATC</entry></row>
+<row>
+<entry>396</entry>
+<entry>NM_000044.3</entry>
+<entry>9401-9419</entry>
+<entry>ATTAGTTACTCCTCTTCAG</entry></row>
+<row>
+<entry>397</entry>
+<entry>NM_000044.3</entry>
+<entry>9403-9421</entry>
+<entry>TAGTTACTCCTCTTCAGAC</entry></row>
+<row>
+<entry>398</entry>
+<entry>NM_000044.3</entry>
+<entry>9551-9569</entry>
+<entry>ATTTGGCCAGAAAGTAGGT</entry></row>
+<row>
+<entry>399</entry>
+<entry>NM_000044.3</entry>
+<entry>9563-9581</entry>
+<entry>AGTAGGTAATATGCATTGA</entry></row>
+<row>
+<entry>400</entry>
+<entry>NM_000044.3</entry>
+<entry>9565-9583</entry>
+<entry>TAGGTAATATGCATTGATT</entry></row>
+<row>
+<entry>401</entry>
+<entry>NM_000044.3</entry>
+<entry>9567-9585</entry>
+<entry>GGTAATATGCATTGATTGG</entry></row>
+<row>
+<entry>402</entry>
+<entry>NM_000044.3</entry>
+<entry>9571-9589</entry>
+<entry>ATATGCATTGATTGGCTTC</entry></row>
+<row>
+<entry>403</entry>
+<entry>NM_000044.3</entry>
+<entry>9573-9591</entry>
+<entry>ATGCATTGATTGGCTTCTG</entry></row>
+<row>
+<entry>404</entry>
+<entry>NM_000044.3</entry>
+<entry>9599-9617</entry>
+<entry>TTCAGTATAGCAAGGTGCT</entry></row>
+<row>
+<entry>405</entry>
+<entry>NM_000044.3</entry>
+<entry>9601-9619</entry>
+<entry>CAGTATAGCAAGGTGCTAG</entry></row>
+<row>
+<entry>406</entry>
+<entry>NM_000044.3</entry>
+<entry>9603-9621</entry>
+<entry>GTATAGCAAGGTGCTAGGT</entry></row><!-- EPO <DP n="68"> -->
+<row>
+<entry>407</entry>
+<entry>NM_000044.3</entry>
+<entry>9609-9627</entry>
+<entry>CAAGGTGCTAGGTTTTTTC</entry></row>
+<row>
+<entry>408</entry>
+<entry>NM_000044.3</entry>
+<entry>9671-9689</entry>
+<entry>CTTAGAATGGGTGGCCCTT</entry></row>
+<row>
+<entry>409</entry>
+<entry>NM_000044.3</entry>
+<entry>9705-9723</entry>
+<entry>TCCCACATAAGCTACTTAA</entry></row>
+<row>
+<entry>410</entry>
+<entry>NM_000044.3</entry>
+<entry>9707-9725</entry>
+<entry>CCACATAAGCTACTTAACA</entry></row>
+<row>
+<entry>411</entry>
+<entry>NM_000044.3</entry>
+<entry>9719-9737</entry>
+<entry>CTTAACAAGATTGTCATGG</entry></row>
+<row>
+<entry>412</entry>
+<entry>NM_000044.3</entry>
+<entry>9737-9755</entry>
+<entry>GAGCTGCAGATTCCATTGC</entry></row>
+<row>
+<entry>413</entry>
+<entry>NM_000044.3</entry>
+<entry>9751-9769</entry>
+<entry>ATTGCCCACCAAAGACTAG</entry></row>
+<row>
+<entry>414</entry>
+<entry>NM_000044.3</entry>
+<entry>9855-9873</entry>
+<entry>GTATGGGAACCTGTACTCT</entry></row>
+<row>
+<entry>415</entry>
+<entry>NM_000044.3</entry>
+<entry>9893-9911</entry>
+<entry>TTTGCATTATCTCACAACC</entry></row>
+<row>
+<entry>416</entry>
+<entry>NM_000044.3</entry>
+<entry>9895-9913</entry>
+<entry>TGCATTATCTCACAACCTT</entry></row>
+<row>
+<entry>417</entry>
+<entry>NM_000044.3</entry>
+<entry>9897-9915</entry>
+<entry>CATTATCTCACAACCTTAG</entry></row>
+<row>
+<entry>418</entry>
+<entry>NM_000044.3</entry>
+<entry>9905-9923</entry>
+<entry>CACAACCTTAGCCCTTGGT</entry></row>
+<row>
+<entry>419</entry>
+<entry>NM_000044.3</entry>
+<entry>9907-9925</entry>
+<entry>CAACCTTAGCCCTTGGTGC</entry></row>
+<row>
+<entry>420</entry>
+<entry>NM_000044.3</entry>
+<entry>9911-9929</entry>
+<entry>CTTAGCCCTTGGTGCTAAC</entry></row>
+<row>
+<entry>421</entry>
+<entry>NM_000044.3</entry>
+<entry>9913-9931</entry>
+<entry>TAGCCCTTGGTGCTAACTG</entry></row>
+<row>
+<entry>422</entry>
+<entry>NM_000044.3</entry>
+<entry>9919-9937</entry>
+<entry>TTGGTGCTAACTGTCCTAC</entry></row>
+<row>
+<entry>423</entry>
+<entry>NM_000044.3</entry>
+<entry>9925-9943</entry>
+<entry>CTAACTGTCCTACAGTGAA</entry></row>
+<row>
+<entry>424</entry>
+<entry>NM_000044.3</entry>
+<entry>9927-9945</entry>
+<entry>AACTGTCCTACAGTGAAGT</entry></row>
+<row>
+<entry>425</entry>
+<entry>NM_000044.3</entry>
+<entry>9939-9957</entry>
+<entry>GTGAAGTGCCTGGGGGGTT</entry></row>
+<row>
+<entry>426</entry>
+<entry>NM_000044.3</entry>
+<entry>9941-9959</entry>
+<entry>GAAGTGCCTGGGGGGTTGT</entry></row>
+<row>
+<entry>427</entry>
+<entry>NM_000044.3</entry>
+<entry>9947-9965</entry>
+<entry>CCTGGGGGGTTGTCCTATC</entry></row>
+<row>
+<entry>428</entry>
+<entry>NM_000044.3</entry>
+<entry>9949-9967</entry>
+<entry>TGGGGGGTTGTCCTATCCC</entry></row>
+<row>
+<entry>429</entry>
+<entry>NM_000044.3</entry>
+<entry>9951-9969</entry>
+<entry>GGGGGTTGTCCTATCCCAT</entry></row><!-- EPO <DP n="69"> -->
+<row>
+<entry>430</entry>
+<entry>NM_000044.3</entry>
+<entry>9953-9971</entry>
+<entry>GGGTTGTCCTATCCCATAA</entry></row>
+<row>
+<entry>431</entry>
+<entry>NM_000044.3</entry>
+<entry>9955-9973</entry>
+<entry>GTTGTCCTATCCCATAAGC</entry></row>
+<row>
+<entry>432</entry>
+<entry>NM_000044.3</entry>
+<entry>9957-9975</entry>
+<entry>TGTCCTATCCCATAAGCCA</entry></row>
+<row>
+<entry>433</entry>
+<entry>NM_000044.3</entry>
+<entry>9959-9977</entry>
+<entry>TCCTATCCCATAAGCCACT</entry></row>
+<row>
+<entry>434</entry>
+<entry>NM_000044.3</entry>
+<entry>10003-10021</entry>
+<entry>GAATGACCCACGCAAAAAA</entry></row>
+<row>
+<entry>435</entry>
+<entry>NM_000044.3</entry>
+<entry>10039-10057</entry>
+<entry>AAAGTCCCCTCACAACCCA</entry></row>
+<row>
+<entry>436</entry>
+<entry>NM_000044.3</entry>
+<entry>10041-10059</entry>
+<entry>AGTCCCCTCACAACCCAGT</entry></row>
+<row>
+<entry>437</entry>
+<entry>NM_000044.3</entry>
+<entry>10043-10061</entry>
+<entry>TCCCCTCACAACCCAGTGA</entry></row>
+<row>
+<entry>438</entry>
+<entry>NM_000044.3</entry>
+<entry>10051-10069</entry>
+<entry>CAACCCAGTGACACCTTTC</entry></row>
+<row>
+<entry>439</entry>
+<entry>NM_000044.3</entry>
+<entry>10053-10071</entry>
+<entry>ACCCAGTGACACCTTTCTG</entry></row>
+<row>
+<entry>440</entry>
+<entry>NM_000044.3</entry>
+<entry>10075-10093</entry>
+<entry>TCCTCTAGACTGGAACATT</entry></row>
+<row>
+<entry>441</entry>
+<entry>NM_000044.3</entry>
+<entry>10077-10095</entry>
+<entry>CTCTAGACTGGAACATTGA</entry></row>
+<row>
+<entry>442</entry>
+<entry>NM_000044.3</entry>
+<entry>10099-10117</entry>
+<entry>GGGAGTGCCTCAGACATGA</entry></row>
+<row>
+<entry>443</entry>
+<entry>NM_000044.3</entry>
+<entry>10101-10119</entry>
+<entry>GAGTGCCTCAGACATGACA</entry></row>
+<row>
+<entry>444</entry>
+<entry>NM_000044.3</entry>
+<entry>10103-10121</entry>
+<entry>GTGCCTCAGACATGACATT</entry></row>
+<row>
+<entry>445</entry>
+<entry>NM_000044.3</entry>
+<entry>10163-10181</entry>
+<entry>AGACTATGTAAACAGAGAT</entry></row>
+<row>
+<entry>446</entry>
+<entry>NM_000044.3</entry>
+<entry>10287-10305</entry>
+<entry>TTTAGATGGGGCTCATTTC</entry></row>
+<row>
+<entry>447</entry>
+<entry>NM_000044.3</entry>
+<entry>10299-10317</entry>
+<entry>TCATTTCTCACGGTGGCAC</entry></row>
+<row>
+<entry>448</entry>
+<entry>NM_000044.3</entry>
+<entry>10301-10319</entry>
+<entry>ATTTCTCACGGTGGCACTT</entry></row>
+<row>
+<entry>449</entry>
+<entry>NM_000044.3</entry>
+<entry>10341-10359</entry>
+<entry>CCAGCTCCAAGCGCTAGTG</entry></row>
+<row>
+<entry>450</entry>
+<entry>NM_000044.3</entry>
+<entry>10343-10361</entry>
+<entry>AGCTCCAAGCGCTAGTGTT</entry></row>
+<row>
+<entry>451</entry>
+<entry>NM_000044.3</entry>
+<entry>10347-10365</entry>
+<entry>CCAAGCGCTAGTGTTCTGT</entry></row>
+<row>
+<entry>452</entry>
+<entry>NM_000044.3</entry>
+<entry>10349-10367</entry>
+<entry>AAGCGCTAGTGTTCTGTTC</entry></row><!-- EPO <DP n="70"> -->
+<row>
+<entry>453</entry>
+<entry>NM_000044.3</entry>
+<entry>10383-10401</entry>
+<entry>GGAATCTTTTGTTGCTCTA</entry></row>
+<row>
+<entry>454</entry>
+<entry>NM_000044.3</entry>
+<entry>10413-10431</entry>
+<entry>AAATGGCAGAAACTTGTTT</entry></row>
+<row>
+<entry>455</entry>
+<entry>NM_000044.3</entry>
+<entry>10481-10499</entry>
+<entry>AATGTCATCCATTGTGTAA</entry></row>
+<row>
+<entry>456</entry>
+<entry>NM_000044.3</entry>
+<entry>10499-10517</entry>
+<entry>AAATATTGGCTTACTGGTC</entry></row>
+<row>
+<entry>457</entry>
+<entry>NM_000044.3</entry>
+<entry>10501-10519</entry>
+<entry>ATATTGGCTTACTGGTCTG</entry></row>
+<row>
+<entry>458</entry>
+<entry>NM_000044.3</entry>
+<entry>10535-10553</entry>
+<entry>CCACATCCCCTGTTATGGC</entry></row>
+<row>
+<entry>459</entry>
+<entry>NM_000044.3</entry>
+<entry>10537-10555</entry>
+<entry>ACATCCCCTGTTATGGCTG</entry></row>
+<row>
+<entry>460</entry>
+<entry>NM_000044.3</entry>
+<entry>10541-10559</entry>
+<entry>CCCCTGTTATGGCTGCAGG</entry></row>
+<row>
+<entry>461</entry>
+<entry>NM_000044.3</entry>
+<entry>10543-10561</entry>
+<entry>CCTGTTATGGCTGCAGGAT</entry></row>
+<row>
+<entry>462</entry>
+<entry>NM_000044.3</entry>
+<entry>10545-10563</entry>
+<entry>TGTTATGGCTGCAGGATCG</entry></row>
+<row>
+<entry>463</entry>
+<entry>NM_000044.3</entry>
+<entry>10553-10571</entry>
+<entry>CTGCAGGATCGAGTTATTG</entry></row>
+<row>
+<entry>464</entry>
+<entry>NM_000044.3</entry>
+<entry>10555-10573</entry>
+<entry>GCAGGATCGAGTTATTGTT</entry></row>
+<row>
+<entry>465</entry>
+<entry>NM_000044.3</entry>
+<entry>10557-10575</entry>
+<entry>AGGATCGAGTTATTGTTAA</entry></row>
+<row>
+<entry>466</entry>
+<entry>NM_000044.3</entry>
+<entry>10559-10577</entry>
+<entry>GATCGAGTTATTGTTAACA</entry></row>
+<row>
+<entry>467</entry>
+<entry>NM_000044.3</entry>
+<entry>10601-10619</entry>
+<entry>ATGTCCTCTTATCATTGTT</entry></row>
+<row>
+<entry>468</entry>
+<entry>NM_000044.3</entry>
+<entry>10603-10621</entry>
+<entry>GTCCTCTTATCATTGTTGT</entry></row>
+<row>
+<entry>545</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>CTTACGCTGAGTACTTCGA</entry></row></tbody></tgroup>
+</table>
+</tables>
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>[Table 3]</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="21mm"/>
+<colspec colnum="2" colname="col2" colwidth="35mm"/>
+<colspec colnum="3" colname="col3" colwidth="28mm"/>
+<colspec colnum="4" colname="col4" colwidth="58mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col4" align="left" valign="top">Androgen-receptor-specific siRNA sequence described in related literature (<patcit id="pcit0013" dnum="us20070141009a"><text>US 2007-0141009A</text></patcit>)</entry></row>
+<row>
+<entry valign="top">SEQ ID NO:</entry>
+<entry valign="top">Related Patent</entry>
+<entry valign="top">Position</entry>
+<entry valign="top">Sense strand sequence</entry></row></thead>
+<tbody>
+<row>
+<entry>469</entry>
+<entry><patcit id="pcit0014" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>1122-1140</entry>
+<entry>GUGCAGUUAGGGCUGGGAA</entry></row><!-- EPO <DP n="71"> -->
+<row>
+<entry>470</entry>
+<entry><patcit id="pcit0015" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>1141-1159</entry>
+<entry>GGGUCUACCCUCGGCCGCC</entry></row>
+<row>
+<entry>471</entry>
+<entry><patcit id="pcit0016" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>1190-1208</entry>
+<entry>UCUGUUCCAGAGCGUGCGC</entry></row>
+<row>
+<entry>472</entry>
+<entry><patcit id="pcit0017" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>1212-1230</entry>
+<entry>GUGAUCCAGAACCCGGGCC</entry></row>
+<row>
+<entry>473</entry>
+<entry><patcit id="pcit0018" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>1455-1473</entry>
+<entry>CAGCAACCUUCACAGCCGC</entry></row>
+<row>
+<entry>474</entry>
+<entry><patcit id="pcit0019" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>1544-1562</entry>
+<entry>GGGGCUGCCGCAGCAGCUG</entry></row>
+<row>
+<entry>475</entry>
+<entry><patcit id="pcit0020" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>1661-1679</entry>
+<entry>AGACAUCCUGAGCGAGGCC</entry></row>
+<row>
+<entry>476</entry>
+<entry><patcit id="pcit0021" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>1692-1710</entry>
+<entry>CUCCUUCAGCAACAGCAGC</entry></row>
+<row>
+<entry>477</entry>
+<entry><patcit id="pcit0022" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>1728-1746</entry>
+<entry>GGCAGCAGCAGCGGGAGAG</entry></row>
+<row>
+<entry>478</entry>
+<entry><patcit id="pcit0023" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>1781-1799</entry>
+<entry>GGACAAUUACUUAGGGGGC</entry></row>
+<row>
+<entry>479</entry>
+<entry><patcit id="pcit0024" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>1787-1805</entry>
+<entry>UUACUUAGGGGGCACUUCG</entry></row>
+<row>
+<entry>480</entry>
+<entry><patcit id="pcit0025" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>1838-1856</entry>
+<entry>GGCAGUGUCGGUGUCCAUG</entry></row>
+<row>
+<entry>481</entry>
+<entry><patcit id="pcit0026" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>1899-1917</entry>
+<entry>CAGCUUCGGGGGGAUUGCA</entry></row><!-- EPO <DP n="72"> -->
+<row>
+<entry>482</entry>
+<entry><patcit id="pcit0027" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>1983-2001</entry>
+<entry>UGCAAAGGUUCUCUGCUAG</entry></row>
+<row>
+<entry>483</entry>
+<entry><patcit id="pcit0028" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>1988-2006</entry>
+<entry>AGGUUCUCUGCUAGACGAC</entry></row>
+<row>
+<entry>484</entry>
+<entry><patcit id="pcit0029" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2018-2036</entry>
+<entry>GAGCACUGAAGAUACUGCU</entry></row>
+<row>
+<entry>485</entry>
+<entry><patcit id="pcit0030" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2028-2046</entry>
+<entry>GAUACUGCUGAGUAUUCCC</entry></row>
+<row>
+<entry>486</entry>
+<entry><patcit id="pcit0031" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2054-2072</entry>
+<entry>GGGAGGUUACACCAAAGGG</entry></row>
+<row>
+<entry>487</entry>
+<entry><patcit id="pcit0032" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2079-2097</entry>
+<entry>GGCGAGAGCCUAGGCUGCU</entry></row>
+<row>
+<entry>488</entry>
+<entry><patcit id="pcit0033" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2162-2180</entry>
+<entry>GUCCGGAGCACUGGACGAG</entry></row>
+<row>
+<entry>489</entry>
+<entry><patcit id="pcit0034" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2213-2231</entry>
+<entry>CUUUCCACUGGCUCUGGCC</entry></row>
+<row>
+<entry>490</entry>
+<entry><patcit id="pcit0035" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2279-2297</entry>
+<entry>GCUGGAGAACCCGCUGGAC</entry></row>
+<row>
+<entry>491</entry>
+<entry><patcit id="pcit0036" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2288-2306</entry>
+<entry>CCCGCUGGACUACGGCAGC</entry></row>
+<row>
+<entry>492</entry>
+<entry><patcit id="pcit0037" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2442-2460</entry>
+<entry>GAAGGCCAGUUGUAUGGAC</entry></row><!-- EPO <DP n="73"> -->
+<row>
+<entry>493</entry>
+<entry><patcit id="pcit0038" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2445-2463</entry>
+<entry>GGCCAGUUGUAUGGACCGU</entry></row>
+<row>
+<entry>494</entry>
+<entry><patcit id="pcit0039" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2678-2696</entry>
+<entry>AAGCGAAAUGGGCCCCUGG</entry></row>
+<row>
+<entry>495</entry>
+<entry><patcit id="pcit0040" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2680-2698</entry>
+<entry>GCGAAAUGGGCCCCUGGAU</entry></row>
+<row>
+<entry>496</entry>
+<entry><patcit id="pcit0041" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2685-2703</entry>
+<entry>AUGGGCCCCUGGAUGGAUA</entry></row>
+<row>
+<entry>497</entry>
+<entry><patcit id="pcit0042" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2814-2832</entry>
+<entry>GCUUCUGGGUGUCACUAUG</entry></row>
+<row>
+<entry>498</entry>
+<entry><patcit id="pcit0043" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2858-2876</entry>
+<entry>GGUCUUCUUCAAAAGAGCC</entry></row>
+<row>
+<entry>499</entry>
+<entry><patcit id="pcit0044" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2870-2888</entry>
+<entry>AAGAGCCGCUGAAGGGAAA</entry></row>
+<row>
+<entry>500</entry>
+<entry><patcit id="pcit0045" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2872-2890</entry>
+<entry>GAGCCGCUGAAGGGAAACA</entry></row>
+<row>
+<entry>501</entry>
+<entry><patcit id="pcit0046" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2883-2901</entry>
+<entry>GGGAAACAGAAGUACCUGU</entry></row>
+<row>
+<entry>502</entry>
+<entry><patcit id="pcit0047" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2888-2906</entry>
+<entry>ACAGAAGUACCUGUGCGCC</entry></row>
+<row>
+<entry>503</entry>
+<entry><patcit id="pcit0048" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2894-2912</entry>
+<entry>GUACCUGUGCGCCAGCAGA</entry></row>
+<row>
+<entry>504</entry>
+<entry><patcit id="pcit0049" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2933-2951</entry>
+<entry>AUUCCGAAGGAAAAAUUGU</entry></row><!-- EPO <DP n="74"> -->
+<row>
+<entry>505</entry>
+<entry><patcit id="pcit0050" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2941-2959</entry>
+<entry>GGAAAAAUUGUCCAUCUUG</entry></row>
+<row>
+<entry>506</entry>
+<entry><patcit id="pcit0051" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2945-2963</entry>
+<entry>AAAUUGUCCAUCUUGUCGU</entry></row>
+<row>
+<entry>507</entry>
+<entry><patcit id="pcit0052" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2947-2965</entry>
+<entry>AUUGUCCAUCUUGUCGUCU</entry></row>
+<row>
+<entry>508</entry>
+<entry><patcit id="pcit0053" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>2982-3000</entry>
+<entry>GCAGGGAUGACUCUGGGAG</entry></row>
+<row>
+<entry>509</entry>
+<entry><patcit id="pcit0054" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3008-3026</entry>
+<entry>GCUGAAGAAACUUGGUAAU</entry></row>
+<row>
+<entry>510</entry>
+<entry><patcit id="pcit0055" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3014-3032</entry>
+<entry>GAAACUUGGUAAUCUGAAA</entry></row>
+<row>
+<entry>511</entry>
+<entry><patcit id="pcit0056" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3017-3035</entry>
+<entry>ACUUGGUAAUCUGAAACUA</entry></row>
+<row>
+<entry>512</entry>
+<entry><patcit id="pcit0057" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3045-3063</entry>
+<entry>GGAGAGGCUUCCAGCACCA</entry></row>
+<row>
+<entry>513</entry>
+<entry><patcit id="pcit0058" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3114-3132</entry>
+<entry>GGCUAUGAAUGUCAGCCCA</entry></row>
+<row>
+<entry>514</entry>
+<entry><patcit id="pcit0059" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3123-3141</entry>
+<entry>UGUCAGCCCAUCUUUCUGA</entry></row>
+<row>
+<entry>515</entry>
+<entry><patcit id="pcit0060" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3191-3209</entry>
+<entry>CAACCAGCCCGACUCCUUU</entry></row>
+<row>
+<entry>516</entry>
+<entry><patcit id="pcit0061" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3194-3212</entry>
+<entry>CCAGCCCGACUCCUUUGCA</entry></row><!-- EPO <DP n="75"> -->
+<row>
+<entry>517</entry>
+<entry><patcit id="pcit0062" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3233-3251</entry>
+<entry>UGAACUGGGAGAGAGACAG</entry></row>
+<row>
+<entry>518</entry>
+<entry><patcit id="pcit0063" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3237-3255</entry>
+<entry>CUGGGAGAGAGACAGCUUG</entry></row>
+<row>
+<entry>519</entry>
+<entry><patcit id="pcit0064" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3278-3296</entry>
+<entry>GGCCUUGCCUGGCUUCCGC</entry></row>
+<row>
+<entry>520</entry>
+<entry><patcit id="pcit0065" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3299-3317</entry>
+<entry>CUUACACGUGGACGACCAG</entry></row>
+<row>
+<entry>521</entry>
+<entry><patcit id="pcit0066" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3431-3449</entry>
+<entry>UGAGUACCGCAUGCACAAG</entry></row>
+<row>
+<entry>522</entry>
+<entry><patcit id="pcit0067" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3478-3496</entry>
+<entry>UGAGGCACCUCUCUCAAGA</entry></row>
+<row>
+<entry>523</entry>
+<entry><patcit id="pcit0068" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3495-3513</entry>
+<entry>GAGUUUGGAUGGCUCCAAA</entry></row>
+<row>
+<entry>524</entry>
+<entry><patcit id="pcit0069" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3528-3546</entry>
+<entry>UUCCUGUGCAUGAAAGCAC</entry></row>
+<row>
+<entry>525</entry>
+<entry><patcit id="pcit0070" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3542-3560</entry>
+<entry>AGCACUGCUACUCUUCAGC</entry></row>
+<row>
+<entry>526</entry>
+<entry><patcit id="pcit0071" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3584-3602</entry>
+<entry>AAAUCAAAAAUUCUUUGAU</entry></row>
+<row>
+<entry>527</entry>
+<entry><patcit id="pcit0072" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3586-3604</entry>
+<entry>AUCAAAAAUUCUUUGAUGA</entry></row>
+<row>
+<entry>528</entry>
+<entry><patcit id="pcit0073" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3591-3609</entry>
+<entry>AAAUUCUUUGAUGAACUUC</entry></row><!-- EPO <DP n="76"> -->
+<row>
+<entry>529</entry>
+<entry><patcit id="pcit0074" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3593-3611</entry>
+<entry>AUUCUUUGAUGAACUUCGA</entry></row>
+<row>
+<entry>530</entry>
+<entry><patcit id="pcit0075" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3606-3624</entry>
+<entry>CUUCGAAUGAACUACAUCA</entry></row>
+<row>
+<entry>531</entry>
+<entry><patcit id="pcit0076" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3613-3631</entry>
+<entry>UGAACUACAUCAAGGAACU</entry></row>
+<row>
+<entry>532</entry>
+<entry><patcit id="pcit0077" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3617-3635</entry>
+<entry>CUACAUCAAGGAACUCGAU</entry></row>
+<row>
+<entry>533</entry>
+<entry><patcit id="pcit0078" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3653-3671</entry>
+<entry>AAGAAAAAAUCCCACAUCC</entry></row>
+<row>
+<entry>534</entry>
+<entry><patcit id="pcit0079" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3655-3673</entry>
+<entry>GAAAAAAUCCCACAUCCUG</entry></row>
+<row>
+<entry>535</entry>
+<entry><patcit id="pcit0080" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3658-3676</entry>
+<entry>AAAAUCCCACAUCCUGCUC</entry></row>
+<row>
+<entry>536</entry>
+<entry><patcit id="pcit0081" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3660-3678</entry>
+<entry>AAUCCCACAUCCUGCUCAA</entry></row>
+<row>
+<entry>537</entry>
+<entry><patcit id="pcit0082" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3662-3680</entry>
+<entry>UCCCACAUCCUGCUCAAGA</entry></row>
+<row>
+<entry>538</entry>
+<entry><patcit id="pcit0083" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3701-3719</entry>
+<entry>GCUCCUGGACUCCGUGCAG</entry></row>
+<row>
+<entry>539</entry>
+<entry><patcit id="pcit0084" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3763-3781</entry>
+<entry>UCAAGUCACACAUGGUGAG</entry></row><!-- EPO <DP n="77"> -->
+<row>
+<entry>540</entry>
+<entry><patcit id="pcit0085" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3767-3785</entry>
+<entry>GUCACACAUGGUGAGCGUG</entry></row>
+<row>
+<entry>541</entry>
+<entry><patcit id="pcit0086" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3825-3843</entry>
+<entry>GUGCCCAAGAUCCUUUCUG</entry></row>
+<row>
+<entry>542</entry>
+<entry><patcit id="pcit0087" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3833-3851</entry>
+<entry>GAUCCUUUCUGGGAAAGUC</entry></row>
+<row>
+<entry>543</entry>
+<entry><patcit id="pcit0088" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3848-3866</entry>
+<entry>AGUCAAGCCCAUCUAUUUC</entry></row>
+<row>
+<entry>544</entry>
+<entry><patcit id="pcit0089" dnum="us20070141009a1"><text>US 2007-0141009 A1</text></patcit></entry>
+<entry>3854-3872</entry>
+<entry>GCCCAUCUAUUUCCACACC</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0007">Example 2. Synthesis of double stranded oligonucleotide construct</heading>
+<p id="p0111" num="0111">The double stranded oligonucleotide construct (SAMiRNA) manufactured in the present invention has the structure represented by the following Structural Formula.
+<chemistry id="chem0011" num="0011"><img id="ib0011" file="imgb0011.tif" wi="48" he="15" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0112" num="0112">The synthesis process includes repeating the cycle including deblocking, coupling, capping, and oxidation on a solid support (CPG) to which the nucleoside was attached, thereby obtaining an RNA single strand having a desired sequence. An RNA synthesizer (384 synthesizer, BIONEER, Korea) was used for a series<!-- EPO <DP n="78"> --> of processes of synthesis of double stranded oligo RNA.</p>
+<p id="p0113" num="0113">The sense strand of the double stranded oligonucleotide construct was manufactured by linking phosphodiester bonds constituting a DNA backbone using β-cyanoethylphosphoamidite on polyethylene glycol (PEG)-CPG as a support to synthesize a construct of a double stranded oligonucleotide having a sense strand having polyethylene glycol bound to the 3' end and a hydrophilic material, after which C<sub>24</sub> containing a disulfide bond was bound to the 5' end. For an antisense strand to be annealed with the sense strand, an antisense strand having a sequence complementary to the sense strand was manufactured by linking phosphodiester bonds constituting an RNA backbone using β-cyanoethylphosphoamidite, after which an antisense strand having a phosphate group bound to the 5' end was manufactured using a chemical phosphorylation reagent (CPR) for attaching a phosphate group to the 5' end.</p>
+<p id="p0114" num="0114">After completion of synthesis, the synthesized oligonucleotide single strand and oligonucleotide-polymer construct were separated from CPG using 28% (v/v) ammonia in a water bath at 60°C, followed by deprotection to remove the protective residue. The deprotected oligonucleotide single strand and oligonucleotide-polymer construct were treated with N-methylpyrrolidone,<!-- EPO <DP n="79"> --> triethylamine and triethylaminetrihydrofluoride at a volume ratio of 10:3:4 in an oven at 70°C, thus removing 2'. The oligonucleotide single strand, the oligonucleotide-polymer construct, and the ligand-bound oligonucleotide-polymer construct were separated from the reaction mixture through high-performance liquid chromatography (HPLC), and the molecular weights thereof were measured using a MALDI-TOF mass spectrometer (SHIMADZU, Japan), and whether the resultant products matched the base sequence and oligonucleotide-polymer construct to be synthesized was confirmed. Thereafter, in order to manufacture each double stranded oligonucleotide construct, the sense strand and the antisense strand were mixed in the same amount and placed in a 1X annealing buffer (30 mM HEPES, 100 mM potassium acetate, and 2 mM magnesium acetate) at a pH of 7.0 or more, allowed to react for 3 minutes in a constant-temperature water bath at 90°C, and then allowed to react again at 37°C, thereby manufacturing desired SAMiRNA, monoSAMiRNA (n=1), monoSAMiRNA (n=2), monoSAMiRNA (n=3), and monoSAMiRNA (n=4). The annealing of the double stranded oligonucleotide constructs thus manufactured was confirmed through electrophoresis.</p>
+<heading id="h0008">Example 3. Screening of SAMiRNA nanoparticles<!-- EPO <DP n="80"> --> inducing RNAi by targeting androgen receptor</heading>
+<heading id="h0009">3.1 Manufacture and particle size analysis of SAMiRNA nanoparticles</heading>
+<p id="p0115" num="0115">Based on the results of measurement of the size and polydispersity index of SAMiRNA using a Zetasizer Nano ZS (Malvern, UK) for particle size analysis of 544 types of SAMiRNAs targeting the androgen receptor sequence synthesized in Example 2, the size and polydispersity index of the nanoparticles for the randomly selected SAMiRNAs are shown in Table 4 below, and a representative graph thereof is shown in <figref idref="f0003">FIG. 3</figref>.</p>
+<p id="p0116" num="0116">
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title>[Table 4]</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="28mm"/>
+<colspec colnum="2" colname="col2" colwidth="30mm"/>
+<colspec colnum="3" colname="col3" colwidth="30mm"/>
+<colspec colnum="4" colname="col4" colwidth="31mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col4" align="left" valign="top"><u>Nanoparticle size and polydispersity index of androgen-receptor-specific SAMiRNA</u></entry></row>
+<row>
+<entry valign="top">SEQ ID NO:</entry>
+<entry valign="top">Code Name</entry>
+<entry valign="top">Size</entry>
+<entry valign="top">PDI</entry></row></thead>
+<tbody>
+<row>
+<entry>545</entry>
+<entry>SAMi-CON</entry>
+<entry>28±1.0</entry>
+<entry>0.28±0.04</entry></row>
+<row>
+<entry>10</entry>
+<entry>SAMi-AR #10</entry>
+<entry>27.8±0.7</entry>
+<entry>0.18±0.07</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0010">3.2 Intracellular treatment method of SAMiRNA nanoparticles</heading>
+<p id="p0117" num="0117">LNCaP, which is a human-derived prostate cancer cell line, was used to discover SAMiRNA, which inhibits the expression of an androgen receptor, and the LNCaP cell line was cultured at 37°C and 5% CO<sub>2</sub> using an RPMI<!-- EPO <DP n="81"> --> medium (HyClone, US) containing 10% fetal bovine serum (HyClone, US) and 1% penicillin-streptomycin (HyClone, US). Using the same medium as above, the LNCaP cell line was dispensed at 4X10<sup>4</sup> cells/well into a 12-well plate (Costar, US), and on the next day, SAMiRNA was diluted with 1X DPBS and used to treat the cells at 50 nM. SAMiRNA was treated a total of 4 times under the condition of treatment once every 12 hours, and was cultured at 37°C and 5% CO<sub>2</sub>.</p>
+<heading id="h0011">3.3 SAMiRNA screening through analysis of efficacy of inhibiting expression of androgen receptor mRNA</heading>
+<p id="p0118" num="0118">RNA extracted from the SAMiRNA-treated cells as in Example 3.2 was synthesized into cDNA using AccuPower® RocketScript™ Cycle RT Premix with oligo (dT)20, after which the relative expression level of the androgen receptor gene was analyzed compared to the SAMiRNA control sample using the Taqman-probe-type multiplex qPCR method.</p>
+<p id="p0119" num="0119">As a result, as shown in <figref idref="f0004">FIG. 4</figref>, <figref idref="f0009">9</figref> sequences mentioned in the related patent (<patcit id="pcit0090" dnum="US20070141009A"><text>US 2007-0141009A</text></patcit>) and 14 sequences in Table 2 were selected out of sequences showing ability to inhibit the expression of the androgen receptor mRNA by 60% or more from among 544 types of<!-- EPO <DP n="82"> --> SAMiRNAs targeting the androgen receptor (<figref idref="f0005">FIG. 5</figref>), and the results of re-evaluation of the ability of 14 sequences to inhibit the expression of the androgen receptor mRNA are shown in <figref idref="f0006">FIG. 6</figref>. Two types of SAMiRNAs that most effectively inhibit the expression of the androgen receptor gene were finally selected, and the sequence information of the corresponding SAMiRNAs is shown in Table 5 below.
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<title>[Table 5]</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="22mm"/>
+<colspec colnum="2" colname="col2" colwidth="26mm"/>
+<colspec colnum="3" colname="col3" colwidth="25mm"/>
+<colspec colnum="4" colname="col4" colwidth="52mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col4" align="left" valign="top">SAMiRNA sequence that effectively inhibits expression of androgen receptor</entry></row>
+<row>
+<entry valign="top">SEQ ID NO:</entry>
+<entry valign="top">Code Name</entry>
+<entry valign="top">Position</entry>
+<entry valign="top">Sense strand sequence</entry></row></thead>
+<tbody>
+<row>
+<entry>68</entry>
+<entry>SAMi-AR #68</entry>
+<entry>3495-3513</entry>
+<entry>GAGTTTGGATGGCTCCAAA</entry></row>
+<row>
+<entry>109</entry>
+<entry>SAMi-AR #109</entry>
+<entry>3991-4009</entry>
+<entry>ATGTACAGTCTGTCATGAA</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0012">3.4 Evaluation of efficacy of selected SAMiRNA on inhibiting expression of androgen receptor protein</heading>
+<p id="p0120" num="0120">Western blot (WB) assay was performed in order to confirm whether 14 types of SAMiRNAs selected together including Nos. 68 and 109 sequences selected in Example 3.3 effectively inhibit the expression of the androgen receptor protein. The LNCaP cell line was dispensed at 1.2X10<sup>5</sup> cells/well into a 6-well plate (Costar, US) and cultured at 37°C and 5% CO<sub>2</sub>. The next day, transfection was performed at a concentration of 50 nM using<!-- EPO <DP n="83"> --> lipofectamine (Invitrogen, USA). After culture for 48 hours, the medium was removed and the protein was isolated using a cell lysis buffer (Cell Signaling Technology, USA) containing a protease inhibitor cocktail (Sigma Aldrich, USA). After quantifying the amount of protein using a BCA assay kit (Thermo, USA), 20 □ of protein was boiled at 95°C for 10 minutes along with a Laemmli's 5x sample buffer. The denatured protein was electrophoresed on an SDS-polyacrylamide gel and then transferred to a PVDF membrane. The membrane was immersed in a blocking solution (5% non-fat dry milk in TBS and 0.05% Tween 20) and treated for 1 hour at room temperature, followed by reaction in a 4°C refrigerator overnight along with a primary antibody AR antibody (1:2000, Santa Cruz, USA) and GAPDH antibody (1:5000, Cell Signaling Technology, USA), washing three times with TBST, and then reaction for 1 hour at room temperature with a horseradish-peroxidase-conjugated secondary antibody (Cell Signaling Technology), after which the protein band was detected using, as a chemiluminescent reagent, SuperSignal® Pico Chemiluminescent Substrate (Thermo, USA).</p>
+<p id="p0121" num="0121">The ability of 14 types of SAMiRNAs to inhibit the expression of the androgen receptor protein was confirmed as shown in <figref idref="f0007">FIG. 7</figref>, and the inhibitory ability<!-- EPO <DP n="84"> --> of Nos. 68 and 109 sequences was also vastly superior in protein expression.</p>
+<heading id="h0013">3.5 Evaluation of efficacy of inhibition of expression of androgen receptor protein in hair follicle dermal papilla cell (HFDPC) as human-derived hair root cell</heading>
+<p id="p0122" num="0122">In order to confirm whether SEQ ID NOS: 68 and 109 finally selected in Example 3.4 actually inhibit the expression of the androgen receptor protein in human hair root cells, the extent of inhibition of protein expression was measured using human-derived hair root cells, namely hair follicle dermal papilla cells (HFDPCs) (<figref idref="f0008">FIG. 8</figref>). Both sequences were found to be capable of inhibiting the expression of the androgen receptor protein.</p>
+<heading id="h0014">Example 4. Confirmation of intradermal delivery effect of SAMiRNA nanoparticles</heading>
+<p id="p0123" num="0123">In order to confirm whether SAMiRNA-AR#68 and SAMiRNA-AR#109 manufactured with finally selected SEQ ID NOS: 68 and 109 are actually delivered to human hair roots, the effect of gene transfer was measured in human<!-- EPO <DP n="85"> --> hair.</p>
+<p id="p0124" num="0124">Hair was collected by pulling the tip of the hair on the day of the experiment, cut to a length of about 1 cm from the root, and cultured in an incubator for 1 hour using 200 □ of a M199 medium (10% FBS + 1% penicillin) in a 96-well plate. Thereafter, in order to observe gene transfer, culture was performed in an incubator for 24 hours using 200 □ of a M199 medium containing 2 µM and 10 µM SAMiRNA labeled with a fluorescent material (FAM dye). After 24 hours of material treatment, washing was performed three times using DPBS, and finally, the hair roots were fixed for 20 minutes in PBS containing 3.7% formaldehyde and 2% FBS.</p>
+<p id="p0125" num="0125">The hair roots that had been fixed were planted in the base mold containing the OCT compound and placed on a pre-frozen stainless plate to completely freeze the OCT compound. The frozen tissues were stored at -70°C and allowed to stand at -20°C for about 30 minutes to facilitate tissue sectioning before cutting with a tissue-sectioning machine. The sectioned tissue was placed on a slide to a thickness of 10 µm and dried for 1 hour, and after drying, a mounting process was performed. Here, a mounting medium containing DAPI was used. Based on the result of observation of fluorescence using a confocal laser scanning microscope (LSM5 LIVE<!-- EPO <DP n="86"> --> CONFIGURATION VARIOTWO VRGB), it was confirmed that the SAMiRNA was delivered to the hair root cells of the hair tissue (<figref idref="f0009">FIG. 9</figref>).</p>
+<p id="p0126" num="0126">Although specific embodiments of the present invention have been disclosed in detail as described above, it will be obvious to those skilled in the art that the description is merely of preferable exemplary embodiments and is not to be construed as limiting the scope of the present invention. Therefore, the substantial scope of the present invention will be defined by the appended claims and equivalents thereof.</p>
+<heading id="h0015">□ Industrial Applicability□</heading>
+<p id="p0127" num="0127">According to the present invention, a double stranded oligonucleotide construct including an androgen-receptor-specific oligonucleotide and a composition for preventing hair loss or promoting hair growth containing the same as an active ingredient can suppress the expression of an androgen receptor with high efficiency without side effects, and can thus exhibit excellent effects on preventing hair loss, particularly androgenetic alopecia, alopecia areata, and telogen effluvium, and promoting hair growth.<!-- EPO <DP n="87"> --></p>
+<heading id="h0016">□ Sequence List Free Text□</heading>
+<p id="p0128" num="0128">An electronic file is attached.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="88"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A double stranded oligonucleotide construct having a structure of Structural Formula (1) below:<br/>
+<br/>
+        A-X-R-Y-B     Structural Formula (1)<br/>
+<br/>
+in Structural Formula (1), wherein A is a hydrophilic material, B is a hydrophobic material, each of X and Y independently represents a simple covalent bond or a linker-mediated covalent bond, and R represents an androgen-receptor-specific oligonucleotide comprising a sense strand comprising any one sequence selected from the group consisting of SEQ ID NOS: 6, 58, 68, 99, 107, 109, 260, 270, 284, 298, 348, 358, 359 and 434 and an antisense strand comprising a sequence complementary thereto.</claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The double stranded oligonucleotide construct according to claim 1, wherein the double stranded oligonucleotide construct has a structure of Structural Formula (2) below:
+<chemistry id="chem0012" num="0012"><img id="ib0012" file="imgb0012.tif" wi="109" he="16" img-content="chem" img-format="tif"/></chemistry>
+in Structural Formula (2), S represents the sense strand of the oligonucleotide according to claim 1, AS represents the antisense strand thereof, and A, B, X and<!-- EPO <DP n="89"> --> Y are as defined in claim 1.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The double stranded oligonucleotide construct according to claim 2, wherein the double stranded oligonucleotide construct has a structure of Structural Formula (3) or Structural Formula (4) below:
+<chemistry id="chem0013" num="0013"><img id="ib0013" file="imgb0013.tif" wi="124" he="13" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0014" num="0014"><img id="ib0014" file="imgb0014.tif" wi="124" he="11" img-content="chem" img-format="tif"/></chemistry>
+in Structural Formula (3) and Structural Formula (4), A, B, X, Y, S and AS are as defined in claim 2, and 5' and 3' represent a 5' end and a 3' end of the sense strand of the oligonucleotide.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The double stranded oligonucleotide construct according to claim 1, wherein the hydrophilic material has a molecular weight of 200 to 10,000.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The double stranded oligonucleotide construct according to claim 4, wherein the hydrophilic material is any one selected from the group consisting of polyethylene glycol (PEG), polyvinylpyrrolidone, and polyoxazoline.<!-- EPO <DP n="90"> --></claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The double stranded oligonucleotide construct according to claim 1, wherein the hydrophilic material has a structure of Structural Formula (5) or Structural Formula (6) below:<br/>
+<br/>
+        (A'<sub>m</sub>-J)<sub>n</sub>     Structural Formula (5)<br/>
+<br/>
+        (J-A'<sub>m</sub>)<sub>n</sub>     Structural Formula (6)<br/>
+<br/>
+
+<claim-text>in Structural Formula (5) and Structural Formula (6), A' is a hydrophilic material monomer, J is a linker for connecting m hydrophilic material monomers to each other or connecting m hydrophilic material monomers and an oligonucleotide to each other, m is an integer of 1 to 15, and n is an integer of 1 to 10,</claim-text>
+<claim-text>the hydrophilic material monomer A' being any one compound selected from among Compound (1) to Compound (3) below, and the linker (J) being selected from the group consisting of PO<sub>3</sub><sup>-</sup>, SO<sub>3</sub>, and CO<sub>2</sub>.
+<tables id="tabl0006" num="0006">
+<table frame="all">
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="42mm"/>
+<colspec colnum="2" colname="col2" colwidth="29mm"/>
+<colspec colnum="3" colname="col3" colwidth="29mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Compound (1)</entry>
+<entry align="center" valign="top">Compound (2)</entry>
+<entry align="center" valign="top">Compound (3)</entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry align="center">
+<chemistry id="chem0015" num="0015"><img id="ib0015" file="imgb0015.tif" wi="36" he="13" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry morerows="1" rowsep="1" align="center">
+<chemistry id="chem0016" num="0016"><img id="ib0016" file="imgb0016.tif" wi="23" he="29" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry morerows="1" rowsep="1" align="center">
+<chemistry id="chem0017" num="0017"><img id="ib0017" file="imgb0017.tif" wi="23" he="30" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row>
+<entry>G is CH<sub>2</sub>, O, S or NH</entry></row></tbody></tgroup>
+</table>
+</tables></claim-text></claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The double stranded oligonucleotide construct according to claim 1, wherein the hydrophobic material has a molecular weight of 250 to 1,000.<!-- EPO <DP n="91"> --></claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>The double stranded oligonucleotide construct according to claim 7, wherein the hydrophobic material is selected from the group consisting of a steroid derivative, a glyceride derivative, glycerol ether, polypropylene glycol, a C<sub>12</sub>-C<sub>50</sub> unsaturated or saturated hydrocarbon, diacylphosphatidylcholine, fatty acid, phospholipid, and lipopolyamine.</claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>The double stranded oligonucleotide construct according to claim 8, wherein the steroid derivative is selected from the group consisting of cholesterol, cholestanol, cholic acid, cholesteryl formate, cholestanyl formate, and cholesteryl amine.</claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>The double stranded oligonucleotide construct according to claim 8, wherein the glyceride derivative is selected from the group consisting of mono-, di- and tri-glycerides.</claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>The double stranded oligonucleotide construct according to claim 1, wherein the covalent bond represented by X and Y is a non-cleavable bond or a cleavable bond.<!-- EPO <DP n="92"> --></claim-text></claim>
+<claim id="c-en-0012" num="0012">
+<claim-text>The double stranded oligonucleotide construct according to claim 11, wherein the non-cleavable bond is an amide bond or a phosphate bond.</claim-text></claim>
+<claim id="c-en-0013" num="0013">
+<claim-text>The double stranded oligonucleotide construct according to claim 11, wherein the cleavable bond is a disulfide bond, an acid-cleavable bond, an ester bond, an anhydride bond, a biodegradable bond, or an enzyme-cleavable bond.</claim-text></claim>
+<claim id="c-en-0014" num="0014">
+<claim-text>The double stranded oligonucleotide construct according to claim 1, wherein a ligand having a property of specifically binding to a receptor that promotes target cell internalization through receptor-mediated endocytosis (RME) is additionally bound to the hydrophilic material.</claim-text></claim>
+<claim id="c-en-0015" num="0015">
+<claim-text>The double stranded oligonucleotide construct according to claim 14, wherein the ligand is selected from the group consisting of a target-receptor-specific antibody, aptamer, peptide, folate, N-acetyl galactosamine (NAG), glucose, and mannose.</claim-text></claim>
+<claim id="c-en-0016" num="0016">
+<claim-text>The double stranded oligonucleotide construct according to claim 1, wherein an amine group<!-- EPO <DP n="93"> --> or a polyhistidine group is additionally introduced at an end portion of the hydrophilic material opposite an end portion bound with the oligonucleotide.</claim-text></claim>
+<claim id="c-en-0017" num="0017">
+<claim-text>The double stranded oligonucleotide construct according to claim 16, wherein the amine group or the polyhistidine group is connected to the hydrophilic material or to a hydrophilic block through at least one linker.</claim-text></claim>
+<claim id="c-en-0018" num="0018">
+<claim-text>The double stranded oligonucleotide construct according to claim 16, wherein the amine group is any one selected from among primary to tertiary amine groups.</claim-text></claim>
+<claim id="c-en-0019" num="0019">
+<claim-text>The double stranded oligonucleotide construct according to claim 16, wherein the polyhistidine group comprises 3 to 10 histidines.</claim-text></claim>
+<claim id="c-en-0020" num="0020">
+<claim-text>A nanoparticle comprising the double stranded oligonucleotide construct according to any one of claims 1 to 19.</claim-text></claim>
+<claim id="c-en-0021" num="0021">
+<claim-text>The nanoparticle according to claim 20, wherein double stranded oligonucleotide constructs<!-- EPO <DP n="94"> --> comprising oligonucleotides having different sequences are mixed.</claim-text></claim>
+<claim id="c-en-0022" num="0022">
+<claim-text>A pharmaceutical composition for preventing hair loss or promoting hair growth, comprising the double stranded oligonucleotide construct according to any one of claims 1 to 19 as an active ingredient.</claim-text></claim>
+<claim id="c-en-0023" num="0023">
+<claim-text>A pharmaceutical composition for preventing hair loss or promoting hair growth, comprising the nanoparticle according to claim 20 as an active ingredient.</claim-text></claim>
+<claim id="c-en-0024" num="0024">
+<claim-text>The pharmaceutical composition according to claim 22, wherein the pharmaceutical composition is used for a formulation selected from among ointment, paste, gel, jelly, serum, aerosol spray, non-aerosol spray, foam, cream, lotion, solution, and suspension formulations.</claim-text></claim>
+<claim id="c-en-0025" num="0025">
+<claim-text>The pharmaceutical composition according to claim 23, wherein the pharmaceutical composition is used for a formulation selected from among ointment, paste, gel, jelly, serum, aerosol spray, non-aerosol<!-- EPO <DP n="95"> --> spray, foam, cream, lotion, solution, and suspension formulations.</claim-text></claim>
+<claim id="c-en-0026" num="0026">
+<claim-text>A cosmetic composition for preventing hair loss or promoting hair growth, comprising the double stranded oligonucleotide construct according to any one of claims 1 to 19 as an active ingredient.</claim-text></claim>
+<claim id="c-en-0027" num="0027">
+<claim-text>A cosmetic composition for preventing hair loss or promoting hair growth, comprising the nanoparticle according to claim 20 as an active ingredient.</claim-text></claim>
+<claim id="c-en-0028" num="0028">
+<claim-text>The cosmetic composition according to claim 26, wherein the composition is used for a formulation selected from among hair tonic, hair conditioner, hair essence, hair lotion, hair nutrition lotion, hair shampoo, hair rinse, hair treatment, hair cream, hair nutrition cream, hair moisture cream, hair massage cream, hair wax, hair aerosol, hair pack, hair nutrition pack, hair soap, hair cleansing foam, hair oil, hair dryer, hair preservative, hair dye, hair wave agent, hair decolorant, hair gel, hair glaze, hair dressing, hair lacquer, hair moisturizer, hair mousse, and hair spray formulations.<!-- EPO <DP n="96"> --></claim-text></claim>
+<claim id="c-en-0029" num="0029">
+<claim-text>The cosmetic composition according to claim 27, wherein the composition is used for a formulation selected from among hair tonic, hair conditioner, hair essence, hair lotion, hair nutrition lotion, hair shampoo, hair rinse, hair treatment, hair cream, hair nutrition cream, hair moisture cream, hair massage cream, hair wax, hair aerosol, hair pack, hair nutrition pack, hair soap, hair cleansing foam, hair oil, hair dryer, hair preservative, hair dye, hair wave agent, hair decolorant, hair gel, hair glaze, hair dressing, hair lacquer, hair moisturizer, hair mousse, and hair spray formulations.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="97"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="37" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="98"> -->
+<figure id="f0002" num="2"><img id="if0002" file="imgf0002.tif" wi="113" he="230" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="99"> -->
+<figure id="f0003" num="3"><img id="if0003" file="imgf0003.tif" wi="108" he="214" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="100"> -->
+<figure id="f0004" num="4"><img id="if0004" file="imgf0004.tif" wi="81" he="225" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="101"> -->
+<figure id="f0005" num="5"><img id="if0005" file="imgf0005.tif" wi="100" he="225" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="102"> -->
+<figure id="f0006" num="6"><img id="if0006" file="imgf0006.tif" wi="102" he="220" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="103"> -->
+<figure id="f0007" num="7"><img id="if0007" file="imgf0007.tif" wi="147" he="203" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="104"> -->
+<figure id="f0008" num="8"><img id="if0008" file="imgf0008.tif" wi="125" he="221" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="105"> -->
+<figure id="f0009" num="9"><img id="if0009" file="imgf0009.tif" wi="151" he="184" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="155" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="155" he="233" type="tif"/><doc-page id="srep0003" file="srep0003.tif" wi="155" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="KR883471"><document-id><country>KR</country><doc-number>883471</doc-number></document-id></patcit><crossref idref="pcit0001">[0014]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="KR1224828"><document-id><country>KR</country><doc-number>1224828</doc-number></document-id></patcit><crossref idref="pcit0002">[0014]</crossref><crossref idref="pcit0011">[0045]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="US20070141009A"><document-id><country>US</country><doc-number>20070141009</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0003">[0034]</crossref><crossref idref="pcit0004">[0038]</crossref><crossref idref="pcit0012">[0110]</crossref><crossref idref="pcit0013">[0110]</crossref><crossref idref="pcit0090">[0119]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="US5660985A"><document-id><country>US</country><doc-number>5660985</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0005">[0042]</crossref></li>
+<li><patcit id="ref-pcit0005" dnum="US5958691A"><document-id><country>US</country><doc-number>5958691</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0006">[0042]</crossref></li>
+<li><patcit id="ref-pcit0006" dnum="US6531584B"><document-id><country>US</country><doc-number>6531584</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0007">[0042]</crossref></li>
+<li><patcit id="ref-pcit0007" dnum="US5808023A"><document-id><country>US</country><doc-number>5808023</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0008">[0042]</crossref></li>
+<li><patcit id="ref-pcit0008" dnum="US6326358B"><document-id><country>US</country><doc-number>6326358</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0009">[0042]</crossref></li>
+<li><patcit id="ref-pcit0009" dnum="US6175001B"><document-id><country>US</country><doc-number>6175001</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0010">[0042]</crossref></li>
+<li><patcit id="ref-pcit0010" dnum="US20070141009A1"><document-id><country>US</country><doc-number>20070141009</doc-number><kind>A1</kind></document-id></patcit><crossref idref="pcit0014">[0110]</crossref><crossref idref="pcit0015">[0110]</crossref><crossref idref="pcit0016">[0110]</crossref><crossref idref="pcit0017">[0110]</crossref><crossref idref="pcit0018">[0110]</crossref><crossref idref="pcit0019">[0110]</crossref><crossref idref="pcit0020">[0110]</crossref><crossref idref="pcit0021">[0110]</crossref><crossref idref="pcit0022">[0110]</crossref><crossref idref="pcit0023">[0110]</crossref><crossref idref="pcit0024">[0110]</crossref><crossref idref="pcit0025">[0110]</crossref><crossref idref="pcit0026">[0110]</crossref><crossref idref="pcit0027">[0110]</crossref><crossref idref="pcit0028">[0110]</crossref><crossref idref="pcit0029">[0110]</crossref><crossref idref="pcit0030">[0110]</crossref><crossref idref="pcit0031">[0110]</crossref><crossref idref="pcit0032">[0110]</crossref><crossref idref="pcit0033">[0110]</crossref><crossref idref="pcit0034">[0110]</crossref><crossref idref="pcit0035">[0110]</crossref><crossref idref="pcit0036">[0110]</crossref><crossref idref="pcit0037">[0110]</crossref><crossref idref="pcit0038">[0110]</crossref><crossref idref="pcit0039">[0110]</crossref><crossref idref="pcit0040">[0110]</crossref><crossref idref="pcit0041">[0110]</crossref><crossref idref="pcit0042">[0110]</crossref><crossref idref="pcit0043">[0110]</crossref><crossref idref="pcit0044">[0110]</crossref><crossref idref="pcit0045">[0110]</crossref><crossref idref="pcit0046">[0110]</crossref><crossref idref="pcit0047">[0110]</crossref><crossref idref="pcit0048">[0110]</crossref><crossref idref="pcit0049">[0110]</crossref><crossref idref="pcit0050">[0110]</crossref><crossref idref="pcit0051">[0110]</crossref><crossref idref="pcit0052">[0110]</crossref><crossref idref="pcit0053">[0110]</crossref><crossref idref="pcit0054">[0110]</crossref><crossref idref="pcit0055">[0110]</crossref><crossref idref="pcit0056">[0110]</crossref><crossref idref="pcit0057">[0110]</crossref><crossref idref="pcit0058">[0110]</crossref><crossref idref="pcit0059">[0110]</crossref><crossref idref="pcit0060">[0110]</crossref><crossref idref="pcit0061">[0110]</crossref><crossref idref="pcit0062">[0110]</crossref><crossref idref="pcit0063">[0110]</crossref><crossref idref="pcit0064">[0110]</crossref><crossref idref="pcit0065">[0110]</crossref><crossref idref="pcit0066">[0110]</crossref><crossref idref="pcit0067">[0110]</crossref><crossref idref="pcit0068">[0110]</crossref><crossref idref="pcit0069">[0110]</crossref><crossref idref="pcit0070">[0110]</crossref><crossref idref="pcit0071">[0110]</crossref><crossref idref="pcit0072">[0110]</crossref><crossref idref="pcit0073">[0110]</crossref><crossref idref="pcit0074">[0110]</crossref><crossref idref="pcit0075">[0110]</crossref><crossref idref="pcit0076">[0110]</crossref><crossref idref="pcit0077">[0110]</crossref><crossref idref="pcit0078">[0110]</crossref><crossref idref="pcit0079">[0110]</crossref><crossref idref="pcit0080">[0110]</crossref><crossref idref="pcit0081">[0110]</crossref><crossref idref="pcit0082">[0110]</crossref><crossref idref="pcit0083">[0110]</crossref><crossref idref="pcit0084">[0110]</crossref><crossref idref="pcit0085">[0110]</crossref><crossref idref="pcit0086">[0110]</crossref><crossref idref="pcit0087">[0110]</crossref><crossref idref="pcit0088">[0110]</crossref><crossref idref="pcit0089">[0110]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="s"><article><author><name>DALLOB A.L. et al.</name></author><atl/><serial><sertitle>J. Clin. Endocrinol. Metab.</sertitle><pubdate><sdate>19940000</sdate><edate/></pubdate><vid>79</vid></serial><location><pp><ppf>703</ppf><ppl>709</ppl></pp></location></article></nplcit><crossref idref="ncit0001">[0003]</crossref></li>
+<li><nplcit id="ref-ncit0002" npl-type="s"><article><author><name>ELLSWORTH, K</name></author><author><name>HARRIS G.</name></author><atl/><serial><sertitle>Biochem. Biophys. Res. Commun.</sertitle><pubdate><sdate>19950000</sdate><edate/></pubdate><vid>215</vid></serial><location><pp><ppf>774</ppf><ppl>780</ppl></pp></location></article></nplcit><crossref idref="ncit0002">[0003]</crossref></li>
+<li><nplcit id="ref-ncit0003" npl-type="s"><article><author><name>KAUFMAN KD.</name></author><atl/><serial><sertitle>Mol and Cell Endocrinology</sertitle><pubdate><sdate>20020000</sdate><edate/></pubdate><vid>198</vid></serial><location><pp><ppf>85</ppf><ppl>89</ppl></pp></location></article></nplcit><crossref idref="ncit0003">[0003]</crossref></li>
+<li><nplcit id="ref-ncit0004" npl-type="s"><article><author><name>KAUFMAN KD.</name></author><atl/><serial><sertitle>Mol. and Cell. Endocrinology</sertitle><pubdate><sdate>20020000</sdate><edate/></pubdate><vid>198</vid></serial><location><pp><ppf>89</ppf><ppl>85</ppl></pp></location></article></nplcit><crossref idref="ncit0004">[0004]</crossref></li>
+<li><nplcit id="ref-ncit0005" npl-type="s"><article><author><name>NAITO et al.</name></author><atl/><serial><sertitle>Br. J. Dermatol.</sertitle><pubdate><sdate>20080000</sdate><edate/></pubdate><vid>159</vid></serial><location><pp><ppf>300</ppf><ppl>305</ppl></pp></location></article></nplcit><crossref idref="ncit0005">[0004]</crossref></li>
+<li><nplcit id="ref-ncit0006" npl-type="s"><article><atl>Silence of the transcripts: RNA interference in medicine</atl><serial><sertitle>J Mol Med</sertitle><pubdate><sdate>20050000</sdate><edate/></pubdate><vid>83</vid></serial><location><pp><ppf>764</ppf><ppl>773</ppl></pp></location></article></nplcit><crossref idref="ncit0006">[0008]</crossref></li>
+<li><nplcit id="ref-ncit0007" npl-type="s"><article><atl>NUCLEIC-ACID THERAPEUTICS: BASIC PRINCIPLES AND RECENT APPLICATIONS</atl><serial><sertitle>Nature Reviews Drug Discovery</sertitle><pubdate><sdate>20020000</sdate><edate/></pubdate><vid>1</vid></serial><location><pp><ppf>503</ppf><ppl>514</ppl></pp></location></article></nplcit><crossref idref="ncit0007">[0008]</crossref></li>
+<li><nplcit id="ref-ncit0008" npl-type="s"><article><atl>Comparison of antisense oligonucleotides and siRNAs in cell culture and in vivo</atl><serial><sertitle>Biochem. Biophys. Res. Commun.</sertitle><pubdate><sdate>20020000</sdate><edate/></pubdate><vid>296</vid></serial><location><pp><ppf>1000</ppf><ppl>1004</ppl></pp></location></article></nplcit><crossref idref="ncit0008">[0009]</crossref></li>
+<li><nplcit id="ref-ncit0009" npl-type="s"><article><atl>Progress Towards in Vivo Use of siRNAs</atl><serial><sertitle>MOLECULAR THERAPY</sertitle><pubdate><sdate>20060000</sdate><edate/></pubdate><vid>13</vid><ino>4</ino></serial><location><pp><ppf>664</ppf><ppl>670</ppl></pp></location></article></nplcit><crossref idref="ncit0009">[0009]</crossref></li>
+<li><nplcit id="ref-ncit0010" npl-type="s"><article><atl>Harnessing in vivo siRNA delivery for drug discovery and therapeutic development</atl><serial><sertitle>Drug Discov. Today</sertitle><pubdate><sdate>20060100</sdate><edate/></pubdate><vid>11</vid><ino>1-2</ino></serial><location><pp><ppf>67</ppf><ppl>73</ppl></pp></location></article></nplcit><crossref idref="ncit0010">[0010]</crossref></li>
+<li><nplcit id="ref-ncit0011" npl-type="s"><article><atl>Nonviral delivery of synthetic siRNAs in vivo</atl><serial><sertitle>J Clin Invest.</sertitle><pubdate><sdate>20071203</sdate><edate/></pubdate><vid>117</vid><ino>12</ino></serial><location><pp><ppf>3623</ppf><ppl>3632</ppl></pp></location></article></nplcit><crossref idref="ncit0011">[0012]</crossref></li>
+<li><nplcit id="ref-ncit0012" npl-type="s"><article><atl/><serial><sertitle>Proc. Natl. Acad. Sci.</sertitle><pubdate><sdate>19960000</sdate><edate/></pubdate><vid>93</vid><ino>21</ino></serial><location><pp><ppf>11493</ppf><ppl>8</ppl></pp></location></article></nplcit><crossref idref="ncit0012">[0013]</crossref></li>
+<li><nplcit id="ref-ncit0013" npl-type="s"><article><author><name>F. M. VERONESE</name></author><atl>Peptide and protein PEGylation: a review of problems and solutions</atl><serial><sertitle>Biomaterials</sertitle><pubdate><sdate>20010000</sdate><edate/></pubdate><vid>22</vid></serial><location><pp><ppf>405</ppf><ppl>417</ppl></pp></location></article></nplcit><crossref idref="ncit0013">[0015]</crossref></li>
+<li><nplcit id="ref-ncit0014" npl-type="s"><article><author><name>FRANCESCO M. VERONESE</name></author><author><name>GIANFRANCO PASUT</name></author><atl>PEGylation, successful approach to drug delivery</atl><serial><sertitle>DRUG DISCOVERY TODAY</sertitle><pubdate><sdate>20050000</sdate><edate/></pubdate><vid>10</vid><ino>21</ino></serial><location><pp><ppf>1451</ppf><ppl>1458</ppl></pp></location></article></nplcit><crossref idref="ncit0014">[0015]</crossref></li>
+<li><nplcit id="ref-ncit0015" npl-type="s"><article><atl/><serial><sertitle>Ann. Rev. Med.</sertitle><pubdate><sdate>20040000</sdate><edate/></pubdate><vid>55</vid></serial><location><pp><ppf>61</ppf><ppl>65</ppl></pp></location></article></nplcit><crossref idref="ncit0015">[0042]</crossref></li>
+<li><nplcit id="ref-ncit0016" npl-type="s"><article><atl/><serial><sertitle>Bioorg. Med. Chem. Lett.</sertitle><pubdate><sdate>20030000</sdate><edate/></pubdate><vid>14</vid></serial><location><pp><ppf>1139</ppf><ppl>1143</ppl></pp></location></article></nplcit><crossref idref="ncit0016">[0042]</crossref></li>
+<li><nplcit id="ref-ncit0017" npl-type="s"><article><atl/><serial><sertitle>RNA</sertitle><pubdate><sdate>20030000</sdate><edate/></pubdate><vid>9</vid></serial><location><pp><ppf>1034</ppf><ppl>1048</ppl></pp></location></article></nplcit><crossref idref="ncit0017">[0042]</crossref></li>
+<li><nplcit id="ref-ncit0018" npl-type="s"><article><atl/><serial><sertitle>Nucleic Acid Res.</sertitle><pubdate><sdate>20030000</sdate><edate/></pubdate><vid>31</vid></serial><location><pp><ppf>589</ppf><ppl>595</ppl></pp></location></article></nplcit><crossref idref="ncit0018">[0042]</crossref></li>
+<li><nplcit id="ref-ncit0019" npl-type="s"><article><atl/><serial><sertitle>Nucleic Acids Research</sertitle><pubdate><sdate>20100000</sdate><edate/></pubdate><vid>38</vid><ino>17</ino></serial><location><pp><ppf>5761</ppf><ppl>5773</ppl></pp></location></article></nplcit><crossref idref="ncit0019">[0042]</crossref></li>
+<li><nplcit id="ref-ncit0020" npl-type="s"><article><atl/><serial><sertitle>Nucleic Acids Research</sertitle><pubdate><sdate>20110000</sdate><edate/></pubdate><vid>39</vid><ino>5</ino></serial><location><pp><ppf>1823</ppf><ppl>1832</ppl></pp></location></article></nplcit><crossref idref="ncit0020">[0042]</crossref></li>
+<li><nplcit id="ref-ncit0021" npl-type="s"><article><atl>Gene transfer and expression inhibition using polymer-based hybrid materials</atl><serial><sertitle>Polymer Sci. Technol.</sertitle><vid>23</vid><ino>3</ino></serial><location><pp><ppf>254</ppf><ppl>259</ppl></pp></location></article></nplcit><crossref idref="ncit0021">[0071]</crossref></li>
+<li><nplcit id="ref-ncit0022" npl-type="s"><article><atl>Novel histidine-conjugated galactosylated cationic liposomes for efficient hepatocyte selective gene transfer in human hepatoma HepG2 cells</atl><serial><sertitle>J. Controlled Release</sertitle><vid>118</vid></serial><location><pp><ppf>262</ppf><ppl>270</ppl></pp></location></article></nplcit><crossref idref="ncit0022">[0071]</crossref></li>
+<li><nplcit id="ref-ncit0023" npl-type="b"><article><atl/><book><book-title>Remington's Pharmaceutical Science</book-title><imprint><name>Mack Publishing Company</name></imprint></book></article></nplcit><crossref idref="ncit0023">[0098]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

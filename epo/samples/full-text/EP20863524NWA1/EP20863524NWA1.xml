@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP20863524A1" file="EP20863524NWA1.xml" lang="en" country="EP" doc-number="3889193" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  1100000/0</B007EP></eptags></B000><B100><B110>3889193</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>20863524.3</B210><B220><date>20200911</date></B220><B240><B241><date>20210702</date></B241></B240><B250>ko</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>20190113004</B310><B320><date>20190911</date></B320><B330><ctry>KR</ctry></B330><B310>20200116392</B310><B320><date>20200910</date></B320><B330><ctry>KR</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20211006</date><bnum>202140</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>C08F 236/04        20060101AFI20210319BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C08F 236/10        20060101ALI20210319BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>C08F 236/12        20060101ALI20210319BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>C08F   8/42        20060101ALI20210319BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>C08F   8/30        20060101ALI20210319BHEP        </text></classification-ipcr><classification-ipcr sequence="6"><text>C08F   8/08        20060101ALI20210319BHEP        </text></classification-ipcr><classification-ipcr sequence="7"><text>C08K   5/3492      20060101ALI20210319BHEP        </text></classification-ipcr><classification-ipcr sequence="8"><text>C08K   5/544       20060101ALI20210319BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>C08F 236/10        20130101 LI20210413BCEP        </text></classification-cpc><classification-cpc sequence="2"><text>C08F 236/04        20130101 LI20210413BCEP        </text></classification-cpc><classification-cpc sequence="3"><text>C08F   8/30        20130101 LI20210413BCEP        </text></classification-cpc><classification-cpc sequence="4"><text>C08K   5/3492      20130101 LI20210413BCEP        </text></classification-cpc><classification-cpc sequence="5"><text>C08F   8/42        20130101 LI20210413BCEP        </text></classification-cpc><classification-cpc sequence="6"><text>C08F   8/08        20130101 LI20210413BCEP        </text></classification-cpc><classification-cpc sequence="7"><text>C08K   5/544       20130101 LI20210413BCEP        </text></classification-cpc><classification-cpc sequence="8"><text>C08F 236/12        20130101 LI20210413BCEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>MODIFIZIERTES KONJUGIERTES DIENBASIERTES POLYMER, VERFAHREN ZUR HERSTELLUNG DAVON UND KAUTSCHUKZUSAMMENSETZUNG DAMIT</B542><B541>en</B541><B542>MODIFIED CONJUGATED DIENE-BASED POLYMER, METHOD FOR PRODUCING SAME, AND RUBBER COMPOSITION COMPRISING SAME</B542><B541>fr</B541><B542>POLYMÈRE À BASE DE DIÈNE CONJUGUÉ MODIFIÉ, SON PROCÉDÉ DE PRODUCTION ET COMPOSITION DE CAOUTCHOUC LE COMPRENANT</B542></B540></B500><B700><B710><B711><snm>LG Chem, Ltd.</snm><iid>101886670</iid><irf>APD/B21101371EP/MVO</irf><adr><str>128, Yeoui-daero, 
+Yeongdeungpo-gu,</str><city>Seoul 07336,</city><ctry>KR</ctry></adr></B711></B710><B720><B721><snm>OH, Jung Hwan</snm><adr><str>LG Chem Research Park, 188, Munji-ro Yuseong-gu</str><city>Daejeon 34122</city><ctry>KR</ctry></adr></B721><B721><snm>YOO, Suk Joon</snm><adr><str>LG Chem Research Park, 188, Munji-ro Yuseong-gu</str><city>Daejeon 34122</city><ctry>KR</ctry></adr></B721><B721><snm>LEE, He Seung</snm><adr><str>LG Chem Research Park, 188, Munji-ro Yuseong-gu</str><city>Daejeon 34122</city><ctry>KR</ctry></adr></B721><B721><snm>CHOI, Jae Sun</snm><adr><str>LG Chem Research Park, 188, Munji-ro Yuseong-gu</str><city>Daejeon 34122</city><ctry>KR</ctry></adr></B721></B720><B740><B741><snm>Plasseraud IP</snm><iid>101568050</iid><adr><str>66, rue de la Chaussée d'Antin</str><city>75440 Paris Cedex 09</city><ctry>FR</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>KR2020012316</anum></dnum><date>20200911</date></B861><B862>ko</B862></B860><B870><B871><dnum><pnum>WO2021049909</pnum></dnum><date>20210318</date><bnum>202111</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">The present invention relates to a modified conjugated diene-based polymer having excellent processability and good tensile strength and viscoelasticity, and a rubber composition including the same, and provides a modified conjugated diene-based polymer including a Si atom and a N atom, and having the N content of 150 ppm or more on the basis of a weight and the rate of change of mooney viscosity (MV<sub>R</sub>) of 20% or less.</p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001"><b><u>TECHNICAL FIELD</u></b></heading>
+<heading id="h0002"><b>[Cross-reference to Related Applications]</b></heading>
+<p id="p0001" num="0001">The present application claims the benefit of priority based on <patcit id="pcit0001" dnum="KR1020190113004"><text>Korean Patent Application No. 10-2019-0113004, filed on September 11, 2019</text></patcit>, and <patcit id="pcit0002" dnum="KR1020200116392"><text>Korean Patent Application No. 10-2020-0116392, filed on September 10, 2020</text></patcit>, the entire contents of which are incorporated herein by reference.</p>
+<heading id="h0003"><b>[Technical Field]</b></heading>
+<p id="p0002" num="0002">The present invention relates to a modified conjugated diene-based polymer which has excellent processability and good tensile strength and viscoelasticity properties, a method for preparing the same and a rubber composition including the same.</p>
+<heading id="h0004"><b><u>BACKGROUND ART</u></b></heading>
+<p id="p0003" num="0003">According to the recent demand for cars having a low fuel consumption ratio, a conjugated diene-based polymer having modulational stability represented by wet skid resistance as well as low rotation resistance, and excellent abrasion resistance and tensile properties is required as a<!-- EPO <DP n="2"> --> rubber material for tires.</p>
+<p id="p0004" num="0004">In order to reduce the rotation resistance of tires, there is a method of reducing hysteresis loss of vulcanized rubber, and rebound resilience at 50°C to 80°C, tan δ, Goodrich heating, or the like is used as an evaluation index of the vulcanized rubber. That is, it is desirable to use a rubber material having high rebound resilience at the above temperature or a low tan δ value or Goodrich heating.</p>
+<p id="p0005" num="0005">Natural rubbers, polyisoprene rubbers, or polybutadiene rubbers are known as rubber materials having low hysteresis loss, but these rubbers have a limitation of low wet skid resistance. Thus, recently, conjugated diene-based polymers or copolymers such as styrene-butadiene rubbers (hereinafter, referred to as "SBR") and butadiene rubbers (hereinafter, referred to as "BR"), are prepared by emulsion polymerization or solution polymerization to be used as rubbers for tires. Among these polymerization methods, the greatest advantage of the solution polymerization in comparison to the emulsion polymerization is that the vinyl structure content and the styrene content, which specify physical properties of the rubber, may be arbitrarily adjusted and its molecular weight and physical properties may be controlled by coupling or modification. Thus, the SBR prepared by the solution polymerization is widely used as a rubber material for tires because it is easy to change a structure of the finally<!-- EPO <DP n="3"> --> prepared SBR or BR, and movement of chain terminals may be reduced and a coupling force with a filler such as silica and carbon black may be increased by coupling or modification of the chain terminals.</p>
+<p id="p0006" num="0006">If the solution-polymerized SBR is used as the rubber material for tires, since a glass transition temperature of the rubber is increased by increasing the vinyl content in the SBR, physical properties such as rotation resistance and braking force, required for tires may be controlled, and fuel consumption may be reduced by appropriately adjusting the glass transition temperature. The solution-polymerized SBR is prepared by using an anionic polymerization initiator and is being used by coupling or modifying the chain terminals of the polymer thus formed to introduce a functional group at the terminal using various modifiers. For example, <patcit id="pcit0003" dnum="US4397994A"><text>U.S. Patent No. 4,397,994</text></patcit> discloses a method of coupling active anions of the chain terminals of a polymer obtained by polymerizing styrene-butadiene using alkyllithium which is a monofunctional initiator in a non-polar solvent, using a coupling agent such as a tin compound.</p>
+<p id="p0007" num="0007">Meanwhile, as the modifier for introducing the functional group to the chain terminal of a polymer, technique of applying an aminoalkoxysilane-based modifier including an alkoxysilane group and an amine group in a molecule at the same time for maximizing the dispersibility and reactivity of<!-- EPO <DP n="4"> --> a filler is widely known. However, if the number of the amine groups in the modifier increases, there are problems in that the solubility in a hydrocarbon solvent used for preparing a polymer may decrease, and easy modification reaction may become difficult.</p>
+<heading id="h0005">[Prior Art Document]</heading>
+<p id="p0008" num="0008">(Patent Document 1) <patcit id="pcit0004" dnum="US4397994A"><text>US4397994 A</text></patcit></p>
+<heading id="h0006"><b><u>DISCLOSURE OF THE INVENTION</u></b></heading>
+<heading id="h0007"><b><u>TECHNICAL PROBLEM</u></b></heading>
+<p id="p0009" num="0009">The present invention has been devised to solve the above-mentioned problems of the conventional technique, and an object is to provide a modified conjugated diene-based polymer including a Si atom and a N atom, and satisfying conditions a) and b) at the same time, thereby showing excellent affinity with a filler.</p>
+<p id="p0010" num="0010">In addition, an object of the present invention is to provide a method for preparing a modified conjugated diene-based polymer satisfying conditions a) and b) at the same time, including a step of reacting with a macromonomer including a repeating unit derived from an N-functional group-containing monomer after modification reaction.</p>
+<p id="p0011" num="0011">Also, the present invention provides a rubber composition including the modified conjugated diene-based polymer.<!-- EPO <DP n="5"> --></p>
+<heading id="h0008"><b><u>TECHNICAL SOLUTION</u></b></heading>
+<p id="p0012" num="0012">To solve the above-described tasks, according to an embodiment of the present invention, the present invention provides a modified conjugated diene-based polymer including a Si atom and a N atom, and satisfying the following conditions a) and b) :
+<ol id="ol0001" compact="compact" ol-style="">
+<li>a) the N content in a polymer according to NSX analysis is 150 ppm or more on the basis of a weight; and</li>
+<li>b) the rate of change of mooney viscosity (MV<sub>R</sub>) according to the following Mathematical Formula 1 is 20% or less: <maths id="math0001" num="[Mathematical Formula 1]"><math display="block"><msub><mi>MV</mi><mi mathvariant="normal">R</mi></msub><mo>=</mo><mfenced open="[" close="]" separators=""><mfenced separators=""><msub><mi>MV</mi><mi mathvariant="normal">f</mi></msub><mo>−</mo><msub><mi>MV</mi><mi mathvariant="normal">i</mi></msub></mfenced><mo>/</mo><msub><mi>MV</mi><mi mathvariant="normal">i</mi></msub></mfenced><mo>×</mo><mn>100</mn></math><img id="ib0001" file="imgb0001.tif" wi="72" he="14" img-content="math" img-format="tif"/></maths><br/>
+in Mathematical Formula 1, MV<sub>R</sub> is the rate of change of mooney viscosity, MV<sub>f</sub> is mooney viscosity at 100°C after standing the polymer at 25°C for 30 days, and MVi is initial mooney viscosity of the polymer at 100°C.</li>
+</ol></p>
+<p id="p0013" num="0013">In addition, the present invention provides a method for preparing the modified conjugated diene-based polymer including: polymerizing a conjugated diene-based monomer, or a conjugated diene-based monomer and an aromatic vinyl-based monomer in the presence of a polymerization initiator in a hydrocarbon solvent to prepare an active first chain (S1);<!-- EPO <DP n="6"> --> reacting the active first chain with an alkoxysilane-based compound to prepare a modified active first chain (S2); and reacting the modified active first chain and a second chain including a repeating unit derived from an N-functional group-containing monomer (S3).</p>
+<p id="p0014" num="0014">Also, the present invention provides a rubber composition including the modified conjugated diene-based polymer and a filler.</p>
+<heading id="h0009"><b><u>ADVANTAGEOUS EFFECTS</u></b></heading>
+<p id="p0015" num="0015">The modified conjugated diene-based polymer according to the present invention includes a Si atom and a N atom in a molecule, and satisfies the conditions in that the N content is 150 ppm or more based on the total weight of the polymer, and the rate of change of mooney viscosity according to Mathematical Formula 1 is 20% or less at the same time, thereby showing excellent affinity with a filler and excellent mechanical properties.</p>
+<p id="p0016" num="0016">In addition, the method for preparing a modified conjugated diene-based polymer according to the present invention includes a step of reacting a macromonomer including an N-functional group-containing monomer with a modified active first chain after modification reaction, and a modified conjugated diene-based polymer with the above-described N content and rate of change of mooney viscosity may be prepared.<!-- EPO <DP n="7"> --></p>
+<p id="p0017" num="0017">Also, the rubber composition according to the present invention includes the modified conjugated diene-based polymer and may show excellent effects of processability as well as tensile properties and viscoelasticity properties.</p>
+<heading id="h0010"><b><u>BEST MODE FOR CARRYING OUT THE INVENTION</u></b></heading>
+<p id="p0018" num="0018">Hereinafter, the present invention will be described in more detail in order to assist the understanding of the present invention.</p>
+<p id="p0019" num="0019">It will be understood that words or terms used in the description and claims of the present invention shall not be interpreted as the meaning defined in commonly used dictionaries, and the words or terms should be interpreted as having a meaning that is consistent with their meaning of the technical idea of the invention, based on the principle that an inventor may properly define the meaning of the words or terms to best explain the invention.</p>
+<heading id="h0011"><b><u>Terms</u></b></heading>
+<p id="p0020" num="0020">The term "macromonomer" used in the present disclosure is a monomer unit of two or more repeating units derived from a polymerization reactive monomer, and may be combined with a polymer chain or a reactive compound through a terminal group.</p>
+<p id="p0021" num="0021">The term "polymer" used in the present disclosure refers to a polymer compound prepared by polymerizing monomers<!-- EPO <DP n="8"> --> of the same or different type. Thus, the common term, polymer refers to a polymer prepared from one type of a monomer, but includes a commonly used homopolymer and a copolymer.</p>
+<p id="p0022" num="0022">The term "first chain" used in the present disclosure may mean the molecular chain of a main skeleton forming a polymer, and may mean a chain mainly including repeating units of a conjugated diene-based monomer, or a conjugated diene-based monomer and an aromatic vinyl-based monomer, and the term "second chain" may mean a chain having a smaller number of repeating units than the first chain and mainly including the repeating unit of an N-functional group-containing monomer.</p>
+<p id="p0023" num="0023">The term "vinyl content" used in the present disclosure refers to the mass (or weight) percent of butadiene included in 1 and 2 positions in a polymer chain on the basis of a conjugated diene monomer (butadiene, etc.) moiety in the polymer (on the basis of the total weight of polymerized butadiene).</p>
+<p id="p0024" num="0024">The term "monovalent hydrocarbon group" used in the present disclosure may mean a monovalent atomic group obtained by bonding carbon and hydrogen, in a monovalent alkyl group, alkenyl group, alkynyl group, cycloalkyl group, cycloalkyl group including one or more unsaturated bonds, and aryl group. The minimum carbon number of a substituent represented by the monovalent hydrocarbon may be determined according to the type of each substituent.<!-- EPO <DP n="9"> --></p>
+<p id="p0025" num="0025">The term "divalent hydrocarbon group" used in the present disclosure may mean a divalent atomic group obtained by bonding carbon and hydrogen, in a divalent alkylene group, alkenylene group, alkynylene group, cycloalkylene group, cycloalkylene group including one or more unsaturated bonds and arylene group. The minimum carbon number of a substituent represented by the divalent hydrocarbon may be determined according to the type of each substituent.</p>
+<p id="p0026" num="0026">The term "alkyl group" used in the present disclosure may mean monovalent aliphatic saturated hydrocarbon, and may include a linear alkyl group such as methyl, ethyl, propyl and butyl; and a branched alkyl group such as isopropyl, sec-butyl, tert-butyl and neo-pentyl.</p>
+<p id="p0027" num="0027">The term "alkenyl group" used in the present disclosure may mean a monovalent aliphatic unsaturated hydrocarbon including one or two or more double bonds.</p>
+<p id="p0028" num="0028">The term "alkynyl group" used in the present disclosure may mean a monovalent aliphatic unsaturated hydrocarbon including one or two or more triple bonds.</p>
+<p id="p0029" num="0029">The term "alkylene group" used in the present disclosure may mean divalent aliphatic saturated hydrocarbon such as methylene, ethylene, propylene and butylene.</p>
+<p id="p0030" num="0030">The term "aryl group" used in the present disclosure may mean aromatic hydrocarbon, and may include both monocyclic aromatic hydrocarbon in which one ring is formed, and<!-- EPO <DP n="10"> --> polycyclic aromatic hydrocarbon in which two or more rings are bonded.</p>
+<p id="p0031" num="0031">The term "heterocyclic group" used in the present disclosure is a cycloalkyl group or aryl group in which carbon atoms are substituted with one or more heteroatoms, for example, may include both a heterocycloalkyl group and a heteroaryl group.</p>
+<p id="p0032" num="0032">The term "substituted" used in the present disclosure may mean that the hydrogen of a functional group, an atomic group or a compound is substituted with a specific substituent. If the hydrogen of a functional group, an atomic group or a compound is substituted with a specific substituent, one or a plurality including two or more of substituents may be present according to the number of hydrogen present in the functional group, the atomic group or the compound, and if a plurality of substituents are present, each substituent may be the same or different.</p>
+<p id="p0033" num="0033">The term "single bond" used in the present disclosure may mean a single covalent bond itself excluding a separate atomic or molecular group.</p>
+<p id="p0034" num="0034">The term "derived unit", "derived repeating unit" and "derived functional group" used in the present disclosure may represent a component or a structure comes from a certain material, or the material itself.</p>
+<p id="p0035" num="0035">It will be further understood that the terms<!-- EPO <DP n="11"> --> "comprising", "including", and "having" and the derivatives thereof in the present disclosure, though these terms are particularly disclosed or not, do not preclude the presence or addition of optional components, steps, or processes. In order to avoid any uncertainty, all components claimed by using the term "comprising" may include additional additives, auxiliaries, or compounds, including a polymer or other materials, unless described to the contrary. In contrast, the term "consisting essentially of ~" excludes unnecessary ones for operation and precludes optional other components, steps or processes from the scope of optional explanation. The term "consisting of ~" precludes optional components, steps or processes, which are not particularly described or illustrated.</p>
+<heading id="h0012"><b><u>Measurement methods and conditions</u></b></heading>
+<p id="p0036" num="0036">In the present disclosure, the "vinyl content" is measured and analyzed using Varian VNMRS 500 MHz NMR, and the 1,2-vinyl bond content in a total polymer is calculated and measured by using 1,1,2,2-tetrachloroethane as a solvent during measuring NMR, and calculating 6.0 ppm as a solvent peak, 7.2-6.9 ppm as random styrene peaks, 6.9-6.2 ppm as block styrene peaks, 5.8-5.1 ppm as 1,4-vinyl and 1,2-vinyl peaks, and 5.1-4.5 ppm as 1,2-vinyl peaks.</p>
+<p id="p0037" num="0037">In the present disclosure, "weight average molecular weight (Mw)", "number average molecular weight (Mn)", and<!-- EPO <DP n="12"> --> "molecular weight distribution (MWD)" are measured through gel permeation chromatography (GPC) analysis and are measured by checking a molecular weight distribution curve. The molecular weight distribution (PDI, MWD, Mw/Mn) is calculated from each molecular weight measured. Particularly, the GPC uses two columns of PLgel Olexis (Polymer laboratories Co.) and one column of PLgel mixed-C (Polymer Laboratories Co.) in combination, and polystyrene (PS) is used as a GPC standard material for calculating the molecular weights, and tetrahydrofuran mixed with 2 wt% of an amine compound is used as a GPC measurement solvent.</p>
+<p id="p0038" num="0038">In the present disclosure, the "N content" may be measured, for example, through an NSX analysis method, and measurement by the NSX analysis method may use a quantitative analyzer of a trace amount of nitrogen (NSX-2100H). For example, in case of using the quantitative analyzer of a trace amount of nitrogen, the quantitative analyzer of a trace amount of nitrogen (Auto sampler, Horizontal furnace, PMT &amp; Nitrogen detector) is turned on, carrier gas flow amounts are set to 250 ml/min for Ar, 350 ml/min for O<sub>2</sub>, and 300 ml/min for ozonizer, a heater is set to 800°C, and the analyzer is stood for about 3 hours for stabilization. After stabilizing the analyzer, a calibration curve of calibration curve ranges of 5 ppm, 10 ppm, 50 ppm, 100 ppm and 500 ppm is made using Nitrogen standard (AccuStandard S-22750-01-5 ml), and an area<!-- EPO <DP n="13"> --> corresponding to each concentration is obtained. Then, by using the ratios of concentrations to areas, a straight line is made. After that, a ceramic boat holding 20 mg of a specimen is put in the auto sampler of the analyzer and measurement is conducted to obtain an area. By using the area of the specimen thus obtained and the calibration curve, the N content is calculated. In this case, the specimen is a modified conjugated diene-based polymer from which solvents are removed by putting the specimen in hot water heated by steam and stirring, and may be a specimen from which remaining monomers, remaining modifiers and oil are removed.</p>
+<p id="p0039" num="0039">In the present disclosure, the "Si content" is measured using an inductively coupled plasma optical emission spectroscopy (ICP-OES; Optima 7300DV) as an ICP analysis method. Particularly, measurement is performed by adding about 0.7 g of a specimen to a platinum (Pt) crucible, adding about 1 mL of concentrated sulfuric acid (98 wt%, electronic grade) thereto, heating at 300°C for 3 hours, incinerating the specimen in an electrical furnace (Thermo Scientific, Lindberg Blue M) by the following program of steps 1 to 3:
+<ol id="ol0002" compact="compact" ol-style="">
+<li>1) step 1: initial temp 0°C, rate (temp/hr) 180°C/hr, temp (holdtime) 180°C (1hr),</li>
+<li>2) step 2: initial temp 180°C, rate (temp/hr) 85°C/hr, temp (holdtime) 370°C (2hr), and</li>
+<li>3) step 3: initial temp 370°C, rate (temp/hr) 47°C/hr,<!-- EPO <DP n="14"> --> temp (holdtime) 510°C (3hr),</li>
+</ol>
+adding 1 mL of concentrated nitric acid (48 wt%) and 20 µl of concentrated hydrofluoric acid (50 wt%) to a residue, sealing the platinum crucible and shaking for 30 minutes or more, adding 1 mL of boric acid to the specimen, storing at 0°C for 2 hours or more, diluting in 30 ml of ultrapure water, and performing incineration.</p>
+<heading id="h0013"><b><u>Modified conjugated diene-based polymer</u></b></heading>
+<p id="p0040" num="0040">The present invention provides a modified conjugated diene-based polymer having excellent affinity with a filler, and as a result, capable of providing a rubber composition having excellent processability, tensile properties and viscoelasticity properties.</p>
+<p id="p0041" num="0041">The modified conjugated diene-based polymer according to an embodiment of the present invention is characterized in including a Si atom and a N atom and satisfying conditions a) and b) below.
+<ol id="ol0003" compact="compact" ol-style="">
+<li>a) the N content in a polymer according to NSX analysis is 150 ppm or more on the basis of a weight; and</li>
+<li>b) the rate of change of mooney viscosity (MV<sub>R</sub>) according to the following Mathematical Formula 1 is 20% or less: <maths id="math0002" num="[Mathematical Formula 1]"><math display="block"><msub><mi>MV</mi><mi mathvariant="normal">R</mi></msub><mo>=</mo><mfenced open="[" close="]" separators=""><mfenced separators=""><msub><mi>MV</mi><mi mathvariant="normal">f</mi></msub><mo>−</mo><msub><mi>MV</mi><mi mathvariant="normal">i</mi></msub></mfenced><mo>/</mo><msub><mi>MV</mi><mi mathvariant="normal">i</mi></msub></mfenced><mo>×</mo><mn>100</mn></math><img id="ib0002" file="imgb0002.tif" wi="72" he="14" img-content="math" img-format="tif"/></maths><br/>
+<!-- EPO <DP n="15"> -->in Mathematical Formula 1, MV<sub>R</sub> is the rate of change of mooney viscosity, MV<sub>f</sub> is mooney viscosity at 100°C after standing the polymer at 25°C for 30 days, and MVi is initial mooney viscosity of the polymer at 100°C.</li>
+</ol></p>
+<p id="p0042" num="0042">In addition, the modified conjugated diene-based polymer according to an embodiment of the present invention is characterized in including a first chain including a repeating unit derived from a conjugated diene-based monomer; a second chain including a repeating unit derived from an N-functional group-containing monomer; and a derived unit from an alkoxysilane-based compound.</p>
+<p id="p0043" num="0043">The modified conjugated diene-based polymer according to an embodiment of the present invention may be prepared by a preparation method, which will be explained later, including a step of reacting a macromonomer including a repeating unit derived from an N-functional group-containing monomer with a modified active first chain after modification reaction, and through this, may have a structure like a type of a graft copolymer including a polymer first chain including a repeating unit derived from a conjugated diene-based monomer, and an N-functional group affluent second chain which is bonded to a derived unit from an alkoxysilane-based compound which is bonded to at least one terminal of the first chain.</p>
+<p id="p0044" num="0044">As described above, if all functional groups are<!-- EPO <DP n="16"> --> intensively distributed at one terminal of the modified conjugated diene-based polymer and make interaction with silica, only one terminal of the polymer may be coupled with silica, and the other terminal may be in a free state, and accordingly, similar to the conventional modified polymer at a single terminal, effects on the dispersibility of a filler and the prevention of flocculation may be excellent, and processability may be markedly improved. In addition, at one terminal coupled with a functional group, the repeating unit derived from an N-functional group-containing monomer and a derived unit from a modifier are included, and effects by the interaction with a filler may be achieved to the equal or better level as the conventional modified polymer at both terminals, and thus, tensile properties and viscoelasticity properties may be excellent.</p>
+<p id="p0045" num="0045">In addition, generally, a residual group derived from a modifier, for example, an alkoxy group (-OR, where R is a hydrocarbon group) or a hydroxyl group (-OH) is present in a modified conjugated diene-based polymer, and as time goes by, condensation reaction, hydrolysis reaction, etc. may arise from the residual group, and storage stability may be deteriorated, mooney viscosity may increase, molecular weight distribution may increase, and the excellence of the compounding properties of the modified conjugated diene-based<!-- EPO <DP n="17"> --> polymer may not be maintained, and thus, if used in a rubber composition, there are problems in not achieving desired properties. However, since the modified conjugated diene-based polymer according to an embodiment of the present invention is prepared by a preparation method, which will be explained later, a structure in which the second chain derived from a macromonomer is bonded to an alkoxy group which is a residual group derived from a modifier present in a polymer may be obtained, and as a result, the residual group derived from a modifier may not be present in the polymer or may be reduced in contrast to the conventional preparation method.</p>
+<p id="p0046" num="0046">In addition, the modified conjugated diene-based polymer according to an embodiment of the present invention is prepared by the preparation method, which will be explained later, and may have advantages of introducing more functional groups than a case of using only a modifier having lots of functional groups. Particularly, in view of the active polymer and the alkoxy group of the modifier, the coupling of one molecule of the modifier with two or more polymer chains is difficult due to the steric hindrance of the polymer, and though three or more chains may be coupled, a modified polymer in which three or more chains are coupled must be a little. However, according to the preparation method of the present invention, irrespective of the steric hindrance, to the alkoxy residual group of the modifier which is coupled with the<!-- EPO <DP n="18"> --> polymer chain, the second chain derived from a macromonomer may be coupled, and more functional groups may be introduced into the polymer chain.</p>
+<p id="p0047" num="0047">That is, there are limitations in introducing functional groups in one molecule of the modifier, and though no matter how many functional groups are introduced, there is difference in the absolute amount of the functional group when compared with a case of coupling a chain including a functional group with an alkoxy residual group without any influence by steric hindrance as in the present invention.</p>
+<p id="p0048" num="0048">Accordingly, the modified conjugated diene-based polymer according to the present invention has excellent storage stability as time goes by and may maintain excellent compounding properties constantly at the initiation of preparation or after the passage of time, and may have excellent tensile properties and viscoelasticity properties in contrast to the conventional modified polymer at a single terminal.</p>
+<heading id="h0014"><i><u>Main parameters of modified conjugated diene-based polymer</u></i></heading>
+<p id="p0049" num="0049">According to an embodiment of the present invention, the modified conjugated diene-based polymer includes a Si atom in a molecule, has the Si content in a polymer according to ICP analysis of 50 ppm or more, preferably, 100 ppm or more,<!-- EPO <DP n="19"> --> more preferably, 180 ppm or more on the basis of the total weight of the polymer.</p>
+<p id="p0050" num="0050">In the Si content, Si derived from a modifier which is an alkoxysilane-based compound may be the main content, and Si may be additionally derived from an N-functional group-containing monomer other than that derived from the modifier. The Si content allows the expectation of increase of the functional groups present in the modified conjugated diene-based polymer, i.e., the improvement of affinity with a filler, and may become an important factor as well as the improvement of processability.</p>
+<p id="p0051" num="0051">According to an embodiment of the present invention, the modified conjugated diene-based polymer may have the N content in a polymer according to NSX analysis of 150 ppm or more, preferably, 160 ppm or more, more preferably, 170 ppm or more on the basis of the total weight of the polymer. The modified conjugated diene-based polymer is prepared by a preparation method, which will be explained later, so that N-functional groups may present repeatedly, and may have relatively high content of N atoms. Since a structure in which the N-functional group is bonded to a first chain and a derived unit from an alkoxysilane-based compound which is bonded to at least one terminal of the first chain, and affinity with a filler, for example, silica and dispersibility may be markedly improved during a compounding process, and viscoelasticity<!-- EPO <DP n="20"> --> properties may be excellent, and at the same time, processability may be markedly improved.</p>
+<p id="p0052" num="0052">In addition, due to such high content of N atoms, the modified conjugated diene-based polymer according to an embodiment of the present invention may further satisfy the conditions of d) the molar ratio (N/Si) of N atoms and Si atoms of 0.75 or more. Generally, in case of the polymer modified by a modifier, a Si atom and a N atom may be contained due to a modification polymerization initiator, a modification monomer, etc., but as described above, in case of the polymer according to an embodiment of the present invention, the N-functional group-containing monomer is included as a repeating unit, and the N content may be relatively high, and as symbolic meaning thereby, the molar ratio of the N atoms and Si atoms may be 0.75 or more, preferably, 0.77 or more, or 0.78 or more, more preferably, 0.8 or more, and optimally 0.9 or more. Through this, improving effects of processability according to the improvement of dispersibility during compounding may be optimized.</p>
+<p id="p0053" num="0053">According to an embodiment of the present invention, the modified conjugated diene-based polymer has the rate of change of mooney viscosity (MV<sub>R</sub>) according to Mathematical Formula 1 below of 20% or less. <maths id="math0003" num="[Mathematical Formula 1]"><math display="block"><msub><mi>MV</mi><mi mathvariant="normal">R</mi></msub><mo>=</mo><mfenced open="[" close="]" separators=""><mfenced separators=""><msub><mi>MV</mi><mi mathvariant="normal">f</mi></msub><mo>−</mo><msub><mi>MV</mi><mi mathvariant="normal">i</mi></msub></mfenced><mo>/</mo><msub><mi>MV</mi><mi mathvariant="normal">i</mi></msub></mfenced><mo>×</mo><mn>100</mn></math><img id="ib0003" file="imgb0003.tif" wi="72" he="14" img-content="math" img-format="tif"/></maths><!-- EPO <DP n="21"> --></p>
+<p id="p0054" num="0054">In Mathematical Formula 1, MV<sub>R</sub> is the rate of change of mooney viscosity, MV<sub>f</sub> is mooney viscosity at 100°C after standing the polymer at 25°C for 30 days, and MVi is initial mooney viscosity of the polymer at 100°C.</p>
+<p id="p0055" num="0055">The rate of change of mooney viscosity may be an index of recognizing the increase of the mooney viscosity generated during storage after preparation as well as processability, and the polymer according to the present invention may have improved processability, furthermore, excellent storage stability due to the low rate of change of mooney viscosity even though storing for a long time, due to the structural characteristics with specific bonding structure of the second chain including the N-functional group-containing monomer, an alkoxysilane-based compound and the first chain of the polymer.</p>
+<p id="p0056" num="0056">The rate of change of mooney viscosity is the rate of change between the initial mooney viscosity of a polymer and the mooney viscosity of the polymer after storing for 30 days at room temperature, and in the present invention, a polymer with 20% or less, preferably, 15% or less is provided. Here, the mooney viscosity is mooney viscosity at 100°C, and may be measured by a common method applied in this technical field.</p>
+<heading id="h0015"><i><u>First chain including repeating unit derived from conjugated diene-based monomer</u></i></heading>
+<p id="p0057" num="0057">According to an embodiment of the present invention,<!-- EPO <DP n="22"> --> the first chain which is the main skeleton of the modified conjugated diene-based polymer includes a repeating unit derived from a conjugated diene-based monomer as a main unit, and the conjugated diene-based monomer may be, for example, one or more selected from the group consisting of 1,3-butadiene, 2,3-dimethyl-1,3-butadiene, piperylene, 3-butyl-1,3-octadiene, isoprene, 2-phenyl-1,3-butadiene and 2-halo-1,3-butadiene (halo means a halogen atom).</p>
+<p id="p0058" num="0058">In addition, the first chain may include an aromatic vinyl-based monomer and may further include a repeating unit derived therefrom in addition to the conjugated diene-based monomer, and the aromatic vinyl-based monomer may be, for example, one or more selected from the group consisting of styrene, α-methylstyrene, 3-methylstyrene, 4-methylstyrene, 4-propylstyrene, 1-vinylnaphthalene, 4-cyclohexylstyrene, 4-(p-methylphenyl)styrene, 1-vinyl-5-hexylnaphthalene, 3-(2-pyrrolidino ethyl)styrene, 4-(2-pyrrolidino ethyl)styrene and 3-(2-pyrrolidino-1-methyl ethyl)-α-methylstyrene.</p>
+<p id="p0059" num="0059">In another embodiment, the first chain of the modified conjugated diene-based polymer may be a copolymer further including a repeating unit derived from a diene-based monomer of 1 to 10 carbon atoms together with the repeating unit derived from the conjugated diene-based monomer. The repeating unit derived from the diene-based monomer may be a repeating unit derived from a diene-based monomer which is<!-- EPO <DP n="23"> --> different from the conjugated diene-based monomer, and the diene-based monomer which is different from the conjugated diene-based monomer may be, for example, 1,2-butadiene. If the modified conjugated diene-based polymer is a copolymer further including a diene-based monomer, the modified conjugated diene-based polymer may include the repeating unit derived from the diene-based monomer in an amount of greater than 0 wt% to 1 wt%, greater than 0 wt% to 0.1 wt%, greater than 0 wt% to 0.01 wt%, or greater than 0 wt% to 0.001 wt%, and within this range, effects of preventing gel formation may be achieved.</p>
+<p id="p0060" num="0060">According to an embodiment of the present invention, if two or more monomers are included in the first chain which forms the skeleton of the modified conjugated diene-based polymer, the polymer may be a random copolymer chain, and in this case, effects of excellent balance between physical properties may be achieved. The random copolymer may mean the arrangement of repeating units forming a copolymer in disorder.</p>
+<heading id="h0016"><u>Second chain including repeating unit derived from N-functional group-containing monomer</u></heading>
+<p id="p0061" num="0061">According to an embodiment of the present invention, a second chain is further included in addition to the first chain, and the main unit composing the second chain is the N-function group-containing monomer. The N-functional group may<!-- EPO <DP n="24"> --> be basically an amino group, an aliphatic cyclic amino group, an aliphatic chain type amino group, an aromatic amino group, etc.</p>
+<p id="p0062" num="0062">In addition, in the modified conjugated diene-based polymer, the first chain including a repeating unit derived from a conjugated diene-based monomer may be coupled through an alkoxysilyl group in an alkoxysilyl-based compound, and an N-functional group affluent second chain may be bonded to the alkoxysilyl group.</p>
+<p id="p0063" num="0063">Particularly, the N-functional group-containing monomer may be a compound represented by Formula 1 below.
+<chemistry id="chem0001" num="0001"><img id="ib0004" file="imgb0004.tif" wi="75" he="47" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0064" num="0064">In Formula 1,
+<ul id="ul0001" list-style="none" compact="compact">
+<li>X is N or CH,</li>
+<li>R<sub>8a</sub> to R<sub>8c</sub> are each independently a hydrogen atom; an alkyl group of 1 to 20 carbon atoms; an alkenyl group of 2 to 20 carbon atoms; an alkynyl group of 2 to 20 carbon atoms; a heteroalkyl group of 1 to 20 carbon atoms, a heteroalkenyl group of 2 to 20 carbon atoms; a heteroalkynyl group of 2 to 20 carbon atoms; a cycloalkyl group of 5 to 20 carbon atoms;<!-- EPO <DP n="25"> --> an aryl group of 6 to 20 carbon atoms; or a heterocyclic group of 3 to 20 carbon atoms,</li>
+<li>R<sub>8d</sub> is a single bond, a substituted with a substituent or unsubstituted alkylene group of 1 to 20 carbon atoms; a substituted with a substituent or unsubstituted cycloalkylene group of 5 to 20 carbon atoms; or a substituted with a substituent or unsubstituted arylene group of 6 to 20 carbon atoms, wherein the substituent is an alkyl group of 1 to 10 carbon atoms, a cycloalkyl group of 5 to 10 carbon atoms, or an aryl group of 6 to 20 carbon atoms,</li>
+<li>R<sub>8e</sub> is an alkyl group of 1 to 20 carbon atoms; an alkenyl group of 2 to 20 carbon atoms; an alkynyl group of 2 to 20 carbon atoms; a heteroalkyl group of 1 to 20 carbon atoms; a heteroalkenyl group of 2 to 20 carbon atoms; a heteroalkynyl group of 2 to 20 carbon atoms; a cycloalkyl group of 5 to 20 carbon atoms; an aryl group of 6 to 20 carbon atoms; a heterocyclic group of 3 to 20 carbon atoms; or a functional group represented by Formula 1a below, and</li>
+<li>O is an integer of 0 to 5, at least one Rse is a functional group represented by Formula 1a below, and if o is an integer of 2 to 5, multiple Rse groups may be the same or different,</li>
+</ul>
+<chemistry id="chem0002" num="0002"><img id="ib0005" file="imgb0005.tif" wi="30" he="4" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="26"> -->
+<chemistry id="chem0003" num="0003"><img id="ib0006" file="imgb0006.tif" wi="34" he="21" img-content="chem" img-format="tif"/></chemistry>
+in Formula 1a,
+<ul id="ul0002" list-style="none" compact="compact">
+<li>R<sub>8f</sub> is a single bond, a substituted with a substituent or unsubstituted alkylene group of 1 to 20 carbon atoms; a substituted with a substituent or unsubstituted cycloalkylene group of 5 to 20 carbon atoms; or a substituted with a substituent or unsubstituted arylene group of 6 to 20 carbon atoms, wherein the substituent is an alkyl group of 1 to 10 carbon atoms, a cycloalkyl group of 5 to 10 carbon atoms, or an aryl group of 6 to 20 carbon atoms, and</li>
+<li>R<sub>8g</sub> and R<sub>8h</sub> are each independently an alkyl group of 1 to 20 carbon atoms; an alkenyl group of 2 to 20 carbon atoms; an alkynyl group of 2 to 20 carbon atoms; a heteroalkyl group of 1 to 20 carbon atoms; a heteroalkenyl group of 2 to 20 carbon atoms; a heteroalkynyl group of 2 to 20 carbon atoms; a cycloalkyl group of 5 to 20 carbon atoms; an aryl group of 6 to 20 carbon atoms; a heterocyclic group of 3 to 20 carbon atoms or a mono-substituted, di-substituted or tri-substituted alkylsilyl group with alkyl groups of 1 to 10 carbon atoms, or R<sub>8g</sub> and R<sub>8h</sub> are connected with each other to form a heterocyclic group of 2 to 10 carbon atoms together with N.</li>
+</ul></p>
+<p id="p0065" num="0065">In addition, the N-functional group-containing monomer may be a compound represented by Formula 2 below.<!-- EPO <DP n="27"> -->
+<chemistry id="chem0004" num="0004"><img id="ib0007" file="imgb0007.tif" wi="32" he="42" img-content="chem" img-format="tif"/></chemistry>
+in Formula 2,
+<ul id="ul0003" list-style="none" compact="compact">
+<li>X<sub>1</sub>-X<sub>2</sub> is CH<sub>2</sub>-CH<sub>2</sub> or CH=CH, and</li>
+<li>X<sub>3</sub>-X<sub>4</sub> is CH<sub>2</sub>-CH<sub>2</sub>, CH=N or N=N.</li>
+</ul></p>
+<p id="p0066" num="0066">In addition, the N-functional group-containing monomer may be a compound represented by Formula 3 below.
+<chemistry id="chem0005" num="0005"><img id="ib0008" file="imgb0008.tif" wi="34" he="41" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0067" num="0067">In Formula 3,
+<ul id="ul0004" list-style="none" compact="compact">
+<li>R<sub>11a</sub> and R<sub>11b</sub> are each independently an alkyl group of 1 to 20 carbon atoms; an alkenyl group of 2 to 20 carbon atoms; an alkynyl group of 2 to 20 carbon atoms; a heteroalkyl group of 1 to 20 carbon atoms; a heteroalkenyl group of 2 to 20 carbon atoms; a heteroalkynyl group of 2 to 20 carbon atoms; a cycloalkyl group of 5 to 20 carbon atoms; an aryl group of 6 to 20 carbon atoms; a heterocyclic group of 3 to 20 carbon atoms; or a functional group represented by Formula 3a below,<!-- EPO <DP n="28"> --></li>
+<li>R<sub>11c</sub> is an alkyl group of 1 to 20 carbon atoms; an alkenyl group of 2 to 20 carbon atoms; an alkynyl group of 2 to 20 carbon atoms; a heteroalkyl group of 1 to 20 carbon atoms, a heteroalkenyl group of 2 to 20 carbon atoms; a heteroalkynyl group of 2 to 20 carbon atoms; a cycloalkyl group of 5 to 20 carbon atoms; an aryl group of 6 to 20 carbon atoms; a heterocyclic group of 3 to 20 carbon atoms; or a functional group represented by Formula 3a below, and</li>
+<li>at least one of R<sub>11a</sub>, R<sub>11b</sub> and R<sub>11c</sub> is a functional group represented by Formula 3a below.</li>
+</ul>
+<chemistry id="chem0006" num="0006"><img id="ib0009" file="imgb0009.tif" wi="35" he="33" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0068" num="0068">In Formula 3a,
+<ul id="ul0005" list-style="none" compact="compact">
+<li>R<sub>11d</sub> is a single bond, a substituted with a substituent or unsubstituted alkylene group of 1 to 20 carbon atoms; a substituted with a substituent or unsubstituted cycloalkylene group of 5 to 20 carbon atoms; or a substituted with a substituent or unsubstituted arylene group of 6 to 20 carbon atoms, wherein the substituent is an alkyl group of 1 to 10 carbon atoms, a cycloalkyl group of 5 to 10 carbon atoms, or an aryl group of 6 to 20 carbon atoms, and</li>
+<li>R<sub>11e</sub> and R<sub>11f</sub> are each independently an alkyl group of 1 to 20 carbon atoms; an alkenyl group of 2 to 20 carbon atoms;<!-- EPO <DP n="29"> --> an alkynyl group of 2 to 20 carbon atoms; a heteroalkyl group of 1 to 20 carbon atoms; a heteroalkenyl group of 2 to 20 carbon atoms; a heteroalkynyl group of 2 to 20 carbon atoms; a cycloalkyl group of 5 to 20 carbon atoms; an aryl group of 6 to 20 carbon atoms; a heterocyclic group of 3 to 20 carbon atoms; or a mono-substituted, di-substituted or tri-substituted alkylsilyl group with alkyl groups of 1 to 10 carbon atoms.</li>
+</ul></p>
+<p id="p0069" num="0069">In addition, the N-functional group-containing monomer may be a compound represented by Formula 4 below.
+<chemistry id="chem0007" num="0007"><img id="ib0010" file="imgb0010.tif" wi="32" he="48" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0070" num="0070">In Formula 4,
+<ul id="ul0006" list-style="none" compact="compact">
+<li>R<sub>12a</sub> is a single bond or a substituted with a substituent or unsubstituted alkylene group of 1 to 20 carbon atoms; a substituted with a substituent or unsubstituted cycloalkylene group of 5 to 20 carbon atoms; or a substituted with a substituent or unsubstituted arylene group of 6 to 20 carbon atoms, wherein the substituent is an alkyl group of 1 to 10 carbon atoms, a cycloalkyl group of 5 to 10 carbon atoms, or an aryl group of 6 to 20 carbon atoms, and<!-- EPO <DP n="30"> --></li>
+<li>R<sub>12b</sub> and R<sub>12c</sub> are each independently an alkyl group of 1 to 20 carbon atoms; an alkenyl group of 2 to 20 carbon atoms; an alkynyl group of 2 to 20 carbon atoms; a heteroalkyl group of 1 to 20 carbon atoms; a heteroalkenyl group of 2 to 20 carbon atoms; a heteroalkynyl group of 2 to 20 carbon atoms; a cycloalkyl group of 5 to 20 carbon atoms; an aryl group of 6 to 20 carbon atoms; a heterocyclic group of 3 to 20 carbon atoms; or a mono-substituted, di-substituted or tri-substituted alkylsilyl group with alkyl groups of 1 to 10 carbon atoms.</li>
+</ul></p>
+<p id="p0071" num="0071">Meanwhile, the second chain may further include a repeating unit derived from a conjugated diene-based monomer.</p>
+<heading id="h0017"><i><u>Modifier: alkoxysilane-based compound</u></i></heading>
+<p id="p0072" num="0072">In addition, the modified conjugated diene-based polymer may have a coupled type of the second chain by the alkoxysilane-based compound, and the second chain may be coupled with the alkoxysilane-based compound as a hub. Here, the alkoxysilane-based compound may include at least three Si functional groups. In this case, three alkoxysilane groups mean three Si-O bonds, but not mean three Si atoms.</p>
+<p id="p0073" num="0073">According to an embodiment of the present invention, the alkoxysilane-based compound included in the modified conjugated diene-based polymer may be an amine-containing alkoxysilane-based compound or a non-amine-containing<!-- EPO <DP n="31"> --> alkoxysilane-based compound.</p>
+<p id="p0074" num="0074">In addition, among the alkoxysilane-based compound, the amine-containing alkoxysilane-based compound may be, for example, a compound represented by Formula 5 below.
+<chemistry id="chem0008" num="0008"><img id="ib0011" file="imgb0011.tif" wi="91" he="26" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0075" num="0075">In Formula 5, R<sup>1</sup> may be a single bond, or an alkylene group of 1 to 10 carbon atoms, R<sup>2</sup> and R<sup>3</sup> may be each independently an alkyl group of 1 to 10 carbon atoms, R<sup>4</sup> may be hydrogen, an epoxy group, an alkyl group of 1 to 10 carbon atoms, an allyl group of 2 to 10 carbon atoms, a mono-substituted, di-substituted or tri-substituted alkylsilyl group with alkyl groups of 1 to 10 carbon atoms, or a heterocyclic group of 2 to 10 carbon atoms, R<sup>21</sup> may be a single bond, an alkylene group of 1 to 10 carbon atoms, or -[R<sup>42</sup>O]<sub>j</sub>-, where R<sup>42</sup> may be an alkylene group of 1 to 10 carbon atoms, a and m may be each independently an integer selected from 1 to 3, n may be an integer of 0 to 2, and j may be an integer selected from 1 to 30.</p>
+<p id="p0076" num="0076">In a particular embodiment, the compound represented by Formula 5 may be one selected from the group consisting of N,N-bis(3-(dimethoxy(methyl)silyl)propyl)-methyl-1-amine, N,N-bis(3-(diethoxy(methyl)silyl)propyl)-methyl-1-amine, N,N-bis(3-(trimethoxysilyl)propyl)-methyl-1-amine,<!-- EPO <DP n="32"> --> N,N-bis(3-(triethoxysilyl)propyl)-methyl-1-amine, tri(trimethoxysilyl)amine, tri(3-(trimethoxysilyl)propyl)amine, N,N-bis(3-(diethoxy(methyl)silyl)propyl)-1,1,1-trimethlysilanamine, N-(3-(1H-1,2,4-triazole-1-yl)propyl)-3-(trimethoxysilyl)-N-(3-(trimethoxysilyl)propyl)propan-1-amine, 3-(trimethoxysilyl)-N-(3-(trimethoxysilyl)propyl)-N-(3-(1-(3-(trimehtoxysilyl)propyl)-1H-1,2,4-triazol-3-yl)propyl)propan-1-amine, N-allyl-N-(3-(trimethoxysilyl)propyl)prop-2-en-1-amine), N,N-bis(oxiran-2-ylmethyl)-3-(trimethoxysilyl)propan-1-amine, 1,1,1-trimethyl-N-(3-(triethoxysilyl)propyl)-N-(trimethylsilyl)silanamine) and N,N-bis(3-(triethoxysilyl)propyl)-2,5,8,11,14-pentaoxahexadecan-16-amine.</p>
+<p id="p0077" num="0077">In another embodiment, among the alkoxysilane-based compound, the amine-containing alkoxysilane-based compound may include a compound represented by Formula 6 below.
+<chemistry id="chem0009" num="0009"><img id="ib0012" file="imgb0012.tif" wi="92" he="42" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0078" num="0078">In Formula 6, R<sup>5</sup>, R<sup>6</sup> and R<sup>9</sup> may be each independently an alkylene group of 1 to 10 carbon atoms, R<sup>7</sup>, R<sup>8</sup>, R<sup>10</sup> and R<sup>11</sup><!-- EPO <DP n="33"> --> may be each independently an alkyl group of 1 to 10 carbon atoms, R<sup>12</sup> may be hydrogen or an alkyl group of 1 to 10 carbon atoms, b and c may be each independently 1, 2 or 3, where b+c≥4 may be satisfied, and A may be
+<chemistry id="chem0010" num="0010"><img id="ib0013" file="imgb0013.tif" wi="75" he="23" img-content="chem" img-format="tif"/></chemistry>
+where R<sup>13</sup>, R<sup>14</sup>, R<sup>15</sup> and R<sup>16</sup> may be each independently hydrogen or an alkyl group of 1 to 10 carbon atoms.</p>
+<p id="p0079" num="0079">In a particular embodiment, the compound represented by Formula 6 may be one selected from the group consisting of N-(3-(1H-imidazol-1-yl)propyl)-3-(triethoxysilyl)-N-(3-(triethoxysilyl)propyl)propan-1-amine and 3-(4,5-dihydro-1H-imidazol-1-yl)-N,N-bis(3-(triethoxysilyl)propyl)propan-1-amine.</p>
+<p id="p0080" num="0080">In another embodiment, among the alkoxysilane-based compound, the amine-containing alkoxysilane-based compound may include a compound represented by Formula 7 below.
+<chemistry id="chem0011" num="0011"><img id="ib0014" file="imgb0014.tif" wi="82" he="57" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="34"> --></p>
+<p id="p0081" num="0081">In Formula 7, A<sup>1</sup> and A<sup>2</sup> may be each independently a divalent hydrocarbon group of 1 to 20 carbon atoms, which contains an oxygen atom or not, R<sup>17</sup> to R<sup>20</sup> may be each independently a monovalent hydrocarbon group of 1 to 20 carbon atoms, L<sup>1</sup> to L<sup>4</sup> may be each independently a mono-substituted, di-substituted or tri-substituted alkylsilyl group with alkyl groups of 1 to 10 carbon atoms, or a monovalent hydrocarbon group of 1 to 20 carbon atoms, wherein L<sup>1</sup> and L<sup>2</sup>, and L<sup>3</sup> and L<sup>4</sup> may be combined with each other to form a ring of 1 to 5 carbon atoms, and if L<sup>1</sup> and L<sup>2</sup>, and L<sup>3</sup> and L<sup>4</sup> are combined with each other to form a ring, the ring thus formed may include 1 to 3 of heteroatoms which is one or more selected from the group consisting of N, O and S.</p>
+<p id="p0082" num="0082">In a particular embodiment, the compound represented by Formula 7 may be one selected from the group consisting of 3,3'-(1,1,3,3-tetramethoxydisiloxane-1,3-diyl)bis(N,N-dimethylpropan-1-amine, 3,3'-(1,1,3,3-tetraethoxydisiloxane-1,3-diyl)bis(N,N-dimethylpropan-1-amine), 3,3'-(1,1,3,3-tetrapropoxydisiloxane-1,3-diyl)bis(N,N-dimethylpropan-1-amine), 3,3'-(1,1,3,3-tetramethoxydisiloxane-1,3-diyl)bis(N,N-diethylpropan-1-amine), 3,3'-(1,1,3,3-tetramethoxydisiloxane-1,3-diyl)bis(N,N-dipropylpropan-1-amine), 3,3'-(1,1,3,3-tetraethoxydisiloxane-1,3-diyl)bis(N,N-diethylpropan-1-amine), 3,3'-(1,1,3,3-tetrapropoxydisiloxane-1,3-diyl)bis(N,N-diethylpropan-1-amine), 3,3'-(1,1,3,3-tetraethoxydisiloxane-1,3-diyl)bis(N,N-dipropylpropan-1-amine),<!-- EPO <DP n="35"> --> 3,3'-(1,1,3,3-tetrapropoxydisiloxane-1,3-diyl)bis(N,N-dipropylpropan-1-amine), 3,3-(1,1,3,3-tetramethoxydisiloxane-1,3-diyl)bis(N,N-diethylmethan-1-amine), 3,3'-(1,1,3,3-tetraethoxydisiloxane-1,3-diyl)bis(N,N-diethylmethan-1-amine), 3,3'-(1,1,3,3-tetrapropoxydisiloxane-1,3-diyl)bis(N,N-diethylmethan-1-amine), 3,3'-(1,1,3,3-tetramethoxydisiloxane-1,3-diyl)bis(N,N-dimethylmethan-1-amine), 3,3'-(1,1,3,3-tetramethoxydisiloxane-1,3-diyl)bis(N,N-dipropylmethan-1-amine), 3,3'-(1,1,3,3-tetrapropoxydisiloxane-1,3-diyl)bis(N,N-dimethylmethan-1-amine), 3,3'-(1,1,3,3-tetrapropoxydisiloxane-1,3-diyl)bis(N,N-dipropylmethan-1-amine), 3,3'-(1,1,3,3-tetraethoxydisiloxane-1,3-diyl)bis(N,N-dimethylmethan-1-amine), 3,3'-(1,1,3,3-tetraethoxydisiloxane-1,3-diyl)bis(N,N-dipropylmethan-1-amine), N,N'-((1,1,3,3-tetramethoxydisiloxane-1,3-diyl)bis(propan-3,1-diyl))bis(1,1,1-trimethyl-N-(trimethylsilyl)silanamine), N,N'-((1,1,3,3-tetraethoxydisiloxane-1,3-diyl)bis(propan-3,1-diyl))bis(1,1,1-trimethyl-N-(trimethylsilyl)silanamine), N,N'-((1,1,3,3-tetrapropoxydisiloxane-1,3-diyl)bis(propan-3,1-diyl))bis(1,1,1-trimethyl-N-(trimethylsilyl)silanamine), N,N'-((1,1,3,3-tetramethoxydisiloxane-1,3-diyl)bis(propan-3,1-diyl))bis(1,1,1-trimethyl-N-phenylsilanamine), N,N'-((1,1,3,3-tetraethoxydisiloxane-1,3-diyl)bis(propan-3,1-diyl))bis(1,1,1-trimethyl-N-phenylsilanamine),<!-- EPO <DP n="36"> --> N,N'-((1,1,3,3-tetrapropoxydisiloxane-1,3-diyl)bis(propan-3,1-diyl))bis(1,1,1-trimethyl-N-phenylsilanamine), 1,3-bis(3-(1H-imidazol-1-yl)propyl)-1,1,3,3-tetramethoxydisiloxane, 1,3-bis(3-(1H-imidazol-1-yl)propyl)-1,1,3,3-tetraethoxydisiloxane, and 1,3-bis(3-(1H-imidazol-1-yl)propyl)-1,1,3,3-tetrapropoxydisiloxane.</p>
+<p id="p0083" num="0083">In another embodiment, among the alkoxysilane-based compound, the amine-containing alkoxysilane-based compound may include a compound represented by Formula 8 below.
+<chemistry id="chem0012" num="0012"><img id="ib0015" file="imgb0015.tif" wi="119" he="48" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0084" num="0084">In Formula 8, R<sub>b2</sub> to R<sub>b4</sub> are each independently an alkylene group of 1 to 10 carbon atoms, R<sub>b5</sub> to R<sub>b8</sub> are each independently an alkyl group of 1 to 10 carbon atoms, R<sub>b13</sub> and R<sub>b14</sub> are each independently an alkylene group of 1 to 10 carbon atoms, R<sub>b15</sub> to R<sub>b18</sub> are each independently an alkyl group of 1 to 10 carbon atoms, and m1, m2, m3 and m4 are each independently an integer of 1 to 3.</p>
+<p id="p0085" num="0085">In another embodiment, among the alkoxysilane-based compound, the amine-containing alkoxysilane-based compound may<!-- EPO <DP n="37"> --> include a compound represented by Formula 9 below.
+<chemistry id="chem0013" num="0013"><img id="ib0016" file="imgb0016.tif" wi="82" he="39" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0086" num="0086">In Formula 9, R<sub>e1</sub> and R<sub>e2</sub> are each independently an alkylene group of 1 to 10 carbon atoms, R<sub>e3</sub> to R<sub>e6</sub> are each independently hydrogen, an alkyl group of 1 to 10 carbon atoms or ―R<sub>e7</sub>SiR<sub>e8</sub>R<sub>e9</sub>R<sub>e10</sub>, where at least one among R<sub>e3</sub> to R<sub>e6</sub> is - R<sub>e7</sub>SiR<sub>e8</sub>R<sub>e9</sub>R<sub>e10</sub>, wherein R<sub>e7</sub> is a single bond or an alkylene group of 1 to 10 carbon atoms, R<sub>e8</sub> to R<sub>e10</sub> are each independently an alkyl group of 1 to 10 carbon atoms or an alkoxy group of 1 to 10 carbon atoms, where at least one among R<sub>e8</sub> to R<sub>e10</sub> is an alkoxy group of 1 to 10 carbon atoms.</p>
+<p id="p0087" num="0087">In another embodiment, among the alkoxysilane-based compound, the non-amine-containing alkoxysilane-based compound may include a compound represented by Formula 10 below.
+<chemistry id="chem0014" num="0014"><img id="ib0017" file="imgb0017.tif" wi="67" he="41" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0088" num="0088">In Formula 10, X is O or S, R<sub>f1</sub> and R<sub>f2</sub> are each<!-- EPO <DP n="38"> --> independently a single bond or an alkylene group of 1 to 10 carbon atoms,</p>
+<p id="p0089" num="0089">R<sub>f3</sub> to R<sub>f8</sub> are each independently hydrogen, an alkyl group of 1 to 10 carbon atoms, an alkoxy group of 1 to 10 carbon atoms, an aryl group of 6 to 10 carbon atoms, a cycloalkyl group of 5 to 10 carbon atoms or an aralkyl group of 7 to 14 carbon atoms, and p is an integer of 0 or 1, where if p is 0, R<sub>f1</sub> is an alkyl group of 1 to 10 carbon atoms or an alkoxy group of 1 to 10 carbon atoms.</p>
+<p id="p0090" num="0090">In another embodiment, among the alkoxysilane-based compound, the non-amine-containing alkoxysilane-based compound may include a compound represented by Formula 11 below.
+<chemistry id="chem0015" num="0015"><img id="ib0018" file="imgb0018.tif" wi="34" he="33" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0091" num="0091">In Formula 11, R<sub>g1</sub> to R<sub>g4</sub> are each independently hydrogen, an alkyl group of 1 to 10 carbon atoms, an alkoxy group of 1 to 10 carbon atoms, an aryl group of 6 to 12 carbon atoms or -R<sub>g5</sub>SiOR<sub>g6</sub>, where at least one among R<sub>g1</sub> to R<sub>g4</sub> is - R<sub>g5</sub>SiOR<sub>g6</sub>, wherein R<sub>g5</sub> is a single bond or an alkylene group of 1 to 10 carbon atoms, R<sub>g6</sub> is an alkyl group of 1 to 10 carbon atoms, and Y is C or N, where if Y is N, R<sub>g4</sub> is not present.</p>
+<p id="p0092" num="0092">In another embodiment, among the alkoxysilane-based compound, the amine-containing alkoxysilane-based compound may<!-- EPO <DP n="39"> --> include a compound represented by Formula 12 below.
+<chemistry id="chem0016" num="0016"><img id="ib0019" file="imgb0019.tif" wi="37" he="41" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0093" num="0093">In Formula 12, R<sub>h1</sub> and R<sub>h2</sub> are each independently an alkyl group of 1 to 10 carbon atoms or an alkoxy group of 1 to 10 carbon atoms, R<sub>h3</sub> is a single bond or an alkylene group of 1 to 10 carbon atoms, and A<sub>3</sub> is -Si (R<sub>h4</sub>R<sub>h5</sub>R<sub>h6</sub>) or -N [Si (R<sub>h7</sub>R<sub>h8</sub>R<sub>h9</sub>)]<sub>2</sub>, where R<sub>h4</sub> to R<sub>h9</sub> are each independently an alkyl group of 1 to 10 carbon atoms or an alkoxy group of 1 to 10 carbon atoms.</p>
+<p id="p0094" num="0094">In another embodiment, among the alkoxysilane-based compound, the non-amine-containing alkoxysilane-based compound may be a compound represented by Formula 13 below.
+<chemistry id="chem0017" num="0017"><img id="ib0020" file="imgb0020.tif" wi="41" he="35" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0095" num="0095">In Formula 13, R<sub>g1</sub> to R<sub>g3</sub> are each independently an alkyl group of 1 to 10 carbon atoms or an alkoxy group of 1 to 10 carbon atoms, R<sub>g4</sub> is an alkoxy group of 1 to 10 carbon atoms, and q is an integer of 2 to 100.<!-- EPO <DP n="40"> --></p>
+<heading id="h0018"><i><u>General details</u></i></heading>
+<p id="p0096" num="0096">The modified conjugated diene-based polymer according to an embodiment of the present invention may have a number average molecular weight (Mn) of 1,000 g/mol to 2,000,000 g/mol, 10,000 g/mol to 1,000,000 g/mol, or 100,000 g/mol to 800,000 g/mol, a weight average molecular weight (Mw) of 1,000 g/mol to 3,000,000 g/mol, 10,000 g/mol to 2,000,000 g/mol, or 100,000 g/mol to 2,000,000 g/mol, and a peak average molecular weight (Mp) of 1,000 g/mol to 3,000,000 g/mol, 10,000 g/mol to 2,000,000 g/mol, or 100,000 g/mol to 2,000,000 g/mol. Within the ranges, excellent effects of rotation resistance and wet skid resistance may be achieved. In another embodiment, the modified conjugated diene-based polymer may have molecular weight distribution (PDI; MWD; Mw/Mn) of 1.0 to 3.0, or 1.1 to 2.5, or 1.1 to 2.0, and within this range, excellent effects of tensile properties, viscoelasticity properties, and balance between physical properties may be achieved.</p>
+<p id="p0097" num="0097">Also, the modified conjugated diene-based polymer may have a mooney viscosity at 100°C of 30 or more, 40 to 150, or 40 to 140, and within this range, excellent effects of processability and productivity may be achieved.</p>
+<p id="p0098" num="0098">Here, the mooney viscosity may be measured using a mooney viscometer. Particularly, the mooney viscosity may be measured by using MV-2000E of Monsanto Co. using Large Rotor at a rotor speed of 2±0.02 rpm at 100°C. In this case, a<!-- EPO <DP n="41"> --> polymer was stood at room temperature (23±3°C) for 30 minutes or more, and 27±3 g of the polymer was collected and put in a die cavity, and then, Platen was operated while applying torque for measurement.</p>
+<p id="p0099" num="0099">In addition, the vinyl content of the modified conjugated diene-based polymer may be 5 wt% or more, 10 wt% or more, or 10 wt% to 60 wt%. Here, the vinyl content may mean the amount of not 1,4-added but 1,2-added conjugated diene-based monomer with respect to 100 wt% of a conjugated diene-based copolymer composed of a monomer having a vinyl group and an aromatic vinyl-based monomer.</p>
+<heading id="h0019"><b><u>Method for preparing modified conjugated diene-based polymer</u></b></heading>
+<p id="p0100" num="0100">In addition, the present invention provides a method for preparing a modified conjugated diene-based polymer.</p>
+<p id="p0101" num="0101">The method for preparing the modified conjugated diene-based polymer according to an embodiment of the present invention is characterized in including polymerizing a conjugated diene-based monomer, or a conjugated diene-based monomer and an aromatic vinyl-based monomer in the presence of a polymerization initiator in a hydrocarbon solvent to prepare an active first chain (S1); reacting the active first chain with an alkoxysilane-based compound to prepare a modified active first chain (S2); and reacting the modified active first<!-- EPO <DP n="42"> --> chain and a macromonomer including a repeating unit derived from an N-functional group-containing monomer (S3).</p>
+<p id="p0102" num="0102">The hydrocarbon solvent is not specifically limited, but may be, for example, one or more selected from the group consisting of n-pentane, n-hexane, n-heptane, isooctane, cyclohexane, toluene, benzene and xylene.</p>
+<p id="p0103" num="0103">The polymerization initiator is not specifically limited, but may be, for example, one or more selected from the group consisting of methyllithium, ethyllithium, propyllithium, isopropyllithium, n-butyllithium, s-butyllithium, t-butyllithium, hexyllithium, n-decyllithium, t-octyllithium, phenyllithium, 1-naphthyl lithium, n-eicosyl lithium, 4-butylphenyl lithium, 4-tolyl lithium, cyclohexyl lithium, 3,5-di-n-heptylcyclohexyl lithium, 4-cyclopentyl lithium, naphthyl sodium, naphthyl potassium, lithium alkoxide, sodium alkoxide, potassium alkoxide, lithium sulfonate, sodium sulfonate, potassium sulfonate, lithium amide, sodium amide, potassium amide, and lithium isopropylamide.</p>
+<p id="p0104" num="0104">According to an embodiment of the present invention, the polymerization initiator may be used in 0.01 mmol to 10 mmol, 0.05 mmol to 5 mmol, 0.1 mmol to 2 mmol, 0.1 mmol to 1 mmol, or 0.15 to 0.8 mmol based on total 100 g of the monomer. Here, 100g of the monomer may represent the total amount of the conjugated diene-based monomer, or the conjugated diene-based monomer and the aromatic vinyl-based monomer.<!-- EPO <DP n="43"> --></p>
+<heading id="h0020"><i><u>S1 step</u></i></heading>
+<p id="p0105" num="0105">The polymerization of step (S1) may be, for example, an anionic polymerization, and particularly, a living anionic polymerization by which an anionic active part is included at the polymerization terminal through a propagation polymerization reaction by anions. In addition, the polymerization of step (S1) may be a polymerization with heating, an isothermal polymerization, or a polymerization at a constant temperature (adiabatic polymerization). Here, the polymerization at a constant temperature means a polymerization method including a step of polymerizing using self-generated heat of reaction without optionally applying heat after adding a polymerization initiator, and the polymerization with heating means a polymerization method including injecting the polymerization initiator and then, increasing the temperature by optionally applying heat. The isothermal polymerization means a polymerization method by which the temperature of a polymer is kept constant by increasing heat by applying heat or taking heat after adding the polymerization initiator.</p>
+<p id="p0106" num="0106">In addition, according to an embodiment of the present invention, the polymerization of step (S1) may be performed by further adding a diene-based compound of 1 to 10 carbon atoms in addition to the conjugated diene-based monomer, and in this<!-- EPO <DP n="44"> --> case, effects of preventing the formation of gel on the wall of a reactor during operation for a long time may be achieved. The diene-based compound may be, for example, 1,2-butadiene.</p>
+<p id="p0107" num="0107">The polymerization of step (S1) may be performed in a temperature range of, for example, 80°C or less, -20°C to 80°C, 0°C to 80°C, 0°C to 70°C, or 10°C to 70°C, and within the range, the molecular weight distribution of a polymer is controlled narrow, and the improving effects of physical properties were excellent.</p>
+<p id="p0108" num="0108">The active first chain prepared by step (S1) may mean a polymer in which a polymer anion and an organometallic cation are coupled.</p>
+<p id="p0109" num="0109">Meanwhile, the polymerization of step (S1) may be performed by including a polar additive, and the polar additive may be added in a ratio of 0.001 g to 50 g, 0.001 g to 10 g or 0.005 g to 0.1 g based on total 100 g of the monomer. In another embodiment, the polar additive may be added in a ratio of 0.001 g to 10 g, 0.005 g to 5 g, 0.005 g to 4 g based on total 1 mmol of the polymerization initiator.</p>
+<p id="p0110" num="0110">The polar additive may be, for example, one or more selected from the group consisting of tetrahydrofuran, 2,2-di(2-tetrahydrofuryl)propane, diethyl ether, cyclopentyl ether, dipropyl ether, ethylene methyl ether, ethylene dimethyl ether, diethyl glycol, dimethyl ether, tert-butoxy ethoxy ethane, bis(3-dimethylaminoethyl)ether, (dimethylaminoethyl) ethyl<!-- EPO <DP n="45"> --> ether, trimethylamine, triethylamine, tripropylamine, N,N,N',N'-tetramethylethylenediamine, sodium mentholate and 2-ethyl tetrahydrofufuryl ether, preferably, 2,2-di(2-tetrahydrofuryl)propane, triethylamine, tetramethylethylenediamine, sodium mentholate or 2-ethyl tetrahydrofufuryl ether. If the polar additive is included, and if a conjugated diene-based monomer and an aromatic vinyl-based monomer are copolymerized, the difference of their reaction rates may be compensated, and effects of inducing easy formation of a random copolymer may be achieved.</p>
+<heading id="h0021"><i><u>S2 step</u></i></heading>
+<p id="p0111" num="0111">The (S2) step is a step of reacting the active first chain with an alkoxysilane-based compound to prepare a modified active first chain, and here, the reaction may be modification or coupling reaction, and in this case, the modifier may be used in an amount of 0.01 mmol to 10 mmol based on total 100 g of the monomer. In another embodiment, the modifier may be used in a molar ratio of 1:0.1 to 10, 1:0.1 to 5, or 1:0.1 to 1:3, based on 1 mol of the polymerization initiator in step (S1) .</p>
+<heading id="h0022"><i><u>S3 step</u></i></heading>
+<p id="p0112" num="0112">In addition, the (S3) step is a step of reacting the modified active first chain with a macromonomer including the<!-- EPO <DP n="46"> --> repeating unit derived from the N-functional group-containing monomer to prepare a modified conjugated diene-based polymer.</p>
+<p id="p0113" num="0113">Meanwhile, the preparation method according to an embodiment of the present invention may further include a step of preparing a macromonomer prior to the (S3) step, and the step of preparing the macromonomer may be performed by performing polymerization reaction of the N-functional group-containing monomer, or the N-functional group-containing monomer and a conjugated diene-based monomer in the presence of an organolithium compound in a hydrocarbon solvent. In this case, the polymerization reaction may be a living anionic polymerization to give an anionic active part at the polymerization terminal by the propagation polymerization reaction by anions, and the macromonomer may be a living anion terminal of which one terminal is capable of acting as a monomer.</p>
+<p id="p0114" num="0114">Here, the organolithium compound may be an alkyllithium compound, and may particularly be methyllithium, ethyllithium, propyllithium, isopropyllithium, n-butyllithium, s-butyllithium, t-butyllithium, hexyllithium, n-decyllithium, t-octyllithium, phenyllithium, 1-naphthyl lithium, n-eicosyl lithium, 4-butylphenyl lithium, 4-tolyl lithium, cyclohexyl lithium, 3,5-di-n-heptylcyclohexyl lithium, or 4-cyclopentyl lithium, more particularly, n-butyllithium.</p>
+<p id="p0115" num="0115">In an embodiment, the macromonomer may be prepared<!-- EPO <DP n="47"> --> through Reaction 1 below and may be a compound having a structure represented by Formula M1 below.
+<chemistry id="chem0018" num="0018"><img id="ib0021" file="imgb0021.tif" wi="118" he="65" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0116" num="0116">In another embodiment, the macromonomer may be prepared through Reaction 2 below and may be a compound having a structure represented by Formula M2 below.
+<chemistry id="chem0019" num="0019"><img id="ib0022" file="imgb0022.tif" wi="102" he="67" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0117" num="0117">In another embodiment, the macromonomer may be prepared through Reaction 3 below and may be a compound having a structure represented by Formula M3 below.
+<chemistry id="chem0020" num="0020"><img id="ib0023" file="imgb0023.tif" wi="30" he="5" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="48"> -->
+<chemistry id="chem0021" num="0021"><img id="ib0024" file="imgb0024.tif" wi="120" he="44" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0118" num="0118">In another embodiment, the macromonomer may be prepared through Reaction 4 below and may be a compound having a structure represented by Formula M4 below.
+<chemistry id="chem0022" num="0022"><img id="ib0025" file="imgb0025.tif" wi="119" he="58" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0119" num="0119">In Reaction 1 to Reaction 4, R<sub>8d</sub>, R<sub>8</sub>, X, X<sub>1</sub>-X<sub>2</sub>, X<sub>3</sub>-X<sub>4</sub>, R<sub>11a</sub> to R<sub>11c</sub>, R<sub>12a</sub> to R<sub>12c</sub>, and o are the same as defined in Formula 1 to Formula 4, R-Li is an alkyllithium compound, and R is an alkyl group derived from the alkyllithium.</p>
+<p id="p0120" num="0120">In addition, the macromonomer may include 1 to 80, 1 to 60, or 1 to 50 repeating units derived from the N-functional group-containing monomer selected from the compounds represented by Formula 1 to Formula 4, and for example, in<!-- EPO <DP n="49"> --> Formula M1 to Formula M4, each of r<sub>1</sub> to r<sub>4</sub> may be 1 to 80, 1 to 60, or 1 to 50. In this case, the modified conjugated diene-based polymer including the second chain derived from the macromonomer may have the above-described Si and N contents and have excellent processability, tensile properties and viscoelasticity properties in balance.</p>
+<p id="p0121" num="0121">Meanwhile, the (S3) step may be for preparing a modified conjugated diene-based polymer by reacting the modified active polymer and the macromonomer, i.e., the functional group derived from a modifier in the modified active polymer and the living anion terminal of the macromonomer.</p>
+<p id="p0122" num="0122">Particularly, the modified active polymer first chain prepared in the (S2) step includes the functional group derived from a modifier, and the functional group derived from the modifier includes an alkoxy group not reacted with a polymer chain but remaining, and accordingly, through the reaction of the living anion terminal of the macromonomer and the alkoxy group, the modified conjugated diene-based polymer may be prepared.</p>
+<p id="p0123" num="0123">In addition, the macromonomer may be used in 0.1 to 4.0 mol, 0.1 to 2.0 mol, or 0.5 to 1.5 mol based on 1 mol of the polymerization initiator.</p>
+<p id="p0124" num="0124">Meanwhile, as a conventional method for additionally introducing a functional group to a polymer, an active polymer<!-- EPO <DP n="50"> --> has been modified with a modifier, and performing condensation reaction of reacting a compound capable of condensing with the Si-O bond of the modifier has been applied. However, if such condensation reaction is used, the bond between a material having an additional functional group and the modified active polymer is formed as -Si-O-Si, and there are probability of arising hydrolysis during subsequent steam stripping step, washing step or storing, and accordingly, there are problems of separating the bond around a condensation bonding part, and at last, the losing a functional group.</p>
+<p id="p0125" num="0125">On the contrary, in the modified conjugated diene-based polymer prepared by the preparation method according to the present invention, the living terminal of the macromonomer reacts with the Si-O-R group of the modifier to form a Si-C bond, and this bond is a bond not undergoing hydrolysis reaction like a condensed bond and is free from separation. Accordingly, there may be advantages in that storage stability is improved, and the generation of defects of losing an initially introduced functional group does not arise.</p>
+<heading id="h0023"><b><u>Rubber Composition</u></b></heading>
+<p id="p0126" num="0126">Also, the present invention provides a rubber composition including the modified conjugated diene-based polymer.</p>
+<p id="p0127" num="0127">The rubber composition may include the modified conjugated diene-based polymer in an amount of 10 wt% or more,<!-- EPO <DP n="51"> --> 10 wt% to 100 wt%, or 20 wt% to 90 wt%, and within this range, mechanical properties such as tensile strength and abrasion resistance are excellent, and effects of excellent balance between physical properties may be achieved.</p>
+<p id="p0128" num="0128">In addition, the rubber composition may further include other rubber component, as necessary, in addition to the modified conjugated diene-based polymer, and in this case, the rubber component may be included in an amount of 90 wt% or less based on the total weight of the rubber composition. In a particular embodiment, the rubber component may be included in an amount of 1 part by weight to 900 parts by weight based on 100 parts by weight of the modified conjugated diene-based polymer.</p>
+<p id="p0129" num="0129">The rubber component may be, for example, a natural rubber or a synthetic rubber, and may particularly be a natural rubber (NR) including cis-1,4-polyisoprene; a modified natural rubber which is obtained by modifying or purifying a common natural rubber, such as an epoxidized natural rubber (ENR), a deproteinized natural rubber (DPNR), and a hydrogenated natural rubber; and a synthetic rubber such as a styrene-butadiene copolymer (SBR), a polybutadiene (BR), a polyisoprene (IR), a butyl rubber (IIR), an ethylene-propylene copolymer, a polyisobutylene-co-isoprene, a neoprene, a poly(ethylene-co-propylene), a poly(styrene-co-butadiene), a poly(styrene-co-isoprene), a poly(styrene-co-isoprene-co-butadiene),<!-- EPO <DP n="52"> --> a poly(isoprene-co-butadiene), a poly(ethylene-co-propylene-co-diene), a polysulfide rubber, an acryl rubber, a urethane rubber, a silicone rubber, an epichlorohydrin rubber, and a halogenated butyl rubber, and any one among them or mixtures of two or more thereof may be used.</p>
+<p id="p0130" num="0130">The rubber composition may include a filler of 0.1 parts by weight to 200 parts by weight, or 10 parts by weight to 120 parts by weight based on 100 parts by weight of the modified conjugated diene-based polymer of the present invention. The filler may be, for example, a silica-based filler, particularly, wet silica (hydrated silicate), dry silica (anhydrous silicate), calcium silicate, aluminum silicate, or colloid silica. Preferably, the filler may be wet silica which has the most significant improving effect of destruction characteristics and compatible effect of wet grip. In addition, the rubber composition may further include a carbon-based filler, as necessary.</p>
+<p id="p0131" num="0131">In another embodiment, if silica is used as the filler, a silane coupling agent may be used together for the improvement of reinforcing and low exothermic properties. Particular examples of the silane coupling agent may include bis(3-triethoxysilylpropyl)tetrasulfide, bis(3-triethoxysilylpropyl)trisulfide, bis(3-triethoxysilylpropyl)disulfide, bis(2-triethoxysilylethyl)tetrasulfide, bis(3-trimethoxysilylpropyl)tetrasulfide,<!-- EPO <DP n="53"> --> bis(2-trimethoxysilylethyl)tetrasulfide, 3-mercaptopropyltrimethoxysilane, 3-mercaptopropyltriethoxysilane, 2-mercaptoethyltrimethoxysilane, 2-mercaptoethyltriethoxysilane, 3-trimethoxysilylpropyl-N,N-dimethylthiocarbamoyltetrasulfide, 3-triethoxysilylpropyl-N,N-dimethylthiocarbamoyltetrasulfide, 2-triethoxysilylethyl-N,N-dimethylthiocarbamoyltetrasulfide, 3-trimethoxysilylpropylbenzothiazolyltetrasulfide, 3-triethoxysilylpropylbenzolyltetrasulfide, 3-triethoxysilylpropylmethacrylatemonosulfide, 3-trimethoxysilylpropylmethacrylatemonosulfide, bis(3-diethoxymethylsilylpropyl)tetrasulfide, 3-mercaptopropyldimethoxymethylsilane, dimethoxymethylsilylpropyl-N,N-dimethylthiocarbamoyltetrasulfide, or dimethoxymethylsilylpropylbenzothiazolyltetrasulfide, and any one among them or mixtures of two or more thereof may be used. Preferably, bis(3-triethoxysilylpropyl)polysulfide or 3-trimethoxysilylpropylbenzothiazyltetrasulfide may be used in consideration of the improving effect of reinforcing properties.</p>
+<p id="p0132" num="0132">In addition, in the rubber composition according to an embodiment of the present invention, since a modified conjugated diene-based polymer in which a functional group<!-- EPO <DP n="54"> --> having high affinity with silica is introduced into an active part is used as a rubber component, the compounding amount of the silane coupling agent may be smaller than a common case. Thus, the silane coupling agent may be used in an amount of 1 part by weight to 20 parts by weight, or 5 parts by weight to 15 parts by weight based on 100 parts by weight of silica. Within the above amount range, effects as a coupling agent may be sufficiently exhibited, and preventing effects of gelation of a rubber component may be achieved.</p>
+<p id="p0133" num="0133">The rubber composition according to an embodiment of the present invention may be sulfur crosslinkable, and so may further include a vulcanizing agent. The vulcanizing agent may particularly be a sulfur powder and may be included in an amount of 0.1 parts by weight to 10 parts by weight based on 100 parts by weight of the rubber component. Within the above amount range, elasticity and strength required for a vulcanized rubber composition may be secured, and at the same time, an excellent low fuel consumption ratio may be achieved.</p>
+<p id="p0134" num="0134">The rubber composition according to an embodiment of the present invention may further include various additives used in a common rubber industry in addition to the above components, particularly, a vulcanization accelerator, a process oil, an antioxidant, a plasticizer, an antiaging agent, a scorch preventing agent, a zinc white, stearic acid, a thermosetting resin, or a thermoplastic resin.<!-- EPO <DP n="55"> --></p>
+<p id="p0135" num="0135">The vulcanization accelerator may include, for example, thiazole-based compounds such as 2-mercaptobenzothiazole (M), dibenzothiazyldisulfide (DM), and N-cyclohexyl-2-benzothiazylsulfenamide (CZ), or guanidine-based compounds such as diphenylguanidine (DPG), in an amount of 0.1 parts by weight to 5 parts by weight based on 100 parts by weight of the rubber component.</p>
+<p id="p0136" num="0136">The process oil acts as a softener in a rubber composition and may include, for example, a paraffin-based, naphthene-based, or aromatic compound. An aromatic process oil may be used in consideration of tensile strength and abrasion resistance, and a naphthene-based or paraffin-based process oil may be used in consideration of hysteresis loss and properties at a low temperature. The process oil may be included in an amount of 100 parts by weight or less based on 100 parts by weight of the rubber component. Within the above-described range, the deterioration of the tensile strength and low exothermic properties (low fuel consumption ratio) of the vulcanized rubber may be prevented.</p>
+<p id="p0137" num="0137">The antioxidant may include, for example, 2,6-di-t-butyl paracresol, dibutylhydroxytoluenyl, 2,6-bis((dodecylthio)methyl)-4-nonylphenol or 2-methyl-4,6-bis((octylthio)methyl)phenol, and may be used in an amount of 0.1 parts by weight to 6 parts by weight based on 100 parts by weight of the rubber component.<!-- EPO <DP n="56"> --></p>
+<p id="p0138" num="0138">The antiaging agent may include, for example, N-isopropyl-N'-phenyl-p-phenylenediamine, N-(1,3-dimethylbutyl)-N'-phenyl-p-phenylenediamine, 6-ethoxy-2,2,4-trimethyl-1,2-dihydroquinoline, or a condensate of diphenylamine and acetone at a high temperature, in an amount of 0.1 parts by weight to 6 parts by weight based on 100 parts by weight of the rubber component.</p>
+<p id="p0139" num="0139">The rubber composition according to an embodiment of the present invention may be obtained by mulling using a mulling apparatus such as a banbury mixer, a roll, and an internal mixer according to a compounding prescription. A rubber composition having low exothermic properties and good abrasion properties may be obtained by a vulcanization process after a molding process.</p>
+<p id="p0140" num="0140">Therefore, the rubber composition may be useful to the manufacture of each member of a tire such as a tire tread, an under tread, a side wall, a carcass coating rubber, a belt coating rubber, a bead filler, a chafer, and a bead coating rubber, or to the manufacture of rubber products in various industries such as a vibration-proof rubber, a belt conveyor, and a hose.</p>
+<p id="p0141" num="0141">Also, the present invention provides a tire manufactured using the rubber composition.</p>
+<p id="p0142" num="0142">The tire may include a tire or a tire tread.<!-- EPO <DP n="57"> --></p>
+<heading id="h0024"><b><u>Examples</u></b></heading>
+<p id="p0143" num="0143">Hereinafter, the present invention will be explained in more detail referring to embodiments. However, embodiments according to the present invention may be modified into various other types, and the scope of the present invention should not be limited to the embodiments described below. The embodiments of the present invention are provided for completely explaining the present invention to a person having an average knowledge in the art.</p>
+<heading id="h0025"><b>Preparation Example 1</b></heading>
+<p id="p0144" num="0144">To a 500 ml, round-bottom flask, 100 ml of tetrahydrofuran and 1 g of n-butyllithium (10 wt% in n-hexane) were added, N,N-dimethyl-1-(4-vinylphenyl)methanamine (molar ratio of 3 mol in contrast to 1 mol of [act. Li]) was added, followed by reacting at 10°C for 30 minutes to prepare a solution containing a macromonomer (15.6 mmol/1). Through GC analysis, N,N-dimethyl-1-(4-vinylphenyl)methanamine was not detected after the reaction, and the achievement of the reaction was secured.</p>
+<heading id="h0026"><b>Preparation Example 2</b></heading>
+<p id="p0145" num="0145">A solution containing a macromonomer (15.6 mmol/1) was prepared by the same method in Preparation Example 1 except<!-- EPO <DP n="58"> --> for adding and reacting 2-vinylpyridine (molar ratio of 3 mol in contrast to 1 mol of [act. Li]) instead of N,N-dimethyl-1-(4-vinylphenyl)methanamine in Preparation Example 1. Through GC analysis, 2-vinylpyridine was not detected after the reaction, and the achievement of the reaction was secured.</p>
+<heading id="h0027"><b>Preparation Example 3</b></heading>
+<p id="p0146" num="0146">A solution containing a macromonomer (15.6 mmol/l) was prepared by the same method in Preparation Example 1 except for adding and reacting 1-(4-vinylpentyl)pyrrolidine (molar ratio of 3 mol in contrast to 1 mol of [act. Li]) instead of N,N-dimethyl-1-(4-vinylphenyl)methanamine in Preparation Example 1. Through GC analysis, 1-(4-vinylpentyl)pyrrolidine was not detected after the reaction, and the achievement of the reaction was secured.</p>
+<heading id="h0028"><b>Preparation Example 4</b></heading>
+<p id="p0147" num="0147">A solution containing a macromonomer (15.4 mmol/1) was prepared by the same method in Preparation Example 1 except for adding and reacting 1-vinypyrrolidine (molar ratio of 3 mol in contrast to 1 mol of [act. Li]) instead of N,N-dimethyl-1-(4-vinylphenyl)methanamine in Preparation Example 1. Through GC analysis, 1-vinylpyrrolidine was not detected after the reaction, and the achievement of the reaction was secured.<!-- EPO <DP n="59"> --></p>
+<heading id="h0029"><b>Preparation Example 5</b></heading>
+<p id="p0148" num="0148">A solution containing a macromonomer (15.6 mmol/1) was prepared by the same method in Preparation Example 1 except for adding and reacting N,N,N',N'-tetraethyl-1-methyl-1-vinylsilanediamine (molar ratio of 3 mol in contrast to 1 mol of [act. Li]) instead of N,N-dimethyl-1-(4-vinylphenyl)methanamine in Preparation Example 1. Through GC analysis, N,N,N',N'-tetraethyl-1-methyl-1-vinylsilandiamine was not detected after the reaction, and the achievement of the reaction was secured.</p>
+<heading id="h0030"><b>Preparation Example 6</b></heading>
+<p id="p0149" num="0149">A solution containing a macromonomer (15.6 mmol/1) was prepared by the same method in Preparation Example 1 except for adding and reacting N,N'-dimethyl-4-methylenehex-5-en-1-amine (molar ratio of 3 mol in contrast to 1 mol of [act. Li]) instead of N,N-dimethyl-1-(4-vinylphenyl)methanamine in Preparation Example 1. Through GC analysis, N,N'-dimethyl-4-methylenehex-5-en-1-amine was not detected after the reaction, and the achievement of the reaction was secured.</p>
+<heading id="h0031"><b>Comparative Preparation Example</b></heading>
+<p id="p0150" num="0150">A solution containing a macromonomer (15.6 mmol/1) was prepared by the same method in Preparation Example 1 except for adding and reacting 1,3-butadiene (molar ratio of 15 mol<!-- EPO <DP n="60"> --> in contrast to 1 mol of [act. Li]) instead of N,N-dimethyl-1-(4-vinylphenyl)methanamine in Preparation Example 1. Through GC analysis, 1,3-butadiene was not detected after the reaction, and the achievement of the reaction was secured.</p>
+<heading id="h0032"><b>Example 1</b></heading>
+<p id="p0151" num="0151">To a 20 L, autoclave reactor, 3 kg of n-hexane, 215 g of styrene, 745 g of 1,3-butadiene and 1.29 g of 2,2-bis(2-oxolanyl)propane as a polar additive were injected, then, 3.2 g of n-butyllithium (10 wt% in n-hexane) was injected, the internal temperature of the reactor was adjusted to 60°C, and an adiabatic reaction with heating was performed. After about 30 minutes lapse, 39 g of 1,3-butadiene was injected for capping the terminals of a polymer with butadiene. After about 10 minutes, N-methyl-3-(trimethoxysilyl)-N-(3-(trimethoxysilyl)propyl)propan-1-amine was injected as a modifier and reacted for 15 minutes (molar ratio of [DTP] : [act. Li] = 1.5:1, molar ratio of [modifier] : [act. Li] = 1:1) . Then, the solution containing a macromonomer prepared in Preparation Example 1 was added and reacted for 15 minutes (molar ratio of [act. Li]:[macromonomer] = 1:2), and the reaction was quenched using ethanol. 33 g of a solution in which 30 wt% of Wingstay K antioxidant was dissolved in hexane was added thereto. The polymer thus obtained was injected into hot water heated using steam and stirred to remove solvents and roll dried to remove<!-- EPO <DP n="61"> --> remaining solvents and water to prepare a modified styrene-butadiene copolymer.</p>
+<heading id="h0033"><b>Example 2</b></heading>
+<p id="p0152" num="0152">A modified styrene-butadiene copolymer was prepared by performing the same method in Example 1 except for using N-(3-(1H-imidazol-1-yl)propyl)-3-(triethoxysilyl)-N-(3-(triethoxysilyl)propyl)propan-1-amine instead of N-methyl-3-(trimethoxysilyl)-N-(3-(trimethoxysilyl)propyl)propan-1-amine as a modifier in Example 1 (molar ratio of [modifier]: [act. Li] = 1:1).</p>
+<heading id="h0034"><b>Example 3</b></heading>
+<p id="p0153" num="0153">A modified styrene-butadiene copolymer was prepared by performing the same method in Example 1 except for injecting N,N'-(cyclohexane-1,3-diylbis(methylene))bis(3-trimethoxysilyl)-N-(3-(trimethoxysilyl)propyl)propan-1-amine) instead of N-methyl-3-(trimethoxysilyl)-N-(3-(trimethoxysilyl)propyl)propan-1-amine as a modifier in Example 1 (molar ratio of [modifier]: [act. Li] = 1:1), and adding the solution containing a macromonomer prepared in Preparation Example 2 as a macromonomer (molar ratio of [act. Li]:[macromonomer] = 1:2).</p>
+<heading id="h0035"><b>Example 4</b></heading><!-- EPO <DP n="62"> -->
+<p id="p0154" num="0154">A modified styrene-butadiene copolymer was prepared by performing the same method in Example 1 except for injecting 3,3′-(1,1,3,3-tetramethoxydisiloxane-1,3-diyl)bis(N,N-diethylpropan-1-amine) instead of N-methyl-3-(trimethoxysilyl)-N-(3-(trimethoxysilyl)propyl)propan-1-amine as a modifier in Example 1 (molar ratio of [modifier] : [act. Li] = 1:1), and adding the solution containing a macromonomer prepared in Preparation Example 3 as a macromonomer (molar ratio of [act. Li]:[macromonomer] = 1:2).</p>
+<heading id="h0036"><b>Example 5</b></heading>
+<p id="p0155" num="0155">A modified styrene-butadiene copolymer was prepared by performing the same method in Example 1 except for injecting 3,3'-(piperazine-1,4-diyl)bis (N,N-bis (3-(triethoxysilyl)propyl)propan-1-amine) instead of N-methyl-3-(trimethoxysilyl)-N-(3-(trimethoxysilyl)propyl)propan-1-amine as a modifier in Example 1 (molar ratio of [modifier] : [act. Li] = 1:1), and adding the solution containing a macromonomer prepared in Preparation Example 4 as a macromonomer (molar ratio of [act. Li]:[macromonomer] = 1:2).</p>
+<heading id="h0037"><b>Example 6</b></heading>
+<p id="p0156" num="0156">A modified styrene-butadiene copolymer was prepared by performing the same method in Example 1 except for injecting tris(3-(trimethoxysilyl)propyl)amine instead of N-methyl-3-(trimethoxysilyl)-N-(3-(trimethoxysilyl)propyl)propan-1-amine<!-- EPO <DP n="63"> --> as a modifier in Example 1 (molar ratio of [modifier]: [act. Li] = 1:1), and adding the solution containing a macromonomer prepared in Preparation Example 5 as a macromonomer (molar ratio of [act. Li]:[macromonomer] = 1:2).</p>
+<heading id="h0038"><b>Example 7</b></heading>
+<p id="p0157" num="0157">A modified styrene-butadiene copolymer was prepared by performing the same method in Example 1 except for injecting 3,3,7,7-tetramethoxy-5,5-bis((trimethoxysilyl)methyl)-2,8-dioxa-3,7-disilanonane instead of N-methyl-3-(trimethoxysilyl)-N-(3-(trimethoxysilyl)propyl)propan-1-amine as a modifier in Example 1 (molar ratio of [modifier] : [act. Li] = 1:1), and adding the solution containing a macromonomer prepared in Preparation Example 6 as a macromonomer (molar ratio of [act. Li]:[macromonomer] = 1:2).</p>
+<heading id="h0039"><b>Comparative Example 1</b></heading>
+<p id="p0158" num="0158">A modified styrene-butadiene copolymer was prepared by performing the same method in Example 1 except for injecting the solution containing a macromonomer prepared in Preparation Example 1 instead of the n-butyllithium in Example 1 such that the mol of the macromonomer was the same as the n-butyllithium in Example 1, performing the adiabatic reaction with heating, not performing a step of adding a modifier and a macromonomer<!-- EPO <DP n="64"> --> and reacting, and quenching the reaction after butadiene capping.</p>
+<heading id="h0040"><b>Comparative Example 2</b></heading>
+<p id="p0159" num="0159">To a 20 L, autoclave reactor, 3 kg of n-hexane, 215 g of styrene, 745 g of 1, 3-butadiene and 1.29 g of 2,2-bis(2-oxolanyl)propane as a polar additive were injected, then, 3.2 g of n-butyllithium (10 wt% in n-hexane) was injected, the internal temperature of the reactor was adjusted to 60°C, and an adiabatic reaction with heating was performed. After about 30 minutes lapse, 39 g of 1,3-butadiene was injected for capping the terminals of a polymer with butadiene. After about 10 minutes, N-methyl-3-(trimethoxysilyl)-N-(3-(trimethoxysilyl)propyl)propan-1-amine was injected as a modifier and reacted for 15 minutes (molar ratio of [DTP] : [act. Li] = 1.5:1, molar ratio of [modifier] : [act. Li] = 1:1) . Then, the reaction was quenched using ethanol. 33 g of a solution in which 30 wt% of Wingstay K antioxidant was dissolved in hexane was added thereto. The polymer thus obtained was injected into hot water heated using steam and stirred to remove solvents and roll dried to remove remaining solvents and water to prepare a modified styrene-butadiene copolymer.</p>
+<heading id="h0041"><b>Comparative Example 3</b></heading>
+<p id="p0160" num="0160">A modified styrene-butadiene copolymer was prepared by<!-- EPO <DP n="65"> --> performing the same method in Comparative Example 2 except for injecting tris(3-(trimethoxysilyl)propyl)amine instead of N-methyl-3-(trimethoxysilyl)-N-(3-(trimethoxysilyl)propyl)propan-1-amine as a modifier in Comparative Example 2 (molar ratio of [DTP]:[act Li] = 1.5:1, molar ratio of [modifier]:[act. Li] = 1:1).</p>
+<heading id="h0042"><b>Comparative Example 4</b></heading>
+<p id="p0161" num="0161">A modified styrene-butadiene copolymer was prepared by performing the same method in Comparative Example 2 except for injecting 1,1,1-trimethyl-N-(3-(triethoxysilyl)propyl)-N-(trimethylsilyl)silanamine instead of N-methyl-3-(trimethoxysilyl)-N-(3-(trimethoxysilyl)propyl)propan-1-amine as a modifier in Comparative Example 2 (molar ratio of [DTP]:[act Li] = 1.5:1, molar ratio of [modifier]:[act. Li] = 1:1).</p>
+<heading id="h0043"><b>Comparative Example 5</b></heading>
+<p id="p0162" num="0162">A modified styrene-butadiene copolymer was prepared by performing the same method in Comparative Example 2 except for injecting 2,2-dimethoxy-1-(3-(trimethoxysilyl)propyl)-1,2-azasilolidine instead of N-methyl-3-(trimethoxysilyl)-N-(3-(trimethoxysilyl)propyl)propan-1-amine as a modifier in Comparative Example 2 (molar ratio of [DTP]:[act Li] = 1.5:1, molar ratio of [modifier]:[act. Li] = 1:1).<!-- EPO <DP n="66"> --></p>
+<heading id="h0044"><b>Comparative Example 6</b></heading>
+<p id="p0163" num="0163">A modified styrene-butadiene copolymer was prepared by performing the same method in Example 3 except for injecting the solution containing a macromonomer prepared in Preparation Example 1 instead of the n-butyllithium in Example 3 such that the mol of the macromonomer was the same as the n-butyllithium in Example 3, performing the adiabatic reaction with heating, not performing a step of adding a macromonomer and reacting after modification reaction, and quenching the reaction.</p>
+<heading id="h0045"><b>Comparative Example 7</b></heading>
+<p id="p0164" num="0164">A modified styrene-butadiene copolymer was prepared by performing the same method in Example 6 except for injecting the solution containing a macromonomer prepared in Preparation Example 5 instead of the n-butyllithium in Example 6 such that the mol of the macromonomer was the same as the n-butyllithium in Example 6, and performing the adiabatic reaction with heating, not performing a step of adding a macromonomer and reacting after modification reaction, and quenching the reaction.</p>
+<heading id="h0046"><b>Comparative Example 8</b></heading>
+<p id="p0165" num="0165">A modified styrene-butadiene copolymer was prepared by performing the same method in Comparative Example 6 except for<!-- EPO <DP n="67"> --> injecting N-methyl-3-(trimethoxysilyl)-N-(3-(trimethoxysilyl)propyl)propan-1-amine instead of tris(3-(trimethoxysilyl)propyl)amine as a modifier in Comparative Example 6 (molar ratio of [modifier]:[act. Li] = 1:1).</p>
+<heading id="h0047"><b>Comparative Example 9</b></heading>
+<p id="p0166" num="0166">A modified styrene-butadiene copolymer was prepared by performing the same method in Comparative Example 2 except for using the solution containing a macromonomer prepared in Comparative Preparation Example after modification reaction in Comparative Example 2 (molar ratio of [act. Li]:[macromonomer] = 1:2), additionally reacting for 15 minutes and quenching the reaction (molar ratio of [modifier]:[act. Li] = 1:1).</p>
+<heading id="h0048"><b>Experimental Example 1</b></heading>
+<p id="p0167" num="0167">With respect to each of the modified or unmodified conjugated diene-based polymers prepared in the Examples and Comparative Examples, the styrene unit and vinyl contents in each polymer, a weight average molecular weight (Mw, x10<sup>3</sup> g/mol), a number average molecular weight (Mn, x10<sup>3</sup> g/mol), molecular weight distribution (PDI, MWD), mooney viscosity (MV), the rate of change of mooney viscosity, and the Si and N contents were measured, respectively. The results are shown in Table 1 below.</p>
+<heading id="h0049"><u>1) Styrene unit and vinyl contents (wt%)</u></heading><!-- EPO <DP n="68"> -->
+<p id="p0168" num="0168">The styrene unit (SM) and vinyl contents in each polymer were measured and analyzed using Varian VNMRS 500 MHz NMR.</p>
+<p id="p0169" num="0169">When measuring NMR, 1,1,2,2-tetrachloroethane was used as a solvent, and styrene unit and vinyl contents were calculated by calculating a solvent peak as 5.97 ppm, and regarding 7.2-6.9 ppm as random styrene peaks, 6.9-6.2 ppm as block styrene peaks, 5.8-5.1 ppm as 1,4-vinyl peaks, and 5.1-4.5 ppm as 1,2-vinyl peaks.</p>
+<heading id="h0050"><u>2) Weight average molecular weight (Mw, x10</u><sup><u>3</u></sup> <u>g/mol), number average molecular weight (Mn, x10</u><sup><u>3</u></sup> <u>g/mol), and molecular weight distribution (PDI, MWD)</u></heading>
+<p id="p0170" num="0170">By gel permeation chromatography (GPC) analysis, a weight average molecular weight (Mw) and a number average molecular weight (Mn) were measured and a molecular weight distribution curve was obtained. In addition, molecular weight distribution (PDI, MWD, Mw/Mn) was calculated from each molecular weight thus measured. Particularly, GPC was conducted using two columns of PLgel Olexis (Polymer Laboratories Co.) and one column of PLgel mixed-C (Polymer Laboratories Co.) in combination, and polystyrene (PS) as a GPC standard material for calculating the molecular weights. A solvent for measuring GPC was prepared by mixing tetrahydrofuran with 2 wt% of an amine compound.<!-- EPO <DP n="69"> --></p>
+<heading id="h0051"><u>3) Mooney viscosity and rate of change of mooney viscosity</u></heading>
+<p id="p0171" num="0171">The mooney viscosity (MV, (ML1+4, @100°C) MU) was measured by using MV-2000 (ALPHA Technologies Co.) using Large Rotor at a rotor speed of 2±0.02 rpm at 100°C. In this case, a specimen used was stood at room temperature (23±3°C) for 30 minutes or more, and 27±3 g of the specimen was collected and put in a die cavity, and then, Platen was operated for 4 minutes for measurement.</p>
+<p id="p0172" num="0172">In addition, the rate of change of mooney viscosity was obtained by standing each same specimen at room temperature for 30 days, measuring the mooney viscosity by the above-described method, and calculating by Mathematical Formula 1 below.<maths id="math0004" num="[Mathematical Formula 1]"><math display="block"><msub><mi>MV</mi><mi mathvariant="normal">R</mi></msub><mo>=</mo><mfenced open="[" close="]" separators=""><mfenced separators=""><msub><mi>MV</mi><mi mathvariant="normal">f</mi></msub><mo>−</mo><msub><mi>MV</mi><mi mathvariant="normal">i</mi></msub></mfenced><mo>/</mo><msub><mi>MV</mi><mi mathvariant="normal">i</mi></msub></mfenced><mo>×</mo><mn>100</mn></math><img id="ib0026" file="imgb0026.tif" wi="74" he="15" img-content="math" img-format="tif"/></maths></p>
+<p id="p0173" num="0173">In Mathematical Formula 1, MV<sub>R</sub> is the rate of change of mooney viscosity, MV<sub>f</sub> is mooney viscosity at 100°C after standing the polymer at 25°C for 30 days, and MVi is initial mooney viscosity of the polymer at 100°C.</p>
+<heading id="h0052"><u>4) Si content</u></heading>
+<p id="p0174" num="0174">The Si content was measured by an ICP analysis method, which used an inductively coupled plasma optical emission<!-- EPO <DP n="70"> --> spectroscopy (ICP-OES; Optima 7300DV). Particularly, measurement was performed by adding about 0.7 g of a specimen to a platinum (Pt) crucible and adding about 1 mL of concentrated sulfuric acid (98 wt%, electronic grade) thereto, heating at 300°C for 3 hours, incinerating the specimen in an electrical furnace (Thermo Scientific, Lindberg Blue M) by the following program of steps 1 to 3:
+<ol id="ol0004" compact="compact" ol-style="">
+<li>1) step 1: initial temp 0°C, rate (temp/hr) 180°C/hr, temp (holdtime) 180°C (1hr)</li>
+<li>2) step 2: initial temp 180°C, rate (temp/hr) 85°C/hr, temp (holdtime) 370°C (2hr)</li>
+<li>3) step 3: initial temp 370°C, rate (temp/hr) 47°C/hr, temp (holdtime) 510°C (3hr),</li>
+</ol>
+adding 1 mL of concentrated nitric acid (48 wt%) and 20 µl of concentrated hydrofluoric acid (50 wt%) to a residue, sealing the platinum crucible and shaking for 30 minutes or more, adding 1 mL of boric acid to the specimen, storing at 0°C for 2 hours or more, diluting in 30 mL of ultrapure water, and performing incineration.</p>
+<heading id="h0053"><u>5) N content</u></heading>
+<p id="p0175" num="0175">The N content was measured through an NSX analysis method using a quantitative analyzer of a trace amount of nitrogen (NSX-2100H). Particularly, the quantitative analyzer of a trace amount of nitrogen (Auto sampler, Horizontal furnace,<!-- EPO <DP n="71"> --> PMT &amp; Nitrogen detector) was turned on, carrier gas flow amounts were set to 250 ml/min for Ar, 350 ml/min for O<sub>2</sub>, and 300 ml/min for ozonizer, a heater was set to 800°C, and the analyzer was stood for about 3 hours for stabilization. After stabilizing the analyzer, a calibration curve of calibration curve ranges of 5 ppm, 10 ppm, 50 ppm, 100 ppm and 500 ppm was made using Nitrogen standard (AccuStandard S-22750-01-5 ml), and an area corresponding to each concentration was obtained. Then, by using the ratios of concentrations to areas, a straight line was made. After that, a ceramic boat holding 20 mg of a specimen was put in the auto sampler of the analyzer and measurement was conducted to obtain an area. By using the area of the specimen thus obtained and the calibration curve, the N content was calculated.<!-- EPO <DP n="72"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>[Table 1]</title>
+<tgroup cols="18">
+<colspec colnum="1" colname="col1" colwidth="30mm"/>
+<colspec colnum="2" colname="col2" colwidth="31mm"/>
+<colspec colnum="3" colname="col3" colwidth="11mm"/>
+<colspec colnum="4" colname="col4" colwidth="11mm"/>
+<colspec colnum="5" colname="col5" colwidth="11mm"/>
+<colspec colnum="6" colname="col6" colwidth="11mm"/>
+<colspec colnum="7" colname="col7" colwidth="11mm"/>
+<colspec colnum="8" colname="col8" colwidth="11mm"/>
+<colspec colnum="9" colname="col9" colwidth="11mm"/>
+<colspec colnum="10" colname="col10" colwidth="13mm"/>
+<colspec colnum="11" colname="col11" colwidth="13mm"/>
+<colspec colnum="12" colname="col12" colwidth="13mm"/>
+<colspec colnum="13" colname="col13" colwidth="13mm"/>
+<colspec colnum="14" colname="col14" colwidth="13mm"/>
+<colspec colnum="15" colname="col15" colwidth="13mm"/>
+<colspec colnum="16" colname="col16" colwidth="13mm"/>
+<colspec colnum="17" colname="col17" colwidth="13mm"/>
+<colspec colnum="18" colname="col18" colwidth="11mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col2" morerows="1" align="center" valign="middle">Division</entry>
+<entry namest="col3" nameend="col9" align="center" valign="middle">Example</entry>
+<entry namest="col10" nameend="col18" align="center" valign="middle">Comparative Example</entry></row>
+<row>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">9</entry></row></thead>
+<tbody>
+<row>
+<entry morerows="1" align="center" valign="middle">NMR (wt%)</entry>
+<entry align="center" valign="middle">SM</entry>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">21</entry>
+<entry align="center" valign="middle">21</entry></row>
+<row>
+<entry align="center" valign="middle">Vinyl</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry></row>
+<row>
+<entry morerows="2" align="center">GPC</entry>
+<entry align="center">Mn (X10<sup>3</sup>, g/mol)</entry>
+<entry align="center">380</entry>
+<entry align="center">408</entry>
+<entry align="center">470</entry>
+<entry align="center">402</entry>
+<entry align="center">486</entry>
+<entry align="center">452</entry>
+<entry align="center">377</entry>
+<entry align="center">280</entry>
+<entry align="center">400</entry>
+<entry align="center">482</entry>
+<entry align="center">350</entry>
+<entry align="center">401</entry>
+<entry align="center">493</entry>
+<entry align="center">435</entry>
+<entry align="center">425</entry>
+<entry align="center">410</entry></row>
+<row>
+<entry align="center">Mw (X10<sup>3</sup>. g/mol)</entry>
+<entry align="center">551</entry>
+<entry align="center">661</entry>
+<entry align="center">823</entry>
+<entry align="center">615</entry>
+<entry align="center">81.6</entry>
+<entry align="center">759</entry>
+<entry align="center">596</entry>
+<entry align="center">336</entry>
+<entry align="center">540</entry>
+<entry align="center">815</entry>
+<entry align="center">434</entry>
+<entry align="center">630</entry>
+<entry align="center">838</entry>
+<entry align="center">735</entry>
+<entry align="center">659</entry>
+<entry align="center">586</entry></row>
+<row>
+<entry align="center" valign="middle">PDI</entry>
+<entry align="center" valign="middle">1.45</entry>
+<entry align="center" valign="middle">1.62</entry>
+<entry align="center" valign="middle">1.75</entry>
+<entry align="center" valign="middle">1.53</entry>
+<entry align="center" valign="middle">1.68</entry>
+<entry align="center" valign="middle">1.68</entry>
+<entry align="center" valign="middle">1.58</entry>
+<entry align="center" valign="middle">1.20</entry>
+<entry align="center" valign="middle">1.35</entry>
+<entry align="center" valign="middle">1.69</entry>
+<entry align="center" valign="middle">1.24</entry>
+<entry align="center" valign="middle">1.57</entry>
+<entry align="center" valign="middle">1.70</entry>
+<entry align="center" valign="middle">1.69</entry>
+<entry align="center" valign="middle">1.62</entry>
+<entry align="center" valign="middle">1.43</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle"><b>Mooney viscosity</b> (MV)</entry>
+<entry align="center" valign="middle">62</entry>
+<entry align="center" valign="middle">84</entry>
+<entry align="center" valign="middle">96</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">95</entry>
+<entry align="center" valign="middle">94</entry>
+<entry align="center" valign="middle">79</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">67</entry>
+<entry align="center" valign="middle">93</entry>
+<entry align="center" valign="middle">67</entry>
+<entry align="center" valign="middle">82</entry>
+<entry align="center" valign="middle">92</entry>
+<entry align="center" valign="middle">89</entry>
+<entry align="center" valign="middle">94</entry>
+<entry align="center" valign="middle">73</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Mooney viscosity after standing for 30 days</entry>
+<entry align="center" valign="middle">68</entry>
+<entry align="center" valign="middle">88</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">79</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">98</entry>
+<entry align="center" valign="middle">85</entry>
+<entry align="center" valign="middle">65</entry>
+<entry align="center" valign="middle">90</entry>
+<entry align="center" valign="middle">112</entry>
+<entry align="center" valign="middle">93</entry>
+<entry align="center" valign="middle">99</entry>
+<entry align="center" valign="middle">113</entry>
+<entry align="center" valign="middle">119</entry>
+<entry align="center" valign="middle">115</entry>
+<entry align="center" valign="middle">77</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Rate of change of mooney viscosity (%)</entry>
+<entry align="center" valign="middle">9.68</entry>
+<entry align="center" valign="middle">4.76</entry>
+<entry align="center" valign="middle">4.17</entry>
+<entry align="center" valign="middle">5.33</entry>
+<entry align="center" valign="middle">5.26</entry>
+<entry align="center" valign="middle">4.26</entry>
+<entry align="center" valign="middle">7.59</entry>
+<entry align="center" valign="middle">44.44</entry>
+<entry align="center" valign="middle">34.33</entry>
+<entry align="center" valign="middle">20.43</entry>
+<entry align="center" valign="middle">38.81</entry>
+<entry align="center" valign="middle">20.73</entry>
+<entry align="center" valign="middle">22.82</entry>
+<entry align="center" valign="middle">22.47</entry>
+<entry align="center" valign="middle">22.34</entry>
+<entry align="center" valign="middle">5.5</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Si content (ppm)</entry>
+<entry align="center" valign="middle">244</entry>
+<entry align="center" valign="middle">229</entry>
+<entry align="center" valign="middle">459</entry>
+<entry align="center" valign="middle">244</entry>
+<entry align="center" valign="middle">468</entry>
+<entry align="center" valign="middle">733</entry>
+<entry align="center" valign="middle">468</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">185</entry>
+<entry align="center" valign="middle">320</entry>
+<entry align="center" valign="middle">301</entry>
+<entry align="center" valign="middle">242</entry>
+<entry align="center" valign="middle">462</entry>
+<entry align="center" valign="middle">571</entry>
+<entry align="center" valign="middle">472</entry>
+<entry align="center" valign="middle">220</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">N content (ppm)</entry>
+<entry align="center" valign="middle">243</entry>
+<entry align="center" valign="middle">286</entry>
+<entry align="center" valign="middle">286</entry>
+<entry align="center" valign="middle">304</entry>
+<entry align="center" valign="middle">408</entry>
+<entry align="center" valign="middle">426</entry>
+<entry align="center" valign="middle">233</entry>
+<entry align="center" valign="middle">57</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">62</entry>
+<entry align="center" valign="middle">54</entry>
+<entry align="center" valign="middle">78</entry>
+<entry align="center" valign="middle">114</entry>
+<entry align="center" valign="middle">125</entry>
+<entry align="center" valign="middle">120</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">N/Si (molar ratio)</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">2.5</entry>
+<entry align="center" valign="middle">1..3</entry>
+<entry align="center" valign="middle">2.5</entry>
+<entry align="center" valign="middle">1.7</entry>
+<entry align="center" valign="middle">1.2</entry>
+<entry align="center" valign="middle">1.0</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.8</entry>
+<entry align="center" valign="middle">0.3</entry>
+<entry align="center" valign="middle">0.4</entry>
+<entry align="center" valign="middle">0.4</entry>
+<entry align="center" valign="middle">0.3</entry>
+<entry align="center" valign="middle">0.4</entry>
+<entry align="center" valign="middle">0.5</entry>
+<entry align="center" valign="middle">0.7</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="73"> --></p>
+<p id="p0176" num="0176">As shown in Table 1 above, in Examples 1 to 7, it was confirmed that the N content was 150 ppm or more, the Si content was 50 ppm or more, and the rate of change of mooney viscosity was 20% or less, and both conditions a) and b) suggested in the present invention were satisfied.</p>
+<p id="p0177" num="0177">On the contrary, in Comparative Example 1 to Comparative Example 9, the N content was less than 150 ppm, the rate of change of mooney viscosity was greater than 20%, and both conditions a) and b) suggested in the present invention were not satisfied. In this case, Comparative Example 1 corresponded to a polymer prepared by using the macromonomer suggested in the present invention as a polymerization initiator and not performing the modification reaction and the reaction with the macromonomer after polymerization reaction, Comparative Example 2 to Comparative Example 5 corresponded to polymers prepared without using the macromonomer suggested in the present invention, Comparative Example 6 to Comparative Example 8 corresponded to polymers prepared by using the macromonomer suggested in the present invention as a modification polymerization initiator and not performing a step of reacting with the macromonomer after modification reaction, and Comparative Example 9 corresponded to a polymer prepared by using a macromonomer not including a repeating unit derived from an N-functional group-containing<!-- EPO <DP n="74"> --> monomer.</p>
+<p id="p0178" num="0178">From the results shown in Table 1, it could be confirmed that the modified conjugated diene-based polymer according to an embodiment of the present invention was prepared through a preparation method including a step of reacting a macromonomer including a repeating unit derived from an N-functional group-containing monomer with a modified active first chain after modification reaction, as suggested in the present invention, and satisfied conditions a) and b) at the same time.</p>
+<heading id="h0054"><b>Experimental Example 2</b></heading>
+<p id="p0179" num="0179">In order to compare and analyze the physical properties of rubber compositions including the modified styrene-butadiene copolymers prepared in the Examples and Comparative Examples, and molded articles manufactured therefrom, tensile properties and viscoelasticity properties were measured, respectively, and the results are shown in Table 3 below.</p>
+<heading id="h0055"><u>1) Preparation of rubber specimen</u></heading>
+<p id="p0180" num="0180">Blending was performed using each of the modified or unmodified conjugated diene-based polymers of the Examples, Comparative Examples and Reference Examples as a raw material rubber under the compounding conditions shown in Table 2 below. The raw materials in Table 2 are represented by parts by weight based on 100 parts by weight of the raw material rubber.<!-- EPO <DP n="75"> -->
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>[Table 2]</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="36mm"/>
+<colspec colnum="2" colname="col2" colwidth="41mm"/>
+<colspec colnum="3" colname="col3" colwidth="41mm"/>
+<thead>
+<row>
+<entry valign="top">Division</entry>
+<entry valign="top">Raw material</entry>
+<entry valign="top">Amount (parts by weight)</entry></row></thead>
+<tbody>
+<row>
+<entry morerows="8">First stage mulling</entry>
+<entry>Rubber</entry>
+<entry>100</entry></row>
+<row>
+<entry>Silica</entry>
+<entry>70</entry></row>
+<row>
+<entry>Coupling agent (X50S)</entry>
+<entry>11.2</entry></row>
+<row>
+<entry>Process oil</entry>
+<entry>37.5</entry></row>
+<row>
+<entry>Zinc white</entry>
+<entry>3</entry></row>
+<row>
+<entry>Stearic acid</entry>
+<entry>2</entry></row>
+<row>
+<entry>Antioxidant</entry>
+<entry>2</entry></row>
+<row>
+<entry>Antiaging agent</entry>
+<entry>2</entry></row>
+<row>
+<entry>wax</entry>
+<entry>1</entry></row>
+<row>
+<entry morerows="2">Second stage mulling</entry>
+<entry>Sulfur</entry>
+<entry>1.5</entry></row>
+<row>
+<entry>Rubber accelerator</entry>
+<entry>1.75</entry></row>
+<row>
+<entry>Vulcanization accelerator</entry>
+<entry>2</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0181" num="0181">Particularly, the rubber specimen was mulled via a first stage mulling and a second stage mulling. In the first stage mulling, a raw material rubber, silica (filler), an organic silane coupling agent (X50S, Evonik), a process oil (TADE oil), zinc oxide (ZnO), stearic acid, an antioxidant (TMQ (RD)) (2,2,4-trimethyl-1,2-dihydroquinoline polymer), an antiaging agent (6PPD ((dimethylbutyl)-N-phenyl-phenylenediamine) and wax (Microcrystaline Wax) were mulled using a banbury mixer equipped with a temperature controlling apparatus. In this case, the initial temperature of a mulling apparatus was controlled to 70°C, and after finishing mixing, a first compound mixture was obtained at a discharge<!-- EPO <DP n="76"> --> temperature of 145°C to 155°C. In the second stage mulling, the first compound mixture was cooled to room temperature, and the first compound mixture, sulfur, a rubber accelerator (diphenylguanidine (DPG)), and a vulcanization accelerator (N-cyclohexyl-2-benzothiazylsulfenamide (CZ)) were added to the mulling apparatus and mixed at a temperature of 100°C or less to obtain a second compound mixture. Then, via a curing process at 160°C for 20 minutes, a rubber specimen was formed.</p>
+<heading id="h0056"><u>2) Tensile properties</u></heading>
+<p id="p0182" num="0182">For measuring the tensile properties, each test specimen was manufactured and tensile stress when stretched by 300% (300% modulus) of each specimen was measured according to an ASTM 412 tensile test method. Particularly, tensile properties were measured using a Universal Test Machin 4204 tensile tester (Instron Co.) in a rate of 50 cm/min at room temperature.</p>
+<heading id="h0057"><u>3) Viscoelasticity properties</u></heading>
+<p id="p0183" num="0183">The viscoelasticity properties were secured by measuring viscoelasticity behavior on thermodynamic deformation at each measurement temperature (-60°C-60°C) with a frequency of 10 Hz by using a dynamic mechanical analyzer (GABO Co.) in a film tension mode and securing a tan δ value. From the resultant values, if a tan δ value at a low temperature<!-- EPO <DP n="77"> --> of 0°C increases, wet skid resistance becomes better, and if a tan δ at a high temperature of 60°C decreases, hysteresis loss decreases, and rotation resistance (fuel consumption ratio) becomes better. The resultant values in Table 3 were indexed (%)based on the resultant values of Comparative Example 1, and thus, the higher numerical value means better results.</p>
+<heading id="h0058"><u>4) Processability properties</u></heading>
+<p id="p0184" num="0184">By measuring the mooney viscosity (MV, (ML1+4, 0100°C) MU) of the first compound mixture obtained during 1) preparation of rubber specimen, the processability properties of each polymer was compared and analyzed, and in this case, the lower the measured value of the moony viscosity is, the better the processability properties are. The resultant values in Table 3 were indexed (%)based on the resultant values of Comparative Example 3, and thus, the higher numerical value means better results.</p>
+<p id="p0185" num="0185">Particularly, by using MV-2000 (ALPHA Technologies Co.) using Large Rotor at a rotor speed of 2±0.02 rpm at 100°C, each first compound mixture was stood at room temperature (23±3°C) for 30 minutes or more, and 27±3 g was collected and put in a die cavity, and then, Platen was operated for 4 minutes for measurement.<!-- EPO <DP n="78"> -->
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>[Table 3]</title>
+<tgroup cols="18">
+<colspec colnum="1" colname="col1" colwidth="39mm"/>
+<colspec colnum="2" colname="col2" colwidth="39mm"/>
+<colspec colnum="3" colname="col3" colwidth="11mm"/>
+<colspec colnum="4" colname="col4" colwidth="11mm"/>
+<colspec colnum="5" colname="col5" colwidth="11mm"/>
+<colspec colnum="6" colname="col6" colwidth="11mm"/>
+<colspec colnum="7" colname="col7" colwidth="11mm"/>
+<colspec colnum="8" colname="col8" colwidth="11mm"/>
+<colspec colnum="9" colname="col9" colwidth="11mm"/>
+<colspec colnum="10" colname="col10" colwidth="11mm"/>
+<colspec colnum="11" colname="col11" colwidth="11mm"/>
+<colspec colnum="12" colname="col12" colwidth="11mm"/>
+<colspec colnum="13" colname="col13" colwidth="11mm"/>
+<colspec colnum="14" colname="col14" colwidth="11mm"/>
+<colspec colnum="15" colname="col15" colwidth="11mm"/>
+<colspec colnum="16" colname="col16" colwidth="11mm"/>
+<colspec colnum="17" colname="col17" colwidth="11mm"/>
+<colspec colnum="18" colname="col18" colwidth="11mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col2" morerows="1" align="center" valign="middle">Division</entry>
+<entry namest="col3" nameend="col9" align="center" valign="middle">Example</entry>
+<entry namest="col10" nameend="col18" align="center" valign="middle">Comparative Example</entry></row>
+<row>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">9</entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">Tensile properties</entry>
+<entry align="center">300% modulus (kgf/cm<sup>2</sup>)</entry>
+<entry align="center">162</entry>
+<entry align="center">160</entry>
+<entry align="center">161</entry>
+<entry align="center">161</entry>
+<entry align="center">162</entry>
+<entry align="center">160</entry>
+<entry align="center">163</entry>
+<entry align="center">148</entry>
+<entry align="center">147</entry>
+<entry align="center">147</entry>
+<entry align="center">150</entry>
+<entry align="center">149</entry>
+<entry align="center">160</entry>
+<entry align="center">162</entry>
+<entry align="center">158</entry>
+<entry align="center">149</entry></row>
+<row>
+<entry morerows="1" valign="middle">Viscoelasticity properties</entry>
+<entry align="center">tan δ (at 0°C, Index)</entry>
+<entry align="center">101</entry>
+<entry align="center">100</entry>
+<entry align="center">102</entry>
+<entry align="center">97</entry>
+<entry align="center">101</entry>
+<entry align="center">99</entry>
+<entry align="center">98</entry>
+<entry align="center">100</entry>
+<entry align="center">102</entry>
+<entry align="center">98</entry>
+<entry align="center">97</entry>
+<entry align="center">96</entry>
+<entry align="center">94</entry>
+<entry align="center">95</entry>
+<entry align="center">96</entry>
+<entry align="center">97</entry></row>
+<row>
+<entry align="center">tan δ (at 60°C , Index)</entry>
+<entry align="center">121</entry>
+<entry align="center">120</entry>
+<entry align="center">118</entry>
+<entry align="center">119</entry>
+<entry align="center">118</entry>
+<entry align="center">122</entry>
+<entry align="center">121</entry>
+<entry align="center">100</entry>
+<entry align="center">102</entry>
+<entry align="center">101</entry>
+<entry align="center">101</entry>
+<entry align="center">99</entry>
+<entry align="center">118</entry>
+<entry align="center">120</entry>
+<entry align="center">115</entry>
+<entry align="center">100</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="middle">Processability properties (Index)</entry>
+<entry align="center" valign="middle">101</entry>
+<entry align="center" valign="middle">101</entry>
+<entry align="center" valign="middle">103</entry>
+<entry align="center" valign="middle">99</entry>
+<entry align="center" valign="middle">98</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">102</entry>
+<entry align="center" valign="middle">90</entry>
+<entry align="center" valign="middle">101</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">95</entry>
+<entry align="center" valign="middle">98</entry>
+<entry align="center" valign="middle">75</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">67</entry>
+<entry align="center" valign="middle">99</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="79"> --></p>
+<p id="p0186" num="0186">As shown in Table 3, it was confirmed that Examples 1 to 7 showed excellent processability properties and at the same time, excellent tensile properties and viscoelasticity properties when compared with Comparative Examples 1 to 9. Particularly, Examples 1 to 7 showed improved viscoelasticity properties and markedly improved and processability, while showing equal or better tensile properties when compared with Comparative Examples 6 to 9. Here, Comparative Example 1 to Comparative Example 9 corresponded to polymers not satisfying conditions a) and b) suggested in the present invention at the same time.</p>
+<p id="p0187" num="0187">Through Table 1 and Table 3, it could be confirmed that the modified conjugated diene-based polymer of the present invention was prepared by a preparation method including a step of reacting with a macromonomer after modification reaction, and satisfied conditions a) and b) at the same time, and accordingly, marked effects not shown by Comparative Examples 1 to 9, particularly, Comparative Examples 6 to 8, could be shown. Through the effect difference, it could be anticipated that the modified conjugated diene-based polymer of the present invention is a copolymer having a different structure from Comparative Examples 6 to 8, for example, a structure like a graft copolymer through the coupling of the second chain including the repeating unit derived from the N-functional group-containing monomer derived from the<!-- EPO <DP n="80"> --> macromonomer with the modified polymer first chain via the functional group derived from a modifier.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="81"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>A modified conjugated diene-based polymer comprising a Si atom and a N atom, and satisfying the following conditions a) and b) :
+<claim-text>a) a N content in a polymer according to NSX analysis is 150 ppm or more on the basis of a weight; and</claim-text>
+<claim-text>b) a rate of change of mooney viscosity (MV<sub>R</sub>) according to the following Mathematical Formula 1 is 20% or less: <maths id="math0005" num="[Mathematical Formula 1]"><math display="block"><msub><mi>MV</mi><mi mathvariant="normal">R</mi></msub><mo>=</mo><mfenced open="[" close="]" separators=""><mfenced separators=""><msub><mi>MV</mi><mi mathvariant="normal">f</mi></msub><mo>−</mo><msub><mi>MV</mi><mi mathvariant="normal">i</mi></msub></mfenced><mo>/</mo><msub><mi>MV</mi><mi mathvariant="normal">i</mi></msub></mfenced><mo>×</mo><mn>100</mn></math><img id="ib0027" file="imgb0027.tif" wi="72" he="14" img-content="math" img-format="tif"/></maths> in Mathematical Formula 1, MV<sub>R</sub> is the rate of change of mooney viscosity, MV<sub>f</sub> is mooney viscosity at 100°C after standing the polymer at 25°C for 30 days, and MVi is initial mooney viscosity of the polymer at 100°C.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The modified conjugated diene-based polymer of claim 1, wherein the modified conjugated diene-based polymer has d) a molar ratio (N/Si) of the N atom and the Si atom of 0.75 or more.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The modified conjugated diene-based polymer of claim 1, wherein the modified conjugated diene-based polymer has the N content of 170 ppm or more on the basis of a weight.<!-- EPO <DP n="82"> --></claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The modified conjugated diene-based polymer of claim 1, wherein the modified conjugated diene-based polymer has the rate of change of mooney viscosity (MV<sub>R</sub>) according to Mathematical Formula 1 of 15% or less.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The modified conjugated diene-based polymer of claim 1, wherein a Si content in a polymer according to ICP analysis is 50 ppm or more on the basis of a weight.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The modified conjugated diene-based polymer of claim 1, comprising a first chain comprising a repeating unit derived from a conjugated diene-based monomer; a second chain comprising a repeating unit derived from an N-functional group-containing monomer; and a derived unit from an alkoxysilane-based compound.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The modified conjugated diene-based polymer of claim 6, wherein the alkoxysilane-based compound is an amine-containing alkoxysilane-based compound or a non-amine-containing alkoxysilane-based compound.</claim-text></claim>
+<claim id="c-en-0008" num="0008">
+<claim-text>The modified conjugated diene-based polymer of claim 6, wherein the first chain further comprises a repeating unit derived from an aromatic vinyl-based monomer.<!-- EPO <DP n="83"> --></claim-text></claim>
+<claim id="c-en-0009" num="0009">
+<claim-text>The modified conjugated diene-based polymer of claim 6, wherein the second chain further comprises a derived unit from a conjugated diene-based monomer.</claim-text></claim>
+<claim id="c-en-0010" num="0010">
+<claim-text>The modified conjugated diene-based polymer of claim 1, wherein a number average molecular weight (Mn) is 1,000 g/mol to 2,000,000 g/mol, a weight average molecular weight (Mw) is 1,000 g/mol to 3,000,000 g/mol, and a peak average molecular weight (Mp) is 1,000 g/mol to 3,000,000 g/mol.</claim-text></claim>
+<claim id="c-en-0011" num="0011">
+<claim-text>A method for preparing the modified conjugated diene-based polymer of claim 1, the method comprising:
+<claim-text>polymerizing a conjugated diene-based monomer, or a conjugated diene-based monomer and an aromatic vinyl-based monomer in the presence of a polymerization initiator in a carbon solvent to prepare an active first chain (S1);</claim-text>
+<claim-text>reacting the active first chain with an alkoxysilane-based modifier to prepare a modified active first chain (S2); and</claim-text>
+<claim-text>reacting the modified active first chain and a macromonomer comprising a repeating unit derived from an N-functional group-containing monomer (S3).</claim-text></claim-text></claim>
+<claim id="c-en-0012" num="0012">
+<claim-text>The method for preparing the modified conjugated diene-based polymer of claim 11, wherein the macromonomer further<!-- EPO <DP n="84"> --> comprises a derived unit from a conjugated diene-based monomer.</claim-text></claim>
+<claim id="c-en-0013" num="0013">
+<claim-text>The method for preparing the modified conjugated diene-based polymer of claim 11, wherein the macromonomer is prepared by low-degree polymerization reaction of an N-functional group-containing monomer, or an N-functional group-containing monomer and a conjugated diene-based monomer in the presence of an organolithium compound in a hydrocarbon solvent.</claim-text></claim>
+<claim id="c-en-0014" num="0014">
+<claim-text>The method for preparing the modified conjugated diene-based polymer of claim 11, wherein the alkoxysilane-based compound is used in 0.1 mol to 10 mol based on 1 mol of the polymerization initiator.</claim-text></claim>
+<claim id="c-en-0015" num="0015">
+<claim-text>The method for preparing the modified conjugated diene-based polymer of claim 11, wherein the macromonomer is used in 0.1 to 4.0 mol based on 1 mol of the polymerization initiator.</claim-text></claim>
+<claim id="c-en-0016" num="0016">
+<claim-text>A rubber composition comprising the modified conjugated diene-based polymer of claim 1, and a filler.</claim-text></claim>
+<claim id="c-en-0017" num="0017">
+<claim-text>The rubber composition of claim 16, wherein the rubber composition comprises 0.1 parts by weight to 200 parts by weight of the filler based on 100 parts by weight of the modified conjugated diene-based polymer.</claim-text></claim>
+</claims>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="163" he="233" type="tif"/><doc-page id="srep0002" file="srep0002.tif" wi="163" he="233" type="tif"/><doc-page id="srep0003" file="srep0003.tif" wi="163" he="233" type="tif"/><doc-page id="srep0004" file="srep0004.tif" wi="163" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="KR1020190113004"><document-id><country>KR</country><doc-number>1020190113004</doc-number><date>20190911</date></document-id></patcit><crossref idref="pcit0001">[0001]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="KR1020200116392"><document-id><country>KR</country><doc-number>1020200116392</doc-number><date>20200910</date></document-id></patcit><crossref idref="pcit0002">[0001]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="US4397994A"><document-id><country>US</country><doc-number>4397994</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0003">[0006]</crossref><crossref idref="pcit0004">[0008]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>
