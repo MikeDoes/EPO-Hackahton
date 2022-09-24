@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP17762054B1" file="EP17762054NWB1.xml" lang="en" country="EP" doc-number="3500633" kind="B1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSK..HRIS..MTNORS..SM..................</B001EP><B003EP>*</B003EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  2100000/0</B007EP></eptags></B000><B100><B110>3500633</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>17762054.9</B210><B220><date>20170817</date></B220><B240><B241><date>20190218</date></B241></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>201662375962 P</B310><B320><date>20160817</date></B320><B330><ctry>US</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20190626</date><bnum>201926</bnum></B430><B450><date>20211006</date><bnum>202140</bnum></B450><B452EP><date>20210330</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>C09D   7/00        20180101AFI20210309BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C09D   7/40        20180101ALI20210309BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>C09D   7/70        20180101 LI20190620BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>BESCHICHTETE ROHRLEITUNGEN UND VERFAHREN ZUM REPARIEREN ODER VERSTÄRKEN VON ROHRLEITUNGEN</B542><B541>en</B541><B542>COATED CONDUITS AND METHODS OF REPAIRING OR REINFORCING CONDUITS</B542><B541>fr</B541><B542>TUYAUX REVÊTUS ET PROCÉDÉS DE RÉPARATION OU DE RENFORCEMENT DE TUYAUX</B542></B540><B560><B561><text>DE-A1-102012 109 686</text></B561><B561><text>RU-C1- 2 107 216</text></B561><B561><text>RU-C2- 2 201 549</text></B561></B560></B500><B700><B720><B721><snm>CASH, Brandon</snm><adr><str>389 East Killarney Lake</str><city>Moore
+South Carolina 29369</city><ctry>US</ctry></adr></B721><B721><snm>KUTCHKO, Cynthia</snm><adr><str>1405 Greendale Drive</str><city>Pittsburgh
+Pennsylvania 15239</city><ctry>US</ctry></adr></B721><B721><snm>SENKFOR, Howard</snm><adr><str>1376 Plainfield Road</str><city>South Euclid
+Ohio 44121</city><ctry>US</ctry></adr></B721><B721><snm>MILLERO, Edward</snm><adr><str>3138 Seneca Ct.</str><city>Gibsonia
+Pennsylvania 15044</city><ctry>US</ctry></adr></B721><B721><snm>OLSON, Kurt</snm><adr><str>3935 Bakerstown Road</str><city>Gibsonia
+Pennsylvania 15044</city><ctry>US</ctry></adr></B721><B721><snm>WATSON, James</snm><adr><str>444 Terrapin Ln</str><city>Clover
+South Carolina 29710</city><ctry>US</ctry></adr></B721></B720><B730><B731><snm>PPG Coatings Europe B.V.</snm><iid>101174406</iid><irf>P34424EPN1/KLH</irf><adr><str>Oceanenweg 2</str><city>1047 BB Amsterdam</city><ctry>NL</ctry></adr></B731></B730><B740><B741><snm>Appleyard Lees IP LLP</snm><iid>101503968</iid><adr><str>15 Clare Road</str><city>Halifax HX1 2HY</city><ctry>GB</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B860><B861><dnum><anum>EP2017070811</anum></dnum><date>20170817</date></B861><B862>en</B862></B860><B870><B871><dnum><pnum>WO2018033589</pnum></dnum><date>20180222</date><bnum>201808</bnum></B871></B870></B800></SDOBI>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001"><b><u>FIELD OF THE INVENTION</u></b></heading>
+<p id="p0001" num="0001">The present invention relates to coated conduits and methods of repairing or reinforcing conduits.</p>
+<heading id="h0002"><b><u>BACKGROUND OF THE INVENTION</u></b></heading>
+<p id="p0002" num="0002">Industrial and municipal conduits such as ductwork or pipelines that are employed for transporting fluids, particularly oil pipelines and underground pipes such as sanitary sewer pipes, storm sewer pipes, water supply lines and gas supply lines, often require reinforcement or repair due to damage. It is important to avoid leakage either into or out of the conduit to avoid contamination of either the fluid being conveyed or the surrounding environment.</p>
+<p id="p0003" num="0003">Damage or leakage may be due to improper installation of the original pipe or deterioration of the pipe itself after normal aging, or caused by the effects of conveying corrosive, erosive, or abrasive material. Cracks in underground pipes may be due to environmental events such as stresses and vibrations caused by the movement of large vehicles on the surface above or similar man made or natural vibrations, even earthquakes. Regardless of the cause, such leakages are undesirable because they may result in contamination or waste of the fluid being conveyed within the pipeline, or<!-- EPO <DP n="2"> --> damage to the surrounding soil or ground water, causing a possible public health hazard. If the damage is not repaired it can lead to structural failure of the existing conduit.</p>
+<p id="p0004" num="0004">Because of the time and expense involved with digging up and replacing pipes, methods for repairing existing pipes <i>in situ</i> are desired.</p>
+<heading id="h0003"><b><u>SUMMARY OF THE INVENTION</u></b></heading>
+<p id="p0005" num="0005">The present invention is directed to a coated conduit, comprising:
+<ol id="ol0001" compact="compact" ol-style="">
+<li>a) a conduit having an interior and exterior surface; and</li>
+<li>b) a cured coating formed from a reaction mixture that is applied to at least one surface of the conduit. The reaction mixture comprises:
+<ol id="ol0002" compact="compact" ol-style="">
+<li>i) a filler material comprising reinforcing fibers ranging in length from 0.1 to 15.54 cm and having an aspect ratio of at least 5; and</li>
+<li>ii) a reactive component that demonstrates a tack-free time of less than five minutes at a temperature of 20 to 25 °C and wherein the reactive component comprises:
+<ol id="ol0003" compact="compact" ol-style="">
+<li>(i) a) an isocyanate functional compound and b) an amine functional compound;</li>
+<li>(ii) a) an isocyanate functional compound and b) a hydroxyl and/or thiol functional compound;</li>
+<li>(iii) a) an acid-functional compound and b) an epoxide functional compound;</li>
+<li>(iv) a) an ethylenically unsaturated compound and b) an amine functional compound;</li>
+<li>(v) a) cyclic carbonate functional compound and b) an amine functional compound;</li>
+<li>(vi) a) an acetoacetate functional compound and b) an amine functional compound;</li>
+<li>(vii) a) an epoxide functional compound and b) an amine functional compound;</li>
+<li>(viii) a) a thiol functional compound and b) an ethylenically unsaturated compound; or<!-- EPO <DP n="3"> --></li>
+<li>(ix) a) an ethylenically unsaturated compound and b) a malonate functional compound.</li>
+</ol></li>
+</ol></li>
+</ol></p>
+<p id="p0006" num="0006">The present invention is also directed to a method of repairing or reinforcing a conduit, comprising:
+<ol id="ol0004" compact="compact" ol-style="">
+<li>(a) applying a curable coating composition to at least one surface of the conduit, wherein the curable coating composition is formed from the reaction mixture described above; and</li>
+<li>(b) allowing the curable coating composition to at least partially cure by exposing the composition to ambient conditions.</li>
+</ol></p>
+<heading id="h0004"><b><u>DETAILED DESCRIPTION OF THE INVENTION</u></b></heading>
+<p id="p0007" num="0007">Other than in any operating examples, or where otherwise indicated, all numbers expressing quantities of ingredients, reaction conditions and so forth used in the specification and claims are to be understood as being modified in all instances by the term "about." Accordingly, unless indicated to the contrary, the numerical parameters set forth in the following specification and attached claims are approximations that may vary depending upon the<!-- EPO <DP n="4"> --> desired properties to be obtained by the present invention. At the very least, and not as an attempt to limit the application of the doctrine of equivalents to the scope of the claims, each numerical parameter should at least be construed in light of the number of reported significant digits and by applying ordinary rounding techniques.</p>
+<p id="p0008" num="0008">Notwithstanding that the numerical ranges and parameters setting forth the broad scope of the invention are approximations, the numerical values set forth in the specific examples are reported as precisely as possible. Any numerical value, however, inherently contain certain errors necessarily resulting from the standard deviation found in their respective testing measurements.</p>
+<p id="p0009" num="0009">Also, it should be understood that any numerical range recited herein is intended to include all sub-ranges subsumed therein. For example, a range of "1 to 10" is intended to include all sub-ranges between (and including) the recited minimum value of 1 and the recited maximum value of 10, that is, having a minimum value equal to or greater than 1 and a maximum value of equal to or less than 10. As used in this specification and the appended claims, the articles "a," "an," and "the" include plural referents unless expressly and unequivocally limited to one referent. For example, "a filler material" as recited in the claims may refer to one or more filler materials.</p>
+<p id="p0010" num="0010">The conduit used as a substrate in the coated conduit of the present invention has an interior and exterior surface, and may have a round cross section, as in a pipe, or a square or rectangular cross section such as in a duct. Typically the conduit is an existing oil pipeline or underground pipe such as a sanitary sewer pipe, storm sewer pipe, water supply line or gas supply line, made of conventional materials such as metals including copper, concrete, PVC, CPVC, or crosslinked polyethylene.</p>
+<p id="p0011" num="0011">The coated conduit of the present invention further comprises a cured coating formed from a reaction mixture that is applied to at least one surface<!-- EPO <DP n="5"> --> of the conduit, i. e., the interior and/or exterior surface. The reaction mixture comprises i) a filler material and ii) a reactive component.</p>
+<p id="p0012" num="0012">The filler material i) comprises fibers and serves as a structural reinforcement to the cured coating. The filler material may comprise any structurally reinforcing fiber, but typically comprises chopped glass fibers, carbon fibers, and/or cellulose. Note that the phrase "and/or" when used in a list is meant to encompass alternative embodiments including each individual component in the list as well as any combination of components. For example, the list "A, B, and/or C" is meant to encompass seven separate embodiments that include A, or B, or C, or A + B, or A + C, or B + C, or A + B + C. The fibers may range in length from 0.1 to 15.54 cm, such as 0.1 to 0.2 cm, or 0.634 to 2.54 cm. Length measurement may be done manually, such as with a ruler. The fibers also demonstrate an aspect ratio of at least 5. By "aspect ratio" is meant the ratio of the length of the fiber to the width of the fiber. Any known reinforcing fibers may be used in the reaction mixture used to form the cured coating. The fibers can be in any form, and can be coated with a sizing and/or uncoated. For example, glass fibers may comprise corrosion resistant glass fibers or they may be coated with a sizing. Examples of suitable sizings include HYDROSIZE and FGLASS sizings available from Michelman, Inc. An exemplary sizing is described in the Examples below.</p>
+<p id="p0013" num="0013">The filler material i) is typically present in the reaction mixture in an amount of 1 to 50 percent by weight, such as a minimum amount of 1 percent by weight, or 2.5 percent by weight, or 10 percent by weight, or 15 percent by weight, and a maximum amount of 50 percent by weight, or 40 percent by weight, or 30 percent by weight, based on the total weight of resin solids in the reaction mixture.</p>
+<p id="p0014" num="0014">The reactive component ii) demonstrates a tack-free time of less than 5 minutes, such as less than 4 minutes, at a temperature of 20 to 25 °C. By "tack-free time" is meant the amount of time between application of the<!-- EPO <DP n="6"> --> reaction mixture to a substrate as coating, and, upon placing a cotton ball onto the coated surface, removing the cotton ball from the surface without leaving a mark or residue. When the cotton ball no longer sticks to, or must be pulled from, the surface of the layer, the layer is said to be substantially tack-free. A time beginning from the completion of applying the composition on a surface, e.g. by spraying, until when the coating is substantially tack-free is said to be the tack-free time.</p>
+<p id="p0015" num="0015">The reactive component ii) may include a first compound ("coreactive component") having at least two functional groups per molecule (referred to as the "A" functional groups) and a second compound ("coreactive component") having at least two functional groups per molecule (referred to as the "B" functional groups), where the A functional groups and the B functional groups are coreactive with each other and are different from each other. B functional groups may be capable of reacting with the A functional groups at moderate temperature such as less than 100 °C, less than 60 °C, less than 50 °C, less than 40 °C, less than 30 °C, or less than 25 °C. The A and B functional groups may react together at room temperature such as 20 °C. One or both of the coreactive components may have on average more than two reactive groups per molecule.</p>
+<p id="p0016" num="0016">The reactive component ii) comprises:
+<ol id="ol0005" compact="compact" ol-style="">
+<li>(i) a) an isocyanate functional compound and b) an amine functional compound;</li>
+<li>(ii) a) an isocyanate functional compound and b) a hydroxyl and/or thiol functional compound;</li>
+<li>(iii) a) an acid-functional compound and b) an epoxide functional compound;</li>
+<li>(iv) a) an ethylenically unsaturated compound and b) an amine functional compound;</li>
+<li>(v) a) cyclic carbonate functional compound and b) an amine functional compound;<!-- EPO <DP n="7"> --></li>
+<li>(vi) a) an acetoacetate functional compound and b) an amine functional compound;</li>
+<li>(vii) a) an epoxide functional compound and b) an amine functional compound;</li>
+<li>(viii) a) a thiol functional compound and b) an ethylenically unsaturated compound; or</li>
+<li>(ix) a) an ethylenically unsaturated compound and b) a malonate functional compound. Ethylenically unsaturated compounds may include alkenyl functional compounds, (meth)acrylate functional compounds, vinyl ethers, and the like.</li>
+</ol></p>
+<p id="p0017" num="0017">A first coreactive component may include compounds having more than one type of functional group A, and/or the second coreactive component may include components having more than one type of functional group B, such that the reactive mixture can comprise at least two sets of coreactive A and B groups. For example, a first coreactive component may have hydroxyl groups and secondary amine groups (i.e. at least two different functional groups) and the second coreactive component may have isocyanate groups. One or both of the coreactive components may optionally include a catalyst for the reaction between the A groups and the B groups. The A groups and the B groups may be attached to any suitable compound such as a monomer and/or a prepolymer. Optionally, the A groups and the B groups may be attached to an oligomer, polymer, or prepolymer such as polyester, polyurethane, or acrylic oligomer, polymer, or prepolymer. In the disclosure of the present invention, by "polymer" is meant a polymer including homopolymers and copolymers. By "composite material" is meant a combination of two or more differing materials. In general, monomers refer to compounds without repeating units in the backbone, and can be characterized, for example, by a molecular weight less than 600 Daltons, less than 500 Daltons, or less than 400 Daltons. In general, a prepolymer refers to a compound having<!-- EPO <DP n="8"> --> repeat units in backbone and can be characterized, for example, by a molecular weight from 1,000 Daltons to 20,000 Daltons, from 1,000 Daltons to 10,000 Daltons, or from 2,000 Daltons to 5,000 Daltons. As used herein, polymer or oligomer molecular weight is determined by gel permeation chromatography (GPC) using appropriate standards, in many cases polystyrene or sulfonated polystyrene. Unless otherwise indicated, molecular weight refers to number average molecular weight (M<sub>n</sub>).</p>
+<p id="p0018" num="0018">The functional groups A and B may be terminal groups and/or pendent groups. A coreactive component can have a functionality of at least two, such as a functionality from 2 to 6. Each functional group of a coreactive component can be the same or certain functional groups of a coreactive component can be different. For example, a coreactive component can have more than one different type of functional group reactive with an isocyanate, such as a primary amine group, a secondary amine group, or a hydroxyl group.</p>
+<p id="p0019" num="0019">In a reactive component ii) comprising at least two coreactive components, the first component can comprise a polyamine and the second component can comprise a polyisocyanate; the first component can comprise a polyalkenyl compound and the second component can comprise a polythiol; the first component can comprise a Michael addition acceptor and the second component can comprise a Michael addition donor; or a combination of any of the foregoing. In a composition comprising at least two coreactive components, the first component can comprise an isocyanate-functional prepolymer; and the second functional group can comprise a primary amine, a secondary amine, a hydroxyl, or a combination of any of the foregoing.</p>
+<p id="p0020" num="0020">Reactive component compositions ii) provided by the present disclosure may include more than two coreactive components. A reactive component can comprise a combination of reactive components having the same functional group, such as a combination of monomers and prepolymers having the same functional group. An additional coreactive<!-- EPO <DP n="9"> --> component can comprise a compound having a different functional group reactive with a first functional group or the second functional group.</p>
+<p id="p0021" num="0021">A reactive component composition ii) provided by the present disclosure can be based on thiol-ene chemistry. For example, a reactive component ii) having thiol-ene functionality may include a polyene coreactive component comprising compounds or prepolymers having terminal and/or pendent olefinic double bonds, such as terminal alkenyl groups. Examples of such compounds include (meth)acrylic-functional (meth)acrylic copolymers, epoxy acrylates such as epoxy resin (meth)acrylates (such as the reaction product of bisphenol A diglycidyl ether and acrylic acid), polyester (meth)acrylates, polyether (meth)acrylates, polyurethane (meth)acrylates, amino (meth)acrylates, silicone (meth)acrylates, and melamine (meth)acrylates.</p>
+<p id="p0022" num="0022">Examples of suitable polyurethane (meth)acrylates include reaction products of polyisocyanates such as 1,6-hexamethylene diisocyanate and/or isophorone diisocyanate including isocyanurate and biuret derivatives thereof with hydroxyalkyl (meth)acrylates such as hydroxyethyl (meth)acrylate and/or hydroxypropyl (meth)acrylate. Examples of suitable polyester (meth)acrylates are the reaction products of (meth)acrylic acid or anhydride with polyols, such as dials, trials and tetraols, including alkylated polyols, such as propoxylated diols and trials. Examples of suitable polyols include 1,4-butane diol, 1,6-hexane dial, neopentyl glycol, trimethylol propane, pentaerythritol and propoxylated 1,6-hexane diol.</p>
+<p id="p0023" num="0023">Examples of suitable polyester (meth)acrylates include glycerol tri(meth)acrylate, trimethylolpropane tri(meth)acrylate, pentaerythritol tri(meth)acrylate, and pentaerythritol tetra(meth)acrylate. Mixtures of polyurethane (meth)acrylates, and polyester (meth)acrylates may be used.</p>
+<p id="p0024" num="0024">In addition to (meth)acrylates, (meth)allyl compounds may be used either alone or in combination with (meth)acrylates. Examples of (meth)allyl compounds include polyallyl ethers such as the diallyl ether of<!-- EPO <DP n="10"> --> 1,4-butane diol and the allyl ether of trimethylol propane. Examples of other (meth)allyl compounds include polyurethanes containing (meth)allyl groups. For example, reaction products of polyisocyanates such as 1,6-hexamethylene diisocyanate and/or isophorone diisocyanate including isocyanurate and biuret derivatives thereof with hydroxy-functional allyl ethers, such as the monoallyl ether of 1,4-butane diol and the diallylether of trimethylol propane can be used.</p>
+<p id="p0025" num="0025">Isocyanate functionality may be incorporated into a coreactive component in a number of ways. The polyurethane (meth)acrylate or the polyurethane (meth)allyl compound may be prepared in a manner such that the reaction product contains unreacted isocyanate groups. For example, the above-mentioned reaction product of 1,6-hexamethylene diisocyanate and/or isophorone diisocyanate with hydroxyethyl (meth)acrylate and/or hydroxypropyl (meth)acrylate are reacted in an NCO/OH equivalent ratio of greater than 1. Alternately, such reaction products may be prepared such that they are isocyanate free, i.e., NCO/OH equivalent ratio equal to or less than 1, and a separate isocyanate compound such as a polyisocyanate may be included in the coreactive component.</p>
+<p id="p0026" num="0026">A polythiol coreactive component refers to polyfunctional compounds containing two or more thiol-functional groups (-SH). Suitable polythiol-functional compounds include polythiols having at least two thiol groups including monomers and prepolymers. A polythiol may have ether linkages (-O-), thioether linkages (-S-), including polysulfide linkages (-S<sub>x</sub>-), where x is at least 2, such as from 2 to 4, and combinations of such linkages.</p>
+<p id="p0027" num="0027">Examples of suitable polythiols include compounds of the formula R<sup>1</sup>-(SH)<sub>n</sub>, where R<sup>1</sup> is a polyvalent organic moiety and n is an integer of at least 2, such as from 2 to 6.<!-- EPO <DP n="11"> --></p>
+<p id="p0028" num="0028">Examples of suitable polythiols include esters of thiol-containing acids formed by reacting a thiol-containing acid of formula HS-R<sup>2</sup>-COOH where R<sup>2</sup> is an organic moiety with a polyhydroxy compound of the structure R<sup>3</sup>-(OH)<sub>n</sub> where R<sup>3</sup> is an organic moiety and n is at least 2, such as from 2 to 6. These components may be reacted under suitable conditions to give polythiols having the general structure:<br/>
+<br/>
+        R<sup>3</sup>-(OC(O)-R<sup>2</sup>-SH)<sub>n</sub><br/>
+<br/>
+wherein R<sup>2</sup> , R<sup>3</sup> and n are as defined above.</p>
+<p id="p0029" num="0029">Examples of thiol-containing acids include thioglycolic acid (HS-CH<sub>2</sub>COOH), α-mercaptopropionic acid (HS-CH(CH<sub>3</sub>)-COOH) and β-mercaptopropionic acid (HS-CH<sub>2</sub>CH<sub>2</sub>COOH) with polyhydroxy compounds such as glycols, triols, tetraols, pentaols, hexaols, and mixtures thereof. Other suitable polythiols include ethylene glycol bis(thioglycolate), ethylene glycol bis(χ-mercaptopropionate), trimethylolpropane tris (thioglycolate), trimethylolpropane tris (β-mercaptopropionate), pentaerythritol tetrakis (thioglycolate) and pentaerythritol tetrakis (β-mercaptopropionate), and mixtures thereof.</p>
+<p id="p0030" num="0030">Certain cured coatings provided by the present disclosure may be prepared from Michael addition reactive components. The reactive components may include primary amine-functional components and acrylate, maleic, or fumaric-functional components. Compounds that are useful primary amine-functional components include polyoxyalkyleneamines containing two or more primary amine groups attached to a backbone, derived, for example, from propylene oxide, ethylene oxide, or a mixture thereof. Examples of such amines include those available under the designation JEFFAMINE™ from Huntsman Corporation. Such amines can have a molecular weight ranging from 200 Daltons to 7500 Daltons, such as, for example, JEFFAMINE™ D-230, D-400, D-2000, T-403, and T-5000. Compounds useful as acrylate functional components include the acrylate functional components listed previously<!-- EPO <DP n="12"> --> as examples of (poly)methacrylate. Compounds useful as maleic or fumaric components include polyesters prepared from maleic anhydride, maleic acid, fumaric acid, or their corresponding C<sub>1</sub>-C<sub>6</sub> alkyl esters.</p>
+<p id="p0031" num="0031">A Michael acceptor group refers to an activated alkenyl group such as an alkenyl group proximate to an electron-withdrawing group such as a ketone, nitro, halo, nitrile, carbonyl, or nitro group. Examples of Michael acceptor groups include vinyl ketone, vinyl sulfone, quinone, enamine, ketimine, aldimine, oxazolidine, acrylate, acrylate esters, acrylonitrile, acrylamide, maleimide, alkylmethacrylates, vinyl phosphonates, and vinyl pyridines.</p>
+<p id="p0032" num="0032">Suitable examples of catalysts for Michael addition chemistries include tributylphosphine, triisobutylphosphine, tri-tertiary-butylphosphine, trioctyl phosphine, tris(2,4,4-trimethylpentyl)phosphine, tricyclopentylphosphine, tricyclohexalphosphine, tri-n-octylphosphine, tri-n-dodecylphosphine, triphenyl phosphine, and dimethyl phenyl phosphine.</p>
+<p id="p0033" num="0033">The reactive component ii) in the reaction mixture may comprise a) an isocyanate-functional compound and b) an amine-functional compound to form a polyurea upon curing.</p>
+<p id="p0034" num="0034">The isocyanate functional compound a) may be a monomeric polyisocyanate, a polyisocyanate prepolymer as described above, or a blend of polyisocyanates; e.g., a blend of one or more polyisocyanate prepolymers and/or one or more monomeric polyisocyanates. Suitable isocyanate functional compounds include isophorone diisocyanate (IPDI), which is 3,3,5-trimethyl-5-isocyanato-methyl-cyclohexyl isocyanate; hydrogenated (i. e., saturated) materials such as cyclohexylene diisocyanate, 4,4'-methylenedicyclohexyl diisocyanate (H<sub>12</sub>MDI); mixed aralkyl diisocyanates such as tetramethylxylyl diisocyanates, OCN-C(CH<sub>3</sub>)<sub>2</sub>-C<sub>6</sub>H<sub>4</sub>C(CH<sub>3</sub>)<sub>2</sub>-NCO; and polymethylene isocyanates such as 1,4-tetramethylene diisocyanate, 1,5-pentamethylene diisocyanate, 1,6-hexamethylene diisocyanate (HMDI), 1,7-heptamethylene diisocyanate, 2,2,4-and 2,4,4-trimethylhexamethylene<!-- EPO <DP n="13"> --> diisocyanate, 1,10-decamethylene diisocyanate and 2-methyl-1,5-pentamethylene diisocyanate. Aliphatic isocyanates and/or aromatic polyisocyanates may be used depending on the nature of the fluid that is transported through the conduit being repaired. Non-limiting examples of aromatic polyisocyanates include phenylene diisocyanate, toluene diisocyanate (TDI), xylene diisocyanate, 1,5-naphthalene diisocyanate, chlorophenylene 2,4-diisocyanate, bitoluene diisocyanate, dianisidine diisocyanate, tolidine diisocyanate and alkylated benzene diisocyanates generally; methylene-interrupted aromatic diisocyanates such as methylenediphenyl diisocyanate, especially the 4,4'-isomer (MDI) including alkylated analogs such as 3,3'-dimethyl-4,4'-diphenylmethane diisocyanate and polymeric methylenediphenyl diisocyanate.</p>
+<p id="p0035" num="0035">The use of various oligomeric polyisocyanates (e.g., dimers, trimers, polymeric, etc.) and modified polyisocyanates (e.g., carbodiimides, uretone-imines, etc.) is also within the scope of the invention. Often, the isocyanate-functional compound comprises a prepolymer prepared from a polyetheramine, such as any of the polyoxyalkylene amines described above, and/or a polyether polyol chain extended with a polyisocyanate. Exemplary polyether polyols include polyalkylene glycol polyols. The polyisocyanate used for the chain extension usually comprises a monomeric polyisocyanate such as isophorone diisocyanate.</p>
+<p id="p0036" num="0036">Amine functional compounds suitable for use in the reactive components may be primary, secondary, tertiary amines or mixtures thereof. The amines may be monoamines, or polyamines such as diamines, triamines, higher polyamines and/or mixtures thereof. The amines also may be aromatic or aliphatic (e.g., cycloaliphatic). The amine typically is provided as a liquid having a relatively low viscosity (e.g., less than about 100 mPa•s at 25 °C using a Brookfield viscometer). In one example no primary amine is present in the amine component. In a particular example, the amine component comprises a mixture of primary and secondary amines. If a mixture of primary<!-- EPO <DP n="14"> --> and secondary amines is employed, the primary amine can be present in an amount of 15 to 80 percent by weight or 20 to 50 percent by weight, with the balance being secondary amines. Although others can be used, primary amines present in the composition generally have a molecular weight greater than 200 (e.g., for reduced volatility), and secondary amines present generally comprise diamines with molecular weights of at least 190 (e.g., 210-230).</p>
+<p id="p0037" num="0037">Often, the amine-functional component includes at least one secondary amine present in an amount of 20 to 85 percent by weight or 50 to 80 percent by weight. Suitable secondary amines can include acrylate and methacrylate modified amines. By "acrylate and methacrylate modified amines" is meant both mono-and poly-acrylate modified amines as well as acrylate or methacrylate modified mono-or poly-amines. Such acrylate or methacrylate modified amines may be prepared from aliphatic polyamines. Examples of suitable aliphatic polyamines include, without limitation, ethylene diamine, 1,3-bis(aminomethyl)diamine, 1,2-diaminopropane, 1,4-diaminobutane, 1,5-diaminopentane, 1,6-diaminohexane, 2-methyl-1,5-pentane diamine, 2,5-diamino-2,5-dimethylhexane, 2,2,4- and/or 2,4,4-trimethyl-1,6-diamino-hexane, 1,11-diaminoundecane, 1,12-diaminododecane, 1,3- and/or 1,4-cyclohexane diamine, 1-amino-3,3,5-trimethyl-5-aminomethyl-cyclohexane, 2,4- and/or 2,6-hexahydrotoluylene diamine, 2,4'- and/or 4,4'-diamino-dicyclohexyl methane and 3,3'-dialkyl4,4'-diamino-dicyclohexyl methanes (such as 3,3'-dimethyl-4,4'-diamino-dicyclohexyl methane and 3,3'-diethyl-4,4'-diamino-dicyclohexyl methane), 2,4- and/or 2,6-diaminotoluene and 2,4'- and/or 4,4'-diaminodiphenyl methane, or mixtures thereof. A particular example of an acrylate modified amine is a reaction product of isophorone diamine, dibutyl maleate, and butyl acrylate.</p>
+<p id="p0038" num="0038">Secondary amines may include an aliphatic amine, such as a cycloaliphatic diamine. Such amines are available commercially from Huntsman Corporation (Houston, TX) under the designation of JEFFLINK™<!-- EPO <DP n="15"> --> such as JEFFLINK™ 754. Others include CLEARLINK 1000 (Dorf-Ketal Chemicals, LLC), and aspartic ester functional amines, such as those available under the name DESMOPHEN such as DESMOPHEN NH1220, DESMOPHEN NH 1420, and DESMOPHEN NH 1520 (Covestro LLC). Alternatively, the secondary amine can be the reaction product of isophorone diamine and acrylonitrile, such as POLYCLEAR 136 (available from BASF/Hansen Group LLC). The amine can also be provided as an amine-functional resin. For example, the amine-functional resin may comprise an ester of an organic acid, such as an aspartic ester-based amine-functional reactive resin that is compatible with isocyanates; e.g., one that is solvent-free, and/or has a mole ratio of amine-functionality to the ester of no more than 1:1 so there remains no excess primary amine upon reaction. One example of such polyaspartic esters is the derivative of diethyl maleate and 1,5-diamino-2-methylpentane, available commercially from Covestro LLC of Pittsburgh, PA under the trade name DESMOPHEN NH1220. Other suitable compounds containing aspartate groups may be employed as well. Additionally, the secondary polyamines can include polyaspartic esters which can include derivatives of compounds such as maleic acid, fumaric acid esters, aliphatic polyamines and the like.</p>
+<p id="p0039" num="0039">The amine-functional compound also may include high molecular weight primary amines, such as polyoxyalkyleneamines. The polyoxyalkyleneamines contain two or more primary amino groups attached to a backbone, derived, for example, from propylene oxide, ethylene oxide, or a mixture thereof. Examples of such amines include those available under the designation JEFFAMINE™ from Huntsman Corporation. Such amines typically have a molecular weight ranging from 200 to 7500, such as, without limitation, JEFFAMINE D-230, D-400, D-2000, T-403 and T-5000.</p>
+<p id="p0040" num="0040">The ratio of equivalents of "A" functional groups to "B" functional groups may be selected to control the rate of cure of the reaction mixture, thereby affecting adhesion. For example, it has been found that two-component<!-- EPO <DP n="16"> --> polyurea compositions capable of being produced, or capable of being applied to the substrate, in a 1:1 volume ratio have advantages particularly in curing and adhesion to the conduit surface when the ratio of the equivalents of isocyanate groups to amine groups (also known as the reaction index) is greater than one, such as 1.01 to 1.25:1, or 1.20 to 1.25:1. "Being capable of being produced in a 1:1 volume ratio" or "capable of being applied to the substrate in a 1:1 volume ratio" means that the volume ratio can vary by up to 20% for each component, or up to 10% or up to 5%; e.g. 0.8: 1 to 1.2:1, 0.9:1 to 1.1:1, or 0.95:1 to 1.05:1. The isocyanate-functional compound and the amine-functional compound can be selected from any of the isocyanates (including polyisocyanates) and amines listed above to provide a reaction index that is greater than one, while being capable of being applied in a 1:1 volume ratio and acceptable performance of the resulting coating.</p>
+<p id="p0041" num="0041">The reaction mixture can include various additives such as rheology modifiers (e.g., silica or other particulate fillers), flow control agents, plasticizers, stabilizers, wetting agents, dispersing auxiliaries, defoamers, pigments and other colorants, fire retardants, adhesion promoters, catalysts or other performance or property modifiers such as barium sulfate, clay or magnesium compounds as required to impart barrier or corrosion resistance properties.</p>
+<p id="p0042" num="0042">The filler material and coreactive components of the reaction mixture are typically kept in separate packages until immediately prior to application to the conduit. The reaction mixture may be prepared using a two-component mixing device. For example, the polyurea reaction mixtures may be prepared using a high pressure impingement mixing device in which equal volumes of an isocyanate-functional compound and an amine-functional compound are impinged upon each other and immediately sprayed onto at least a portion of the substrate, along with a third sprayed stream providing the filler material. The isocyanate-functional compound and the amine-functional compound react to produce a polyurea composition which is cured upon application to<!-- EPO <DP n="17"> --> the substrate. High-pressure impingement mixing, such as 500 to 3000 psig is particularly useful in preparing coatings from polymeric systems that have very fast reaction kinetics.</p>
+<p id="p0043" num="0043">One example of a commercially available mixing device is a GUSMER™ VR-H-3000 proportioner fitted with a GRACO/GUSMER™ Model GX-7 spray gun. In that device, pressurized streams of components of the Aside and the B-side are delivered from two separate chambers of a proportioner and are impacted or impinged upon each other at high velocity to effectuate an intimate mixing of the two components, which is coated onto the desired substrate via the spray gun. During mixing, the components are atomized and impinged on each other at high pressure. Superior control of the reaction is achieved when the forces of the component streams are balanced. The mixing forces experienced by the component streams are determined by the volume of each stream entering the mixing chamber per unit time and the pressure at which the component streams are delivered. A 1:1 volume ratio of the coreactive components per unit time serves to equalize those forces.</p>
+<p id="p0044" num="0044">The reactive component ii) demonstrates a tack-free time of less than 5 minutes, such as less than 4 minutes, at a temperature of 20 to 25 °C. The tack-free time and the cure time for a polyurea composition may be controlled by balancing the amounts of various composition components</p>
+<p id="p0045" num="0045">As mentioned above, the reaction mixture can optionally include a silica, such as fumed silica. Any suitable silica can be used, so long as it is a suitable thixotrope that does not compromise application and coating performance properties.</p>
+<p id="p0046" num="0046">When present, the silica is present in the reaction mixture at a level of at least 0.5 percent by weight, in some cases at least 1 percent by weight and in other cases at least 1.5 percent by weight , based on the total weight of resin solids in the reaction mixture. Also, the silica can be present at up to 6 percent by weight, in some cases up to 5 percent by weight, and in other<!-- EPO <DP n="18"> --> cases up to 4 percent by weight of the composition, based on the total weight of resin solids in the reaction mixture. The amount of silica in the reaction mixture can be any value or range between any values recited above, provided the adhesion properties and application viscosity of the reaction mixture are not adversely affected.</p>
+<p id="p0047" num="0047">The reaction mixture may include an adhesion promoter for enhancing adhesion of the cured coating to the conduit surface. The adhesion promoter may be provided with either or both of the coreactive components. Alternatively, the adhesion promoter may be applied as a separate layer directly to the conduit surface prior to application of the reaction mixture thereto. When applied as a separate layer, the adhesion promoter may be dispersed or dissolved in a carrier such as an organic solvent or water which is evaporated prior to application of the reaction mixture. The adhesion promoter may be applied by wiping, dipping, roll coating, curtain coating, spraying or other application techniques as are well known in the art.</p>
+<p id="p0048" num="0048">Examples of suitable adhesion promoters for polyurea reaction mixtures include amines (such as tertiary amines or melamines), amino silanes, isocyanate-functional silanes, metal complexes and urethane acrylate compositions. The underlying mechanism which enhances adhesion of the polyurea coating to the substrate by the adhesion promoter may involve one or more phenomena such as but not limited to catalysis of a reaction between reactive groups on the substrate or previously applied coating (e.g. hydroxyl groups) and functional groups of the polyurea composition, reaction with the substrate or bonding with the substrate such as via hydrogen bonding.</p>
+<p id="p0049" num="0049">Suitable tertiary amines for use as adhesions promoters include 1,5-diazabicyclo[4.3.0]non-5-ene, 1,8-diazabicyclo[5.4.0]undec-7-ene, 1,4-diazabicyclo[2.2.2]octane, 1,5,7-triazabicyclo[4.4.0]dec-5-ene, and 7-methyl-1,5,7-triazabicyclo[4.4.0]dec-5-ene. An example of an amino silane for use as an adhesion promoter is γ-aminopropyltriethoxysilane (commercially available as SILQUEST A100 from OSY Specialties, Inc.). Other suitable amine-functional<!-- EPO <DP n="19"> --> adhesion promoters include 1,3,4,6,7,8-hexahydro-2H-pyrimido-(1,2-A)-pyrimidine, hydroxyethyl piperazine, N-aminoethyl piperizine, dimethylamine ethylether, tetramethyliminopropoylamine (commercially available as POLYCAT® 15 from Air Products and Chemicals, Inc.), blocked amines such as an adduct of IPDI and dimethylamine, a melamine such as melamine itself or an imino melamine resin (e.g. CYMEL® 220 or CYMEL® 303, available from Cytec Industries Inc.). Metal-containing adhesion promoters may include metal chelate complexes such as an aluminum chelate complex (e.g. K-Kat 5218 available from King Industries) or tin-containing compositions such as stannous octoate and organotin compounds such as dibutyltin dilaurate and dibutyltin diacetate. Other adhesion promoters may include salts such as chlorine phosphate, butadiene resins such as an epoxidized, hydroxyl terminated polybutadiene resin (e.g. Poly bd® 605E available from Atofina Chemicals, Inc.), polyester polyols (e.g. CAPA® 3091, a polyester triol available from Solvay America, Inc.), and urethane acrylate compositions such as an aromatic urethane acrylate oligomer (e.g. CN999 available from Sartomer Company, Inc.).</p>
+<p id="p0050" num="0050">The present invention is also directed to a method of repairing or reinforcing a conduit, comprising:
+<ol id="ol0006" compact="compact" ol-style="">
+<li>(a) applying a curable coating composition to at least one surface of the conduit and wherein the reactive component comprises:
+<ol id="ol0007" compact="compact" ol-style="">
+<li>(i) a) an isocyanate functional compound and b) an amine functional compound;</li>
+<li>(ii) a) an isocyanate functional compound and b) a hydroxyl and/or thiol functional compound;</li>
+<li>(iii) a) an acid-functional compound and b) an epoxide functional compound;</li>
+<li>(iv) a) an ethylenically unsaturated compound and b) an amine functional compound;</li>
+<li>(v) a) cyclic carbonate functional compound and b) an amine functional compound;<!-- EPO <DP n="20"> --></li>
+<li>(vi) a) an acetoacetate functional compound and b) an amine functional compound;</li>
+<li>(vii) a) an epoxide functional compound and b) an amine functional compound;</li>
+<li>(viii) a) a thiol functional compound and b) an ethylenically unsaturated compound; or</li>
+<li>(ix) a) an ethylenically unsaturated compound and b) a malonate functional compound; and</li>
+</ol></li>
+<li>(b) allowing the curable coating composition to at least partially cure; i. e., to at least begin curing by chemical reaction of reactive functional groups in the composition, by exposing the composition to ambient conditions. The method is particularly useful for repairing, refurbishing, or reinforcing an existing conduit <i>in situ,</i> allowing for convenient, on-site, cured-in-place rehabilitation. For instance, the curable coating composition may be applied by spraying. Herein, a high pressure mixing device as described above may be used to prepare the curable coating composition from the filler material and the<!-- EPO <DP n="21"> --> coreactive components immediately before spraying it onto the surface of the conduit.</li>
+</ol></p>
+<p id="p0051" num="0051">The curable coating composition useful in the method of the present invention may be prepared from any of the reaction mixtures described above, and applied to the interior and/or exterior surface of the conduit using application procedures as described. The reaction mixtures are curable under ambient conditions. By "ambient conditions" is meant surrounding conditions without the application of heat or other energy; for example, when a curable composition undergoes a thermosetting reaction without baking in an oven, use of forced air, irradiation, or the like to prompt the reaction, the reaction is said to occur under ambient conditions. Usually ambient temperature ranges from 60 to 90 °F (15.6 to 32.2 °C), such as a typical room temperature, 72 °F (22.2°C), but outdoor temperatures as low as 25 °F (-3.9 °C) are suitable.<!-- EPO <DP n="22"> --></p>
+<p id="p0052" num="0052">The following examples are intended to illustrate the invention, and should not be construed as limiting the invention in any way.<!-- EPO <DP n="23"> --></p>
+<heading id="h0005"><b>EXAMPLES</b></heading>
+<heading id="h0006"><u>Example A</u></heading>
+<p id="p0053" num="0053">
+<tables id="tabl0001" num="0001">
+<table frame="topbot">
+<title><b>Isocyanate Functional Compound</b></title>
+<tgroup cols="2" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="74mm"/>
+<colspec colnum="2" colname="col2" colwidth="44mm"/>
+<thead>
+<row>
+<entry valign="top">Ingredients</entry>
+<entry valign="top">Weight (grams)</entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry>ISOPHORONE DIISOCYANATE<sup>1</sup></entry>
+<entry>1649.9</entry></row>
+<row rowsep="0">
+<entry>ARCOL POLYOL PPG-725<sup>2</sup></entry>
+<entry>2781.1</entry></row>
+<row rowsep="0">
+<entry>DIBUTYLTIN DILAURATE</entry>
+<entry>0.3</entry></row>
+<row rowsep="0">
+<entry>DESMODUR XP2580<sup>3</sup></entry>
+<entry>1392.0</entry></row>
+<row>
+<entry>DESMODUR XP2410<sup>4</sup></entry>
+<entry>4176.8</entry></row>
+<row rowsep="0">
+<entry namest="col1" nameend="col2" align="left">1Available from Covestro.LLC</entry></row>
+<row rowsep="0">
+<entry namest="col1" nameend="col2" align="left">2 Polyether polyol prepared from propylene glycol, available from Covestro, LLC</entry></row>
+<row rowsep="0">
+<entry namest="col1" nameend="col2" align="left">2XP2580 aliphatic polyisocyanate; HDI-based trimer available from Covestro, LLC</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="left">3XP2410 Low viscous HDI-based asymmetric trimer available from Covestro, LLC</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0054" num="0054">A total of 1649.9 grams of isophorone diisocyanate and 2781.1 grams of ARCOL Polyol PPG-725, were added to a suitable reaction vessel equipped with a stirrer, temperature probe, condenser and a nitrogen cap. The contents of the flask were mixed well. Then 0.3 grams of dibutyltin dilaurate was added to the mixture. The contents were slowly heated to 80 °C. The contents underwent an exotherm to 100 °C. The reaction was held at 100 °C for 1.5 hours. The isocyanate equivalent weight of the contents was then measured and found to be approximately 580 grams/equivalent. The temperature of the reaction mixture was lowered to 80 °C. Finally, 1392.0 grams of DESMODUR XP2580 and 4176.8 grams of DESMODUR XP2410 were added to the reaction mixture. The contents of the reactor were cooled and poured out. The final material had a measured solids of 98% (By measuring the weight of a sample before and after being held at 110 °C for one hour) and an isocyanate equivalent weight of approximately 260 grams/equivalent.<!-- EPO <DP n="24"> --></p>
+<heading id="h0007"><u>Example B</u></heading>
+<p id="p0055" num="0055">
+<tables id="tabl0002" num="0002">
+<table frame="topbot">
+<title><b>Amine Functional Compound</b></title>
+<tgroup cols="2" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="102mm"/>
+<colspec colnum="2" colname="col2" colwidth="64mm"/>
+<thead>
+<row>
+<entry valign="top">Ingredients</entry>
+<entry valign="top">Weight (grams)</entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry/>
+<entry/></row>
+<row rowsep="0">
+<entry>Desmophen NH 1220<sup>1</sup></entry>
+<entry>3300.00</entry></row>
+<row rowsep="0">
+<entry>Jeffamine T5000<sup>2</sup></entry>
+<entry>3194.00</entry></row>
+<row rowsep="0">
+<entry>Polyclear 136<sup>3</sup></entry>
+<entry>2376.00</entry></row>
+<row rowsep="0">
+<entry>Byk-9077<sup>4</sup></entry>
+<entry>60.00</entry></row>
+<row rowsep="0">
+<entry>Bentone 34<sup>5</sup></entry>
+<entry>125.00</entry></row>
+<row rowsep="0">
+<entry>Aerosil 200<sup>6</sup></entry>
+<entry>125.00</entry></row>
+<row rowsep="0">
+<entry>VULCAN XC72 BEAD FORM<sup>7</sup></entry>
+<entry>120.00</entry></row>
+<row>
+<entry>R-960-09 HIGH GLOSS NEUTRAL pH TiO<sub>2</sub><sup>8</sup></entry>
+<entry>700.00</entry></row></tbody></tgroup>
+<tgroup cols="2" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="102mm"/>
+<colspec colnum="2" colname="col2" colwidth="64mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col2" align="justify">1 N,N'-(2-methyl-1,5-pentanediyl)bis-aspartic acid 1,1',4,4'-tetraethylester, <nplcit id="ncit0001" npl-type="c"><text>CAS # 168253-59-6</text></nplcit>, available from Covestro LLC<br/>
+2 Trifunctional polyetheramine with primary amine groups, available from Huntsman Corp.<br/>
+3 Reaction product of isophorone diamine and acrylonitrile available from Hanson Group LLC<br/>
+4 Wetting and dispersing additive available from BYK Additives and Instruments<br/>
+5 Organic derivative of bentonite clay available from Elementis Specialties<br/>
+6 Fumed silica available from Evonik Degussa<br/>
+7 Black pigment available from Cabot Blacks<br/>
+8 White pigment available from E. I. Dupont de Nemours</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0056" num="0056">The ingredients listed in the above table were combined and charged to a Premier Mill HM 1.5 VSD Series SuperMill (available from SPX Corporation) with an 85 percent charge of 1.0 mm Mill Mates Plus TZP grind medium (available from Zircoa, Inc.) and ground at a mill speed of 2400 rpm. The grinds were judged to be complete when the particle size was found to be 7.5 Hegman upon drawdown on a fineness of grind gauge.</p>
+<heading id="h0008"><u>Example C</u></heading>
+<heading id="h0009">Coating for Glass Fibers</heading>
+<p id="p0057" num="0057">A sizing formulation was prepared with the raw materials as shown in the table below using the following procedure. With a main mix tank set to 77 °F, approximately 60 gallons of cold water (60 - 80 °F) was added followed by the careful addition of hydrochloric acid. The specified amount of silane was added to the main mix tank and allowed to stir for 20 minutes or until a clear solution was attained.</p>
+<p id="p0058" num="0058">To prepare the titanate pre-mix, three gallons of cold water (60 - 80 °F) were added to a pre-mix tank. The specified amount of<!-- EPO <DP n="25"> --> titanacetylacetonate was added followed by the careful addition of the specified amount of hydrochloric acid. The mixture was agitated for 5 minutes and transferred to the main mix tank.</p>
+<p id="p0059" num="0059">To prepare the lubricant solution, the specified amount of lubricant was added to a pre-mix tank and agitated. Three gallons of hot water (140 - 160 °F) were slowly added to the lubricant and allowed to stir for 15 minutes. The specified amount of hydrochloric acid was carefully added. The mixture was allowed to agitate for 5 minutes and transferred to the main mix tank.</p>
+<p id="p0060" num="0060">The specified amount of polyvinylacetate was added directly to the main mix tank and then diluted to a final volume of one hundred gallons. The sizing composition had a pH and final solids content corresponding to the values found in the table below.
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="104mm"/>
+<colspec colnum="2" colname="col2" colwidth="62mm"/>
+<thead>
+<row>
+<entry valign="top"><b>Component</b></entry>
+<entry valign="top"><b>Binder, g</b></entry></row></thead>
+<tbody>
+<row>
+<entry>HCl (37 %)</entry>
+<entry>80 (0%)</entry></row>
+<row>
+<entry>Gamma-methacryloxpropyltrimethoxysilane<sup>1</sup></entry>
+<entry>654 (1.1%)</entry></row>
+<row>
+<entry>Titanacetylacetonate</entry>
+<entry>5594 (7.8%)</entry></row>
+<row>
+<entry>HCl (37 %)</entry>
+<entry>727 (0%)</entry></row>
+<row>
+<entry>Fatty acid amide solubilized in acid<sup>2</sup></entry>
+<entry>1511 (3.1%)</entry></row>
+<row>
+<entry>HCl (37 %)</entry>
+<entry>677 (0%)</entry></row>
+<row>
+<entry>Polyvinylacetate<sup>3</sup></entry>
+<entry>74209 (87.9%)</entry></row>
+<row>
+<entry>Final solids % by weight</entry>
+<entry>12</entry></row>
+<row>
+<entry>Mix pH</entry>
+<entry>3.10</entry></row></tbody></tgroup>
+<tgroup cols="2" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="104mm"/>
+<colspec colnum="2" colname="col2" colwidth="62mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col2" align="justify">1 Available from Momentive Performance Chemicals<br/>
+2 Available from Daemar, Inc. as OMEGA 16407 / FIBERLUBE 1575<br/>
+3 Available from Celanese Emulsion Polymers as VINAMUL 8823 / FULATEX PD-2147C</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="26"> --></p>
+<heading id="h0010"><u>Examples 1 and 2</u></heading>
+<p id="p0061" num="0061">A cured in place pipe composition was prepared by mixing together the following ingredients with and without chopped fiber glass coated with the sizing composition of Example C by cylindrical kiss rolling. This mixture was a 2-component blend comprising an amine functional compound and an isocyanate-functional compound.
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title><b>Example 1 With Glass fibers</b></title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="70mm"/>
+<colspec colnum="2" colname="col2" colwidth="29mm"/>
+<thead>
+<row>
+<entry align="center" valign="top"><b>Ingredient</b></entry>
+<entry align="center" valign="top"><b>Amount</b></entry></row></thead>
+<tbody>
+<row>
+<entry align="center">Amine Functional compound of Example B</entry>
+<entry align="center">1 by volume</entry></row>
+<row>
+<entry align="center">Isocyanate Functional Compound of Example A</entry>
+<entry align="center">1 by volume</entry></row>
+<row>
+<entry align="center">Glass Fibers coated with sizing of Example C</entry>
+<entry align="center">26.8% by weight</entry></row></tbody></tgroup>
+</table>
+</tables>
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<title><b>Example 2 (Comparative) Without Glass fibers</b></title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="71mm"/>
+<colspec colnum="2" colname="col2" colwidth="35mm"/>
+<thead>
+<row>
+<entry align="center" valign="top"><b>Ingredient</b></entry>
+<entry align="center" valign="top"><b>Amount</b></entry></row></thead>
+<tbody>
+<row>
+<entry align="center">Amine Functional compound of Example B</entry>
+<entry align="center">1 by volume</entry></row>
+<row>
+<entry align="center">Isocyanate Functional Compound of Example A</entry>
+<entry align="center">1 by volume</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0062" num="0062">Polyurea coating compositions of the invention were prepared by combining an isocyanate functional compound and an amine functional compound, then tested in the following manners. The results are reported in Table 1.</p>
+<p id="p0063" num="0063">Free films of the polyurea coating compositions were produced by using a two-component impingement system with a Graco chopper gun mounted to the top, which simultaneously chops and sprays glass fiber roving into the atomized polyurea spray. Free films are formed by spraying the components at a 1:1 volume ratio onto a polyethylene sheet. Before testing the film properties (Young's Modulus, elongation, Film Thickness (mm),<!-- EPO <DP n="27"> --> Flexural Strength (PSI), Flexural Modulus of Elasticity (PSI), and Shore D Hardness), the film was allowed to set for 1 day at ambient temperature (about 23 °C) followed by 3 days at 140 °F (60 °C).</p>
+<p id="p0064" num="0064">Modulus and elongation properties were measured using an INSTRON 4443 with a pull rate of 50 mm/min at room temperature (23 °C) and low temperature (less than -20 °C) to determine low temperature performance.</p>
+<p id="p0065" num="0065">Hardness values were determined by charging the isocyanate and amine components in a double barreled syringe equipped with a static mix tube and a pneumatic applicator gun and injecting the components at a 1:1 ratio into a mold to form a round "puck" of approximately 6 cm in diameter and 0.2 cm in thickness. The puck was tested after setting for 1 day at ambient temperature followed by 1 day at 140 °F. The hardness of the polyurea coating puck was measured with a Shore D Durometer (Pacific Transducer Corp. Model 212) at ambient conditions. Tack-free time was measured once the drawdown was complete: a cotton ball was placed on the surface of the film and checked every 30 seconds until the cotton stopped adhering to the surface of the film. Once the cotton stopped adhering to the surface this was designated as the tack free time.
+<tables id="tabl0006" num="0006">
+<table frame="all">
+<title><b>Table 1</b></title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="60mm"/>
+<colspec colnum="2" colname="col2" colwidth="22mm"/>
+<colspec colnum="3" colname="col3" colwidth="44mm"/>
+<thead>
+<row>
+<entry align="center" valign="top"><b>Test</b></entry>
+<entry align="center" valign="top"><b>Example 1</b></entry>
+<entry align="center" valign="top"><b>Example 2 (Comparative)</b></entry></row></thead>
+<tbody>
+<row>
+<entry align="center">Young's Modulus (PSI)</entry>
+<entry align="center">99674</entry>
+<entry align="center">28183</entry></row>
+<row>
+<entry align="center">Tensile Strain at Break (%) (elongation)</entry>
+<entry align="center">24.75</entry>
+<entry align="center">206.04</entry></row>
+<row>
+<entry align="center">Film Thickness (mm)</entry>
+<entry align="center">3.33</entry>
+<entry align="center">1.84</entry></row>
+<row>
+<entry align="center">Flexural Strength (PSI)</entry>
+<entry align="center">6923</entry>
+<entry align="center">2426</entry></row>
+<row>
+<entry align="center">Flexural Modulus of Elasticity (PSI)</entry>
+<entry align="center">279022</entry>
+<entry align="center">62083</entry></row>
+<row>
+<entry align="center">Shore D Hardness</entry>
+<entry align="center">61.2</entry>
+<entry align="center">55.3</entry></row>
+<row>
+<entry align="center">Tack Free Time (minutes)</entry>
+<entry align="center">2</entry>
+<entry align="center">2</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="28"> --></p>
+<heading id="h0011">Examples 3 and 4</heading>
+<p id="p0066" num="0066">A cured-in-place pipe composition was prepared by mixing together the following ingredients. The mixture is an aromatic amine-isocyanate blend with an amine/isocyanate equivalent ratio of 1.20, with (Example 3) and without (Comparative Example 4) the addition of 5 percent by weight ground fiber glass on total resin solids. The formulations are shown below.
+<tables id="tabl0007" num="0007">
+<table frame="all">
+<title><u>Example 3 (Aromatic Formulation w/ Ground Fiber Glass)</u></title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="90mm"/>
+<colspec colnum="2" colname="col2" colwidth="76mm"/>
+<thead>
+<row>
+<entry valign="top"><b>Name</b></entry>
+<entry valign="top"><b>Parts by Weight</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Desmophen NH 1420<sup>1</sup></entry>
+<entry>44.21</entry></row>
+<row>
+<entry>Jeffamine D2000<sup>2</sup></entry>
+<entry>7.94</entry></row>
+<row>
+<entry>Polyclear 136</entry>
+<entry>18.51</entry></row>
+<row>
+<entry>Desmophen NH 1220</entry>
+<entry>19.84</entry></row>
+<row>
+<entry>Byk-9077</entry>
+<entry>0.50</entry></row>
+<row>
+<entry>Cabosil TS 720<sup>3</sup></entry>
+<entry>4.00</entry></row>
+<row>
+<entry>Owens Corning Ground Fiber Glass</entry>
+<entry>5.00</entry></row>
+<row>
+<entry>MP 190 (NCO)<sup>4</sup></entry>
+<entry>110</entry></row></tbody></tgroup>
+<tgroup cols="2" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="90mm"/>
+<colspec colnum="2" colname="col2" colwidth="76mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col2" align="justify"><sup>1</sup>N,N'-(methylenedi-4,1-cyclohexanediyl)bis-aspartic acid1,1',4,4'-tetraethyl ester, <nplcit id="ncit0002" npl-type="c"><text>CAS # 136210-30-5</text></nplcit>, available from Covestro LLC<br/>
+<sup>2</sup>polyoxypropylene diamine, <nplcit id="ncit0003" npl-type="c"><text>CAS # 9046-10-0</text></nplcit>, available from Huntsman Corp.<br/>
+<sup>3</sup>Fumed silica which has been surface treated with polydimethylsiloxane (PDMS), available from Cabot Corporation<br/>
+<sup>4</sup> diphenylmethane diisocyanate prepolymer, commercially available from Covestro LLC</entry></row></tbody></tgroup>
+</table>
+</tables>
+<tables id="tabl0008" num="0008">
+<table frame="all">
+<title><u>Example 4 (Comparative) (Aromatic Formulation w/o Ground Fiber Glass)</u></title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="53mm"/>
+<colspec colnum="2" colname="col2" colwidth="53mm"/>
+<thead>
+<row>
+<entry valign="top"><b>Name</b></entry>
+<entry valign="top"><b>Parts by Weight</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Desmophen NH 1420</entry>
+<entry>52.96</entry></row>
+<row>
+<entry>Jeffamine D2000</entry>
+<entry>8.68</entry></row>
+<row>
+<entry>Polyclear 136</entry>
+<entry>14.31</entry></row>
+<row>
+<entry>Desmophen NH 1220</entry>
+<entry>19.54</entry></row>
+<row>
+<entry>Byk-9077</entry>
+<entry>0.50</entry></row>
+<row>
+<entry>Cabosil TS 720</entry>
+<entry>4.00</entry></row>
+<row>
+<entry>MP 190 (NCO)</entry>
+<entry>115</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0067" num="0067">The aromatic formulations were sprayed using a pneumatic 2-cartridge static mixing nozzle, with the amine component in one cartridge and the isocyanate component in the second cartridge. The formulation was sprayed into a mold in order to form the "dog bone" shape necessary for testing. After spraying, samples were left to sit until a tack-free cure was obtained. Samples were then removed from the sample mold and placed in a 140 °F hot<!-- EPO <DP n="29"> --> room for 15 hours, allowed to cool for 1 hour, and placed in a 160 °F hot room for an additional 31 hours. The total time the samples spent in a hot room was 46 hours. Samples were an average of 3.2 mm thick and 13.2 mm wide. Modulus and elongation properties were measured using an INSTRON 4443 with a pull rate of 50 mm/min at room temperature (23 °C). Modulus and elongation results are shown in Table 2.
+<tables id="tabl0009" num="0009">
+<table frame="all">
+<title><b><u>Table 2.</u></b></title>
+<tgroup cols="8">
+<colspec colnum="1" colname="col1" colwidth="18mm"/>
+<colspec colnum="2" colname="col2" colwidth="18mm"/>
+<colspec colnum="3" colname="col3" colwidth="16mm"/>
+<colspec colnum="4" colname="col4" colwidth="21mm"/>
+<colspec colnum="5" colname="col5" colwidth="21mm"/>
+<colspec colnum="6" colname="col6" colwidth="26mm"/>
+<colspec colnum="7" colname="col7" colwidth="22mm"/>
+<colspec colnum="8" colname="col8" colwidth="26mm"/>
+<thead>
+<row>
+<entry valign="top"><b>Formula</b></entry>
+<entry valign="top"><b>Additive</b></entry>
+<entry valign="top"><b>Fiber glass</b></entry>
+<entry valign="top"><b>Flexural Modulus (PSI)</b></entry>
+<entry valign="top"><b>Flexural Strength (PSI)</b></entry>
+<entry valign="top"><b>Tensile Modulus Cursor (PSI)</b></entry>
+<entry valign="top"><b>Tensile Strain (ext at break) [%]</b></entry>
+<entry valign="top"><b>Maximum Tensile Stress (PSI)</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Aromatic</entry>
+<entry>4% Cabosil</entry>
+<entry>5% Ground</entry>
+<entry>262626</entry>
+<entry>9486</entry>
+<entry>-</entry>
+<entry>-</entry>
+<entry>-</entry></row>
+<row>
+<entry>Aromatic</entry>
+<entry>4% Cabosil</entry>
+<entry>None</entry>
+<entry>144859</entry>
+<entry>6743</entry>
+<entry>76839.54</entry>
+<entry>5.62</entry>
+<entry>2860.14</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0068" num="0068">The aromatic formulation with the addition of 5% ground fiber glass (Example 3) showed a flexural modulus of 262,626 PSI, nearly double the aromatic without ground fiber glass (Example 4). The aromatic formulation of the present invention (Example 3) showed an increase in flexural strength (compared to the aliphatic formulation of the present invention - Example 1) to 9486 PSI.</p>
+<p id="p0069" num="0069">Whereas particular examples of this invention have been described above for purposes of illustration, it will be evident to those skilled in the art that numerous variations of the details of the present invention may be made without departing from the invention as defined in the claims.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="30"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A coated conduit, comprising:
+<claim-text>a) a conduit having an interior and exterior surface; and</claim-text>
+<claim-text>b) a cured coating formed from a reaction mixture that is applied to at least one surface of the conduit, wherein the reaction mixture comprises:
+<claim-text>i) a filler material comprising fibers ranging in length from 0.1 to 15.54 cm and having an aspect ratio of at least 5; and</claim-text>
+<claim-text>ii) a reactive component that demonstrates a tack-free time of less than five minutes at a temperature of 20 to 25 °C and wherein the reactive component comprises:
+<claim-text>(i) a) an isocyanate functional compound and b) an amine functional compound;</claim-text>
+<claim-text>(ii) a) an isocyanate functional compound and b) a hydroxyl and/or thiol functional compound;</claim-text>
+<claim-text>(iii) a) an acid-functional compound and b) an epoxide functional compound;</claim-text>
+<claim-text>(iv) a) an ethylenically unsaturated compound and b) an amine functional compound;</claim-text>
+<claim-text>(v) a) cyclic carbonate functional compound and b) an amine functional compound;</claim-text>
+<claim-text>(vi) a) an acetoacetate functional compound and b) an amine functional compound;</claim-text>
+<claim-text>(vii) a) an epoxide functional compound and b) an amine functional compound;</claim-text>
+<claim-text>(viii) a) a thiol functional compound and b) an ethylenically unsaturated compound; or</claim-text>
+<claim-text>(ix) a) an ethylenically unsaturated compound and b) a malonate functional compound.</claim-text></claim-text></claim-text><!-- EPO <DP n="31"> --></claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>The coated conduit of claim 1, wherein the conduit comprises an underground pipe.</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>The coated conduit of claim 1, wherein the reaction mixture is applied to the interior surface of the conduit and/or the reaction mixture is applied to the exterior surface of the conduit.</claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>The coated conduit of claim 1, wherein the reactive component comprises (i) a) an isocyanate functional compound and b) an amine functional compound, wherein the isocyanate-functional compound comprises a prepolymer prepared from a polyetheramine and/or polyether polyol chain extended with a polyisocyanate.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>The coated conduit of claim 4, wherein the polyisocyanate used to chain extend the polyetheramine and/or polyether polyol comprises isophorone diisocyanate.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>The coated conduit of claim 4, wherein the amine-functional compound b) comprises a primary amine and/or a secondary amine.</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>The coated conduit of claim 1, wherein the filler material i) comprises chopped glass fibers, carbon fibers, and/or cellulose fibers, preferably wherein the fibers are coated with a sizing.</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>The coated conduit of claim 1, wherein the filler material i) comprises corrosion resistant glass fibers.</claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>The coated conduit of claim 1, wherein the filler material is present in the reaction mixture in an amount of 1 to 50 percent by weight, based on the total weight of resin solids in reaction mixture.<!-- EPO <DP n="32"> --></claim-text></claim>
+<claim id="c-en-01-0010" num="0010">
+<claim-text>A method of repairing or reinforcing a conduit, comprising:
+<claim-text>(a) applying a curable coating composition to at least one surface of the conduit, wherein the curable coating composition is formed from a reaction mixture comprising:
+<claim-text>(i) a filler material comprising fibers ranging in length from 0.1 to 15.54 cm and having an aspect ratio of at least 5; and</claim-text>
+<claim-text>(ii) a reactive component that demonstrates a tack-free time of less than five minutes at a temperature of 20 to 25 °C and wherein the reactive component comprises:
+<claim-text>(i) a) an isocyanate functional compound and b) an amine functional compound;</claim-text>
+<claim-text>(ii) a) an isocyanate functional compound and b) a hydroxyl and/or thiol functional compound;</claim-text>
+<claim-text>(iiii) a) an acid-functional compound and b) an epoxide functional compound;</claim-text>
+<claim-text>(iv) a) an ethylenically unsaturated compound and b) an amine functional compound;</claim-text>
+<claim-text>(v) a) cyclic carbonate functional compound and b) an amine functional compound;</claim-text>
+<claim-text>(vi) a) an acetoacetate functional compound and b) an amine functional compound;</claim-text>
+<claim-text>(vii) a) an epoxide functional compound and b) an amine functional compound;</claim-text>
+<claim-text>(viii) a) a thiol functional compound and b) an ethylenically unsaturated compound; or</claim-text>
+<claim-text>(ix) a) an ethylenically unsaturated compound and b) a malonate functional compound; and</claim-text></claim-text></claim-text>
+<claim-text>(b) allowing the curable coating composition to at least partially cure by exposing the composition to ambient conditions.</claim-text><!-- EPO <DP n="33"> --></claim-text></claim>
+<claim id="c-en-01-0011" num="0011">
+<claim-text>The method of claim 10, wherein the curable coating composition is applied to the surface by spraying.</claim-text></claim>
+<claim id="c-en-01-0012" num="0012">
+<claim-text>The method of claim 10, wherein the conduit comprises an underground pipe.</claim-text></claim>
+<claim id="c-en-01-0013" num="0013">
+<claim-text>The method of claim 10, wherein the curable coating composition is applied to the interior surface of the conduit and/or wherein the curable coating composition is applied to the exterior surface of the conduit.</claim-text></claim>
+<claim id="c-en-01-0014" num="0014">
+<claim-text>The method of claim 10, wherein the reactive component comprises (i) a) an isocyanate functional compound and b) an amine functional compound, wherein the isocyanate-functional compound comprises a prepolymer prepared from a polyetheramine and/or polyether polyol chain extended with a polyisocyanate.</claim-text></claim>
+<claim id="c-en-01-0015" num="0015">
+<claim-text>The method of claim 14, wherein the polyisocyanate used to chain extend the polyetheramine and/or polyether polyol comprises isophorone diisocyanate.</claim-text></claim>
+<claim id="c-en-01-0016" num="0016">
+<claim-text>The method of claim 14, wherein the amine-functional compound comprises a primary amine and/or a secondary amine.</claim-text></claim>
+<claim id="c-en-01-0017" num="0017">
+<claim-text>The method of claim 10, wherein the filler material (i) comprises chopped glass fibers, carbon fibers, and/or cellulose fibers, preferably wherein the fibers are coated with a sizing.</claim-text></claim>
+<claim id="c-en-01-0018" num="0018">
+<claim-text>The method of claim 10, wherein the filler material (i) comprises corrosion resistant glass fibers.<!-- EPO <DP n="34"> --></claim-text></claim>
+<claim id="c-en-01-0019" num="0019">
+<claim-text>The method of claim 10, wherein the filler material (i) is present in the curable coating composition in an amount of 1 to 50 percent by weight, based on the total weight of resin solids in the curable coating composition.</claim-text></claim>
+</claims>
+<claims id="claims02" lang="de"><!-- EPO <DP n="35"> -->
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Beschichtete Leitung, umfassend:
+<claim-text>a) eine Leitung mit einer Innen- und Außenoberfläche und</claim-text>
+<claim-text>b) eine aus einer auf mindestens einer Oberfläche der Leitung aufgebrachten Reaktionsmischung gebildete gehärtete Beschichtung, wobei die Reaktionsmischung Folgendes umfasst:
+<claim-text>i) einen Füllstoff, umfassend Fasern mit einer Länge im Bereich von 0,1 bis 15,54 cm und einem Aspektverhältnis von mindestens 5; und</claim-text>
+<claim-text>ii) eine reaktive Komponente, die eine Klebfreizeit von weniger als fünf Minuten bei einer Temperatur von 20 bis 25 °C zeigt, wobei die reaktive Komponente Folgendes umfasst:
+<claim-text>(i) a) eine isocyanatfunktionelle Verbindung und b) eine aminfunktionelle Verbindung;</claim-text>
+<claim-text>(ii) a) eine isocyanatfunktionelle Verbindung und b) eine hydroxyl- und/oder thiolfunktionelle Verbindung;</claim-text>
+<claim-text>(iii) a) eine säurefunktionelle Verbindung und b) eine epoxidfunktionelle Verbindung;</claim-text>
+<claim-text>(iv) a) eine ethylenisch ungesättigte Verbindung und b) eine aminfunktionelle Verbindung;<!-- EPO <DP n="36"> --></claim-text>
+<claim-text>(v) a) eine cyclocarbonatfunktionelle Verbindung und b) eine aminfunktionelle Verbindung;</claim-text>
+<claim-text>(vi) a) eine acetoacetatfunktionelle Verbindung und b) eine aminfunktionelle Verbindung;</claim-text>
+<claim-text>(vii) a) eine epoxidfunktionelle Verbindung und und b) eine aminfunktionelle Verbindung;</claim-text>
+<claim-text>(viii) a) eine thiolfunktionelle Verbindung und b) eine ethylenisch ungesättigte Verbindung oder</claim-text>
+<claim-text>(ix) a) eine ethylenisch ungesättigte Verbindung und b) eine malonatfunktionelle Verbindung.</claim-text></claim-text></claim-text></claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Beschichtete Leitung nach Anspruch 1, wobei die Leitung ein unterirdisches Rohr umfasst.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Beschichtete Leitung nach Anspruch 1, wobei die Reaktionsmischung auf die Innenoberfläche der Leitung aufgebracht wird und/oder die Reaktionsmischung auf die Außenoberfläche der Leitung aufgebracht wird.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Beschichtete Leitung nach Anspruch 1, wobei die reaktive Komponente (i) a) eine isocyanatfunktionelle Verbindung und b) eine aminfunktionelle Verbindung umfasst, wobei die isocyanatfunktionelle Verbindung ein aus einem mit einem Polyisocyanat kettenverlängerten Polyetheramin und/oder Polyetherpolyol hergestelltes Präpolymer umfasst.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Beschichtete Leitung nach Anspruch 4, wobei das zur Kettenverlängerung des Polyetheramins und/oder Polyetherpolyols verwendete Polyisocyanat Isophorondiisocyanat umfasst.<!-- EPO <DP n="37"> --></claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Beschichtete Leitung nach Anspruch 4, wobei die aminfunktionelle Verbindung b) ein primäres Amin und/oder ein sekundäres Amin umfasst.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Beschichtete Leitung nach Anspruch 1, wobei der Füllstoff i) geschnittene Glasfasern, Kohlefasern und/oder Cellulosefasern umfasst, vorzugsweise wobei die Fasern mit einer Schlichte beschichtet sind.</claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Beschichtete Leitung nach Anspruch 1, wobei der Füllstoff i) korrosionsbeständige Glasfasern umfasst.</claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Beschichtete Leitung nach Anspruch 1, wobei der Füllstoff in der Reaktionsmischung in einer Menge von 1 bis 50 Gew.-%, bezogen auf das Gesamtgewicht von Harzfeststoffen in der Reaktionsmischung, vorliegt.</claim-text></claim>
+<claim id="c-de-01-0010" num="0010">
+<claim-text>Verfahren zum Reparieren oder Verstärken einer Leitung, das Folgendes umfasst:
+<claim-text>(a) Aufbringen einer härtbaren Beschichtungszusammensetzung auf mindestens eine Oberfläche der Leitung, wobei die härtbare Beschichtungszusammensetzung aus einer Reaktionsmischung gebildet wird, die Folgendes umfasst:
+<claim-text>(i) einen Füllstoff, umfassend Fasern mit einer Länge im Bereich von 0,1 bis 15,54 cm und einem Aspektverhältnis von mindestens 5; und</claim-text>
+<claim-text>(ii) eine reaktive Komponente, die eine Klebfreizeit von weniger als fünf Minuten bei einer Temperatur von 20 bis 25 °C zeigt, wobei die reaktive Komponente Folgendes umfasst:
+<claim-text>(i) a) eine isocyanatfunktionelle Verbindung und b) eine aminfunktionelle Verbindung;</claim-text>
+<claim-text>(ii) a) eine isocyanatfunktionelle Verbindung und b) eine hydroxyl-<!-- EPO <DP n="38"> --> und/oder thiolfunktionelle Verbindung;</claim-text>
+<claim-text>(iiii) a) eine säurefunktionelle Verbindung und b) eine epoxidfunktionelle Verbindung;</claim-text>
+<claim-text>(iv) a) eine ethylenisch ungesättigte Verbindung und b) eine aminfunktionelle Verbindung;</claim-text>
+<claim-text>(v) a) eine cyclocarbonatfunktionelle Verbindung und b) eine aminfunktionelle Verbindung;</claim-text>
+<claim-text>(vi) a) eine acetoacetatfunktionelle Verbindung und b) eine aminfunktionelle Verbindung;</claim-text>
+<claim-text>(vii) a) eine epoxidfunktionelle Verbindung und und b) eine aminfunktionelle Verbindung;</claim-text>
+<claim-text>(viii) a) eine thiolfunktionelle Verbindung und b) eine ethylenisch ungesättigte Verbindung oder</claim-text>
+<claim-text>(ix) a) eine ethylenisch ungesättigte Verbindung und b) eine malonatfunktionelle Verbindung;</claim-text></claim-text></claim-text>
+<claim-text>und (b) zumindest teilweise Härtenlassen der härtbaren Beschichtungszusammensetzung durch Einwirkung von Umgebungsbedingungen auf die Zusammensetzung.</claim-text></claim-text></claim>
+<claim id="c-de-01-0011" num="0011">
+<claim-text>Verfahren nach Anspruch 10, wobei die härtbare Beschichtungszusammensetzung durch Spritzen auf die Oberfläche aufgebracht wird.</claim-text></claim>
+<claim id="c-de-01-0012" num="0012">
+<claim-text>Verfahren nach Anspruch 10, wobei die Leitung ein unterirdisches Rohr umfasst.</claim-text></claim>
+<claim id="c-de-01-0013" num="0013">
+<claim-text>Verfahren nach Anspruch 10, wobei die härtbare Beschichtungszusammensetzung auf die Innenoberfläche der Leitung aufgebracht wird und/oder wobei<!-- EPO <DP n="39"> --> die härtbare Beschichtungszusammensetzung auf die Außenoberfläche der Leitung aufgebracht wird.</claim-text></claim>
+<claim id="c-de-01-0014" num="0014">
+<claim-text>Verfahren nach Anspruch 10, wobei die reaktive Komponente (i) a) eine isocyanatfunktionelle Verbindung und b) eine aminfunktionelle Verbindung umfasst, wobei die isocyanatfunktionelle Verbindung ein aus einem mit einem Polyisocyanat kettenverlängerten Polyetheramin und/oder Polyetherpolyol hergestelltes Präpolymer umfasst.</claim-text></claim>
+<claim id="c-de-01-0015" num="0015">
+<claim-text>Verfahren nach Anspruch 14, wobei das zur Kettenverlängerung des Polyetheramins und/oder Polyetherpolyols verwendete Polyisocyanat Isophorondiisocyanat umfasst.</claim-text></claim>
+<claim id="c-de-01-0016" num="0016">
+<claim-text>Verfahren nach Anspruch 14, wobei die aminfunktionelle Verbindung ein primäres Amin und/oder ein sekundäres Amin umfasst.</claim-text></claim>
+<claim id="c-de-01-0017" num="0017">
+<claim-text>Verfahren nach Anspruch 10, wobei der Füllstoff (i) geschnittene Glasfasern, Kohlefasern und/oder Cellulosefasern umfasst, vorzugsweise wobei die Fasern mit einer Schlichte beschichtet sind.</claim-text></claim>
+<claim id="c-de-01-0018" num="0018">
+<claim-text>Verfahren nach Anspruch 10, wobei der Füllstoff (i) korrosionsbeständige Glasfasern umfasst.</claim-text></claim>
+<claim id="c-de-01-0019" num="0019">
+<claim-text>Verfahren nach Anspruch 10, wobei der Füllstoff (i) in der härtbaren Beschichtungszusammensetzung in einer Menge von 1 bis 50 Gew.-%, bezogen auf das Gesamtgewicht von Harzfeststoffen in der härtbaren Beschichtungszusammensetzung, vorliegt.</claim-text></claim>
+</claims>
+<claims id="claims03" lang="fr"><!-- EPO <DP n="40"> -->
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Conduite revêtue, comprenant :
+<claim-text>a) une conduite possédant une surface intérieure et une surface extérieure ; et</claim-text>
+<claim-text>b) un revêtement durci formé à partir d'un mélange réactionnel qui est appliqué à au moins une surface de la conduite, le mélange réactionnel comprenant :
+<claim-text>i) un matériau de charge comprenant des fibres d'une longueur dans la plage de 0,1 à 15,54 cm et possédant un rapport d'aspect d'au moins 5 ; et</claim-text>
+<claim-text>ii) un composant réactif qui présente un temps hors poisse inférieur à cinq minutes à une température de 20 à 25 °C et le composant réactif comprenant :
+<claim-text>(i) a) un composé fonctionnalisé par isocyanate et b) un composé fonctionnalisé par aminé ;</claim-text>
+<claim-text>(ii) a) un composé fonctionnalisé par isocyanate et b) un composé fonctionnalisé par hydroxyle et/ou thiol ;</claim-text>
+<claim-text>(iii) a) un composé fonctionnalisé par acide et b) un composé fonctionnalisé par époxyde ;</claim-text>
+<claim-text>(iv) a) un composé éthyléniquement insaturé et b) un composé fonctionnalisé par aminé ;<!-- EPO <DP n="41"> --></claim-text>
+<claim-text>(v) a) un composé fonctionnalisé par carbonate cyclique et b) un composé fonctionnalisé par aminé ;</claim-text>
+<claim-text>(vi) a) un composé fonctionnalisé par acétoacétate et b) un composé fonctionnalisé par aminé ;</claim-text>
+<claim-text>(vii) a) un composé fonctionnalisé par époxyde et b) un composé fonctionnalisé par aminé ;</claim-text>
+<claim-text>(viii) a) un composé fonctionnalisé par thiol et b) un composé éthyléniquement insaturé ; ou</claim-text>
+<claim-text>(ix) a) un composé éthyléniquement insaturé et b) un composé fonctionnalisé par malonate.</claim-text></claim-text></claim-text></claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Conduite revêtue selon la revendication 1, la conduite comprenant un tuyau souterrain.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Conduite revêtue selon la revendication 1, le mélange réactionnel étant appliqué à la surface intérieure de la conduite et/ou le mélange réactionnel étant appliqué à la surface extérieure de la conduite.</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Conduite revêtue selon la revendication 1, le composant réactif comprenant (i) a) un composé fonctionnalisé par isocyanate et b) un composé fonctionnalisé par amine, le composé fonctionnalisé par isocyanate comprenant un prépolymère préparé à partir d'une chaîne polyétheramine et/ou polyéther polyol allongée avec un polyisocyanate.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Conduite revêtue selon la revendication 4, le polyisocyanate utilisé pour allonger la chaîne de la polyétheramine et/ou du polyéther polyol comprenant un diisocyanate d'isophorone.<!-- EPO <DP n="42"> --></claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Conduite revêtue selon la revendication 4, le composé fonctionnalisé par amine b) comprenant une amine primaire et/ou une amine secondaire.</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Conduite revêtue selon la revendication 1, le matériau de charge i) comprenant des fibres de verre, des fibres de carbone et/ou des fibres de cellulose hachées, préférablement les fibres étant revêtues avec un ensimage.</claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Conduite revêtue selon la revendication 1, le matériau de charge i) comprenant des fibres de verre résistantes à la corrosion.</claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Conduite revêtue selon la revendication 1, le matériau de charge étant présent dans le mélange réactionnel en une quantité de 1 à 50 pour cent en poids, sur la base du poids total de solides résineux dans le mélange réactionnel.</claim-text></claim>
+<claim id="c-fr-01-0010" num="0010">
+<claim-text>Procédé de réparation ou de renforcement d'une conduite, comprenant :
+<claim-text>(a) l'application d'une composition de revêtement durcissable à au moins une surface de la conduite, la composition de revêtement durcissable étant formée à partir d'un mélange réactionnel comprenant :
+<claim-text>(i) un matériau de charge comprenant des fibres d'une longueur dans la plage de 0,1 à 15,54 cm et possédant un rapport d'aspect d'au moins 5 ; et</claim-text>
+<claim-text>(ii) un composant réactif qui présente un temps hors poisse inférieur à cinq minutes à une température de 20 à 25 °C et le composant réactif comprenant :
+<claim-text>(i) a) un composé fonctionnalisé par isocyanate et b) un composé fonctionnalisé par aminé ;<!-- EPO <DP n="43"> --></claim-text>
+<claim-text>(ii) a) un composé fonctionnalisé par isocyanate et b) un composé fonctionnalisé par hydroxyle et/ou thiol ;</claim-text>
+<claim-text>(iii) a) un composé fonctionnalisé par acide et b) un composé fonctionnalisé par époxyde ;</claim-text>
+<claim-text>(iv) a) un composé éthyléniquement insaturé et b) un composé fonctionnalisé par aminé ;</claim-text>
+<claim-text>(v) a) un composé fonctionnalisé par carbonate cyclique et b) un composé fonctionnalisé par aminé ;</claim-text>
+<claim-text>(vi) a) un composé fonctionnalisé par acétoacétate et b) un composé fonctionnalisé par aminé ;</claim-text>
+<claim-text>(vii) a) un composé fonctionnalisé par époxyde et b) un composé fonctionnalisé par aminé ;</claim-text>
+<claim-text>(viii) a) un composé fonctionnalisé par thiol et b) un composé éthyléniquement insaturé ; ou</claim-text>
+<claim-text>(ix) un composé éthyléniquement insaturé et b) un composé fonctionnalisé par malonate ; et</claim-text></claim-text></claim-text>
+<claim-text>(b) le fait de laisser au moins partiellement durcir la composition de revêtement durcissable par exposition de la composition à des conditions ambiantes.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0011" num="0011">
+<claim-text>Procédé selon la revendication 10, la composition de revêtement durcissable étant appliquée à la surface par pulvérisation.</claim-text></claim>
+<claim id="c-fr-01-0012" num="0012">
+<claim-text>Procédé selon la revendication 10, la conduite comprenant un tuyau souterrain.</claim-text></claim>
+<claim id="c-fr-01-0013" num="0013">
+<claim-text>Procédé selon la revendication 10, la composition de revêtement durcissable étant appliquée à la<!-- EPO <DP n="44"> --> surface intérieure de la conduite et/ou la composition de revêtement durcissable étant appliquée à la surface extérieure de la conduite.</claim-text></claim>
+<claim id="c-fr-01-0014" num="0014">
+<claim-text>Procédé selon la revendication 10, le composant réactif comprenant (i) a) un composé fonctionnalisé par isocyanate et b) un composé fonctionnalisé par amine, le composé fonctionnalisé par isocyanate comprenant un prépolymère préparé à partir d'une chaîne polyétheramine et/ou polyéther polyol allongée avec un polyisocyanate.</claim-text></claim>
+<claim id="c-fr-01-0015" num="0015">
+<claim-text>Procédé selon la revendication 14, le polyisocyanate utilisé pour allonger la chaîne de la polyétheramine et/ou du polyéther polyol comprenant un diisocyanate d'isophorone.</claim-text></claim>
+<claim id="c-fr-01-0016" num="0016">
+<claim-text>Procédé selon la revendication 14, le composé fonctionnalisé par amine comprenant une amine primaire et/ou une amine secondaire.</claim-text></claim>
+<claim id="c-fr-01-0017" num="0017">
+<claim-text>Procédé selon la revendication 10, le matériau de charge (i) comprenant des fibres de verre, des fibres de carbone et/ou des fibres de cellulose hachées, préférablement les fibres étant revêtues avec un ensimage.</claim-text></claim>
+<claim id="c-fr-01-0018" num="0018">
+<claim-text>Procédé selon la revendication 10, le matériau de charge (i) comprenant des fibres de verre résistantes à la corrosion.</claim-text></claim>
+<claim id="c-fr-01-0019" num="0019">
+<claim-text>Procédé selon la revendication 10, le matériau de charge (i) étant présent dans la composition de revêtement durcissable en une quantité de 1 à 50 pour cent en poids, sur la base du poids total de solides résineux dans la composition de revêtement durcissable.</claim-text></claim>
+</claims>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="c"><article><serial><sertitle>CHEMICAL ABSTRACTS</sertitle></serial><absno>168253-59-6</absno></article></nplcit><crossref idref="ncit0001">[0055]</crossref></li>
+<li><nplcit id="ref-ncit0002" npl-type="c"><article><serial><sertitle>CHEMICAL ABSTRACTS</sertitle></serial><absno>136210-30-5</absno></article></nplcit><crossref idref="ncit0002">[0066]</crossref></li>
+<li><nplcit id="ref-ncit0003" npl-type="c"><article><serial><sertitle>CHEMICAL ABSTRACTS</sertitle></serial><absno>9046-10-0</absno></article></nplcit><crossref idref="ncit0003">[0066]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

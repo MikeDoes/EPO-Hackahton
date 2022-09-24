@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP18717085B1" file="EP18717085NWB1.xml" lang="fr" country="EP" doc-number="3615014" kind="B1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="fr"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSK..HRIS..MTNORS..SM..................</B001EP><B003EP>*</B003EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  2100000/0</B007EP></eptags></B000><B100><B110>3615014</B110><B120><B121>FASCICULE DE BREVET EUROPEEN</B121></B120><B130>B1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>18717085.7</B210><B220><date>20180418</date></B220><B240><B241><date>20191121</date></B241></B240><B250>fr</B250><B251EP>fr</B251EP><B260>fr</B260></B200><B300><B310>1753577</B310><B320><date>20170425</date></B320><B330><ctry>FR</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20200304</date><bnum>202010</bnum></B430><B450><date>20211006</date><bnum>202140</bnum></B450><B452EP><date>20210705</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>A61K  31/135       20060101AFI20210518BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>A61K   9/00        20060101ALI20210518BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>A61K   9/10        20060101ALI20210518BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>A61P  25/02        20060101ALI20210518BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>A61P  29/00        20180101 LI20200324BHEP        </text></classification-cpc><classification-cpc sequence="2"><text>A61K   9/0014      20130101 LI20171212BHEP        </text></classification-cpc><classification-cpc sequence="3"><text>A61K   9/10        20130101 LI20190311BHEP        </text></classification-cpc><classification-cpc sequence="4"><text>A61P  25/00        20180101 LI20200320BHEP        </text></classification-cpc><classification-cpc sequence="5"><text>A61K  31/135       20130101 FI20171212BHEP        </text></classification-cpc><classification-cpc sequence="6"><text>A61P  25/02        20180101 LI20200323BHEP        </text></classification-cpc><classification-cpc sequence="7"><text>A61P  35/00        20180101 LI20200327BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>TOPISCHE PHARMAZEUTISCHE ZUSAMMENSETZUNG MIT MINDESTENS AMITRIPTYLIN ZUR BEHANDLUNG VON PERIPHEREM NEUROPATHISCHEM SCHMERZ</B542><B541>en</B541><B542>TOPICAL PHARMACEUTICAL COMPOSITION COMPRISING AT LEAST AMITRIPTYLINE, FOR THE TREATMENT OF PERIPHERAL NEUROPATHIC PAIN</B542><B541>fr</B541><B542>COMPOSITION PHARMACEUTIQUE TOPIQUE COMPRENANT AU MOINS DE L'AMITRIPTYLINE POUR LE TRAITEMENT DE DOULEURS NEUROPATHIQUES PÉRIPHÉRIQUES</B542></B540><B560><B561><text>US-A1- 2002 028 789</text></B561><B561><text>US-A1- 2004 101 582</text></B561><B562><text>GEWANDTER JENNIFER S ET AL: "A phase III randomized, placebo-controlled study of topical amitriptyline and ketamine for chemotherapy-induced peripheral neuropathy (CIPN): a University of Rochester CCOP study of 462 cancer survivors", SUPPORTIVE CARE IN CANCER, vol. 22, no. 7, 16 février 2014 (2014-02-16), pages 1807-1814, XP035316150, SPRINGER VERLAG, BERLIN, DE ISSN: 0941-4355, DOI: 10.1007/S00520-014-2158-7 [extrait le 2014-02-16]</text></B562><B562><text>D.L.BARTON ET AL: "A double blind, placebo controlled trial of a topical treatment for chemotherapy induced peripheral neuropathy: NCCTG trial N06CA", SUPPORTIVE CARE IN CANCER, vol. 19, no. 6, juin 2011 (2011-06), pages 833-841, XP002782791,</text></B562><B562><text>DAVID J. KOPSKY ET AL: "High Doses of Topical Amitriptyline in Neuropathic Pain: Two Cases and Literature Review : Topical Amitriptyline in Neuropathic Pain", PAIN PRACTICE, vol. 12, no. 2, 16 juin 2011 (2011-06-16), pages 148-153, XP055434409, US ISSN: 1530-7085, DOI: 10.1111/j.1533-2500.2011.00477.x</text></B562></B560></B500><B700><B720><B721><snm>GRÉCO, Céline</snm><adr><str>76 bd. de Reuilly</str><city>75012 Paris</city><ctry>FR</ctry></adr></B721></B720><B730><B731><snm>Algotherapeutix</snm><iid>101783038</iid><irf>B17-0447 QT EP</irf><adr><str>49 rue des nouvelles</str><city>92150 Suresnes</city><ctry>FR</ctry></adr></B731></B730><B740><B741><snm>Casalonga</snm><iid>101339021</iid><adr><str>Casalonga &amp; Partners 
+Bayerstraße 71/73</str><city>80335 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B860><B861><dnum><anum>EP2018059948</anum></dnum><date>20180418</date></B861><B862>fr</B862></B860><B870><B871><dnum><pnum>WO2018197307</pnum></dnum><date>20181101</date><bnum>201844</bnum></B871></B870></B800></SDOBI>
+<description id="desc" lang="fr"><!-- EPO <DP n="1"> -->
+<p id="p0001" num="0001">La présente invention concerne une composition pharmaceutique comprenant de 10 à 30 % en poids, par rapport au poids total de la composition, d'amitriptyline ou de l'un de ses sels pharmaceutiquement acceptable, pour son utilisation dans le traitement de douleurs neuropathiques périphériques post-chimiothérapie par voie topique.</p>
+<p id="p0002" num="0002">La douleur neuropathique périphérique est causée par l'endommagement des structures nerveuses telles que les terminaisons nerveuses périphériques ou les nocicepteurs qui deviennent extrêmement sensibles à la stimulation et qui peuvent générer des impulsions en l'absence de stimulation.</p>
+<p id="p0003" num="0003">Ces dommages peuvent être causés pour de nombreuses raisons comme les traumatismes, les maladies telles que le diabète, le zona et les cancers en phase avancée, les traitements chimio-thérapeutiques ou encore une brûlure chimique. La lésion du nerf périphérique peut conduire à des états pathologiques caractérisés par la présence de douleurs spontanées continues superficielles (sensation de brûlures ou de froid douloureux) ou profondes (sensation de compression ou d'étau), de douleurs paroxystiques (décharges électriques, coup de couteau) avec à l'examen clinique une hypoesthésie ou, au contraire une hyperalgésie (réponse accrue aux stimuli nocifs), une allodynie (douleur induite par un stimulus non douloureux) ou encore une hyperpathie (douleur persistante lors de stimulations répétées non nociceptive en temps normal). Les neuropathies peuvent également être associées à des signes sensitifs tels que les paresthésies, les engourdissements, le prurit.</p>
+<p id="p0004" num="0004">Les neuropathies chimio induites sont particulièrement fréquentes, invalidantes et difficiles à traiter. Elles sont doses-dépendantes.<!-- EPO <DP n="2"> --> Les atteintes des nerfs périphériques représentent la majorité des atteintes neurologiques liées à la toxicité des chimiothérapies. Elles sont la conséquence d'une atteinte toxique directe de l'axone ou d'une démyélinisation et représentent le facteur limitant le plus fréquent après la toxicité hématologique.</p>
+<p id="p0005" num="0005">Ainsi, devant l'apparition de neuropathies chimio-induites, les doses de chimiothérapie seront réduites voire le traitement pourra être arrêté, constituant ainsi une réelle perte de chance pour le patient.</p>
+<p id="p0006" num="0006">C'est ainsi que l'on a pu constater des neuropathies à la suite de traitement par des alcaloïdes (vincristine vinblastine, vinorelbine) entrainant souvent l'atteinte de petites fibres, les dérivés du platine (oxaliplatine, cisplatine, carboplatine), les anti-topoisomérase (VP16), les inhibiteurs du protéasome (bortézomib, carfilzomib), des dérivés de thalidomide comme le lénalidomide, les taxanes tels que le taxol ou le taxotère atteignant plutôt les grosses fibres. Il existe également des neuropathies après traitement par immunothérapie comme par exemple les anti-CD20, anti-CD30, anti-CD38.</p>
+<p id="p0007" num="0007">Ces douleurs chimio induites opèrent selon des mécanismes mal connus, ainsi certains auteurs pensent qu'elles sont dues à une atteinte toxique directe sur l'axone sensoriel, à une démyélinisation ou encore à une altération du métabolisme calcique liées à l'atteinte des mitochondries, site d'action du paclitaxel et de la vincristine, par exemple.</p>
+<p id="p0008" num="0008">Ainsi on sait que les taxanes interviennent au niveau du ganglion rachidien, des microtubules, des mitochondries et des terminaisons nerveuses, les sels de platines interviennent au niveau de la myéline et des canaux ioniques alors que les alcaloïdes interviennent au niveau de la myéline et des microtubules.</p>
+<p id="p0009" num="0009">Ces douleurs neuropathiques sont souvent réfractaires aux traitements antalgiques usuels et entraînent des diminutions de doses voire des arrêts de chimiothérapie. Elles sont aujourd'hui prises en charge par des traitements per os comprenant les antidépresseurs (Amitriptyline, Duloxetine, Venlafaxine...) et/ou les antiépileptiques (Gabapentine, Pregabaline). Malheureusement, ces traitements<!-- EPO <DP n="3"> --> systémiques induisent des effets secondaires majeurs (vertiges, somnolences, pertes de mémoire, sécheresse de la bouche voire rétention d'urine, nausées...) entraînant une mauvaise observance et un contrôle des douleurs peu satisfaisant.</p>
+<p id="p0010" num="0010">Ces douleurs touchent en majorité les extrémités des mains et des pieds et entraînent une altération de la qualité de vie des patients considérable avec une impotence fonctionnelle pouvant aller jusqu'à l'impossibilité de marcher, des difficultés de préhension, un sommeil altéré, l'apparition d'un syndrome dépressif voire de tendance suicidaire. Le retentissement sur la vie sociale et professionnelle peut être également très important.</p>
+<p id="p0011" num="0011">L'intensité de la douleur est souvent qualifiée de sévère avec des patients qui évaluent leur douleur à plus de 7/10 sur l'Echelle Visuelle Analogique (douleur cotée de 0 à 10).</p>
+<p id="p0012" num="0012">Les douleurs neuropathiques induites par chimio thérapie sont d'origine essentiellement toxique comme rappelé ci-dessus alors que les neuropathies post-zostériennes sont généralement liées à un endommagement des nerfs en raison d'une infection antérieure par le virus herpès zooster. Les nerfs endommagés ne sont plus capables de transmettre correctement les signaux de la peau vers le cerveau. Les antidépresseurs tricycliques sont des composés chimiques découverts au début des années 1950. Ils sont largement utilisés pour traiter différents troubles psychiques en particulier la dépression, les troubles de panique, les troubles obsessionnels compulsifs, l'énurésie de l'enfant, les troubles bipolaires et l'hyperactivité. Ils sont également utilisés comme antalgiques.</p>
+<p id="p0013" num="0013">Ces composés sont généralement administrés par voie orale.</p>
+<p id="p0014" num="0014">L'amitriptyline est un antidépresseur tricyclique découvert en 1960 qui a été fréquemment recommandé comme traitement de première intention pour la dépression majeure, le syndrome de stress post-traumatique (TSPT), le trouble anxieux généralisé (TAG), la phobie sociale (PS), le trouble de panique, la fibromyalgie, les douleurs musculo-squelettiques chroniques, l'akinésie dans la maladie de Parkinson, la cataplexie, les migraines, la maladie de Parkinson, les<!-- EPO <DP n="4"> --> symptômes vasomotrices de la ménopause, l'énurésie nocturne, le trouble dysphorique prémenstruel (TDPM), le trouble bipolaire, la boulimie, les troubles obsessionnels compulsifs (TOC) et les douleurs neuropathiques.</p>
+<p id="p0015" num="0015">Par le passé, les patients étaient généralement traités par l'administration d'analgésiques pour soulager la douleur. La voie orale était alors largement privilégiée.</p>
+<p id="p0016" num="0016">Cependant, l'administration par voie orale de l'amitriptyline comme pour tous les antidépresseurs tricycliques présente de nombreux effets secondaires liés à leurs effets anti-cholinergiques (risque d'hypotension artérielle, de tachycardie sinusale ou supraventriculaire, rarement BAV, d'une vision floue, d'une sécheresse buccale, de flush cutanés, de rétention aiguë d'urines ou de ralentissement du transit), anti-alpha adrénergique (risque de sédation, d'hypotension d'impuissance), inhibiteurs centraux des réflexes sympathiques ou encore stabilisant de membrane (effet proarythmogène) En particulier, un des effets redoutable et craint de l'amitriptyline est l'allongement du QT pouvant entraîner le décès d'un patient qui n'aurait pas été correctement surveillé.</p>
+<p id="p0017" num="0017">En particulier, lors d'une administration par voie orale de l'amitriptyline pour le traitement des douleurs neuropathiques diabétiques, il a été rapporté des cas de sédation, d'hypotension orthostatique et des effets anti-cholinergiques ((cf. notamment <nplcit id="ncit0001" npl-type="s"><text>Kiani et al, Iran J Pharm. Res. 2015 Fall ; 14(4) :1263-8</text></nplcit>). A long terme, les patients rapportent des troubles de la mémoire, des difficultés de concentration avec un important retentissement sur la qualité de leur travail ou sur leur vie quotidienne.</p>
+<p id="p0018" num="0018">Par ailleurs, l'efficacité de l'amitriptyline par voie orale est lente (il faut 5 à 7 jours de traitement pour pouvoir commencer à apprécier l'efficacité du produit), variable en fonction des patients et incomplète. Il est par conséquent souvent nécessaire d'utiliser des combinaisons d'antalgiques pour pallier ces inconvénients.<!-- EPO <DP n="5"> --></p>
+<p id="p0019" num="0019">En outre, la prise orale d'antidépresseurs tricycliques a souvent mauvaise réputation auprès des patients du fait de leurs utilisations dans différents troubles psychiques.</p>
+<p id="p0020" num="0020">Compte tenu des problèmes des traitements par voie orale, il a été tenté des traitements par voie topique. L'efficacité de l'amitriptyline par voie topique pour les douleurs neuropathiques n'a pas été démontrée. En particulier, l'article de <nplcit id="ncit0002" npl-type="s"><text>Thompson et al « Systematic review of topical amitriptyline for the treatment of neuropathic pain », J. Clin. Pharm. Therm. 2015, 40, 496-503</text></nplcit>, conclut que des essais cliniques contrôlés révèlent que l'amitriptyline par voie topique n'est pas efficace dans le traitement de douleurs neuropathiques. La dose maximum utilisée est de 5% pour un malade atteint de sclérose en plaques et présentant des douleurs neuropathiques. Egalement, l'article <nplcit id="ncit0003" npl-type="s"><text>« A phase III randomized, placebo-controlled study of topical amitriptyline and ketamine for chemotherapy-induced peripherical neuropathy », Support Care Cancer, 2014 July ; 22(7) :1807-1814</text></nplcit>, a conclu qu'une composition topique comprenant 2 % en poids de kétamine et 4 % en poids d'amitriptyline n'était pas efficace pour traiter les douleurs neuropathiques post-chimiothérapie.</p>
+<p id="p0021" num="0021">Ainsi, il n'existe pas de traitement satisfaisant des douleurs neuropathiques induites par la chimiothérapie. De plus des traitements combinant la kétamine et l'amitriptyline qui semblaient donner des résultats chez des patients présentant des douleurs neuropathiques post-zostérienne ou d'origine diabétique, n'ont pas permis de remédier aux douleurs neuropathiques induites par chimiothérapie, comme relevé dans l'étude clinique en phase III précitée.</p>
+<p id="p0022" num="0022">Par ailleurs les doses envisagées, malgré le caractère invalidant de ces douleurs n'ont jamais dépassé 5 % que ce soit par voie orale ou topique.</p>
+<p id="p0023" num="0023">Par ailleurs, les patients souffrant de neuropathies au niveau des extrémités (pieds et mains) présentent souvent une peau endommagée voire gercée et desséchée.<!-- EPO <DP n="6"> --></p>
+<p id="p0024" num="0024">L'invention a donc pour objet la mise à disposition d'une composition à base d'amitriptyline efficace en application cutanée dans le traitement de neuropathies périphériques et en particulier de neuropathies induites par chimiothérapie.</p>
+<p id="p0025" num="0025">L'invention a également pour objet une composition à base d'amitriptyline permettant, en plus de pallier les douleurs neuropathiques, de retrouver une peau plus saine et hydratée.</p>
+<p id="p0026" num="0026">D'autres objets de l'invention apparaîtront à la lecture de la description et des exemples qui suivent.</p>
+<p id="p0027" num="0027">Il a été découvert de manière surprenante qu'une composition pharmaceutique pour une application topique comprenant dans un support pharmaceutiquement acceptable et approprié pour une application topique au moins 10 % en poids d'amitriptyline ou de l'un de sels pharmaceutiquement acceptable, administrée de manière topique, permettait de traiter efficacement les douleurs neuropathiques périphériques post-chimiothérapie (ou CIPN pour « chemotherapy-induced peripheral neuropathy »).</p>
+<p id="p0028" num="0028">L'invention a donc pour objet une composition pharmaceutique comprenant dans un support pharmaceutiquement acceptable et approprié pour une application topique de 10 à 30 % en poids, par rapport au poids total de la composition, d'amitriptyline ou de l'un de ses sels pharmaceutiquement acceptable, pour son utilisation dans le traitement de douleurs neuropathiques périphériques post-chimiothérapie par voie topique.</p>
+<p id="p0029" num="0029">L'application topique de la composition selon l'invention est un traitement efficace pour les douleurs neuropathiques périphériques post-chimiothérapie.</p>
+<p id="p0030" num="0030">De plus, l'application topique de la composition selon l'invention présente peu, voire ne présente pas d'effets secondaires. En particulier, il n'est pas observé d'irritations cutanées à l'endroit d'application de la composition.</p>
+<p id="p0031" num="0031">L'amitriptyline a la formule (I) suivante :<!-- EPO <DP n="7"> -->
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="62" he="56" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0032" num="0032">Dans le cadre de la présente invention, on entend par sel d'amitriptyline pharmaceutiquement acceptable amitriptyline, les sels compatibles avec une composition pharmaceutique c'est-à-dire destinée à être administrée à des humains. En particulier, on entend par sel d'amitriptyline pharmaceutiquement acceptable les hydrates, les solvates, les sels d'acides tel que les chlorhydrates et les clathrates de l'amitriptyline.</p>
+<p id="p0033" num="0033">Comme sel tout particulièrement préféré de l'amitriptyline, on utilisera le chlorhydrate d'amitriptyline.</p>
+<p id="p0034" num="0034">Comme indiqué précédemment, l'application topique de la composition selon l'invention est un traitement efficace pour les douleurs neuropathiques périphériques post-chimiothérapie.</p>
+<p id="p0035" num="0035">L'application de la composition selon l'invention, dans le traitement des douleurs neuropathiques induites par chimiothérapie a permis d'obtenir des résultats particulièrement spectaculaires au regard des résultats obtenus antérieurement. C'est ainsi qu'il a été possible de réduire les douleurs classées selon l'échelle numérique simple entre 4/10 et 7/10 selon les patients, à une valeur quasi nulle pour tous les patients au bout de 1 mois de traitement.</p>
+<p id="p0036" num="0036">L'utilisation de la composition selon l'invention dans le traitement des douleurs neuropathiques induites par chimiothérapie a permis de poursuivre les traitements par chimiothérapie, qui devaient souvent être interrompus ou suspendus du fait de douleurs neuropathiques sévères.<!-- EPO <DP n="8"> --></p>
+<p id="p0037" num="0037">L'invention a donc également pour objet l'utilisation de la composition selon l'invention dans le cadre d'un traitement de cancers combinant chimiothérapie et traitement des douleurs neuropathiques susceptibles d'être induites par la chimiothérapie. La composition selon l'invention peut être ainsi administrée entre les cures de chimiothérapie et permettre ainsi la poursuite des traitements.</p>
+<p id="p0038" num="0038">L'inventeur a par ailleurs découvert que la composition selon l'invention pouvait être appliquée à titre préventif avant un traitement de chimiothérapie et avait de façon surprenante un effet neuro protecteur, ce qui permettait d'atténuer, voire d'empêcher les douleurs neuropathiques induites par la chimiothérapie.</p>
+<p id="p0039" num="0039">La composition selon l'invention peut donc également être administrée avant de débuter un traitement par chimiothérapie, l'administration de la composition selon l'invention étant poursuivie pendant et entre les cures de chimiothérapie et continuée si nécessaire après le traitement suivant l'état des douleurs neuropathiques.</p>
+<p id="p0040" num="0040">La composition selon l'invention comprend de 10 à 30 % en poids, de préférence de 10 à 20% et en particulier de plus de 10% à 15% en poids d'amitriptyline ou de l'un de ses sels pharmaceutiquement acceptable par rapport au poids total de la composition.</p>
+<p id="p0041" num="0041">De manière particulièrement préférée, l'amitriptyline est le seul actif pharmaceutique de la composition selon l'invention.</p>
+<p id="p0042" num="0042">Dans une forme préférée la composition contient l'amitriptyline dans les proportions précitées comme seul agent traitant la douleur, en particulier sans autre agent analgésique ou agent anti dépresseur ou antiépileptique également préconisés parfois pour le traitement des douleurs neuropathiques tels que par exemple la lidocaïne, la gabapentine, la prégabaline, le baclofen, la capsaicine, la kétamine.</p>
+<p id="p0043" num="0043">Ceci est particulièrement avantageux dans le cadre de l'invention puisque contrairement à l'état de l'art antérieur, l'amitriptyline seule à une teneur d'au moins 10 % en poids présente<!-- EPO <DP n="9"> --> une bonne efficacité dans le traitement des douleurs neuropathiques périphériques post-chimiothérapie.</p>
+<p id="p0044" num="0044">Il a été également constaté que l'application de la composition sur des explants de peau dans un modèle ex vivo conduisait à un passage systémique inférieur à 0.1% par rapport à la quantité d'amitriptyline présente dans la composition. Le passage systémique très faible permet d'éviter les effets secondaires notés pour les traitements appliqués aux neuropathies dans l'état de la technique. En particulier, la biotransformation en nortriptyline est mineure.</p>
+<p id="p0045" num="0045">Les compositions pharmaceutiques selon l'invention se présentent généralement sous forme d'une émulsion huile dans eau.</p>
+<p id="p0046" num="0046">Ces compositions contiennent comme composants essentiels au moins des corps gras, un ou plusieurs actifs hydratants des agents tensio-actifs non ioniques.</p>
+<p id="p0047" num="0047">La phase huileuse de la composition selon l'invention comprend un ou plusieurs corps gras.</p>
+<p id="p0048" num="0048">Par « corps gras », on entend, un composé organique insoluble dans l'eau à température ambiante (25°C) et à pression atmosphérique (1,013.10<sup>5</sup> Pa) (solubilité inférieure à 5 % en poids, et de préférence inférieure à 1 % en poids, encore plus préférentiellement inférieure à 0,1 % en poids). Ils présentent dans leur structure au moins une chaîne hydrocarbonée comportant au moins 6 atomes de carbone et/ou un enchaînement d'au moins deux groupements siloxane. En outre, les corps gras sont généralement solubles dans des solvants organiques dans les mêmes conditions de température et de pression, comme par exemple le chloroforme, le dichlorométhane, le tétrachlorure de carbone, l'éthanol, le benzène, le toluène, le tétrahydrofurane (THF), l'huile de vaseline ou le décaméthylcyclopentasiloxane.</p>
+<p id="p0049" num="0049">De préférence, le ou les corps gras sont choisis parmi les huiles synthétiques, animales, minérales ou végétales, les huiles siliconées, les acides gras, les alcools gras, les cires, les gommes et les mélanges de ces composés.</p>
+<p id="p0050" num="0050">Comme exemple d'huile minérale, on peut citer les huiles de paraffine de viscosités variées.<!-- EPO <DP n="10"> --></p>
+<p id="p0051" num="0051">A titre d'huile végétale, on peut notamment citer l'huile d'amande douce, l'huile de palme, l'huile de soja, l'huile de sésame et l'huile de tournesol.</p>
+<p id="p0052" num="0052">A titre d'huile animale, on peut notamment citer la lanoline, le squalène, l'huile de poisson et l'huile de vison.</p>
+<p id="p0053" num="0053">A titre d'huile synthétique, on peut notamment citer les esters d'alcool et d'acide gras tels que l'isononanoate de cétéaryle, le palmitate d'isopropyle et les triglycérides caprylique/caprylate.</p>
+<p id="p0054" num="0054">Comme exemple d'huile de silicone, on peut notamment citer la diméthicone et la cyclométhicone.</p>
+<p id="p0055" num="0055">Comme exemple d'acide gras, on peut notamment citer l'acide stéarique et l'acide palmitique.</p>
+<p id="p0056" num="0056">Comme exemple d'alcool gras, on peut notamment citer l'alcool stéarylique, l'alcool cétostéarylique et l'alcool cétylique.</p>
+<p id="p0057" num="0057">A titre de cire, on peut notamment citer la cire d'abeille (ou cera alba), la cire de carnauba et la cire de candelilla.</p>
+<p id="p0058" num="0058">A titre de gomme, on peut notamment citer la gomme de silicone.</p>
+<p id="p0059" num="0059">De manière particulièrement préférée, le ou les corps gras de la composition selon l'invention sont choisis parmi les huiles minérales, les acides gras, les cires et les mélanges de ces composés.</p>
+<p id="p0060" num="0060">De manière tout particulièrement préférée, la composition selon l'invention comprend un mélange d'une ou plusieurs huiles minérales, d'un ou plusieurs acides gras et d'une ou plusieurs cires.</p>
+<p id="p0061" num="0061">Le ou les corps gras représentent de préférence de 15 à 25 % en poids, par rapport au poids total de la composition et en particulier 20 à 25 % en poids, par rapport au poids total de la composition.</p>
+<p id="p0062" num="0062">La composition selon l'invention peut comprendre également un ou plusieurs tensioactifs de préférence non ioniques, oxyéthylénés ou non.</p>
+<p id="p0063" num="0063">De manière particulièrement préférée, la composition selon l'invention comprend un ou plusieurs tensioactifs non-ioniques non-oxyéthylénés.<!-- EPO <DP n="11"> --></p>
+<p id="p0064" num="0064">Les compositions selon l'invention peuvent également contenir des systèmes auto-émulsionnant glucolipidiques, tels que des mélanges d'alcool gras et d'alkyl glycosides ayant 10 à 16 atomes de carbone et en particulier un mélange d'alcool cétylstéarylique et de cétéaryl glucoside.</p>
+<p id="p0065" num="0065">Le ou les tensioactifs non-ioniques peuvent être avantageusement choisis parmi les esters de sorbitan les esters de glycérol, et les mélanges de ces composés, les polaxamères.</p>
+<p id="p0066" num="0066">A titre d'ester de sorbitan, on peut notamment citer le stéarate de sorbitan ou l'oléate de sorbitan.</p>
+<p id="p0067" num="0067">A titre d'ester de glycérol, on peut notamment citer le stéarate de glycérol.</p>
+<p id="p0068" num="0068">De manière préférée, la composition selon l'invention comprend un mélange d'un ou plusieurs esters de sorbitan et d'un ou plusieurs esters de glycérol.</p>
+<p id="p0069" num="0069">Avantageusement, le ou les tensioactifs utilisables dans la composition selon l'invention représentent, lorsqu'ils sont présents, de 2 à 8 % de préférence 2 à 5% en poids par rapport au poids total de la composition.</p>
+<p id="p0070" num="0070">La composition selon l'invention peut comprendre également un ou plusieurs agents gélifiants.</p>
+<p id="p0071" num="0071">Selon l'invention, un agent gélifiant est tout composé qui, ajouté à une composition, augmente la viscosité de ladite composition, l'agent gélifiant représentant de 0,01 à 4 % en poids, de préférence de 0,01 à 1 % en poids par rapport au poids total de la composition.</p>
+<p id="p0072" num="0072">En augmentant la viscosité de la composition selon l'invention, celle-ci est plus stable au cours du temps.</p>
+<p id="p0073" num="0073">Le ou les agents gélifiants utilisables dans la composition selon l'invention sont de préférence choisis parmi les polymères carboxyvinyliques (carbomer), les dérivés cellulosiques, les gommes de xanthane, les gommes végétales, les silicates aluminium/magnésium, les gommes de guar, les polymères polyacrylamide, les copolymères d'acrylate les amidons modifiés, et les mélanges de ces composés.<!-- EPO <DP n="12"> --></p>
+<p id="p0074" num="0074">A titre de polymère carboxyvinylique (carbomer), on peut notamment citer Carbopol 981, Carbopol ETD 2020, Carbopol 980, Carbopol Ultrez 10 NF et Pemulen TR1, vendus par Lubrizol.</p>
+<p id="p0075" num="0075">A titre de dérivé cellulosique, on peut notamment citer l'hydroxypropylméthylcellulose et l'hydroxyéthylcellulose.</p>
+<p id="p0076" num="0076">A titre de silicate aluminium/magnésium, on peut notamment citer Veegum K et Veegum Ultra vendus par Vanderbilt.</p>
+<p id="p0077" num="0077">En tant que polymère polyacrylamide, on peut notamment citer le mélange polyacrylamide/C<sub>13</sub>-<sub>14</sub> isoparaffine/laureth-7, par exemple celui vendu par SEPPIC sous la marque Sepigel 305.</p>
+<p id="p0078" num="0078">A titre d'amidon modifié, on peut notamment citer Structures Solanace vendu par Akzo Nobel.</p>
+<p id="p0079" num="0079">De manière préférée selon l'invention, le ou les agents gélifiants utilisables selon l'invention sont choisis parmi les polymères carboxyvinyliques (carbomer).</p>
+<p id="p0080" num="0080">Le ou les agents gélifiants utilisables dans la composition selon l'invention représentent, lorsqu'ils sont présents, de préférence, de 0,1 à 4 % en poids par rapport au poids total de la composition.</p>
+<p id="p0081" num="0081">La composition selon l'invention comprend avantageusement de l'eau.</p>
+<p id="p0082" num="0082">La composition selon l'invention comprend, dans un mode de réalisation préféré un ou plusieurs actifs hydratants.</p>
+<p id="p0083" num="0083">Un actif hydratant est un actif apte à réduire l'état de sécheresse d'un épiderme.</p>
+<p id="p0084" num="0084">Ainsi par « actif hydratant », on entend généralement un composé agissant sur la fonction barrière, en vue de maintenir l'hydratation du stratum cornéum, ou un composé occlusif.</p>
+<p id="p0085" num="0085">On peut citer notamment les céramides, les composés à base sphingoides, les lécithines, les glycosphingolipides, les phospholipides, le cholestérol et ses dérivés, les phytostérols (stigmastérol, β-sitostérol, campestérol), le 1 -2 diacylglycérol, la 4-chromanone, les triterpènes pentacycliques, des glycosaminoglycanes, des sucres, polysaccharide, l'urée et la glycérine.</p>
+<p id="p0086" num="0086">De manière préférée, l'actif hydratant est la glycérine.<!-- EPO <DP n="13"> --></p>
+<p id="p0087" num="0087">Avantageusement, le ou les actifs hydratants utilisables dans la composition selon l'invention représentent, lorsqu'ils sont présents, de 7 à 15 % en poids par rapport au poids total de la composition.</p>
+<p id="p0088" num="0088">La composition selon l'invention peut comprendre également un ou plusieurs additifs ou combinaisons d'additifs choisis parmi les conservateurs, les stabilisants, les exhausteurs de goût et les ajusteurs de pH.</p>
+<p id="p0089" num="0089">A titre de conservateur, on peut notamment citer le phénoxyéthanol.</p>
+<p id="p0090" num="0090">Bien entendu, l'homme du métier choisira les différents additifs ou combinaisons d'additifs en prenant bien soin que les propriétés intrinsèquement associées à la composition selon l'invention, ne soient pas ou soient faiblement altérées par les ajouts envisagés.</p>
+<p id="p0091" num="0091">Les additifs, lorsqu'ils sont présents dans la composition selon l'invention, représentent généralement chacun de 0,001 à 20 % en poids par rapport au poids total de la composition.</p>
+<p id="p0092" num="0092">Dans un mode de réalisation préférée de l'invention, la composition comprend :
+<ul id="ul0001" list-style="dash" compact="compact">
+<li>de 10 à 30 %, de préférence de 10 à 20 % en poids, plus préférentiellement de plus de 10 à 15 % en poids d'amitriptyline ou de l'un de ses sels pharmaceutiquement acceptable,</li>
+<li>de 2 à 8 % en poids d'un ou plusieurs tensioactifs non ioniques,</li>
+<li>de 15 à 25 % en poids d'un ou plusieurs corps gras,</li>
+<li>de 0,1 à 4 % en poids d'un ou plusieurs agents gélifiants,</li>
+<li>de 7 à 15 % en poids d'un ou plusieurs actifs hydratants,</li>
+<li>optionnellement de 0 à 3 % en poids d'un ou plusieurs conservateurs,</li>
+<li>optionnellement de 0 à 1 % en poids d'un ou plusieurs ajusteurs de pH, de façon à maintenir le pH aux environs de 7, en particulier entre 6,5 et 7,5.</li>
+<li>de l'eau.</li>
+</ul><!-- EPO <DP n="14"> --></p>
+<p id="p0093" num="0093">Ces compositions sont particulièrement efficaces dans le traitement de douleurs neuropathiques induites par chimiothérapie, car elles permettent de traiter non seulement la douleur de manière efficace mais également de restaurer la peau souvent déshydratée au niveau des extrémités douloureuses.</p>
+<p id="p0094" num="0094">De manière préférée, le ou les tensioactifs, le ou les corps gras, le ou les agents gélifiants, le ou les actifs hydratants, et le ou les conservateurs sont tels que définis ci-avant.</p>
+<p id="p0095" num="0095">De manière particulièrement préférée dans ce mode de réalisation, la composition selon l'invention comprend :
+<ul id="ul0002" list-style="dash" compact="compact">
+<li>de 10 à 30 %, de préférence de 10 à 20 % en poids, plus préférentiellement de 10,5 à 15 % en poids d'amitriptyline ou de l'un de ses sels pharmaceutiquement acceptable,</li>
+<li>de 2 à 8 % en poids d'un ou plusieurs tensioactifs choisis parmi les esters de sorbitan, les esters de glycérol, et les mélanges de ces composés, ou autres tensio-actifs permettant la stabilisation de la formule :</li>
+<li>de 15 à 25 % en poids d'un ou plusieurs corps gras dont les huiles minérales, les acides gras, les cires et les mélanges de ces composés,</li>
+<li>de 0,1 à 4 % en poids d'un ou plusieurs agents gélifiants dont les polymères carboxyvinyliques,</li>
+<li>de 7 à 15 % en poids d'un ou plusieurs actifs hydratants,</li>
+<li>optionnellement de 0 à 3 % en poids d'un ou plusieurs conservateurs,</li>
+<li>optionnellement de 0 à 1 % en poids d'un ou plusieurs ajusteurs de pH,</li>
+<li>de l'eau.</li>
+</ul></p>
+<p id="p0096" num="0096">De manière tout particulièrement préférée dans ce mode de réalisation, la composition selon l'invention comprend :
+<ul id="ul0003" list-style="dash" compact="compact">
+<li>de 10 à 30 %, de préférence de 10 à 20 % en poids, plus préférentiellement de 10,5 à 15 % en poids d'amitriptyline ou de l'un de ses sels pharmaceutiquement acceptable,<!-- EPO <DP n="15"> --></li>
+<li>de 2 à 8 % en poids d'un mélange plusieurs tensio-actifs non ioniques dont un ou plusieurs esters de sorbitan et d'un ou plusieurs esters de glycérol,</li>
+<li>de 15 à 25 % en poids d'un mélange d'une ou plusieurs huiles minérales, d'un ou plusieurs acides gras et d'une ou plusieurs cires,</li>
+<li>de 0,1 à 4 % en poids d'un ou plusieurs polymères carboxyvinyles (carbomer),</li>
+<li>de 7 à 15 % en poids de glycérine,</li>
+<li>optionnellement de 0 à 3 % en poids d'un ou plusieurs conservateurs,</li>
+<li>optionnellement de 0 à 1 % en poids d'un ou plusieurs ajusteurs de pH,</li>
+<li>de l'eau.</li>
+</ul></p>
+<p id="p0097" num="0097">En particulier, ce mode de réalisation permet de diminuer, voire de supprimer les effets secondaires associé à l'absorption d'amitriptyline, en particulier les irritations cutanées à l'endroit d'application de la composition.</p>
+<p id="p0098" num="0098">Ce mode de réalisation permet également d'obtenir une bonne stabilité dans le temps de la composition selon l'invention à température ambiante mais également à des températures de stockage plus élevées (45°C par exemple).</p>
+<p id="p0099" num="0099">Enfin, ce mode de réalisation permet de manière avantageuse de faciliter la pénétration de l'amitriptyline à travers la peau sans passage systémique. La majorité de l'amitriptyline est concentrée dans le derme. On obtient ainsi une bonne efficacité thérapeutique avec une bonne tolérance.</p>
+<p id="p0100" num="0100">Le pH des compositions selon l'invention est de préférence compris entre 5 et 8 et est ajusté par une base de type NaOH ou triéthanolamine</p>
+<p id="p0101" num="0101">La composition selon l'invention est une composition topique.</p>
+<p id="p0102" num="0102">La composition selon l'invention peut se présenter sous forme liquide, pâteuse, ou solide, et plus particulièrement sous forme d'onguents, de crèmes, de laits, de pommades. De manière préférée, la<!-- EPO <DP n="16"> --> composition selon l'invention est sous forme de crème légère et onctueuse.</p>
+<p id="p0103" num="0103">Les exemples suivants illustrent la composition selon l'invention et les avantages de cette composition. Cependant, ils ne représentent en rien une limitation de la présente invention mais illustrent simplement l'invention.</p>
+<heading id="h0001"><b><u>Exemples</u></b></heading>
+<heading id="h0002"><u>Exemple 1 :</u></heading>
+<heading id="h0003"><u>Composition sous forme d'une émulsion huile dans eau:</u></heading>
+<p id="p0104" num="0104">
+<tables id="tabl0001" num="0001">
+<table frame="none">
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="44mm"/>
+<colspec colnum="2" colname="col2" colwidth="19mm"/>
+<tbody>
+<row>
+<entry>Amitriptyline</entry>
+<entry>10mg</entry></row>
+<row>
+<entry>Stéarate de glycérol</entry>
+<entry>1 mg</entry></row>
+<row>
+<entry>Autres tensio-actifs</entry>
+<entry>1 mg</entry></row>
+<row>
+<entry>Paraffinum liquidum</entry>
+<entry>12 mg</entry></row>
+<row>
+<entry>Acide palmitique</entry>
+<entry>1 mg</entry></row>
+<row>
+<entry>Acide stéarique</entry>
+<entry>1 mg</entry></row>
+<row>
+<entry>Cire d'abeille (cera alba)</entry>
+<entry>1 mg</entry></row>
+<row>
+<entry>Carbomer</entry>
+<entry>0,1 mg</entry></row>
+<row>
+<entry>Glycérine</entry>
+<entry>10 mg</entry></row>
+<row>
+<entry>Agent d'ajustement du pH qs</entry>
+<entry>pH 6,9</entry></row>
+<row>
+<entry>Conservateur</entry>
+<entry>qs</entry></row>
+<row>
+<entry>Eau</entry>
+<entry>qs 100 mg</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0105" num="0105">La crème ainsi obtenue a été appliquée une fois matin et soir sur les zones douloureuses d'une population de 31 patients présentant des douleurs neuropathiques périphériques post chimiothérapie. Elle a été appliquée sur les mains et les pieds.</p>
+<p id="p0106" num="0106">Parmi les patients pris en charge, il a été distingué 3 groupes suivant l'ancienneté des douleurs neuropathiques.</p>
+<p id="p0107" num="0107">Le groupe GR1 (11 patients) a été pris en charge dans un délai d'un mois après l'apparition des douleurs neuropathiques. Ces patients ressentent des douleurs neuropathiques d'intensité modérée (Echelle<!-- EPO <DP n="17"> --> Visuelle Analogique, EVA= 4/10) de type décharges électriques, brulures, fourmillement. Du fait de l'apparition de ces douleurs invalidantes, les doses de chimiothérapie ont dues être diminuées dans la majorité des cas, la chimiothérapie a dû être arrêtée pour 2 patients. L'application de la crème d'amitriptyline ci-dessus, pendant 3 à 5 jours est efficace à 100% et réduit totalement la douleur (EVA 0/10). Le traitement est arrêté, sans récidive, au bout de 1 mois permettant de reprendre la chimiothérapie ou de ré-augmenter les doses.</p>
+<p id="p0108" num="0108">Le groupe GR2, les patients (13) ressentent des douleurs neuropathiques des extrémités d'intensité modérée à sévère (EVA compris entre 5 et 7/10), de type brûlures, décharges électriques, fourmillement, sensation « d'œdème » des zones atteintes. L'application de la crème amitriptyline à 10% est efficace (EVA 2-3/10) au bout de 15 jours de traitement. A un mois, les douleurs ont disparu (EVA 0/10) chez la totalité des patients. Les patients traités pour des neuropathies post-chimiothérapie poursuivent le traitement pendant la durée des cures de chimiothérapie à titre préventif.</p>
+<p id="p0109" num="0109">Le groupe GR3, les patients (7) ressentent des douleurs neuropathiques d'intensité sévère (EVA supérieure à 7/10) à types de brûlures, décharges électriques, coup de poignard, fourmillements, sensation « d'œdème » au niveau des zones atteintes. Le retentissement fonctionnel est majeur (difficulté à la préhension lorsque les mains sont touchées, difficulté à la marche lorsque les pieds sont touchés, impossibilité à mettre des chaussures fermées, difficulté à mettre des vêtements sur la zone atteinte) et les patients présentent un syndrome dépressif associé aux douleurs neuropathiques. Pour ce dernier groupe de patient, la crème amitriptyline 10% commence à être efficace (perte de 3 points d'EVA) à partir d'un mois de traitement. Le traitement est poursuivi pendant 3 mois. (EVA inférieure à 2/10).</p>
+<heading id="h0004"><u>Exemple 2</u></heading>
+<heading id="h0005"><u>Composition sous forme d'une émulsion huile dans eau :</u></heading><!-- EPO <DP n="18"> -->
+<p id="p0110" num="0110">
+<tables id="tabl0002" num="0002">
+<table frame="none">
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="44mm"/>
+<colspec colnum="2" colname="col2" colwidth="19mm"/>
+<tbody>
+<row>
+<entry>Amitriptyline</entry>
+<entry>15mg</entry></row>
+<row>
+<entry>Stéarate de glycérol</entry>
+<entry>1mg</entry></row>
+<row>
+<entry>Autres tensio-actifs</entry>
+<entry>1 mg</entry></row>
+<row>
+<entry>Paraffinum liquidum</entry>
+<entry>12 mg</entry></row>
+<row>
+<entry>Acide palmitique</entry>
+<entry>1 mg</entry></row>
+<row>
+<entry>Acide stéarique</entry>
+<entry>1 mg</entry></row>
+<row>
+<entry>Cire d'abeille (cera alba)</entry>
+<entry>1 mg</entry></row>
+<row>
+<entry>Carbomer</entry>
+<entry>0,1 mg</entry></row>
+<row>
+<entry>Glycérine</entry>
+<entry>10 mg</entry></row>
+<row>
+<entry>Agent d'ajustement du pH qs</entry>
+<entry>pH 6,9</entry></row>
+<row>
+<entry>Conservateur</entry>
+<entry>qs</entry></row>
+<row>
+<entry>Eau</entry>
+<entry>qs 100 mg</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0111" num="0111">La composition sous forme de crème a été administrée à des patients ressentent des douleurs neuropathiques d'intensité sévère (EVA supérieure à 7/10) à types de brûlures, décharges électriques, coup de poignard, fourmillements, sensation « d'œdème » au niveau des zones atteintes. L'administration de la crème apporte un très bon contrôle des douleurs en 1 mois de traitement (EVA comprise en 0 et 2/10).</p>
+<heading id="h0006"><u>Exemple 3</u> :</heading>
+<p id="p0112" num="0112">La crème de l'exemple 1 a été appliquée une fois matin et soir sur les zones douloureuses d'une population de 5 patients présentant des douleurs neuropathiques périphériques post zostériennes.</p>
+<p id="p0113" num="0113">Les patients ressentent des douleurs neuropathiques des extrémités d'intensité modérée à sévère (EVA compris entre 6 et 8/10), de type brûlures, décharges électriques, fourmillement, sensation « d'œdème » des zones atteintes. L'application de la crème de l'exemple 1 sur le thorax (4) et sur les cuisses (1) est efficace (EVA 2-3/10) au bout de 15 jours de traitement. A un mois, les douleurs ont disparu (EVA 0/10) chez la totalité des patients. Les patients traités peuvent arrêter le traitement.<!-- EPO <DP n="19"> --></p>
+<heading id="h0007"><u>Exemple 4 :</u></heading>
+<p id="p0114" num="0114">On a préparé la crème suivante sous forme d'émulsion huile dans eau :
+<tables id="tabl0003" num="0003">
+<table frame="none">
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="97mm"/>
+<colspec colnum="2" colname="col2" colwidth="22mm"/>
+<tbody>
+<row>
+<entry>Amitriptyline</entry>
+<entry>10 mg</entry></row>
+<row>
+<entry>Stéarate de glycérol</entry>
+<entry>2 mg</entry></row>
+<row>
+<entry>Stéarate de sorbitan</entry>
+<entry>1 mg</entry></row>
+<row>
+<entry>Paraffinum liquidum</entry>
+<entry>8 mg</entry></row>
+<row>
+<entry>Cétéaryléthylhexanoate</entry>
+<entry>5 mg</entry></row>
+<row>
+<entry>Acide palmitique</entry>
+<entry>1 mg</entry></row>
+<row>
+<entry>Acide stéarique</entry>
+<entry>1 mg</entry></row>
+<row>
+<entry>Cire d'abeille (cera alba)</entry>
+<entry>2 mg</entry></row>
+<row>
+<entry>Carbomer</entry>
+<entry>0,2 mg</entry></row>
+<row>
+<entry>Copolymère hydroxyéthyl acrylate/sodium acryloyldiméthyl taurate</entry>
+<entry valign="bottom">0,1 mg</entry></row>
+<row>
+<entry>Glycérine</entry>
+<entry>10 mg</entry></row>
+<row>
+<entry>Agent d'ajustement du pH qs</entry>
+<entry>pH 6,9</entry></row>
+<row>
+<entry>Conservateur</entry>
+<entry>qs</entry></row>
+<row>
+<entry>Eau</entry>
+<entry>qs 100 mg</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0115" num="0115">La crème a été appliquée une fois matin et soir sur les zones douloureuses d'un patient présentant des douleurs neuropathiques périphériques post-diabétiques.</p>
+<p id="p0116" num="0116">Le patient ressent des douleurs neuropathiques d'intensité sévère (EVA supérieure à 7/10) à types de brûlures, décharges électriques, coup de poignard, fourmillements, sensation « d'œdème » au niveau des zones atteintes. Le retentissement fonctionnel est majeur (difficulté à la préhension lorsque les mains sont touchées, difficulté à la marche lorsque les pieds sont touchés, impossibilité à mettre des chaussures fermées, difficulté à mettre des vêtements sur la zone atteinte). La crème amitriptyline 10% commence à être efficace (perte de 3 points d'EVA) à partir d'un mois de traitement. Le traitement est poursuivi pendant 3 mois. (EVA inférieure à 2/10).<!-- EPO <DP n="20"> --></p>
+<heading id="h0008"><u>Exemple 5 :</u></heading>
+<p id="p0117" num="0117">2 patients atteints de cancer du côlon et ayant comme chimiothérapie des cures de R-CHOP, ayant fait après la 1ère cure une neuropathie sévère au niveau des mains à type de fourmillements, sensation de froid douloureux très intense EVA 7-8/10 ont été traités. Devant l'intensité de la neuropathie, la 2eme cure de R-CHOP avait été repoussée.</p>
+<p id="p0118" num="0118">7 jours avant la 2eme cure, les patients ont appliqués sur les mains la crème amitriptyline 10% et ont poursuivi l'application 7 jours après la cure de chimiothérapie sans souffrir de neuropathie. (EVA 1-2/10 sans sensation de froid douloureux.)</p>
+<heading id="h0009"><u>Exemple 6 :</u></heading>
+<p id="p0119" num="0119">Etude <i>ex vivo</i> de l'absorption percutanée de l'amitriptyline et de la présence du métabolite pharmacologiquement actif : nortriptyline.</p>
+<p id="p0120" num="0120">On a appliqué une composition sous forme de crème contenant 10% en poids de chlorhydrate d'amitriptyline sur des échantillons de peau humaine. L'expérience a été répétée 3 fois avec 3 échantillons de peau de 3 donneurs différents, soit 9 échantillons. Les échantillons de peau sont montés dans une cellule de Frantz et sont portées à une température de surface de 32°C±1°C.</p>
+<p id="p0121" num="0121">La formulation contenant 10% en poids de chlorhydrate d'amitriptyline en l'étendant de façon homogène à l'aide d'une spatule sur chaque échantillon de peau à raison de 10 mg par cellule, correspondant à 5mg /cm<sup>2</sup> de peau.</p>
+<p id="p0122" num="0122">On rince les échantillons de peau 16 heures après application.</p>
+<p id="p0123" num="0123">Chaque échantillon de peau a été placé avec une pince à épiler sur un papier absorbant (derme vers le bas).</p>
+<p id="p0124" num="0124">On enlève le stratum corneum en utilisant des bandes adhésives.</p>
+<p id="p0125" num="0125">Après élimination du stratum corneum l'échantillon est perforé. L'épiderme est ensuite séparé du derme. Chacun d'eux est placé dans des fioles séparées.<!-- EPO <DP n="21"> --></p>
+<p id="p0126" num="0126">On a procédé ensuite à l'extraction des différents échantillons.</p>
+<p id="p0127" num="0127">Ces essais ont permis de constater que 90,6 à 98% d'amitriptyline reste à la surface de la peau. Environ 74% de l'amitriptyline est présente dans le derme contre 26% dans l'épiderme.</p>
+<p id="p0128" num="0128">La biodisponibilité de l'amitriptyline est de 22, 5 µg.</p>
+<p id="p0129" num="0129">On a observé un passage systémique inférieur à 0,1%, et une très faible biotransformation de l'amitriptyline en nortriptyline de l'ordre de 25ng.</p>
+</description>
+<claims id="claims01" lang="fr"><!-- EPO <DP n="22"> -->
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Composition pharmaceutique comprenant dans un support pharmaceutiquement acceptable et approprié pour une application topique de 10 à 30 % en poids, par rapport au poids total de la composition, d'amitriptyline ou de l'un de ses sels pharmaceutiquement acceptables, pour son utilisation dans le traitement de douleurs neuropathiques périphériques post-chimiothérapie par voie topique.</claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Composition pour son utilisation selon la revendication 1 pour son utilisation dans le traitement de douleurs neuropathiques périphériques post-chimiothérapie, par application sur les parties périphériques (mains et pieds)</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Composition pour son utilisation selon la revendication 1 ou 2 <b>caractérisée en ce qu'</b>elle comprend de 10 à 20 % en poids, de préférence plus de 10 à 15 % en poids, par rapport au poids total de la composition, d'amitriptyline ou de l'un de ses sels pharmaceutiquement acceptable.</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Composition pour son utilisation selon l'une quelconque des revendications 1 à 3 contenant l'amitriptyline comme seul agent de traitement des douleurs neuropathiques.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Composition pour son utilisation selon l'une quelconque des revendications 1 à 4 pour son utilisation à titre préventif avant un traitement de chimiothérapie en vue d'atténuer, voire d'empêcher les douleurs neuropathiques périphériques induites par la chimiothérapie.</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Composition pour son utilisation selon l'une quelconque des revendications 1 à 4 pour son utilisation dans le traitement de cancers comportant des séances de chimiothérapie, la composition étant administrée entre les séances de chimiothérapie pour remédier ou prévenir des douleurs neuropathiques susceptibles d'être induites par la chimiothérapie.</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Composition pour son utilisation selon l'une quelconque des revendications 1 à 6 pour son utilisation dans le traitement de cancers comportant des séances de chimiothérapie, la composition étant administrée à titre préventif avant la séance de chimiothérapie, puis pendant et entre les cures de<!-- EPO <DP n="23"> --> chimiothérapie et continuée si nécessaire après le traitement par chimiothérapie suivant l'état des douleurs neuropathiques.</claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Composition pour son utilisation selon l'une quelconque des revendications 1 à 7 se présentant sous forme d'une émulsion huile dans eau et comprenant au moins des corps gras, un ou plusieurs actifs hydratants et des agents tensioactifs non ioniques.</claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Composition pour son utilisation selon l'une quelconque des revendications précédentes, <b>caractérisée en ce qu'</b>elle comprend un ou plusieurs corps gras, de préférence choisis parmi les huiles synthétiques, animales, minérales ou végétales, les huiles siliconées, les acides gras, les alcools gras, les cires, les gommes et les mélanges de ces composés, plus préférentiellement choisis parmi les huiles minérales, les acides gras, les cires et les mélanges de ces composés, et en particulier la composition comprend un mélange d'une ou plusieurs huiles minérales, d'un ou plusieurs acides gras et d'une ou plusieurs cires.</claim-text></claim>
+<claim id="c-fr-01-0010" num="0010">
+<claim-text>Composition pour son utilisation selon l'une quelconque des revendications précédentes, <b>caractérisée en ce qu'</b>elle comprend un ou plusieurs tensioactifs non-ioniques choisi parmi les esters de sorbitan, les esters de glycérol, et les mélanges de ces composés.</claim-text></claim>
+<claim id="c-fr-01-0011" num="0011">
+<claim-text>Composition pour son utilisation selon l'une quelconque des revendications précédentes, <b>caractérisée en ce qu'</b>elle comprend un ou plusieurs agents gélifiants, de préférence choisis parmi les polymères carboxyvinyliques, les dérivés cellulosiques, les gommes de xanthane, les gommes végétales, les silicates aluminium/magnésium, les gommes de guar, les polymères polyacrylamide, les copolymères d'acrylate les amidons modifiés, et les mélanges de ces composés, et plus préférentiellement choisis parmi les polymères carboxyvinyles.</claim-text></claim>
+<claim id="c-fr-01-0012" num="0012">
+<claim-text>Composition pour son utilisation selon l'une quelconque des revendications précédentes, <b>caractérisée</b> en qu'elle comprend :
+<claim-text>- de 10 à 30 %, de préférence de 10 à 20 % en poids, plus préférentiellement plus de 10 à 15 % en poids d'amitriptyline ou de l'un de ses sels pharmaceutiquement acceptable,</claim-text>
+<claim-text>- de 2 à 8 % en poids d'un ou plusieurs tensioactifs,</claim-text>
+<claim-text>- de 15 à 25 % en poids d'un ou plusieurs corps gras,<!-- EPO <DP n="24"> --></claim-text>
+<claim-text>- de 0,1 à 4 % en poids d'un ou plusieurs agents gélifiants,</claim-text>
+<claim-text>- de 7 à 15 % en poids d'un ou plusieurs actifs hydratants,</claim-text>
+<claim-text>- optionnellement de 0 à 3 % en poids d'un ou plusieurs conservateurs,</claim-text>
+<claim-text>- optionnellement de 0 à 1 % en poids d'un ou plusieurs ajusteurs de pH,</claim-text>
+<claim-text>- de l'eau.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0013" num="0013">
+<claim-text>Composition pour son utilisation selon la revendication 12, <b>caractérisée en ce qu'</b>elle comprend :
+<claim-text>- de 10 à 30 %, de préférence de 10 à 20 % en poids, plus préférentiellement de 10,5 à 15 % en poids d'amitriptyline ou de l'un de ses sels pharmaceutiquement acceptable,</claim-text>
+<claim-text>- de 2 à 8 % en poids d'un ou plusieurs tensioactifs choisis parmi les esters de sorbitan, les esters de glycérol, et les mélanges de ces composés,</claim-text>
+<claim-text>- de 15 à 25 % en poids d'un ou plusieurs corps gras choisis parmi les huiles minérales, les acides gras, les cires et les mélanges de ces composés,</claim-text>
+<claim-text>- de 0,1 à 4 % en poids d'un ou plusieurs agents gélifiants choisis parmi les polymères carboxyvinyles,</claim-text>
+<claim-text>- de 7 à 15 % en poids d'un ou plusieurs actifs hydratants,</claim-text>
+<claim-text>- optionnellement de 0 à 3 % en poids d'un ou plusieurs conservateurs,</claim-text>
+<claim-text>- optionnellement de 0 à 1 % en poids d'un ou plusieurs ajusteurs de pH,</claim-text>
+<claim-text>- de l'eau.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0014" num="0014">
+<claim-text>Composition pour son utilisation selon la revendication 12 ou 13, <b>caractérisée en ce qu'</b>elle comprend :
+<claim-text>- de 10 à 30 %, de préférence de 10 à 20 % en poids, plus préférentiellement de 10,5 à 15 % en poids d'amitriptyline ou de l'un de ses sels pharmaceutiquement acceptable,</claim-text>
+<claim-text>- de 2 à 8 % en poids d'un mélange d'un ou plusieurs esters de sorbitan et d'un ou plusieurs esters de glycérol,<!-- EPO <DP n="25"> --></claim-text>
+<claim-text>- de 15 à 25 % en poids d'un mélange d'une ou plusieurs huiles minérales, d'un ou plusieurs acides gras et d'une ou plusieurs cires,</claim-text>
+<claim-text>- de 0,1 à 4 % en poids d'un ou plusieurs polymères carboxyvinyles,</claim-text>
+<claim-text>- de 7 à 15 % en poids de glycérine,</claim-text>
+<claim-text>- optionnellement de 0 à 3 % en poids d'un ou plusieurs conservateurs,</claim-text>
+<claim-text>- optionnellement de 0 à 1 % en poids d'un ou plusieurs ajusteurs de pH,</claim-text>
+<claim-text>- de l'eau.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0015" num="0015">
+<claim-text>Composition pour son utilisation selon l'une quelconque des revendications précédentes, <b>caractérisée</b> en qu'elle est sous forme de crème.</claim-text></claim>
+</claims>
+<claims id="claims02" lang="de"><!-- EPO <DP n="26"> -->
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Pharmazeutische Zusammensetzung, die in einem pharmazeutisch unbedenklichen Träger, welcher sich weiterhin für eine topische Anwendung eignet, 10 bis 30 Gewichts-% an Amitriptylin oder an einem von dessen pharmazeutisch unbedenklichen Salzen, unter Bezugnahme auf das Gesamtgewicht der Zusammensetzung umfasst, zur Verwendung derselben in der Behandlung postchemotherapeutischer peripherer neuropathischer Schmerzen auf topischem Wege.</claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Zusammensetzung zur Verwendung derselben nach Anspruch 1, wobei sie in der Behandlung postchemotherapeutischer peripherer neuropathischer Schmerzen verwendet wird, indem sie auf die peripheren Bereiche (Hände und Füße) aufgebracht wird.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Zusammensetzung zur Verwendung derselben nach Anspruch 1 oder 2, <b>dadurch gekennzeichnet, dass</b> sie 10 bis 20 Gewichts-%, vorzugsweise mehr als 10 bis 15 Gewichts-%, unter Bezugnahme auf das Gesamtgewicht der Zusammensetzung, an Amitriptylin oder an einem von dessen pharmazeutisch unbedenklichen Salzen umfasst.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Zusammensetzung zur Verwendung derselben nach einem beliebigen der Ansprüche 1 bis 3, wobei sie Amitriptylin als einziges Mittel zur Behandlung neuropathischer Schmerzen enthält.<!-- EPO <DP n="27"> --></claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Zusammensetzung zur Verwendung derselben nach einem beliebigen der Ansprüche 1 bis 4, wobei diese im Vorfeld einer chemotherapeutischen Behandlung vorbeugend verwendet wird, um die peripheren neuropathischen Schmerzen, wie sie von der Chemotherapie bewirkt werden, abzuschwächen oder sogar zu verhindern.</claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Zusammensetzung zur Verwendung derselben nach einem beliebigen der Ansprüche 1 bis 4, wobei sie in Krebsbehandlungen verwendet wird, welche Chemotherapiesitzungen aufweisen, wobei die Zusammensetzung zwischen den Chemotherapiesitzungen verabreicht wird, um neuropathische Schmerzen zu beheben oder zu verhüten, welche von der Chemotherapie bewirkt werden könnten.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Zusammensetzung zur Verwendung derselben nach einem beliebigen der Ansprüche 1 bis 6, wobei sie in Krebsbehandlungen verwendet wird, welche Chemotherapiesitzungen aufweisen, wobei die Zusammensetzung vorbeugend im Vorfeld der Chemotherapiesitzung und anschließend während der chemotherapeutischen Kuren und zwischen denselben verabreicht wird, wobei dies erforderlichenfalls nach der Behandlung mittels Chemotherapie fortgesetzt wird, in Abhängigkeit vom Zustand der neuropathischen Schmerzen.</claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Zusammensetzung zur Verwendung derselben nach einem beliebigen der Ansprüche 1 bis 7, wobei sie in Form einer Öl-in-Wasser-Emulsion vorliegt und mindestens einen Fettstoff, einen oder mehrere feuchtigkeitsspendende Wirkstoffe sowie nichtionische Tenside umfasst.</claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Zusammensetzung zur Verwendung derselben nach einem beliebigen der vorhergehenden Ansprüche, <b>dadurch gekennzeichnet, dass</b> sie einen oder mehrere Fettstoffe umfasst, die vorzugsweise aus den synthetischen, tierischen, mineralischen oder pflanzlichen Ölen, den Silikonölen, den Fettsäuren, den Fettalkoholen, den<!-- EPO <DP n="28"> --> Wachsen, den Gummen und den Mischungen dieser Verbindungen ausgewählt ist, wobei sie stärker bevorzugt aus den mineralischen Ölen, den Fettsäuren, den Wachsen und den Mischungen dieser Verbindungen ausgewählt ist und wobei die Zusammensetzung insbesondere eine Mischung aus einem oder mehreren mineralischen Ölen, aus einer oder mehreren Fettsäuren und einem oder mehreren Wachsen umfasst.</claim-text></claim>
+<claim id="c-de-01-0010" num="0010">
+<claim-text>Zusammensetzung zur Verwendung derselben nach einem beliebigen der vorhergehenden Ansprüche, <b>dadurch gekennzeichnet, dass</b> sie ein oder mehrere nichtionische Tenside umfasst, welche aus den Sorbitanestern, den Glycerinestern und den Mischungen dieser Verbindungen ausgewählt sind.</claim-text></claim>
+<claim id="c-de-01-0011" num="0011">
+<claim-text>Zusammensetzung zur Verwendung derselben nach einem beliebigen der vorhergehenden Ansprüche, <b>dadurch gekennzeichnet, dass</b> sie einen oder mehrere gelbildende Stoffe umfasst, die vorzugsweise aus den Carboxyvinylpolymeren, den Cellulosederivaten, den Xanthanen, den pflanzlichen Gummen, den Aluminium-/Magnesiumsilikaten, den Guarkernmehlen, den Polyacrylamidpolymeren, den Acrylatcopolymeren, den modifizierten Stärken und den Mischungen dieser Verbindungen ausgewählt sind, wobei sie stärker bevorzugt aus den Carboxyvinylpolymeren ausgewählt sind.</claim-text></claim>
+<claim id="c-de-01-0012" num="0012">
+<claim-text>Zusammensetzung zur Verwendung derselben nach einem beliebigen der vorhergehenden Ansprüche, <b>dadurch gekennzeichnet, dass</b> sie Folgendes umfasst:
+<claim-text>- 10 bis 30 %, vorzugsweise 10 bis 20 % nach Gewicht, stärker bevorzugt 10 bis 15 Gewichts-% an Amitriptylin oder an einem von dessen pharmazeutisch unbedenklichen Salzen,</claim-text>
+<claim-text>- 2 bis 8 Gewichts-% an einem oder mehreren Tensiden,</claim-text>
+<claim-text>- 15 bis 25 Gewichts-% an einem oder mehreren Fettstoffen,<!-- EPO <DP n="29"> --></claim-text>
+<claim-text>- 0,1 bis 4 Gewichts-% an einem oder mehreren gelbildenden Mitteln,</claim-text>
+<claim-text>- 7 bis 15 Gewichts-% an einem oder mehreren feuchtigkeitsspendenden Wirkstoffen,</claim-text>
+<claim-text>- möglicherweise 0 bis 3 Gewichts-% an einem oder mehreren Konservierungsstoffen,</claim-text>
+<claim-text>- möglicherweise 0 bis 1 Gewichts-% an einem oder mehreren pH-Regulatoren,</claim-text>
+<claim-text>- Wasser.</claim-text></claim-text></claim>
+<claim id="c-de-01-0013" num="0013">
+<claim-text>Zusammensetzung zur Verwendung derselben nach Anspruch 12, <b>dadurch gekennzeichnet, dass</b> sie Folgendes umfasst:
+<claim-text>- 10 bis 30 %, vorzugsweise 10 bis 20 % nach Gewicht, stärker bevorzugt 10,5 bis 15 Gewichts-% an Amitriptylin oder an einem von dessen pharmazeutisch unbedenklichen Salzen,</claim-text>
+<claim-text>- 2 bis 8 Gewichts-% eines oder mehrerer Tenside, die aus den Sorbitanestern, den Glycerinestern und den Mischungen dieser Verbindungen ausgewählt sind,</claim-text>
+<claim-text>- 15 bis 25 Gewichts-% eines oder mehrerer Fettstoffe, die aus den mineralischen Ölen, den Fettsäuren, den Wachsen und den Mischungen dieser Verbindungen ausgewählt sind,</claim-text>
+<claim-text>- 0,1 bis 4 Gewichts-% an einem oder mehreren gelbildenden Mitteln, die aus den Carboxyvinylpolymeren ausgewählt sind,</claim-text>
+<claim-text>- 7 bis 15 Gewichts-% an einem oder mehreren feuchtigkeitsspendenden Wirkstoffen,</claim-text>
+<claim-text>- möglicherweise 0 bis 3 Gewichts-% an einem oder mehreren Konservierungsstoffen,</claim-text>
+<claim-text>- möglicherweise 0 bis 1 Gewichts-% an einem oder mehreren pH-Regulatoren,</claim-text>
+<claim-text>- Wasser.</claim-text></claim-text></claim>
+<claim id="c-de-01-0014" num="0014">
+<claim-text>Zusammensetzung zur Verwendung derselben nach Anspruch 12 oder 13, <b>dadurch gekennzeichnet, dass</b> sie Folgendes umfasst:<!-- EPO <DP n="30"> -->
+<claim-text>- 10 bis 30 %, vorzugsweise 10 bis 20 % nach Gewicht, stärker bevorzugt 10,5 bis 15 Gewichts-% an Amitriptylin oder an einem von dessen pharmazeutisch unbedenklichen Salzen,</claim-text>
+<claim-text>- 2 bis 8 Gewichts-% einer Mischung aus einem oder mehreren Sorbitanestern und aus einem oder mehreren Glycerinestern,</claim-text>
+<claim-text>- 15 bis 25 Gewichts-% einer Mischung aus einem oder mehreren Mineralölen, aus einer oder mehreren Fettsäuren und aus einem oder mehreren Wachsen,</claim-text>
+<claim-text>- 0,1 bis 4 Gewichts-% an einem oder mehreren Carboxyvinylpolymeren,</claim-text>
+<claim-text>- 7 bis 15 Gewichts-% an Glycerin,</claim-text>
+<claim-text>- möglicherweise 0 bis 3 Gewichts-% an einem oder mehreren Konservierungsstoffen,</claim-text>
+<claim-text>- möglicherweise 0 bis 1 Gewichts-% an einem oder mehreren pH-Regulatoren,</claim-text>
+<claim-text>- Wasser.</claim-text></claim-text></claim>
+<claim id="c-de-01-0015" num="0015">
+<claim-text>Zusammensetzung zur Verwendung derselben nach einem beliebigen der vorhergehenden Ansprüche, <b>dadurch gekennzeichnet, dass</b> sie als Creme vorliegt.</claim-text></claim>
+</claims>
+<claims id="claims03" lang="en"><!-- EPO <DP n="31"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>Pharmaceutical composition comprising, in a pharmaceutically acceptable support suitable for topical application, from 10% to 30% by weight, relative to the total weight of the composition, of amitriptyline or of a pharmaceutically acceptable salt thereof, for use in the topical treatment of chemotherapy-induced peripheral neuropathic pain.</claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>Composition for use according to Claim 1, for use in the treatment of chemotherapy-induced peripheral neuropathic pain, by application to the peripheral parts (hands and feet).</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>Composition for use according to Claim 1 or 2, <b>characterized in that</b> it comprises from 10% to 20% by weight, preferably more than 10% to 15% by weight, relative to the total weight of the composition, of amitriptyline or of a pharmaceutically acceptable salt thereof.</claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>Composition for use according to any one of Claims 1 to 3, containing the amitriptyline as sole agent for treating neuropathic pain.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>Composition for use according to any one of Claims 1 to 4, for preventive use before a chemotherapy<!-- EPO <DP n="32"> --> treatment for the purpose of reducing, or even preventing, chemotherapy-induced peripheral neuropathic pain.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>Composition for use according to any one of Claims 1 to 4, for use in cancer treatment comprising chemotherapy sessions, the composition being administered between the chemotherapy sessions in order to remedy or prevent neuropathic pain that may be chemotherapy induced.</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>Composition for use according to any one of Claims 1 to 6, for use in cancer treatment comprising chemotherapy sessions, the composition being administered preventively before the chemotherapy session, then during and between the chemotherapy regimens and continuing if necessary after the chemotherapy treatment depending on the state of the neuropathic pain.</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>Composition for use according to any one of Claims 1 to 7, in the form of an oil-in-water emulsion and comprising at least fatty substances, one or more hydrating active agents and non-ionic surfactants.</claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>Composition for use according to any one of the preceding claims, <b>characterized in that</b> it comprises one or more fatty substances, preferably chosen from synthetic, animal, mineral or vegetable oils, silicone oils, fatty acids, fatty alcohols, waxes, gums and mixtures of these compounds, more preferentially chosen from mineral oils, fatty acids, waxes and mixtures of these compounds, and in particular the composition comprises a mixture of one or more mineral oils, of one or more fatty acids and of one or more waxes.</claim-text></claim>
+<claim id="c-en-01-0010" num="0010">
+<claim-text>Composition for use according to any one of the preceding claims, <b>characterized in that</b> it comprises one or more non-ionic surfactants chosen from sorbitan<!-- EPO <DP n="33"> --> esters, glycerol esters, and mixtures of these compounds.</claim-text></claim>
+<claim id="c-en-01-0011" num="0011">
+<claim-text>Composition for use according to any one of the preceding claims, <b>characterized in that</b> it comprises one or more gelling agents, preferably chosen from carboxyvinyl polymers, cellulose-based derivatives, xanthan gums, vegetable gums, aluminium/magnesium silicates, guar gums, polyacrylamide polymers, acrylate copolymers, modified starches, and mixtures of these compounds, and more preferentially chosen from carboxyvinyl polymers.</claim-text></claim>
+<claim id="c-en-01-0012" num="0012">
+<claim-text>Composition for use according to any one of the preceding claims, <b>characterized in that</b> it comprises:
+<claim-text>- from 10% to 30%, preferably from 10% to 20% by weight, more preferentially more than 10% to 15% by weight of amitriptyline or of a pharmaceutically acceptable salt thereof,</claim-text>
+<claim-text>- from 2% to 8% by weight of one or more surfactants,</claim-text>
+<claim-text>- from 15% to 25% by weight of one or more fatty substances,</claim-text>
+<claim-text>- from 0.1% to 4% by weight of one or more gelling agents,</claim-text>
+<claim-text>- from 7% to 15% by weight of one or more hydrating active agents,</claim-text>
+<claim-text>- optionally from 0 to 3% by weight of one or more preservatives,</claim-text>
+<claim-text>- optionally from 0 to 1% by weight of one or more pH adjusters,</claim-text>
+<claim-text>- water.</claim-text></claim-text></claim>
+<claim id="c-en-01-0013" num="0013">
+<claim-text>Composition for use according to Claim 12, <b>characterized in that</b> it comprises:
+<claim-text>- from 10% to 30%, preferably from 10% to 20% by weight, more preferentially from 10.5% to 15% by weight of amitriptyline or of a pharmaceutically acceptable salt thereof,<!-- EPO <DP n="34"> --></claim-text>
+<claim-text>- from 2% to 8% by weight of one or more surfactants chosen from sorbitan esters, glycerol esters, and mixtures of these compounds,</claim-text>
+<claim-text>- from 15% to 25% by weight of one or more fatty substances chosen from mineral oils, fatty acids, waxes and mixtures of these compounds,</claim-text>
+<claim-text>- from 0.1% to 4% by weight of one or more gelling agents chosen from carboxyvinyl polymers,</claim-text>
+<claim-text>- from 7% to 15% by weight of one or more hydrating active agents,</claim-text>
+<claim-text>- optionally from 0 to 3% by weight of one or more preservatives,</claim-text>
+<claim-text>- optionally from 0 to 1% by weight of one or more pH adjusters,</claim-text>
+<claim-text>- water.</claim-text></claim-text></claim>
+<claim id="c-en-01-0014" num="0014">
+<claim-text>Composition for use according to Claim 12 or 13, <b>characterized in that</b> it comprises:
+<claim-text>- from 10% to 30%, preferably from 10% to 20% by weight, more preferentially from 10.5% to 15% by weight of amitriptyline or of a pharmaceutically acceptable salt thereof,</claim-text>
+<claim-text>- from 2% to 8% by weight of a mixture of one or more sorbitan esters and of one or more glycerol esters,</claim-text>
+<claim-text>- from 15% to 25% by weight of a mixture of one or more mineral oils, of one or more fatty acids and of one or more waxes,</claim-text>
+<claim-text>- from 0.1% to 4% by weight of one or more carboxyvinyl polymers,</claim-text>
+<claim-text>- from 7% to 15% by weight of glycerol,</claim-text>
+<claim-text>- optionally from 0 to 3% by weight of one or more preservatives,</claim-text>
+<claim-text>- optionally from 0 to 1% by weight of one or more pH adjusters,</claim-text>
+<claim-text>- water.</claim-text></claim-text></claim>
+<claim id="c-en-01-0015" num="0015">
+<claim-text>Composition for use according to any one of the preceding claims, <b>characterized in that</b> it is in the form of a cream.</claim-text></claim>
+</claims>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>RÉFÉRENCES CITÉES DANS LA DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>Cette liste de références citées par le demandeur vise uniquement à aider le lecteur et ne fait pas partie du document de brevet européen. Même si le plus grand soin a été accordé à sa conception, des erreurs ou des omissions ne peuvent être exclues et l'OEB décline toute responsabilité à cet égard.</i></p>
+<heading id="ref-h0002"><b>Littérature non-brevet citée dans la description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="s"><article><author><name>KIANI et al.</name></author><atl/><serial><sertitle>Iran J Pharm. Res. 2015 Fall</sertitle><pubdate><sdate>20150000</sdate><edate/></pubdate><vid>14</vid><ino>4</ino></serial><location><pp><ppf>1263</ppf><ppl>8</ppl></pp></location></article></nplcit><crossref idref="ncit0001">[0017]</crossref></li>
+<li><nplcit id="ref-ncit0002" npl-type="s"><article><author><name>THOMPSON et al.</name></author><atl>Systematic review of topical amitriptyline for the treatment of neuropathic pain</atl><serial><sertitle>J. Clin. Pharm. Therm.</sertitle><pubdate><sdate>20150000</sdate><edate/></pubdate><vid>40</vid></serial><location><pp><ppf>496</ppf><ppl>503</ppl></pp></location></article></nplcit><crossref idref="ncit0002">[0020]</crossref></li>
+<li><nplcit id="ref-ncit0003" npl-type="s"><article><atl>A phase III randomized, placebo-controlled study of topical amitriptyline and ketamine for chemotherapy-induced peripherical neuropathy</atl><serial><sertitle>Support Care Cancer</sertitle><pubdate><sdate>20140700</sdate><edate/></pubdate><vid>22</vid><ino>7</ino></serial><location><pp><ppf>1807</ppf><ppl>1814</ppl></pp></location></article></nplcit><crossref idref="ncit0003">[0020]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

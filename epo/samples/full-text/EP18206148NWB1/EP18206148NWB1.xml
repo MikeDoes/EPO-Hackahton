@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP18206148B1" file="EP18206148NWB1.xml" lang="de" country="EP" doc-number="3653577" kind="B1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="de"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSK..HRIS..MTNORS..SM..................</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  2100000/0</B007EP></eptags></B000><B100><B110>3653577</B110><B120><B121>EUROPÄISCHE PATENTSCHRIFT</B121></B120><B130>B1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>18206148.1</B210><B220><date>20181114</date></B220><B240><B241><date>20200720</date></B241><B242><date>20201223</date></B242></B240><B250>de</B250><B251EP>de</B251EP><B260>de</B260></B200><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20200520</date><bnum>202021</bnum></B430><B450><date>20211006</date><bnum>202140</bnum></B450><B452EP><date>20210510</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>C01B  33/107       20060101AFI20210420BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C23C  16/24        20060101ALI20210420BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>C23C  16/24        20130101 LI20200528BHEP        </text></classification-cpc><classification-cpc sequence="2"><text>C01B  33/107       20130101 FI20190415BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>TRIS(TRICHLORSILYL)DICHLOROGALLYLGERMAN, VERFAHREN ZU DESSEN HERSTELLUNG UND DESSEN VERWENDUNG</B542><B541>en</B541><B542>TRIS(TRICHLORSILYL)DICHLOROGALLYLGERMAN, METHOD FOR PRODUCING SAME AND ITS USE</B542><B541>fr</B541><B542>TRIS-(TRICHLOROSILYL)-DICHLORO-GALLYL-GERMANE, SON PROCÉDÉ DE PRODUCTION ET SON UTILISATION</B542></B540><B560><B561><text>WO-A2-2004/036631</text></B561><B561><text>US-A1- 2008 044 932</text></B561><B562><text>MULLER L ET AL: "Trichlorosilylation of chlorogermanes and chlorostannanes with HSiCl3/Net3 followed by base-catalysed formation of (Me3Ge)2Si(SiCl3)2 and related branched stannylsilanes", JOURNAL OF ORGANOMETALLIC CHEMISTRY, ELSEVIER, AMSTERDAM, NL, Bd. 579, Nr. 1-2, 5. Mai 1999 (1999-05-05) , Seiten 156-163, XP004170561, ISSN: 0022-328X, DOI: 10.1016/S0022-328X(98)01218-2</text></B562><B562><text>JULIAN TEICHMANN ET AL: "Tris(trichlorosilyl)tetrelide Anions and a Comparative Study of Their Donor Qualities", CHEMISTRY - A EUROPEAN JOURNAL, Bd. 25, Nr. 11, 21. Dezember 2018 (2018-12-21), Seiten 2740-2744, XP055580991, DE ISSN: 0947-6539, DOI: 10.1002/chem.201806298</text></B562></B560></B500><B700><B720><B721><snm>WAGNER, Matthias, Prof. Dr.</snm><adr><str>Lögesmühle 1,</str><city>61194 Niddatal</city><ctry>DE</ctry></adr></B721><B721><snm>TEICHMANN, Julian</snm><adr><str>Mainzer Landstrasse 112A,</str><city>60327 Frankfurt am Main</city><ctry>DE</ctry></adr></B721><B721><snm>LERNER, Hans-Wolfram, Dr.</snm><adr><str>Gattenhöferweg 25 C,</str><city>61440 Oberursel</city><ctry>DE</ctry></adr></B721></B720><B730><B731><snm>Evonik Operations GmbH</snm><iid>101843637</iid><irf>2018P00241EP</irf><adr><str>Rellinghauser Straße 1-11</str><city>45128 Essen</city><ctry>DE</ctry></adr></B731></B730><B740><B741><snm>Evonik Patent Association</snm><iid>101801622</iid><adr><str>c/o Evonik Industries AG 
+IP Management 
+Bau 1042A/PB 15 
+Paul-Baumann-Straße 1</str><city>45772 Marl</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840></B800></SDOBI>
+<description id="desc" lang="de"><!-- EPO <DP n="1"> -->
+<p id="p0001" num="0001">Die vorliegende Erfindung betrifft die neue, chlorierte, ungeladene Sustanz Tris(trichlorsilyl)dichlorogallylgerman, ein Verfahren zur deren Herstellung sowie deren Verwendung.</p>
+<p id="p0002" num="0002">Halogensilane, Polyhalogensilane, Halogengermane, Polyhalogengermane, Silan, Polysilane, German, Polygermane sowie entsprechende Mischverbindungen sind lange bekannt, vgl. neben den gängigen Lehrbüchern der anorganischen Chemie auch <patcit id="pcit0001" dnum="WO2004036631A2"><text>WO 2004/036631 A2</text></patcit> oder <nplcit id="ncit0001" npl-type="s"><text>C.J. Ritter et al., J. Am. Chem. Soc., 2005, 127, 9855-9864</text></nplcit>.</p>
+<p id="p0003" num="0003"><nplcit id="ncit0002" npl-type="s"><text>Lars Müller et al. beschreiben im J. Organomet. Chem. 1999, 579, 156 - 163</text></nplcit>, eine Methode zur Herstellung von Si-Ge Bindungen durch Umsetzung von teilchlorierten organischen Germaniumverbindungen mit Trichlorsilan unter Zugabe von Triethylamin.</p>
+<p id="p0004" num="0004">Eine weitere Möglichkeit, neutrale Si-Ge Verbindungen zu erzeugen, stellen Thomas Lobreyer et al. anhand der Umsetzung von SiH<sub>4</sub> und GeH<sub>4</sub> mit Natrium vor (<nplcit id="ncit0003" npl-type="s"><text>Angew. Chem. 1993, 105, 587 - 588</text></nplcit>).</p>
+<p id="p0005" num="0005">Die Patentanmeldungen <patcit id="pcit0002" dnum="EP17173940" dnum-type="L"><text>EP 17173940.2</text></patcit>, <patcit id="pcit0003" dnum="EP17173951" dnum-type="L"><text>EP 17173951.9</text></patcit> und <patcit id="pcit0004" dnum="EP17173959" dnum-type="L"><text>EP 17173959.2</text></patcit> offenbaren weitere Si-Ge Verbindungen und Verfahren zu deren Herstellung.</p>
+<p id="p0006" num="0006">In der <patcit id="pcit0005" dnum="WO2004036631A2"><text>WO 2004/036631 A2</text></patcit> werden verschiedene halogenierte Silicium-Germanium-Verbindungen beschrieben, die zum Abscheiden von Si-Ge-Schichten eingesetzt werden können. Ga-dotierte Schichten werden hier nicht offenbart.</p>
+<p id="p0007" num="0007">Im Aufsatz von <nplcit id="ncit0004" npl-type="b"><text>Müller et al., "Trichlorosilylation of chlorogermanes and chlorostannanes with HSiCl3/NEt3 followed by base-catalysed formation of (Me3Ge)2Si(SiCl3)2 and related branched stannylsilanes", Journal of Organometallic Chemistry, Elsevier, Amsterdam, NL, Bd. 579, Nr. 1-2, 1999, Seiten 156 -163</text></nplcit>, werden halogenierte Si-Ge-Verbindungen wie beispielsweise Me<sub>3</sub>GeSiCl<sub>3</sub> vorgeschlagen. Auch hier finden mit Gallium dotierte Systeme keine Erwähnung.</p>
+<p id="p0008" num="0008"><patcit id="pcit0006" dnum="US2008044932A1"><text>US 2008/044932 A1</text></patcit> offenbart die Herstellung von Si-Ge-Schichten aus gasförmigem Monosilan und Monogerman. Als Dotierstoffe werden Trimethylgallium und Galliumchlorid vorgeschlagen.</p>
+<p id="p0009" num="0009">So ist man seitens der Grundlagenforschung bestrebt, neue Verbindungen aufzufinden und neue Herstellungswege zu suchen, insbesondere auch mit Hinblick auf mögliche industrielle sowie ggf. verbesserbare Anwendungen.</p>
+<p id="p0010" num="0010">Der vorliegenden Erfindung lag die Aufgabe zugrunde, eine neue Synthesemöglichkeit zur Herstellung<!-- EPO <DP n="2"> --> einer ungeladenen Silicium-Germanium Verbindung ohne den Einsatz pyrophorer oder giftiger Substanzen bereit zu stellen.</p>
+<p id="p0011" num="0011">Eine völlig neue Synthesemöglichkeit wurde mit der Umsetzung von Ammonium- bzw. Phosphoniumtris(trichlorosilyl)germanid-Salzen des Typs [R<sub>4</sub>N][Ge(SiCl<sub>3</sub>)<sub>3</sub>] bzw. [R<sub>4</sub>P][Ge(SiCl<sub>3</sub>)<sub>3</sub>] mit GaCl<sub>3</sub> und alkylischen oder aromatischen Resten R gefunden, die zu einer ungeladenen, chlorierten und mit Gallium dotierten Si-Ge Verbindung führt. Das Überraschende an dieser neuen Synthese ist unter Anderem, dass Gallium in eine bestehende Si-Ge Verbindung in lediglich einem Schritt eingeführt wird und das resultierende Tris(trichlorsilyl)dichlorogallylgerman <i>ungeladen</i> ist.</p>
+<p id="p0012" num="0012">Gegenstand der Erfindung ist demnach die Substanz Tris(trichlorsilyl)dichlorogallylgerman der Formel (I):
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="56" he="21" img-content="chem" img-format="tif"/></chemistry>
+Gleichfalls Gegenstand ist das Verfahren zur Herstellung des erfindungsgemäßen Tris(trichlorsilyl)dichlorogallylgerman, indem man
+<ol id="ol0001" compact="compact" ol-style="">
+<li>(a) zumindest ein Tris(trichlorosilyl)germanidsalz des Typs [X][Ge(SiCl<sub>3</sub>)<sub>3</sub>] mit
+<ul id="ul0001" list-style="none" compact="compact">
+<li>X = Ammonium (R<sub>4</sub>N) und/oder Phosphonium (R<sub>4</sub>P),</li>
+<li>R = alkylischer oder aromatischer Rest,</li>
+</ul>
+mit GaCl<sub>3</sub> mischt, und</li>
+<li>(b) in Umgebung zumindest eines Chlorkohlenwasserstoffes bei einer Temperatur von 5 bis 40 °C umsetzt, wobei man ein Rohprodukt erhält, das Salze [R<sub>4</sub>N][GaCl<sub>4</sub>] und/oder [R<sub>4</sub>P][GaCl<sub>4</sub>], und Tris(trichlorsilyl)dichlorogallylgerman enthält,<br/>
+und anschließend dieses Rohprodukt</li>
+<li>(c) in zumindest ein unpolares Lösungsmittel einbringt und den unlöslichen Rückstand abtrennt, und anschließend</li>
+<li>(d) das unpolare Lösungsmittel entfernt, wobei Tris(trichlorsilyl)dichlorogallylgerman erhalten wird.</li>
+</ol></p>
+<p id="p0013" num="0013">Das Verfahren hat den Vorteil, dass weder pyrophore, noch giftige Substanzen wie z.B. SiH<sub>4</sub>, GeH<sub>4</sub> oder Natrium eingesetzt werden müssen. Zwar sind im Stand der Technik bereits Verfahren bekannt, die den Einsatz solch gefährlicher Substanzen umgehen. Doch diese konventionellen Verfahren bringen in der Regel neutrale Si-Ge-Verbindungen mit organischen Resten hervor. Organische Reste verhindern den Einsatz der Si-Ge-Verbindungen in solchen Abscheidungsreaktionen, die für die Halbleiterelektronik interessant sind, weil bei den während der Abscheidung eingestellten<!-- EPO <DP n="3"> --> Temperaturen SiC gebildet wird. SiC ist nichtleitend und zerstört die gewünschte leitende oder halbleitende Eigenschaft von Si-Ge-Schichten.</p>
+<p id="p0014" num="0014">Ebenso wenig können salzartige Si-Ge-Verbindungen in der Halbleiterelektronik eingesetzt werden, da in solchen Substanzen organische Reste vorhanden sind. In dem erfindungsgemäßen Verfahren wird dagegen weder eine salzartige Si-Ge-Verbindung erzeugt, noch sind organische Reste anwesend. Vielmehr wird in dem beanspruchten Verfahren in einem einzigen Schritt eine bereits bestehende Si-Ge-Verbindung mit Gallium dotiert, und zugleich ein salzartiger Ausgangsstoff in ein ungeladenes, nicht-ionisches Produkt überführt. Also stellt sich als weiterer, immens wichtiger Vorteil heraus, dass das erfindungsgemäße bzw. das erfindungsgemäß erhaltene Tris(trichlorsilyl)dichlorogallylgerman problemlos in der Halbleiterelektronik eingesetzt werden kann.</p>
+<p id="p0015" num="0015">Somit ist ebenfalls Gegenstand der Erfindung die Verwendung des erfindungsgemäßen Tris(trichlorsilyl)dichlorogallylgerman als Prekursor für die Abscheidung von mit Gallium dotierten Si-Ge-Schichten.</p>
+<p id="p0016" num="0016">Die Erfindung wird im Folgenden näher erläutert.</p>
+<p id="p0017" num="0017">Im Schritt a des erfindungsgemäßen Verfahrens können vorzugsweise 2 Äquivalente GaCl<sub>3</sub> pro Äquivalent Tris(trichlorosilyl)germanidsalz des Typs [X][Ge(SiCl<sub>3</sub>)<sub>3</sub>] eingesetzt werden, mit X = Ammonium (R<sub>4</sub>N) und/oder Phosphonium (R<sub>4</sub>P).</p>
+<p id="p0018" num="0018">Bei der Umsetzung, die in dem Schritt b des erfindungsgemäßen Verfahrens stattfindet, lagert sich eine GaCl<sub>2</sub>-Gruppe an das zentrale Germaniumatom an, und es entsteht in dem Rohprodukt die chlorierte ungeladene Verbindung Ge(SiCl<sub>3</sub>)<sub>3</sub>GaCl<sub>2</sub>.</p>
+<p id="p0019" num="0019">Die Ammonium- bzw. Phosphoniumchlorid-Salze bilden mit GaCl<sub>3</sub> Salze des Typs [R<sub>4</sub>N][GaCl<sub>4</sub>] bzw. [R<sub>4</sub>P][GaCl<sub>4</sub>], die ebenfalls im Rohprodukt enthalten sind. Von diesen salzartigen Verbindungen wird das ungeladene Molekül der Formel (I) durch Extraktion mit unpolaren Lösungsmitteln abgetrennt und in Reinform gewonnen. Als unpolare Lösungsmittel sind vorteilhafterweise Pentan, Hexan und/oder Benzol geeignet. Besonders bevorzugt kann n-Hexan eingesetzt werden.</p>
+<p id="p0020" num="0020">Die Umsetzung im Schritt b des erfindungsgemäßen Verfahrens kann vorteilhaft bei Raumtemperatur durchgeführt werden. Zusätzlich oder alternativ zu dieser Option kann im Schritt d das unpolare Lösungsmittel bei Raumtemperatur entfernt werden.</p>
+<p id="p0021" num="0021">Des Weiteren kann es vorteilhaft sein, im Schritt b des erfindungsgemäßen Verfahrens als Chlorkohlenwasserstoff Dichlormethan CH<sub>2</sub>Cl<sub>2</sub> einzusetzen.<!-- EPO <DP n="4"> --></p>
+<p id="p0022" num="0022">Eine weitere Option besteht darin, im Schritt b des erfindungsgemäßen Verfahrens R = Et zu wählen.</p>
+<p id="p0023" num="0023">Vorzugsweise kann im Schritt c des erfindungsgemäßen Verfahrens das unpolare Lösungsmittel aus Hexan, n-Hexan, Pentan, und/oder Benzol ausgewählt sein. Besonders bevorzugt kann im Schritt c n-Hexan eingesetzt werden.</p>
+<p id="p0024" num="0024">Eine weiterhin bevorzugte Ausführungsform des erfindungsgemäßen Verfahrens besteht darin, dass man im Schritt a [X][Ge(SiCl<sub>3</sub>)<sub>3</sub>] und GaCl<sub>3</sub> mittels Rühren mischt, wobei diese Komponenten vorzugsweise in festem Zustand sind, vorzugsweise in Sauerstoff freier Umgebung mischt, besonders bevorzugt unter Schutzgas, Stickstoff oder Argon, und im Schritt b das im Schritt a erhaltene Gemisch vollständig in dem oder den Chlorkohlenwasserstoffen löst, und nach einer Zeit von 0,1 bis 24 Stunden, vorzugsweise nach 1 bis 5 Stunden den oder die Chlorkohlenwasserstoffe entfernt, vorzugsweise bei einer Temperatur von 5 bis 40 °C, besonders bevorzugt bei Raumtemperatur, weiterhin bevorzugt in Sauerstoff freier trockener Umgebung, besonders bevorzugt in einer isolierten Umgebung, weiterhin bevorzugt unter Normaldruck oder vermindertem Druck, besonders bevorzugt im Bereich von 1 bis 500 hPa.</p>
+<p id="p0025" num="0025">Es kann des Weiteren vorteilhaft sein, in dem Schritt c des erfindungsgemäßen Verfahrens nach dem Einbringen des Rohproduktes die Temperatur des oder der unpolaren Lösungsmittel von 1 mal bis 5 mal, vorzugsweise 3 mal von RT auf erhöhte Temperatur zu bringen, vorzugsweise auf den Siedepunkt zumindest eines unpolaren Lösungsmittels, und anschließend abkühlen lässt, vorzugsweise auf RT.</p>
+<p id="p0026" num="0026">Das nachfolgende Beispiel erläutert die vorliegende Erfindung zusätzlich, ohne den Gegenstand zu beschränken. Der Begriff "Raumtemperatur" wird mit "RT" abgekürzt.</p>
+<p id="p0027" num="0027">Im Beispiel 1 ist die Umsetzung von [Et<sub>4</sub>N][Ge(SiCl<sub>3</sub>)<sub>3</sub>] mit GaCl<sub>3</sub> beschrieben. Die Umsetzung anderer Ammonium- bzw. Phosphonium(trichlorosilyl)germanid-Salze des Typs [R<sub>4</sub>N][Ge(SiCl<sub>3</sub>)<sub>3</sub>] bzw. [R<sub>4</sub>P][Ge(SiCl<sub>3</sub>)<sub>3</sub>] lässt sich analog durchführen.</p>
+<heading id="h0001"><b>Analytische Methoden der Kristallstrukturbestimmung</b></heading>
+<p id="p0028" num="0028">Die Daten für alle Strukturen wurden bei 173 K mit einem STOE IPDS II Zweikreisdiffraktometer mit einer Genix Mikrofokusröhre mit Spiegeloptik unter Verwendung von Mo<i>K</i><sub>α</sub> Strahlung (<i>λ</i> = 0,71073 Å) gesammelt und mit dem frame scaling procedure des Programms <i>X-AREA</i> (Stoe &amp; Cie, 2002) skaliert. Die Strukturen wurden mit direkten Methoden mit Hilfe des Programms <i>SHELXS</i> (Sheldrick, 2008) gelöst und gegen <i>F<sup>2</sup></i> mit der full-matrix least-squares Technik verfeinert. Zellparameter wurden durch Verfeinerung gegen θ Werte der Reflexe mit <i>I</i>&gt;6σ(<i>I</i>) bestimmt.<!-- EPO <DP n="5"> --></p>
+<heading id="h0002"><b>Beispiel 1: Herstellung von Tris(trichlorsilyl)dichlorogallylgerman <i>(1)</i>.</b></heading>
+<p id="p0029" num="0029">Die Synthese erfolgte gemäß <b>Gleichung 1</b> aus [Et<sub>4</sub>N][Ge(SiCl<sub>3</sub>)<sub>3</sub>] mit GaCl<sub>3</sub> unter Zugabe von CH<sub>2</sub>Cl<sub>2</sub>.
+<chemistry id="chem0002" num="0002"><img id="ib0002" file="imgb0002.tif" wi="121" he="26" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0030" num="0030"><b>Gleichung 1:</b> Umsetzung von [Et<sub>4</sub>N][Ge(SiCl<sub>3</sub>)<sub>3</sub>] und GaCl<sub>3</sub> bei RT unter Zugabe von CH<sub>2</sub>Cl<sub>2</sub>.</p>
+<p id="p0031" num="0031">Die Umsetzung wurde in einer Glovebox durchgeführt.</p>
+<p id="p0032" num="0032">[Et<sub>4</sub>N][Ge(SiCl<sub>3</sub>)<sub>3</sub>] in einer Menge von 0,050 g, entsprechend 0,082 mmol, und GaCl<sub>3</sub> in einer Menge von 0,028 g, entsprechend 0,16 mmol, wurden in festem Zustand vermischt und anschließend vollständig in Dichlormethan CH<sub>2</sub>Cl<sub>2</sub> gelöst.</p>
+<p id="p0033" num="0033">Nach 3 Stunden wurde das Dichlormethan bei RT langsam verdampft. Nach einem Tag hatte sich ein Gemisch aus Ge(SiCl<sub>3</sub>)<sub>3</sub>GaCl<sub>2</sub> <i>(<b>1</b>)</i> und [Et<sub>4</sub>N][GaCl<sub>4</sub>] als kristallines Rohprodukt gebildet. Das Rohprodukt wurde dreimal mit je 7 ml <i>n</i>-Hexan bis zum Sieden erhitzt. Anschließend wurde die klare, farblose <i>n</i>-Hexan-Lösung mit einer Spritze vom unlöslichen Rückstand abgetrennt.</p>
+<p id="p0034" num="0034">Das unpolare Lösungsmittel wurde anschließend langsam bei RT entfernt, und nach einem Tag konnte Ge(SiCl<sub>3</sub>)<sub>3</sub>GaCl<sub>2</sub> (<b><i>1</i></b>) als kristalliner Stoff isoliert werden.</p>
+<p id="p0035" num="0035">Das <sup>29</sup>Si NMR Spektrum des erfindungsgemäßen Produktes <b><i>1</i></b> ist in <figref idref="f0001"><b>Abb. 1a</b></figref>, und das Ergebnis seiner röntgendiffraktometrischen Analyse in <figref idref="f0002"><b>Abb. 1b</b></figref> dargestellt.</p>
+<p id="p0036" num="0036">Die Daten der <sup>29</sup>Si NMR-spektroskopischen Untersuchung: <b><sup>29</sup>Si NMR (99,4 MHz, CD<sub>2</sub>Cl<sub>2</sub>, 298 K):</b> δ = 7,2 ppm.</p>
+</description>
+<claims id="claims01" lang="de"><!-- EPO <DP n="6"> -->
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Tris(trichlorsilyl)dichlorogallylgerman der Formel (I):
+<chemistry id="chem0003" num="0003"><img id="ib0003" file="imgb0003.tif" wi="56" he="21" img-content="chem" img-format="tif"/></chemistry></claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Verfahren zur Herstellung des Tris(trichlorsilyl)dichlorogallylgerman nach Anspruch 1, indem man
+<claim-text>(a) zumindest ein Tris(trichlorosilyl)germanidsalz des Typs [X][Ge(SiCl<sub>3</sub>)<sub>3</sub>] mit X = Ammonium (R<sub>4</sub>N) und/oder Phosphonium (R<sub>4</sub>P),<br/>
+R = alkylischer oder aromatischer Rest,<br/>
+mit GaCl<sub>3</sub> mischt, und</claim-text>
+<claim-text>(b) in Umgebung zumindest eines Chlorkohlenwasserstoffes bei einer Temperatur von 5 bis 40 °C umsetzt, wobei man ein Rohprodukt erhält, das Salze<br/>
+[R<sub>4</sub>N][GaCl<sub>4</sub>] und/oder [R<sub>4</sub>P][GaCl<sub>4</sub>], und Tris(trichlorsilyl)dichlorogallylgerman enthält,<br/>
+und anschließend dieses Rohprodukt</claim-text>
+<claim-text>(c) in zumindest ein unpolares Lösungsmittel einbringt und den unlöslichen Rückstand abtrennt, und anschließend</claim-text>
+<claim-text>(d) das unpolare Lösungsmittel entfernt, wobei<br/>
+Tris(trichlorsilyl)dichlorogallylgerman erhalten wird.</claim-text></claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Verfahren nach Anspruch 2, wobei im Schritt b die Umsetzung bei Raumtemperatur durchgeführt wird, und/oder im Schritt d das unpolare Lösungsmittel bei Raumtemperatur entfernt wird.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Verfahren nach einem der vorhergehenden Ansprüche, wobei im Schritt b als Chlorkohlenwasserstoff Dichlormethan CH<sub>2</sub>Cl<sub>2</sub> eingesetzt wird.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Verfahren nach einem der vorhergehenden Ansprüche, wobei im Schritt b R = Et gewählt wird.</claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Verfahren nach einem der vorhergehenden Ansprüche, <b>dadurch gekennzeichnet, dass</b> man im Schritt c das unpolare Lösungsmittel aus Hexan, n-Hexan, Pentan, und/oder Benzol auswählt, vorzugsweise n-Hexan einsetzt.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Verfahren nach einem der vorhergehenden Ansprüche, <b>dadurch gekennzeichnet, dass</b> man im Schritt a
+<claim-text>[X][Ge(SiCl<sub>3</sub>)<sub>3</sub>] und GaCl<sub>3</sub>, wobei diese Komponenten vorzugsweise in festem Zustand sind, mittels Rühren mischt, vorzugsweise<!-- EPO <DP n="7"> --></claim-text>
+<claim-text>in Sauerstoff freier Umgebung mischt, besonders bevorzugt unter Schutzgas, Stickstoff oder Argon,<br/>
+und im Schritt b</claim-text>
+<claim-text>das im Schritt a erhaltene Gemisch vollständig in dem oder den Chlorkohlenwasserstoffen löst, und</claim-text>
+<claim-text>nach einer Zeit von 0,1 bis 24 Stunden, vorzugsweise nach 1 bis 5 Stunden den oder die Chlorkohlenwasserstoffe entfernt, vorzugsweise bei einer Temperatur von 5 bis 40 °C, besonders bevorzugt bei Raumtemperatur, weiterhin bevorzugt in Sauerstoff freier trockener Umgebung, besonders bevorzugt in einer isolierten Umgebung, weiterhin bevorzugt unter Normaldruck oder vermindertem Druck, besonders bevorzugt im Bereich von 1 bis 500 hPa.</claim-text></claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Verfahren nach einem der vorhergehenden Ansprüche, <b>dadurch gekennzeichnet, dass</b> man im Schritt c nach dem Einbringen des Rohproduktes die Temperatur des oder der unpolaren Lösungsmittel von 1 mal bis 5 mal, vorzugsweise 3 mal von RT auf erhöhte Temperatur bringt, vorzugsweise auf den Siedepunkt zumindest eines unpolaren Lösungsmittels, und anschließend abkühlen lässt, vorzugsweise auf RT.</claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Verwendung des
+<claim-text>Tris(trichlorsilyl)dichlorogallylgerman nach Anspruch 1</claim-text>
+<claim-text>als Prekursor für die Abscheidung von mit Gallium dotierten Si-Ge-Schichten.</claim-text></claim-text></claim>
+</claims>
+<claims id="claims02" lang="en"><!-- EPO <DP n="8"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>Tris(trichlorosilyl)dichlorogallylgermane of the formula (I):
+<chemistry id="chem0004" num="0004"><img id="ib0004" file="imgb0004.tif" wi="57" he="21" img-content="chem" img-format="tif"/></chemistry></claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>Process for preparing the tris(trichlorosilyl)dichlorogallylgermane according to Claim 1, by
+<claim-text>(a) mixing at least one tris(trichlorosilyl)germanide salt of the [X] [Ge (SiCl<sub>3</sub>)<sub>3</sub>] type where X = ammonium (R<sub>4</sub>N) and/or phosphonium (R<sub>4</sub>P),<br/>
+R = alkylic or aromatic radical,<br/>
+with GaCl<sub>3</sub>, and</claim-text>
+<claim-text>(b) reacting same in an environment consisting of at least one chlorinated hydrocarbon at a temperature of 5 to 40°C to obtain a crude product comprising salts [R<sub>4</sub>N] [GaCl<sub>4</sub>] and/or [R<sub>4</sub>P][GaCl<sub>4</sub>] and tris(trichlorosilyl)dichlorogallylgermane,<br/>
+and subsequently</claim-text>
+<claim-text>(c) introducing said crude product into at least one nonpolar solvent and separating off the insoluble residue, and subsequently<!-- EPO <DP n="9"> --></claim-text>
+<claim-text>(d) removing the nonpolar solvent,<br/>
+to obtain tris(trichlorosilyl)dichlorogallylgermane.</claim-text></claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>Process according to Claim 2, wherein, in step b, the reaction is conducted at room temperature, and/or, in step d, the nonpolar solvent is removed at room temperature.</claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>Process according to any of the preceding claims, wherein, in step b, the chlorinated hydrocarbon used is dichloromethane CH<sub>2</sub>Cl<sub>2</sub>.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>Process according to any of the preceding claims, wherein, in step b, R = Et is chosen.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>Process according to any of the preceding claims, <b>characterized in that</b>, in step c, the nonpolar solvent is selected from hexane, n-hexane, pentane and/or benzene; n-hexane is preferably used.</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>Process according to any of the preceding claims, <b>characterized in that</b>, in step a,
+<claim-text>[X] [Ge(SiCl<sub>3</sub>)<sub>3</sub>] and GaCl<sub>3</sub>, these components preferably being in the solid state, are mixed by means of stirring, preferably</claim-text>
+<claim-text>mixed in an oxygen-free environment, particularly preferably under protective gas, nitrogen or argon, and, in step b,</claim-text>
+<claim-text>the mixture obtained in step a is completely dissolved in the chlorinated hydrocarbon(s), and,</claim-text>
+<claim-text>after a time of 0.1 to 24 hours, preferably after 1 to 5 hours,</claim-text>
+<claim-text>the chlorinated hydrocarbon(s) are removed, preferably at a temperature of 5 to 40°C, particularly preferably<!-- EPO <DP n="10"> --> at room temperature, additionally preferably in an oxygen-free, dry environment, particularly preferably in an isolated environment, additionally preferably under standard pressure or reduced pressure, particularly preferably in the range from 1 to 500 hPa.</claim-text></claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>Process according to any of the preceding claims, <b>characterized in that</b>,<br/>
+in step c, after the introduction of the crude product, the temperature of the nonpolar solvent(s) is brought for from 1 to 5 times, preferably 3 times, from RT to elevated temperature, preferably to the boiling point at least of one nonpolar solvent, and subsequently allowed to cool, preferably to RT.</claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>Use of the tris(trichlorosilyl)dichlorogallylgermane according to Claim 1<br/>
+as precursor for the deposition of gallium-doped Si-Ge layers.</claim-text></claim>
+</claims>
+<claims id="claims03" lang="fr"><!-- EPO <DP n="11"> -->
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Tris(trichlorosilyl)dichlorogallylgermane de formule (I) :
+<chemistry id="chem0005" num="0005"><img id="ib0005" file="imgb0005.tif" wi="63" he="24" img-content="chem" img-format="tif"/></chemistry></claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Procédé pour la préparation du tris(trichlorosilyl)dichlorogallylgermane selon la revendication 1, dans lequel
+<claim-text>(a) on mélange au moins un sel de tris(trichlorosilyl)germanure du type [X][Ge(SiCl<sub>3</sub>)<sub>3</sub>] avec X = ammonium (R<sub>4</sub>N) et/ou phosphonium (R<sub>4</sub>P),<br/>
+R = radical alkylique ou aromatique,<br/>
+avec GaCl<sub>3</sub>, et</claim-text>
+<claim-text>(b) on transforme en présence d'au moins un chlorohydrocarbure à une température de 5 à 40 °C, dans lequel on obtient un produit brut, qui contient des sels [R<sub>4</sub>N] [GaCl<sub>4</sub>] et/ou [R<sub>4</sub>P][GaCl<sub>4</sub>], et du tris(trichlorosilyl)dichlorogallylgermane, et ensuite</claim-text>
+<claim-text>(c) on introduit ce produit brut dans au moins un solvant apolaire et on sépare le résidu insoluble, et ensuite</claim-text>
+<claim-text>(d) on élimine le solvant apolaire,<br/>
+le tris(trichlorosilyl)dichlorogallylgermane étant obtenu.</claim-text><!-- EPO <DP n="12"> --></claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Procédé selon la revendication 2, dans lequel, dans l'étape b, la transformation est mise en œuvre à température ambiante, et/ou dans l'étape d, le solvant apolaire est éliminé à température ambiante.</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Procédé selon l'une quelconque des revendications précédentes, dans lequel, dans l'étape b, du dichlorométhane CH<sub>2</sub>Cl<sub>2</sub> est utilisé en tant que chlorohydrocarbure.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Procédé selon l'une quelconque des revendications précédentes, dans lequel, dans l'étape b, R = Et est choisi.</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Procédé selon l'une quelconque des revendications précédentes, <b>caractérisé en ce qu'</b>on choisit, dans l'étape c, le solvant apolaire parmi l'hexane, le n-hexane, le pentane et/ou le benzène, de préférence on utilise le n-hexane.</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Procédé selon l'une quelconque des revendications précédentes, <b>caractérisé en ce que</b>, dans l'étape a,
+<claim-text>on mélange [X][Ge(SiCl<sub>3</sub>)<sub>3</sub>] et GaCl<sub>3</sub> au moyen d'une agitation, ces composants étant de préférence à l'état solide, de préférence</claim-text>
+<claim-text>on mélange dans un environnement exempt d'oxygène, particulièrement préférablement sous gaz protecteur, azote ou argon,</claim-text>
+<claim-text>et dans l'étape b</claim-text>
+<claim-text>on dissout totalement le mélange obtenu dans l'étape a dans le ou les chlorohydrocarbures, et</claim-text>
+<claim-text>après une durée de 0,1 à 24 heures, de préférence après 1 à 5 heures, on élimine les chlorohydrocarbures, de préférence à une température de 5 à 40 °C, particulièrement préférablement à température ambiante, encore préférablement dans un environnement sec exempt d'oxygène, particulièrement préférablement dans un environnement isolé, encore préférablement sous pression<!-- EPO <DP n="13"> --> normale ou pression réduite, particulièrement préférablement dans la plage de 1 à 500 hPa.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Procédé selon l'une quelconque des revendications précédentes, caractérisé ce que, dans l'étape c après l'introduction du produit brut, on amène la température du ou des solvants apolaires 1 fois à 5 fois, de préférence 3 fois de la température ambiante à une température élevée, de préférence au point d'ébullition d'au moins un solvant apolaire, et ensuite on laisse refroidir, de préférence à température ambiante.</claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Utilisation du tris(trichlorosilyl)dichlorogallylgermane selon la revendication 1 en tant que précurseur pour le dépôt de couches de Si-Ge dopées au gallium.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="de"><!-- EPO <DP n="14"> -->
+<figure id="f0001" num="1a"><img id="if0001" file="imgf0001.tif" wi="125" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="15"> -->
+<figure id="f0002" num="1b"><img id="if0002" file="imgf0002.tif" wi="133" he="154" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>IN DER BESCHREIBUNG AUFGEFÜHRTE DOKUMENTE</b></heading>
+<p id="ref-p0001" num=""><i>Diese Liste der vom Anmelder aufgeführten Dokumente wurde ausschließlich zur Information des Lesers aufgenommen und ist nicht Bestandteil des europäischen Patentdokumentes. Sie wurde mit größter Sorgfalt zusammengestellt; das EPA übernimmt jedoch keinerlei Haftung für etwaige Fehler oder Auslassungen.</i></p>
+<heading id="ref-h0002"><b>In der Beschreibung aufgeführte Patentdokumente</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="WO2004036631A2"><document-id><country>WO</country><doc-number>2004036631</doc-number><kind>A2</kind></document-id></patcit><crossref idref="pcit0001">[0002]</crossref><crossref idref="pcit0005">[0006]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="EP17173940" dnum-type="L"><document-id><country>EP</country><doc-number>17173940</doc-number></document-id></patcit><crossref idref="pcit0002">[0005]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="EP17173951" dnum-type="L"><document-id><country>EP</country><doc-number>17173951</doc-number></document-id></patcit><crossref idref="pcit0003">[0005]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="EP17173959" dnum-type="L"><document-id><country>EP</country><doc-number>17173959</doc-number></document-id></patcit><crossref idref="pcit0004">[0005]</crossref></li>
+<li><patcit id="ref-pcit0005" dnum="US2008044932A1"><document-id><country>US</country><doc-number>2008044932</doc-number><kind>A1</kind></document-id></patcit><crossref idref="pcit0006">[0008]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>In der Beschreibung aufgeführte Nicht-Patentliteratur</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="s"><article><author><name>C.J. RITTER et al.</name></author><atl/><serial><sertitle>J. Am. Chem. Soc.</sertitle><pubdate><sdate>20050000</sdate><edate/></pubdate><vid>127</vid></serial><location><pp><ppf>9855</ppf><ppl>9864</ppl></pp></location></article></nplcit><crossref idref="ncit0001">[0002]</crossref></li>
+<li><nplcit id="ref-ncit0002" npl-type="s"><article><author><name>LARS MÜLLER et al.</name></author><atl/><serial><sertitle>J. Organomet. Chem.</sertitle><pubdate><sdate>19990000</sdate><edate/></pubdate><vid>579</vid></serial><location><pp><ppf>156</ppf><ppl>163</ppl></pp></location></article></nplcit><crossref idref="ncit0002">[0003]</crossref></li>
+<li><nplcit id="ref-ncit0003" npl-type="s"><article><atl/><serial><sertitle>Angew. Chem.</sertitle><pubdate><sdate>19930000</sdate><edate/></pubdate><vid>105</vid></serial><location><pp><ppf>587</ppf><ppl>588</ppl></pp></location></article></nplcit><crossref idref="ncit0003">[0004]</crossref></li>
+<li><nplcit id="ref-ncit0004" npl-type="b"><article><atl>Trichlorosilylation of chlorogermanes and chlorostannanes with HSiCl3/NEt3 followed by base-catalysed formation of (Me3Ge)2Si(SiCl3)2 and related branched stannylsilanes</atl><book><author><name>MÜLLER et al.</name></author><book-title>Journal of Organometallic Chemistry</book-title><imprint><name>Elsevier</name><pubdate>19990000</pubdate></imprint><vid>579</vid><location><pp><ppf>156</ppf><ppl>163</ppl></pp></location></book></article></nplcit><crossref idref="ncit0004">[0007]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

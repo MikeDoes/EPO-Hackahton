@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP18197934B1" file="EP18197934NWB1.xml" lang="en" country="EP" doc-number="3466919" kind="B1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSK..HRIS..MTNORS..SM..................</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  2100000/0</B007EP></eptags></B000><B100><B110>3466919</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>18197934.5</B210><B220><date>20130111</date></B220><B240><B241><date>20191008</date></B241><B242><date>20201113</date></B242></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>201261588093 P</B310><B320><date>20120118</date></B320><B330><ctry>US</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20190410</date><bnum>201915</bnum></B430><B450><date>20211006</date><bnum>202140</bnum></B450><B452EP><date>20210506</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>C07C 211/12        20060101AFI20190220BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C07C 209/16        20060101ALI20190220BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>C07C  29/17        20060101ALI20190220BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>C07C  31/20        20060101ALI20190220BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>C07C  31/22        20060101ALI20190220BHEP        </text></classification-ipcr><classification-ipcr sequence="6"><text>C07D 307/12        20060101ALI20190220BHEP        </text></classification-ipcr><classification-ipcr sequence="7"><text>C07C  29/132       20060101ALI20190220BHEP        </text></classification-ipcr><classification-ipcr sequence="8"><text>C07C  29/157       20060101ALI20190220BHEP        </text></classification-ipcr><classification-ipcr sequence="9"><text>C07D 307/46        20060101ALI20190220BHEP        </text></classification-ipcr><classification-ipcr sequence="10"><text>C07D 307/48        20060101ALI20190220BHEP        </text></classification-ipcr><classification-ipcr sequence="11"><text>C07D 307/50        20060101ALI20190220BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cset><classification-cset group-number="5"><classification-cpc rank="1"><text>C07C  29/175       20130101 LI20150113BHEP        </text></classification-cpc><classification-cpc rank="2"><text>C07C  31/20        20130101 LI20150113BHEP        </text></classification-cpc></classification-cset><classification-cset group-number="7"><classification-cpc rank="1"><text>C07C  29/175       20130101 LI20150113BHEP        </text></classification-cpc><classification-cpc rank="2"><text>C07C  31/22        20130101 LI20150113BHEP        </text></classification-cpc></classification-cset><classification-cset group-number="9"><classification-cpc rank="1"><text>C07C  29/132       20130101 LI20150113BHEP        </text></classification-cpc><classification-cpc rank="2"><text>C07C  31/20        20130101 LI20150113BHEP        </text></classification-cpc></classification-cset><classification-cset group-number="10"><classification-cpc rank="1"><text>C07C 209/16        20130101 LI20150113BHEP        </text></classification-cpc><classification-cpc rank="2"><text>C07C 211/12        20130101 LI20150113BHEP        </text></classification-cpc></classification-cset></classifications-cset><classifications-cpc><classification-cpc sequence="1"><text>C07D 307/50        20130101 LI20141009BHEP        </text></classification-cpc><classification-cpc sequence="2"><text>C07C 209/16        20130101 LI20171010BHEP        </text></classification-cpc><classification-cpc sequence="3"><text>C07D 307/48        20130101 LI20141009BHEP        </text></classification-cpc><classification-cpc sequence="4"><text>C07D 307/46        20130101 LI20160310BHEP        </text></classification-cpc><classification-cpc sequence="5"><text>C07C  29/175       20130101 LI20141009BHEP        </text></classification-cpc><classification-cpc sequence="6"><text>C07C  29/132       20130101 LI20141009BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>VERFAHREN ZUR HERSTELLUNG VON 1,6-HEXANDIOL AUS 1,2,6-HEXANTRIOL</B542><B541>en</B541><B542>PROCESS FOR PRODUCTION OF 1,6-HEXANEDIOL FROM 1,2-6-HEXANETRIOL</B542><B541>fr</B541><B542>PROCÉDÉ DE PRODUCTION D' HEXANE-1,6-DIOL À PARTIR DE L' HEXANE 1,2,6-TRIOL</B542></B540><B560><B561><text>WO-A1-2011/149339</text></B561><B561><text>US-A- 3 083 236</text></B561><B561><text>US-A- 3 270 059</text></B561><B562><text>MEI CHIA ET AL: "Selective Hydrogenolysis of Polyols and Cyclic Ethers over Bifunctional Surface Sites on Rhodium-Rhenium Catalysts", JOURNAL OF THE AMERICAN CHEMICAL SOCIETY, AMERICAN CHEMICAL SOCIETY| , vol. 133, no. 32 1 January 2011 (2011-01-01), pages 12675-12689, XP002681777, ISSN: 0002-7863, DOI: 10.1021/JA2038358 Retrieved from the Internet: URL:http://pubs.acs.org/doi/abs/10.1021/ja 2038358 [retrieved on 2011-07-07]</text></B562><B562><text>BUNTARA, TEDDY ET AL: "Caprolactam from Renewable Resources: Catalytic Conversion of 5-Hydroxymethylfurfural into Caprolactone", ANGEWANDTE CHEMIE INTERNATIONAL EDITION, vol. 50, 2011, pages 7083-7087, XP002694448, DOI: 10.1002/anie.201102156</text></B562></B560></B500><B600><B620><parent><pdoc><dnum><anum>13701538.4</anum><pnum>2804848</pnum></dnum><date>20130111</date></pdoc></parent></B620></B600><B700><B720><B721><snm>DIAS, Eric L.</snm><adr><str>4666 E. Faries Parkway</str><city>Decatur, IL 62526</city><ctry>US</ctry></adr></B721><B721><snm>SHOEMAKER, James A. W.</snm><adr><str>4666 E. Faries Parkway</str><city>Decatur, IL 62526</city><ctry>US</ctry></adr></B721><B721><snm>BOUSSIE, Thomas R.</snm><adr><str>4666 E. Faries Parkway</str><city>Decatur, IL 62526</city><ctry>US</ctry></adr></B721><B721><snm>MURPHY, Vincent J.</snm><adr><str>4666 E. Faries Parkway</str><city>Decatur, IL 62526</city><ctry>US</ctry></adr></B721></B720><B730><B731><snm>Archer-Daniels-Midland Company</snm><iid>101744816</iid><irf>P130885EP01</irf><adr><str>4666 E. Faries Parkway</str><city>Decatur, IL 62526</city><ctry>US</ctry></adr></B731></B730><B740><B741><snm>Zacco Sweden AB</snm><iid>101579022</iid><adr><str>Valhallavägen 117 
+Box 5581</str><city>114 85 Stockholm</city><ctry>SE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840></B800></SDOBI>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">BACKGROUND</heading>
+<heading id="h0002">I. Field</heading>
+<p id="p0001" num="0001">The present invention is directed to the production of 1,6-hexanediol from 1,2,6 hexanetriol.</p>
+<heading id="h0003">II. Background</heading>
+<p id="p0002" num="0002">Hexamethylenediamine (HMDA) is a chemical intermediate primarily used in the production of nylon 6,6 via a condensation with adipic acid. HMDA is also used in the production of monomers for polyurethanes. Further, HMDA is used in the production of epoxy resins. Today, annual production of HMDA exceeds 3 billion pounds (avoir).</p>
+<p id="p0003" num="0003">Crude oil is currently the source of most commodity and specialty organic chemicals. Many of these chemicals are employed in the manufacture of polymers and other materials. Desired chemicals include, for example, styrene, bisphenol A, terephthalic acid, adipic acid, caprolactam, hexamethylenediamine, adiponitrile, caprolactone, acrylic acid, acrylonitrile, 1,6-hexanediol, 1,3-propanediol, and others. Crude oil is first refined, typically by steam cracking, into hydrocarbon intermediates such as ethylene, propylene, butadiene, benzene, and cyclohexane. These hydrocarbon intermediates then typically undergo one or more catalytic reactions by various processes to produce these desired chemical(s).</p>
+<p id="p0004" num="0004">HMDA is among those chemicals that continue to be produced commercially from oil via a multistep process. HMDA is typically produced from butadiene. Butadiene is typically produced from steam cracking of heavier feeds. The steam cracking of such feeds favors the production of butadiene, but also produces heavier olefins and aromatics. Thus, the butadiene resulting from the cracking step is typically extracted into a polar solvent from which it is then stripped by distillation. Butadiene is subjected to a hydrocyanation process in the presence of a nickel catalyst to produce adiponitrile. See, for example, <patcit id="pcit0001" dnum="US6331651B"><text>US 6,331,651</text></patcit>. HMDA is then produced typically by the hydrogenation of adiponitrile in the presence of a solid catalyst. See, for example, <patcit id="pcit0002" dnum="US4064172A"><text>US 4,064,172</text></patcit> (which discloses a process for producing<!-- EPO <DP n="2"> --> HMDA by hydrogenating adiponitrile in the presence of an iron oxide catalyst) and <patcit id="pcit0003" dnum="US5151543A"><text>US 5,151,543</text></patcit> (which discloses that HMDA can be prepared by hydrogenating adiponitrile in the presence of a Raney nickel type catalyst doped with at least one metal element selected from Groups 4, 5, and 6 of the periodic table of the elements and, more recently, <patcit id="pcit0004" dnum="WO9316034A"><text>WO-A-93/16034</text></patcit> and <patcit id="pcit0005" dnum="WO9618603A"><text>WO-A-96/18603</text></patcit> (each of which discloses Raney nickel catalyst based processes for the production of HMDA from adiponitrile) and <patcit id="pcit0006" dnum="US20030144552A"><text>US Patent Application No. 2003/0144552</text></patcit> (which discloses a process for producing HMDA from adiponitrile in the presence of a particularly conditioned Raney nickel catalyst).</p>
+<p id="p0005" num="0005">Notably, each of the above-mentioned documents directed to the production of HMDA acknowledges the need for improvement in the efficiency, selectivity and commercial competitiveness of such process. In fact, the need for improved or alternative commercial processes for the production of HMDA is exacerbated by the evolution of the chemical industry toward the use of lighter feeds which, when subjected to cracking, produce lesser amounts of butadiene and ultimately will lead to increased costs of producing HMDA and increased price volatility.</p>
+<p id="p0006" num="0006">For many years there has been an interest in using biorenewable materials as a feedstock to replace or supplement crude oil. See, for example, <nplcit id="ncit0001" npl-type="b"><text>Klass, Biomass for Renewable Energy, Fuels, and Chemicals, Academic Press, 1998</text></nplcit>.</p>
+<p id="p0007" num="0007">Recently, HMDA and other chemicals used in the production of, among others materials, polymers such as nylon have been identified as chemicals that may be producible from biorenewable resources, particularly carbohydrate containing materials from which glucose can be obtained and used as the feedstock to manufacture such chemicals. See, for example, <patcit id="pcit0007" dnum="US20100317069A"><text>US 2010/0317069</text></patcit>, which discloses biological pathways purported to be useful to produce, among other chemicals, caprolactam and HMDA.</p>
+<p id="p0008" num="0008">To date, there is no commercially viable process for the production of HMDA from carbohydrate containing feedstocks. Given the shift away from the production of conventional, oil-derived starting materials such as butadiene, notwithstanding the continuing growth in the markets for nylons and polyurethanes, among other materials, derived at least in part from HMDA or derivatives thereof and the benefits attributable to the use of renewable feedstocks in lieu of petroleum derived feedstocks, new, industrially scalable methods for the selective and commercially-meaningful production of chemicals from<!-- EPO <DP n="3"> --> polyhydroxyl-containing biorenewable materials (e.g., glucose derived from starch, cellulose or sucrose) to important chemical intermediates such as HMDA is compelling.</p>
+<p id="p0009" num="0009">1,6-hexanediol (HDO) has been prepared from, for example, adipic acid, caprolactone and hydroxycaproic acid. See, for example, <patcit id="pcit0008" dnum="US5969194A"><text>US 5,969,194</text></patcit>. Recently, a process for the production of 1,6-hexanediol from furfural derived from glucose has been disclosed in <patcit id="pcit0009" dnum="WO2011149339A"><text>WO2011/149339</text></patcit>. The '339 application provides a general description of at least a two step catalytic process for the production of HDO from 5-hydroxymethylfurfural (HMF): hydrogenation of HMF to 2,5-bis(hydroxymethyl)tetrahydrofuran (BHMTHF, also referred to as 2,5-tetrahydrofuran-dimethanol or THFDM) followed by hydrogenation of BHMTHF to 1,2,6-hexanetriol (HTO); and then hydrogenation of 1,2,6-hexanetriol to 1,6-hexanediol. The processes disclosed in the '339 application require at least two different catalyst systems to produce 1,6-hexanediol from HMF. Furthermore, the reported yields of HDO from HMF ranging from 4% (directly to HDO) to 22% (using a 3 step process: HMF to THFDM, THFDM to HTO, and then HTO to HDO). The low yields reported in the '339 application clearly demonstrate the need for development of alternative, more efficient processes for the production of HDO.</p>
+<heading id="h0004">SUMMARY</heading>
+<p id="p0010" num="0010">Briefly, therefore, the present invention is directed to processes for preparing 1,6-hexanediol by converting at least 1,2,6-hexanetriol to 1,6-hexanediol; and optionally converting at least a portion of the 1,6-hexanediol to hexamethylenediamine. The step of converting 1,2,6-hexanetriol to 1,6-hexanediol is conducted in the presence of hydrogen and a hydrogenation catalyst comprising Pt. In other embodiments, the yield of 1,6-hexanediol is at least 40%. In other embodiments, the yield of 1,6-hexanediol is at least 50%. In other embodiments, the yield of 1,6-hexanediol is at least 60%. In other embodiments, the catalyst further comprises a support selected from the group consisting of zirconias, silicas and zeolites. In other embodiments, the hydrogenation catalyst comprises Pt and W supported on zirconia. The present invention is also directed to hexamethylenediamine produced by the processes of any of the above embodiments.</p>
+<p id="p0011" num="0011">The present invention is also directed to processes for preparing 1,6-hexanediol from a carbohydrate source by converting the carbohydrate source to a furfural substrate; reacting at least a portion of the furfural substrate with hydrogen in the presence of a Pt<!-- EPO <DP n="4"> --> containing heterogeneous reduction catalyst to produce a reaction product comprising 1,2,6-hexanetriol; and, converting at least a portion of the 1,2,6-hexanetriol to 1,6-hexanediol. In some embodiments, the heterogeneous catalyst further comprises at least one metal selected from the group consisting of Mo, La, Sm, Y, W, and Re. The step of converting at least a portion of the 1,2,6-hexanetriol to 1,6-hexanediol is conducted in the presence of hydrogen and a hydrogenation catalyst comprising Pt. In other embodiments, the hydrogenation catalyst is a supported heterogeneous catalyst. In other embodiments, the yield of 1,6-hexanediol from the furfural substrate is at least 40%. In other embodiments, the yield of 1,6-hexanediol from the furfural substrate is at least 50%. In other embodiments, the yield of 1,6-hexanediol from the furfural substrate is at least 60%. In other embodiments, the reaction of the furfural substrate with hydrogen is carried out at a temperature in the range of 60°C and 200°C and a pressure of hydrogen in the range of 1 MPa (200 psig) to 14 MPa (2000 psig). The furfural substrate is 5-hydroxymethylfurfural. In other embodiments, the catalyst further comprises a support selected from the group consisting of zirconias, silicas and zeolites. In other embodiments, the reaction of the furfural substrate with hydrogen to produce 1,2,6-hexanetriol is carried out at a temperature in the range of 100°C and 140°C and a pressure of hydrogen in the range of 1 MPa (200 psig) to 7 MPa (1000 psig). In other embodiments, the catalyst comprises Pt and W supported on zirconia. The present invention is also directed to 1,6-hexanediol produced by the processes of any of the above embodiments.</p>
+<heading id="h0005">DETAILED DESCRIPTION</heading>
+<p id="p0012" num="0012">In accordance with the present invention, applicants disclose processes for the chemocatalytic conversion of a furfural substrate, which may be derived from a carbohydrate source (e.g., glucose or fructose) to hexamethylenediamine, and intermediate processes and products along the pathway. In some embodiments, the processes are carried out by converting a carbohydrate source to a furfural substrate; reacting at least a portion of the furfural substrate with hydrogen in the presence of a heterogeneous reduction catalyst to produce 1,6-hexanediol; and, converting at least a portion of the 1,6-hexanediol to hexamethylenediamine. In other embodiments, the processes are carried out by converting a carbohydrate source to a furfural substrate; reacting at least a portion of the furfural substrate with hydrogen in the presence of a heterogeneous reduction catalyst comprising Pt to produce a reaction product comprising 1,2,6-hexanetriol; converting at least a portion of the 1,2,6-hexanetriol<!-- EPO <DP n="5"> --> to 1,6-hexanediol; and converting at least a portion of the 1,6-hexanediol to hexamethylenediamine. In some embodiments, the processes are carried out by converting the carbohydrate source to a furfural substrate; and, reacting at least a portion of the furfural substrate with hydrogen in the presence of a heterogeneous reduction catalyst comprising Pt to produce 1,6-hexanediol. In other embodiments, the processes are carried out by converting the carbohydrate source to a furfural substrate; reacting at least a portion of the furfural substrate with hydrogen in the presence of a Pt containing heterogeneous reduction catalyst to produce a reaction product comprising 1,2,6-hexanetriol; and, converting at least a portion of the 1,2,6-hexanetriol to 1,6-hexanediol. In other embodiments, the processes are carried out by (a) converting a carbohydrate source to a furfural substrate; (b) reacting at least a portion of the furfural substrate with hydrogen in the presence of a heterogeneous reduction catalyst comprising Pt to a reaction product comprising 1,2,6-hexanetriol; (c) reacting at least a portion of the 1,2,6-hexanetriol with hydrogen in the presence of the heterogeneous reduction catalyst comprising Pt to produce 1,6-hexanediol; and (d) converting at least a portion of the 1,6-hexanediol to hexamethylenediamine, wherein steps b) and c) are conducted in a single reactor. In other embodiments, the processes are carried out by (a) converting a carbohydrate source to a furfural substrate; (b) reacting at least a portion of the furfural substrate with hydrogen in the presence of a heterogeneous reduction catalyst comprising Pt to a reaction product comprising 1,2,6-hexanetriol; and (c) reacting at least a portion of the 1,2,6-hexanetriol with hydrogen in the presence of the heterogeneous reduction catalyst comprising Pt to produce 1,6-hexanediol, wherein steps b) and c) are conducted in a single reactor. In preferred embodiments, the 1,6-hexanediol is converted to hexamethylenediamine by a chemocatalytic amination reaction.</p>
+<p id="p0013" num="0013">In another aspect of the invention, the hexamethylenediamine prepared in accordance with the disclosed processes may be converted, according to processes known in the art, to various other industrially significant chemicals and chemical precursors including, for example, nylon 6,6 and monomers for polyurethanes.</p>
+<p id="p0014" num="0014">Biorenewable sources such as corn grain (maize), sugar beet, sugar cane as well as energy crops, plant biomass, agricultural wastes, forestry residues, sugar processing residues, plant-derived household wastes, municipal waste, spent paper, switch grass, miscanthus, cassaya, trees (hardwood and softwood), vegetation, crop residues (e.g., bagasse and corn stover) are all rich in hexoses, which can be used to produce furfural derivatives, such as 5-(hydroxmethyl)furfural.<!-- EPO <DP n="6"> --> Hexoses can be readily produced from such carbohydrate sources by hydrolysis. It is also generally known that biomass carbohydrates can be enzymatically converted to glucose, fructose and other sugars. Dehydration of fructose can readily produce furan derivatives such as 5-(hydroxmethyl)furfural. Acid hydrolysis of glucose is also known to produce 5-(hydroxmethyl)furfural; see, for example, <patcit id="pcit0010" dnum="US6518440B"><text>U.S. Pat. No. 6,518,440</text></patcit>. Various other methods have been developed for producing 5-(hydroxmethyl)furfural including, for example, those described in <patcit id="pcit0011" dnum="US4533743A"><text>U.S. Pat. No. 4,533,743 (to Medeiros et al.</text></patcit>); <patcit id="pcit0012" dnum="US4912237A"><text>U.S. Pat. No. 4,912,237 (to Zeitsch</text></patcit>); <patcit id="pcit0013" dnum="US4971657A"><text>U.S. Pat. No. 4,971,657 (to Avignon et al.</text></patcit>); <patcit id="pcit0014" dnum="US6743928B"><text>U.S. Pat. No. 6,743,928 (to Zeitsch</text></patcit>); <patcit id="pcit0015" dnum="US2750394A"><text>U.S. Pat. No. 2,750,394 (to Peniston</text></patcit>); <patcit id="pcit0016" dnum="US2917520A"><text>U.S. Pat. No. 2,917,520 (to Cope</text></patcit>); <patcit id="pcit0017" dnum="US2929823A"><text>U.S. Pat. No. 2,929,823 (to Garber</text></patcit>); <patcit id="pcit0018" dnum="US3118912A"><text>U.S. Pat. No. 3,118,912 (to Smith</text></patcit>); <patcit id="pcit0019" dnum="US4339387A"><text>U.S. Pat. No. 4,339,387 (to Fleche et al.</text></patcit>); <patcit id="pcit0020" dnum="US4590283A"><text>U.S. Pat. No. 4,590,283 (to Gaset et al.</text></patcit>); and <patcit id="pcit0021" dnum="US4740605A"><text>U.S. Pat. No. 4,740,605 (to Rapp</text></patcit>). In the foreign patent literature, see <patcit id="pcit0022" dnum="GB591858A"><text>GB 591,858</text></patcit>; <patcit id="pcit0023" dnum="GB600871A"><text>GB 600,871</text></patcit>; and <patcit id="pcit0024" dnum="GB876463A"><text>GB 876,463</text></patcit>, all of which were published in English. See also, <patcit id="pcit0025" dnum="FR2663933"><text>FR 2,663,933</text></patcit>; <patcit id="pcit0026" dnum="FR2664273"><text>FR 2,664,273</text></patcit>; <patcit id="pcit0027" dnum="FR2669635"><text>FR 2,669,635</text></patcit>; and <patcit id="pcit0028" dnum="CA2097812"><text>CA 2,097,812</text></patcit>, all of which were published in French. Thus, a variety of carbohydrate sources can be used to produce 5-(hydroxymethyl)furfural by a variety of known techniques.</p>
+<p id="p0015" num="0015">In some preferred embodiments, the carbohydrate source is glucose, and the glucose is converted to fructose using methods known in the art, such as the industrial process to convert glucose into high-fructose corn syrup. As above described, a variety of processes have been disclosed directed to the production of a furfural substrate (e.g., 5-(hydroxymethyl)furfural) from, for example, glucose or other hexoses.</p>
+<heading id="h0006">I. Furfural Substrate and Reduction Thereof</heading>
+<p id="p0016" num="0016">Applicants have discovered that a compound of formula II, below, can be prepared by chemocatalytically reacting a furfural substrate of formula I with hydrogen in the presence of an heterogeneous catalyst comprising platinum (Pt) in accordance with the following overall reaction:
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="165" he="42" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="7"> --></p>
+<p id="p0017" num="0017">wherein each X<sup>2</sup> and X<sup>3</sup> is independently hydrogen or hydroxyl. In accordance with various embodiments of the present invention, X<sup>2</sup> may be hydrogen or hydroxyl and X<sup>3</sup> is, preferably, hydrogen.</p>
+<p id="p0018" num="0018">In various embodiments, the reaction is conducted in the presence of Pt containing catalysts at temperature(s) in the range of 60°C to 200°C and pressure(s) in the range of 1 MPa (200 psig) to 14 MPa (2000 psig).</p>
+<p id="p0019" num="0019">In accordance with various embodiments of the present invention, a compound of formula IIa can be prepared by chemocatalytically converting 5-(hydroxmethyl)furfural (HMF) to a reaction product comprising the compound of formula IIa by reacting HMF with hydrogen in the presence of catalyst comprising Pt in accordance with the following overall reaction:
+<chemistry id="chem0002" num="0002"><img id="ib0002" file="imgb0002.tif" wi="165" he="39" img-content="chem" img-format="tif"/></chemistry>
+wherein X<sup>2</sup> is hydroxyl or hydrogen.</p>
+<p id="p0020" num="0020">In accordance with further embodiments of the present invention, 5-(hydroxmethyl)furfural is initially reacted with hydrogen in the presence of a catalyst comprising Pt under a first set of reaction conditions to convert at least a portion of the 5-(hydroxmethyl)furfural to 1,2,6-hexanetriol, and at least a portion of the 1,2,6-hexanetriol is subsequently converted to 1,6-hexanediol in the presence of a catalyst comprising Pt under a second set of reaction conditions in accordance with the following overall reaction:
+<chemistry id="chem0003" num="0003"><img id="ib0003" file="imgb0003.tif" wi="165" he="18" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0021" num="0021">In certain embodiments of the invention, the first reduction reaction to convert 5-(hydroxmethyl)furfural to a reaction product comprising 1,2,6-hexantriol and the second<!-- EPO <DP n="8"> --> reduction reaction to convert at least a portion of the 1,2,6-hexantriol to 1,6-hexanediol may be accomplished in a single reaction zone wherein the reaction conditions are modified after a defined period of time to effect the conversion of the triol to the diol.</p>
+<p id="p0022" num="0022">In various other embodiments of the present invention, the first reduction reaction and the second reduction reaction are undertaken in finite zones of a single reactor, e.g., a fixed bed trickle flow reactor, wherein in a first zone is housed a first reduction catalyst operating under reaction conditions to produce a reaction product comprising 1,2,6 hexanetriol and in a second reaction zone is housed a second reduction catalyst operating under reaction conditions to convert at least a portion of the triol to 1,6 hexanediol. In such embodiments, the catalysts may be the same or different and the first set of reaction conditions and the second set of reaction conditions may be the same or different. In some embodiments, the first set of reaction conditions comprises a temperature in the range of 60°C to 200°C and a pressure in the range of 1 MPa (200 psig) to 14 MPa (2000 psig). In some embodiments, the second set of reaction conditions comprises a temperature in the range of 80°C to 200°C and a pressure in the range of 3 MPa (500 psig) to 14 MPa (2000 psig).</p>
+<p id="p0023" num="0023">Catalysts suitable for the hydrogenation reactions (reduction catalysts) are particular supported heterogeneous catalysts comprising Pt. In all embodiments of the present invention the catalysts comprise platinum as Pt(0), alone or in combinations with other metals and/or alloys, which is present on at least an external surface of a support (i.e., a surface exposed to the reaction constituents). In accordance with certain embodiments of the present invention, the catalysts employed in the processes comprise Pt and at least one metal selected from the group of Mo, La, Sm, Y, W, and Re (M2). In various embodiments of the invention one or more other d-block metals, one or more rare earth metals (e.g. lanthanides), and/or one or more main group metals (e.g. Al) may also be present in combination with the Pt and M2 combinations. Typically, the total weight of metal(s) is from 0.1% to 10%, or from 0.2% to 10%, or from 0.2% to 8%, or from 0.2% to 5%, of the total weight of the catalyst. In more preferred embodiments the total weight of metal of the catalyst is less than 4%.<!-- EPO <DP n="9"> --></p>
+<p id="p0024" num="0024">The molar ratio of Pt (M1) to (M2) may vary, for example, from 20:1 to 1:10. In various preferred embodiments, the M1:M2 molar ratio is in the range of from 10:1 to 1:5. In still more preferred embodiments, the ratio of M1:M2 is in the range of 8:1 to 1:2.</p>
+<p id="p0025" num="0025">In accordance with the present invention, the preferred catalyst is a supported, heterogeneous catalyst wherein the catalysts are on the surface of the support. Suitable supports include, for example, acidic ion-exchange resin, gamma alumina, fluorinated alumina, sulfate or tungstate promoted zirconia, titania, silica, silica promoted alumina, aluminum phosphate, tungsten oxide supported on silica-alumina, acidic clay, supported mineral acid, and zeolites. The support materials may be modified using methods known in the art such as heat treatment, acid treatment or by the introduction of a dopant (for example, metal-doped titanias, metal-doped zirconias (e.g., tungstated-zirconia), metal-doped cerias, and metal-modified niobias). Preferred supports include zirconias, silicas, and zeolites. When a catalyst support is used, the metals may be deposited using procedures known in the art including, but not limited to incipient wetness, ion-exchange, deposition-precipitation, and vacuum impregnation. When two or more metals are deposited on the same support, they may be deposited sequentially or simultaneously. In various embodiments, following metal deposition, the catalyst is dried at a temperature in the range of 20°C to 120°C for a period of time ranging from at least 1 hour to 24 hours. In these and other embodiments, the catalyst is dried under sub-atmospheric pressure conditions. In various embodiments, the catalyst is reduced after drying (e.g., by flowing 5% H<sub>2</sub> in N<sub>2</sub> at a temperature of at least 200°C for a period of time <i>e.g.,</i> at least 3 hours). Still further, in these and other embodiments, the catalyst is calcined in air at a temperature of at least 200°C for a period of time of at least 3 hours.</p>
+<p id="p0026" num="0026">The hydrogenation reaction(s) can also be conducted in the presence of a solvent to the furfural substrate. Solvents suitable for use in conjunction with the hydrogenation reaction to convert furfural to reaction product comprising diol or triol may include, for example, water, alcohols, esters, ethers, ketones, or mixtures thereof. In various embodiments, the preferred solvent is water.</p>
+<p id="p0027" num="0027">In general, the hydrogenation reactions can be conducted in a batch, semi-batch, or continuous reactor design using fixed bed reactors, trickle bed reactors, slurry phase reactors, moving bed reactors, or any other design that allows for heterogeneous catalytic reactions. Examples of reactors can be seen in <nplcit id="ncit0002" npl-type="b"><text>Chemical Process Equipment--Selection and<!-- EPO <DP n="10"> --> Design, Couper et al., Elsevier 1990</text></nplcit>. It should be understood that the furfural substrate (e.g., 5-(hydroxymethyl)furfural), hydrogen, any solvent, and the catalyst may be introduced into a suitable reactor separately or in various combinations.</p>
+<p id="p0028" num="0028">The chemocatalytic conversion of a furfural substrate to 1,6-hexanediol, either as two separate chemocatalytic reduction steps or as a combined chemocatalytic reduction step, may yield a mixture of products. For example, when the furfural substrate is 5-(hydroxmethyl)furfural, the reaction product mixture may include not only 1,6-hexanediol and/or 1,2,6-hexanetriol, but also lesser amounts of 1,5-hexanediol; 1,2,5 hexanetriol; 1,2,5,6- hexanequatrol; 1-hexanol; and 2-hexanol. The production of 1,6-hexanediol from the furfural substrate (e.g., 5-(hydroxmethyl)furfural) is unexpectedly quite facile. In several embodiments, at least 50%, at least 60%, or at least 70% of the product mixture is 1,2,6-hexanetriol. In several embodiments, the production of HDO is at least 40%, at least 50% or at least 60%.</p>
+<p id="p0029" num="0029">The product mixture may be separated into one or more products by any suitable methods known in the art. In some embodiments, the product mixture can be separated by fractional distillation under subatmospheric pressures. For example, in some embodiments, 1,6-hexanediol can be separated from the product mixture at a temperature between 90°C and 110°C; 1,2,6-hexanetriol can be separated from the product mixture at a temperature between 150°C and 175°C; 1,2-hexanediol and hexanol can be separated from the product mixture at a temperature between 100°C and 125°C. In certain embodiments, 1,2,6-hexanetriol can be isolated from the product mixture, and recycled in a further reduction reaction to produce additional 1,6-hexanediol. The 1,6-hexanediol may be recovered from any remaining other products of the reaction mixture by one or more conventional methods known in the art including, for example, solvent extraction, crystallization or evaporative processes.</p>
+<p id="p0030" num="0030">In accordance with the present invention the production of HDO from the substrate of formula I can be conducted at reaction temperatures in the range of from 60°C to 200°C, more typically in the range of from 80°C to 200°C. In various preferred embodiments, the step of converting the furfural to 1,2,6-hexanetriol is conducted at reaction temperatures in the range of from 100°C to 140°C and the conversion of 1,2,6-hexanetriol to 1,6-hexanediol is conducted at reaction temperatures in the range of from 120°C to 180°C. In accordance with the present invention the production of HDO from the substrate of formula I<!-- EPO <DP n="11"> --> can be conducted at hydrogen pressures in the range of from 1 MPa (200 psig) to 14 MPa (2000 psig). In various preferred embodiments, the step of converting the furfural to 1,2,6-hexanetriol is conducted at hydrogen pressure in the range of from 1 MPa (200 psig) to 7 MPa (1000 psig) and the conversion of 1,2,6-hexanetriol to 1,6-hexanediol is conducted at hydrogen pressure in the range of from 1 MPa (200 psig) to 14 MPa (2000 psig).</p>
+<heading id="h0007">II. Preparation of Hexamethylenediamine from 1,6-Hexanediol</heading>
+<p id="p0031" num="0031">The preparation of hexamethylenediamine from 1,6-hexanediol may be carried out using procedures known in the art. See, for example, the processes disclosed in <patcit id="pcit0029" dnum="US2754330A"><text>U.S. Pat. Nos. 2,754,330</text></patcit>; <patcit id="pcit0030" dnum="US3215742A"><text>3,215,742</text></patcit>; <patcit id="pcit0031" dnum="US3268588A"><text>3,268,588</text></patcit>; and <patcit id="pcit0032" dnum="US3270059A"><text>3,270,059</text></patcit>.</p>
+<heading id="h0008">EXAMPLES</heading>
+<p id="p0032" num="0032">The following examples are provided to further illustrate the present invention.</p>
+<p id="p0033" num="0033">Reactions were conducted in 1 mL glass vials housed in a pressurized vessel in accordance with the procedures described in the examples below. Conversion, product yields and selectivity were determined using ion chromatography with electro-chemical detection.</p>
+<heading id="h0009"><b>Example 1: Conversion of Hydroxymethylfurfural to 1,6-Hexanediol</b></heading>
+<p id="p0034" num="0034">Samples of Silica Cariact Q-10 (Fuji Silysia) support were dried at 60°C. Suitably concentrated aqueous solutions of (NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub> were added to ∼ 10 mg of solids and agitated to impregnate the supports. The solids were calcined at 600°C in air for 3 hours. Subsequently, suitably concentrated aqueous solutions of Pt(NO<sub>3</sub>)<sub>2</sub> were added to ∼ 10 mg of solids and agitated to impregnate the supports. The samples were dried in an oven at 60°C overnight under a dry air purge. Then reduced at 350°C under forming gas (5% H<sub>2</sub> and 95% N<sub>2</sub>) atmosphere for 3 hours with 5 °C/min temperature ramp rate. The final catalysts were composed of ca. 3.9wt% Pt &amp; 1.3wt% Mo.</p>
+<p id="p0035" num="0035">These catalysts were tested for hydroxymethylfurfural reduction using the following catalyst testing protocol. Catalyst (ca. 8 mg) was weighed into a glass vial insert followed by addition of an aqueous hydroxymethylfurfural solution (200 µl of 0.1 M). The glass vial insert was loaded into a reactor and the reactor was closed. The atmosphere in the reactor was replaced with hydrogen and pressurized to 4.6 MPa (670 psig) at room<!-- EPO <DP n="12"> --> temperature. Reactor was heated to 160°C and maintained at the respective temperature for 300 minutes while vials were shaken. After 300 minutes, shaking was stopped and reactor was cooled to 40°C. Pressure in the reactor was then slowly released. The glass vial insert was removed from the reactor and centrifuged. The clear solution was diluted with methanol and analyzed by gas chromatography with flame ionization detection. The results are reported in Table 1:
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>Table 1:</title>
+<tgroup cols="8">
+<colspec colnum="1" colname="col1" colwidth="14mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<colspec colnum="3" colname="col3" colwidth="18mm"/>
+<colspec colnum="4" colname="col4" colwidth="23mm"/>
+<colspec colnum="5" colname="col5" colwidth="14mm"/>
+<colspec colnum="6" colname="col6" colwidth="17mm"/>
+<colspec colnum="7" colname="col7" colwidth="33mm"/>
+<colspec colnum="8" colname="col8" colwidth="34mm"/>
+<thead>
+<row>
+<entry valign="middle"><b>Entry</b></entry>
+<entry valign="middle"><b>Metals</b></entry>
+<entry valign="middle"><b>Support</b></entry>
+<entry valign="middle"><b>HMF Conversion (%)</b></entry>
+<entry valign="middle"><b>1.2,6-HT Yield (%)</b></entry>
+<entry valign="middle"><b>BHMTH F Yield (%)</b></entry>
+<entry valign="middle"><b>1.6-Hexanediol Yield (%), (Selectivity %)</b></entry>
+<entry valign="middle"><b>1.2,6-Hexanetriol Yield (%), (Selectivity %)</b></entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">1</entry>
+<entry valign="middle">Pt - Mo</entry>
+<entry valign="middle">Silica Cariact</entry>
+<entry valign="middle">87</entry>
+<entry valign="middle">12</entry>
+<entry valign="middle">1</entry>
+<entry valign="middle">14 (16)</entry>
+<entry valign="middle">48 (50)</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0010"><b>Example 2: Conversion of Hydroxymethylfurfural to 1,2,6-Hexanetriol</b></heading>
+<p id="p0036" num="0036">Samples of Alumina support were dried at 120°C. Suitably concentrated aqueous solutions of Pt(NO<sub>3</sub>)<sub>2</sub> were added to ∼ 8 mg of solids and agitated to impregnate the supports. The solids were dried at 120°C in air for 16 hours. Subsequently, suitably concentrated aqueous solutions of (NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub> or La(NO<sub>3</sub>)<sub>3</sub> or Sm(NO<sub>3</sub>)<sub>2</sub> were added to ∼ 8 mg of solids and agitated to impregnate the supports. The samples were dried in an oven at 120°C overnight under air. Then calcined at 500°C under air for 3 hours with 30°C/min temperature ramp rate. The final catalysts were composed of ca. 4wt% Pt and various M2 loadings (see Table 2).</p>
+<p id="p0037" num="0037">These catalysts were tested for hydroxymethylfurfural reduction using the following catalyst testing protocol. Catalyst (ca. 8 mg) was weighed into a glass vial insert followed by addition of an aqueous hydroxymethylfurfural solution (250 µl of 0.4 M). The glass vial insert was loaded into a reactor and the reactor was closed. The atmosphere in the reactor was replaced with hydrogen and pressurized to 1 MPa (200 psig) at room temperature. Reactor was heated to 120°C and maintained at the respective temperature for 300 minutes while vials were shaken. After 300 minutes, shaking was stopped and reactor was cooled to 40°C. Pressure in the reactor was then slowly released. The glass vial insert was removed from the reactor and centrifuged. The clear solution was diluted with methanol and analyzed by gas chromatography with flame ionization detection. The results are reported in Table 2.<!-- EPO <DP n="13"> -->
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>Table 2:</title>
+<tgroup cols="7">
+<colspec colnum="1" colname="col1" colwidth="14mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<colspec colnum="3" colname="col3" colwidth="21mm"/>
+<colspec colnum="4" colname="col4" colwidth="30mm"/>
+<colspec colnum="5" colname="col5" colwidth="20mm"/>
+<colspec colnum="6" colname="col6" colwidth="25mm"/>
+<colspec colnum="7" colname="col7" colwidth="42mm"/>
+<thead>
+<row>
+<entry valign="middle"><b>Entry</b></entry>
+<entry valign="middle"><b>Metals</b></entry>
+<entry valign="middle"><b>M2 : Pt mol : mol</b></entry>
+<entry valign="middle"><b>Support</b></entry>
+<entry valign="middle"><b>Support Supplier</b></entry>
+<entry valign="middle"><b>HMF Conversion (%)</b></entry>
+<entry valign="middle"><b>1.2,6-HT Yield (%), (Selectivity %)</b></entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">1</entry>
+<entry valign="middle">Pt - Mo</entry>
+<entry valign="middle">0.5</entry>
+<entry valign="middle">Catalox Alumina SBa-200</entry>
+<entry valign="middle">Sasol</entry>
+<entry valign="middle">100</entry>
+<entry valign="middle">48 (50)</entry></row>
+<row>
+<entry valign="middle">2</entry>
+<entry valign="middle">Pt - Mo</entry>
+<entry valign="middle">0.25</entry>
+<entry valign="middle">Alumina AL 2100 Davicat</entry>
+<entry valign="middle">Grace Davison</entry>
+<entry valign="middle">100</entry>
+<entry valign="middle">50 (51)</entry></row>
+<row>
+<entry valign="middle">3</entry>
+<entry valign="middle">Pt - La</entry>
+<entry valign="middle">1</entry>
+<entry valign="middle">Catalox Alumina SBa-90</entry>
+<entry valign="middle">Sasol</entry>
+<entry valign="middle">100</entry>
+<entry valign="middle">51 (50)</entry></row>
+<row>
+<entry valign="middle">4</entry>
+<entry valign="middle">Pt - Sm</entry>
+<entry valign="middle">1</entry>
+<entry valign="middle">Catalox Alumina SBa-90</entry>
+<entry valign="middle">Sasol</entry>
+<entry valign="middle">100</entry>
+<entry valign="middle">51 (50)</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0011"><b>Example 3: Conversion of 1,2,6-Hexanetriol to 1,6-Hexanediol</b></heading>
+<p id="p0038" num="0038">Samples of Zirconia SZ 61143 (Saint-Gobain Norpro) support were calcined at 750 - 800°C in air for 0.5 - 2 hours. Suitably concentrated aqueous solutions of Pt(NO<sub>3</sub>)<sub>2</sub> were added to ∼ 10 mg of solids and agitated to impregnate the supports. The samples were dried in an oven at 60°C overnight under a dry air purge. Then reduced at 350°C under forming gas (5% H<sub>2</sub> and 95% N<sub>2</sub>) atmosphere for 3 hours with 5 °C/min temperature ramp rate. The final catalysts were composed of ca. 3.9wt% Pt.</p>
+<p id="p0039" num="0039">These catalysts were tested for 1,2,6-hexanetriol reduction using the following catalyst testing protocol. Catalyst (ca. 10 mg) was weighed into a glass vial insert followed by addition of an aqueous 1,2,6-hexanetriol solution (200 µl of 0.2 M). The glass vial insert was loaded into a reactor and the reactor was closed. The atmosphere in the reactor was replaced with hydrogen and pressurized to 4.6 MPa (670 psig) at room temperature. Reactor was heated to 160°C and maintained at the respective temperature for 150 minutes while vials were shaken. After 150 minutes, shaking was stopped and reactor was cooled to 40°C. Pressure in the reactor was then slowly released. The glass vial insert was removed from the reactor and centrifuged. The clear solution was diluted with methanol and analyzed by gas chromatography with flame ionization detection. The results are reported in Table 3.<!-- EPO <DP n="14"> -->
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>Table 3:</title>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" colwidth="14mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<colspec colnum="3" colname="col3" colwidth="20mm"/>
+<colspec colnum="4" colname="col4" colwidth="23mm"/>
+<colspec colnum="5" colname="col5" colwidth="43mm"/>
+<colspec colnum="6" colname="col6" colwidth="53mm"/>
+<thead>
+<row>
+<entry valign="middle"><b>Entry</b></entry>
+<entry valign="middle"><b>Metals</b></entry>
+<entry valign="middle"><b>Support</b></entry>
+<entry valign="middle"><b>Support Treatment</b></entry>
+<entry valign="middle"><b>1,2,6-Hexanetriol Conversion (%)</b></entry>
+<entry valign="middle"><b>1.6-Hexanediol Yield (%), (Selectivity %)</b></entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">1</entry>
+<entry valign="middle">Pt</entry>
+<entry valign="middle">Zirconia SZ 61143</entry>
+<entry valign="middle">750°C / 2 hr</entry>
+<entry valign="middle">91</entry>
+<entry valign="middle">61 (68)</entry></row>
+<row>
+<entry valign="middle">2</entry>
+<entry valign="middle">Pt</entry>
+<entry valign="middle">Zirconia SZ 61143</entry>
+<entry valign="middle">800°C / 0.5 hr</entry>
+<entry valign="middle">95</entry>
+<entry valign="middle">59 (63)</entry></row>
+<row>
+<entry valign="middle">3</entry>
+<entry valign="middle">Pt</entry>
+<entry valign="middle">Zirconia SZ 61143</entry>
+<entry valign="middle">750°C / 1 hr</entry>
+<entry valign="middle">95</entry>
+<entry valign="middle">58 (62)</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0012"><b>Example 4: Conversion of 1,2,6-Hexanetriol to 1,6-Hexanediol</b></heading>
+<p id="p0040" num="0040">Samples of Silica Cariact Q-10 (Fuji Silysia) support were dried at 60°C. Suitably concentrated aqueous solutions of (NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub> or (NH<sub>4</sub>)<sub>10</sub>W<sub>12</sub>O<sub>41</sub> were added to ∼ 10 mg of solids and agitated to impregnate the supports. The solids were calcined at 600°C in air for 3 hours. Subsequently, suitably concentrated aqueous solutions of Pt(NO<sub>3</sub>)<sub>2</sub> were added to ∼ 10 mg of solids and agitated to impregnate the supports. The samples were dried in an oven at 60°C overnight under a dry air purge. Then reduced at 350°C under forming gas (5% H<sub>2</sub> and 95% N<sub>2</sub>) atmosphere for 3 hours with 5°C/min temperature ramp rate. The final catalysts were composed of ca. 3.9wt% Pt &amp; 0.8wt% Mo or 3.9wt% Pt &amp; 1.3wt% W.</p>
+<p id="p0041" num="0041">These catalysts were tested for 1,2,6-hexanetriol reduction using the following catalyst testing protocol. Catalyst (ca. 10 mg) was weighed into a glass vial insert followed by addition of an aqueous 1,2,6-hexanetriol solution (200 µl of 0.2 M). The glass vial insert was loaded into a reactor and the reactor was closed. The atmosphere in the reactor was replaced with hydrogen and pressurized to 4.6 MPa (670 psig) at room temperature. Reactor was heated to 160°C and maintained at the respective temperature for 150 minutes while vials were shaken. After 150 minutes, shaking was stopped and reactor was cooled to 40°C. Pressure in the reactor was then slowly released. The glass vial insert was removed from the reactor and centrifuged. The clear solution was diluted with methanol and analyzed by gas chromatography with flame ionization detection. The results are reported in Table 4.<!-- EPO <DP n="15"> -->
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title>Table 4:</title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="14mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<colspec colnum="3" colname="col3" colwidth="27mm"/>
+<colspec colnum="4" colname="col4" colwidth="51mm"/>
+<colspec colnum="5" colname="col5" colwidth="60mm"/>
+<thead>
+<row>
+<entry valign="middle"><b>Entry</b></entry>
+<entry valign="middle"><b>Metals</b></entry>
+<entry valign="middle"><b>Support</b></entry>
+<entry valign="middle"><b>1,2,6-Hexanetriol Conversion (%)</b></entry>
+<entry valign="middle"><b>1.6-Hexanediol Yield (%), (Selectivity %)</b></entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">1</entry>
+<entry valign="middle">Pt - Mo</entry>
+<entry valign="middle">Silica Cariact Q-10</entry>
+<entry valign="middle">78</entry>
+<entry valign="middle">55 (69)</entry></row>
+<row>
+<entry valign="middle">2</entry>
+<entry valign="middle">Pt - W</entry>
+<entry valign="middle">Silica Cariact Q-10</entry>
+<entry valign="middle">36</entry>
+<entry valign="middle">33 (92)</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0013"><b>Example 5: Conversion of 1,2,6-Hexanetriol to 1,6,-Hexanediol</b></heading>
+<p id="p0042" num="0042">Suitably concentrated aqueous solutions of Pt(NO<sub>3</sub>)<sub>2</sub> and (NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub> were each added to 10 mg of solids and agitated to impregnate the supports. The sample was dried in an oven at 60°C overnight under a dry air purge. The dried sample was then reduced at 500°C or 350°C under forming gas (5% H<sub>2</sub> and 95% N<sub>2</sub>) atmosphere for 3 hours with 5°C/min temperature ramp rate. The final catalyst was composed of 3.9wt% Pt and 0.2wt% Mo.</p>
+<p id="p0043" num="0043">The catalyst was tested for 1,2,6-hexanetriol reduction using the following catalyst testing protocol. Catalyst (ca. 10 mg) was weighed into a glass vial insert followed by addition of an aqueous 1,2,6-hexanetriol solution (200 µl of 0.2 M). The glass vial insert was loaded into a reactor and the reactor was closed. The atmosphere in the reactor was replaced with hydrogen and pressurized to 5.7 or 4.6 MPa (830 or 670 psig) at room temperature. The reactor was heated to 160°C. The temperature was maintained for 5 hours while the vial was shaken. After 5 hours, shaking was stopped and the reactor was cooled to 40°C. Pressure in the reactor was then slowly released. The glass vial insert was removed from the reactor and centrifuged. The clear solution was diluted with deionized water, and analyzed by ion chromatography with electro-chemical detection. The results are summarized in Table 5 below.
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<title>Table 5:</title>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" colwidth="12mm"/>
+<colspec colnum="2" colname="col2" colwidth="14mm"/>
+<colspec colnum="3" colname="col3" colwidth="29mm"/>
+<colspec colnum="4" colname="col4" colwidth="19mm"/>
+<colspec colnum="5" colname="col5" colwidth="53mm"/>
+<colspec colnum="6" colname="col6" colwidth="41mm"/>
+<thead>
+<row>
+<entry valign="middle"><b>Entry</b></entry>
+<entry valign="middle"><b>Metals</b></entry>
+<entry valign="middle"><b>Support</b></entry>
+<entry valign="middle"><b>Supplier</b></entry>
+<entry valign="middle"><b>1,2,6-Hexanetriol Conversion (%)</b></entry>
+<entry valign="top"><b>1.6-Hexanediol Yield (%),</b></entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">1</entry>
+<entry valign="middle">Pt-Mo</entry>
+<entry valign="middle">Silica Cariact G-10</entry>
+<entry valign="middle">Fuji Silysia</entry>
+<entry valign="middle">54</entry>
+<entry valign="middle">42</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0014"><b>Example 6: Conversion of 1,2,6-Hexanetriol to 1,6-Hexanediol</b></heading>
+<p id="p0044" num="0044">Samples of Zeolite (Zeolyst) supports were dried at 60°C. Suitably concentrated aqueous solutions of (NH<sub>4</sub>)<sub>10</sub>W<sub>12</sub>O<sub>41</sub> were added to ∼ 10 mg of solids and agitated to<!-- EPO <DP n="16"> --> impregnate the supports. The solids were calcined at 500°C in air for 3 hours. Subsequently, suitably concentrated aqueous solutions of Pt(NO<sub>3</sub>)<sub>2</sub> were added to ∼ 10 mg of solids and agitated to impregnate the supports. The samples were dried in an oven at 60°C overnight under a dry air purge. Then reduced at 350°C under forming gas (5% H<sub>2</sub> and 95% N<sub>2</sub>) atmosphere for 3 hours with 5 °C/min temperature ramp rate.</p>
+<p id="p0045" num="0045">These catalysts were tested for 1,2,6-hexanetriol reduction using the following catalyst testing protocol. Catalyst (ca. 10 mg) was weighed into a glass vial insert followed by addition of an aqueous 1,2,6-hexanetriol solution (200 µl of 0.2 M). The glass vial insert was loaded into a reactor and the reactor was closed. The atmosphere in the reactor was replaced with hydrogen and pressurized to 4.6 MPa (670 psig) at room temperature. Reactor was heated to 160°C and maintained at the respective temperature for 150 minutes while vials were shaken. After 150 minutes, shaking was stopped and reactor was cooled to 40°C. Pressure in the reactor was then slowly released. The glass vial insert was removed from the reactor and centrifuged. The clear solution was diluted with methanol and analyzed by gas chromatography with flame ionization detection. The results are summarized in Table 6 below.
+<tables id="tabl0006" num="0006">
+<table frame="all">
+<title>Table 6:</title>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" colwidth="14mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<colspec colnum="3" colname="col3" colwidth="22mm"/>
+<colspec colnum="4" colname="col4" colwidth="34mm"/>
+<colspec colnum="5" colname="col5" colwidth="42mm"/>
+<colspec colnum="6" colname="col6" colwidth="41mm"/>
+<thead>
+<row>
+<entry valign="middle"><b>Entry</b></entry>
+<entry valign="middle"><b>Metals</b></entry>
+<entry valign="middle"><b>M2 : Pt mol: mol</b></entry>
+<entry valign="middle"><b>Support</b></entry>
+<entry valign="top"><b>1,2,6-Hexanetriol Conversion (%)</b></entry>
+<entry valign="top"><b>1.6-Hexanediol Yield (%), (Selectivity %)</b></entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">1</entry>
+<entry valign="middle">Pt-W</entry>
+<entry valign="middle">0.33</entry>
+<entry valign="middle">Zeolite CBV 720 (Y)</entry>
+<entry valign="middle">89</entry>
+<entry valign="middle">49 (60)</entry></row>
+<row>
+<entry valign="middle">2</entry>
+<entry valign="middle">Pt-W</entry>
+<entry valign="middle">0.33</entry>
+<entry valign="middle">Zeolite CP811C-300 (Beta)</entry>
+<entry valign="middle">100</entry>
+<entry valign="middle">65 (65)</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="17"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A process for preparing 1,6-hexanediol comprising reacting 1,2,6-hexanetriol with hydrogen in the presence of a heterogeneous reduction catalyst comprising Pt.</claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>The process of claim 1, wherein the heterogeneous reduction catalyst further comprises at least one metal selected from the group consisting of Mo, La, Sm, Y, W, and Re.</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>The process of claim 2, wherein the molar ratio of Pt to the at least one metal selected from the group consisting of Mo, La, Sm, Y, W, and Re is from 20:1 to 1:10.</claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>The process of any one of claims 1 to 3, wherein the heterogeneous reduction catalyst is a supported heterogeneous reduction catalyst.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>The process of claim 4, wherein the supported heterogeneous reduction catalyst comprises a support selected from the group consisting of acidic ion-exchange resin, gamma alumina, fluorinated alumina, sulfate or tungsten promoted zirconia, titania, silica, silica promoted alumina, aluminum phosphate, tungsten oxide supported on silica-alumina, acidic clay, supported mineral acid and zeolites.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>The process of claim 4, wherein the supported heterogeneous reduction catalyst comprises a support selected from the group consisting of metal-doped titania, metal-doped zirconia, metal-doped ceria and metal-modified niobia.</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>The process of claim 4, wherein the supported heterogeneous reduction catalyst comprises a zirconia, silica or zeolite support.</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>The process of any one of claims 1 to 7, wherein 1,2,6-hexanetriol is reacted with hydrogen in the presence of the heterogeneous reduction catalyst at a temperature in the range of 80°C to 200°C and at a pressure in the range of 1 MPa (200 psig) to 14 MPa (2000 psig).<!-- EPO <DP n="18"> --></claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>The process of claim 8, wherein 1,2,6-hexanetriol is reacted with hydrogen in the presence of the heterogeneous reduction catalyst at a temperature in the range of 120°C to 180°C.</claim-text></claim>
+<claim id="c-en-01-0010" num="0010">
+<claim-text>The process of any one of claims 1 to 9, wherein the yield of 1,6-hexanediol is at least 40%.</claim-text></claim>
+<claim id="c-en-01-0011" num="0011">
+<claim-text>The process of any one of claims 1 to 10, wherein the process further comprises obtaining 1,2,6-hexanetriol by a process comprising reduction of 5-(hydroxymethyl)furfural, wherein the 5-(hydroxymethyl)furfural is reacted with hydrogen in the presence of a heterogeneous reduction catalyst comprising Pt under a first set of reaction conditions, and wherein the heterogeneous reduction catalyst used to reduce the 5-(hydroxymethyl)furfural is the same or a different heterogeneous reduction catalyst than is used when reacting 1,2,6-hexanetriol with hydrogen under a second set of reaction conditions.</claim-text></claim>
+<claim id="c-en-01-0012" num="0012">
+<claim-text>The process of claim 11, wherein the first set of reaction conditions comprises reacting 5-(hydroxymethyl)furfural with hydrogen in the presence of the heterogeneous reduction catalyst at a temperature in the range of 60°C to 200°C and at a pressure in the range of 1 MPa (200 psig) to 14 MPa (2000 psig).</claim-text></claim>
+<claim id="c-en-01-0013" num="0013">
+<claim-text>A process of any of claims 1 to 12 further comprising preparing hexamethylenediamine by aminating the 1,6-hexanediol to hexamethylenediamine.</claim-text></claim>
+</claims>
+<claims id="claims02" lang="de"><!-- EPO <DP n="19"> -->
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Verfahren zur Herstellung von 1,6-Hexandiol umfassend das Umsetzen von 1,2,6-Hexantriol mit Wasserstoff in Gegenwart eines heterogenen Reduktionskatalysators umfassend Pt.</claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Verfahren nach Anspruch 1, wobei der heterogene Reduktionskatalysator ferner zumindest ein Metall umfasst, das aus der Gruppe bestehend aus Mo, La, Sm, Y, W und Re ausgewählt ist.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Verfahren nach Anspruch 2, wobei das Molverhältnis von Pt zu dem mindestens einen Metall, das aus der Gruppe bestehend aus Mo, La, Sm, Y, W und Re ausgewählt ist, von 20:1 bis 1:10 beträgt.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Verfahren nach einem der Ansprüche 1 bis 3, wobei der heterogene Reduktionskatalysator ein unterstützter heterogener Reduktionskatalysator ist.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Verfahren nach Anspruch 4, wobei der unterstützte heterogene Reduktionskatalysator einen Träger ausgewählt aus der Gruppe bestehend aus saurem lonenaustauscherharz, Gamma-Aluminiumoxid, fluoriertem Aluminiumoxid, mit Sulfaten oder Wolfram gefördertem Zirkonoxid, Titandioxid, Silizium, mit Silizium gefördertem Aluminiumoxid, Aluminiumphosphat, Wolframoxid getragen auf Silizium-Aluminiumoxid, saurem Ton, unterstützter Mineralsäure und Zeolithen umfasst.</claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Verfahren nach Anspruch 4, wobei der unterstützte heterogene Reduktionskatalysator einen Träger aus der Gruppe bestehend aus Metall-dotiertem Titandioxid, Metall-dotiertem Zirkonoxid, Metall-dotiertem Cerdioxid und Metallmodifiziertem Niobiumoxid umfasst.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Verfahren nach Anspruch 4, wobei der unterstützte heterogene Reduktionskatalysator einen Zirkonoxid-, Silizium- oder Zeolithenträger umfasst.<!-- EPO <DP n="20"> --></claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Verfahren nach einem der Ansprüche 1 bis 7, wobei 1,2,6-Hexantriol mit Wasserstoff in Gegenwart des heterogenen Reduktionskatalysators bei einer Temperatur im Bereich von 80 °C bis 200 °C und bei einem Druck im Bereich von 1 MPa (200 psig) bis 14 MPa (2000 psig) umgesetzt wird.</claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Verfahren nach Anspruch 8, wobei 1,2,6-Hexantriol mit Wasserstoff in Gegenwart des heterogenen Reduktionskatalysators bei einer Temperatur im Bereich von 120 °C bis 180 °C umgesetzt wird.</claim-text></claim>
+<claim id="c-de-01-0010" num="0010">
+<claim-text>Verfahren nach einem der Ansprüche 1 bis 9, wobei die Ausbeute von 1,6-Hexandiol mindestens 40 % beträgt.</claim-text></claim>
+<claim id="c-de-01-0011" num="0011">
+<claim-text>Verfahren nach einem der Ansprüche 1 bis 10, wobei das Verfahren ferner das Erhalten von 1,2,6-Hexantriol durch ein Verfahren umfassend Reduktion von 5-(Hydroxymethyl)furfural umfasst, wobei das 5-(Hydroxymethyl)furfural mit Wasserstoff in Gegenwart eines heterogenen Reduktionskatalysators umfassend Pt zu einem ersten Satz von Reaktionsbedingungen umgesetzt wird, und wobei der für die Reduktion des 5-(Hydroxymethyl)furfurals eingesetzte heterogene Reduktionskatalysator der gleiche oder ein anderer heterogene Reduktionskatalysator als der beim Umsetzen von 1,2,6-Hexantriol mit Wasserstoff zu einem zweiten Satz von Reaktionsbedingungen verwendete heterogene Reduktionskatalysator ist.</claim-text></claim>
+<claim id="c-de-01-0012" num="0012">
+<claim-text>Verfahren nach Anspruch 11, wobei der erste Satz von Reaktionsbedingungen das Umsetzen von 5-(Hydroxymethyl)furfural mit Wasserstoff in Gegenwart des heterogenen Reduktionskatalysators bei einer Temperatur im Bereich von 60 °C bis 200 °C und bei einem Druck im Bereich von1 MPa (200 psig) bis 14 MPa (2000 psig) umfasst.</claim-text></claim>
+<claim id="c-de-01-0013" num="0013">
+<claim-text>Verfahren nach einem der Ansprüche 1 bis 12, ferner umfassend das Herstellen von Hexamethylendiamin durch Aminieren des 1,6-Hexandiols zu Hexamethylendiamin.</claim-text></claim>
+</claims>
+<claims id="claims03" lang="fr"><!-- EPO <DP n="21"> -->
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Procédé de préparation du 1,6-hexanediol comprenant la réaction du 1,2,6-hexanetriol avec de l'hydrogène en présence d'un catalyseur de réduction hétérogène comprenant du Pt.</claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Procédé selon la revendication 1, dans lequel le catalyseur de réduction hétérogène comprend en outre au moins un métal choisi dans le groupe constitué par Mo, La, Sm, Y, W et Re.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Procédé selon la revendication 2, dans lequel le rapport molaire de Pt à l'au moins un métal choisi dans le groupe constitué par Mo, La, Sm, Y, W et Re est de 20:1 à 1:10.</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Procédé selon l'une quelconque des revendications 1 à 3, dans lequel le catalyseur de réduction hétérogène est un catalyseur de réduction hétérogène supporté.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Procédé selon la revendication 4, dans lequel le catalyseur de réduction hétérogène supporté comprend un support choisi dans le groupe constitué d'une résine échangeuse d'ion acide, de l'alumine gamma, de l'alumine fluorée, de la zircone favorisée par le sulfate ou le tungstène, du titane, de la silice, de l'alumine favorisée par la silice, du phosphate d'aluminium, de l'oxyde de tungstène supporté sur silice-alumine, de l'argile acide, de l'acide minéral supporté et des zéolites.</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Procédé selon la revendication 4, dans lequel le catalyseur de réduction hétérogène supporté comprend un support choisi dans le groupe constitué du titane dopé par un métal, de la zircone dopée par un métal, de l'oxyde de cérium dopé au métal et du niobium modifié par un métal.</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Procédé selon la revendication 4, dans lequel le catalyseur de réduction hétérogène comprend en outre un support de zircone, de silice ou de zéolite.<!-- EPO <DP n="22"> --></claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Procédé selon l'une quelconque des revendications 1 à 7, dans lequel le 1,2,6-hexanetriol est mis à réagir avec de l'hydrogène en présence du catalyseur de réduction hétérogène à une température comprise entre 80°C et 200°C et à une pression dans la plage de 1 MPa (200 psig) à 14 MPa (2000 psig).</claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Procédé selon la revendication 8, dans lequel le 1,2,6-hexanetriol est mis à réagir avec de l'hydrogène en présence du catalyseur de réduction hétérogène à une température comprise dans la plage de 120°C à 180°C.</claim-text></claim>
+<claim id="c-fr-01-0010" num="0010">
+<claim-text>Procédé selon l'une quelconque des revendications 1 à 9, dans lequel le rendement en 1,6-hexanediol est au moins 40%.</claim-text></claim>
+<claim id="c-fr-01-0011" num="0011">
+<claim-text>Procédé selon l'une quelconque des revendications 1 à 10, dans lequel le procédé comprend en outre l'obtention du 1,2,6-hexanetriol par un procédé comprenant la réduction du 5-(hydroxyméthyl) furfural, le 5-(hydroxyméthyl) furfural étant mis à réagir avec de l'hydrogène en présence d'un catalyseur de réduction hétérogène comprenant du Pt dans un premier ensemble de conditions de réaction, et le catalyseur de réduction hétérogène utilisé pour réduire le 5-(hydroxyméthyl) furfural étant le même ou un catalyseur de réduction hétérogène différent de celui utilisé lors de la réaction du 1,2,6-hexanetriol avec de l'hydrogène dans un deuxième ensemble de conditions de réaction.</claim-text></claim>
+<claim id="c-fr-01-0012" num="0012">
+<claim-text>Procédé selon la revendication 11, dans lequel le premier ensemble de conditions de réaction comprend la réaction du 5-(hydroxyméthyl) furfural avec de l'hydrogène en présence du catalyseur de réduction hétérogène à une température dans la plage de 60°C à 200°C et à une pression dans la plage de_1 MPa (200 psig) à 14 MPa (2000 psig).</claim-text></claim>
+<claim id="c-fr-01-0013" num="0013">
+<claim-text>Procédé selon l'une quelconque des revendications 1 à 12, comprenant en outre la préparation d'hexaméthylènediamine par l'amination du 1,6-hexanediol en hexaméthylènediamine.</claim-text></claim>
+</claims>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="US6331651B"><document-id><country>US</country><doc-number>6331651</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0001">[0004]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="US4064172A"><document-id><country>US</country><doc-number>4064172</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0002">[0004]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="US5151543A"><document-id><country>US</country><doc-number>5151543</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0003">[0004]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="WO9316034A"><document-id><country>WO</country><doc-number>9316034</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0004">[0004]</crossref></li>
+<li><patcit id="ref-pcit0005" dnum="WO9618603A"><document-id><country>WO</country><doc-number>9618603</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0005">[0004]</crossref></li>
+<li><patcit id="ref-pcit0006" dnum="US20030144552A"><document-id><country>US</country><doc-number>20030144552</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0006">[0004]</crossref></li>
+<li><patcit id="ref-pcit0007" dnum="US20100317069A"><document-id><country>US</country><doc-number>20100317069</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0007">[0007]</crossref></li>
+<li><patcit id="ref-pcit0008" dnum="US5969194A"><document-id><country>US</country><doc-number>5969194</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0008">[0009]</crossref></li>
+<li><patcit id="ref-pcit0009" dnum="WO2011149339A"><document-id><country>WO</country><doc-number>2011149339</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0009">[0009]</crossref></li>
+<li><patcit id="ref-pcit0010" dnum="US6518440B"><document-id><country>US</country><doc-number>6518440</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0010">[0014]</crossref></li>
+<li><patcit id="ref-pcit0011" dnum="US4533743A"><document-id><country>US</country><doc-number>4533743</doc-number><kind>A</kind><name>Medeiros </name></document-id></patcit><crossref idref="pcit0011">[0014]</crossref></li>
+<li><patcit id="ref-pcit0012" dnum="US4912237A"><document-id><country>US</country><doc-number>4912237</doc-number><kind>A</kind><name>Zeitsch</name></document-id></patcit><crossref idref="pcit0012">[0014]</crossref></li>
+<li><patcit id="ref-pcit0013" dnum="US4971657A"><document-id><country>US</country><doc-number>4971657</doc-number><kind>A</kind><name>Avignon </name></document-id></patcit><crossref idref="pcit0013">[0014]</crossref></li>
+<li><patcit id="ref-pcit0014" dnum="US6743928B"><document-id><country>US</country><doc-number>6743928</doc-number><kind>B</kind><name>Zeitsch</name></document-id></patcit><crossref idref="pcit0014">[0014]</crossref></li>
+<li><patcit id="ref-pcit0015" dnum="US2750394A"><document-id><country>US</country><doc-number>2750394</doc-number><kind>A</kind><name>Peniston</name></document-id></patcit><crossref idref="pcit0015">[0014]</crossref></li>
+<li><patcit id="ref-pcit0016" dnum="US2917520A"><document-id><country>US</country><doc-number>2917520</doc-number><kind>A</kind><name>Cope</name></document-id></patcit><crossref idref="pcit0016">[0014]</crossref></li>
+<li><patcit id="ref-pcit0017" dnum="US2929823A"><document-id><country>US</country><doc-number>2929823</doc-number><kind>A</kind><name>Garber</name></document-id></patcit><crossref idref="pcit0017">[0014]</crossref></li>
+<li><patcit id="ref-pcit0018" dnum="US3118912A"><document-id><country>US</country><doc-number>3118912</doc-number><kind>A</kind><name>Smith</name></document-id></patcit><crossref idref="pcit0018">[0014]</crossref></li>
+<li><patcit id="ref-pcit0019" dnum="US4339387A"><document-id><country>US</country><doc-number>4339387</doc-number><kind>A</kind><name>Fleche </name></document-id></patcit><crossref idref="pcit0019">[0014]</crossref></li>
+<li><patcit id="ref-pcit0020" dnum="US4590283A"><document-id><country>US</country><doc-number>4590283</doc-number><kind>A</kind><name>Gaset </name></document-id></patcit><crossref idref="pcit0020">[0014]</crossref></li>
+<li><patcit id="ref-pcit0021" dnum="US4740605A"><document-id><country>US</country><doc-number>4740605</doc-number><kind>A</kind><name>Rapp</name></document-id></patcit><crossref idref="pcit0021">[0014]</crossref></li>
+<li><patcit id="ref-pcit0022" dnum="GB591858A"><document-id><country>GB</country><doc-number>591858</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0022">[0014]</crossref></li>
+<li><patcit id="ref-pcit0023" dnum="GB600871A"><document-id><country>GB</country><doc-number>600871</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0023">[0014]</crossref></li>
+<li><patcit id="ref-pcit0024" dnum="GB876463A"><document-id><country>GB</country><doc-number>876463</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0024">[0014]</crossref></li>
+<li><patcit id="ref-pcit0025" dnum="FR2663933"><document-id><country>FR</country><doc-number>2663933</doc-number></document-id></patcit><crossref idref="pcit0025">[0014]</crossref></li>
+<li><patcit id="ref-pcit0026" dnum="FR2664273"><document-id><country>FR</country><doc-number>2664273</doc-number></document-id></patcit><crossref idref="pcit0026">[0014]</crossref></li>
+<li><patcit id="ref-pcit0027" dnum="FR2669635"><document-id><country>FR</country><doc-number>2669635</doc-number></document-id></patcit><crossref idref="pcit0027">[0014]</crossref></li>
+<li><patcit id="ref-pcit0028" dnum="CA2097812"><document-id><country>CA</country><doc-number>2097812</doc-number></document-id></patcit><crossref idref="pcit0028">[0014]</crossref></li>
+<li><patcit id="ref-pcit0029" dnum="US2754330A"><document-id><country>US</country><doc-number>2754330</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0029">[0031]</crossref></li>
+<li><patcit id="ref-pcit0030" dnum="US3215742A"><document-id><country>US</country><doc-number>3215742</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0030">[0031]</crossref></li>
+<li><patcit id="ref-pcit0031" dnum="US3268588A"><document-id><country>US</country><doc-number>3268588</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0031">[0031]</crossref></li>
+<li><patcit id="ref-pcit0032" dnum="US3270059A"><document-id><country>US</country><doc-number>3270059</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0032">[0031]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="b"><article><atl/><book><author><name>KLASS</name></author><book-title>Biomass for Renewable Energy, Fuels, and Chemicals</book-title><imprint><name>Academic Press</name><pubdate>19980000</pubdate></imprint></book></article></nplcit><crossref idref="ncit0001">[0006]</crossref></li>
+<li><nplcit id="ref-ncit0002" npl-type="b"><article><atl/><book><author><name>COUPER et al.</name></author><book-title>Chemical Process Equipment--Selection and Design</book-title><imprint><name>Elsevier</name><pubdate>19900000</pubdate></imprint></book></article></nplcit><crossref idref="ncit0002">[0027]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

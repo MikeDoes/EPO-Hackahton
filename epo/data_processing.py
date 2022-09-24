@@ -1,18 +1,33 @@
 import zipfile
 import os
+from PIL import Image
 
 def unzip(zip_file_dir, extract_file_dir):
-    """Unzips files from the folder"""
+    """Unzips files from the folder into a folder (does not create new folder)"""
     with zipfile.ZipFile(zip_file_dir, "r") as zip_ref:
         return zip_ref.extractall(extract_file_dir)
 
-def unzip_all_folders(dir_path="data/DOC/EPNWA1", target_path= "data/DOC/EPNWA1"):
-    for file in os.listdir(dir_path):
+def unzip_all_folders(input_dir_path="data/DOC/EPNWA1", output_dir_path= "data/DOC/EPNWA1", limit=99999):
+    """Unzips all zip folders in a given folder and removes limit if need be"""
+    for i, file in enumerate(os.listdir(input_dir_path)):
         if file.endswith(".zip"):
-            extract_folder = f"{target_path}/{file.replace('.zip', '')}"
+            extract_folder = f"{output_dir_path}/{file.replace('.zip', '')}"
             os.mkdir(extract_folder)
-            unzip(f"{dir_path}/{file}", extract_folder)            
-    pass
+            unzip(f"{input_dir_path}/{file}", extract_folder)
+        if i == limit: break        
 
+def convert_tiff_to_png(tiff_import_path='image.tif', png_export_path="image.png"):
+    """Converts image using the PILLOW library from tif to png"""
+    image = Image.open(tiff_import_path)
+    return image.save(png_export_path, format="png")
 
-unzip_all_folders("data/DOC/EPNWA1", "epo/samples"),
+def convert_subfolder_images(input_dir_path="epo/samples/full-text", output_dir_path="static/img/patent_images"):
+    """Converts all the images in a directory which contains a folders that in turn contain tif images"""
+    for folder in os.listdir(input_dir_path):
+        for file in os.listdir(f'{input_dir_path}/{folder}'):
+            if file.endswith('.tif'):
+                if file.startswith('imgf'):
+                    convert_tiff_to_png(f'{input_dir_path}/{folder}/{file}', f'{output_dir_path}/{file.replace(".tif", "")}{folder}.png')
+
+unzip_all_folders(input_dir_path="data/DOC/EPNWB1", output_dir_path="epo/samples/full-text", limit=300)
+convert_subfolder_images(input_dir_path="epo/samples/full-text")

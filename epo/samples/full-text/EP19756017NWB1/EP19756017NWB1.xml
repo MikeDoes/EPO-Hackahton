@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP19756017B1" file="EP19756017NWB1.xml" lang="en" country="EP" doc-number="3669122" kind="B1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSK..HRIS..MTNORS..SM..................</B001EP><B003EP>*</B003EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  2100000/0</B007EP></eptags></B000><B100><B110>3669122</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>19756017.0</B210><B220><date>20190806</date></B220><B240><B241><date>20200318</date></B241></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>2021439</B310><B320><date>20180808</date></B320><B330><ctry>NL</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20200624</date><bnum>202026</bnum></B430><B450><date>20211006</date><bnum>202140</bnum></B450><B452EP><date>20210305</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>F23J  13/02        20060101AFI20200214BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>F23M   5/02        20060101ALI20200214BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>F23J  13/02        20130101 FI20190325BHEP        </text></classification-cpc><classification-cpc sequence="2"><text>F23J2213/10        20130101 LA20190325BHEP        </text></classification-cpc><classification-cpc sequence="3"><text>F23M   5/02        20130101 LI20190325BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>INDUSTRIEKAMIN FÜR DEN NASSSTAPELBETRIEB MIT EINEM INNENVERKLEIDUNGSSYSTEM</B542><B541>en</B541><B542>INDUSTRIAL CHIMNEY FOR WET STACK OPERATION PROVIDED WITH AN INTERNAL LINING SYSTEM</B542><B541>fr</B541><B542>CHEMINÉE INDUSTRIELLE POUR FONCTIONNEMENT EN EMPILEMENT HUMIDE POURVUE D'UN SYSTÈME DE REVÊTEMENT INTERNE</B542></B540><B560><B561><text>CN-Y- 2 844 699</text></B561><B561><text>DE-A1- 3 511 212</text></B561><B561><text>FR-A- 781 423</text></B561><B561><text>GB-A- 373 911</text></B561><B561><text>JP-A- S55 152 314</text></B561><B561><text>US-A1- 2010 206 456</text></B561></B560></B500><B700><B720><B721><snm>VAN DER WOUDE, Bastiaan</snm><adr><str>c/o PO Box 30139</str><city>3001 DC Rotterdam</city><ctry>NL</ctry></adr></B721><B721><snm>DE KREIJ, Albert</snm><adr><str>c/o PO Box 30139</str><city>3001 DC Rotterdam</city><ctry>NL</ctry></adr></B721></B720><B730><B731><snm>Hadek Protective Systems B.V.</snm><iid>101818326</iid><irf>P33575EP00/JV</irf><adr><str>37 Beursplein</str><city>3011 AA Rotterdam</city><ctry>NL</ctry></adr></B731></B730><B740><B741><snm>EP&amp;C</snm><iid>101364004</iid><adr><str>P.O. Box 3241</str><city>2280 GE Rijswijk</city><ctry>NL</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B860><B861><dnum><anum>NL2019050513</anum></dnum><date>20190806</date></B861><B862>en</B862></B860><B870><B871><dnum><pnum>WO2020032791</pnum></dnum><date>20200213</date><bnum>202007</bnum></B871></B870></B800></SDOBI>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001"><b>Technical Field</b></heading>
+<p id="p0001" num="0001">The present invention relates to an industrial chimney, in particular designed for wet stack operation comprising an internal lining system.</p>
+<heading id="h0002"><b>Background Art</b></heading>
+<p id="p0002" num="0002">Nowadays many coal-fired utility power plants employ flue gas technologies. In most wet stack operations flue gas enters the stack directly from the flue gas plant. A "wet stack" is a chimney, stack, or flue that exhausts water saturated flue gas downstream from a wet-scrubbing process, such as a wet flue gas desulfurization (WFGD) system. Most recently designed and constructed WFGD systems have installed wet stacks. Although the technology is relatively mature, there are a number of technical issues that utilities must address to achieve a successful installation. <nplcit id="ncit0001" npl-type="b"><text>The Revised Wet Stack Design Guide, final report 1026742, Copyright © 2012 Electric Power Research Institute, Inc.</text></nplcit>, (hereafter the EPRI Guide) is still the guide on wet stack design, whether the installation is new or retrofit.</p>
+<p id="p0003" num="0003">From the EPRI Guide it is known that the design of ducts and stacks for wet operation must address several issues that were not present in unscrubbed or reheated gas stack designs. One of the important issues to consider in the design of a wet stack system is the gas velocity in the chimney. A relevant issue is whether the gas velocity will result in droplet re-entrainment from the internal lining applied to the inner surface of a chimney. The liquid on the lining surface is produced by deposition and condensation. Its flow in the form of droplets, film or rivulets is governed by gravitational, surface-tension, and gas-shear forces. As the droplets accumulate, they are pulled downward by gravity, whereas the gas drags the liquid in the same direction as the flow direction of the gas. When the force from the gas reaches or exceeds the forces of gravity and surface tension, the liquid is sheared from the ductwork or liner walls. Liquid then re-enters or is re-entrained back into the gas stream and is carried out of the stack. When this occurs, the gas velocity is referred to as the critical re-entrainment velocity. Re-entrainment is the most frequent source of stack liquid discharge (SLD), also known as rainout or acid-mist fallout, of liquid droplets in the vicinity of the stack.</p>
+<p id="p0004" num="0004">It is known from the EPRI Guide that surface discontinuities and protrusions, such as weld seams, fiberglass-reinforced plastic (FRP) joints, and joints of mortar or mastic in internal linings may disrupt gas and liquid flow locally, causing re-entrainment. As a result, liquid re-entrainment<!-- EPO <DP n="2"> --> will be in the form of large droplets (300-6000 µm), that will be discharged at the top of the stack. Droplets of this size will impact ground-level surfaces in the vicinity of the wet stack installation because they will not be able to evaporate before reaching the ground. This is a significant problem.</p>
+<p id="p0005" num="0005">The liquid-film flow over the internal lining is a function of the gas-shear and gravitational forces, which are acting in opposite directions to each other. For most internal lining surfaces, in which gas velocities are below 19.8 m/s (65 ft/sec), gravitational forces dominate, and the liquid film will flow downward. At velocities between 21.3 and 27.4 m/s (70 and 90 ft/s), the gravitational and shear forces have approximately the same magnitude, and the forces are balanced. In this range, the liquid film on the internal lining will generally be stagnant on the wall and will not move in either direction. At velocities above 27.4 m/s (90 ft/s), the gas-shear forces dominate, and the liquid film will start to flow vertically toward the stack outlet. This velocity point is called the flow-reversal velocity. It is therefore common to operate at maximum values of the gas velocity below the critical re-entrainment velocity, e.g. 18.5 m/s.</p>
+<p id="p0006" num="0006">The observations described above apply to the ideal case of a smooth wetting surface. In reality, the surfaces of the internal lining are anything but smooth. Common construction elements for use in an internal lining system include acid bricks (typically ceramic tiles of about 25 x 25 cm<sup>2</sup>); alloys (typically high-quality steel sheets of 2 mm welded against a low-grade carbon steel of 8 mm), fibreglass reinforced plastics (FRP; cans made of about 3-5 cm thick plastic, which are about 5 to 7 meters in height) and silicate glass blocks, in particular borosilicate blocks (e.g., Pennguard® blocks made from closed cell foam of borosilicate glass). On alloy lining systems, there are horizontal weld beads; on FRP lining systems, there are joints between adjacent cans; and on brick lining, there are horizontal mortar joints every 2-4 inch (50-100 mm) up the entire height of chimney. Similar horizontal adhesive (mastic) joints may be found in lining systems made with (boro)silicate blocks. These disturbances are referred to as lining-wall discontinuities. From the EPRI Guide it is known that when the liquid film flows over a horizontal discontinuity, there is a potential for the upward- flowing flue gas to get under the liquid, resulting in the formation of droplets. As mentioned above, if the gas velocity is high enough, a portion of these droplets will be re-entrained back into the gas flow and will exit the lining and stack as SLD.</p>
+<p id="p0007" num="0007">The currently recommended lining-gas velocities for several lining materials are presented in Table 2-1 of the EPRI Guide. The recommended values also provide the plant some margin to account for increases in the flue gas flow rate as a result of changes in fuel source,<!-- EPO <DP n="3"> --> increases in plant efficiency, and/or future increases in plant output. For borosilicate blocks the recommended stack-liner velocity for wet operation is 18.3 m/s (60 ft/s). This recommendation takes into account the significant increase in the effective surface area afforded by the closed-cell surface structure of the material and the resulting increased surface-tension forces holding the liquid to the material.</p>
+<p id="p0008" num="0008"><patcit id="pcit0001" dnum="US2010206456A1"><text>US2010/206456A1</text></patcit> discloses an internal lining system being essentially an inner sleeve made of composite blocks. These blocks are applied to the inner walls of an emission system in a power plant or any other plant that generates corrosive gases as a by-product of its process, in order to provide chemical corrosion resistance, abrasion resistance and insulation, for example in a power plant having a Flue Gas Desulfurization (FDG) system comprising a scrubber section. Preferably the composite blocks are arranged in a staggered pattern comprising vertical and horizontal joints.</p>
+<p id="p0009" num="0009">Also <patcit id="pcit0002" dnum="JPS55152314B"><text>JPS55-152314</text></patcit> has disclosed a lining of a chimney, which lining is constituted by square blocks that are arranged in a staggered pattern.</p>
+<p id="p0010" num="0010"><patcit id="pcit0003" dnum="GB373911A"><text>GB373911 A</text></patcit> discloses a kiln for manufacturing pottery having a lining that comprises non-rectangular blocks.</p>
+<p id="p0011" num="0011"><patcit id="pcit0004" dnum="DE3511212A1"><text>DE3511212A1</text></patcit> discloses a rotary vessel or rotary kiln for pig iron having a lining, which is composed of bricks that are arranged in a spiral arrangement, preferably such that the joints between the bricks are parallel to the rotation axis of the container or kiln.</p>
+<p id="p0012" num="0012"><patcit id="pcit0005" dnum="FR781423A"><text>FR781423A</text></patcit> discloses a lining for a combustion chamber or furnace comprising a pattern of prismatic blocks.<!-- EPO <DP n="4"> --></p>
+<p id="p0013" num="0013">It is an object of the present invention to raise the critical re-entrainment velocity of the flue gas in an industrial chimney.</p>
+<heading id="h0003"><b>Summary of the invention</b></heading>
+<p id="p0014" num="0014">Accordingly, the invention provides an industrial chimney for wet stack operation provided with an internal lining system attached to the inner surface of the chimney, wherein the internal lining system comprises construction elements, that are arranged in a pattern, characterised in that the joints between the construction elements in the pattern at the flue gas side of the internal lining system are inclined at an angle α of at least 5 degrees from horizontal. Principally the internal lining system is composed of a pattern of construction elements, that are arranged such that between adjacent elements at the surface thereof that comes in contact with the flue gas there are no horizontal adhesive joints. Instead thereof these joints between vertically adjacent construction elements are inclined with respect to the horizontal. Surprisingly it has been found that the absence of such horizontal joints of adhesive at the flue gas contacting surface of the internal lining system favours the liquid flow in downward direction. This allows to increase the gas velocity without the occurrence of liquid re-entrainment in the flue gas in a wet stack operation. Thus the critical re-entrainment velocity in the invention is higher than in a prior art chimney provided with an internal lining system of closed cell borosilicate glass blocks having horizontal joints of adhesive. The invention is also applicable to other prior art construction elements of an internal lining system of an industrial chimney as discussed above, which typically show a horizontal joint, weld or seam, such as acid bricks, alloy plates, plastic cans.</p>
+<p id="p0015" num="0015">The invention offers an increased safety margin towards SLD at the same recommended gas-liner velocity in a prior art chimney. The increased critical re-entrainment velocity allows a higher volume of the flue gas through a chimney without risking SLD. The invention also enables increasing the capacity of existing chimneys with a given diameter, as well as higher capacities at small diameter stacks.<!-- EPO <DP n="5"> --></p>
+<p id="p0016" num="0016">A further aspect of the invention is directed to a method for refurbishing an existing chimney with a fresh internal lining system as outlined above for the purpose of increasing the critical re-entrainment velocity.</p>
+<heading id="h0004"><b>Brief description of drawings</b></heading>
+<p id="p0017" num="0017">
+<ul id="ul0001" list-style="none" compact="compact">
+<li><figref idref="f0001">Fig. 1</figref> shows a schematic representation of an embodiment of an industrial chimney according to the invention;</li>
+<li><figref idref="f0001">Fig. 2</figref> shows an embodiment of a pattern of an internal lining system according to the invention using rectangular construction elements;</li>
+<li><figref idref="f0001">Fig. 3</figref> shows another embodiment of a pattern of an internal lining system according to the invention using rectangular construction elements;</li>
+<li><figref idref="f0002">Fig. 4</figref> is a schematic representations of a parallelogram shaped construction element for use in the internal lining system.</li>
+<li><figref idref="f0003">Fig. 5</figref> shows a first embodiment of a pattern of an internal lining system according to the invention using parallelogram shaped construction elements;</li>
+<li><figref idref="f0003">Fig. 6</figref> shows a second embodiment of a pattern of an internal lining system according to the invention using parallelogram shaped construction elements; and</li>
+<li><figref idref="f0003">Fig. 7</figref> shows a third embodiment of a pattern of an internal lining system according to the invention using parallelogram shaped construction elements.</li>
+</ul></p>
+<heading id="h0005"><b>Description of embodiments</b></heading>
+<p id="p0018" num="0018">Various internal lining systems are known from the EPRI Guide. Although coatings may also be used as internal lining system, they are excluded from the present invention. The present invention therefore covers internal lining systems composed of construction elements with adhesive joints that are present at the flue gas side and result in surface discontinuities. In the present application, the definition of joints includes seams, welds, junctures and the like between the construction elements.</p>
+<p id="p0019" num="0019">According to the invention the construction elements are arranged in a pattern, wherein the joints between construction elements in the pattern at the flue gas side of the internal lining system are inclined at an angle α of at least 5 degrees from horizontal. Where in the present invention reference is made to the angle a, this is the angle made by the joints, present at the inside of the internal lining system, with respect to horizontal. Angle α is the smallest angle versus horizontal, with other joints being more inclined.</p>
+<p id="p0020" num="0020">It will be understood that at the edges of the pattern, e.g. at the lower edge near the horizontal bottom of the chimney and at the upper edge at the horizontal top of the chimney, being a cylindrical shell that optionally tapers towards the tip, in order to completely clad the<!-- EPO <DP n="6"> --> inner chimney wall with the protective internal lining system a horizontal edge joint may be present. The construction elements typically rest on a horizontal element, such as a floor or plinth. The space between the bottom and the lower construction elements of the patterned internal lining system may be filled with terminal construction elements specially designed for this purpose. Such terminal construction elements may also be present at the top of the chimney or at a transition from the pattern of construction elements according to the invention to a regular pattern having horizontal joints, which may be present in an upper area of the chimney. If the spaces are small, they may also be filled with adhesive.</p>
+<p id="p0021" num="0021">The patterned internal lining system is arranged at the locations in the chimney where the risk of re-entrainment is the highest, typically the lower region of the chimney extending from the floor upwards. Preferably the patterned internal lining system according to the invention extends over the full height of the chimney.</p>
+<p id="p0022" num="0022">The use of an internal lining internal lining system that is inclined at an angle α of at least 5, more preferably at least 10, more preferably between 20 and 45 degrees from horizontal is very counter-intuitive. First it entails more time and effort to introduce the construction elements of the internal lining internal lining system "at an angle" relative to horizontal. Second, in certain embodiments this may result in an increase of adhesive needed to install the construction elements with a (very slight) decrease of the cross section of the internal lining system. For instance, industrial chimneys for wet stack operation are typically between 50 and 400 meters high, such as from 100-175 metres high. Although the general shape of the cross section (flow through area) of the duct, such as square, rectangular, elliptical is not critical, typically the flow through area will be circular with diameters ranging from 3 meter to 15 metres. When rectangular-shaped construction elements are applied against the inner wall at an angle versus horizontal, the space between the construction element and the wall may increase. For instance, when use is made of borosilicate blocks as construction element attached to the inner wall at an angle versus horizontal, more adhesive to fill up said empty space is needed. In addition, although the effect is very small, when rectangular-shaped construction elements are used the cross section of the duct decreases. Note in this regard that modified construction elements pursuant to the present invention, e.g., parallelogram-shaped, do not suffer from this disadvantage. Moreover, they may be easier to install. These constructions elements are therefore highly attractive.</p>
+<p id="p0023" num="0023">The invention has proven to reduce the effect of liner-wall discontinuities, as horizontal joints have disappeared. Holdup over horizontal discontinuities is less problematic as liquid may flow along the inclined joints. As a result, the recommended gas-liner velocity may be<!-- EPO <DP n="7"> --> increased. For instance, the maximum recommended liner velocity for borosilicate block is increased from 18.3 m/s to 19.8 m/s or more. Similar improvements may be found for acid brick, alloy, and fiberglass reinforced plastic, provided the joints are inclined at an angle α of at least 5 degrees versus horizontal.</p>
+<p id="p0024" num="0024">In an embodiment the construction elements of the present invention advantageously have a parallel front and back face that are rectangular shaped. For such rectangular shaped construction elements, this means that all the joints in the patterned internal lining system constructed therefrom will be inclined versus horizontal, but also versus vertical.</p>
+<p id="p0025" num="0025">In another embodiment the construction elements preferably have a front and back face, preferably parallel, in the form of parallelogram, where in the patterned internal lining system the lower and upper joints are inclined at the angle α versus horizontal, while the side joints are vertically arranged. Thus, the invention also concerns parallelogram-shaped construction elements.</p>
+<p id="p0026" num="0026">Other embodiments of construction elements comprise elements with quadrangular front and back face, prism-shaped (having a parallel front and back face defined by three edges) or hexagonal-shaped (having a parallel front and back face defined by 6 edges).</p>
+<p id="p0027" num="0027">The construction elements, rectangular or parallelogram shaped, may be staggered along the line inclined at an angle α relative to horizontal, staggered along the vertical line or line inclined at an angle α relative to vertical, or not staggered at all.</p>
+<p id="p0028" num="0028">Preferably, the construction elements are silicate blocks, more preferably borosilicate blocks, in particular closed cell foam borosilicate blocks. The rectangular construction elements may have conventional dimensions similar to those of the known Pennguard™ glass blocks, typically ((X x Z x Y) in cm) 15.2 x 22.9 x 5.1 (6" x 9" x 2") or 15.2 x 22.9 x 3.8 (6" x 9" x 1.5") in size. The parallelogram shaped construction elements may have comparable dimensions. The present invention may be applied in new chimneys for wet stack operation, during repair of an internal lining system in existing chimneys for wet stack operation and when chimneys are retrofit with an internal lining system. As indicated herein before, the industrial chimney for wet stack operation of the present invention may be operated at a gas velocity higher than currently recommended without risking SLD. The present invention therefore also covers a process for refurbishing existing wet stack installations with an inclined internal lining system according to the present invention for the purpose of increasing the critical re-entrainment<!-- EPO <DP n="8"> --> velocity thus allowing operating the chimney at gas velocity then presently recommended for a protective lining system according to the prior art.</p>
+<p id="p0029" num="0029">The invention is illustrated herein below by the attached drawing, wherein:
+<ul id="ul0002" list-style="none" compact="compact">
+<li><figref idref="f0001">Fig. 1</figref> shows a schematic representation of an embodiment of an industrial chimney according to the invention;</li>
+<li><figref idref="f0001">Fig. 2</figref> shows an embodiment of a pattern of an internal lining system according to the invention using rectangular construction elements;</li>
+<li><figref idref="f0001">Fig. 3</figref> shows another embodiment of a pattern of an internal lining system according to the invention using rectangular construction elements;</li>
+<li><figref idref="f0002">Fig. 4</figref> is a schematic representations of a parallelogram shaped construction element for use in the internal lining system.</li>
+<li><figref idref="f0003">Fig. 5</figref> shows a first embodiment of a pattern of an internal lining system according to the invention using parallelogram shaped construction elements;</li>
+<li><figref idref="f0003">Fig. 6</figref> shows a second embodiment of a pattern of an internal lining system according to the invention using parallelogram shaped construction elements; and</li>
+<li><figref idref="f0003">Fig. 7</figref> shows a third embodiment of a pattern of an internal lining system according to the invention using parallelogram shaped construction elements.</li>
+</ul></p>
+<p id="p0030" num="0030">In the Figures and the following description the same elements or parts are indicated by the same reference numerals.</p>
+<p id="p0031" num="0031">In <figref idref="f0001">Fig. 1</figref> an embodiment of an industrial chimney 10 for wet stack operation is shown diagrammatically. The upright wet stack 10 comprises a shell 12, provided with an inner lining system 14 according to the invention, e.g. using a common adhesive membrane (not shown). The shell 12 delimits an upstanding duct 16 for flue gas. An inlet 18 for introducing flue gas derived from an industrial plant, such as a (coal-fired) power plant 20 provided with a wet desulphurisation system 22, is positioned at a lower part of the duct 16. Typically a false floor 24 is positioned in the duct 16. A rear deflection plate 26 may be positioned at the inner wall 28 of the shell 12 opposite the inlet 18. The lower row of construction elements of the internal lining system 14 may rest on a horizontal part of the deflection plate 26.</p>
+<p id="p0032" num="0032"><figref idref="f0001">Fig. 2</figref> is a front view of a first embodiment of the patterned internal lining system 14 according to the invention. The internal lining system 14 is constructed from rectangular construction elements 30, such as closed cell borosilicate blocks, e.g. from Pennguard™. The construction elements 30 are arranged such that all adhesive joints 32 and 34 between adjacent elements 30 have an angle α of at least 5 degrees versus the horizontal. In the<!-- EPO <DP n="9"> --> embodiment shown the angle α is 45 degrees, such that the joints 32 and 34 are perpendicular to one another. The joints 32 directed obliquely to the right are inline with one another, while the joints 34 are staggered. Terminal elements 40 having a horizontal bottom face fill the gaps between a supporting plinth 42 and the construction elements 30 at the lower edge of the patterned internal lining system 14. Alternatively these gaps are filled with adhesive.</p>
+<p id="p0033" num="0033"><figref idref="f0001">Fig. 3</figref> shows another embodiment of a 45 degrees angle patterned internal lining system 14 based on rectangular construction elements 30. In this embodiment the joints 32 are inline with one another, as well as the joints 34.</p>
+<p id="p0034" num="0034"><figref idref="f0002">Fig. 4</figref> shows a preferred embodiment of a parallelogram shaped construction element 30 having a flat front face 50 that in use comes into contact with the flue gas and a back face 52 parallel thereto, as well as a bottom face 54 and a top face 56 that are inclined with an angle α versus horizontal and two vertical lateral faces 58 and 60. The dotted lines in <figref idref="f0002">Fig. 4</figref> represent a rectangular starting block 62 from which the construction element 30 can be manufactured, for example by cutting or sawing parts 64 from the block 62. Preferably the construction elements 30 are directly manufactured into the parallelogram shape using suitable moulds.</p>
+<p id="p0035" num="0035"><figref idref="f0003">Fig. 5</figref> is a first embodiment of a pattern of an internal lining system 14 according to the invention using parallelogram shaped construction elements 30. Shown is a first row 70 and second row 72 of parallelogram shaped construction elements 30, that are arranged such that the bottom faces thereof and thus the joint 32 between adjacent elements 30 from the two rows are inclined versus horizontal. The vertical joints 34 between adjacent elements 30 in one row 70, respectively 72 are staggered.</p>
+<p id="p0036" num="0036"><figref idref="f0003">Fig. 6</figref> is a second embodiment of a pattern of an internal lining system 14 according to the invention similar to <figref idref="f0003">Fig. 5</figref>, except that the vertical joints 34 are aligned in the pattern.</p>
+<p id="p0037" num="0037"><figref idref="f0003">Fig. 7</figref> is a third embodiment of a pattern of an internal lining system 14 according to the invention similar to <figref idref="f0003">Fig. 6</figref> having aligned vertical joints 34, except that the bottom faces 54 and thus top faces 56 of adjacent construction elements 30 in a row are staggered. The inclined joints 32 at the bottom faces 54 of adjacent construction elements 30 in one row form a sawtooth line.<!-- EPO <DP n="10"> --></p>
+<p id="p0038" num="0038">Common to all the embodiments of the internal lining systems shown is the absence of horizontal joints between adjacent construction elements thereof.</p>
+<heading id="h0006"><b>Example</b></heading>
+<p id="p0039" num="0039">Test panels, representing an internal lining system, were constructed, using a mastic membrane, from conventional Pennguard® borosilicate blocks of 38 mm thick, 152.4 mm wide and 228.6 mm tall, and from building elements according to the invention made from the same material and having similar dimensions. The test panel made of conventional blocks had a commonly staggered pattern, such that the short edges of the blocks were installed horizontally and the long edges were installed vertically. The vertical seams were staggered. The mastic material in the joints was scraped during installation such that the mastic recessed slightly away from the front faces of the blocks. The radial tolerance of construction was less than 3mm.</p>
+<p id="p0040" num="0040">A first panel according to the invention was manufactured from parallelogram shaped construction elements (cut along the short edges from conventional Pennguard® borosilicate blocks), wherein the angle α of the oblique joints was 10°, and the vertical joints were staggered as shown in <figref idref="f0003">Fig. 5</figref>.</p>
+<p id="p0041" num="0041">A second panel according to the invention was manufactured in a similar way, except that the angle α of the oblique joints was 20°.</p>
+<p id="p0042" num="0042">A third panel according to the invention was manufactured similar to the first and second panel, except that the inclined joints had a sawtooth pattern as shown in <figref idref="f0003">Fig. 7</figref>.</p>
+<p id="p0043" num="0043">A fourth panel according to the invention was manufactured from rectangular construction elements (conventional Pennguard® borosilicate blocks), that were arranged with joints at 45° versus horizontal as shown in <figref idref="f0001">Fig. 2</figref>, except that the long edge joints were staggered.</p>
+<p id="p0044" num="0044">The test panels as manufactured were observed to have minimal mastic smearing and minimal radial protrusions.</p>
+<p id="p0045" num="0045">Each panel oriented vertically was then evaluated at several gas flow conditions ranging from 13.7 m/s (45 ft/s) to 25.9 m/s (85 ft/s) in increments of 1.5 m/s (5 ft/s) in a vertical wind tunnel test facility to determine the performance of the panel with respect to liquid flow, drainage and re-entrainment from the surfaces of the panel.<!-- EPO <DP n="11"> --></p>
+<p id="p0046" num="0046">Liquid was sprayed onto the front faces of the blocks and elements using a high flow spray nozzle to simulate wet stack operation, wherein the internal lining surface will always be wet due to condensation of water vapour from the saturated flue gas. Once the front faces were uniformly wetted a second low flow nozzle was used to inject smaller amounts of water onto specific areas of interest.</p>
+<p id="p0047" num="0047">At each tested gas flow velocity visual observations were made concerning the:
+<ol id="ol0001" compact="compact" ol-style="">
+<li>1) Direction of liquid motion on the surface and over the mastic joints,</li>
+<li>2) Observations of the liquid surface appearance as a function of velocity, and</li>
+<li>3) Entrainment of liquid from the borosilicate block surfaces or from joints between blocks.</li>
+</ol></p>
+<p id="p0048" num="0048">The below Tables summarize the test results.<!-- EPO <DP n="12"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>Table 1. Conventional internal lining system</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="33mm"/>
+<colspec colnum="2" colname="col2" colwidth="133mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Gas flow velocity (m/s)</entry>
+<entry valign="top">Observations</entry></row></thead>
+<tbody>
+<row>
+<entry>13.7</entry>
+<entry>Liquid flows freely down across both the Pennguard® block faces and the mastic membrane joints.</entry></row>
+<row>
+<entry>15.2</entry>
+<entry>Liquid flows freely down across both the block faces and the mastic membrane joints. Small liquid bars are beginning to form at some of the horizontal mastic joints.</entry></row>
+<row>
+<entry>16.8</entry>
+<entry>Small liquid bars are forming at most of the horizontal mastic joints. Liquid is easily draining across the horizontal mastic joints and down the face of the borosilicate blocks.</entry></row>
+<row>
+<entry>18.3</entry>
+<entry>Larger liquid bars are forming at the horizontal mastic joints. The liquid drainage is very good on the surfaces of the borosilicate blocks. No re-entrainment was observed.</entry></row>
+<row>
+<entry>19.8</entry>
+<entry>There is still good liquid drainage on the surfaces of the borosilicate blocks but the liquid bars are getting larger at the horizontal mastic joints. Minimal re-entrainment was observed.</entry></row>
+<row>
+<entry>21.3</entry>
+<entry>Liquid bars are getting noticeably larger and waves can be seen on their surfaces with some re-entrainment. Liquid is still able to drain across the horizontal mastic joints. More re-entrainment was observed.</entry></row>
+<row>
+<entry>22.9</entry>
+<entry>Liquid bars are getting noticeably larger and waves can be seen on their surfaces. Significant liquid re-entrainment at the liquid bars. The liquid film on the block surface is still flowing down.</entry></row>
+<row>
+<entry>24.4</entry>
+<entry>The panel is entering the flooding regime where the liquid film thickness increases such that the liquid on the gas-liquid interface flows up and the liquid on the block surface flows downward. Significant re-entrainment was observed at numerous locations.</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="13"> -->
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>Table 2. 10° Inclined parallelogram shaped blocks</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="34mm"/>
+<colspec colnum="2" colname="col2" colwidth="132mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Gas flow velocity (m/s)</entry>
+<entry valign="top">Observations</entry></row></thead>
+<tbody>
+<row>
+<entry>13.7</entry>
+<entry>Liquid flows freely down across both the block faces and the mastic membrane joints. No observed lateral liquid movement.</entry></row>
+<row>
+<entry>15.2</entry>
+<entry>Liquid flows freely down across both the block faces and the mastic membrane joints. Small liquid bars are beginning to form at some of the horizontal mastic joints. No observed lateral liquid movement.</entry></row>
+<row>
+<entry>16.8</entry>
+<entry>Small liquid bars are forming at most of the horizontal mastic joints. Liquid is easily draining across the horizontal mastic joints and down the face of the borosilicate blocks. Some minor observed lateral liquid movement in the mastic joints.</entry></row>
+<row>
+<entry>18.3</entry>
+<entry>Larger liquid bars are forming at the horizontal mastic joints. The liquid drainage is very good on the surfaces of the borosilicate blocks. No re-entrainment was observed.</entry></row>
+<row>
+<entry>19.8</entry>
+<entry>There is still good liquid drainage on the surfaces of the borosilicate blocks but the liquid bars are getting larger at the horizontal mastic joints. Sporadic re-entrainment was observed.</entry></row>
+<row>
+<entry>21.3</entry>
+<entry>Liquid bars are getting noticeably larger and waves can be seen on their surfaces with significant re-entrainment. Liquid is struggling to drain across the horizontal mastic joints.</entry></row>
+<row>
+<entry>22.9</entry>
+<entry>Liquid bars are getting noticeably larger and waves can be seen on their surfaces. Significant liquid re-entrainment at the liquid bars. The liquid film on the block surface is still flowing down</entry></row>
+<row>
+<entry>24.4</entry>
+<entry>The panel is entering the flooding regime where the liquid film thickness increases such that the liquid on the gas-liquid interface flows up and the liquid on the block surface flows downward. Significant re-entrainment was observed at many locations.</entry></row>
+<row>
+<entry>85</entry>
+<entry>The panel is in the flooding regime where the liquid film thickness increases such that the liquid on the gas-liquid interface flows up and the liquid on the block surface flows downward. Significant re-entrainment was observed at many locations.</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="14"> -->
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>Table 3. 20° Inclined parallelogram shaped blocks</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="20mm"/>
+<colspec colnum="2" colname="col2" colwidth="146mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Gas flow velocity (m/s)</entry>
+<entry valign="top">Observations</entry></row></thead>
+<tbody>
+<row>
+<entry>13.7</entry>
+<entry>Liquid flows freely down across both the block faces and the mastic membrane joints.</entry></row>
+<row>
+<entry>15.2</entry>
+<entry>Liquid flows freely down across both the block faces and the mastic membrane joints. Some lateral liquid movement was observed at the mastic membrane joints.</entry></row>
+<row>
+<entry>16.8</entry>
+<entry>Small liquid bars are forming at some of the angled mastic joints. Lateral liquid movement was observed at the mastic membrane joints, however; liquid is easily draining across the angled mastic joints and down the face of the borosilicate blocks.</entry></row>
+<row>
+<entry>18.3</entry>
+<entry>Small liquid bars are forming at most of the angled mastic joints. Lateral liquid movement was observed at the mastic membrane joints. The liquid drainage is very good on the surfaces of the borosilicate blocks. No re-entrainment was observed.</entry></row>
+<row>
+<entry>19.8</entry>
+<entry>Larger liquid bars are forming above the angled mastic joints. There is still good liquid drainage on the surfaces of the borosilicate blocks but the liquid drainage is mainly directed laterally along the angled mastic joints. Minimal re-entrainment was observed.</entry></row>
+<row>
+<entry>21.3</entry>
+<entry>Liquid still drains vertically down the block faces, however; once it hits an angled mastic joint it tends to travel laterally until it encounters the sidewall of the wind tunnel. The bars at the sidewall are getting noticeably larger with significant re-entrainment.</entry></row>
+<row>
+<entry>22.9</entry>
+<entry>Liquid still drains vertically down the block faces, however; once it hits an angled mastic joint it tends to travel laterally until it encounters the sidewall of the wind tunnel. All of the bars are getting noticeably larger with significant re-entrainment.</entry></row>
+<row>
+<entry>24.4</entry>
+<entry>The panel is entering the flooding regime where the liquid film thickness increases such that the liquid on the gas-liquid interface flows up and the liquid on the block surface flows downward. Some liquid drains vertically down the block faces and lateral liquid movement was observed at the angled mastic joints. Significant re-entrainment was observed at many locations.</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="15"> -->
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title>Table 4. 20° Inclined parallelogram shaped blocks in sawtooth pattern</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="32mm"/>
+<colspec colnum="2" colname="col2" colwidth="134mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Gas flow velocity (m/s)</entry>
+<entry valign="top">Observations</entry></row></thead>
+<tbody>
+<row>
+<entry>13.7</entry>
+<entry>Liquid flows freely down across both the block faces and the mastic membrane joints.</entry></row>
+<row>
+<entry>15.2</entry>
+<entry>Liquid flows freely down across both the block faces and the mastic membrane joints. Lateral liquid movement was observed at some of the angled mastic joints.</entry></row>
+<row>
+<entry>16.8</entry>
+<entry>Liquid flows freely down across the block faces. Small liquid bars form above the angled mastic joints. The bars then move laterally across the mastic joints until they encounter the next block and then the liquid film drains down that block face.</entry></row>
+<row>
+<entry>18.3</entry>
+<entry>Liquid flows freely down across the block faces. Small liquid bars form above the angled mastic joints. The bars then move laterally across the mastic joints until they encounter the next block and then the liquid film drains down that block face.</entry></row>
+<row>
+<entry>19.8</entry>
+<entry>Liquid flows freely down across the block faces. Small liquid bars form above the angled mastic joints. The bars then move laterally across the mastic joints until they encounter the next block and then the liquid film drains down that block face.</entry></row>
+<row>
+<entry>21.3</entry>
+<entry>Liquid flows freely down across the block faces. Larger liquid bars form above the angled mastic joints. The bars then move laterally across the mastic joints until they encounter the next block and then the liquid film drains down that block face. Sporadic re-entrainment was observed.</entry></row>
+<row>
+<entry>22.9</entry>
+<entry>Liquid flows down across the block faces, however; waves are forming on the surface of the liquid. Large liquid bars form above the angled mastic joints. The bars then move laterally across the mastic joints until they encounter the next block and then the liquid film drains down that block face. The lateral movement is less intense than was observed at the lower velocities. Re-entrainment was observed.</entry></row>
+<row>
+<entry>24.4</entry>
+<entry>The panel is entering the flooding regime. Significant liquid upflow was observed on the block faces. Later liquid movement above the angled mastic joints was limited. Significant re-entrainment was observed at many locations.</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="16"> -->
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<title>Table 5. 45° Pattern of rectangular blocks</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="33mm"/>
+<colspec colnum="2" colname="col2" colwidth="133mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Gas flow velocity (m/s)</entry>
+<entry valign="top">Observations</entry></row></thead>
+<tbody>
+<row>
+<entry>16.8</entry>
+<entry>Liquid drains freely across the surface of the blocks and also follows the angled mastic joints downwards.</entry></row>
+<row>
+<entry>18.3</entry>
+<entry>Liquid drains freely across the surface of the blocks and also follows the angled mastic joints downwards.</entry></row>
+<row>
+<entry>19.8</entry>
+<entry>Liquid drains freely across the surface of the blocks and also follows the angled mastic joints downwards. The liquid is beginning to preferentially flow along the angled mastic joints.</entry></row>
+<row>
+<entry>21.3</entry>
+<entry>Liquid drains freely across the surface of the blocks and also follows the angled mastic joints downwards. The liquid is preferentially flowing along the angled mastic joints in both directions.</entry></row>
+<row>
+<entry>22.9</entry>
+<entry>Waves are beginning to form in the liquid as it drains down the surface of the blocks. The velocity of the liquid flowing down the angled mastic joints is noticeably slower than was observed for the previous test cases. Sporadic re-entrainment was observed.</entry></row>
+<row>
+<entry>24.4</entry>
+<entry>The panel is entering the flooding regime. Significant re-entrainment was observed at many locations, however; the majority of the liquid flow was downward.</entry></row>
+<row>
+<entry>25.9</entry>
+<entry>The panel is in the flooding regime. Significant re-entrainment was observed at numerous locations. Minimal liquid flow downward.</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="17"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>An industrial chimney (10) for wet stack operation provided with an internal lining system (14) attached to the inner surface (28) of the chimney (10), wherein the internal lining system (14) comprises construction elements (30), that are arranged in a pattern, <b>characterised in that</b> the joints (32; 34) between the construction elements (30) in the pattern at the flue gas side of the internal lining system (14) are inclined at an angle α of at least 5 degrees from horizontal.</claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>An industrial chimney according to claim 1, wherein the joints (32; 34) between the construction elements (30) in the pattern at the flue gas side of the internal lining system (14) are inclined at an angle α of at least 10 degrees from horizontal, preferably 20 degrees or more, more preferably about 45 degrees.</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>An industrial chimney according to claim 1 or 2, wherein the construction elements (30) have a parallel front (50) and back face (52) that have a rectangular shape.</claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>An industrial chimney according to claim 1 or 2, wherein the construction elements (30) have a parallel front (50) and back face (52) that have a parallelogram shape.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>An industrial chimney according to claim 4, wherein the construction elements (30) are arranged in the pattern such that vertical joints (34) between construction elements (30), that are adjacent to each other in the vertical direction of the chimney are inline with each other.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>An industrial chimney according to claim 4, wherein the construction elements (30) are arranged in the pattern such that vertical joints (34) between construction elements, that are adjacent to each other in the vertical direction of the chimney are staggered.</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>An industrial chimney according to any one of the preceding claims, wherein the construction elements (30) are made of borosilicate glass, preferably closed cell foamed borosilicate glass.</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>A process for refurbishing an existing chimney (10) with a fresh internal lining system (14) for the purpose of increasing the critical re-entrainment velocity, wherein the internal lining system (14) is manufactured from construction elements (30) that are adhesively attached to the inner surface (28) of the chimney (10), wherein the construction elements<!-- EPO <DP n="18"> --> (30) are arranged in a pattern, such that the joints (32; 34) between the construction elements in the pattern at the flue gas side of the internal lining system (14) are inclined at an angle α of at least 5 degrees from horizontal.</claim-text></claim>
+</claims>
+<claims id="claims02" lang="de"><!-- EPO <DP n="19"> -->
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Industrieschornstein (10) für den Nassschlotbetrieb, versehen mit einem Innenauskleidungssystem (14), das an der inneren Oberfläche (28) des Schornsteins (10) angebracht ist, wobei das Innenauskleidungssystem (14) Konstruktionselemente (30) umfasst, die in einem Muster angeordnet sind,<br/>
+<b>dadurch gekennzeichnet, dass</b><br/>
+die Verbindungsstellen (32; 34) zwischen den Konstruktionselementen (30) in dem Muster an der Rauchgasseite des Innenauskleidungssystems (14) in einem Winkel α von mindestens 5 Grad von der Horizontalen geneigt sind.</claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Industrieschornstein nach Anspruch 1, wobei die Verbindungsstellen (32; 34) zwischen den Konstruktionselementen (30) in dem Muster an der Rauchgasseite des Innenauskleidungssystems (14) in einem Winkel α von mindestens 10 Grad von der Horizontalen, vorzugsweise 20 Grad oder mehr, noch bevorzugter etwa 45 Grad, geneigt sind.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Industrieschornstein nach Anspruch 1 oder 2, wobei die Konstruktionselemente (30) eine parallele Vorder- (50) und Rückseite (52) aufweisen, die eine rechtwinklige Form aufweisen.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Industrieschornstein nach Anspruch 1 oder 2, wobei die Konstruktionselemente (30) eine parallele Vorder- (50) und Rückseite (52) aufweisen, die eine Parallelogramm-Form aufweisen.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Industrieschornstein nach Anspruch 4, wobei die Konstruktionselemente (30) so in dem Muster angeordnet sind, dass vertikale Verbindungsstellen (34) zwischen Konstruktionselementen (30), die in der vertikalen Richtung des Schornsteins aneinander angrenzen, linear zueinander sind.</claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Industrieschornstein nach Anspruch 4, wobei die Konstruktionselemente (30) so in dem Muster angeordnet sind, dass vertikale Verbindungsstellen (34) zwischen Konstruktionselementen, die in der vertikalen Richtung des Schornsteins aneinander angrenzen, versetzt sind.<!-- EPO <DP n="20"> --></claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Industrieschornstein nach einem der vorstehendenden Ansprüche, wobei die Konstruktionselemente (30) aus Borosilikatglas, vorzugsweise geschlossenzelligem geschäumtem Borosilikatglas, hergestellt sind.</claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Verfahren zum Nachrüsten eines bestehenden Schornsteins (10) mit einem frischen Innenauskleidungssystem (14) zum Zwecke der Erhöhung der kritischen Mitriss-Geschwindigkeit, wobei das Innenauskleidungssystem (14) aus Konstruktionselementen (30) gefertigt ist, die haftend an der inneren Oberfläche (28) des Schornsteins (10) angebracht sind, wobei die Konstruktionselemente (30) so in einem Muster angeordnet sind, dass die Verbindungsstellen (32; 34) zwischen den Konstruktionselementen in dem Muster an der Rauchgasseite des Innenauskleidungssystems (14) in einem Winkel α von mindestens 5 Grad von der Horizontalen geneigt sind.</claim-text></claim>
+</claims>
+<claims id="claims03" lang="fr"><!-- EPO <DP n="21"> -->
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Cheminée (10) industrielle pour un fonctionnement en empilement humide, munie d'un système de revêtement interne (14) fixé à la surface interne (28) de la cheminée (10), dans laquelle le système de revêtement interne (14) comprend des éléments de construction (30), qui sont agencés selon un motif,<br/>
+<b>caractérisé en ce que</b><br/>
+les joints (32 ; 34) entre les éléments de construction (30) dans le motif du côté des gaz de combustion du système de revêtement interne (14) sont inclinés selon un angle α d'au moins 5 degrés par rapport à l'horizontale.</claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Cheminée industrielle selon la revendication 1, dans laquelle les joints (32 ; 34) entre les éléments de construction (30) dans le motif du côté des gaz de combustion du système de revêtement interne (14) sont inclinés selon un angle α d'au moins 10 degrés par rapport à l'horizontale, de préférence 20 degrés ou plus, plus préférablement environ 45 degrés.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Cheminée industrielle selon la revendication 1 ou 2, dans laquelle les éléments de construction (30) ont une face avant (50) et une face arrière (52) parallèles qui ont une forme rectangulaire.</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Cheminée industrielle selon la revendication 1 ou 2, dans laquelle les éléments de construction (30) ont une face avant (50) et une face arrière (52) parallèles qui ont une forme de parallélogramme.<!-- EPO <DP n="22"> --></claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Cheminée industrielle selon la revendication 4, dans laquelle les éléments de construction (30) sont disposés selon le motif de telle sorte que des joints verticaux (34) entre des éléments de construction (30), qui sont adjacents les uns aux autres dans la direction verticale de la cheminée, sont alignés les uns avec les autres.</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Cheminée industrielle selon la revendication 4, dans laquelle les éléments de construction (30) sont disposés selon le motif de telle sorte que des joints verticaux (34) entre des éléments de construction, qui sont adjacents les uns aux autres dans la direction verticale de la cheminée, sont décalés.</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Cheminée industrielle selon l'une quelconque des revendications précédentes, dans laquelle les éléments de construction (30) sont réalisés en verre borosilicate, de préférence en verre borosilicate expansé à cellules fermées.</claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Procédé de rénovation d'une cheminée (10) existante avec un système de revêtement interne (14) neuf dans le but d'augmenter la vitesse critique de ré-entraînement, dans lequel le système de revêtement interne (14) est fabriqué à partir d'éléments de construction (30) qui sont fixés de manière adhésive à la surface interne (28) de la cheminée (10), dans lequel les éléments de construction (30) sont agencés dans un motif, de sorte que les joints (32 ; 34) entre les éléments de construction dans le motif du côté des gaz de combustion du système de revêtement interne (14) sont inclinés selon un angle α d'au moins 5 degrés par rapport à l'horizontale.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="23"> -->
+<figure id="f0001" num="1,2,3"><img id="if0001" file="imgf0001.tif" wi="133" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="24"> -->
+<figure id="f0002" num="4"><img id="if0002" file="imgf0002.tif" wi="126" he="153" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="25"> -->
+<figure id="f0003" num="5,6,7"><img id="if0003" file="imgf0003.tif" wi="132" he="233" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="US2010206456A1"><document-id><country>US</country><doc-number>2010206456</doc-number><kind>A1</kind></document-id></patcit><crossref idref="pcit0001">[0008]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="JPS55152314B"><document-id><country>JP</country><doc-number>S55152314</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0002">[0009]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="GB373911A"><document-id><country>GB</country><doc-number>373911</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0003">[0010]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="DE3511212A1"><document-id><country>DE</country><doc-number>3511212</doc-number><kind>A1</kind></document-id></patcit><crossref idref="pcit0004">[0011]</crossref></li>
+<li><patcit id="ref-pcit0005" dnum="FR781423A"><document-id><country>FR</country><doc-number>781423</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0005">[0012]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="b"><article><atl>The Revised Wet Stack Design Guide</atl><book><book-title>final report 1026742</book-title><imprint><name>Electric Power Research Institute, Inc.</name><pubdate>20120000</pubdate></imprint></book></article></nplcit><crossref idref="ncit0001">[0002]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

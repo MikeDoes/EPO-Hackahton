@@ -1,0 +1,1124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP18731172B1" file="EP18731172NWB1.xml" lang="en" country="EP" doc-number="3622051" kind="B1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSK..HRIS..MTNORSMESM......MD..........</B001EP><B003EP>*</B003EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  2100000/0</B007EP></eptags></B000><B100><B110>3622051</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>18731172.5</B210><B220><date>20180511</date></B220><B240><B241><date>20191207</date></B241></B240><B250>it</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>201700051113</B310><B320><date>20170511</date></B320><B330><ctry>IT</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20200318</date><bnum>202012</bnum></B430><B450><date>20211006</date><bnum>202140</bnum></B450><B452EP><date>20210428</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>C12N   1/16        20060101AFI20210412BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C12G   1/022       20060101ALI20210412BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>A23L  33/14        20160101ALI20210412BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>C12R   1/85        20060101ALN20210412BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>C12G2200/05        20130101 LA20180712BHEP        </text></classification-cpc><classification-cpc sequence="2"><text>C12G   1/0203      20130101 FI20180712BHEP        </text></classification-cpc><classification-cpc sequence="3"><text>A23L  33/14        20160801 LI20180124BHEP        </text></classification-cpc><classification-cpc sequence="4"><text>C12R2001/85        20210501 LA20210501RHEP        </text></classification-cpc><classification-cpc sequence="5"><text>C12N   1/185       20210501 LI20210501RHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>SACCHAROMYCES-BAYANUS-HEFESTAMM</B542><B541>en</B541><B542>A STRAIN OF YEAST SACCHAROMYCES BAYANUS</B542><B541>fr</B541><B542>SOUCHE DE LEVURE SACCHAROMYCES BAYANUS</B542></B540><B560><B561><text>EP-A1- 2 277 990</text></B561><B561><text>EP-A1- 2 634 247</text></B561><B561><text>EP-A2- 1 978 083</text></B561><B562><text>VERSPOHL ALEXANDRA ET AL: "Exploration of genetic and phenotypic diversity within Saccharomyces uvarum for driving strain improvement in winemaking", APPLIED MICROBIOLOGY AND BIOTECHNOLOGY, SPRINGER, DE, vol. 101, no. 6, 8 December 2016 (2016-12-08), pages 2507-2521, XP036164221, ISSN: 0175-7598, DOI: 10.1007/S00253-016-8008-4 [retrieved on 2016-12-08] -&amp; ALEXANDRA VERSPOHL ET AL: "Findings from University of Modena and Reggio Emilia in the Area of Applied microbiology and biotechnology Described (Exploration of genetic and phenotypic diversity within Saccharomyces uvarum for driving strain improvement in winemaking)", BIOTECH WEEK, 26 April 2017 (2017-04-26), XP055443997, ISSN: 1535-2757</text></B562><B562><text>MARIANA TRISTEZZA ET AL: "Autochthonous fermentation starters for the industrial production of Negroamaro wines", JOURNAL OF INDUSTRIAL MICROBIOLOGY &amp; BIOTECHNOLOGY ; OFFICIAL JOURNAL OF THE SOCIETY FOR INDUSTRIAL MICROBIOLOGY, SPRINGER, BERLIN, DE, vol. 39, no. 1, 21 June 2011 (2011-06-21), pages 81-92, XP019996857, ISSN: 1476-5535, DOI: 10.1007/S10295-011-1002-Z</text></B562><B562><text>ETJEN BIZAJ ET AL: "A breeding strategy to harness flavor diversity of Saccharomyces interspecific hybrids and minimize hydrogen sulfide production", FEMS YEAST RESEARCH, vol. 12, no. 4, 1 June 2012 (2012-06-01), pages 456-465, XP055443493, GB, NL ISSN: 1567-1356, DOI: 10.1111/j.1567-1364.2012.00797.x</text></B562></B560></B500><B700><B720><B721><snm>POLO, Maurizio</snm><adr><str>Via Bornia 21</str><city>31043 Fontanelle (TV)</city><ctry>IT</ctry></adr></B721></B720><B730><B731><snm>Bioenologia 2.0 S.R.L.</snm><iid>101786503</iid><irf>47.289 bioenolo</irf><adr><str>Via G. Verdi 32</str><city>31046 Oderzo (TV)</city><ctry>IT</ctry></adr></B731></B730><B740><B741><snm>Bonini, Ercole</snm><iid>100024647</iid><adr><str>Studio Bonini Srl 
+Corso Fogazzaro, 8</str><city>36100 Vicenza</city><ctry>IT</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>ME</ctry><date>20191207</date></B845EP></B844EP><B848EP><B849EP><ctry>MD</ctry><date>20191207</date></B849EP></B848EP><B860><B861><dnum><anum>IB2018053290</anum></dnum><date>20180511</date></B861><B862>it</B862></B860><B870><B871><dnum><pnum>WO2018207141</pnum></dnum><date>20181115</date><bnum>201846</bnum></B871></B870></B800></SDOBI>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001"><b>Field of the art</b></heading>
+<p id="p0001" num="0001">The present invention concerns a strain of yeast belonging to the species <i>Saccharomyces bayanus</i> subsp. <i>uvarum,</i> and a selection method for yeasts for oenological use from flowers. Furthermore, the invention refers to the use of the yeast strain in the fermentative production of foods.</p>
+<heading id="h0002"><b>State of the art</b></heading>
+<p id="p0002" num="0002">The use of starter yeast cultures in wine production is a fundamental practice allowing the control and steering of the fermentative process.</p>
+<p id="p0003" num="0003">The term selected yeast or selected starter is used to mean a yeast strain characterised by physiological, biochemical and oenological properties that are optimised with regard to the technological demands of the fermentation processes in terms of purity (Pretorius, 2000).</p>
+<p id="p0004" num="0004">The use of selected yeasts ensures the prompt initiation of fermentation since the quality and quantity of yeast added to the must are carefully selected; it allows greater control of the fermentative process by the operator opting to conduct fermentation without said process being left to yeasts naturally present in grapes that do not always have positive characteristics; it reduces the problems of arrest or slowing-down of the process, typical of spontaneous fermentation processes; it achieves good sugar transformation yields into alcohol, reducing the possibility of other microorganisms becoming established in the wine, thus damaging it (for example acetic bacteria); it reduces or eliminates anomalous organoleptic characteristics and, by no means last, it contributes towards the standardisation of production of a given wine, thus allowing it to be recognisable by the consumer year after year (Fleet and Heard, 1993).</p>
+<p id="p0005" num="0005">Predominantly, the yeast selection occurs by means of the isolation of yeast strains from must or grapes, that are subjected to fermentation and oenological characterisation testing. Said tests are very laborious and require a great deal of time, in that they envisage the study of numerous physiological and metabolic characteristics for the yeast. In addition, musts and grapes can contain multiple copies of the same strain, whereby there is a risk of isolating<!-- EPO <DP n="2"> --> said multiple copies and thus conducting duplicate tests.</p>
+<p id="p0006" num="0006">The important oenological characteristics can be subdivided into two groups: those with technological importance, influencing the progression of the vinification process, and those affecting quality, influencing the chemical and sensory characteristics of the wines (Zambonelli, 2003). The term technological characteristics is understood to mean the characteristics associated with the fermentation activity of the yeasts (absolute alcoholigenic power, fermentative force, fermentation initiation rate), while the quality characteristics include those characteristics contributing towards the aroma, and more generally, to the organoleptic quality of the wine, such as for example the production of glycerol, volatile substances and sulphurated compounds (Pretorius, 2000; Fleet, 2008).</p>
+<p id="p0007" num="0007">The major technological characteristics include the fermentative or alcoholigenic power, which, according to Delfini, is the maximum alcohol level (understood as % ethanol) produced by a given yeast by means of the fermentation of a must containing excess sugar (Delfini, 1995). The main ethyl alcohol produced by the activity of yeasts under anoxic conditions is the compound exercising an inhibitory action on all microorganisms. Since, for oenological use, yeasts require significant performance characteristics, for example, for the production of wines with high alcohol content, also the resistance (alcohol tolerance) to ethyl alcohol has, evidently, a fundamental importance.</p>
+<p id="p0008" num="0008">An additional important technological characteristic is the fermentative force (or rate of fermentation), expressing the rate at which the yeast initiates fermentation, even in the presence of antiseptics at legally permitted doses and at temperatures between 15°C and 30°C. Rapid initiation of the fermentative process is one of the characteristics an oenological yeast must possess regardless of its type of use (fresh or dried) and therefore must be considered a fundamental requirement in the selection of yeasts for vinification.</p>
+<p id="p0009" num="0009">An additional, very important characteristic is resistance to sulphur dioxide SO<sub>2</sub>, i.e. the ability to maintain unaltered or sufficiently high the fermentation rate in the presence of selective doses of SO<sub>2</sub> added to musts in order to avoid oxidation and achieve a suitable microbiological stability. Where SO<sub>2</sub> supplemented wines are produced, it is therefore important to have strains<!-- EPO <DP n="3"> --> available that are resistant to this antiseptic, in order to avoid initiation problems affecting the fermentation process.</p>
+<p id="p0010" num="0010">Another important aspect concerns the methods of growth, i.e. the behaviour of the yeast cells on completion of the budding process, since said characteristic can affect management of the fermentation process. Yeast growth may be distinguished between pulverulent, flocculent or aggregate growth. The sedimentation rate of the strain is thus an additional positive characteristic, since it aids wine clarification and filtration operations.</p>
+<p id="p0011" num="0011">The strains that cloud wine in the most annoying and persistent<br/>
+manner are the foam generating strains. Foam generating capacity is a strain-dependent characteristic, associated with the hydrophobicity of the cell wall. In many strains (20-30%) the cells adhere to the CO<sub>2</sub> bubbles produced during fermentation, and these bubbles, upon arrival at the surface, rather than breaking up, fuse together and increase in volume, giving rise to foams which take on a grey-brown colour due to the presence of the cells. The absence or reduced production of foam is a positive characteristic, both in primary fermentations and in refermentations, since it reduces the volume occupied by the must.</p>
+<p id="p0012" num="0012">With regard to the qualitative characteristics, to be subsequently described in detail, the main considerations include:
+<ul id="ul0001" list-style="dash" compact="compact">
+<li>low or zero production of hydrogen sulphide;</li>
+<li>the production or degradation of malic acid (as a function of the must and the oenological vintage);</li>
+<li>high glycerol production;</li>
+<li>low acetic acid production;</li>
+<li>high aromatic potential.</li>
+</ul></p>
+<p id="p0013" num="0013">From the qualitative viewpoint, the sulphurated compounds mainly consist of hydrogen sulphide (or H<sub>2</sub>S) and sulphur dioxide (SO<sub>2</sub>); said compounds are always produced by the S. <i>cerevisiae</i> strains commercially available as wine starters, even though in different and variable quantities depending on the strain.</p>
+<p id="p0014" num="0014">Vinification using non-producing or low H<sub>2</sub>S producing yeasts is particularly advantageous for those varieties that are peculiarly predisposed to "reduction". Indeed, hydrogen sulphide is the main compound of light mercaptans, and has the drawback of having the smell of rotten eggs. Wines displaying olfactive<!-- EPO <DP n="4"> --> defects traced to the presence of H<sub>2</sub>S have concentrations of the latter varying between 0.8 and 80 µg/l (Suzzi and Tofalo, 2014). H<sub>2</sub>S can also react with other compounds present in wine, altering the aromatic profile. This is mainly produced during alcoholic fermentation, as a result of yeast action.</p>
+<p id="p0015" num="0015">Hence, use of a yeast that does not produce, or produces little hydrogen sulphide, not only allows cleaner fermentations and more fragrant wines, but also delays and/or avoids racking on completion of fermentation, allowing the wine to remain longer on the lees, with consequent enrichment of mannoproteins and other substances resulting from yeast lysis. It is known that H<sub>2</sub>S production in <i>Saccharomyces cerevisiae</i> ranges from 0 µg/litre to 300 µg/litre and that the quantity produced is a strain-dependent characteristic. Furthermore, data from the literature shows that only about 1% of oenological strains is incapable of producing H<sub>2</sub>S (Zambonelli <i>et al.,</i> 1984).</p>
+<p id="p0016" num="0016">Also, SO<sub>2</sub> production by yeasts shows broad variability. Certain strains that produce significant quantities of SO<sub>2</sub> (100-120 mg/l) also have a tendency to produce significant quantities of acetaldehyde (to defend against said antiseptic) and the result, on completion of fermentation, is a high concentration of bound SO<sub>2</sub>, which can compromise wine quality. Hence, during oenological starter strain selection operations, preference should be given to strains that produce low levels of SO<sub>2</sub> (maximum of 10-20 mg/l) (Vincenzini <i>et al.,</i> 2005).</p>
+<p id="p0017" num="0017">With regard to the production of malic acid during alcoholic fermentation, this represents an advantage in the majority of vinification processes involving quality white grapes, in that the presence of high quantities of malic acid gives an increased sensation of freshness to the resulting wine, in particular an acid sensation, considered more intense, in comparison to tartaric acid.</p>
+<p id="p0018" num="0018">An additional advantage is that the production of malic acid allows lower pH, with resulting increased sulphur dioxide activity and, in general, increased microbiological stability in addition to increased overall acidity. Said production by yeasts of oenological interest has been described in the known art for certain cryotolerant yeasts, capable of producing up to 1 g/l of malic acid during the fermentation process (Castellari <i>et al.,</i> 1994).</p>
+<p id="p0019" num="0019">Another secondary product of fermentation by yeasts is glycerol.</p>
+<p id="p0020" num="0020">After ethanol and CO<sub>2</sub>, glycerol is the compound produced in greatest quantities during alcoholic fermentation. This significantly influences the "body"<!-- EPO <DP n="5"> --> of the wine, contributing towards giving the wines the characteristics of "fullness" and "sweetness", with a perception threshold corresponding to about 5.2 g/l. The concentration of glycerol present in the wine depends on the concentration of sugars present in the must, the fermentation conditions and the strain of yeast.</p>
+<p id="p0021" num="0021">In particular, in vinification processes, <i>Saccharomyces</i> can produce from 2 to 10 g/l, depending on the yeast species and strain. Generally, S. <i>cerevisiae</i> is the yeast producing the lowest quantities of glycerol, and this is the main reason for its high ethanol yield. In reality, this compound is not a secondary fermentation product since it is derived directly from the sugars, and, strain for strain, the quantity produced is proportional to their concentration (Zambonelli <i>et al.,</i> 2000).</p>
+<p id="p0022" num="0022">Among the secondary products, even though negative, a very important role is played by acetic acid, which, during fermentation, is derived from degradation of the sugars due to the oxidation of acetaldehyde (Ribéreau-Gayon, 2000). Besides the species, the ability to produce greater or reduced quantities of acetic acid is a characteristic that varies as a function of the strain.</p>
+<p id="p0023" num="0023">Said ability to produce acetic acid is actually defined by the term fermentative purity, and is expressed as the ratio between volatile acidity formed and ethyl alcohol produced. The best strains are those that have the lowest fermentative purity value and, generally, the yeasts used for oenological ends should not produce quantities of acetic acid higher than 0.4 g/l.</p>
+<p id="p0024" num="0024">However, the volatile acidity of wines can be the result of several origins, and is not only the result of yeast activity. Indeed, the final concentration of acetic acid in wine also depends on the quality of the grapes and the vinification conditions. Acetaldehyde is the most important carbonyl compound formed during fermentation, and represents over 90% of the total wine aldehyde content. It is a normal product of alcoholic fermentation, and its content in wine can vary significantly (10-300 mg/l) depending on the yeast strain and also the vinification conditions, and the concentration of sulphur dioxide, to which the acetaldehyde is bound. Evaluation of the acetaldehyde content is used as an indicator of the degree of oxidation of the wine. A low concentration of said compound in wine gives the latter a pleasant fruity aroma; however, at increasing concentrations, it gives rise to a pungent and oxidised odour and a herb-like flavour, so as to make the wine no longer marketable when the<!-- EPO <DP n="6"> --> acetaldehyde concentration exceeds 500 mg/l.</p>
+<p id="p0025" num="0025">For white wines, the mean value is generally 80 mg/l. It is known that one of the main factors determining acetaldehyde content variability is the strain of yeast. It is likewise also known that sulphur dioxide can induce the production of acetaldehyde by yeasts due to the correlation between the resistance of the yeasts themselves to sulphur dioxide.</p>
+<p id="p0026" num="0026">The higher alcohols, generally represented in wine by n-propanol, isobutanol, amyl alcohol and 2-phenyl ethyl alcohol, are secondary yeast fermentation products, and are compounds that can significantly influence the aroma of wine. Said compounds are predominantly derived from metabolism of the aminoacids present in the must, but also from the metabolism of glucose without the involvement of precursor aminoacids. Indeed, there is no direct correlation between the quantities of aminoacids present in the must and the higher alcohols present in the wine. The production of said compounds is mainly due to the action of the yeast strains that can produce from 100 to 500 mg/l, depending on the composition of the medium, the availability of oxygen, the source of nitrogen and the initial sugar concentration. Generally, when their total concentration is below 300 mg/l, they lend a positive contribution to the complexity of the aroma, while when present in concentrations higher than 400 mg/l, they lend a negative quality to the product (Suzzi and Tofalo, 2014). The exception is 2-phenylethanol, which releases a rose-scented fragrance, and even at high concentrations contributes positively to the aroma of the wine (Vincenzini, 2005).</p>
+<p id="p0027" num="0027">During fermentation, yeasts can produce esters resulting from the condensation of acetic acid and fatty acids, predominantly medium chain, with ethanol or other alcohols present in the wine, and themselves also produced by yeast metabolism. Yeast esterase activity is very important in the vinification process since it has a powerful effect on the sensory characteristics of the wine, producing the majority and most important of the fermentation aromas. The influence of esters on wine quality can be negative and unwelcome, particularly in the case of ethyl acetate, which confers the typical vinegar (or even solvent) scent. On the other hand, the production of isoamyl acetate or isobutyl acetate is positive, as it is responsible for a fruity character.</p>
+<p id="p0028" num="0028"><patcit id="pcit0001" dnum="EP1978083A"><text>EP1978083</text></patcit> and <nplcit id="ncit0001" npl-type="s"><text>Verspohl A. et al., Appl Microbiol Biotechnol (2016) 101: 2507-2521</text></nplcit> describe Saccharomyces strains which have several of the above properties, such as the production of low amounts of H<sub>2</sub>S and high amounts of glycerol when used in fermentation processes, and which are suitable for winemaking.<!-- EPO <DP n="7"> --></p>
+<heading id="h0003"><b>Description of the invention</b></heading>
+<p id="p0029" num="0029">The aim of the invention is to provide a strain of yeast from the species<!-- EPO <DP n="8"> --> <i>Saccharomyces bayanus</i> subsp. <i>uvarum,</i> equipped with the technological and oenological characteristics allowing good fermentation of the must, allowing the production of a pleasing wine with increased and balanced aromatic complexity.</p>
+<p id="p0030" num="0030">An additional aim is to provide a strain that produces malic acid and glycerol in high quantities and, at the same time, does not produce hydrogen sulphide during alcoholic fermentation.</p>
+<p id="p0031" num="0031">A further aim of the present invention is to identify a strain of yeast suitable for use as a parent strain for obtaining yeast hybrids with oenological potential. The provision of a yeast autolysate to be used as a fermentation activator is also an aim of the present invention.</p>
+<p id="p0032" num="0032">By no means the final aim of the invention is the optimization of a perfected and rapid method for the selection of yeast strains for oenological use, particularly yeasts from the species <i>Saccharomyces cerevisiae</i> and <i>bayanus</i> isolated from flowers.</p>
+<p id="p0033" num="0033">The aforementioned aims are achieved by means of the strain of yeast as characterised in claim 1, and precisely by a strain of <i>Saccharomyces bayanus</i> subsp. <i>uvarum</i> identified as SERIUS, and deposited at the DBVPG with deposit number 36P. Also described herein, but not covered by the claimed invention, is a selection method for yeast strains for oenological use, the characteristics of which are set out subsequently, and precisely, by a selection method for yeast strains of the species <i>Saccharomyces cerevisiae, Saccharomyces bayanus</i> and <i>Saccharomyces bayanus</i> subsp. <i>uvarum,</i> adapted for alcoholic fermentation, particularly of grapes, isolated from flowers.</p>
+<p id="p0034" num="0034">The yeast strain <i>Saccharomyces bayanus</i> subsp. <i>uvarum</i> according to the invention possesses optimal oenological characteristics, both technological and qualitative, and has been isolated from flowers in an area of the Veneto region with high grape-wine producing activity. The strain has been identified by the name SERIUS, and has been deposited in accordance with the Treaty of Budapest, on 24 May 2016 with the "Industrial Yeasts Collection" DBVPG in Perugia, with deposit number DBVPG36P.</p>
+<p id="p0035" num="0035">The strain has also been selected for its essentially non-existent hydrogen sulphide production, a very rare characteristic in yeast strains of the genus<!-- EPO <DP n="9"> --> <i>Saccharomyces.</i> Indeed, on plates of Biggy agar culture medium, preferably used to verify the ability to produce H<sub>2</sub>S, the colonies are white, thus<!-- EPO <DP n="10"> --> demonstrating the strain's inability to produce this metabolite.</p>
+<p id="p0036" num="0036">Another positive aspect observed with this yeast concerns the production of glycerol. Indeed, in must, the strain produces glycerol in greater concentrations with respect to commercially available S. <i>cerevisiae</i> strains used as control. Advantageously, the quantity of glycerol produced has been analysed in white berry grape musts and red berry grape musts and, with both types of grape, the quantity of glycerol naturally produced was greater with respect to the corresponding must obtained with the commercially available reference strain. Advantageously, the wine produced using the strain according to the invention has a glycerol concentration naturally produced by the strain higher than about 8.5 g/l, preferably higher than about 9.5 g/l, more preferably higher than about 10 g/l.</p>
+<p id="p0037" num="0037">By the term "produced by the strain" (herein and in similar contexts) it is understood that the compound has been produced as a result of fermentation using the strain, and has not been added artificially.</p>
+<p id="p0038" num="0038">The strain according to the invention has also been selected for its unexpected ability to produce malic acid.</p>
+<p id="p0039" num="0039">Advantageously, the strain of the invention has the ability to produce a wine with a quantity of malic acid higher than about 0.5 g/l, preferably higher than about 1 g/l, more preferably higher than about 2 g/l. This molecule is particularly advantageous in vinification processes, particularly for quality white grape processes, since it gives the wine an increased sensation of freshness. An additional and advantageous aspect is given by the fact that a high quantity of malic acid makes it possible to have wine with lower pH, a characteristic allowing greater sulphur dioxide activity.</p>
+<p id="p0040" num="0040">Still advantageously, the strain of the invention with its unexpectedly high malic acid production makes it possible to obtain increased microbiological stability for the wine, with increased total acidity.</p>
+<p id="p0041" num="0041">Due to its technological qualities, the SERIUS strain is therefore markedly superior to the commercial strains currently available.</p>
+<p id="p0042" num="0042">Advantageously, the strain has good fermentation capacity, with mean weight loss values analogous to those observed in commercial yeasts of the species <i>Saccharomyces cerevisiae</i> and with fermentation closure times that vary as a function of the type of must used and the fermentation temperature, with durations, at optimal fermentation temperature, of between 10 to 15 days.<!-- EPO <DP n="11"> --></p>
+<p id="p0043" num="0043">Still advantageously, the strain of the invention has good fermentative capacity, even at low temperatures, particularly at temperatures between 12°C and 15°C, thus also allowing its use for the fermentation of wines at low temperatures, and hence increasing the possibility of activating specific known biochemical reactions leading to the production of aromatic compounds, adapted to improving wine quality.</p>
+<p id="p0044" num="0044">For the strain of the invention, the ability to produce acetic acid in natural white and red berry must has also been assessed, and the results obtained demonstrate that the strain SERIUS is characterised by the ability to maintain very low volatile acidity values; in particular, the values obtained are generally lower compared to the values obtained from comparative fermentations with commercially available</p>
+<heading id="h0004">S. <i>cerevisiae</i> strains.</heading>
+<p id="p0045" num="0045">The strain of the present invention has also been selected based on its so-called killer activity, namely, the ability to produce toxins that cause the death of other yeasts; indeed, in the case where mixtures of strains are used, the strains to be used must necessarily be compatible with one another, namely, incapable of producing the killer toxins that can inhibit the other strains present in the mixture. From the analysis performed, it was advantageously shown that the strain SERIUS is not capable of inhibiting other yeasts and, even more advantageously, the strain has not in turn been inhibited by any of the yeasts tested.</p>
+<p id="p0046" num="0046">The strain has been taxonomically classified at the species level by means of sequencing of the ITS (Internal Transcribed Spacer) region of the ribosomal operon, and subsequent compared by means of alignment with the homologous region available for the phylogenetically more related species of the genus <i>Saccharomyces</i> Meyen ex Rees (1870), in accordance with Vaughan-Martini &amp; Martini; said molecular analysis has allowed identification of the strain SERIUS as <i>Saccharomyces bayanus</i> subsp. <i>uvarum.</i></p>
+<p id="p0047" num="0047">The strain has also been subjected to genotypic characterisation by means of analysis of the mitochondrial DNA restriction profiles using the enzyme <i>Hinf I,</i> as described by Zilio <i>et al.</i> and reported in detail in example 1, point 1.6 and, further, by means of the use of particular molecular markers, known as microsatellites, in accordance with a method, also described in detail in example 1, point 1.6.<!-- EPO <DP n="12"> --></p>
+<p id="p0048" num="0048">If transferred to suitable culture medium under limiting nutrient conditions, the strain according to the invention is capable of sporulation. Improved conditions for inducing sporulation of the strain SERIUS are obtained in SP medium (1% potassium acetate; 0.1% yeast extract; 0.05% glucose; 1.8% agar) incubated at 25°C for 7-10 days.</p>
+<p id="p0049" num="0049">Other positive aspects found for this yeast have been observed during growth in synthetic and natural must (example 2).</p>
+<p id="p0050" num="0050">The strain of the invention has the oenological characteristics reported below: sugars consumed after 2 days (fermentative vigour): about 4-5g/100ml; sugars consumed after 7 days: about 15-17 g/100 ml; 10-15 days: duration of fermentation at optimal temperature; low foam production.</p>
+<p id="p0051" num="0051">A particularly advantageous positive aspect observed with this yeast concerns the production of H<sub>2</sub>S, which is substantially absent.</p>
+<p id="p0052" num="0052">Furthermore, the strain is resistant to an SO<sub>2</sub> concentration of at least 50, preferably 100, even more preferably 200 and ulteriorly preferably 300 ppm. The strain also has high resistance to copper, in particular it is resistant to a copper concentration of 300 µmol/l. Advantageously, said copper concentration has also been shown to be superior to the copper resistance of commercially available yeast strains, equal to about 50-100 µmol/l. Preferably, the strain is stored in frozen form (-80°C) in the presence of appropriate cryoprotective agents (40% w/w glycerol) or preserved by means of lyophilisation/desiccation. Freezing or lyophilisation/desiccation are achieved using methods known to those skilled in the art.</p>
+<p id="p0053" num="0053">The strain according to the invention may be advantageously industrialised in a cream form, desiccated form, lyophilized form, or in the form of a paste, depending on the requirements of the user.</p>
+<p id="p0054" num="0054">The strain according to the invention is adapted to being used as a food inoculum in the production of foods, obtained through alcoholic fermentation. Foods that are producible with this yeast include for example bread, milkbased products, cider, bear, spumante and wine. Other alcoholic beverages obtained from the alcoholic fermentation of other fruits or cereals, such as wheat or rice, are also however conceivable. The strain is also adapted to being used as a probiotic in dietary supplements or in foods. Preliminary characterisation tests suggest this strain is resistant to acidity and bile salts, and therefore has the possibility of surviving gastric transit.<!-- EPO <DP n="13"> --></p>
+<p id="p0055" num="0055">Advantageously, the strain S. <i>bayanus</i> subsp. <i>uvarum</i> SERIUS of the invention has been particularly suitable for the production of a yeast autolysate to be used as a fermentation activator in the production of wine and other alcoholic beverages.</p>
+<p id="p0056" num="0056">According to one preferred executive variant of the invention, the strain is used as an inoculum in vinification in order to obtain wines, for example red wines, rosé wines or white wines. In addition, it can also be used in both primary fermentation and in refermentation.</p>
+<p id="p0057" num="0057">Advantageously, use of the strain of the invention in a vinification process allows the production of a wine with pleasing and balanced aromas, with a substantially non-existent H<sub>2</sub>S concentration, high glycerol concentration and high malic acid concentration.</p>
+<p id="p0058" num="0058">Advantageously, the wine is a wine produced from grapes selected from white berry grapes and red berry grapes. In addition, said grapes may be derived from both native vine varieties and from international vine varieties.</p>
+<p id="p0059" num="0059">In particular, vinification tests performed on grapes selected from garganega, kerner, trebbiano, merlot, nerello mascalese, nero d'avola and traminer have made it possible to obtain wines with pleasing aroma and balanced flavour.</p>
+<p id="p0060" num="0060">According to the preferred embodiment of the invention, the strain SERIUS is used for the production of wine containing glycerol and malic acid, produced naturally by the strain in the following concentrations: glycerol higher than about 8.5 g/l, preferably higher than about 9.5 g/l, more preferably higher than about 10 g/l; malic acid higher than about 0.5 g/l, preferably higher than about 1 g/l, more preferably higher than about 2 g/l. The strain SERIUS can be easily cultivated and is therefore particularly suited to being used to produce biomass, even on an industrial scale, using known standard methods. Preferably, biomass production using the strain SERIUS occurs on a synthetic medium containing dextrose, yeast extract, vitamins and mineral salts, with batch-type fermentation (first 24 hours) followed by fed-batch type fermentation for a further 20-24 hours. Still preferably, growth occurs at a temperature of between 29 and 31 °C. The strain produces ethanol and is therefore particularly applicable in food fermentation. The strain is not pathogenic for humans or animals.</p>
+<p id="p0061" num="0061">Another aspect of the invention concerns a food inoculum consisting of the strain of <i>Saccharomyces bayanus</i> identified as SERIUS (DBVPG 36P).<!-- EPO <DP n="14"> --></p>
+<p id="p0062" num="0062">Preferably, the food inoculum is a wine starter.</p>
+<p id="p0063" num="0063">An additional aspect, not covered by the claimed invention, is a wine obtainable by means of use according to the invention. Advantageously, the wine is a wine obtained from the fermentation of grapes selected from white berry grapes and red berry grapes. Advantageously, said grapes may come from both native vine varieties and from international vine varieties.</p>
+<p id="p0064" num="0064">Cultures of the yeast <i>Saccharomyces bayanus</i> subsp. <i>uvarum</i> SERIUS, obtainable by means of multiplication of the strain SERIUS of the present invention, capable of being used as food inoculates in the production of foods obtained through alcoholic fermentation, are also to be understood as being protected by the present invention. According to the preferred executive variant of the present invention, said strains are adapted to being used in alcoholic fermentation processes for the production of wine, i.e. in vinification processes.</p>
+<p id="p0065" num="0065">Particularly preferred are cultures obtainable from the multiplication of the strain SERIUS of the invention, adapted to being used for the production of wine produced from grapes selected from white berry grapes and red berry grapes, wherein said grapes may come from both native vine varieties and from international vine varieties.</p>
+<p id="p0066" num="0066">Preferably, said cultures are adapted to being used for the production of a wine containing glycerol and malic acid, produced naturally by the strains in the following concentrations: glycerol higher than about 8.5 g/l, preferably higher than about 9.5 g/l, more preferably higher than about 10 g/l; malic acid higher than about 0.5 g/l, preferably higher than about 1 g/l, more preferably higher than about 2 g/l.</p>
+<p id="p0067" num="0067">Independently of their species, it is known that yeasts can reproduce sexually in order to ensure the survival of the species, creating genetic diversity, and hybridisation is an essential part of this sexual reproduction cycle, which can exist in nature as it is or be induced in the laboratory. The aforementioned hybridisation allows the attainment of novel yeast hybrids originating from a parental strain, according to a process that is absolutely non-GMO. Consequently, the establishment of hybrid strains is a mode of evolution for natural yeasts.</p>
+<p id="p0068" num="0068">The yeast strains obtained through hybridisation of the strain SERIUS with a yeast strain belonging to the same species, or rather a <i>Saccharomyces</i><!-- EPO <DP n="15"> --> strain, by means of a so-called intraspecies hybridisation, are not covered by the claimed invention.</p>
+<p id="p0069" num="0069">However, it is not excluded that strains may be obtained by hybridisation of the strain SERIUS with yeast strains from other species, by means of interspecies hybridisation. Another aspect not covered by the claimed invention concerns a selection method for yeast strains from flowers, particularly <i>Saccharomyces cerevisiae, Saccharomyces bayanus</i> and <i>Saccharomyces bayanus</i> subsp. <i>uvarum</i> strains, adapted to alcoholic fermentation, particularly of grapes. Obviously, sampling from flowers may be also transferred to other strain isolation matrices (for example fruit, medicinal herbs).</p>
+<p id="p0070" num="0070">The selection method preferably consists of a step for yeast isolation from flowers, preferably a yeast identification step, a seeding phase for the isolated yeasts on plates, in order to identify strains that are non-producers or low producers of H<sub>2</sub>S, and an inoculation phase in must and the vinification of grapes with the purpose of studying their technological and quality characteristics.</p>
+<p id="p0071" num="0071">Preferably, the grapes used are grapes selected from white berry grapes or red berry grapes.</p>
+<p id="p0072" num="0072">The wine obtained during the aforementioned vinification step is analysed and the concentrations of glycerol and malic acid present therein are determined. A sensory evaluation is also performed with the aim of identifying unpleasant odours traceable to the presence of sulphurated compounds. Particular attention is paid to the identification of reduction defects due to the presence of H<sub>2</sub>S. Subsequently, strains are selected with enhanced fermentative vigour, producing wines where the concentrations of glycerol and malic acid meet the following limits: glycerol higher than about 8.5 g/l, preferably higher than about 9.5 g/l, more preferably higher than about 10 g/l; malic acid higher than about 0.5 g/l, preferably higher than about 1 g/l, more preferably higher than about 2 g/l; furthermore, sensory examination must give no olfactory perception of reduction defects due to the presence of H<sub>2</sub>S, i.e. preferably less than 1-1.5 µg/l.</p>
+<p id="p0073" num="0073">Advantageously, the analysis of this specific combination of compounds has<!-- EPO <DP n="16"> --> been shown to be very suitable for the replacement of further and laborious<!-- EPO <DP n="17"> --> characterisation processes, and the finding of strains producing wines with pleasing and balanced aroma.</p>
+<p id="p0074" num="0074">In one preferred variant not covered by the claimed invention, the selection method for yeast strains from the species <i>Saccharomyces</i> previously specified as adapted to alcoholic fermentation, particularly of grapes, consists of the following steps:
+<ol id="ol0001" compact="compact" ol-style="">
+<li>a) sampling of flowers, preferably in spring and in areas of high grape-wine producing activity, and even more preferably away from wineries, in order to avoid contamination with commercial yeasts used in wineries that may be present not just in the wineries, but also in the adjoining areas;</li>
+<li>b) fermentation of the samples on suitable substrates and cultivation of the fermented samples on isolation media, preferably containing bromocresol green;</li>
+<li>c) if the isolation medium contains bromocresol green, the identification of presumed yeast strains of the genus <i>Saccharomyces</i> based on colony morphology and colour, and their discrimination from <i>non-Saccharomyces</i> yeasts of lesser oenological interest;</li>
+<li>d) identification of isolates belonging to the genus <i>Saccharomyces</i> by means of genetic analysis of the yeast colonies isolated in step b) or step c); advantageously, said genetic analysis, performed using molecular methods, allows both identification of the species of origin and identification of the various strains, or rather individuals, present within a given species;</li>
+<li>e) laboratory fermentation of the strains selected in step d) on synthetic must and/or on natural must, and subsequent selection of the strains with the most interesting technological and oenological characteristics, and at the same time seeding the strains in Biggy agar medium in order to identify those that are non-producers or low producers of H<sub>2</sub>S;</li>
+<li>f) the winery vinification of the strains selected in step e) and selection of the most suitable strains based on the results obtained through chemical analysis of the wine obtained, preferably including pH, residual sugars, alcohol, total acidity, volatile acidity parameters, and, in particular, the quantity of glycerol, malic acid and preferably hydrogen sulphide, where the latter is assessed by olfactory means.</li>
+</ol></p>
+<p id="p0075" num="0075">Preferably the collection of flowers and their subsequent processing is performed by avoiding touching the flowers with the hands and with a periodic<!-- EPO <DP n="18"> --> sterilisation of the sampling equipment, for steps a) and b), with the aim of limiting contamination as much as possible.</p>
+<p id="p0076" num="0076">By way of non-limiting example, on arrival in the laboratory, the flowers are transferred into sterile flasks containing 200 ml of synthetic must or other culture medium capable of sustaining the growth of any yeasts present. The addition of an antibiotic to each sample, in order to avoid the proliferation of any bacteria, has been shown to be particularly useful.</p>
+<p id="p0077" num="0077">Advantageously, the preparations are overlaid with sterile paraffin oil in order to avoid the growth of surface mould.</p>
+<p id="p0078" num="0078">Samples with obvious fermentation underway are processed for isolation of the yeasts in the subsequent step b) or c). A very suitable and preferred isolation medium for said step is WL agar isolation medium (4.0 g/l yeast extract, 5.0 g/l tryptone, 50 g/l glucose, 550 mg/l potassium phosphate monobasic, 425 mg/l potassium chloride, 125 mg/l calcium chloride, 125 mg/l magnesium sulphate, 2.5 mg/l ferrous chloride, 2.5 mg/l manganese sulphate, 22 mg/l bromocresol green, 20 g/l agar, final pH 5.5 ± 2). The salient characteristic of this medium is that it contains a dye, bromocresol green, which is capable of being absorbed by yeasts to a varying extent. It is therefore possible to characterise the microorganism based on colony morphology and the colour it assumes. Strains belonging to the genus <i>Saccharomyces</i> absorb bromocresol green poorly, and therefore their colonies assume a colour that varies from cream to green, allowing their discrimination from any <i>non-Saccharomyces</i> yeasts. Advantageously, the use of bromocresol green and the execution of step c) allows simple reduction, and in an initial step of the method, the number of strains to be subjected to the subsequent step d).</p>
+<p id="p0079" num="0079">Still advantageously, prior to step d), the colonies to be analysed are subjected to purification by means of one or more reseeding passes on suitable medium. Preferably, any reseeding occurs on WL agar growth medium. Advantageously, the procedure is repeated in order to guarantee that each isolate definitely originates from a single colony.</p>
+<p id="p0080" num="0080">Step c) is already somewhat selective for the isolation of strains belonging to the group <i>Saccharomyces,</i> but in addition to <i>Saccharomyces</i> there are also other strains that, in this culture medium, may display morphology and colouring very similar to those of the <i>Saccharomyces</i> yeasts. Therefore, in<!-- EPO <DP n="19"> --> order to eliminate these strains from the samples and give definitive identification to the isolates, it is preferable to perform step d) which, by means of a rapid and simple to execute genetic method, makes it possible to perform screening on a large number of isolates, thus eliminating yeasts not belonging to the genus <i>Saccharomyces</i> and identifying any strains (=individuals) that should be present within the framework of a given species.</p>
+<p id="p0081" num="0081">Advantageously, said preliminary genetic evaluation reduces the risk of performing the technological characterisation on yeasts that are potentially not adapted to the production of wine and, equally advantageously, allows the exclusion of any multiple copies of the same strain that may be present in a given sample.</p>
+<p id="p0082" num="0082">Still advantageously, said preliminary analysis avoids the need to technologically and chemically test strains not belonging to the genus <i>Saccharomyces.</i></p>
+<p id="p0083" num="0083">Further advantageously, said analysis makes it possible to perform the technological and oenological characterisation only on truly diverse strains, and not on any possible multiple copies of the same strain.</p>
+<p id="p0084" num="0084">In order to confirm the origin of the genus <i>Saccharomyces</i> and hence exclude yeasts belonging to different genuses, and hence uninteresting from the oenological viewpoint, it is preferable to use genetic characterisation envisaging the use of PCR technique. Both specific PCR techniques, capable of recognising the various yeast species, and RAPD-PCR (Random Amplified Polymorphic DNA analysis) techniques, known to those skilled in the sector, may be used for this purpose.</p>
+<p id="p0085" num="0085">Advantageously, in cases where the use of PCR methods does not allow reliable strain identification, it is possible to resort to potential analysis of the rDNA sequence; this analysis makes it possible to distinguish between S. <i>cerevisiae, S. bayanus</i> and S. <i>bayanus</i> subsp. <i>uvarum,</i> species that are phylogenetically closely related and with high oenological interest, with such metabolic characteristics as to allow them to survive and grow in wine. Preferably, sequencing concerns the ITS (Internal Transcribed Spacer) region of the ribosomal operon.</p>
+<p id="p0086" num="0086">According to the preferred embodiment of the method not covered by the claimed invention, the genetic characterisation at strain level in step d) is performed by means of analysis of the mitochondrial DNA restriction profile, obtained by enzyme<!-- EPO <DP n="20"> --> digestion of total DNA. Enzyme digestion of total DNA is preferably performed using the enzyme <i>Hinf</i> I. Genetic analysis of this type makes it possible to bring yeasts together into groups, each of which with a different genetic profile, common to all isolates belonging to that grouping. Based on the genetic data collected, it is then possible to perform screening on the yeasts collected, avoiding the selection of multiple copies of the same strain.</p>
+<p id="p0087" num="0087">According to one executive variant of the method not covered by the claimed invention, genetic characterisation by means of restriction polymorphism analysis of mitochondrial DNA is used in association with microsatellite analysis. Microsatellites are repetitive sequences of non-coding DNA, consisting of very short repeat units (1-5 bp) arranged as tandem repeats that can be used as molecular markers of genetic loci. According to the preferred embodiment of the method not covered by the claimed invention, microsatellite analysis for the species <i>Saccharomyces bayanus</i> subsp. <i>uvarum</i> is performed on the eight most variable loci, described by Masneuf-Pomarede <i>et al.</i> in 2016. The analysis conditions are subsequently reported in detail (example 1, point 1.6). Generally, a reaction is performed for each locus named: SuYIL130W (16 allelic forms), SuYHR102W (8 allelic forms), SuYKR045C (10 allelic forms), SuHTZ1PLB3 (7 allelic forms), SuARS409 (5 allelic forms), SuYHR042-043 (5 allelic forms), SuYBR049C (5 allelic forms), SuYGC170W (4 allelic forms). Subsequently, for definition of the profile and characterisation of the strains, amplification of PCR products relating to the eight aforementioned loci is performed in addition to agarose gel electrophoresis migration, in accordance with known methods.</p>
+<p id="p0088" num="0088">Advantageously, according to the method, subsequently to step d), optionally, for characterisation of the yeasts S. <i>bayanus</i> subsp. <i>uvarum,</i> a further analysis of the eight loci described above is performed by means of multiplex PCR, preferably two multiplex-PCR reactions, defined as multiplex PCR1 and multiplex PCR2. By means of said multiplex PCR, it is possible to simultaneously amplify more than a locus at a time. In particular, multiplex PCR1 and multiplex PCR2 allow the amplification of three and five loci respectively. In detail, multiplex PCR1 allows analysis of the DNA-microsatellite profile for the loci SuYIL130W, SuYHR102W and SuYGC170W, while multiplex-PCR2 makes it possible to obtain the DNA-microsatellite profile for the loci SuYKR045C, SuHTZ1PLB3, SuARS409, SuYHR042-043 and<!-- EPO <DP n="21"> --></p>
+<p id="p0089" num="0089">To further characterise the yeasts S. <i>bayanus</i> subsp. <i>uvarum,</i> prior to step e), it is possible to perform further genetic analysis by means of capillary electrophoresis based on amplification of the four loci characterised by a greater number of allelic forms, selected in accordance with data reported in the literature.</p>
+<p id="p0090" num="0090">Advantageously, said characterisation makes it possible to define the exact size of the PCR products for the loci considered.</p>
+<p id="p0091" num="0091">The loci considered are the following: SuYIL130W, SuYHR102W, SuYKR045C and SuHTZ1PLB3.</p>
+<p id="p0092" num="0092">Preferably, for the characterisation of step e) at the technological level, the following parameters are evaluated: fermentative vigour, understood to be the quantity of sugar consumed after 2 and after 7 days, and the duration of fermentation, the foam production capacity, type of growth, hydrogen sulphide production (on Biggy Agar medium), glycerol production, volatile acidity production, the ability to produce or degrade malic acid, the olfactory profile of the fermentates.</p>
+<p id="p0093" num="0093">With regard to the progression of the fermentations, these are monitored on samples of synthetic must and/or natural must, preferably on both types of must. The main parameters monitored preferably concern: pH, residual sugars, alcohol level, total acidity, volatile acidity, fermentative vigour, glycerol production, production/degradation of malic acid, olfactory profile. The inwinery vinification tests for step f) are preferably performed on musts from white berry grapes and musts from red berry grapes.</p>
+<p id="p0094" num="0094">Advantageously, analysis of fermentation progression for the strains on musts from both white berry and red berry makes it possible to check progression and evaluate the activity of a strain for the production of white, rosé and red wines, according to specific needs.</p>
+<p id="p0095" num="0095">Particularly advantageously, the vinification phase of the method is performed on grapes from both native vine varieties and international vine varieties. Preferably, the concentrations of glycerol, malic acid and hydrogen sulphide are determined in the wine obtained, and wineproducing strains are selected where the concentrations meet the following limits: glycerol higher than about 8.5 g/l, preferably higher than about 9.5 g/l,<!-- EPO <DP n="22"> --> more preferably higher than about 10 g/l; malic acid higher than about 0.5 g/l, preferably higher than about 1 g/l, more preferably higher than about 2 g/l; and hydrogen sulphide below the olfactory perception level, i.e. less than about 1-1.5 µg/l. Advantageously, the wine produced using the strain SERIUS is characterised by the presence of high quantities of glycerol and malic acid, while the quantity of hydrogen sulphide is particularly reduced. In particular, the wine produced by the strain of the invention has glycerol in quantities exceeding 9 g/l, malic acid in quantities exceeding 1.1 g/l and H<sub>2</sub>S in quantities less than the olfactory level of perception.</p>
+<p id="p0096" num="0096">The technological and chemical parameters examined can vary depending on the characteristics required for the strain and also depend on the type of wine to be produced using the strain selected. Selection of the most suitable strains at the end of the individual steps is preferably a combined selection considering all the results of all analyses performed.</p>
+<p id="p0097" num="0097">This selection method guarantees the screening of multiple yeast isolates originating from flowers.</p>
+<p id="p0098" num="0098">Particular examples of execution of the individual steps have been described in examples 1, 2 and 3. The individual steps should be considered as being independent from one another, i.e. the execution of step d) in a defined manner does not automatically imply, for example, the execution of step e) precisely as reported in the examples. The parameters within a step (e.g. the types of technological parameters under test) may be altered independently of the other steps.</p>
+<heading id="h0005"><b>Brief description of the figures</b></heading>
+<p id="p0099" num="0099">
+<ul id="ul0002" list-style="dash" compact="compact">
+<li><figref idref="f0001">Figure 1</figref> reports the phylogenetic tree constructed based on ITS sequences, wherein the strain SERIUS of the present invention is indicated as P16063.BI01 ;</li>
+<li><figref idref="f0001">figure 2</figref> shows the mitochondrial DNA restriction profile for the strain of the invention, obtained using the enzyme <i>Hinf</i> I<i>,</i> indicated by the number 1), wherein the profile indicated as M corresponds to the molecular weight marker;</li>
+<li><figref idref="f0002">figure 3</figref> shows the agarose gel electrophoresis results for each PCR product obtained by amplification of DNA from the strain SERIUS at the eight most variable loci. The loading order shown is as follows:<br/>
+(M) O'Gene Ruler marker (Fermentas),<!-- EPO <DP n="23"> -->
+<ol id="ol0002" compact="compact" ol-style="">
+<li>(1) PCR product for the locus SuYIL130W,</li>
+<li>(2) PCR product for the locus SuYHR1 02W,</li>
+<li>(3) PCR product for the locus SuYKR045C,</li>
+<li>(4) PCR product for the locus SuHTZ1 PLB3,</li>
+<li>(5) PCR product for the locus SuARS409,</li>
+<li>(6) PCR product for the locus SuYHR042-043,</li>
+<li>(7) PCR product for the locus SuYBR049C,</li>
+<li>(8) PCR product for the locus SuYGCI70W,</li>
+<li>(9) the profile obtained by loading the amplification products obtained in the individual PCR reactions for the loci SuYIL130W, SuYHR102W, SuYKR045C and SuHTZ1PLB3 in the same well,</li>
+<li>(10) the profile obtained by loading the amplification products obtained in the individual PCR reactions for the loci SuARS409, SuYHR042-043, SuYBR049C and SuYGCI70W in the same well;</li>
+</ol></li>
+<li><figref idref="f0002">figure 4</figref> reports the electrophoresis result for the 2 multiplex PCR reactions on 3% agarose gel, in the loading order corresponding to the following:<br/>
+(M) O'Gene Ruler marker (Fermentas),
+<ol id="ol0003" compact="compact" ol-style="">
+<li>(1) multiplex-PCR1 product for the loci SuYIL130W, SuYHR102W and SuYGC170W,</li>
+<li>(2) multiplex-PCR2 product for the loci SuYKR045C, SuHTZ1 PLB3, SuARS409, SuYHR042-043 and SuYBR049C.</li>
+</ol></li>
+</ul></p>
+<heading id="h0006"><b>EXAMPLE 1</b> - <b>Isolation and selection steps for the strain according to the invention</b></heading>
+<heading id="h0007"><i><u>1.1 Sampling</u></i></heading>
+<p id="p0100" num="0100">Sampling has been conducted by collecting flowers during springtime, in an area of the Veneto region with high grape-wine producing activity.</p>
+<p id="p0101" num="0101">Collection has been performed by avoiding touching the flowers with bare hand at all stages, and periodically sterilising the scissors, with the aim of limiting contamination as much as possible.</p>
+<p id="p0102" num="0102">Flowers have been harvested in sufficient quantities to fill an appropriately sealed sterile bag. Upon arrival in the laboratory, the flowers have been transferred into sterile flasks containing 200 ml of synthetic must, previously prepared in distilled water, adjusted to pH 3.2 using KOH, and sterilised by filtration, the composition of which is reported in table 1.<!-- EPO <DP n="24"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title><b>Table 1</b></title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="35mm"/>
+<colspec colnum="2" colname="col2" colwidth="39mm"/>
+<colspec colnum="3" colname="col3" colwidth="23mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle">Component category</entry>
+<entry align="center" valign="middle">Component</entry>
+<entry align="center" valign="middle">Dose per litre</entry></row></thead>
+<tbody>
+<row>
+<entry morerows="4" align="center" valign="middle">Macroelements</entry>
+<entry valign="middle">CaCl<sub>2</sub></entry>
+<entry valign="middle">0.1 g</entry></row>
+<row>
+<entry valign="middle">NaCl</entry>
+<entry valign="middle">0.1 g</entry></row>
+<row>
+<entry valign="middle">KH<sub>2</sub>PO<sub>4</sub></entry>
+<entry valign="middle">1 g</entry></row>
+<row>
+<entry valign="middle">MgSO<sub>4</sub> × 7H<sub>2</sub>O</entry>
+<entry valign="middle">0.5 g</entry></row>
+<row>
+<entry valign="middle">Tartaric acid</entry>
+<entry valign="middle">3 g</entry></row>
+<row>
+<entry morerows="6" align="center" valign="middle">Microelements</entry>
+<entry valign="middle">NaMoO<sub>4</sub> × 2H<sub>2</sub>O</entry>
+<entry valign="middle">0.2 mg</entry></row>
+<row>
+<entry valign="middle">ZnSO<sub>4</sub> × 7H<sub>2</sub>O</entry>
+<entry valign="middle">0.4 mg</entry></row>
+<row>
+<entry valign="middle">H<sub>3</sub>BO<sub>3</sub></entry>
+<entry valign="middle">0.5 mg</entry></row>
+<row>
+<entry valign="middle">CuSO<sub>4</sub> × 5H<sub>2</sub>O</entry>
+<entry valign="middle">0.04 mg</entry></row>
+<row>
+<entry valign="middle">Kl</entry>
+<entry valign="middle">0.1 mg</entry></row>
+<row>
+<entry valign="middle">FeCl<sub>3</sub> × 6H<sub>2</sub>O</entry>
+<entry valign="middle">0.4 mg</entry></row>
+<row>
+<entry valign="middle">MnSO<sub>4</sub> × H<sub>2</sub>O</entry>
+<entry valign="middle">0.4 mg</entry></row>
+<row>
+<entry morerows="6" align="center" valign="middle">Vitamins</entry>
+<entry valign="middle">Pyridoxine hydrochloride</entry>
+<entry valign="middle">400 µg</entry></row>
+<row>
+<entry valign="middle">Thiamine hydrochloride</entry>
+<entry valign="middle">400 µg</entry></row>
+<row>
+<entry valign="middle">Inosite</entry>
+<entry valign="middle">2000 µg</entry></row>
+<row>
+<entry valign="middle">Biotin</entry>
+<entry valign="middle">20 µg</entry></row>
+<row>
+<entry valign="middle">Calcium pantothenate</entry>
+<entry valign="middle">400 µg</entry></row>
+<row>
+<entry valign="middle">Nicotinamide</entry>
+<entry valign="middle">400 µg</entry></row>
+<row>
+<entry valign="middle">p-Aminobenzoic acid</entry>
+<entry valign="middle">200 µg</entry></row>
+<row>
+<entry morerows="4" align="center" valign="middle">Varying components</entry>
+<entry valign="middle">(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub></entry>
+<entry valign="middle">0.3 g</entry></row>
+<row>
+<entry valign="middle">(NH<sub>4</sub>)<sub>2</sub>HPO<sub>4</sub></entry>
+<entry valign="middle">0.3 g</entry></row>
+<row>
+<entry valign="middle">Glucose</entry>
+<entry valign="middle">200 g</entry></row>
+<row>
+<entry valign="middle">Casein hydrolysate</entry>
+<entry valign="middle">0.2 g</entry></row>
+<row>
+<entry valign="middle">Malic acid</entry>
+<entry valign="middle">2 g</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0103" num="0103">In addition, the synthetic must has been supplemented with the antibiotic, oxytetracycline, at a concentration of 0.1 mg/ml, so as to avoid any bacterial proliferation. The preparations have then been overlaid with sterile paraffin oil in order to avoid the formation of mould. The flasks have been sealed using a bored silicone bung, into which a Pasteur pipette, curved at the upper end, has been inserted. This has the purpose of avoiding potential contamination with microorganisms present in the environment, and allowing CO<sub>2</sub> to vent with no<!-- EPO <DP n="25"> --> loss of water vapour. The flasks have been placed in an incubator at a constant temperature of between 22°C and 25°C.</p>
+<p id="p0104" num="0104">Progress of the fermentation has been monitored by measuring the drop in weight for each flask (an indicator of fermentation of the sugars to CO<sub>2</sub> and hence the progress of the fermentation).</p>
+<heading id="h0008"><i><u>1.2 Isolation of the strains from the samples</u></i></heading>
+<p id="p0105" num="0105">On completion of fermentation, 10 ml of product have been removed from each flask, a first 1:10 serial dilution has been performed, from which 1 ml has been removed and 5 subsequent serial dilutions (1:10) in Ringer's solution have been performed; 100 µl of the final three dilutions have then been seeded by spreading on WL agar medium (4.0 g/l yeast extract, 5.0 g/l tryptone, 50 g/l glucose, 550 mg/l potassium phosphate monobasic, 425 mg/l potassium chloride, 125 mg/l calcium chloride, 125 mg/l magnesium sulphate, 2.5 mg/l iron chloride, 2.5 mg/l manganese sulphate, 22 mg/l bromocresol green, 20 g/l agar) suitably sterilised by autoclave and adjusted to a final pH of 5.5 ± 2. The plates have then been incubated at 28°C for 3 days under aerobic conditions. In this medium, yeast colonies of the genus <i>Saccharomyces</i> appear with varying colour ranging from cream to light green, with a smooth-opaque surface and a creamy consistency. Yeast counting has revealed a <i>Saccharomyces</i> concentration of about 10<sup>7</sup> CFU/ml, with the presence of both white and green colonies, with a smooth-opaque surface and a creamy consistency.</p>
+<heading id="h0009"><i><u>1.3 Purification and storage of the isolates</u></i></heading>
+<p id="p0106" num="0106">Colonies picked from the isolation plates have been reseeded on WL agar growth medium, the composition of which has been specified at point 1.2 of example 1. The procedure has been repeated at least twice, so as to be certain that each isolate originates from a single colony. The pure cultures obtained following the final passage on plates have been picked using a sterile loop and then cryopreserved at -80°C following the addition of glycerol to 40% (w/w). On plates, the strain, subsequently identified as <i>Saccharomyces bayanus</i> subsp. <i>uvarum,</i> appears as small colonies, with an intense green colour, while strains attributable to the species <i>Saccharomyces cerevisiae</i> come from larger colonies, with a creamy consistency, coloured white or tending towards light green.</p>
+<heading id="h0010"><i><u>1.4 Identification of the isolates at the species and strain level</u></i></heading><!-- EPO <DP n="26"> -->
+<p id="p0107" num="0107">The presumed colonies of the yeasts <i>Saccharomyces</i> have been identified at the species level by means of RAPD-PCR using the M13 primer, according to the method described by Andrighetto <i>et al.</i> in 2000. In the analysis and subsequent processing of amplification profiles for the yeasts isolated from flowers, Type and reference strains from various yeast species of oenological and non-oenological interest have also been included. Comparison of the profiles has made it possible to recognise yeasts attributable to the species S. <i>cerevisiae</i> and S. <i>bayanus.</i></p>
+<p id="p0108" num="0108">To be able to discriminate at the strain level, two techniques have been used:
+<ol id="ol0004" compact="compact" ol-style="">
+<li>1) Analysis of mitochondrial DNA restriction profiles;</li>
+<li>2) Analysis of microsatellites;</li>
+</ol>
+which shall be described in detail in the executive examples in section 1.6.</p>
+<p id="p0109" num="0109">It is not excluded that the implementation of said genetic techniques may be performed using methods in themselves known to those skilled in the sector and that, therefore, the technical indications described herein may vary from that reported in the aforementioned examples.</p>
+<heading id="h0011"><i><u>1.5 Technological characterisation of the strains isolated</u></i></heading>
+<p id="p0110" num="0110">In order to assess the fermentation characteristics, each of the yeasts selected has been subjected to fermentation testing, using natural or synthetic must according to the composition described in table 1.</p>
+<p id="p0111" num="0111">The inoculum has been prepared in synthetic or natural must (depending on whether the fermentative vigour evaluation test was performed on synthetic must or natural must), starting from a wire loop pick taken from a slant or plate growth culture, and has been then incubated at 25°C for 24 hours. Subsequently, this has been inoculated in the region of 10% in synthetic or natural must with a final volume of 200 ml, in flasks sealed with a centre-bored silicone bung, into which has been inserted a Pasteur pipette, bent so as to allow the venting of carbon dioxide with no loss of water vapour.</p>
+<p id="p0112" num="0112">The drop in weight due to the loss of CO<sub>2</sub> from the flasks, set up for fermentation testing, has been monitored daily until completion of fermentation, corresponding to the phase where the drop in weight has remained constant for several days. For each isolate grown, the ability to produce foam during fermentation has been assessed by means of visual evaluation. Again, by means of visual evaluation, the growth method has been assessed for the strain during fermentation (pulverulent or flocculent).<!-- EPO <DP n="27"> --></p>
+<p id="p0113" num="0113">Finally, for the evaluation of hydrogen sulphide production, each isolate has been seeded on Biggy agar medium (Bismuth Glucose Glycine Yeast Agar: 5 g/l bismuth ammonium citrate, 3 g/l sodium sulphite, 10 g/l glucose, 10 g/l glycine, 1 g/l yeast extract, 16 g/l agar, pH 6.8 ± 0.2) and incubated at 25°C for 5 days, after which, the colour of the colonies grown on the plates has been assessed. The quantity of hydrogen sulphide is directly proportional to the intensity of the colour, due to the creation of bismuth sulphite (dark brown if present in significant quantities). The technological characterisation of the isolates from flowers has made it possible to identify certain <i>Saccharomyces</i> yeast strains, including the strain <i>Saccharomyces bayanus</i> subsp. <i>uvarum</i> SERIUS, endowed with promising oenological characteristics.</p>
+<heading id="h0012"><i><u>1.6 Genetic characterisation at the strain level</u></i></heading>
+<p id="p0114" num="0114">In order to achieve characterisation at the strain level, two techniques have been used:
+<ul id="ul0003" list-style="dash" compact="compact">
+<li>Analysis of mitochondrial DNA restriction profiles;</li>
+<li>Analysis of microsatellites.</li>
+</ul></p>
+<p id="p0115" num="0115">Analysis of restriction profiles has been performed by following the method reported in Zilio <i>et al.</i> in 1998, using the restriction enzyme <i>Hinf I.</i> Separation of the linear DNA fragments has been obtained through electrophoresis on 1 % agarose gel. Comparison of the restriction profiles has been performed using the software GelComparll (Applied Maths, Belgium) which, by means of the construction of a matrix, is capable of calculating the level of similarity between profiles and expressing the results graphically as a dendrogram. The mitochondrial DNA restriction profile for the strain SERIUS of the invention, obtained using the enzyme <i>Hinf I,</i> is shown in <figref idref="f0001">figure 2</figref>.</p>
+<p id="p0116" num="0116">Microsatellite analysis envisages the use of PCR technique with primers that are complimentary to regions of the DNA known as microsatellites, which are small sequences of tandem repeat DNA (from one to six bases) varying in the number of repetitions, and may also be localised inside genomic coding regions (Legras, 2005). They are extremely variable in length, as a result of DNA replication errors, and therefore display a certain degree of polymorphism between individuals in the same species. Microsatellite polymorphism analysis is a highly reproducible method because specific primers and high annealing temperatures are used for their amplification. For characterisation of the strain S. <i>bayanus</i> subsp. <i>uvarum</i> SERIUS, the eight most variable loci described by<!-- EPO <DP n="28"> --> Masneuf-Pomarede <i>et al.</i> in 2016 have been considered, and a reaction has been performed for each locus named: SuYIL130W (16 allelic forms), SuYHR102W (8 allelic forms), SuYKR045C (10 allelic forms), SuHTZ1PLB3 (7 allelic forms), SuARS409 (5 allelic forms), SuYHR042-043 (5 allelic forms), SuYBR049C (5 allelic forms), SuYGC170W (4 allelic forms).</p>
+<p id="p0117" num="0117">The reaction has been conducted in a volume of 20 µl using 1 U of DNA polymerase in 1x buffer, with the addition of magnesium chloride (MgCI<sub>2</sub>) at a concentration of 1.5 mM, nucleotide triphosphates (dNTPs) at a concentration of 200 µM and 1 µM for each of the primers for each reaction.</p>
+<p id="p0118" num="0118">Amplification has been performed in a Mastercycler Nexus Gradient (Eppendorf) with a unique thermal program for all amplification reactions, with the exception of the annealing temperature (Ta). The thermal protocol used is reported in table 2 below (the number of repetitions for each cycle is reported in parentheses).
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title><b>Table 2</b></title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="23mm"/>
+<colspec colnum="2" colname="col2" colwidth="23mm"/>
+<colspec colnum="3" colname="col3" colwidth="17mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col3" align="center" valign="middle"><b>Amplification protocol</b></entry></row>
+<row>
+<entry align="center" valign="middle">cycle</entry>
+<entry align="center" valign="middle">temperature</entry>
+<entry align="center" valign="middle">duration</entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">Cycle1 (1x)</entry>
+<entry valign="middle">94°C</entry>
+<entry valign="middle">5 min</entry></row>
+<row>
+<entry morerows="2" valign="middle">Cycle2 (30x)</entry>
+<entry valign="middle">94°C</entry>
+<entry valign="middle">30 s</entry></row>
+<row>
+<entry valign="middle">Ta °C</entry>
+<entry valign="middle">30 s</entry></row>
+<row>
+<entry valign="middle">72°C</entry>
+<entry valign="middle">30 s</entry></row>
+<row>
+<entry valign="middle">Cycle3 (1x)</entry>
+<entry valign="middle">72°C</entry>
+<entry valign="middle">10 min</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0119" num="0119">The Ta used has been set at 55°C for PCR reactions concerning the loci SuYIL130W, SuYHR102W and SuYGC170W; while the aforementioned Ta has been set at 50°C for the PCR reactions concerning the loci SuYKR045C, SuHTZ1 PLB3, SuARS409, SuYHR042-043 and SuYBR049C.</p>
+<p id="p0120" num="0120">Amplification and agarose gel electrophoresis migration of the PCR products relating to the eight most variable loci in S. <i>bayanus</i> var. <i>uvarum,</i> have made it possible, for the strain of <i>Saccharomyces bayanus subsp. uvarum</i> SERIUS, to define the unique and characteristic profile reposted in <figref idref="f0002">figure 3</figref>.</p>
+<p id="p0121" num="0121">In addition to the individual PCR reaction, the eight aforementioned loci have<!-- EPO <DP n="29"> --> also been analysed by means of two multiplex reactions, capable of the simultaneous amplification of three and five loci, respectively.</p>
+<p id="p0122" num="0122">In particular, two multiplex-PCR reactions have been used: multiplex-PCR1 allows analysis of the DNA-microsatellite profile for loci SuYIL130W, SuYHR102W and SuYGC170W, and multiplex-PCR2 allows attainment of the DNA-microsatellite profile for loci SuYKR045C, SuHTZ1 PLB3, SuARS409, SuYHR042-043 and SuYBR049C.</p>
+<p id="p0123" num="0123">The two multiplex-PCR reactions have been conducted in a volume of 20 µl, using 1.5 U and 1 U of DNA polymerase respectively in 1 x buffer with the addition of magnesium chloride (MgCl<sub>2</sub>) at a concentration of 1.5 mM and nucleotide triphosphates (dNTPs) at a concentration of 200 µM. The concentration of the primers has been optimised as follows.</p>
+<p id="p0124" num="0124">In the case of multiplex-PCR1, the two primers for locus SuYIL130W have been added at a concentration of 0.25 µM, the two primers for locus SuYHR102W at a concentration of 0.75 µM, while the two primers for locus SuYGC170W at a concentration of 1 µM.</p>
+<p id="p0125" num="0125">In the case of multiplex-PCR2, the two primers for loci SuYKR045C, SuHTZ1 PLB3, SuARS409, SuYHR042-043 and SuYBR049C have been applied at a concentration of 0.5 µM.</p>
+<p id="p0126" num="0126">Amplification has been performed in a Mastercycler Nexus Gradient (Eppendorf) with a unique thermal program for all amplification reactions, with the exception of the annealing temperature (Ta). The thermal program used is reported in table 3 below (the number of repetitions for each cycle is reported in parentheses).
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title><b>Table 3</b></title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="23mm"/>
+<colspec colnum="2" colname="col2" colwidth="23mm"/>
+<colspec colnum="3" colname="col3" colwidth="17mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col3" align="center" valign="middle">Amplification protocol</entry></row>
+<row>
+<entry align="center" valign="middle">cycle</entry>
+<entry align="center" valign="middle">temperature</entry>
+<entry align="center" valign="middle">duration</entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">Cycle 1 (1x)</entry>
+<entry valign="middle">94°C</entry>
+<entry valign="middle">5 min</entry></row>
+<row>
+<entry morerows="2" valign="middle">Cycle 2 (30x)</entry>
+<entry valign="middle">94°C</entry>
+<entry valign="middle">30 s</entry></row>
+<row>
+<entry valign="middle">Ta °C</entry>
+<entry valign="middle">30 s</entry></row>
+<row>
+<entry valign="middle">72°C</entry>
+<entry valign="middle">30 s</entry></row>
+<row>
+<entry valign="middle">Cycle 3 (1x)</entry>
+<entry valign="middle">72°C</entry>
+<entry valign="middle">10 min</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0127" num="0127">In the case of multiplex-PCR1 the Ta used has been 55°C, while in the case of multiplex-PCR 2 it has been 50°C.<!-- EPO <DP n="30"> --></p>
+<p id="p0128" num="0128">The profiles obtained from the aforementioned analysis are reported in <figref idref="f0002">figure 4</figref>.</p>
+<p id="p0129" num="0129">Furthermore, characterisation of the strain of the invention has also been performed by means of capillary electrophoresis based on amplification of the four loci which, according to data in the literature, are characterised by a greater number of allelic forms.</p>
+<p id="p0130" num="0130">Advantageously, said characterisation has made it possible to define the exact size of the PCR products for the 4 loci considered.</p>
+<p id="p0131" num="0131">The loci considered are the following: SuYIL130W, SuYHR102W, SuYKR045C and SuHTZ1 PLB3. Amplification has been performed according to the protocol reported previously, with the single variant consisting of modification of the 5' end of the forward primers with a fluorescent molecule. In particular, SuYIL130W-FW and SuYKR045C-FW have been labelled with Hexachlorofluorescein (HEX), while SuHTZ1 PLB3-FW and SuYHR102W-FW have been labelled with 6-carboxyfluorescein (FAM).</p>
+<p id="p0132" num="0132">Analysis of the capillary profile has been performed using the D filter, with internal reference ROX. Interpretation has been performed using the software Peak Scanner 2.0, with the following parameters: "size standard: GS500 (-250)" and "analysis method: sizing default - NPP". The results obtained, namely the sizes of the fragments, are reported in table 4 and are expressed in base pairs (bp) with an error of +/- 1 bp.
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title><b>Table 4</b></title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="69mm"/>
+<colspec colnum="2" colname="col2" colwidth="22mm"/>
+<colspec colnum="3" colname="col3" colwidth="25mm"/>
+<colspec colnum="4" colname="col4" colwidth="24mm"/>
+<colspec colnum="5" colname="col5" colwidth="25mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"><i>Strain</i></entry>
+<entry align="center" valign="middle"><i>SuYIL 130W</i></entry>
+<entry align="center" valign="middle"><i>SuYHR102W</i></entry>
+<entry align="center" valign="middle"><i>SuYKR045C</i></entry>
+<entry align="center" valign="middle"><i>SuHTZ1 PLB3</i></entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle"><i>Saccharomyces bayanus</i> var. <i>uvarum</i> SERIUS</entry>
+<entry align="center" valign="middle">179</entry>
+<entry align="center" valign="middle">219</entry>
+<entry align="center" valign="middle">300</entry>
+<entry align="center" valign="middle">259</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0133" num="0133">It is not excluded that the implementation of said genetic techniques may be performed using methods in themselves known to those skilled in the sector and that, therefore, the aforementioned technical indications may vary from that reported.</p>
+<heading id="h0013"><b>Example</b> 2 - <b>Technological characterisation of the yeast</b></heading>
+<heading id="h0014"><i><u>2.1 Production of hydrogen sulphide</u></i></heading><!-- EPO <DP n="31"> -->
+<p id="p0134" num="0134">Production of hydrogen sulphide by the strain SERIUS has been evaluated by means of incubation at 25°C for 5 days in Biggy Agar medium (1 g/l yeast extract, 10 g/l glycine, 10 g/l dextrose, 5 g/l bismuth ammonium citrate, 3 g/l sodium sulphite, 16 g/l agar). On completion of incubation, in this medium, the colonies appear with different colours, based on the quantity of hydrogen sulphide they produce. Colonies that are dark brown in colour indicate high hydrogen sulphide production, colonies that are clear brown-beige in colour indicate moderate production, while white colonies are characterised in that they are incapable of producing it. Following incubation on Biggy agar medium, colonies of the strain of the invention appear white in colour, thus, under the conditions tested, the strain is incapable of producing H<sub>2</sub>S. Testing has also been repeated by analysis of hydrogen sulphide production in Lead Acetate Agar medium (15 g/l peptone, 5 g/l proteose peptone, 1 g/l dextrose, 0.2 g/l lead acetate, 0.08 g/l sodium thiosulphate, 15 g/l agar) incubated at 25°C, and the results obtained have been analogous to those obtained with Biggy agar medium.</p>
+<heading id="h0015"><i><u>2.2 Fermentative vigour</u></i></heading>
+<p id="p0135" num="0135">The fermentative vigour of the strain of the invention has been evaluated in both synthetic must, the characteristics of which are described in example 1, point 1.1, and in various types of natural white berry grapes and red berry grapes must. The inoculum has been prepared in synthetic or natural must (depending on whether the fermentative vigour evaluation test was performed on synthetic must or natural must), starting from a wire loop pick taken from a slant or plate growth culture, and has been then incubated at 25°C for 24 hours. Subsequently, this has been inoculated in the region of 10% in synthetic or natural must with a final volume of 200 ml, in flasks sealed with a centre-bored silicone bung, into which has been inserted a Pasteur pipette, bent so as to allow the venting of carbon dioxide with no loss of water vapour. This way it has been possible to follow the progress of the fermentation by means of monitoring the drop in weight due to the production of CO<sub>2</sub>, an indicator of fermentation of the sugars. Incubation has been conducted at a constant temperature of 25°C, and evaluation of the weight loss has been performed every 1-2 days, until achieving constant weight. Using the data collected, growth curves have been prepared, and the fermentative vigour of the strain <i>Saccharomyces bayanus var. uvarum</i> SERIUS has been compared<!-- EPO <DP n="32"> --> with the fermentative vigour of commercial strains of <i>Saccharomyces bayanus</i> and <i>cerevisiae.</i> In the various fermentation tests, the strain of the invention has displayed a good ability for fermentation, with mean loss of weight values at 2 and 7 days that are analogous to those observed with commercial yeasts of the species <i>Saccharomyces cerevisiae,</i> and with fermentation completion times varying depending on the type of must used (from 10 to 15 days).</p>
+<p id="p0136" num="0136">The fermentative vigour of the strain has also been evaluated in natural must obtained from Trebbiano grapes, by means of incubation at temperatures of 12, 15 and 24°C. Analysis reveals that the strain has good fermentative ability, even at temperatures of 12°C and 15°C.</p>
+<p id="p0137" num="0137">Advantageously, this latter characteristic of the strain of the invention allows its use in wine fermentations at low temperatures, thus increasing the possibility of activating specific biochemical reactions leading to the production of aromatic compounds having a positive influence on the organoleptic qualities of the wine produced.</p>
+<heading id="h0016"><i><u>2.3 Production of glycerol</u></i></heading>
+<p id="p0138" num="0138">Glycerol production has been evaluated by means of HPLC (Jasco RI 930 detector, RezexTM ROA-Organic Acid H+ 8% column (300 X 7.8 mm) in natural white berry grapes and red berry grapes must inoculated with the strain SERIUS, with incubation at 25°C until completion of fermentation.</p>
+<p id="p0139" num="0139">In addition, comparative tests have been set up where a commercial strain of <i>Saccharomyces cerevisiae</i> has been inoculated. The results obtained are reported in table 5, where the quantity of glycerol produced is expressed in g/l. It may be observed that the strain of the invention shows significant glycerol production, higher on average than the quantity of glycerol produced in the same must by commercial yeast used as a comparison.
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<title><b>Table 5</b></title>
+<tgroup cols="7">
+<colspec colnum="1" colname="col1" colwidth="40mm"/>
+<colspec colnum="2" colname="col2" colwidth="22mm"/>
+<colspec colnum="3" colname="col3" colwidth="15mm"/>
+<colspec colnum="4" colname="col4" colwidth="20mm"/>
+<colspec colnum="5" colname="col5" colwidth="15mm"/>
+<colspec colnum="6" colname="col6" colwidth="32mm"/>
+<colspec colnum="7" colname="col7" colwidth="23mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry namest="col2" nameend="col4" align="center" valign="middle">White berry musts</entry>
+<entry namest="col5" nameend="col7" align="center" valign="middle">Red berry musts</entry></row>
+<row>
+<entry align="center" valign="middle">Strain</entry>
+<entry align="center" valign="middle">Garganega</entry>
+<entry align="center" valign="middle">Kerner</entry>
+<entry align="center" valign="middle">Trebbiano</entry>
+<entry align="center" valign="middle">Merlot</entry>
+<entry align="center" valign="middle">Nerello Mascalese</entry>
+<entry align="center" valign="middle">Nero d'Avola</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">SERIUS</entry>
+<entry align="center" valign="middle">8.8</entry>
+<entry align="center" valign="middle">10.6</entry>
+<entry align="center" valign="middle">8.7</entry>
+<entry align="center" valign="middle">9.1</entry>
+<entry align="center" valign="middle">9.8</entry>
+<entry align="center" valign="middle">9.5</entry></row>
+<row>
+<entry align="center" valign="middle">Commercial <i>S</i>. <i>cerevisiae</i></entry>
+<entry align="center" valign="middle">6.8</entry>
+<entry align="center" valign="middle">7.5</entry>
+<entry align="center" valign="middle">5.8</entry>
+<entry align="center" valign="middle">8.1</entry>
+<entry align="center" valign="middle">8.1</entry>
+<entry align="center" valign="middle">6.5</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="33"> --></p>
+<heading id="h0017"><i><u>2.4 Production of malic acid</u></i></heading>
+<p id="p0140" num="0140">The strain of the invention has been tested for the ability to produce malic acid in natural white berry and red berry must, following incubation at 25°C until fermentation completion. In particular, the quantity of malic acid present in the various musts before and after fermentation using the aforementioned strain has been assessed by means of HPLC Jasco UV 975 detector, ResexTM ROA-Organic Acid H+ 8% column (300 X 7,8 mm). Analogously to example 2.3, comparative tests have been conducted with an inoculum of the commercial strain of <i>Saccharomyces cerevisiae</i> used previously. The results obtained are reported in table 6 where the quantity of malic acid is expressed in g/l. It may be observed that the strain SERIUS is capable of producing malic acid, even though with varying efficiency, in 5 of the 6 musts tested, unlike the commercial strain, which is characterised by the ability to partially degrade malic acid.
+<tables id="tabl0006" num="0006">
+<table frame="all">
+<title><b>Table 6</b></title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="31mm"/>
+<colspec colnum="2" colname="col2" colwidth="33mm"/>
+<colspec colnum="3" colname="col3" colwidth="40mm"/>
+<colspec colnum="4" colname="col4" colwidth="63mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle">Must</entry>
+<entry align="center" valign="middle">Prior to fermentation</entry>
+<entry align="center" valign="middle">End of fermentation SERIUS</entry>
+<entry align="center" valign="middle">End of fermentation commercial <i>S</i>. <i>cerevisiae</i></entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Garganega</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">3.9</entry>
+<entry align="center" valign="middle">1.2</entry></row>
+<row>
+<entry align="center" valign="middle">Kerner</entry>
+<entry align="center" valign="middle">3.0</entry>
+<entry align="center" valign="middle">4.0</entry>
+<entry align="center" valign="middle">2.1</entry></row>
+<row>
+<entry align="center" valign="middle">Trebbiano</entry>
+<entry align="center" valign="middle">1.8</entry>
+<entry align="center" valign="middle">1.3</entry>
+<entry align="center" valign="middle">1.5</entry></row>
+<row>
+<entry align="center" valign="middle">Merlot</entry>
+<entry align="center" valign="middle">2.3</entry>
+<entry align="center" valign="middle">3.0</entry>
+<entry align="center" valign="middle">1.2</entry></row>
+<row>
+<entry align="center" valign="middle">Nerello Mascalese</entry>
+<entry align="center" valign="middle">2.8</entry>
+<entry align="center" valign="middle">3.1</entry>
+<entry align="center" valign="middle">1.4</entry></row>
+<row>
+<entry align="center" valign="middle">Nero d'Avola</entry>
+<entry align="center" valign="middle">1.5</entry>
+<entry align="center" valign="middle">2.5</entry>
+<entry align="center" valign="middle">1.2</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0018"><i><u>2.5 Production of volatile acidity</u></i></heading>
+<p id="p0141" num="0141">The ability to produce acetic acid has been evaluated by means of HPLC Jasco RI 930 detector, RezexTM ROA-Organic Acid H+ 8% (300 X 7,8 mm) column in natural white berry and red berry must inoculated with the strain SERIUS, incubated at 25°C until completion of fermentation. Comparative tests inoculated with a commercial strain of <i>Saccharomyces cerevisiae</i> have also been set up. The results obtained are reported in table 7, where the acetic acid production values, expressed in g/l, are reported, demonstrating that the strain of the invention is characterised by the ability to produce little volatile acidity.<!-- EPO <DP n="34"> -->
+<tables id="tabl0007" num="0007">
+<table frame="all">
+<title><b>Table 7</b></title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="31mm"/>
+<colspec colnum="2" colname="col2" colwidth="33mm"/>
+<colspec colnum="3" colname="col3" colwidth="40mm"/>
+<colspec colnum="4" colname="col4" colwidth="63mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle">Must</entry>
+<entry align="center" valign="middle">Prior to fermentation</entry>
+<entry align="center" valign="middle">End of fermentation SERIUS</entry>
+<entry align="center" valign="middle">End of fermentation commercial <i>S</i>. <i>cerevisiae</i></entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Garganega</entry>
+<entry align="center" valign="middle">0</entry>
+<entry align="center" valign="middle">0.11</entry>
+<entry align="center" valign="middle">0.29</entry></row>
+<row>
+<entry align="center" valign="middle">Kerner</entry>
+<entry align="center" valign="middle">0</entry>
+<entry align="center" valign="middle">0.22</entry>
+<entry align="center" valign="middle">0.18</entry></row>
+<row>
+<entry align="center" valign="middle">Trebbiano</entry>
+<entry align="center" valign="middle">0</entry>
+<entry align="center" valign="middle">0.16</entry>
+<entry align="center" valign="middle">0.23</entry></row>
+<row>
+<entry align="center" valign="middle">Merlot</entry>
+<entry align="center" valign="middle">0</entry>
+<entry align="center" valign="middle">0.30</entry>
+<entry align="center" valign="middle">0.39</entry></row>
+<row>
+<entry align="center" valign="middle">Nerello Mascalese</entry>
+<entry align="center" valign="middle">0</entry>
+<entry align="center" valign="middle">0.22</entry>
+<entry align="center" valign="middle">0.46</entry></row>
+<row>
+<entry align="center" valign="middle">Nero d'Avola</entry>
+<entry align="center" valign="middle">0</entry>
+<entry align="center" valign="middle">0.1</entry>
+<entry align="center" valign="middle">0.18</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0019"><i><u>2.6 Killer activity</u></i></heading>
+<p id="p0142" num="0142">The presence of killer activity in the yeast SERIUS has been studied using YEPD agar medium, prepared by means of the prior inoculation and overnight incubation of a culture of a sensitive indicator strain. Operatively, after having left said plates including the indicator strain to dry, 10 µl of a fresh culture of the strain SERIUS has been deposited on them and the same plates have been left to incubate for 48 hours at 25°C. Subsequently, on completion of the incubation period, killer activity has been detected by the appearance of "inhibition halos" (an inhibition halo is understood as being an area with the absence of growth) around the colony of the strain under test.</p>
+<p id="p0143" num="0143">With regard to the strain SERIUS, killer activity has been tested in relation to 10 oenological yeast strains belonging to the species S. <i>cerevisiae</i> and S. <i>bayanus</i> respectively.</p>
+<p id="p0144" num="0144">The analysis has shown that none of the yeasts tested has been inhibited by the strain of the invention. In addition, none of the 10 yeasts tested has demonstrated the ability to inhibit the strain SERIUS.</p>
+<heading id="h0020"><i><u>2.7 Resistance to copper and resistance to sulphur dioxide</u></i></heading>
+<p id="p0145" num="0145">Copper resistance has been assayed by means of growth in synthetic YNB (Yeast Nitrogen Base) medium, characterised by the absence of aminoacids and the presence of 6.7 g/l sulphate, 20 g/l glucose and 20 g/l agar, supplemented with various concentrations of CuSO<sub>4</sub> (50, 100, 200, 300 µmol/l respectively). With regard to sulphur dioxide resistance, this has been evaluated by means of growth in agarised must supplemented with potassium<!-- EPO <DP n="35"> --> metabisulphite in such concentrations as to give a final SO<sub>2</sub> concentration essentially corresponding to 50, 100, 200 and 300 ppm. Both analyses described above have been performed by means of incubation of the strain SERIUS in previously prepared media for 48 hours at 26°C, and a visible growth has been evaluated on plates.</p>
+<p id="p0146" num="0146">The results obtained are reported in table 8, expressed as MTC (Maximum Tolerated Concentration, of copper or sulphur dioxide respectively). As may be observed from the following table, the strain SERIUS demonstrates the ability to grow in the presence of 300 ppm SO<sub>2</sub> and 300 µmol/l copper.</p>
+<p id="p0147" num="0147">By way of comparison, the aforementioned tests have also been conducted on 5 commercially available strains of S. <i>cerevisiae</i> for oenological use.
+<tables id="tabl0008" num="0008">
+<table frame="all">
+<title><b>Table 8</b></title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="42mm"/>
+<colspec colnum="2" colname="col2" colwidth="28mm"/>
+<colspec colnum="3" colname="col3" colwidth="35mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle">Strain</entry>
+<entry align="center" valign="middle">MTC SO<sub>2</sub> (ppm)</entry>
+<entry align="center" valign="middle">MTC CuSO<sub>4</sub> (µmol/|)</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">SERIUS</entry>
+<entry align="center" valign="middle">300</entry>
+<entry align="center" valign="middle">300</entry></row>
+<row>
+<entry align="center" valign="middle">Commercial <i>S</i>. <i>cerevisiae</i> 1</entry>
+<entry align="center" valign="middle">300</entry>
+<entry align="center" valign="middle">50</entry></row>
+<row>
+<entry align="center" valign="middle">Commercial <i>S</i>. <i>cerevisiae 2</i></entry>
+<entry align="center" valign="middle">300</entry>
+<entry align="center" valign="middle">50</entry></row>
+<row>
+<entry align="center" valign="middle">Commercial <i>S</i>. <i>cerevisiae 3</i></entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">50</entry></row>
+<row>
+<entry align="center" valign="middle">Commercial <i>S</i>. <i>cerevisiae 4</i></entry>
+<entry align="center" valign="middle">300</entry>
+<entry align="center" valign="middle">100</entry></row>
+<row>
+<entry align="center" valign="middle">Commercial <i>S</i>. <i>cerevisiae 5</i></entry>
+<entry align="center" valign="middle">300</entry>
+<entry align="center" valign="middle">100</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0021"><i><u>2.8 Tolerance to ethanol</u></i></heading>
+<p id="p0148" num="0148">Ethanol tolerance has been assayed using agarised must including varying concentrations of ethanol, corresponding to 12, 14, 16 and 18% respectively. The strain SERIUS has been incubated in said medium for 48 hours at 26°C, on completion of which, visible growth has been evaluated on plates.</p>
+<p id="p0149" num="0149">The analysis shows that the strain SERIUS has an MTC value for ethanol equal to 16% vol/vol.<!-- EPO <DP n="36"> --></p>
+<heading id="h0022"><i><u>2.9 Carbon source use</u></i></heading>
+<p id="p0150" num="0150">The ability of the strain SERIUS to assimilate/ferment various carbon source compounds has been evaluated by means of growth of the aforementioned strain in media containing yeast extract (10 g/l), peptone (20 g/l) and sugar/organic acid at a concentration of 20 g/l.</p>
+<p id="p0151" num="0151">The analysis has shown that the strain SERIUS is capable of using such organic compounds as galactose, raffinose, maltose and gluconic acid.</p>
+<heading id="h0023"><i><u>2.10 Volatile compound production and aromatic profile</u></i></heading>
+<p id="p0152" num="0152">The production of acetaldehyde, methyl acetate, ethyl acetate and higher alcohols has been evaluated on completion of fermentation in samples of Trebbiano must inoculated and fermented using the strain SERIUS, and in samples of the same must inoculated and fermented with a commercial <i>Saccharomyces cerevisiae</i> yeast. Determination of the volatile compounds has been conducted by means of gas chromatography, injecting samples of suitably distilled wine directly into a ZB-WAX Plus polar column (stationary phase of polyethylene glycol, FID - Flame Ionization Detector).</p>
+<p id="p0153" num="0153">The results obtained, expressed in mg/l, are reported in Table 9.
+<tables id="tabl0009" num="0009">
+<table frame="all">
+<title><b>Table 9</b></title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="30mm"/>
+<colspec colnum="2" colname="col2" colwidth="18mm"/>
+<colspec colnum="3" colname="col3" colwidth="18mm"/>
+<thead>
+<row>
+<entry align="center" valign="top"><b>Metabolite (mg/l)</b></entry>
+<entry align="center" valign="top"><b>SERIUS</b></entry>
+<entry align="center" valign="top"><b>COMM 1</b></entry></row></thead>
+<tbody>
+<row>
+<entry align="center">Acetaldehyde</entry>
+<entry align="center">52</entry>
+<entry align="center">42</entry></row>
+<row>
+<entry align="center">Methyl acetate</entry>
+<entry align="center">&lt;2</entry>
+<entry align="center">&lt;2</entry></row>
+<row>
+<entry align="center">Ethyl acetate</entry>
+<entry align="center">41</entry>
+<entry align="center">25</entry></row>
+<row>
+<entry align="center">Methanol</entry>
+<entry align="center">0.05</entry>
+<entry align="center">0.04</entry></row>
+<row>
+<entry align="center">2-Butanol</entry>
+<entry align="center">&lt;2</entry>
+<entry align="center">&lt;2</entry></row>
+<row>
+<entry align="center">N-Propanol</entry>
+<entry align="center">55</entry>
+<entry align="center">23</entry></row>
+<row>
+<entry align="center">Isobutanol</entry>
+<entry align="center">43</entry>
+<entry align="center">40</entry></row>
+<row>
+<entry align="center">Isoamyl acetate</entry>
+<entry align="center">&lt;2</entry>
+<entry align="center">&lt;2</entry></row>
+<row>
+<entry align="center">N-Butanol</entry>
+<entry align="center">&lt;2</entry>
+<entry align="center">&lt;2</entry></row>
+<row>
+<entry align="center">Isoamyls</entry>
+<entry align="center">69</entry>
+<entry align="center">120</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0154" num="0154">The strain SERIUS produces slightly higher quantities of acetaldehyde with respect to those produced by the commercial yeast used for comparison, concentrations however that are not compromising for the quality of the wines. Indeed, it is known that a low concentration of said compound in wine gives a pleasing fruity aroma, while at increasing concentrations, the wine has a<!-- EPO <DP n="37"> --> tendency to release a pungent and irritant odour, so as to become unmarketable when the acetaldehyde concentration exceeds 500 mg/l.</p>
+<p id="p0155" num="0155">With regard to higher alcohols, the strain SERIUS produces N-propanol in greater quantities compared to the commercial reference strain, while it produces similar quantities of isobutanol; however, these alcohols do not play a significant olfactory role in wine.</p>
+<p id="p0156" num="0156">On the other hand, in comparison to the commercial S. <i>cerevisiae</i> strain, the strain SERIUS produces a lower quantity of isoamyl alcohol; the latter higher alcohol plays an important role as it results in the so-called "amylic" odour, which is considered very negative from an olfactory viewpoint.</p>
+<p id="p0157" num="0157">The aromatic profile of the strain SERIUS has been evaluated by means of the solid phase extraction (SPE) technique used on Trebbiano grapes must, obtained following incubation with the aforementioned strain at 25°C for a length of time sufficient to reach the completion of fermentation. Furthermore, analogously, two commercial S. <i>cerevisiae</i> strains have been assayed by way of comparison.</p>
+<p id="p0158" num="0158">Operatively, 10 ml of each strain sampled (SERIUS, and the two commercial strains) have been diluted with 30 ml of water and spiked with the internal standard (1-heptanol) and absorbed onto the SPE C18 column. Elution has been performed using dichloromethane, and the eluate, reduced to a small volume, has been injected into the Shimadzu GC2010/QP2010 GC/MS system. Identification of the resulting compounds has been performed by means of searching the latest versions of the Whiley and NBS libraries available at the time of preparation of the present application.</p>
+<p id="p0159" num="0159">From the present analysis, it is demonstrated that the strain of the invention allows the attainment of a wine with concentrations of fatty acids (isovaleric acid, hexanoic acid, octanoic acid, butanoic acid, decanoic acid) that are on average 2-3 fold less than those detected in wines obtained with the two commercial strains. It is known that certain medium and long-chain fatty acids (C6, C8, C10, C12) can have inhibitory effects with regard to the fermentative activity of yeasts. In particular, even at low concentrations (a few milligrams/ litre), decanoic acid (C10) shows significant antagonistic activity with regard to fermentation processes.</p>
+<p id="p0160" num="0160">An additional characteristic differentiating the strain SERIUS from the two commercial strains used by way of comparison is the significantly higher<!-- EPO <DP n="38"> --> production (30 fold greater on average) of phenyl ethyl esters of octanoic acid, volatile compounds giving the aroma typical of green cocoa. Finally, the wine obtained with the yeast SERIUS shows reduced concentrations of pyrazine and piperazine, molecules responsible for herb and plant aromas.</p>
+<heading id="h0024"><b>Example 3</b> - <b>Oenological characterisation of the yeast, vinification tests</b></heading>
+<p id="p0161" num="0161">The strain of the invention has been tested by means of winery vinification tests on red berry grapes and white berry grapes musts.</p>
+<p id="p0162" num="0162">The production process used has been the fed-batch type, followed by the concentration of the culture by means of centrifugation. Then, a yeast biomass has been prepared in cream form with a dry substance content essentially equal to 22%, and a yeast concentration of about 10 billion CFU/g.</p>
+<p id="p0163" num="0163">For subsequent inoculation of the must, the biomass has been resuspended in a vinous suspension consisting of yeast, must and activators.</p>
+<p id="p0164" num="0164">In particular, for use in a 5000-litre tank, 1 kg of cream-form biomass of the yeast SERIUS has been suspended at a temperature of 25°C in 200 litres of must, supplemented with activators at the working concentrations recommended by the manufacturer, and known commercially. The suspension has been kept in motion using a stirrer or racking pump for 2/4 hours. Subsequently, said suspension has been added to the must by means of racking.</p>
+<heading id="h0025"><i><u>3.1 Test using Traminer grape must with must acidification</u></i></heading>
+<p id="p0165" num="0165">The yeast of the invention has been tested with Traminer (white berry) grape must in a winery in a 50 hl tank.</p>
+<p id="p0166" num="0166">The yeast, prepared in fresh cream form, has been used at a dose of 20 g/hl. The addition to the must of 100 g/hl of yeast autolysate and 140 g/hl of tartaric acid has been followed by inoculation with the strain SERIUS, prepared previously according to the method described in the general section. Fermentation has been conducted at 13°C for a period of 19 days.</p>
+<p id="p0167" num="0167">Table 10 reports the analytical data concerning the must prior to yeast inoculation and the wine on completion of fermentation. It may be observed how the strain produces advantageously high quantities of malic acid and glycerol, and at the same time, shows low volatile acidity production.</p>
+<p id="p0168" num="0168">With regard to the aromatic profile, on completion of fermentation, greater floral complexity is noted, synergistic with the terpene profile, in comparison to commercial yeast.<!-- EPO <DP n="39"> -->
+<tables id="tabl0010" num="0010">
+<table frame="all">
+<title><b>Table 10</b></title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="27mm"/>
+<colspec colnum="2" colname="col2" colwidth="14mm"/>
+<colspec colnum="3" colname="col3" colwidth="14mm"/>
+<thead>
+<row>
+<entry align="center" valign="top"/>
+<entry align="center" valign="top"><b>Must</b></entry>
+<entry align="center" valign="top"><b>Wine</b></entry></row></thead>
+<tbody>
+<row>
+<entry align="center">Total acidity g/l</entry>
+<entry align="center">4.80</entry>
+<entry align="center">6.57</entry></row>
+<row>
+<entry align="center">pH</entry>
+<entry align="center">3.47</entry>
+<entry align="center">3.46</entry></row>
+<row>
+<entry align="center">Malic acid g/l</entry>
+<entry align="center">1.09</entry>
+<entry align="center">1.92</entry></row>
+<row>
+<entry align="center">Citric acid g/l</entry>
+<entry align="center">0.12</entry>
+<entry align="center">0.2</entry></row>
+<row>
+<entry align="center">Lactic acid g/l</entry>
+<entry align="center">0.10</entry>
+<entry align="center">0.22</entry></row>
+<row>
+<entry align="center">Glucose g/l</entry>
+<entry align="center">88.1</entry>
+<entry align="center">0.4</entry></row>
+<row>
+<entry align="center">Fructose g/l</entry>
+<entry align="center">106.9</entry>
+<entry align="center">6.5</entry></row>
+<row>
+<entry align="center">Succinic acid g/l</entry>
+<entry align="center">0.07</entry>
+<entry align="center">0.99</entry></row>
+<row>
+<entry align="center">Glycerol g/l</entry>
+<entry align="center">3.47</entry>
+<entry align="center">11.45</entry></row>
+<row>
+<entry align="center">Acetic acid g/l</entry>
+<entry align="center">0.21</entry>
+<entry align="center">0.09</entry></row>
+<row>
+<entry align="center">Ethanol %</entry>
+<entry align="center">2.82</entry>
+<entry align="center">14.11</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0026"><i><u>3.2 Test using Traminer grape must without must acidification</u></i></heading>
+<p id="p0169" num="0169">The yeast SERIUS has been tested with Traminer (white berry) grape must in a winery in a 100 hl tank. The yeast has been prepared in fresh form (cream) and used at a dose of 20 g/hl. Preparation of the inoculum has been carried out as described previously. Prior to inoculation, 90 g/hl of yeast autolysate have been added to the must. The must has not been acidified with tartaric acid. Fermentation has been conducted at 17°C for a period of 7 days.</p>
+<p id="p0170" num="0170">Table 11 reports the analytical data concerning the must prior to yeast inoculation and the wine on completion of fermentation.</p>
+<p id="p0171" num="0171">The results obtained highlight the ability of the strain SERIUS to produce high quantities of glycerol and low volatile acidity. With respect to the previous example in Traminer must, wherein malic acid production has been observed, in this case, malic acid production is not observed. It should be noted that the must in example 3.1 had been acidified with tartaric acid, while the must in this example has not been subjected to supplementing with tartaric acid. Hence, the production of malic acid by the strain SERIUS seems to be correlated with tartaric acid acidification of the must.</p>
+<p id="p0172" num="0172">Olfactory analysis confirms the results highlighted in the example described at point 3.1.<!-- EPO <DP n="40"> -->
+<tables id="tabl0011" num="0011">
+<table frame="all">
+<title><b>Table 11</b></title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="27mm"/>
+<colspec colnum="2" colname="col2" colwidth="14mm"/>
+<colspec colnum="3" colname="col3" colwidth="14mm"/>
+<thead>
+<row>
+<entry align="center" valign="top"/>
+<entry align="center" valign="top"><b>Must</b></entry>
+<entry align="center" valign="top"><b>Wine</b></entry></row></thead>
+<tbody>
+<row>
+<entry align="center">Total acidity g/l</entry>
+<entry align="center">6.70</entry>
+<entry align="center">6.29</entry></row>
+<row>
+<entry align="center">pH</entry>
+<entry align="center">3.26</entry>
+<entry align="center">3.30</entry></row>
+<row>
+<entry align="center">Malic acid g/l</entry>
+<entry align="center">1.24</entry>
+<entry align="center">1.10</entry></row>
+<row>
+<entry align="center">Citric acid g/l</entry>
+<entry align="center">0.16</entry>
+<entry align="center">0.27</entry></row>
+<row>
+<entry align="center">Lactic acid g/l</entry>
+<entry align="center"/>
+<entry align="center">0.23</entry></row>
+<row>
+<entry align="center">Glucose g/l</entry>
+<entry align="center">81.5</entry>
+<entry align="center">0.3</entry></row>
+<row>
+<entry align="center">Fructose g/l</entry>
+<entry align="center">100.3</entry>
+<entry align="center">5.7</entry></row>
+<row>
+<entry align="center">Succinic acid g/l</entry>
+<entry align="center"/>
+<entry align="center">0.55</entry></row>
+<row>
+<entry align="center">Glycerol g/l</entry>
+<entry align="center">3.54</entry>
+<entry align="center">10.15</entry></row>
+<row>
+<entry align="center">Acetic acid g/l</entry>
+<entry align="center">0.08</entry>
+<entry align="center">0.15</entry></row>
+<row>
+<entry align="center">Ethanol %</entry>
+<entry align="center">2.72</entry>
+<entry align="center">13.10</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0027"><u>3.3 <i>Test using Garganega grape must with must acidification</i></u></heading>
+<p id="p0173" num="0173">The strain SERIUS has been tested with Garganega (white berry) grape must in a winery in a 150 hl tank. The yeast has been prepared in fresh form (cream) and used at a dose of 20 g/hl. Preparation of the inoculum has been carried out as described above. Prior to inoculation, 120 g/hl of yeast autolysate and 120 g/hl of tartaric acid have been added to the must. Fermentation has been conducted at 16°C for a duration of 15 days.</p>
+<p id="p0174" num="0174">The results obtained are reported in table 12. The ability of the strain SERIUS to produce malic acid, high quantities of glycerol and low volatile acidity is highlighted.</p>
+<p id="p0175" num="0175">With regard to the aromatic profile, marked floral notes with a hint of glycine are reported.
+<tables id="tabl0012" num="0012">
+<table frame="all">
+<title><b>Table 12</b></title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="27mm"/>
+<colspec colnum="2" colname="col2" colwidth="13mm"/>
+<colspec colnum="3" colname="col3" colwidth="14mm"/>
+<thead>
+<row>
+<entry align="center" valign="top"/>
+<entry align="center" valign="top"><b>Must</b></entry>
+<entry align="center" valign="top"><b>Wine</b></entry></row></thead>
+<tbody>
+<row>
+<entry align="center">Total acidity g/l</entry>
+<entry align="center">4.72</entry>
+<entry align="center">8.85</entry></row>
+<row>
+<entry align="center">pH</entry>
+<entry align="center">3.53</entry>
+<entry align="center">3.27</entry></row>
+<row>
+<entry align="center">Malic acid g/l</entry>
+<entry align="center">0.97</entry>
+<entry align="center">2.70</entry></row>
+<row>
+<entry align="center">Citric acid g/l</entry>
+<entry align="center">0.16</entry>
+<entry align="center">0.23</entry></row>
+<row>
+<entry align="center">Lactic acid g/l</entry>
+<entry align="center">0.01</entry>
+<entry align="center">0.24</entry></row>
+<row>
+<entry align="center">Glucose g/l</entry>
+<entry align="center">80.6</entry>
+<entry align="center">0.3</entry></row>
+<row>
+<entry align="center">Fructose g/l</entry>
+<entry align="center">90.4</entry>
+<entry align="center">9.2</entry></row>
+<row>
+<entry align="center">Succinic acid g/l</entry>
+<entry align="center">0.02</entry>
+<entry align="center">1.36</entry></row><!-- EPO <DP n="41"> -->
+<row>
+<entry align="center">Glycerol g/l</entry>
+<entry align="center">1.55</entry>
+<entry align="center">10.34</entry></row>
+<row>
+<entry align="center">Acetic acid g/l</entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.16</entry></row>
+<row>
+<entry align="center">Ethanol %</entry>
+<entry align="center">1.21</entry>
+<entry align="center">11.23</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0028"><u>3.4 <i>Testing using Garganega grape must without must acidification</i></u></heading>
+<p id="p0176" num="0176">The strain SERIUS has been tested with Garganega (white berry) grape must in a winery in a 100 hl tank. The yeast has been prepared in fresh form (cream) and used at a dose of 20 g/hl. Preparation of the inoculum has been carried out as described above. Prior to inoculation, 120 g/hl of yeast autolysate have been added to the must. The must has been acidified with tartaric acid. Fermentation has been conducted at 16°C for a period of 12 days.</p>
+<p id="p0177" num="0177">Table 13 reports the results obtained with the must prior to inoculation, and of the wine on completion of fermentation.</p>
+<p id="p0178" num="0178">It may be observed how the strain has the ability to produce high quantities of glycerol with low volatile acidity production. Again, in this case, in the absence of acidification of the must with tartaric acid, no malic acid production is reported.</p>
+<p id="p0179" num="0179">The aromatic profile confirms that observed in example 3.3, namely the presence of marked floral notes with a hint of glycine.
+<tables id="tabl0013" num="0013">
+<table frame="all">
+<title><b>Table 13</b></title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="27mm"/>
+<colspec colnum="2" colname="col2" colwidth="14mm"/>
+<colspec colnum="3" colname="col3" colwidth="14mm"/>
+<thead>
+<row>
+<entry align="center" valign="top"/>
+<entry align="center" valign="top"><b>Must</b></entry>
+<entry align="center" valign="top"><b>Wine</b></entry></row></thead>
+<tbody>
+<row>
+<entry align="center">Total acidity g/l</entry>
+<entry align="center">6.36</entry>
+<entry align="center">6.44</entry></row>
+<row>
+<entry align="center">pH</entry>
+<entry align="center">3.47</entry>
+<entry align="center">3.59</entry></row>
+<row>
+<entry align="center">Malic acid g/l</entry>
+<entry align="center">2.86</entry>
+<entry align="center">2.64</entry></row>
+<row>
+<entry align="center">Citric acid g/l</entry>
+<entry align="center">0.40</entry>
+<entry align="center">0.46</entry></row>
+<row>
+<entry align="center">Lactic acid g/l</entry>
+<entry align="center">0.02</entry>
+<entry align="center">0.13</entry></row>
+<row>
+<entry align="center">Glucose g/l</entry>
+<entry align="center">96.9</entry>
+<entry align="center">0.3</entry></row>
+<row>
+<entry align="center">Fructose g/l</entry>
+<entry align="center">105.8</entry>
+<entry align="center">3.7</entry></row>
+<row>
+<entry align="center">Succinic acid g/l</entry>
+<entry align="center">0.08</entry>
+<entry align="center">0.56</entry></row>
+<row>
+<entry align="center">Glycerol g/l</entry>
+<entry align="center">1.68</entry>
+<entry align="center">9.74</entry></row>
+<row>
+<entry align="center">Acetic acid g/l</entry>
+<entry align="center">0.07</entry>
+<entry align="center">0.25</entry></row>
+<row>
+<entry align="center">Ethanol %</entry>
+<entry align="center">1.35</entry>
+<entry align="center">13.60</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="42"> --></p>
+<heading id="h0029"><i><u>3.5 Testing in Syrah, Petit Verdot, Cabernet qrapes must with must acidification</u></i></heading>
+<p id="p0180" num="0180">The strain SERIUS has been tested with Syrah, Petit Verdot, Cabernet (red berry) grape must in a winery in a 100 hl tank. The yeast has been prepared in fresh form (cream) and used at a dose of 20 g/hl. Preparation of the inoculum has been carried out as described above. Prior to inoculation, 150 g/hl of yeast autolysate and 100 g/hl of tartaric acid have been added to the must. Fermentation has been conducted at 20°C for a period of 10 days.</p>
+<p id="p0181" num="0181">Table 14 reports the results obtained with the must prior to inoculation, and of the wine on completion of fermentation. Again, in this case, the ability of the strain SERIUS to produce malic acid and high quantities of glycerol is observed.</p>
+<p id="p0182" num="0182">With regard to the aromatic profile, the wine produced using the strain SERIUS has distinct blueberry, raspberry and wild strawberry notes.
+<tables id="tabl0014" num="0014">
+<table frame="all">
+<title><b>Table 14</b></title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="27mm"/>
+<colspec colnum="2" colname="col2" colwidth="14mm"/>
+<colspec colnum="3" colname="col3" colwidth="14mm"/>
+<thead>
+<row>
+<entry align="center" valign="top"/>
+<entry align="center" valign="top"><b>Must</b></entry>
+<entry align="center" valign="top"><b>Wine</b></entry></row></thead>
+<tbody>
+<row>
+<entry align="center">Total acidity g/l</entry>
+<entry align="center">4.85</entry>
+<entry align="center">7.48</entry></row>
+<row>
+<entry align="center">pH</entry>
+<entry align="center">3.78</entry>
+<entry align="center">3.74</entry></row>
+<row>
+<entry align="center">Malic acid g/l</entry>
+<entry align="center">1.37</entry>
+<entry align="center">3.70</entry></row>
+<row>
+<entry align="center">Citric acid g/l</entry>
+<entry align="center">0.58</entry>
+<entry align="center">0.63</entry></row>
+<row>
+<entry align="center">Lactic acid g/l</entry>
+<entry align="center">0.4</entry>
+<entry align="center">0.44</entry></row>
+<row>
+<entry align="center">Glucose g/l</entry>
+<entry align="center">125.7</entry>
+<entry align="center">1.6</entry></row>
+<row>
+<entry align="center">Fructose g/l</entry>
+<entry align="center">138.3</entry>
+<entry align="center">16</entry></row>
+<row>
+<entry align="center">Succinic acid g/l</entry>
+<entry align="center">0.04</entry>
+<entry align="center">0.80</entry></row>
+<row>
+<entry align="center">Glycerol g/l</entry>
+<entry align="center">2.2</entry>
+<entry align="center">12.46</entry></row>
+<row>
+<entry align="center">Acetic acid g/l</entry>
+<entry align="center">0.19</entry>
+<entry align="center">0.15</entry></row>
+<row>
+<entry align="center">Ethanol %</entry>
+<entry align="center">1.4</entry>
+<entry align="center">16.62</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0030"><b>Example 4</b> - <b>Hybrids obtained from the yeast S. <i>bayanus</i> subsp. <i>uvarum</i> SERIUS</b></heading>
+<p id="p0183" num="0183">The strain S. <i>bayanus</i> subsp. <i>uvarum</i> SERIUS may be used as the parental strain in order to obtain yeast hybrids with additional and improved oenological characteristics. The direct hybridisation technique has been chosen and a standard spore-spore conjugation protocol with slight modifications has been followed to obtain hybrids (Solieri <i>et al.,</i> 2008). Initially, a sporulation study has been performed on the strains selected for hybridisation. Several culture media<!-- EPO <DP n="43"> --> have been tested for this purpose. The spore viability and sporulation efficiency study has allowed the selection of SP medium (1% potassium acetate; 0.1% yeast extract; 0.05% glucose; 1.8% agar). Growth of the strain on SP at 25°C for 7-10 days has been followed by partial digestion of the cell wall in order to allow subsequent separation of the spores from the ascii using a micromanipulator needle. The ascii, with the semi-digested cell wall, have been placed on one side of a YPD plate (2% glucose; 2% peptone; 1 % yeast extract; 2% agar) and then subjected to micromanipulation. The spores of the two parental strains have been placed randomly next to one another. Continuous observation has allowed the identification of successful conjugation. Following incubation at 25°C for 2-3 days, the colonies selected have been re-streaked on YPD medium. The following step has been the stabilisation of the strains (also performed on WL medium). Hybrids have then been confirmed by means of molecular analysis and have then been subjected to fermentation testing in must along with phenotypic analysis in order to verify their physiological characteristics and oenological potential.</p>
+<heading id="h0031"><b>EXAMPLE 5</b> - <b>Production of yeast autolysates starting from the strain S. <i>bayanus</i> subsp. <i>uvarum</i> SERIUS</b></heading>
+<p id="p0184" num="0184">The strain S. <i>bayanus</i> subsp. <i>uvarum</i> SERIUS may be used to produce a yeast autolysate to be used as a fermentation activator in the production of wine and other alcoholic beverages. To this end, the yeast cream, prepared as described above, is subjected to appropriate heat treatment (40-60°C for 12-48 hours). The autolysate obtained may be used as it is or further processed by means of appropriate filtration/centrifugation/decanting with the aim of separating the solid or liquid phases for subsequent suitable applications.</p>
+<p id="p0185" num="0185">Hence, based on the above, the present invention has achieved all pre-set objectives.</p>
+<p id="p0186" num="0186">In particular, the goal of providing a yeast strain of the species <i>Saccharomyces bayanus</i> subsp. <i>uvarum,</i> equipped with the technological and oenological characteristics allowing good fermentation of the must, allowing the production of a pleasing wine, is achieved.</p>
+<p id="p0187" num="0187">Another goal achieved is that of providing a strain allowing the attainment of a wine characterised by high quantities of malic acid and glycerol, and at the same time not producing hydrogen sulphide during alcoholic fermentation.<!-- EPO <DP n="44"> --></p>
+<p id="p0188" num="0188">Another goal achieved by the present invention concerns the possibility of using the strain SERIUS as the parental strain to obtain hybrid yeasts with novel oenological potential.</p>
+<p id="p0189" num="0189">A further goal achieved concerns the possibility of using the strain forming the subject of the invention to obtain a yeast autolysate to be used as an activator of fermentation.</p>
+<heading id="h0032"><b><u>Bibliography</u></b></heading>
+<p id="p0190" num="0190">
+<ol id="ol0005" compact="compact" ol-style="">
+<li>1.<nplcit id="ncit0002" npl-type="s"><text> Andrighetto C., Psomas E., Tzanetakis N., Suzzi G., Lombardi A. (2000): Randomly Amplified Polymorphic DNA (RAPD) PCR for the identification of yeasts isolated from dairy products. Letters in Applied Microbiology, 30:5-9</text></nplcit>;</li>
+<li>2. <nplcit id="ncit0003" npl-type="s"><text>Cai J., Roberts I.N. and Collins M.D. (1996): Phylogenetic relationships among members of the ascomycetous yeast genera Brettanomyces, Debaryomices, Dekkera, and Kluyveromyces deduced by small-subunit rRNA gene sequences. Int. J. Syst. Bacteriol. 46: 542-549</text></nplcit>;</li>
+<li>3.<nplcit id="ncit0004" npl-type="s"><text> Castellari L., Ferruzzi M., Magrini A., Giudici P., Passarelli P., Zambonelli C. (1994): Unbalanced wine fermentation by cryotolerant vs. noncryotolerant Saccharomyces strains Vitis, 33, 49-52</text></nplcit>;</li>
+<li>4. <nplcit id="ncit0005" npl-type="b"><text>Delfini C. (1995): Scienza e tecnica di microbiologia enologica. Edizioni II Lievito, Asti</text></nplcit>;</li>
+<li>5. <nplcit id="ncit0006" npl-type="s"><text>Esteve-Zarzoso B, et al. (1999): Identification of yeasts by RFLP analysis of the 5.8S rRNA gene and the two ribosomal internal transcribed spacers. Int J Syst Bacteriol 49 Pt 1:329-37</text></nplcit>;</li>
+<li>6. <nplcit id="ncit0007" npl-type="s"><text>Fleet G.H (2008): Wine yeasts for the future. FEMS Yeast Res 8; 979-995</text></nplcit>;</li>
+<li>7. <nplcit id="ncit0008" npl-type="s"><text>James S.A., Collins M.D. and Roberts I.N. (1996): Use of an rRNA internal transcribed spacer region to distinguish phylogenetically closely related species of the genera Zygosaccharomyces and Torulaspora. Int. J. Syst. Bacteriol. 46: 189-194</text></nplcit>;</li>
+<li>8.<nplcit id="ncit0009" npl-type="s"><text> Legras J. L., Ruh O., Merdinoglu D., Karst F. (2005): "Selection of hypervariable micro satellite loci for the characterization of Saccharomyces cerevisiae strains", International Journal of Food Microbiology 102: 73-83</text></nplcit>;<!-- EPO <DP n="45"> --></li>
+<li>9. <nplcit id="ncit0010" npl-type="s"><text>Masneuf-Pomarede I., Salin F., Borlin M., Coton E., Coton M., Jeune C.L., Legras J.L. (2016): Microsatellite analysis of Saccharomyces uvarum diversity. FEMS Yeast Res. 16(2): fow002</text></nplcit>;</li>
+<li>10. <nplcit id="ncit0011" npl-type="s"><text>Suzzi G, Tofalo R. (2014): Microbiologia Enologica Edagricole</text></nplcit>;</li>
+<li>11.<nplcit id="ncit0012" npl-type="s"><text> Pretorius IS (2000): Tailoring wine yeast for the new millennium: novel approaches to the ancient art of winemaking Yeast 16: 675±729</text></nplcit>;</li>
+<li>12. <nplcit id="ncit0013" npl-type="b"><text>Ribereau-Gayon P., Dubordieu D., Doneche B., Lonvaud A. (2000): Handbook of Enology Volume 1 The Microbiology of Wine and Vinification, John Wiley &amp; Sons Ltd</text></nplcit>;</li>
+<li>13. <nplcit id="ncit0014" npl-type="s"><text>Solieri L, Antunez O, Perez-Ortin JE, Barrio E, Giudici P. (2008): Mitochondrial inheritance and fermentative oxidative balance in hybrids between Saccharomyces cerevisiae and Saccharomyces uvarum Yeast. 25 (7) :485-500</text></nplcit>;</li>
+<li>14. <nplcit id="ncit0015" npl-type="b"><text>Vaughan-Martini A. &amp; Martini A. (2011): Chapter 61 - Saccharomyces Meyen ex Reess (1870). In: The Yeasts (Fifth Edition). London: Elsevier</text></nplcit>;</li>
+<li>15.<nplcit id="ncit0016" npl-type="s"><text> Vincenzini M., Romano P. e Farris G.A. (2005): Microbiologia del vino. Edizioni Ambrosiana</text></nplcit>;</li>
+<li>16. <nplcit id="ncit0017" npl-type="b"><text>White T.J., Bruns T., Lee S. and Taylor J. (1990): PCR protocols. A guide to methods and applications. In Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics, pp. 315-322. Innis M.A., Gelfand D.H., Sninsky J.J., White T.J. (Eds) Academic Press, San Diego</text></nplcit>;</li>
+<li>17. <nplcit id="ncit0018" npl-type="s"><text>Zambonelli C, Soli MG &amp; Guerra D (1984): A study of H2S nonproducing strains of wine yeasts. Ann Microbiol 34: 7-15</text></nplcit>;</li>
+<li>18. <nplcit id="ncit0019" npl-type="b"><text>Zambonelli C., Tini V. and Castellari L. (2000). Guida all'uso dei lieviti selezionati in enologia (a cura del Centro Ricerche Produzioni Vegetali) Ed. agrico</text></nplcit>le;</li>
+<li>19.<nplcit id="ncit0020" npl-type="b"><text> Zambonelli C. (2003): Microbiologia e Biotecnologia dei Vini. Edizioni Agrico</text></nplcit>le;</li>
+<li>20. <nplcit id="ncit0021" npl-type="s"><text>Zilio F., Lombardi A., Galeotto A., Comi G. (1998): Profili di restrizione del DNA mitocondriale di ceppi di Saccharomyces isolati nella zona di produzione del vino Soave DOC. Riv. Vitic. Enolog. 3:33-41</text></nplcit>.</li>
+</ol></p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="46"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A strain of <i>Saccharomyces bayanus</i> subsp. <i>uvarum</i> identified as SERIUS and deposited at the DBVPG with deposit number 36P.</claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>The strain according to claim 1, <b>characterised in that</b> it is in a cream form, desiccated form, lyophilized form, or in the form of a paste.</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>The use of the strain of <i>Saccharomyces bayanus</i> subsp. <i>uvarum</i> identified as SERIUS (DBVPG 36P) according to any one of the previous claims, as a food inoculate in the production of foods obtained through alcoholic fermentation.</claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>The use of the strain according to claim 3, <b>characterised in that</b> the food is a wine and the alcoholic fermentation is a vinification process.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>The use of the strain according to claim 4, <b>characterised in that</b> the wine is a wine produced from grapes selected from white berry grapes or red berry grapes.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>The use of the strain according to any one of claims 4 or 5, <b>characterised in that</b> the wine contains glycerol and malic acid naturally produced by the strain in the following concentrations: glycerol higher than about 8,5 g/l, preferably higher than about 9,5 g/l, more preferably higher than about 10 g/l; malic acid higher than about 0,5 g/l, preferably higher than about 1 g/l, more preferably higher than about 2 g/l.</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>The use of the strain of <i>Saccharomyces bayanus</i> subsp. <i>uvarum</i> identified as SERIUS (DBVPG 36P) according to any one of claims 1 or 2, as probiotic in dietary supplements and foods.</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>Food inoculate comprising the strain of <i>Saccharomyces bayanus</i> subsp. <i>uvarum</i> identified as SERIUS and deposited at the DBVPG with deposit number 36P.</claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>Food inoculate according to claim 8, <b>characterised in that</b> said food inoculate is a wine starter.</claim-text></claim>
+<claim id="c-en-01-0010" num="0010">
+<claim-text><i>Saccharomyces bayanus</i> subsp. <i>uvarum</i> SERIUS yeast culture obtainable by multiplication of the strain according to claim 1, <b>characterised in that</b> it is suitable to be used for a use according to any one of claims 3 to 7, said culture being selected from a culture in a liquid fresh form, cream or paste form or a culture in a dry desiccated or lyophilized form.</claim-text></claim>
+<claim id="c-en-01-0011" num="0011">
+<claim-text>The strain according to claim 1, <b>characterised in that</b> it is in the form of an autolysate.</claim-text></claim>
+</claims>
+<claims id="claims02" lang="de"><!-- EPO <DP n="47"> -->
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Ein Stamm von <i>Saccharomyces bayanus</i> subsp. <i>uvarum</i> als SERIUS identifiziert und bei der DBVPG mit der Hinterlegungsnummer 36P hinterlegt.</claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Stamm nach Anspruch 1, <b>dadurch gekennzeichnet, dass</b> er in Cremeform, getrockneter Form, lyophilisierter Form oder in Form einer Paste vorliegt.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Die Verwendung des Stammes von <i>Saccharomyces bayanus</i> subsp. <i>uvarum,</i> identifiziert als SERIUS (DBVPG 36P) nach irgendeinem der vorhergehenden Ansprüche, als ein Lebensmittelimpfstoff bei der Herstellung von Lebensmitteln, die durch alkoholische Gärung gewonnen werden.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Verwendung des Stammes nach Anspruch 3, <b>dadurch gekennzeichnet, dass</b> das Lebensmittel ein Wein ist und die alkoholische Gärung ein Vinifikationsverfahren ist.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Verwendung des Stammes nach Anspruch 4, <b>dadurch gekennzeichnet, dass</b> der Wein ein Wein ist, der aus Trauben hergestellt wird, die aus weißen Beerentrauben oder roten Beerentrauben ausgewählt sind.</claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Verwendung des Stammes nach irgendeinem der Ansprüche 4 oder 5, <b>dadurch gekennzeichnet, dass</b> der Wein Glycerin und vom Stamm natürlich hergestellte Äpfelsäure in den folgenden Konzentrationen enthält: Glycerin höher als etwa 8,5 g/l, vorzugsweise höher als etwa 9,5 g/l, bevorzugter höher als etwa 10 g/l; Äpfelsäure höher als etwa 0,5 g/l, vorzugsweise höher als etwa 1 g/l, bevorzugter höher als etwa 2 g/l.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Die Verwendung des Stammes von <i>Saccharomyces bayanus</i> subsp. <i>uvarum,</i> identifiziert als SERIUS (DBVPG 36P) nach irgendeinem der Ansprüche 1 oder 2, als Probiotikum in Nahrungsergänzungsmitteln und Nahrungsmitteln.</claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Nahrungsmittelimpfstoff, umfassend den Stamm von <i>Saccharomyces bayanus</i> subsp. <i>uvarum,</i> der als SERIUS identifiziert und bei der DBVPG mit der Hinterlegungsnummer 36P hinterlegt ist.</claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Nahrungsmittelimpfstoff nach Anspruch 8, <b>dadurch gekennzeichnet, dass</b> der Nahrungsmittelimpfstoff ein Weinstarter ist.</claim-text></claim>
+<claim id="c-de-01-0010" num="0010">
+<claim-text><i>Saccharomyces bayanus</i> subsp. <i>uvarum</i> SERIUS Hefekultur erhältlich durch Vermehrung des Stammes nach Anspruch 1, <b>dadurch gekennzeichnet, dass</b> sie geeignet ist, für eine Verwendung nach<!-- EPO <DP n="48"> --> irgendeinem der Ansprüche von 3 bis 7 verwendet zu werden, wobei die Kultur ausgewählt ist aus einer Kultur in flüssiger frischer Form, Creme- oder Pastenform oder einer Kultur in einer trockenen getrockneten oder lyophilisierten Form.</claim-text></claim>
+<claim id="c-de-01-0011" num="0011">
+<claim-text>Stamm nach Anspruch 1, <b>dadurch gekennzeichnet, dass</b> er in Form eines Autolysats vorliegt.</claim-text></claim>
+</claims>
+<claims id="claims03" lang="fr"><!-- EPO <DP n="49"> -->
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Souche de <i>Saccharomyces bayanus</i> sous-espèce <i>uvarum</i> identifiée comme SERIUS et déposée auprès du DBVPG avec le numéro de dépôt 36P.</claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Souche selon la revendication 1, <b>caractérisée en ce qu'</b>elle est sous forme de crème, sous forme desséchée, sous forme lyophilisée, ou sous la forme d'une pâte.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Utilisation de la souche de <i>Saccharomyces bayanus</i> sous-espèce <i>uvarum</i> identifiée comme SERIUS (DBVPG 36P) selon l'une quelconque des revendications précédentes, en tant qu'inoculum alimentaire dans la production d'aliments obtenus par fermentation alcoolique.</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Utilisation de la souche selon la revendication 3, <b>caractérisée en ce que</b> l'aliment est un vin et la fermentation alcoolique est un processus de vinification.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Utilisation de la souche selon la revendication 4, <b>caractérisée en ce que</b> le vin est un vin produit à partir de raisins sélectionnés parmi des raisins blancs ou des raisins rouges.</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Utilisation de la souche selon l'une quelconque des revendications 4 ou 5, <b>caractérisée en ce que</b> le vin contient du glycérol et de l'acide malique produits naturellement par la souche dans les concentrations suivantes: glycérol supérieur à environ 8,5 g/l, préférentiellement supérieur à environ 9,5 g/l, encore plus préférentiellement supérieur à environ 10 g/l ; acide malique supérieur à environ 0,5 g/l, préférentiellement supérieur à environ 1 g/l, plus préférentiellement supérieur à environ 2 g/l.</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Utilisation de la souche de <i>Saccharomyces bayanus</i> sous-espèce <i>uvarum</i> identifiée comme SERIUS (DBVPG 36P) selon l'une quelconque des revendications 1 ou 2, en tant que probiotique dans des aliments et des suppléments diététiques.</claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Inoculum alimentaire comprenant la souche de <i>Saccharomyces bayanus</i> sous-espèce <i>uvarum</i> identifiée comme SERIUS et déposée auprès du DBVPG avec le numéro de dépôt 36P.</claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Inoculum alimentaire selon la revendication 8, <b>caractérisée en ce que</b> ledit inoculum alimentaire est un starter de vin.</claim-text></claim>
+<claim id="c-fr-01-0010" num="0010">
+<claim-text>Culture de levures SERIUS de <i>Saccharomyces bayanus</i> sous-espèce <i>uvarum</i> pouvant être obtenue par multiplication de la souche selon la revendication 1, <b>caractérisée en ce qu'</b>elle est apte à être utilisée pour une<!-- EPO <DP n="50"> --> utilisation selon l'une quelconque des revendications 3 à 7, ladite culture étant sélectionnée parmi une culture sous forme fraîche liquide, sous forme de crème ou de pâte ou une culture sous forme sèche desséchée ou lyophilisée.</claim-text></claim>
+<claim id="c-fr-01-0011" num="0011">
+<claim-text>Souche selon la revendication 1, <b>caractérisée en ce qu'</b>elle est sous forme d'un autolysat.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="51"> -->
+<figure id="f0001" num="1,2"><img id="if0001" file="imgf0001.tif" wi="148" he="210" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="52"> -->
+<figure id="f0002" num="3,4"><img id="if0002" file="imgf0002.tif" wi="155" he="214" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="EP1978083A"><document-id><country>EP</country><doc-number>1978083</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0028]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="s"><article><author><name>VERSPOHL A. et al.</name></author><atl/><serial><sertitle>Appl Microbiol Biotechnol</sertitle><pubdate><sdate>20160000</sdate><edate/></pubdate><vid>101</vid></serial><location><pp><ppf>2507</ppf><ppl>2521</ppl></pp></location></article></nplcit><crossref idref="ncit0001">[0028]</crossref></li>
+<li><nplcit id="ref-ncit0002" npl-type="s"><article><author><name>ANDRIGHETTO C.</name></author><author><name>PSOMAS E.</name></author><author><name>TZANETAKIS N.</name></author><author><name>SUZZI G.</name></author><author><name>LOMBARDI A.</name></author><atl>Randomly Amplified Polymorphic DNA (RAPD) PCR for the identification of yeasts isolated from dairy products</atl><serial><sertitle>Letters in Applied Microbiology</sertitle><pubdate><sdate>20000000</sdate><edate/></pubdate><vid>30</vid></serial><location><pp><ppf>5</ppf><ppl>9</ppl></pp></location></article></nplcit><crossref idref="ncit0002">[0190]</crossref></li>
+<li><nplcit id="ref-ncit0003" npl-type="s"><article><author><name>CAI J.</name></author><author><name>ROBERTS I.N.</name></author><author><name>COLLINS M.D.</name></author><atl>Phylogenetic relationships among members of the ascomycetous yeast genera Brettanomyces, Debaryomices, Dekkera, and Kluyveromyces deduced by small-subunit rRNA gene sequences</atl><serial><sertitle>Int. J. Syst. Bacteriol.</sertitle><pubdate><sdate>19960000</sdate><edate/></pubdate><vid>46</vid></serial><location><pp><ppf>542</ppf><ppl>549</ppl></pp></location></article></nplcit><crossref idref="ncit0003">[0190]</crossref></li>
+<li><nplcit id="ref-ncit0004" npl-type="s"><article><author><name>CASTELLARI L.</name></author><author><name>FERRUZZI M.</name></author><author><name>MAGRINI A.</name></author><author><name>GIUDICI P.</name></author><author><name>PASSARELLI P.</name></author><author><name>ZAMBONELLI C.</name></author><atl>Unbalanced wine fermentation by cryotolerant vs</atl><serial><sertitle>noncryotolerant Saccharomyces strains Vitis</sertitle><pubdate><sdate>19940000</sdate><edate/></pubdate><vid>33</vid></serial><location><pp><ppf>49</ppf><ppl>52</ppl></pp></location></article></nplcit><crossref idref="ncit0004">[0190]</crossref></li>
+<li><nplcit id="ref-ncit0005" npl-type="b"><article><atl/><book><author><name>DELFINI C.</name></author><book-title>Scienza e tecnica di microbiologia enologica</book-title><imprint><name/><pubdate>19950000</pubdate></imprint></book></article></nplcit><crossref idref="ncit0005">[0190]</crossref></li>
+<li><nplcit id="ref-ncit0006" npl-type="s"><article><author><name>ESTEVE-ZARZOSO B et al.</name></author><atl>Identification of yeasts by RFLP analysis of the 5.8S rRNA gene and the two ribosomal internal transcribed spacers</atl><serial><sertitle>Int J Syst Bacteriol</sertitle><pubdate><sdate>19990000</sdate><edate/></pubdate><vid>49</vid></serial><location><pp><ppf>329</ppf><ppl>37</ppl></pp></location></article></nplcit><crossref idref="ncit0006">[0190]</crossref></li>
+<li><nplcit id="ref-ncit0007" npl-type="s"><article><author><name>FLEET G.H</name></author><atl>Wine yeasts for the future</atl><serial><sertitle>FEMS Yeast Res</sertitle><pubdate><sdate>20080000</sdate><edate/></pubdate><vid>8</vid></serial><location><pp><ppf>979</ppf><ppl>995</ppl></pp></location></article></nplcit><crossref idref="ncit0007">[0190]</crossref></li>
+<li><nplcit id="ref-ncit0008" npl-type="s"><article><author><name>JAMES S.A.</name></author><author><name>COLLINS M.D.</name></author><author><name>ROBERTS I.N.</name></author><atl>Use of an rRNA internal transcribed spacer region to distinguish phylogenetically closely related species of the genera Zygosaccharomyces and Torulaspora</atl><serial><sertitle>Int. J. Syst. Bacteriol.</sertitle><pubdate><sdate>19960000</sdate><edate/></pubdate><vid>46</vid></serial><location><pp><ppf>189</ppf><ppl>194</ppl></pp></location></article></nplcit><crossref idref="ncit0008">[0190]</crossref></li>
+<li><nplcit id="ref-ncit0009" npl-type="s"><article><author><name>LEGRAS J. L.</name></author><author><name>RUH O.</name></author><author><name>MERDINOGLU D.</name></author><author><name>KARST F.</name></author><atl>Selection of hypervariable micro satellite loci for the characterization of Saccharomyces cerevisiae strains</atl><serial><sertitle>International Journal of Food Microbiology</sertitle><pubdate><sdate>20050000</sdate><edate/></pubdate><vid>102</vid></serial><location><pp><ppf>73</ppf><ppl>83</ppl></pp></location></article></nplcit><crossref idref="ncit0009">[0190]</crossref></li>
+<li><nplcit id="ref-ncit0010" npl-type="s"><article><author><name>MASNEUF-POMAREDE I.</name></author><author><name>SALIN F.</name></author><author><name>BORLIN M.</name></author><author><name>COTON E.</name></author><author><name>COTON M.</name></author><author><name>JEUNE C.L.</name></author><author><name>LEGRAS J.L.</name></author><atl>Microsatellite analysis of Saccharomyces uvarum diversity</atl><serial><sertitle>FEMS Yeast Res.</sertitle><pubdate><sdate>20160000</sdate><edate/></pubdate><vid>16</vid><ino>2</ino></serial><location><pp><ppf>fow002</ppf><ppl/></pp></location></article></nplcit><crossref idref="ncit0010">[0190]</crossref></li>
+<li><nplcit id="ref-ncit0011" npl-type="s"><article><author><name>SUZZI G</name></author><author><name>TOFALO R</name></author><atl/><serial><sertitle>Microbiologia Enologica Edagricole</sertitle><pubdate><sdate>20140000</sdate><edate/></pubdate></serial></article></nplcit><crossref idref="ncit0011">[0190]</crossref></li>
+<li><nplcit id="ref-ncit0012" npl-type="s"><article><author><name>PRETORIUS IS</name></author><atl/><serial><sertitle>Tailoring wine yeast for the new millennium: novel approaches to the ancient art of winemaking Yeast</sertitle><pubdate><sdate>20000000</sdate><edate/></pubdate><vid>16</vid></serial><location><pp><ppf>675</ppf><ppl>729</ppl></pp></location></article></nplcit><crossref idref="ncit0012">[0190]</crossref></li>
+<li><nplcit id="ref-ncit0013" npl-type="b"><article><atl/><book><author><name>RIBEREAU-GAYON P.</name></author><author><name>DUBORDIEU D.</name></author><author><name>DONECHE B.</name></author><author><name>LONVAUD A.</name></author><book-title>Handbook of Enology Volume 1 The Microbiology of Wine and Vinification</book-title><imprint><name>John Wiley &amp; Sons Ltd</name><pubdate>20000000</pubdate></imprint><vid>1</vid></book></article></nplcit><crossref idref="ncit0013">[0190]</crossref></li>
+<li><nplcit id="ref-ncit0014" npl-type="s"><article><author><name>SOLIERI L</name></author><author><name>ANTUNEZ O</name></author><author><name>PEREZ-ORTIN JE</name></author><author><name>BARRIO E</name></author><author><name>GIUDICI P.</name></author><atl/><serial><sertitle>Mitochondrial inheritance and fermentative oxidative balance in hybrids between Saccharomyces cerevisiae and Saccharomyces uvarum Yeast</sertitle><pubdate><sdate>20080000</sdate><edate/></pubdate><vid>25</vid><ino>7</ino></serial><location><pp><ppf>485</ppf><ppl>500</ppl></pp></location></article></nplcit><crossref idref="ncit0014">[0190]</crossref></li>
+<li><nplcit id="ref-ncit0015" npl-type="b"><article><atl>Saccharomyces Meyen ex Reess (1870)</atl><book><author><name>VAUGHAN-MARTINI A.</name></author><author><name>MARTINI A.</name></author><book-title>The Yeasts</book-title><imprint><name>Elsevier</name><pubdate>20110000</pubdate></imprint></book></article></nplcit><crossref idref="ncit0015">[0190]</crossref></li>
+<li><nplcit id="ref-ncit0016" npl-type="s"><article><author><name>VINCENZINI M.</name></author><author><name>ROMANO P.</name></author><author><name>FARRIS G.A.</name></author><atl>Microbiologia del vino</atl><serial><sertitle>Edizioni Ambrosiana</sertitle><pubdate><sdate>20050000</sdate><edate/></pubdate></serial></article></nplcit><crossref idref="ncit0016">[0190]</crossref></li>
+<li><nplcit id="ref-ncit0017" npl-type="b"><article><atl>PCR protocols. A guide to methods and applications</atl><book><author><name>WHITE T.J.</name></author><author><name>BRUNS T.</name></author><author><name>LEE S.</name></author><author><name>TAYLOR J.</name></author><book-title>Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics</book-title><imprint><name>Academic Press</name><pubdate>19900000</pubdate></imprint><location><pp><ppf>315</ppf><ppl>322</ppl></pp></location></book></article></nplcit><crossref idref="ncit0017">[0190]</crossref></li>
+<li><nplcit id="ref-ncit0018" npl-type="s"><article><author><name>ZAMBONELLI C</name></author><author><name>SOLI MG</name></author><author><name>GUERRA D</name></author><atl>A study of H2S nonproducing strains of wine yeasts</atl><serial><sertitle>Ann Microbiol</sertitle><pubdate><sdate>19840000</sdate><edate/></pubdate><vid>34</vid></serial><location><pp><ppf>7</ppf><ppl>15</ppl></pp></location></article></nplcit><crossref idref="ncit0018">[0190]</crossref></li>
+<li><nplcit id="ref-ncit0019" npl-type="b"><article><atl>Guida all'uso dei lieviti selezionati in enologia</atl><book><author><name>ZAMBONELLI C.</name></author><author><name>TINI V.</name></author><author><name>CASTELLARI L.</name></author><book-title>a cura del Centro Ricerche Produzioni Vegetali</book-title><imprint><name/><pubdate>20000000</pubdate></imprint></book></article></nplcit><crossref idref="ncit0019">[0190]</crossref></li>
+<li><nplcit id="ref-ncit0020" npl-type="b"><article><atl/><book><author><name>ZAMBONELLI C.</name></author><book-title>Microbiologia e Biotecnologia dei Vini</book-title><imprint><name/><pubdate>20030000</pubdate></imprint></book></article></nplcit><crossref idref="ncit0020">[0190]</crossref></li>
+<li><nplcit id="ref-ncit0021" npl-type="s"><article><author><name>ZILIO F.</name></author><author><name>LOMBARDI A.</name></author><author><name>GALEOTTO A.</name></author><author><name>COMI G.</name></author><atl>Profili di restrizione del DNA mitocondriale di ceppi di Saccharomyces isolati nella zona di produzione del vino Soave DOC</atl><serial><sertitle>Riv. Vitic. Enolog.</sertitle><pubdate><sdate>19980000</sdate><edate/></pubdate><vid>3</vid></serial><location><pp><ppf>33</ppf><ppl>41</ppl></pp></location></article></nplcit><crossref idref="ncit0021">[0190]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

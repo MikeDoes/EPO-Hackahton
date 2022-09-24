@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP16161822B1" file="EP16161822NWB1.xml" lang="en" country="EP" doc-number="3081680" kind="B1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSK..HRIS..MTNORS..SM..................</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  2100000/0</B007EP></eptags></B000><B100><B110>3081680</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>16161822.8</B210><B220><date>20160323</date></B220><B240><B241><date>20161219</date></B241><B242><date>20201202</date></B242></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>2015084662</B310><B320><date>20150417</date></B320><B330><ctry>JP</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20161019</date><bnum>201642</bnum></B430><B450><date>20211006</date><bnum>202140</bnum></B450><B452EP><date>20210510</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>D04B   1/02        20060101AFI20160811BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>D04B   1/02        20130101 FI20160808BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>VERFAHREN ZUM STRICKEN EINES EINZELNEN JACQUARD-MASCHENMUSTERS UND DAMIT HERGESTELLTE ZUSAMMENGESETZTE MASCHENWARE</B542><B541>en</B541><B542>METHOD FOR KNITTING SINGLE KNIT-JACQUARD PATTERN AND COMPOSITE KNITTED FABRIC OBTAINED USING THE SAME</B542><B541>fr</B541><B542>PROCÉDÉ DE TRICOTAGE D'UN MOTIF DE TRICOTAGE JACQUARD UNIQUE ET TISSU TRICOTÉ COMPOSITE OBTENU À L'AIDE DE CELUI-CI</B542></B540><B560><B561><text>EP-A1- 0 335 618</text></B561><B561><text>EP-A1- 1 513 373</text></B561><B561><text>CN-A- 1 523 150</text></B561><B561><text>US-A- 4 986 090</text></B561><B562><text>None</text></B562></B560></B500><B700><B720><B721><snm>Onishi, Yasushi</snm><adr><str>c/o PRECISION FUKUHARA WORKS, LTD.
+3-5, Ibukidai-higashimachi 7-chome, Nishi-ku</str><city>Kobe-shi, Hyogo 651-2242</city><ctry>JP</ctry></adr></B721></B720><B730><B731><snm>Precision Fukuhara Works, Ltd.</snm><iid>101142653</iid><irf>M/TAOK-013-EP</irf><adr><str>3-5 Ibukidai-higashimachi 7-chome, 
+Nishi-ku</str><city>Kobe-shi
+Hyogo 651-2242</city><ctry>JP</ctry></adr></B731></B730><B740><B741><snm>Rupprecht, Kay</snm><iid>101407122</iid><adr><str>Meissner Bolte Patentanwälte 
+Rechtsanwälte Partnerschaft mbB 
+Widenmayerstraße 47</str><city>80538 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840></B800></SDOBI>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">BACKGROUND OF THE INVENTION</heading>
+<heading id="h0002">1. Field of the Invention</heading>
+<p id="p0001" num="0001">The present invention relates to a method for knitting a mesh-jacquard structure, a pile-jacquard structure, and/or an inlay-looking-jacquard structure using a single-knit circular knitting machine including an apparatus for electrically controlling cylinder needles and sinkers, and a single-knit knitted fabric using the same, which is a composite knitted fabric having the mesh-jacquard structure, the pile-jacquard structure, and the mesh-looking-jacquard structure.</p>
+<heading id="h0003">2. Description of Related Art</heading>
+<p id="p0002" num="0002"><figref idref="f0001">FIG. 1</figref> shows a method for knitting a mesh-jacquard structure using an ordinary single-knit circular knitting machine. At a first feeder F1, every cylinder needle is selected for knitting, and receives a ground yarn 3 fed thereto, after which the cylinder needle is lowered to a position immediately before a position where it knocks over the old loop. At a second feeder F2, the cylinder needle is selected either for knitting 1k or for welting 1w. The cylinder needle selected for knitting 1k receives a mesh yarn 4 fed thereto, after which the cylinder needle is lowered to a position where it knocks over the old loop, thereby forming a double loop consisting of the ground yarn 3 and the mesh yarn 4. The cylinder needle selected for welting 1w does not receive the mesh yarn 4, and the cylinder needle is lowered to a position where it knocks over the old loop, thereby forming a loop consisting only of the ground yarn 3. Accordingly, a mesh-jacquard knitted fabric in the structural diagram shown in <figref idref="f0001">FIG. 3</figref> is obtained.</p>
+<p id="p0003" num="0003"><figref idref="f0001">FIG. 2</figref> shows a method for knitting a pile-jacquard structure. At the first feeder F1, every cylinder needle is selected for knitting 5k, and receives a ground yarn 7 fed thereto, and a sinker is selected either for a pile position 6p or for a non-pile position 6n. The cylinder needle corresponding to the sinker selected for the pile position 6p receives a pile yarn 8 that is fed in a state of being caught on the sinker nose, and the cylinder needle is lowered to a position where it knocks over the old loop.<!-- EPO <DP n="2"> --> As shown in <figref idref="f0002">FIG. 4</figref>, a pile loop 8l and a ground loop 7l are formed. Meanwhile, the cylinder needle corresponding to the sinker selected for the non-pile position 6n receives the pile yarn that is fed in a state of being caught on the sinker top, and the cylinder needle is lowered to a position where it knocks over the old loop, thereby forming a double loop consisting of the ground yarn 7 and the pile yarn 8.</p>
+<p id="p0004" num="0004">Single-knit knitted fabrics of the mesh-jacquard structure or the pile-jacquard structure knitted using single-knit circular knitting machines are obtained using a ground yarn and a mesh yarn, or a ground yarn and a pile yarn, in individual mesh knitting machines or pile machines.</p>
+<heading id="h0004">Conventional Technique 1</heading>
+<p id="p0005" num="0005">"Method for knitting mesh knitted fabric with lining fabric and connected knitted fabric obtained by the method" according to <patcit id="pcit0001" dnum="JP2001355157A"><text>JP 2001-355157A</text></patcit> provides a method for knitting a mesh knitted fabric with a lining fabric, and a connected knitted fabric using the same. This document describes a method for knitting a new mesh knitted fabric with a lining fabric, in knitting a single mesh knitted fabric produced by a double knit knitting machine, by also knitting a dial side and connecting a dial knitted fabric to a single mesh knitted fabric using tucking.</p>
+<heading id="h0005">Conventional Technique 2</heading>
+<p id="p0006" num="0006">Furthermore, "knitting tool controller in circular knitting machine" according to <patcit id="pcit0002" dnum="JPH09021042A"><text>JP H09-021042A</text></patcit> describes a method for knitting a concave-convex jacquard pile knitted by selecting sinkers either for piling or for non-piling.</p>
+<p id="p0007" num="0007">However, to date, there has not been a knitted fabric on the market that has both of two types of structures consisting of the mesh-jacquard structure and the pile-jacquard structure described above.</p>
+<p id="p0008" num="0008">Furthermore, there has not been a composite knitted fabric having both of a mesh loop and a pile loop for one ground loop in one course. The reason for this is that a knitted fabric using a mesh-jacquard structure focuses on air permeability and the like, whereas a knitted fabric using a pile-jacquard structure focuses on heat-retention and cushioning properties, that is, these fabrics are used for opposite<!-- EPO <DP n="3"> --> purposes, and thus selecting either one of them is sufficient as a product, and the idea of combining them was not conceived as combining them was not necessary.</p>
+<p id="p0009" num="0009">Thus, there has not been a jacquard knitted fabric having features of both of a concave-convex pile-jacquard knitted fabric of a jacquard pattern using a ground yarn and a pile yarn and an openwork mesh-jacquard knitted fabric of a jacquard pattern using a ground yarn and a mesh yarn as in the above-described knitted fabrics, and thus having excellent functions such as cushioning properties, heat-retention, air permeability, and the like, and excellent designs.</p>
+<p id="p0010" num="0010">Furthermore, although mesh-jacquard knitting methods and pile-jacquard knitting methods are generally known, to date it has not been considered to combine these methods and thereby forming a significantly wide variety of loops in one course.</p>
+<p id="p0011" num="0011">Further examples of knitting methods are known from documents <patcit id="pcit0003" dnum="EP1513373A1"><text>EP 1 513 373 A1</text></patcit>, <patcit id="pcit0004" dnum="CN1523150A"><text>CN 1 523 150 A</text></patcit>, <patcit id="pcit0005" dnum="US4986090A"><text>US 4 986 090 A</text></patcit> and <patcit id="pcit0006" dnum="EP0335618A1"><text>EP 0 335 618 A1</text></patcit>.</p>
+<heading id="h0006">SUMMARY OF THE INVENTION</heading>
+<p id="p0012" num="0012">The present invention provides a knitting method according to claim 1.</p>
+<p id="p0013" num="0013">With this method, it is possible to obtain a single-knit knitted fabric including a course having both of a mesh-jacquard structure and a pile-jacquard structure.</p>
+<p id="p0014" num="0014">It is also possible that four steps (i) to (iv) obtained by adding a step (iv) below to the three steps described above are selectively performed (Claim 2);<br/>
+(iv) selecting the cylinder needle for welting and selecting the sinker for piling, thereby forming an inlay-looking loop.</p>
+<p id="p0015" num="0015">With this method, it is possible to obtain a single-knit knitted fabric including a course having all of a mesh-jacquard structure, a pile-jacquard structure, and an inlay-looking-jacquard structure (Claim 4).</p>
+<p id="p0016" num="0016">Furthermore, it is also possible that the method for knitting a single-knit knitted fabric further uses a third feeder, and further includes: at the third feeder, feeding a third yarn and selectively performing two steps (v) and (vi) below in another course (Claim 3),
+<ul id="ul0001" list-style="none" compact="compact">
+<li>(v) selecting a sinker for mesh, thereby forming a loop having a size that is larger than an ordinary size, and</li>
+<li>(vi) selecting a sinker for non-mesh, thereby forming a loop having the</li>
+</ul><!-- EPO <DP n="4"> -->
+ordinary size.</p>
+<p id="p0017" num="0017">With this method, it is possible to obtain a single-knit knitted fabric including a course having all of a mesh-jacquard structure, a pile-jacquard structure, and an inlay-looking-jacquard structure in the course, and further including a sinker mesh-jacquard structure with a loop having a size that is larger than the ordinary size (Claim 5).</p>
+<p id="p0018" num="0018">Another aspect of the present invention is directed to a single-knit jacquard knitted fabric having a course in which any one of knitting structures A or B below is formed (Claim 6):
+<ol id="ol0001" compact="compact" ol-style="">
+<li>A; (a) a pile loop, (b) a knit loop, (c) an inlay-looking loop, and (d) a mesh-looking welt,</li>
+<li>B; (a) a pile loop, (c) an inlay-looking loop, and (d) a mesh-looking welt.</li>
+</ol></p>
+<p id="p0019" num="0019">It is also possible that a loop having a size that is larger than an ordinary size and a loop having the ordinary size are knitted in the same course so as to be positioned adjacent to the course knitted in claim 6 (Claim 7).</p>
+<p id="p0020" num="0020">As described above, with the knitting method of the present invention, it is possible to obtain a jacquard knitted fabric of knitting structures having functions such as cushioning properties, heat-retention, air permeability, and the like, in desired portions of clothing, the knitted fabric having, on a surface thereof, features of concave-convex pile-jacquard knitting and openwork mesh-jacquard knitting, and having excellent functions and excellent designs.</p>
+<p id="p0021" num="0021">With the knitting method of the present invention, a mesh/pile yarn can be used to knit:
+<ol id="ol0002" compact="compact" ol-style="">
+<li>a) a pile loop (indicated by 12p in <figref idref="f0002">FIG. 6</figref>), if needle selection for knitting (9k) and selection for piling (10p) are performed at a second feeder;</li>
+<li>b) a double knit loop with a ground yarn (indicated by 12k in <figref idref="f0002">FIG. 6</figref>), if needle selection for knitting (9k) and selection for non-piling (10n) are performed at a second feeder;</li>
+<li>c) an inlay-looking loop (indicated by 12i in <figref idref="f0002">FIG. 6</figref>), if needle selection for welting (9w) and selection for piling (10p) are performed at a second feeder; and<!-- EPO <DP n="5"> --></li>
+<li>d) a mesh-looking welt (indicated by 12w in <figref idref="f0002">FIG. 6</figref>), if needle selection for welting (9w) and selection for non-piling (10n) are performed at a second feeder.</li>
+</ol></p>
+<p id="p0022" num="0022">Although conventional mesh-jacquard knitting can realize only d+b and conventional pile-jacquard knitting can realize only a+b, the knitting method of the present invention combining the mesh-jacquard knitting and the pile-jacquard knitting can realize a+b+c+d.</p>
+<p id="p0023" num="0023">When forming an apparel product using these knitted fabrics, for example, in the case of a shirt, if knitting is performed so as to partially arrange mesh knitting having good air permeability at portions corresponding to the armpits where heavy sweating may occur and to arrange pile knitting patterns having good cushioning properties at portions corresponding to the shoulders, it is not necessary to separately knit and sew mesh knit portions, or to separately produce shoulder pads. Furthermore, a person wearing this apparel product is free from the discomfort of coarse seams.</p>
+<p id="p0024" num="0024">According to conventional techniques, it is also conceivable to knit either a mesh-jacquard structure or a pile-jacquard structure in each course and form a knitted fabric having both structures. However, since different structures in respective courses are arranged in a mixed manner, the features of the structures hardly appear and the structures look sparse in the knitted fabric. According to the present invention, since both a mesh-jacquard structure and a pile-jacquard structure are arranged in the same course, the same structure of the mesh-jacquard structure or the pile-jacquard structure can be arranged in adjacent courses, and, thus, the structures look dense in the knitted fabric, and the features of the structures are prominent.</p>
+<heading id="h0007">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p0025" num="0025">
+<ul id="ul0002" list-style="none" compact="compact">
+<li><figref idref="f0001">FIG. 1</figref> shows a movement line diagram of cylinder needles and sinkers according to a conventional mesh knitting method.</li>
+<li><figref idref="f0001">FIG. 2</figref> shows a movement line diagram of cylinder needles and sinkers according to a conventional pile knitting method.</li>
+<li><figref idref="f0001">FIG. 3</figref> shows a structural diagram of conventional mesh-jacquard knitting.</li>
+<li><figref idref="f0002">FIG. 4</figref> shows a structural diagram of conventional pile-jacquard knitting.</li>
+<li><figref idref="f0002">FIG. 5</figref> shows a movement line diagram of cylinder needles and sinkers<!-- EPO <DP n="6"> --> according to Example 1 of the present invention.</li>
+<li><figref idref="f0002">FIG. 6</figref> shows a structural diagram of pile-jacquard knitting and mesh-jacquard knitting according to Example 1 of the present invention.</li>
+<li><figref idref="f0003">FIG. 7</figref> shows a movement line diagram of cylinder needles and sinkers according to Example 2 of the present invention.</li>
+<li><figref idref="f0003">FIG. 8</figref> shows a structural diagram of pile-jacquard knitting, mesh-jacquard knitting, and sinker mesh knitting according to Example 2 of the present invention.</li>
+<li><figref idref="f0003">FIG. 9</figref> shows a pile loop 12p and an inlay-looking loop 12i in a state of being caught on a sinker nose 22 of a sinker 20 selected for piling 10p.</li>
+<li><figref idref="f0003">FIG. 10</figref> shows a knit loop 12k and a mesh-looking welt 12w in a state of being caught on a sinker top 21 of the sinker 20 selected for non-piling 10n.</li>
+</ul></p>
+<heading id="h0008">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p0026" num="0026">Hereinafter, preferred embodiments of the present invention will be described with reference to tables and drawings. Codes used in the tables are as described above.</p>
+<p id="p0027" num="0027">The knitting methods and knitted fabrics in the following examples are realized by implementing the settings of the present invention, using a circular knitting machine including an apparatus for electrically controlling cylinder needles and sinkers.</p>
+<heading id="h0009">Example 1</heading>
+<p id="p0028" num="0028">Hereinafter, the knitting method according to Example 1 of the present invention will be described with reference to the movement line diagram of cylinder needles and sinkers in <figref idref="f0002">FIG. 5</figref> and the knitting structural diagram in <figref idref="f0002">FIG. 6</figref>.</p>
+<p id="p0029" num="0029">At the first feeder F1, every cylinder needle is selected for knitting, and receives a ground yarn 11 fed thereto, after which the cylinder needle is lowered by a cam to a position immediately before a position where it performs knock-over, and moves to the next second feeder F2. At this time, the sinker is pushed toward the center of the circular knitting machine, and the ground yarn is positioned on the sinker top and in the hook of the cylinder needle. Subsequently, before reaching the second feeder, the sinker is pulled down from the center of the circular knitting<!-- EPO <DP n="7"> --> machine toward the outside, and the ground yarn is kept on the sinker top. Note that there is no limitation to the configuration in which, at the first feeder, every cylinder needle is selected for knitting, and the needle may be selected either for knitting or for tucking, which makes it possible to perform pique knitting and the like.</p>
+<p id="p0030" num="0030">At the second feeder F2, the cylinder needle is selected either for knitting 9k or for welting 9w according to a desired pattern, and the sinker is selected either for piling 10p or for non-piling 10n according to the desired pattern. At the second feeder F2 in <figref idref="f0002">FIG. 5</figref>, the solid line of the cylinder movement lines indicates needle selection for knitting 9k, and the dotted line indicates needle selection for welting 9w. Furthermore, the dotted line of the sinker movement lines indicates selection for piling 10p, and the solid line indicates selection for non-piling 10n.</p>
+<p id="p0031" num="0031"><figref idref="f0003">FIGS. 9 and 10</figref> show a relationship between a sinker and formed loops along the A-A cross-section in <figref idref="f0002">FIG. 5</figref>. <figref idref="f0003">FIG. 9</figref> shows a pile loop 12p and an inlay-looking loop 12i in a state of being caught on a sinker nose 22 of a sinker 20 selected for piling 10p. <figref idref="f0003">FIG. 10</figref> shows a knit loop 12k and a mesh-looking welt 12w in a state of being caught on a sinker top 21 of the sinker 20 selected for non-piling 10n.</p>
+<p id="p0032" num="0032">A cylinder needle selected for knitting 9k is lifted to a tuck position and catches a mesh/pile yarn 12, after which a sinker selected for piling 10p moves without being pulled down, and the mesh/pile yarn 12 is caught on the sinker nose in accordance with the lowering of the cylinder needle. Meanwhile, since the ground yarn is kept on the sinker top, it is caught on the sinker top in accordance with the lowering of the cylinder needle. The cylinder needle is further lowered by a stitch cam to the knock-over point, and pulls both the mesh/pile yarn 12 and the ground yarn 11. At that time, the mesh/pile yarn 12 is caught on the sinker nose, and a sinker loop SL constituted by the mesh/pile yarn 12 forms a pile loop 8l, and a needle loop NL constituted by both the mesh/pile yarn 12 and the ground yarn 11 pulls both yarns, thereby forming a double loop. Meanwhile, a sinker selected for non-piling 10n moves while being pulled down, the mesh/pile yarn 12 is kept caught on the sinker top in accordance with the lowering of the cylinder needle, and the cylinder needle is further lowered by a stitch cam to the knock-over point, and pulls both the mesh/pile yarn 12 and the ground yarn 11, thereby forming a double loop consisting of both a sinker loop SL and a needle loop NL.<!-- EPO <DP n="8"> --></p>
+<p id="p0033" num="0033">Furthermore, the mesh/pile yarn 12 is not fed to a cylinder needle selected for welting 9w that is kept at a lower position immediately before a position where it performs knock-over, a sinker selected for piling 10p moves without being pulled down, and the mesh/pile yarn 12 is caught on the sinker nose in accordance with the lowering of the cylinder needle. The cylinder needle is further lowered by a stitch cam to the knock-over point, thereby forming an inlay-looking loop 12i of the mesh/pile yarn 12 as a sinker loop SL, and a loop 11l of the ground yarn 11 as a needle loop NL. Meanwhile, a sinker selected for non-piling 10n moves while being pulled down, and is kept in a welt state in which the mesh/pile yarn 12 is caught on the sinker top in accordance with the lowering of the cylinder needle, and the cylinder needle is further lowered by a stitch cam to the knock-over point, thereby forming a loop 11l of the ground yarn 11 as a needle loop NL.</p>
+<p id="p0034" num="0034">Subsequently, the processing at the first feeder F 1 and the second feeder F2 is repeated to form a knitted fabric with a one-repeat pattern in one course. <figref idref="f0002">FIG. 6</figref> shows a knitting structure constituted by four types of loops consisting of the mesh-looking welt 12w, the knit loop 12k, the pile loop 12p, and the inlay-looking loop 12i formed by the knitting method of Example 1.</p>
+<p id="p0035" num="0035">Accordingly, it is possible to form an openwork mesh-jacquard knitted fabric by combining the mesh-looking welt 12w and the knit loop 12k according to a desired jacquard pattern, a concave-convex pile-jacquard knitted fabric by combining the pile loop 12p and the knit loop 12k according to a desired jacquard pattern, and a thick inlay-looking-jacquard knitted fabric by combining the inlay-looking loop 12i and the knit loop 12k according to a desired jacquard pattern. Furthermore, it is possible to form a wide variety of jacquard knitted fabrics by combining these knitted fabrics.</p>
+<p id="p0036" num="0036">It is preferable to use a yarn thinner than the mesh/pile yarn 12, such as a monofilament yarn, as the ground yarn 11, in order to make the openwork of a mesh-jacquard structure conspicuous.</p>
+<heading id="h0010">Example 2</heading>
+<p id="p0037" num="0037">The present invention is not limited to the knitting method in <figref idref="f0002">FIG. 5</figref>, and it is also possible to perform knitting using an additional sinker mesh feeder at a third feeder as in <figref idref="f0003">FIG. 7</figref>. Knitting methods and loops formed using the same according to<!-- EPO <DP n="9"> --> Example 2 of the present invention will be described with reference to <figref idref="f0003">FIGS. 7 and 8</figref>.</p>
+<p id="p0038" num="0038">The knitting methods at the first feeder F1 and the second feeder F2 are similar to those in Example 1, and, thus, a description thereof has been omitted.</p>
+<p id="p0039" num="0039">At a third feeder F3 in <figref idref="f0003">FIG. 7</figref>, the solid line of the cylinder movement lines indicates needle selection for knitting. Furthermore, the solid line of the sinker movement lines indicates selection for non-mesh 14s, and the dotted line indicates selection for mesh 14b. At the third feeder F3, a sinker is selected either for mesh or for non-mesh according to a desired pattern.</p>
+<p id="p0040" num="0040">That is to say, at the third feeder, every cylinder needle is selected for knitting, and catches a second ground yarn 17 in accordance with the lowering of the cylinder needle, after which a sinker selected for mesh 14b moves without being pulled down, and the second ground yarn 17 is caught on the sinker nose. The cylinder needle is lowered by a stitch cam to the knock-over point, and the second ground yarn 17 is caught on the sinker nose, thereby forming a large loop 17b. Meanwhile, a sinker selected for non-mesh 14s moves while being pulled down, the second ground yarn 17 is kept caught on the sinker top in accordance with the lowering of the cylinder needle, the cylinder needle is further lowered by a stitch cam to the knock-over point, and the second ground yarn 17 is caught on the sinker top, thereby forming a loop 17s having the ordinary size.</p>
+<p id="p0041" num="0041">Subsequently, the processing at the first feeder, the second feeder, and the third feeder is repeated to form a one-repeat pattern in two courses.</p>
+<p id="p0042" num="0042"><figref idref="f0003">FIG. 8</figref> shows the loop 17b having a size that is larger than the ordinary size and the loop 17s having the ordinary size, formed in the second course at the third feeder. In the portion selected for mesh, the size of the sinker loop SL increases and a loop 17b having a size that is larger than the ordinary size is formed, whereas, in the portion selected for non-mesh, the size of the sinker loop SL does not increase and a loop 17s having the ordinary size is formed. These loops are formed adjacent to the group of the loops formed in the first course at the first feeder and the second feeder shown in <figref idref="f0002">FIG. 6</figref>.</p>
+<p id="p0043" num="0043">Accordingly, it is possible to form a mesh-jacquard knitted fabric from one yarn by combining large loops and loops having the ordinary size.<!-- EPO <DP n="10"> --></p>
+<heading id="h0011">List of Reference Numerals</heading>
+<p id="p0044" num="0044">
+<ul id="ul0003" list-style="none" compact="compact">
+<li>1 Cylinder needle movement line according to conventional technique (mesh-jacquard structure)</li>
+<li>1k Needle selection for knitting</li>
+<li>1w Needle selection for welting</li>
+<li>2 Sinker movement line according to conventional technique (mesh-jacquard structure)</li>
+<li>3 Ground yarn according to conventional technique (mesh-jacquard structure)</li>
+<li>3l Ground loop</li>
+<li>4 Mesh yarn according to conventional technique (mesh-jacquard structure)</li>
+<li>4l Mesh loop</li>
+<li>4w Mesh-looking welt</li>
+<li>5 Cylinder needle movement line according to conventional technique (pile-jacquard structure)</li>
+<li>6 Sinker movement line according to conventional technique (pile-jacquard structure)</li>
+<li>6p Selection for piling</li>
+<li>6n Selection for non-piling</li>
+<li>7 Ground yarn according to conventional technique (pile-jacquard structure)</li>
+<li>7l Ground loop</li>
+<li>8 Pile yarn according to conventional technique (pile-jacquard structure)</li>
+<li>8l Pile loop</li>
+<li>9 Cylinder needle movement line according to Example 1 of present invention</li>
+<li>9k Needle selection for knitting according to Example 1 of present invention</li>
+<li>9w Needle selection for welting according to Example 1 of present invention<!-- EPO <DP n="11"> --></li>
+<li>10 Sinker needle movement line according to Example 1 of present invention</li>
+<li>10p Selection for piling according to Example 1 of present invention</li>
+<li>10n Selection for non-piling according to Example 1 of present invention</li>
+<li>11 Ground yarn according to Example 1 of present invention</li>
+<li>11l Ground loop</li>
+<li>12 Mesh/pile yarn according to Example 1 of present invention</li>
+<li>12i Inlay-looking loop</li>
+<li>12k Knit loop</li>
+<li>12p Pile loop</li>
+<li>12w Mesh-looking welt</li>
+<li>13 Cylinder needle movement line according to Example 2 of present invention</li>
+<li>13k Needle selection for knitting</li>
+<li>13w Needle selection for welting</li>
+<li>14 Sinker needle movement line according to Example 2 of present invention</li>
+<li>14p Selection for piling</li>
+<li>14n Selection for non-piling</li>
+<li>14b Selection for mesh (large loop)</li>
+<li>14s Selection for non-mesh (loop having ordinary size)</li>
+<li>15 Ground yarn according to Example 2 of present invention</li>
+<li>16 Mesh/pile yarn according to Example 2 of present invention</li>
+<li>17 Second ground yarn according to Example 2 of present invention</li>
+<li>17b Large loop</li>
+<li>17s Loop having ordinary size</li>
+<li>20 Sinker</li>
+<li>21 Sinker top</li>
+<li>22 Sinker nose</li>
+<li>F1 First feeder</li>
+<li>F2 Second feeder</li>
+<li>F3 Third feeder<!-- EPO <DP n="12"> --></li>
+<li>NL Needle loop</li>
+<li>SL Sinker loop</li>
+</ul></p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="13"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A method for knitting a single-knit knitted fabric using at least two feeders including a first feeder (F1) and a second feeder (F2), in a circular knitting machine including an apparatus for electrically controlling cylinder needles and sinkers, comprising:
+<claim-text>- at the first feeder (F1), feeding a first yarn (11, 15) and selecting all cylinder needles for knitting, thereafter lowering all cylinder needles to a position immediately before a position where they perform knock-over; and</claim-text>
+<claim-text>- at the second feeder (F2), feeding a second yarn (12, 16), the method being <b>characterized by</b> performing at the second feeder three steps (i) to (iii) below in the same course,
+<claim-text>(i) selecting a cylinder needle for knitting (9k) and selecting a corresponding sinker for piling (10p), thereby forming a pile loop (12p),</claim-text>
+<claim-text>(ii) selecting a cylinder needle for knitting (9k) and selecting a corresponding sinker for non-piling (10n), thereby forming a knit loop (12k), and</claim-text>
+<claim-text>(iii) selecting a cylinder needle for welting (9w) and selecting a corresponding sinker for non-piling (10n), thereby forming a mesh-looking welt (12w).</claim-text></claim-text></claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>The method for knitting a single-knit knitted fabric according to claim 1,<!-- EPO <DP n="14"> --> wherein four steps (i) to (iv) obtained by adding a step (iv) below to the steps according to claim 1 are performed;<br/>
+(iv) selecting a cylinder needle for welting (9w) and selecting a corresponding sinker for piling (10p), thereby forming an inlay-looking loop (12i).</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>The method for knitting a single-knit knitted fabric according to claim 1 or 2,<br/>
+wherein after steps (i)-(iii) or (i)-(iv), respectively, the cylinder needles are lowered to a knock-over point so that a first course is formed; the method further comprising:<br/>
+using a third feeder (F3), and feeding a third yarn at the third feeder (F3) and selectively performing two steps (v) and (vi) below so that loops are formed in a second course,
+<claim-text>(v) selecting a sinker for mesh (14b), thereby forming a loop (17b) having a size that is larger than an ordinary size, and</claim-text>
+<claim-text>(vi) selecting a sinker for non-mesh (14s), thereby forming a loop (17s) having the ordinary size.</claim-text></claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>A single-knit knitted fabric knitted by the method according to claim 2, comprising a course having all of a mesh-jacquard structure, a pile-jacquard structure, and an inlay-looking-jacquard structure.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>A single-knit knitted fabric knitted by the method according to claim 3, comprising a course having all of a mesh-jacquard structure, a pile-jacquard structure, and an inlay-looking-jacquard structure, and further comprising a sinker mesh-jacquard structure with a loop having a size that is larger than the ordinary size.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>A single-knit jacquard knitted fabric having a course in which any one of knitting structures A or B below is formed:
+<claim-text>A. (a) a pile loop (12p), (b) a knit loop (12k), (c) an inlay-looking loop (12i), and (d) a mesh-looking welt (12w),</claim-text>
+<claim-text>B. (a) a pile loop (12p), (c) an inlay-looking loop (12i), and (d) a mesh-looking welt (12w).</claim-text><!-- EPO <DP n="15"> --></claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>The single-knit knitted fabric according to claim 6,<br/>
+wherein a loop (17b) having a size that is larger than an ordinary size and a loop (17s) having the ordinary size are knitted in the same course so as to be positioned adjacent to the course knitted in claim 6.</claim-text></claim>
+</claims>
+<claims id="claims02" lang="de"><!-- EPO <DP n="16"> -->
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Verfahren zum Stricken von Rechts/Links-Maschenware unter Verwendung von mindestens zwei Zuführern, die einen ersten Zuführer (F1) und einen zweiten Zuführer (F2) einschließen, in einer Rundstrickmaschine mit einer Vorrichtung zur elektrischen Steuerung von Zylindernadeln und Platinen, umfassend:
+<claim-text>- an dem ersten Zuführer (F1), Zuführen eines ersten Garns (11, 15) und Auswählen aller Zylindernadeln zum Stricken, anschließendes Absenken aller Zylindernadeln in eine Position unmittelbar vor einer Position, wo sie Abschlagen durchführen; und</claim-text>
+<claim-text>- an dem zweiten Zuführer (F2), Zuführen eines zweiten Garns (12, 16), wobei das Verfahren <b>gekennzeichnet ist durch</b> Ausführen an dem zweiten Zuführer von drei nachstehenden Schritten (i) bis (iii) in der gleichen Maschenreihe,
+<claim-text>(i) Auswählen einer Zylindernadel zum Stricken (9k) und Auswählen einer entsprechenden Platine zum Auflaufen (10p), wodurch ein Schlaufenfaden (12p) gebildet wird,</claim-text>
+<claim-text>(ii) Auswählen einer Zylindernadel zum Stricken (9k) und Auswählen einer entsprechenden Platine zum Nicht-Auflaufen (10n),<!-- EPO <DP n="17"> --> wodurch eine Strickschlaufe (12k) gebildet wird, und</claim-text>
+<claim-text>(iii) Auswählen einer Zylindernadel zum Kedern (9w) und Auswählen einer entsprechenden Platine zum Nicht-Auflaufen (10n), wodurch ein wie eine Masche aussehender Keder (12w) gebildet wird.</claim-text></claim-text></claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Verfahren zum Stricken von Rechts/Links-Maschenware nach Anspruch 1, wobei vier Schritte (i) bis (iv), die durch Hinzufügen eines nachstehenden Schritts (iv) zu den Schritten gemäß Anspruch 1 erlangt werden, ausgeführt werden;<br/>
+(iv) Auswählen einer Zylindernadel zum Kedern (9w) und Auswählen einer entsprechenden Platine zum Auflaufen (10p), wodurch eine wie eine Einlage aussehende Schlaufe (12i) gebildet wird.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Verfahren zum Stricken von Rechts/Links-Maschenware nach Anspruch 1 oder 2, wobei jeweils nach den Schritten (i) bis (iii) oder (i) bis (iv) die Zylindernadeln bis zu einem Umschlagpunkt abgesenkt werden, so dass eine erste Maschenreihe gebildet wird;<br/>
+wobei das Verfahren des Weiteren umfasst:<br/>
+Verwenden eines dritten Zuführers (F3) und Zuführen eines dritten Garns am dritten Zuführer (F3) und selektives Ausführen zweier nachstehender Schritte (v) und (vi), sodass Schlaufen in einer zweiten Maschenreihe gebildet werden,
+<claim-text>(v) Auswählen einer Platine für maschig (14b), wodurch eine Schlaufe (17b) mit einer Größe gebildet wird, die größer als eine übliche Größe ist,</claim-text>
+<claim-text>(vi) Auswählen einer Platine für maschenlos (14s), wodurch eine Schlaufe (17s) mit der üblichen Größe gebildet wird.</claim-text></claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Rechts/Links-Maschenware, gestrickt durch das Verfahren nach Anspruch 2, die aus einer Maschenreihe besteht, die insgesamt eine Maschen-Jacquard-Struktur, eine Flor-Jacquard-Struktur und eine, wie eine Einlage aussehende, Jacquard-Struktur aufweist.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Rechts/Links-Maschenware, gestrickt durch das Verfahren nach Anspruch 3, die aus einer Maschenreihe besteht, die insgesamt eine Maschen-Jacquard-Struktur,<!-- EPO <DP n="18"> --> eine Flor-Jacquard-Struktur und eine, wie eine Einlage aussehende, Jacquard-Struktur aufweist, und des Weiteren aus einer Platinen-Maschen-Jacquard-Struktur mit einer Schlaufe besteht, die eine Größe aufweist, die größer als die übliche Größe ist.</claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Rechts/Links-Jacquard-Maschenware mit einer Maschenreihe, bei der jede der nachstehenden Strickstrukturen A oder B gebildet wird:
+<claim-text>A. (a) ein Schlaufenfaden (12p), (b) eine Strickschlaufe (12k), (c) eine wie eine Einlage aussehende Schlaufe (12i) und (d) ein wie eine Masche aussehender Keder (12w),</claim-text>
+<claim-text>B. (a) ein Schlaufenfaden (12p), (c) eine wie eine Einlage aussehende Schlaufe (12i) und (d) ein wie eine Masche aussehender Keder (12w).</claim-text></claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Rechts/Links-Maschenware nach Anspruch 6, wobei eine Schlaufe (17b) mit einer Größe, die größer als eine übliche Größe ist, und eine Schlaufe (17s), die die übliche Größe aufweist, in der gleichen Maschenreihe gestrickt werden, um angrenzend an die im Anspruch 6 gestrickte Maschenreihe positioniert zu werden.</claim-text></claim>
+</claims>
+<claims id="claims03" lang="fr"><!-- EPO <DP n="19"> -->
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Procédé de tricotage d'un tissu tricoté simple en utilisant au moins deux dispositifs d'alimentation comprenant un premier dispositif d'alimentation (F1) et un second dispositif d'alimentation (F2) dans une machine à tricoter circulaire comportant un appareil pour commander électriquement des aiguilles de cylindres et des platines, comportant :
+<claim-text>- au premier dispositif d'alimentation (F1), alimentation d'un premier fil (11, 15) et sélection de toutes les aiguilles de cylindres pour le tricotage, ensuite abaissement de toutes les aiguilles de cylindres à une position immédiatement avant une position, dans laquelle elles effectuent un abattage; et</claim-text>
+<claim-text>- au second dispositif d'alimentation (F2), alimentation d'un second fil (12, 16), le procédé étant <b>caractérisé par</b> la réalisation au second dispositif d'alimentation de trois étapes (i) à (iii) ci-dessous dans la même rangée,
+<claim-text>(i) choisir une aiguille de cylindre pour le tricotage (9k) et choisir une platine correspondante pour le piling (10p), formant ainsi une boucle de poil (12p),<!-- EPO <DP n="20"> --></claim-text>
+<claim-text>(ii) choisir une aiguille de cylindres pour le tricotage (9k) et choisir une platine correspondante pour non-piling (10n), formant ainsi une boucle de tricot (12k), et</claim-text>
+<claim-text>(iii) choisir une aiguille de cylindre pour ourler (9w) et choisir une platine correspondante pour non piling (10n), formant ainsi un ourlet ressemblant à des mailles (12w).</claim-text></claim-text></claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Procédé de tricotage d'un tissu tricoté simple selon la revendication 1, dans lequel quatre étapes (i) à (iv) obtenues en ajoutant une étape (iv) ci-dessous aux étapes selon la revendication 1 sont effectuées;<br/>
+(iv) choisir une aiguille de cylindre pour ourler (9w) et choisir une platine correspondante pour le piling (10p), formant ainsi une boucle ressemblant à une incrustation (12i).</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Procédé de tricotage d'un tissu tricoté simple selon la revendication 1 ou 2,
+<claim-text>dans lequel, après les étapes (i) à (iii) ou (i) à (iv) respectivement, les aiguilles de cylindres sont abaissées à un point d'abattage de sorte qu'une première rangée est formé;</claim-text>
+<claim-text>le procédé comportant en outre:<br/>
+utilisation d'un troisième dispositif d'alimentation (F3) et alimentation d'un troisième fil au troisième dispositif d'alimentation (F3) et réalisation sélective de deux étapes (v) et (iv) ci-dessous de sorte que des boucles sont formées dans une seconde rangée,
+<claim-text>(v) choisir une platine pour des mailles (14b), formant ainsi une boucle (17b) ayant une taille supérieure à une taille ordinaire, et</claim-text>
+<claim-text>(vi) choisir une platine pour non-mailles (14s), formant ainsi une boucle (17s) ayant la taille ordinaire.</claim-text></claim-text></claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Tissu tricoté simple tricoté par le procédé selon la revendication 2, comportant une rangée ayant tout d'une structure maillée-jacquard, une<!-- EPO <DP n="21"> --> structure poil-jacquard, et une structure jacquard ressemblant à une incrustation.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Tissu tricoté simple tricoté par le procédé selon la revendication 3, comportant une rangée ayant tout d'une structure maillée-jacquard, une structure poil-jacquard, et une structure jacquard ressemblant à une incrustation, et comportant en outre une structure maillée-jacquard de platine avec une boucle ayant une taille supérieure à la taille ordinaire.</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Tissu tricoté simple jacquard ayant une rangée, dans lequel l'une quelconque des structures de tricotage A ou B ci-dessous est formée:
+<claim-text>A. (a) une boucle de poil (12p), (b) une boucle tricotée (12k), (c) une boucle ressemblant à une incrustation (12i), et (d) un ourlet (9w) ressemblant à des mailles (12w),</claim-text>
+<claim-text>B. (a) une boucle de poil (12p), (c) une boucle ressemblant à une incrustation (12i), et (d) un ourlet (9w) ressemblant à des mailles (12w).</claim-text></claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Tissu tricoté simple selon la revendication 6, dans lequel une boucle (17b) ayant une taille supérieure à une taille ordinaire et une boucle (17s) ayant la taille ordinaire sont tricotées dans la même rangée, afin d'être positionnée adjacente à la rangée tricotée selon la revendication 6.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="22"> -->
+<figure id="f0001" num="1,2,3"><img id="if0001" file="imgf0001.tif" wi="135" he="222" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="23"> -->
+<figure id="f0002" num="4,5,6"><img id="if0002" file="imgf0002.tif" wi="165" he="218" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="24"> -->
+<figure id="f0003" num="7,8,9,10"><img id="if0003" file="imgf0003.tif" wi="162" he="233" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="JP2001355157A"><document-id><country>JP</country><doc-number>2001355157</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0005]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="JPH09021042A"><document-id><country>JP</country><doc-number>H09021042</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0002">[0006]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="EP1513373A1"><document-id><country>EP</country><doc-number>1513373</doc-number><kind>A1</kind></document-id></patcit><crossref idref="pcit0003">[0011]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="CN1523150A"><document-id><country>CN</country><doc-number>1523150</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0004">[0011]</crossref></li>
+<li><patcit id="ref-pcit0005" dnum="US4986090A"><document-id><country>US</country><doc-number>4986090</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0005">[0011]</crossref></li>
+<li><patcit id="ref-pcit0006" dnum="EP0335618A1"><document-id><country>EP</country><doc-number>0335618</doc-number><kind>A1</kind></document-id></patcit><crossref idref="pcit0006">[0011]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

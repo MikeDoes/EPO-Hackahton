@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE package-index PUBLIC "-//EPO//PACKAGE INDEX 1.2//EN" "package-index-v1-2.dtd">
+<package-index>
+<package-file size="123057">
+<filename>EP18759438NWB1.xml</filename>
+<file-location>.</file-location>
+<subdocs>
+<subdoc subdoc-code="bibl"></subdoc>
+<subdoc subdoc-code="desc"></subdoc>
+<subdoc subdoc-code="clms"></subdoc>
+<subdoc subdoc-code="draw"></subdoc>
+<subdoc subdoc-code="epref"></subdoc>
+</subdocs>
+</package-file>
+<package-file size="433750">
+<filename>EP18759438NWB1.pdf</filename>
+<file-location>.</file-location>
+<subdocs>
+<subdoc subdoc-code="bibl"></subdoc>
+<subdoc subdoc-code="desc"></subdoc>
+<subdoc subdoc-code="clms"></subdoc>
+<subdoc subdoc-code="draw"></subdoc>
+<subdoc subdoc-code="epref"></subdoc>
+</subdocs>
+</package-file>
+<package-file size="620">
+<filename>imgb0001.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="866">
+<filename>imgb0002.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="594">
+<filename>imgb0003.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="877">
+<filename>imgb0004.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="7938">
+<filename>imgb0005.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="13244">
+<filename>imgb0006.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="1509">
+<filename>imgb0007.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="18862">
+<filename>imgb0008.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="1616">
+<filename>imgb0009.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="12533">
+<filename>imgf0001.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="7972">
+<filename>imgf0002.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="10249">
+<filename>imgf0003.tif</filename>
+<file-location>.</file-location>
+</package-file>
+</package-index>

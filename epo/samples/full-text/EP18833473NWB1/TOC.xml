@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE package-index PUBLIC "-//EPO//PACKAGE INDEX 1.2//EN" "package-index-v1-2.dtd">
+<package-index>
+<package-file size="62241">
+<filename>EP18833473NWB1.xml</filename>
+<file-location>.</file-location>
+<subdocs>
+<subdoc subdoc-code="bibl"></subdoc>
+<subdoc subdoc-code="desc"></subdoc>
+<subdoc subdoc-code="clms"></subdoc>
+<subdoc subdoc-code="draw"></subdoc>
+<subdoc subdoc-code="epref"></subdoc>
+</subdocs>
+</package-file>
+<package-file size="314017">
+<filename>EP18833473NWB1.pdf</filename>
+<file-location>.</file-location>
+<subdocs>
+<subdoc subdoc-code="bibl"></subdoc>
+<subdoc subdoc-code="desc"></subdoc>
+<subdoc subdoc-code="clms"></subdoc>
+<subdoc subdoc-code="draw"></subdoc>
+<subdoc subdoc-code="epref"></subdoc>
+</subdocs>
+</package-file>
+<package-file size="20050">
+<filename>imgf0001.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="15269">
+<filename>imgf0002.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="10406">
+<filename>imgf0003.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="12115">
+<filename>imgf0004.tif</filename>
+<file-location>.</file-location>
+</package-file>
+</package-index>

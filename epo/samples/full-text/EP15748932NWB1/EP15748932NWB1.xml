@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP15748932B1" file="EP15748932NWB1.xml" lang="en" country="EP" doc-number="3104940" kind="B1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSK..HRIS..MTNORS..SM..................</B001EP><B003EP>*</B003EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  2100000/0</B007EP></eptags></B000><B100><B110>3104940</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>15748932.9</B210><B220><date>20150213</date></B220><B240><B241><date>20160913</date></B241><B242><date>20191001</date></B242></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>201461940041 P</B310><B320><date>20140214</date></B320><B330><ctry>US</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20161221</date><bnum>201651</bnum></B430><B450><date>20211006</date><bnum>202140</bnum></B450><B452EP><date>20210518</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>A61K  31/202       20060101AFI20210406BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>A61K  31/4985      20060101ALI20210406BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>A61P  33/12        20060101ALI20210406BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>A61P  43/00        20060101ALI20210406BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cset><classification-cset group-number="2"><classification-cpc rank="1"><text>A61K  31/202       20130101 LI20151001BHEP        </text></classification-cpc><classification-cpc rank="2"><text>A61K2300/00        20130101 LI20151001BHEP        </text></classification-cpc></classification-cset><classification-cset group-number="3"><classification-cpc rank="1"><text>A61K  31/4985      20130101 LI20151001BHEP        </text></classification-cpc><classification-cpc rank="2"><text>A61K2300/00        20130101 LI20151001BHEP        </text></classification-cpc></classification-cset></classifications-cset><classifications-cpc><classification-cpc sequence="1"><text>A61P  43/00        20180101 LI20200331BHEP        </text></classification-cpc><classification-cpc sequence="2"><text>A61K  31/4985      20130101 LI20151001BHEP        </text></classification-cpc><classification-cpc sequence="3"><text>A61K  31/202       20130101 FI20150910BHEP        </text></classification-cpc><classification-cpc sequence="4"><text>Y02A  50/30        20180101 LA20200801RHEP        </text></classification-cpc><classification-cpc sequence="5"><text>A61P  33/12        20180101 LI20200327BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>ARACHIDONSÄURE UND PRAZIQUANTEL ZUR VORBEUGUNG UND/ODER BEHANDLUNG VON SCHISTOSOMIASIS</B542><B541>en</B541><B542>ARACHIDONIC ACID AND PRAZIQUANTEL FOR THE PREVENTION AND/OR TREATMENT OF SCHISTOSOMIASIS</B542><B541>fr</B541><B542>ACIDE ARACHIDONIQUE ET PRAZIQUANTEL POUR PRÉVENIR ET/OU TRAITER UNE SCHISTOSOMIASE</B542></B540><B560><B561><text>WO-A1-2013/040206</text></B561><B561><text>WO-A2-2005/055973</text></B561><B561><text>GB-A- 2 460 056</text></B561><B562><text>RASHIKA EL RIDI ET AL: "Efficacy and mechanism of action of arachidonic acid in the treatment of hamsters infected with Schistosoma mansoni or Schistosoma haematobium", INTERNATIONAL JOURNAL OF ANTIMICROBIAL AGENTS, vol. 39, no. 3, March 2012 (2012-03), pages 232-239, XP055381089, AMSTERDAM, NL ISSN: 0924-8579, DOI: 10.1016/j.ijantimicag.2011.08.019</text></B562><B562><text>J. UTZINGER ET AL: "Combination Chemotherapy of Schistosomiasis in Laboratory Studies and Clinical Trials", ANTIMICROBIAL AGENTS AND CHEMOTHERAPY, vol. 47, no. 5, May 2003 (2003-05), pages 1487-1495, XP055381075, ISSN: 0066-4804, DOI: 10.1128/AAC.47.5.1487-1495.2003</text></B562><B562><text>EL RIDI ET AL.: 'Novel Therapeutic and Prevention Approaches for Schistosomiasis: Review.' JOURNAL OF ADVANCED RESEARCH, [Online] vol. 4, no. 5, 2013, ISSN 2090-1232 pages 467 - 478, XP055231273 ISSN: 2090-1232 Retrieved from the Internet: &lt;URL:http://ac.els-cdn.com/S209012321200031 8/1-s2.0-S2090123212000318-main.pdf ? _tid=076a2c82-1f39-11e5-895e-00000aab0f01&amp;a cdnat=1435676730_065810a8c81388f47b273 7c20e79b7a9&gt; [retrieved on 2015-06-30]</text></B562><B562><text>EL RIDI ET AL.: 'In Vitro and In Vivo Activities of Arachidonic Acid against Schistosoma mansoni and Schistosoma haematobium.' ANTIMICROBIAL AGENTS AND CHEMOTHERAPY, [Online] vol. 54, no. 8, 2010, ISSN 0066-4804 pages 3383 - 3389, XP055231276 ISSN: 0066-4804 Retrieved from the Internet: &lt;URL:http://aac.asm.org/content/54/8/3383.f ull.pdf+html&gt; [retrieved on 2015-06-30]</text></B562><B562><text>GARBA. ET AL.: 'Efficacy and safety of two closely spaced doses of praziquantel against Schistosoma haematobium and S. mansoni and re-infection patterns in school-aged children in Niger.' ACTA TROP., [Online] vol. 128, no. 2, 2013, ISSN 0001-706X pages 334 - 344, XP028741601 ISSN: 0001-706X Retrieved from the Internet: &lt;URL:http://www.ncbi.nlm.nih.gov/pubmed/229 40014&gt; [retrieved on 2015-06-30]</text></B562><B562><text>SELIM ET AL.: 'Efficacy and safety of arachidonic acid for treatment of Schistosoma mansoni-infected children in Menoufiya.' AM J TROP MED HYG., [Online] vol. 91, no. 5, November 2014, ISSN 0002-9637 pages 973 - 981, XP055231279 ISSN: 0002-9637 Retrieved from the Internet: &lt;URL:http://www.ncbi.nlm.nih.gov/pubmed/252 46692&gt; [retrieved on 2015-06-30]</text></B562><B562><text>BARAKAT ET AL.: 'Efficacy and Safety of Arachidonic Acid for Treatment of School-Age Children in Schistosoma mansoni High-Endemicity Regions.' AMER. J. TROP. MED. HYG., [Online] vol. 92, no. 4, 2015, ISSN 0002-9637 pages 797 - 804, XP055231280 ISSN: 0002-9637 Retrieved from the Internet: &lt;URL:http://www.ncbi.nlm.nih.gov/pmc/articl es/PMC4385776/pdf/tropmed-92-797.pdf&gt; [retrieved on 2015-06-30]</text></B562><B562><text>None</text></B562><B565EP><date>20170627</date></B565EP></B560></B500><B700><B720><B721><snm>HADLEY, Kevin</snm><adr><str>6513 Grainger Court</str><city>Elkridge, Maryland 21075</city><ctry>US</ctry></adr></B721><B721><snm>EL RIDI, Rashika</snm><adr><str>11 El Tobgy Street</str><city>Dokki
+Giza</city><ctry>EG</ctry></adr></B721></B720><B730><B731><snm>DSM IP Assets B.V.</snm><iid>100112629</iid><irf>30140-EP-EPT</irf><adr><str>Het Overloon 1</str><city>6411 TE Heerlen</city><ctry>NL</ctry></adr></B731></B730><B740><B741><snm>DSM Intellectual Property</snm><iid>101687962</iid><adr><str>P.O. Box 4</str><city>6100 AA Echt</city><ctry>NL</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B860><B861><dnum><anum>US2015015728</anum></dnum><date>20150213</date></B861><B862>en</B862></B860><B870><B871><dnum><pnum>WO2015123480</pnum></dnum><date>20150820</date><bnum>201533</bnum></B871></B870><B880><date>20151022</date><bnum>000000</bnum></B880></B800></SDOBI>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001"><b><u>Field of the Invention</u></b></heading>
+<p id="p0001" num="0001">Any references in the description to methods of treatment refer to the compounds, pharmaceutical compositions and medicaments of the present invention for use in a method for treatment of the human (or animal) body by therapy (or for diagnosis). Disclosed herein are compositions for the prevention and treatment of schistosomiais comprising a polyunsaturated fatty acid and a therapeutic agent. Further disclosed herein are methods for the prevention and treatment of schistosomiasis, methods to confer resistance to schistosomiasis and methods to prevent re-occurrence of schistosomiasis comprising administration of a polyunsaturated fatty acid and a therapeutic agent.</p>
+<heading id="h0002"><b><u>Background of the Invention</u></b></heading>
+<p id="p0002" num="0002">Schistosomiasis (also known as bilharzia, bilharziosis or snail fever) is a severe parasitic disease caused by several species of fluke of the genus <i>Schistosoma.</i> The disease is found predominantly in Asia, Africa and South America and especially in areas with water that are contaminated with snails that carry the parasite. It is the second most common parasitic disease after malaria and affects mainly children. Schistosomiasis is caused by the platyhelminth worms of the genus <i>Schistosoma,</i> trematodes that live in the bloodstream of humans and animals. Three species (<i>Schistosoma mansoni, Schistosoma haematobium</i> and <i>Schistosoma japonicum)</i> account for the majority of the infections. Schistosomes migrate against the direction of blood flow to their permanent abode with S. <i>masoni</i> and <i>S</i>. <i>japonicum</i> to the inferior mesoteric and S. <i>haematobium</i> to the peri-vesical venous plexus. Schistosomes lay eggs near the conduit for egg passage to the external environment to complete the life cycle. Accordingly, massive number of eggs exit daily from the blood capillaries to the lumen of the gut or urinary bladder whereby they may be detected by analysis of stool and urine samples.</p>
+<p id="p0003" num="0003">Arachidonic acid (ARA), all-<i>cis</i> 5,8,11,14-eicosatetreanoic acid, an omega-6 fatty acid: 20:4(ω-6), is present in the phospholipids of membranes of the body's cells and has been hypothesized to act to kill juvenile and adult male and female <i>S</i>. <i>masoni</i> and <i>S</i>. <i>haematobium</i> worms, see for example <nplcit id="ncit0001" npl-type="s"><text>EI Ridi et al.: "In vitro and in vivo activities of arachidonic acid against Schistosoma mansoni and Schistosoma haematobium.", Antimicrob. Agents Chemother., vol. 54, no. 8, 2010, pages 3383-3389</text></nplcit>, <nplcit id="ncit0002" npl-type="s"><text>EI Ridi et al.: "Efficacy and mechanism of action of arachidonic acid in the treatment of hamsters infected with Schistosoma mansoni or Schistosoma haematobium", Int. J. Antimicrob., vol. 39, no. 3, March 2012 (2012-03), pages 232-239</text></nplcit>, and <patcit id="pcit0001" dnum="GB2460056A"><text>GB 2460056A</text></patcit>.</p>
+<p id="p0004" num="0004">Praziquantel (PZQ, for a review see <nplcit id="ncit0003" npl-type="s"><text>EI Ridi et al.: "Novel therapeutic and prevention approaches for schistosomiasis: Review", J. Adv. Res., vol. 4, no. 5, 2013, pages 467-478</text></nplcit>) is currently the only drug for treatment of Schistosomiasis, particularly <i>S</i>. <i>masoni.</i> However, the rate of failure of cure in children following treatment was consistently associated with high intensity of infection, requiring repeated treatments and accelerating the impending threat of schistosomes' resistance to the drug. Further, PZQ was not shown to confer resistance to schistosomes. As a result, there is a need for a composition, alone or in combination with PZQ, for the treatment and/or<!-- EPO <DP n="2"> --> prevention of Schistosomiasis and to confer resistance to and/or prevent re-occurrence of schistosomiasis.</p>
+<heading id="h0003"><b><u>Summary of the Invention</u></b></heading>
+<p id="p0005" num="0005">The present invention relates to a composition for the treatment and/or prevention of schistosomiasis, comprising at least one polyunsaturated fatty acid (PUFA) and at least one therapeutic compound, wherein the PUFA is arachidonic acid and wherein the therapeutic compound is 2-(Cyclohexylcarbonyl)-1,2,3,6,7,11b-hexahydro-4H-pyrazino[2,1-a]isoquinolin-4-one (praziquantel), wherein the PUFA is in the form of a free fatty acid, salt, fatty acid ester (e.g. methyl or ethyl ester), monoacylglycerol (MAG), diacylglycerol (DAG), triacylglycerol (TAG), and/or phospholipid (PL). The present invention also relates to this composition for use for the treatment and/or prevention of schistosomiasis, to confer resistance to schistosomiasis, and/or to prevent re-occurrence of schistosomiasis.</p>
+<p id="p0006" num="0006">Preferably, the composition comprises a PUFA that is an omega-6 fatty acid that is all-<i>cis</i> 5,8,11,14-eicosatetreanoic acid, also known as arachidonic acid (ARA).</p>
+<p id="p0007" num="0007">Additionally, the methods disclosed herein comprise administration of a polyunsaturated fatty acid (PUFA) and a therapeutic agent. In one embodiment, the PUFA is administered in one dosage and the therapeutic agent is administered in a second dosage. In another embodiment, the PUFA and the therapeutic agent are administered in the same dosage.</p>
+<heading id="h0004"><b><u>Detailed Description of the Invention</u></b></heading>
+<p id="p0008" num="0008">Disclosed herein are compositions for the prevention and/or treatment of schistosomiais comprising a polyunsaturated fatty acid and a therapeutic agent. Further described herein are methods for the prevention and/or treatment of schistosomiasis, methods to confer resistance to schistosomiasis and methods to prevent re-occurrence of schistosomiasis comprising administration of a polyunsaturated fatty acid and a therapeutic agent in a therapeutically effective amount.</p>
+<p id="p0009" num="0009">The features and advantages of the invention may be more readily understood by those of ordinary skill in the art upon reading the following detailed description. It is to be appreciated that certain features of the invention that are, for clarity reasons, described above and below in the context of separate embodiments, may also be combined so as to sub-combinations thereof.</p>
+<p id="p0010" num="0010">Embodiments identified herein as exemplary are intended to be illustrative and not limiting.</p>
+<p id="p0011" num="0011">The term "about" is intended to capture variations above and below the stated number that may achieve substantially the same results as the stated number.</p>
+<p id="p0012" num="0012">Fatty acids are classified based on the length and saturation characteristics of the<!-- EPO <DP n="3"> --> carbon chain. Fatty acids present in a microbial oil can have from 4 to 28 carbon atoms and are<!-- EPO <DP n="4"> --> termed short chain, medium chain, or long chain fatty acids based on the number of carbons present in the chain. Fatty acids are termed saturated fatty acids when no double bonds are present between the carbon atoms, and are termed unsaturated fatty acids when double bonds are present. Unsaturated long chain fatty acids are monounsaturated when only one double bond is present and are polyunsaturated when more than one double bond is present.</p>
+<p id="p0013" num="0013">Polyunsaturated fatty acids (PUFAs) are classified based on the position of the first double bond from the methyl end of the fatty acid; omega-3 (n-3) fatty acids contain a first double bond at the third carbon, while omega-6 (n-6) fatty acids contain a first double bond at the sixth carbon. For example, docosahexaenoic acid (DHA) is an omega-3 long chain polyunsaturated fatty acid (LC-PUFA) with a chain length of 22 carbons and 6 double bonds, often designated as "22:6n-3." In one embodiment, the PUFA is selected from an omega-3 fatty acid, an omega-6 fatty acid, and mixtures thereof. In another embodiment, the PUFA is selected from long-chain polyunsaturated fatty acids (LC-PUFAs). In a still further embodiment, the PUFA is selected from docosahexaenoic acid (DHA), eicosapentaenoic acid (EPA), docosapentaenoic acid (DPA), arachidonic acid (ARA), gamma-linolenic acid (GLA), dihomo-gamma-linolenic acid (DGLA), stearidonic acid (SDA), and mixtures thereof. In another embodiment, the PUFA is selected from DHA, ARA, and mixtures thereof. In a further embodiment, the PUFA is DHA. In yet a further embodiment, the PUFA is ARA.</p>
+<p id="p0014" num="0014">LC-PUFAs are fatty acids that contain at least 3 double bonds and have a chain length of 18 or more carbons or 20 or more carbons. LC-PUFAs of the omega-6 series include, but are not limited to, di-homo-gammalinoleic acid (C20:3n-6), arachidonic acid (C20:4n-6) ("ARA"), docosatetraenoic acid or adrenic acid (C22:4n-6), and docosapentaenoic acid (C22:5n-6) ("DPA n-6"). The LC-PUFAs of the omega-3 series include, but are not limited to, eicosatrienoic acid (C20:3n-3), eicosatetraenoic acid (C20:4n-3), eicosapentaenoic acid (C20:5n-3) ("EPA"), docosapentaenoic acid (C22:5n-3), and docosahexaenoic acid (C22:6n-3). The LC-PUFAs also include fatty acids with greater than 22 carbons and 4 or more double bonds including, but not limited to, C24:6(n-3) and C28:8(n-3).</p>
+<p id="p0015" num="0015">The PUFAs can be in the form of a free fatty acid, salt, fatty acid ester (e.g. methyl or ethyl ester), monoacylglycerol (MAG), diacylglycerol (DAG), triacylglycerol (TAG), and/or phospholipid (PL).</p>
+<p id="p0016" num="0016">Any source of PUFA can be used in the compositions and methods of the invention, including, for example, animal, plant and microbial sources. Preferred polyunsaturated fatty acid (PUFA) sources can be any source of PUFA that are suitable for use in the present invention.</p>
+<p id="p0017" num="0017">Examples of animal sources include aquatic animals (e.g., fish, marine mammals, crustaceans, rotifers, etc.). Examples of plant sources include microalgae, flaxseeds, rapeseeds, corn, evening primrose and borage. Examples of microorganisms include microalgae, protists, bacteria and fungi (including yeast). The use of a microorganism source, such as microalgae, can provide organoleptic advantages.</p>
+<p id="p0018" num="0018">In accordance with the present invention, the polyunsaturated fatty acids that are used in the compositions described herein are in a variety of forms, for example, such forms include,<!-- EPO <DP n="5"> --> but are not limited to: a highly purified algal oil comprising a PUFA, a plant oil comprising the PUFA, triglyceride oil comprising the PUFA, phospholipid comprising the PUFA, a combination of protein and phospholipids comprising the PUFA, dried marine microalgae comprising the PUFA, sphingolipids comprising the PUFA, esters of the PUFA, free fatty acid, a conjugate of the PUFA with another bioactive molecule, and conjugates thereof.</p>
+<p id="p0019" num="0019">In one embodiment, the composition comprises a polyunsaturated fatty acid (PUFA) and a therapeutic agent. Preferably, the composition comprises a PUFA that is an omega-6 fatty acid. More preferably, the composition comprises a PUFA that is an omega-6 fatty acid that is all-<i>cis</i> 5,8,11,14-eicosatetreanoic acid, also known as arachidonic acid (ARA). In one embodiment, the composition comprises a therapeutic agent that is a trematocide. Preferably, the composition comprises a therapeutic agent that is a trematocide that is 2-(Cyclohexylcarbonyl)-1,2,3,6,7,11b-hexahydro-4<i>H</i>-pyrazino[2,1-<i>a</i>]isoquinolin-4-one, also known as Praziquantel (PZQ), or a derivative thereof.</p>
+<p id="p0020" num="0020">In some embodiments, the PUFA is administered in one dosage and the therapeutic compound is administered in a second dosage.</p>
+<p id="p0021" num="0021">In some embodiments, the PUFA is administered in an amount of about 5 mg/kg body weight/day, about 7 mg/kg body weight/day, about 10 mg/kg body weight/day, about 12 mg/kg body weight/day, about 15 mg/kg body weight/day, or from about 5 to about 15 mg/kg body weight/day, from about 7 to about 12 mg/kg body weight/day, from about 9 to about 11 mg/kg body weight/day.</p>
+<p id="p0022" num="0022">In one embodiment, the PUFA is administered in an amount of about 10 mg/kg body weight/day.</p>
+<p id="p0023" num="0023">In some embodiments, the PUFA is administered in an amount of from about 10 mg/kg body weight/day to about 600 mg/kg body weight/day, from about 20 mg/kg body weight/day to about 550 mg/kg body weight/day, from about 40 mg/kg body weight/day to about 500 mg/kg body weight/day, from about 50 mg/kg body weight/day to about 450 mg/kg body weight/day, from about 60 mg/kg body weight/day to about 400 mg/kg body weight/day, from about 70 mg/kg body weight/day to about 350 mg/kg body weight/day, from about 80 mg/kg body weight/day to about 300 mg/kg body weight/day, from about 90 mg/kg body weight/day to about 250 mg/kg body weight/day, from about 100 mg/kg body weight/day to about 200 mg/kg body weight/day, from about 110 mg/kg body weight/day to about 150 mg/kg body weight/day, about 10 mg/kg body weight/day about 20 mg/kg body weight/day, about 30 mg/kg body weight/day, about 40 mg/kg body weight/day, about 50 mg/kg body weight/day, about 60 mg/kg body weight/day, about 70 mg/kg body weight/day, about 80 mg/kg body weight/day, about 90 mg/kg body weight/day, about 100 mg/kg body weight/day, about 110 mg/kg body weight/day, about 120 mg/kg body weight/day, about 130 mg/kg body weight/day, about 140 mg/kg body weight/day, about 150 mg/kg body weight/day, about 160 mg/kg body weight/day, about 170 mg/kg body weight/day, about 180 mg/kg body weight/day, about 190 mg/kg body weight/day, about 200 mg/kg body weight/day, about 250 mg/kg body weight/day, about 300 mg/kg body weight/day, about 350 mg/kg body weight/day, about 400 mg/kg body weight/day, about 450<!-- EPO <DP n="6"> --> mg/kg body weight/day, about 500 mg/kg body weight/day, about 550 mg/kg body weight/day, about 600 mg/kg body weight/day.</p>
+<p id="p0024" num="0024">In one embodiment, the PUFA is administered in an amount of about 150 mg/kg body weight/day.</p>
+<p id="p0025" num="0025">In some embodiments, the PUFA is administered in a single dose or multiple doses.</p>
+<p id="p0026" num="0026">In some embodiments, the PUFA is administered over about 30 days, over about 20 days, over about 15 days, over about 10 days, over about 5 days, or over about 1 to 30 days, over about 1 to 20 days, over about 1 to 15 days, over about 1 to 10 days, over about 1 to 5 days.</p>
+<p id="p0027" num="0027">In some embodiments, the therapeutic agent is administered in an amount of about 20 mg/kg body weight/day, in an amount of about 25 mg/kg body weight/day, in an amount of about 30 mg/kg body weight/day, in an amount of about 35 mg/kg body weight/day, in an amount of about 40 mg/kg body weight/day, in an amount of about 45 mg/kg body weight/day, in an amount of from about 50 mg/kg body weight/day, in an amount of about 55 mg/kg body weight/day, in an amount of about 60 mg/kg body weight/day, in an amount of from about 20 to about 60 mg/kg body weight/day, in an amount of from about 25 to about 55 mg/kg body weight/day, in an amount of from about 30 to about 50 mg/kg body weight/day, in an amount of from about 35 to about 45 mg/kg body weight/day.</p>
+<p id="p0028" num="0028">In one embodiment, the therapeutic agent is administered in an amount of about 40 mg/kg body weight/day.</p>
+<p id="p0029" num="0029">In some embodiments, the Schistosomiasis is <i>Schistosoma mansoni, Schistosoma haematobium</i> and <i>Schistosoma japonicum.</i> In some embodiments, the Schistosomiasis is <i>Schistosoma mansoni.</i></p>
+<p id="p0030" num="0030">Additionally, the methods described herein comprise administration of a polyunsaturated fatty acid (PUFA) and a therapeutic agent for the treatment or prevention of schistosomiasis. In another embodiment, the methods disclosed herein comprise administration of a polyunsaturated fatty acid and a therapeutic agent to confer resistance to schistosomiasis. In another embodiment, the methods disclosed herein comprise administration of a polyunsaturated fatty acid and a therapeutic agent to prevent re-occurrence of schistosomiasis.</p>
+<p id="p0031" num="0031">In some embodiments, the PUFA is an omega-6 fatty acid. More preferably, the PUFA is an omega-6 fatty acid that is all-<i>cis</i> 5,8,11,14-eicosatetreanoic acid, also known as arachidonic acid (ARA).</p>
+<p id="p0032" num="0032">In some embodiments, the therapeutic agent is a trematocide. Preferably, the therapeutic agent that is a trematocide is 2-(Cyclohexylcarbonyl)-1,2,3,6,7,11b-hexahydro-4<i>H-</i>pyrazino[2,1-a]isoquinolin-4-one, also known as Praziquantel (PZQ), or a derivative thereof.</p>
+<p id="p0033" num="0033">In some embodiments, the PUFA is administered in one dosage and the therapeutic compound is administered in a second dosage.</p>
+<p id="p0034" num="0034">In some embodiments, the PUFA is administered in an amount of from about 5 mg/kg body weight/day, about 7 mg/kg body weight/day, about 10 mg/kg body weight/day, about 12 mg/kg body weight/day, about 15 mg/kg body weight/day or from about 5 to about 15 mg/kg body<!-- EPO <DP n="7"> --> weight/day, from about 7 to about 12 mg/kg body weight/day, from about 9 to about 11 mg/kg body weight/day.</p>
+<p id="p0035" num="0035">In one embodiment, the PUFA is administered in an amount of about 10 mg/kg body weight/day.</p>
+<p id="p0036" num="0036">In some embodiments, the PUFA is administered in an amount of from about 10 mg/kg body weight/day to about 600 mg/kg body weight/day, from about 20 mg/kg body weight/day to about 550 mg/kg body weight/day, from about 40 mg/kg body weight/day to about 500 mg/kg body weight/day, from about 50 mg/kg body weight/day to about 450 mg/kg body weight/day, from about 60 mg/kg body weight/day to about 400 mg/kg body weight/day, from about 70 mg/kg body weight/day to about 350 mg/kg body weight/day, from about 80 mg/kg body weight/day to about 300 mg/kg body weight/day, from about 90 mg/kg body weight/day to about 250 mg/kg body weight/day, from about 100 mg/kg body weight/day to about 200 mg/kg body weight/day, from about 110 mg/kg body weight/day to about 150 mg/kg body weight/day, about 10 mg/kg body weight/day about 20 mg/kg body weight/day, about 30 mg/kg body weight/day, about 40 mg/kg body weight/day, about 50 mg/kg body weight/day, about 60 mg/kg body weight/day, about 70 mg/kg body weight/day, about 80 mg/kg body weight/day, about 90 mg/kg body weight/day, about 100 mg/kg body weight/day, about 110 mg/kg body weight/day, about 120 mg/kg body weight/day, about 130 mg/kg body weight/day, about 140 mg/kg body weight/day, about 150 mg/kg body weight/day, about 160 mg/kg body weight/day, about 170 mg/kg body weight/day, about 180 mg/kg body weight/day, about 190 mg/kg body weight/day, about 200 mg/kg body weight/day, about 250 mg/kg body weight/day, about 300 mg/kg body weight/day, about 350 mg/kg body weight/day, about 400 mg/kg body weight/day, about 450 mg/kg body weight/day, about 500 mg/kg body weight/day, about 550 mg/kg body weight/day, about 600 mg/kg body weight/day.</p>
+<p id="p0037" num="0037">In one embodiment, the PUFA is administered in an amount of about 150 mg/kg body weight/day.</p>
+<p id="p0038" num="0038">In some embodiments, the PUFA is administered in a single dose or multiple doses.</p>
+<p id="p0039" num="0039">In some embodiments, the PUFA is administered over about 30 days, over about 20 days, over about 15 days, over about 10 days, over about 5 days, over about 1 to 30 days, over about 1 to 20 days, over about 1 to 15 days, over about 1 to 10 days, over about 1 to 5 days.</p>
+<p id="p0040" num="0040">In some embodiments, the therapeutic agent is administered in an amount of about 20 mg/kg body weight/day, in an amount of about 25 mg/kg body weight/day, in an amount of about 30 mg/kg body weight/day, in an amount of about 35 mg/kg body weight/day, in an amount of about 40 mg/kg body weight/day, in an amount of about 45 mg/kg body weight/day, in an amount of about 50 mg/kg body weight/day, in an amount of about 55 mg/kg body weight/day, in an amount of about 60 mg/kg body weight/day, in an amount of from about 20 to about 60 mg/kg body weight/day, in an amount of from about 25 to about 55 mg/kg body weight/day, in an amount of from about 30 to about 50 mg/kg body weight/day, in an amount of from about 35 to about 45 mg/kg body weight/day.</p>
+<p id="p0041" num="0041">In one embodiment, the therapeutic agent is administered in an amount of about 40 mg/kg body weight/day.<!-- EPO <DP n="8"> --></p>
+<p id="p0042" num="0042">In some embodiments, the Schistosomiasis is <i>Schistosoma mansoni, Schistosoma haematobium</i> and <i>Schistosoma japonicum.</i> In some embodiments, the Schistosomiasis is <i>Schistosoma mansoni.</i></p>
+<heading id="h0005"><b><u>EXAMPLES</u></b></heading>
+<heading id="h0006"><b>Example 1</b></heading>
+<heading id="h0007"><i>Subjects</i></heading>
+<p id="p0043" num="0043">Approximately 2000 school children in villages of three districts in the Menoufiya governorate located about 100 km north of Cairo, Egypt were screened. Two microscopic slides of stool samples were examined for each child on 3 consecutive days by the Kato-Katz method and egg counts per gram (epg) were recorded. 66 children, 44 males and 22 females, 6-15 years old (mean ± SD = 11.7 ± 1.6), with weight range of 25-52 kg (mean ± SD = 37.8 ± 8.6), and epg of 24-384 were selected as test subjects. 20 sex, age, and social conditions-matched, parasite-free children were used as controls.</p>
+<heading id="h0008"><i>Treatment</i></heading>
+<p id="p0044" num="0044">The 66 children were divided randomly into three groups whereby the first group of 20 children were given a single oral dose of Praziquantel (PZQ) (40 mg/kg body weight) on the first day of treatment and a placebo was given for the next three weeks (5 doses/week) ("PZQ-Placebo Treatment"). The PZQ was Distocide (Epico, El-Asher-Men-Ramadan City, Egypt). The placebo was 1g VegCap, containing corn-soy (DSM Nutritional Products, Columbia, Maryland). The second group of 23 children received ARA (10 mg/kg body weight/day) for 15 days over three weeks (5 days/ week) ("ARA Treatment") The ARA was 1g VegCap (DSM) containing approximately 395 mg ARA/capsule. The third group of 23 children were given Praziquantel (40 mg/kg body weight) in the first day of treatment and then received 15 doses of ARA (10 mg/kg/day; 5 doses/week) ("PZQ + ARA Treatment").</p>
+<heading id="h0009"><i>Study Design</i></heading>
+<p id="p0045" num="0045">Approximately 10 ml blood were obtained from each child 2-3 days before the start of the treatment and 3 days after the end of the ARA (or ARA + PZQ) treatment, corresponding to 18 days after PZQ-only treatment. Stool samples were obtained from each child on 3 consecutive days 1 week after the end of the ARA treatment (corresponding to 4 weeks after the PZQ-only treatment) and 6 weeks after the end of the ARA treatment (corresponding to 9 weeks after the PZQ-only treatment). Epg was assessed on each stool sample.</p>
+<heading id="h0010"><i>Biochemical and Hematological Parameters</i></heading>
+<p id="p0046" num="0046">Samples for biochemical analysis were put in a plain tube and allowed to clot for at least 60 minutes, centrifuged, and the serum was collected. Two ml blood samples were dispensed into a tube with EDTA and analyzed by automated blood hematology analyzer (XT 1800i, Sysmex Corporation).</p>
+<heading id="h0011"><i>Levels of Plasma Interleukin-10 (IL-10) and Interferon-Gamma (IFN-γ)</i></heading><!-- EPO <DP n="9"> -->
+<p id="p0047" num="0047">Plasma was retrieved from heparinized blood following centrifugation at 400 g for 20 minutes and stored at -76°C until assayed by capture enzyme-linked immunosorbent assay (ELISA) for levels of IL-10 and IFN-γ (ELISA MAX™ Set, BioLegend, San Diego, California) according to the manufacturer's protocol.</p>
+<heading id="h0012"><i>Whole Blood Cytokine Response to Parasite Antigens</i></heading>
+<p id="p0048" num="0048">Heparinized whole blood cells were diluted 1:4 in Roswell Park Memorial Institute (RPMI)-1640 medium supplemented with 200 U/ml penicillin, 200 µg/mL streptomycin, 50 ng/mL amphotericin, and 20 µg/mL polymixin B (Sigma) as an inhibitor of any residual lipopolysaccharide contamination of antigens. 200 µl diluted blood was incubated in duplicate wells of sterile roundbottomed well microtiter plates with 50 µl medium containing 0 or 40 µg/mL recombinant S. <i>mansoni</i> glyceraldehyde 3-phosphate dehydrogenase (rSG3PDH). Whole blood cultures were incubated for 72 hours at 37°C/3% CO<sub>2</sub>, and then centrifuged at 400 g for 10 minutes. The cell-free supernatants were transferred into wells of sterile plate, and stored at -76°C until assayed by capture ELISA for levels of released IL-4, IL-17 and IFN-γ (ELISA MAX™ Set, BioLegend, San Diego, California) according to the manufacturer's protocol.</p>
+<heading id="h0013"><i>Results</i></heading>
+<p id="p0049" num="0049">Subjects having initial baseline epg counts &lt; 100 were classified as having low infection. Subjects having initial baseline epg counts &gt; 100 but &lt; 400 were classified as having moderate infection. Subjects having initial baseline epg counts &gt; 400 were classified as having high infection.</p>
+<p id="p0050" num="0050">All treatment groups had a % cure rate in the moderate infection group less than in the low infection group. The % cure for the PZQ-Placebo moderate and high infection group was 67% as compared to 71% for the low infection group. The % cure for the ARA moderate and high infection group was 50% as compared to 77% for the low infection group. The % cure rate for the PZQ-ARA moderate and high infection group was 71% as compared to 94% for the low infection group. The PZQ-ARA treatment group resulted in a higher % cure rate for the low infection groups versus the PZQ-Placebo treatment group or the ARA treatment group (94%, 71% and 77%, respectively). The % cure rate for the PZQ-ARA treatment group resulted in a higher % cure rate for the moderate and high infection groups versus the PZQ-Placebo treatment group or the ARA treatment group (71%, 67% and 50%, respectively).</p>
+<heading id="h0014">Efficacy of PZQ-Placebo Treatment</heading><!-- EPO <DP n="10"> -->
+<p id="p0051" num="0051">
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title><b>Table 1: PZQ-Placebo Treatment</b></title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="30mm"/>
+<colspec colnum="2" colname="col2" colwidth="24mm"/>
+<colspec colnum="3" colname="col3" colwidth="30mm"/>
+<colspec colnum="4" colname="col4" colwidth="30mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col4" align="left" valign="top"><b>Subjects with initial baseline epg &lt; 100</b></entry></row>
+<row>
+<entry valign="top"><b>Subject Number</b></entry>
+<entry valign="top"><b>Baseline epg</b></entry>
+<entry valign="top"><b>epg After Week 4</b></entry>
+<entry valign="top"><b>epg After Week 9</b></entry></row></thead>
+<tbody>
+<row>
+<entry>1</entry>
+<entry>96</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>4</entry>
+<entry>24</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>7</entry>
+<entry>24</entry>
+<entry>5</entry>
+<entry>0</entry></row>
+<row>
+<entry>10</entry>
+<entry>48</entry>
+<entry>5</entry>
+<entry>20</entry></row>
+<row>
+<entry>13</entry>
+<entry>48</entry>
+<entry>----</entry>
+<entry>10</entry></row>
+<row>
+<entry>16</entry>
+<entry>24</entry>
+<entry>8</entry>
+<entry>4</entry></row>
+<row>
+<entry>19</entry>
+<entry>48</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>34</entry>
+<entry>72</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>37</entry>
+<entry>24</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>40</entry>
+<entry>48</entry>
+<entry>0</entry>
+<entry>6</entry></row>
+<row>
+<entry>46</entry>
+<entry>48</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>54</entry>
+<entry>96</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>66</entry>
+<entry>96</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>58</entry>
+<entry>48</entry>
+<entry>----</entry>
+<entry>0</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0052" num="0052">As shown in Table 1, the PZQ-Placebo Treatment resulted in a 71% cure rate for children having low infection (10/14 children exhibited 0 epg after 9 weeks).
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title><b>Table 2: PZQ- Placebo Treatment</b></title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="30mm"/>
+<colspec colnum="2" colname="col2" colwidth="24mm"/>
+<colspec colnum="3" colname="col3" colwidth="25mm"/>
+<colspec colnum="4" colname="col4" colwidth="25mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col4" align="left" valign="top"><b>Subjects with initial baseline epg &gt; 100</b></entry></row>
+<row>
+<entry valign="top"><b>Subject Number</b></entry>
+<entry valign="top"><b>Baseline epg</b></entry>
+<entry valign="top"><b>epg at Week 4</b></entry>
+<entry valign="top"><b>epg at Week 9</b></entry></row></thead>
+<tbody>
+<row>
+<entry>22</entry>
+<entry>120</entry>
+<entry>0</entry>
+<entry>10</entry></row>
+<row>
+<entry>25</entry>
+<entry>192</entry>
+<entry>16</entry>
+<entry>0</entry></row>
+<row>
+<entry>28</entry>
+<entry>120</entry>
+<entry>----</entry>
+<entry>30</entry></row>
+<row>
+<entry>31</entry>
+<entry>168</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>43</entry>
+<entry>3312</entry>
+<entry>----</entry>
+<entry>0</entry></row>
+<row>
+<entry>51</entry>
+<entry>192</entry>
+<entry>0</entry>
+<entry>0</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0053" num="0053">As shown in Table 2, the PZQ-Placebo Treatment resulted in a 67% cure rate for children having moderate and high infection (4/6 children exhibited 0 epg after 9 weeks).</p>
+<heading id="h0015">Efficacy of ARA Treatment</heading>
+<p id="p0054" num="0054">
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title><b>Table 3: ARA Treatment</b></title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="30mm"/>
+<colspec colnum="2" colname="col2" colwidth="24mm"/>
+<colspec colnum="3" colname="col3" colwidth="30mm"/>
+<colspec colnum="4" colname="col4" colwidth="30mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col4" align="left" valign="top"><b>Subjects with initial baseline epg &lt; 100</b></entry></row>
+<row>
+<entry valign="top"><b>Subject Number</b></entry>
+<entry valign="top"><b>Baseline epg</b></entry>
+<entry valign="top"><b>epg After Week 4</b></entry>
+<entry valign="top"><b>epg After Week 9</b></entry></row></thead>
+<tbody>
+<row>
+<entry>5</entry>
+<entry>96</entry>
+<entry>0</entry>
+<entry>42</entry></row>
+<row>
+<entry>8</entry>
+<entry>48</entry>
+<entry>19</entry>
+<entry>0</entry></row>
+<row>
+<entry>11</entry>
+<entry>24</entry>
+<entry>24</entry>
+<entry>0</entry></row>
+<row>
+<entry>14</entry>
+<entry>24</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>17</entry>
+<entry>24</entry>
+<entry>12</entry>
+<entry>0</entry></row>
+<row>
+<entry>32</entry>
+<entry>72</entry>
+<entry>----</entry>
+<entry>0</entry></row>
+<row>
+<entry>35</entry>
+<entry>96</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>41</entry>
+<entry>96</entry>
+<entry>144</entry>
+<entry>376</entry></row>
+<row>
+<entry>47</entry>
+<entry>96</entry>
+<entry>24</entry>
+<entry>20</entry></row>
+<row>
+<entry>49</entry>
+<entry>48</entry>
+<entry>20</entry>
+<entry>0</entry></row>
+<row>
+<entry>68</entry>
+<entry>48</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>59</entry>
+<entry>96</entry>
+<entry>52</entry>
+<entry>0</entry></row>
+<row>
+<entry>57</entry>
+<entry>96</entry>
+<entry>48</entry>
+<entry>0</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="11"> --></p>
+<p id="p0055" num="0055">As shown in Table 3, the ARA Treatment resulted in a 77% cure rate for children having low infection (10/13 children exhibited 0 epg after week 9).
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title><b>Table 4: ARA Treatment</b></title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="30mm"/>
+<colspec colnum="2" colname="col2" colwidth="24mm"/>
+<colspec colnum="3" colname="col3" colwidth="30mm"/>
+<colspec colnum="4" colname="col4" colwidth="30mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col4" align="left" valign="top"><b>Subjects with initial baseline epg &gt; 100</b></entry></row>
+<row>
+<entry valign="top"><b>Subject Number</b></entry>
+<entry valign="top"><b>Baseline epg</b></entry>
+<entry valign="top"><b>epg After Week 4</b></entry>
+<entry valign="top"><b>epg After Week 9</b></entry></row></thead>
+<tbody>
+<row>
+<entry>2</entry>
+<entry>144</entry>
+<entry>96</entry>
+<entry>48</entry></row>
+<row>
+<entry>20</entry>
+<entry>192</entry>
+<entry>48</entry>
+<entry>28</entry></row>
+<row>
+<entry>23</entry>
+<entry>192</entry>
+<entry>60</entry>
+<entry>20</entry></row>
+<row>
+<entry>26</entry>
+<entry>168</entry>
+<entry>96</entry>
+<entry>152</entry></row>
+<row>
+<entry>29</entry>
+<entry>384</entry>
+<entry>240</entry>
+<entry>0</entry></row>
+<row>
+<entry>38</entry>
+<entry>312</entry>
+<entry>96</entry>
+<entry>0</entry></row>
+<row>
+<entry>44</entry>
+<entry>912</entry>
+<entry>749</entry>
+<entry>0</entry></row>
+<row>
+<entry>52</entry>
+<entry>286</entry>
+<entry>216</entry>
+<entry>108</entry></row>
+<row>
+<entry>55</entry>
+<entry>192</entry>
+<entry>84</entry>
+<entry>0</entry></row>
+<row>
+<entry>62</entry>
+<entry>120</entry>
+<entry>0</entry>
+<entry>0</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0056" num="0056">As shown in Table 4, the ARA Treatment resulted in a 50% cure rate for children having moderate and high infection (5/10).</p>
+<heading id="h0016">Efficacy of PZQ-ARA Treatment</heading>
+<p id="p0057" num="0057">
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<title><b>Table 5: PZQ-ARA Treatment</b></title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="30mm"/>
+<colspec colnum="2" colname="col2" colwidth="24mm"/>
+<colspec colnum="3" colname="col3" colwidth="30mm"/>
+<colspec colnum="4" colname="col4" colwidth="30mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col4" align="left" valign="top"><b>Subjects with initial baseline epg &lt; 100</b></entry></row>
+<row>
+<entry valign="top"><b>Subject Number</b></entry>
+<entry valign="top"><b>Baseline epg</b></entry>
+<entry valign="top"><b>epg After Week 4</b></entry>
+<entry valign="top"><b>epg After Week 9</b></entry></row></thead>
+<tbody>
+<row>
+<entry>3</entry>
+<entry>48</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>6</entry>
+<entry>96</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>9</entry>
+<entry>72</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>12</entry>
+<entry>24</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>21</entry>
+<entry>72</entry>
+<entry>0</entry>
+<entry>38</entry></row>
+<row>
+<entry>33</entry>
+<entry>96</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>36</entry>
+<entry>24</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>39</entry>
+<entry>96</entry>
+<entry>12</entry>
+<entry>0</entry></row>
+<row>
+<entry>48</entry>
+<entry>96</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>50</entry>
+<entry>72</entry>
+<entry>24</entry>
+<entry>0</entry></row>
+<row>
+<entry>53</entry>
+<entry>96</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>67</entry>
+<entry>72</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>56</entry>
+<entry>96</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>60</entry>
+<entry>48</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>63</entry>
+<entry>96</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry><u>65</u></entry>
+<entry>72</entry>
+<entry>0</entry>
+<entry>0</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0058" num="0058">As shown in Table 5, the PZQ-ARA Treatment resulted in a 94% cure rate for children having low infection (15/16 children exhibited 0 epg after week 9).<!-- EPO <DP n="12"> -->
+<tables id="tabl0006" num="0006">
+<table frame="all">
+<title><b>Table 6: PZQ-ARA Treatment</b></title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="30mm"/>
+<colspec colnum="2" colname="col2" colwidth="24mm"/>
+<colspec colnum="3" colname="col3" colwidth="30mm"/>
+<colspec colnum="4" colname="col4" colwidth="30mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col4" align="left" valign="top"><b>Subjects with initial baseline epg &gt;100</b></entry></row>
+<row>
+<entry valign="top"><b>Subject Number</b></entry>
+<entry valign="top"><b>Baseline epg</b></entry>
+<entry valign="top"><b>epg After Week 4</b></entry>
+<entry valign="top"><b>epg After Week 9</b></entry></row></thead>
+<tbody>
+<row>
+<entry>15</entry>
+<entry>384</entry>
+<entry>248</entry>
+<entry>0</entry></row>
+<row>
+<entry>18</entry>
+<entry>192</entry>
+<entry>88</entry>
+<entry>0</entry></row>
+<row>
+<entry>24</entry>
+<entry>192</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>27</entry>
+<entry>1800</entry>
+<entry>102</entry>
+<entry>40</entry></row>
+<row>
+<entry>30</entry>
+<entry>672</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>42</entry>
+<entry>288</entry>
+<entry>0</entry>
+<entry>10</entry></row>
+<row>
+<entry>45</entry>
+<entry>120</entry>
+<entry>29</entry>
+<entry>0</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0059" num="0059">As shown in Table 6, the PZQ-ARA Treatment resulted in a 71% cure rate for children having moderate and high infection (5/7 children exhibited 0 epg after week 9).</p>
+<heading id="h0017"><b>Example 2</b></heading>
+<heading id="h0018"><i>Subjects</i></heading>
+<p id="p0060" num="0060">School children from EI Kafr Sheikh were screened similar to those school children in Example 1 above.</p>
+<heading id="h0019"><i>Treatment</i></heading>
+<p id="p0061" num="0061">The children were divided randomly into three groups whereby the first group of children were given a single oral dose of Praziquantel (PZQ) (40 mg/kg body weight) on the first day of treatment and a placebo was given for the next three weeks (5 doses/week) ("PZQ-Placebo Treatment"). The PZQ was Distocide (Epico, EI-Asher-Men-Ramadan City, Egypt). The placebo was 1g VegCap, containing corn-soy (DSM Nutritional Products, Columbia, Maryland). The second group of children received ARA (10 mg/kg body weight/day) for 15 days over three weeks (5 days/ week) ("ARA Treatment"). The ARA was 1g VegCap (DSM) containing approximately 395 mg ARA/capsule. The third group of children were given Praziquantel (40 mg/kg body weight) in the first day of treatment and then received 15 doses of ARA (10 mg/kg/day; 5 doses/week) ("PZQ-ARA Treatment").</p>
+<heading id="h0020"><i>Study Design</i></heading>
+<p id="p0062" num="0062">Approximately 10 ml blood were obtained from each child 2-3 days before the start of the treatment and 3 days after the end of the ARA (or ARA + PZQ) treatment, corresponding to 18 days after PZQ-only treatment. Stool samples were obtained from each child on 3 consecutive days 1 week after the end of the ARA treatment (corresponding to 4 weeks after the PZQ-only treatment) and 6 weeks after the end of the ARA treatment (corresponding to 9 weeks after the PZQ-only treatment). Epg was assessed on each stool sample.</p>
+<heading id="h0021"><i>Biochemical and Hematological Parameters</i></heading>
+<p id="p0063" num="0063">Samples for biochemical analysis were put in a plain tube and allowed to clot for at least 60 minutes, centrifuged, and the serum was collected. Two ml blood samples were dispensed into a tube with EDTA and analyzed by automated blood hematology analyzer (XT 1800i, Sysmex Corporation).</p>
+<heading id="h0022"><i>Levels of Plasma Interleukin-10 (IL-10) and Interferon-Gamma (IFN-γ)</i></heading>
+<p id="p0064" num="0064">Plasma was retrieved from heparinized blood following centrifugation at 400 g for 20 minutes and stored at -76°C until assayed by capture enzyme-linked immunosorbent assay (ELISA)<!-- EPO <DP n="13"> --> for levels of IL-10 and IFN-γ (ELISA MAX™ Set, BioLegend, San Diego, California) according to the manufacturer's protocol.</p>
+<heading id="h0023"><i>Whole Blood Cytokine Response to Parasite Antigens</i></heading>
+<p id="p0065" num="0065">Heparinized whole blood cells were diluted 1:4 in Roswell Park Memorial Institute (RPMI)-1640 medium supplemented with 200 U/ml penicillin, 200 µg/mL streptomycin, 50 ng/mL amphotericin, and 20 µg/mL polymixin B (Sigma) as an inhibitor of any residual lipopolysaccharide contamination of antigens. 200 µl diluted blood was incubated in duplicate wells of sterile roundbottomed well microtiter plates with 50 µl medium containing 0 or 40 µg/mL recombinant S. <i>mansoni</i> glyceraldehyde 3-phosphate dehydrogenase (rSG3PDH). Whole blood cultures were incubated for 72 hours at 37°C/3% CO<sub>2</sub>, and then centrifuged at 400 g for 10 minutes. The cell-free supernatants were transferred into wells of sterile plate, and stored at -76°C until assayed by capture ELISA for levels of released IL-4, IL-17 and IFN-γ (ELISA MAX™ Set, BioLegend, San Diego, California) according to the manufacturer's protocol.</p>
+<heading id="h0024"><i>Results</i></heading>
+<p id="p0066" num="0066">Subjects having initial baseline epg counts &lt; 100 were classified as having low infection. Subjects having initial baseline epg counts &gt; 100 but &lt; 400 were classified as having moderate infection. Subjects having initial baseline epg counts &gt; 400 were classified as having high infection.</p>
+<p id="p0067" num="0067">All treatment groups had a % cure rate in the high infection group less than either the moderate infection group or the low infection group. All treatment groups had a % cure rate in the moderate infection group less than the low infection group.</p>
+<p id="p0068" num="0068">The % cure rate for the PZQ-ARA treatment group resulted in a higher % cure rate for the low infection group versus the PZQ-Placebo treatment group or the ARA treatment group (74%, 57% and 50%, respectively). See Table 7.</p>
+<p id="p0069" num="0069">The % cure rate for the PZQ-ARA treatment group resulted in a higher % cure rate for the moderate infection group versus the PZQ-Placebo treatment group or the ARA treatment group (73%, 70% and 49%, respectively). See Table 8.</p>
+<p id="p0070" num="0070">The % cure rate for the PZQ-ARA treatment group resulted in a higher % cure rate for the high infection group versus the PZQ-Placebo treatment group or the ARA treatment group (84%, 81 % and 65%, respectively). See Table 9.</p>
+<p id="p0071" num="0071">Decreased levels of circulating IL-10 and IFN-γ were shown in all treatment groups. Treatment with ARA alone or combined with PZQ was more effective in altering the immune responses of children towards reducing production of II-10 and IFN-γ. These significant decreases in the levels of immunosuppressive IL-10 and IFN-γ indicate a resistance to reinfection with schistosomes. See Tables 10 and 11.<!-- EPO <DP n="14"> -->
+<tables id="tabl0007" num="0007">
+<table frame="all">
+<title><b>Table 7: Effect of Treatment with PZQ, ARA or PZQ + ARA</b></title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="38mm"/>
+<colspec colnum="3" colname="col3" colwidth="36mm"/>
+<colspec colnum="4" colname="col4" colwidth="23mm"/>
+<colspec colnum="5" colname="col5" colwidth="33mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col5" align="left" valign="top"><b>Subjects with initial baseline epg &lt; 100</b></entry></row>
+<row>
+<entry valign="top"><b>Treatment</b></entry>
+<entry valign="top"><b>Number of Children</b></entry>
+<entry valign="top"><b>Baseline mean epg</b></entry>
+<entry valign="top"><b>% cured</b></entry>
+<entry valign="top"><b>% epg reduction*</b></entry></row></thead>
+<tbody>
+<row>
+<entry>PZQ</entry>
+<entry>35</entry>
+<entry>38.7</entry>
+<entry>57 (20/35)</entry>
+<entry>50</entry></row>
+<row>
+<entry>ARA</entry>
+<entry>43</entry>
+<entry>34.2</entry>
+<entry>50 (22/43)</entry>
+<entry>-2.6</entry></row>
+<row>
+<entry>PZQ + ARA</entry>
+<entry>39</entry>
+<entry>41.3</entry>
+<entry>74 (29/39)</entry>
+<entry>52</entry></row></tbody></tgroup>
+<tgroup cols="5" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="38mm"/>
+<colspec colnum="3" colname="col3" colwidth="36mm"/>
+<colspec colnum="4" colname="col4" colwidth="23mm"/>
+<colspec colnum="5" colname="col5" colwidth="33mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col5" align="justify"><b>*% epg reduction =((mean baseline epg - mean epg 6 weeks after treatment)/mean baseline epg)* 100</b></entry></row></tbody></tgroup>
+</table>
+</tables>
+<tables id="tabl0008" num="0008">
+<table frame="all">
+<title><b>Table 8: Effect of Treatment with PZQ, ARA or PZQ + ARA</b></title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="38mm"/>
+<colspec colnum="3" colname="col3" colwidth="36mm"/>
+<colspec colnum="4" colname="col4" colwidth="23mm"/>
+<colspec colnum="5" colname="col5" colwidth="34mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col5" align="left" valign="top"><b>Subjects with initial baseline &lt;400 epg &gt; 100</b></entry></row>
+<row>
+<entry valign="top"><b>Treatment</b></entry>
+<entry valign="top"><b>Number of Children</b></entry>
+<entry valign="top"><b>Baseline mean epg</b></entry>
+<entry valign="top"><b>% cured</b></entry>
+<entry valign="top"><b>% epg reduction*</b></entry></row></thead>
+<tbody>
+<row>
+<entry>PZQ</entry>
+<entry>23</entry>
+<entry>226.1</entry>
+<entry>43 (10/23)</entry>
+<entry>70</entry></row>
+<row>
+<entry>ARA</entry>
+<entry>29</entry>
+<entry>195.6</entry>
+<entry>28 (4/19)</entry>
+<entry>49</entry></row>
+<row>
+<entry>PZQ + ARA</entry>
+<entry>26</entry>
+<entry>215.8</entry>
+<entry>73 (19/26)</entry>
+<entry>73</entry></row></tbody></tgroup>
+<tgroup cols="5" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="38mm"/>
+<colspec colnum="3" colname="col3" colwidth="36mm"/>
+<colspec colnum="4" colname="col4" colwidth="23mm"/>
+<colspec colnum="5" colname="col5" colwidth="34mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col5" align="justify"><b>*% epg reduction = ((mean baseline epg - mean epg 6 weeks after treatment)/mean baseline epg)* 100</b></entry></row></tbody></tgroup>
+</table>
+</tables>
+<tables id="tabl0009" num="0009">
+<table frame="all">
+<title><b>Table 9: Effect of Treatment with PZQ, ARA or PZQ + ARA</b></title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="38mm"/>
+<colspec colnum="3" colname="col3" colwidth="36mm"/>
+<colspec colnum="4" colname="col4" colwidth="23mm"/>
+<colspec colnum="5" colname="col5" colwidth="34mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col5" align="left" valign="top"><b>Subjects with initial baseline epg &gt; 400 epg</b></entry></row>
+<row>
+<entry valign="top"><b>Treatment</b></entry>
+<entry valign="top"><b>Number of Children</b></entry>
+<entry valign="top"><b>Baseline mean epg</b></entry>
+<entry valign="top"><b>% cured</b></entry>
+<entry valign="top"><b>% epg reduction*</b></entry></row></thead>
+<tbody>
+<row>
+<entry>PZQ</entry>
+<entry>26</entry>
+<entry>979.5</entry>
+<entry>30 (8/26)</entry>
+<entry>81</entry></row>
+<row>
+<entry>ARA</entry>
+<entry>19</entry>
+<entry>961.3</entry>
+<entry>21 (8/29)</entry>
+<entry>65</entry></row>
+<row>
+<entry>PZQ + ARA</entry>
+<entry>22</entry>
+<entry>805.6</entry>
+<entry>68 (15/22)</entry>
+<entry>84</entry></row></tbody></tgroup>
+<tgroup cols="5" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="38mm"/>
+<colspec colnum="3" colname="col3" colwidth="36mm"/>
+<colspec colnum="4" colname="col4" colwidth="23mm"/>
+<colspec colnum="5" colname="col5" colwidth="34mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col5" align="justify"><b>*% epg reduction = ((mean baseline epg - mean epg 6 weeks after treatment)/mean baseline epg)* 100</b></entry></row></tbody></tgroup>
+</table>
+</tables>
+<tables id="tabl0010" num="0010">
+<table frame="all">
+<title><b>Table 10: Effect of Treatment on IL-10 levels with PZQ, ARA or PZQ + ARA</b></title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="22mm"/>
+<colspec colnum="3" colname="col3" colwidth="40mm"/>
+<colspec colnum="4" colname="col4" colwidth="48mm"/>
+<colspec colnum="5" colname="col5" colwidth="33mm"/>
+<thead>
+<row>
+<entry valign="top"><b>Treatment</b></entry>
+<entry valign="top"><b>Number of Children</b></entry>
+<entry valign="top"><b>Baseline median IL-10 (pg/mL)</b></entry>
+<entry valign="top"><b>Median IL-10 after treatment (pg/mL)</b></entry>
+<entry valign="top"><b>% reduction in IL-10 levels</b></entry></row></thead>
+<tbody>
+<row>
+<entry>PZQ</entry>
+<entry>46</entry>
+<entry>60</entry>
+<entry>36</entry>
+<entry>42</entry></row>
+<row>
+<entry>ARA</entry>
+<entry>53</entry>
+<entry>80</entry>
+<entry>40</entry>
+<entry>50</entry></row>
+<row>
+<entry>PZQ + ARA</entry>
+<entry>48</entry>
+<entry>70</entry>
+<entry>40</entry>
+<entry>54</entry></row></tbody></tgroup>
+</table>
+</tables>
+<tables id="tabl0011" num="0011">
+<table frame="all">
+<title><b>Table 11: Effect of Treatment on IFN-γ levels with PZQ, ARA or PZQ + ARA</b></title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="22mm"/>
+<colspec colnum="3" colname="col3" colwidth="40mm"/>
+<colspec colnum="4" colname="col4" colwidth="48mm"/>
+<colspec colnum="5" colname="col5" colwidth="33mm"/>
+<thead>
+<row>
+<entry valign="top"><b>Treatment</b></entry>
+<entry valign="top"><b>Number of Children</b></entry>
+<entry valign="top"><b>Baseline median IFN-γ (pg/mL)</b></entry>
+<entry valign="top"><b>Median IFN-γ after treatment (pg/mL)</b></entry>
+<entry valign="top"><b>% reduction in IFN-γ levels</b></entry></row></thead>
+<tbody>
+<row>
+<entry>PZQ</entry>
+<entry>46</entry>
+<entry>64</entry>
+<entry>32.5</entry>
+<entry>60</entry></row>
+<row>
+<entry>ARA</entry>
+<entry>53</entry>
+<entry>80</entry>
+<entry>25</entry>
+<entry>70</entry></row>
+<row>
+<entry>PZQ + ARA</entry>
+<entry>48</entry>
+<entry>70</entry>
+<entry>31</entry>
+<entry>56</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="15"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A composition for use for the treatment and/or prevention of schistosomiasis, to confer resistance to schistosomiasis, and/or to prevent re-occurrence of schistosomiasis, comprising at least one polyunsaturated fatty acid (PUFA) and at least one therapeutic compound, wherein the PUFA is arachidonic acid and wherein the therapeutic compound is 2-(Cyclohexylcarbonyl)-1,2,3,6,7,11b-hexahydro-4H-pyrazino[2,1-a]isoquinolin-4-one (praziquantel), wherein the PUFA is in the form of a free fatty acid, salt, fatty acid ester (e.g. methyl or ethyl ester), monoacylglycerol (MAG), diacylglycerol (DAG), triacylglycerol (TAG), and/or phospholipid (PL).</claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>The composition for use according to claim 1, wherein the PUFA is administered in one dosage and the therapeutic compound is administered in a second dosage.</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>The composition for use according to claim 1 or claim 2, wherein the PUFA is administered in an amount of 5-15 mg/kg body weight.</claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>The composition for use according to any one of claims 1-3, wherein the therapeutic compound is administered in an amount of 20-60 mg/kg body weight/day.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>The composition for use according to claim 1, wherein the PUFA and the therapeutic compound are administered in the same dosage.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>The composition for use according to claim 5, wherein the PUFA is administered in an amount of 10-600 mg/kg body weight/day.</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>The composition for use according to claim 5, wherein the therapeutic compound is administered in an amount of 20-60 mg/kg body weight/day.</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>The composition for use according to any preceding claim, wherein the schistosomiasis is <i>Schistosoma mansoni.</i></claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>The composition for use according to any preceding claim, wherein the levels of IL-10 and IFN-γ in an individual are decreased after administration of the PUFA and the therapeutic compound.</claim-text></claim>
+<claim id="c-en-01-0010" num="0010">
+<claim-text>The composition for use according to any preceding claim, wherein 10 mg/kg body weight/day of the polyunsaturated fatty acid (PUFA) and 40 mg/kg body weight/day of the trematodicide is administered.</claim-text></claim>
+<claim id="c-en-01-0011" num="0011">
+<claim-text>The composition for use according to any one of claims 1-9, wherein 150 mg/kg body weight/day of the polyunsaturated fatty acid (PUFA) and 40 mg/kg body weight/day of the trematodicide is administered.<!-- EPO <DP n="16"> --></claim-text></claim>
+<claim id="c-en-01-0012" num="0012">
+<claim-text>A composition for the treatment and/or prevention of schistosomiasis, comprising at least one polyunsaturated fatty acid (PUFA) and at least one therapeutic compound, wherein the PUFA is arachidonic acid and wherein the therapeutic compound is 2-(Cyclohexylcarbonyl)-1,2,3,6,7,11b-hexahydro-4<i>H</i>-pyrazino[2,1-a]isoquinolin-4-one (praziquantel), wherein the PUFA is in the form of a free fatty acid, salt, fatty acid ester (e.g. methyl or ethyl ester), monoacylglycerol (MAG), diacylglycerol (DAG), triacylglycerol (TAG), and/or phospholipid (PL).</claim-text></claim>
+<claim id="c-en-01-0013" num="0013">
+<claim-text>The composition of claim 12, wherein the PUFA is administered in one dosage and the therapeutic compound is administered in a second dosage.</claim-text></claim>
+<claim id="c-en-01-0014" num="0014">
+<claim-text>The composition according to claim 12, wherein the PUFA and the therapeutic compound are administered in the same dosage.</claim-text></claim>
+</claims>
+<claims id="claims02" lang="de"><!-- EPO <DP n="17"> -->
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Zusammensetzung zur Verwendung bei der Behandlung und/oder Prävention von Schistosomiasis, zum Verleihen von Resistenz gegenüber Schistosomiasis und/oder zum Verhindern eines Wiederauftretens von Schistosomiasis, umfassend mindestens eine mehrfach ungesättigte Fettsäure (Polyunsaturated Fatty Acid, PUFA) und mindestens ein Therapeutikum, wobei es sich bei der PUFA um Arachidonsäure handelt und wobei es sich bei dem Therapeutikum um 2-(Cyclohexylcarbonyl)-1,2,3,6,7,11b-hexahydro-4<i>H-</i>pyrazino[2,1-<i>a</i>]isochinolin-4-on (Praziquantel) handelt, wobei die PUFA in Form einer freien Fettsäure, eines Salzes, eines Fettsäureesters (z. B. Methyl- oder Ethylesters), als Monoacylglycerin (MAG), Diacylglycerin (DAG), Triacylglycerin (TAG) und/oder Phospholipid (PL) vorliegt.</claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Zusammensetzung zur Verwendung nach Anspruch 1, wobei die PUFA in einer Dosierung verabreicht wird und das Therapeutikum in einer zweiten Dosierung verabreicht wird.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Zusammensetzung zur Verwendung nach Anspruch 1 oder Anspruch 2, wobei die PUFA in einer Menge von 5-15 mg/kg Körpergewicht verabreicht wird.<!-- EPO <DP n="18"> --></claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Zusammensetzung zur Verwendung nach einem der Ansprüche 1-3, wobei das Therapeutikum in einer Menge von 20-60 mg/kg Körpergewicht/Tag verabreicht wird.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Zusammensetzung zur Verwendung nach Anspruch 1, wobei die PUFA und das Therapeutikum in der gleichen Dosierung verabreicht werden.</claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Zusammensetzung zur Verwendung nach Anspruch 5, wobei die PUFA in einer Menge von 10-600 mg/kg Körpergewicht/Tag verabreicht wird.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Zusammensetzung zur Verwendung nach Anspruch 5, wobei das Therapeutikum in einer Menge von 20-60 mg/kg Körpergewicht/Tag verabreicht wird.</claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Zusammensetzung zur Verwendung nach einem der vorhergehenden Ansprüche, wobei es sich bei Schistosomiasis um <i>Schistosoma mansoni</i> handelt.</claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Zusammensetzung zur Verwendung nach einem der vorhergehenden Ansprüche, wobei die Konzentrationen an IL-10 und IFN-γ in einem Individuum nach Verabreichung der PUFA und des Therapeutikums vermindert sind.</claim-text></claim>
+<claim id="c-de-01-0010" num="0010">
+<claim-text>Zusammensetzung zur Verwendung nach einem der vorhergehenden Ansprüche, wobei 10 mg/kg Körpergewicht/Tag an mehrfach ungesättigter Fettsäure (Polyunsaturated Fatty Acid, PUFA) und 40 mg/kg Körpergewicht/Tag an Trematodizid verabreicht.</claim-text></claim>
+<claim id="c-de-01-0011" num="0011">
+<claim-text>Zusammensetzung zur Verwendung nach einem der Ansprüche 1-9, wobei man 150 mg/kg Körpergewicht/Tag an mehrfach ungesättigter Fettsäure (Polyunsaturated Fatty Acid, PUFA) und<!-- EPO <DP n="19"> --> 40 mg/kg Körpergewicht/Tag an Trematodizid verabreicht.</claim-text></claim>
+<claim id="c-de-01-0012" num="0012">
+<claim-text>Zusammensetzung zur Behandlung und/oder Prävention von Schistosomiasis, umfassend mindestens eine mehrfach ungesättigte Fettsäure (Polyunsaturated Fatty Acid, PUFA) und mindestens ein Therapeutikum, wobei es sich bei der PUFA um Arachidonsäure handelt und wobei es sich bei dem Therapeutikum um 2-(Cyclohexylcarbonyl)-1,2,3,6,7,11b-hexahydro-4<i>H-</i>pyrazino[2,1-<i>a</i>]isochinolin-4-on (Praziquantel) handelt, wobei die PUFA in Form einer freien Fettsäure, eines Salzes, eines Fettsäureesters (z. B. Methyl- oder Ethylesters), als Monoacylglycerin (MAG), Diacylglycerin (DAG), Triacylglycerin (TAG) und/oder Phospholipid (PL) vorliegt.</claim-text></claim>
+<claim id="c-de-01-0013" num="0013">
+<claim-text>Zusammensetzung nach Anspruch 12, wobei die PUFA in einer Dosierung verabreicht wird und das Therapeutikum in einer zweiten Dosierung verabreicht wird.</claim-text></claim>
+<claim id="c-de-01-0014" num="0014">
+<claim-text>Zusammensetzung nach Anspruch 12, wobei die PUFA und das Therapeutikum in der gleichen Dosierung verabreicht werden.</claim-text></claim>
+</claims>
+<claims id="claims03" lang="fr"><!-- EPO <DP n="20"> -->
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Composition pour une utilisation pour le traitement et/ou la prévention de la schistosomiase, pour conférer une résistance à la schistosomiase, et/ou pour empêcher la réapparition de la schistosomiase, comprenant au moins un acide gras polyinsaturé (PUFA) et au moins un composé thérapeutique, le PUFA étant l'acide arachidonique et le composé thérapeutique étant la 2-(Cyclohexylcarbonyl)-1,2,3,6,7,11b-hexahydro-4<i>H-</i>pyrazino[2,1-alpha]isoquinoléin-4-one (praziquantel), le PUFA étant sous la forme d'un acide gras libre, d'un sel, d'un ester d'acide gras (par ex. un ester de méthyle ou d'éthyle), d'un monoacylglycérol (MAG), d'un diacylglycérol (DAG), d'un triacylglycérol (TAG), et/ou d'un phospholipide (PL).</claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Composition pour une utilisation selon la revendication 1, le PUFA étant administré dans un dosage et le composé thérapeutique étant administré dans un deuxième dosage.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Composition pour une utilisation selon la revendication 1 ou la revendication 2, le PUFA étant administré en une quantité de 5 à 15 mg/kg de poids corporel.</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Composition pour une utilisation selon l'une quelconque des revendications 1 à 3, le composé<!-- EPO <DP n="21"> --> thérapeutique étant administré en une quantité de 20 à 60 mg/kg de poids corporel/jour.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Composition pour une utilisation selon la revendication 1, le PUFA et le composé thérapeutique étant administrés dans le même dosage.</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Composition pour une utilisation selon la revendication 5, le PUFA étant administré en une quantité de 10 à 600 mg/kg de poids corporel/jour.</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Composition pour une utilisation selon la revendication 5, le composé thérapeutique étant administré en une quantité de 20 à 60 mg/kg de poids corporel/jour.</claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Composition pour une utilisation selon une quelconque revendication précédente, la schistosomiase étant <i>Schistosoma mansoni.</i></claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Composition pour une utilisation selon une quelconque revendication précédente, les taux d'IL-10 et d'IFN-γ chez un individu étant diminués après administration du PUFA et du composé thérapeutique.</claim-text></claim>
+<claim id="c-fr-01-0010" num="0010">
+<claim-text>Composition pour une utilisation selon une quelconque revendication précédente, 10 mg/kg de poids corporel/jour de l'acide gras polyinsaturé (PUFA) et 40 mg/kg de poids corporel/jour du trématodicide étant administrés.</claim-text></claim>
+<claim id="c-fr-01-0011" num="0011">
+<claim-text>Composition pour une utilisation selon l'une quelconque des revendications 1 à 9, 150 mg/kg de poids corporel/jour de l'acide gras polyinsaturé (PUFA) et 40 mg/kg de poids corporel/jour du trématodicide étant administrés.</claim-text></claim>
+<claim id="c-fr-01-0012" num="0012">
+<claim-text>Composition pour le traitement et/ou la prévention de la schistosomiase, comprenant au moins un<!-- EPO <DP n="22"> --> acide gras polyinsaturé (PUFA) et au moins un composé thérapeutique, le PUFA étant l'acide arachidonique et le composé thérapeutique étant la 2-(Cyclohexylcarbonyl)-1,2,3,6,7,11b-hexahydro-4<i>H-</i>pyrazino[2,1-alpha]isoquinoléin-4-one (praziquantel), le PUFA étant sous la forme d'un acide gras libre, d'un sel, d'un ester d'acide gras (par ex. un ester de méthyle ou d'éthyle), d'un monoacylglycérol (MAG), d'un diacylglycérol (DAG), d'un triacylglycérol (TAG), et/ou d'un phospholipide (PL).</claim-text></claim>
+<claim id="c-fr-01-0013" num="0013">
+<claim-text>Composition selon la revendication 12, le PUFA étant administré dans un dosage et le composé thérapeutique étant administré dans un deuxième dosage.</claim-text></claim>
+<claim id="c-fr-01-0014" num="0014">
+<claim-text>Composition selon la revendication 12, le PUFA et le composé thérapeutique étant administrés dans le même dosage.</claim-text></claim>
+</claims>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="GB2460056A"><document-id><country>GB</country><doc-number>2460056</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0003]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="s"><article><author><name>EI RIDI et al.</name></author><atl>In vitro and in vivo activities of arachidonic acid against Schistosoma mansoni and Schistosoma haematobium</atl><serial><sertitle>Antimicrob. Agents Chemother.</sertitle><pubdate><sdate>20100000</sdate><edate/></pubdate><vid>54</vid><ino>8</ino></serial><location><pp><ppf>3383</ppf><ppl>3389</ppl></pp></location></article></nplcit><crossref idref="ncit0001">[0003]</crossref></li>
+<li><nplcit id="ref-ncit0002" npl-type="s"><article><author><name>EI RIDI et al.</name></author><atl>Efficacy and mechanism of action of arachidonic acid in the treatment of hamsters infected with Schistosoma mansoni or Schistosoma haematobium</atl><serial><sertitle>Int. J. Antimicrob</sertitle><pubdate><sdate>20120300</sdate><edate/></pubdate><vid>39</vid><ino>3</ino></serial><location><pp><ppf>232</ppf><ppl>239</ppl></pp></location></article></nplcit><crossref idref="ncit0002">[0003]</crossref></li>
+<li><nplcit id="ref-ncit0003" npl-type="s"><article><author><name>EI RIDI et al.</name></author><atl>Novel therapeutic and prevention approaches for schistosomiasis: Review</atl><serial><sertitle>J. Adv. Res.</sertitle><pubdate><sdate>20130000</sdate><edate/></pubdate><vid>4</vid><ino>5</ino></serial><location><pp><ppf>467</ppf><ppl>478</ppl></pp></location></article></nplcit><crossref idref="ncit0003">[0004]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

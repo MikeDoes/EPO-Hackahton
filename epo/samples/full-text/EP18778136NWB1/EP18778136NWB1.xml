@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP18778136B1" file="EP18778136NWB1.xml" lang="en" country="EP" doc-number="3604381" kind="B1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSK..HRIS..MTNORS..SM..................</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  2100000/0</B007EP></eptags></B000><B100><B110>3604381</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>18778136.4</B210><B220><date>20180326</date></B220><B240><B241><date>20191029</date></B241></B240><B250>ja</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>2017071337</B310><B320><date>20170331</date></B320><B330><ctry>JP</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20200205</date><bnum>202006</bnum></B430><B450><date>20211006</date><bnum>202140</bnum></B450><B452EP><date>20210428</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>C08G  63/60        20060101AFI20210409BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C08J   5/18        20060101ALI20210409BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>B32B   3/08        20060101ALI20210409BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>B32B  15/08        20060101ALI20210409BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>B32B  15/085       20060101ALI20210409BHEP        </text></classification-ipcr><classification-ipcr sequence="6"><text>B32B  15/09        20060101ALI20210409BHEP        </text></classification-ipcr><classification-ipcr sequence="7"><text>B32B  15/18        20060101ALI20210409BHEP        </text></classification-ipcr><classification-ipcr sequence="8"><text>B32B  15/20        20060101ALI20210409BHEP        </text></classification-ipcr><classification-ipcr sequence="9"><text>B32B  27/20        20060101ALI20210409BHEP        </text></classification-ipcr><classification-ipcr sequence="10"><text>B32B  27/28        20060101ALI20210409BHEP        </text></classification-ipcr><classification-ipcr sequence="11"><text>B32B  27/34        20060101ALI20210409BHEP        </text></classification-ipcr><classification-ipcr sequence="12"><text>B32B  27/36        20060101ALI20210409BHEP        </text></classification-ipcr><classification-ipcr sequence="13"><text>B32B  27/32        20060101ALI20210409BHEP        </text></classification-ipcr><classification-ipcr sequence="14"><text>B32B  15/088       20060101ALI20210409BHEP        </text></classification-ipcr><classification-ipcr sequence="15"><text>H05K   1/03        20060101ALI20210409BHEP        </text></classification-ipcr><classification-ipcr sequence="16"><text>H05K   3/02        20060101ALI20210409BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>H05K   3/022       20130101 LA20210203BHEP        </text></classification-cpc><classification-cpc sequence="2"><text>C08G  63/605       20130101 LI20201015BHEP        </text></classification-cpc><classification-cpc sequence="3"><text>B32B2457/08        20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="4"><text>H05K2201/0141      20130101 LA20210203BHEP        </text></classification-cpc><classification-cpc sequence="5"><text>C08J2367/03        20130101 LA20201216BHEP        </text></classification-cpc><classification-cpc sequence="6"><text>B32B  27/285       20130101 LI20191220BHEP        </text></classification-cpc><classification-cpc sequence="7"><text>B32B2307/202       20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="8"><text>B32B  27/28        20130101 LI20191220BHEP        </text></classification-cpc><classification-cpc sequence="9"><text>C08J   5/18        20130101 FI20201214BHEP        </text></classification-cpc><classification-cpc sequence="10"><text>B32B  27/286       20130101 LI20191220BHEP        </text></classification-cpc><classification-cpc sequence="11"><text>H05K   1/0326      20130101 LI20210203BHEP        </text></classification-cpc><classification-cpc sequence="12"><text>B32B2307/206       20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="13"><text>B32B  15/088       20130101 LI20191220BHEP        </text></classification-cpc><classification-cpc sequence="14"><text>B32B  27/32        20130101 LI20191220BHEP        </text></classification-cpc><classification-cpc sequence="15"><text>B32B2250/02        20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="16"><text>B32B  15/18        20130101 LI20191220BHEP        </text></classification-cpc><classification-cpc sequence="17"><text>B32B2307/204       20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="18"><text>B32B  15/08        20130101 LI20191220BHEP        </text></classification-cpc><classification-cpc sequence="19"><text>B32B  15/09        20130101 LI20191220BHEP        </text></classification-cpc><classification-cpc sequence="20"><text>B32B  27/34        20130101 LI20191220BHEP        </text></classification-cpc><classification-cpc sequence="21"><text>B32B2307/706       20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="22"><text>B32B   3/08        20130101 LI20191220BHEP        </text></classification-cpc><classification-cpc sequence="23"><text>B32B2307/546       20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="24"><text>B32B  27/36        20130101 LI20191220BHEP        </text></classification-cpc><classification-cpc sequence="25"><text>B32B  15/20        20130101 LI20191220BHEP        </text></classification-cpc><classification-cpc sequence="26"><text>B32B  15/085       20130101 LI20191220BHEP        </text></classification-cpc><classification-cpc sequence="27"><text>B32B  27/365       20130101 LI20191220BHEP        </text></classification-cpc><classification-cpc sequence="28"><text>B32B  27/20        20130101 LI20191220BHEP        </text></classification-cpc><classification-cpc sequence="29"><text>B32B2307/732       20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="30"><text>B32B  27/288       20130101 LI20191220BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>THERMOPLASTISCHES FLÜSSIGKRISTALLPOLYMER UND FOLIE DAVON</B542><B541>en</B541><B542>THERMOPLASTIC LIQUID CRYSTAL POLYMER AND FILM OF SAME</B542><B541>fr</B541><B542>POLYMÈRE CRISTAL LIQUIDE THERMOPLASTIQUE ET FILM EN CE DERNIER</B542></B540><B560><B561><text>JP-A- H10 316 895</text></B561><B561><text>JP-A- H11 513 065</text></B561><B561><text>JP-A- 2000 238 208</text></B561><B561><text>JP-A- 2005 105 232</text></B561><B561><text>JP-A- 2005 126 652</text></B561><B561><text>JP-A- 2006 233 118</text></B561><B561><text>JP-A- 2009 108 190</text></B561><B561><text>JP-A- 2009 127 025</text></B561><B561><text>US-A- 4 327 206</text></B561><B561><text>US-A- 5 171 823</text></B561><B561><text>US-A1- 2005 113 555</text></B561><B565EP><date>20201110</date></B565EP></B560></B500><B700><B720><B721><snm>KONNO, Takafumi</snm><adr><str>c/o KURARAY CO. LTD.
+892 Tsuitachi</str><city>Saijo-shi
+Ehime 793-8585</city><ctry>JP</ctry></adr></B721><B721><snm>SUNAMOTO, Tatsuya</snm><adr><str>c/o KURARAY CO. LTD.
+1-1-3 Otemachi
+Chiyoda-ku</str><city>Tokyo 100-8115</city><ctry>JP</ctry></adr></B721><B721><snm>NANBA, Michiyuki</snm><adr><str>c/o KURARAY CO. LTD.
+2045-1 Sakazu</str><city>Kurashiki-shi
+Okayama 710-0801</city><ctry>JP</ctry></adr></B721><B721><snm>HARA, Tetsuya</snm><adr><str>c/o KURARAY CO. LTD.
+2045-1 Sakazu</str><city>Kurashiki-shi
+Okayama 710-0801</city><ctry>JP</ctry></adr></B721></B720><B730><B731><snm>Kuraray Co., Ltd.</snm><iid>101173461</iid><irf>AC2988 EP</irf><adr><str>1621, Sakazu 
+Kurashiki-shi</str><city>Okayama 710-0801</city><ctry>JP</ctry></adr></B731></B730><B740><B741><snm>Vossius &amp; Partner 
+Patentanwälte Rechtsanwälte mbB</snm><iid>100751388</iid><adr><str>Siebertstrasse 3</str><city>81675 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B860><B861><dnum><anum>JP2018012219</anum></dnum><date>20180326</date></B861><B862>ja</B862></B860><B870><B871><dnum><pnum>WO2018181222</pnum></dnum><date>20181004</date><bnum>201840</bnum></B871></B870></B800></SDOBI>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">FIELD OF THE INVENTION</heading>
+<p id="p0001" num="0001">The present invention relates to a thermoplastic polymer capable of forming an optically anisotropic melt phase (hereinafter, referred to as a thermoplastic liquid crystal polymer). More particularly, the present invention relates to a thermoplastic liquid crystal polymer capable of reducing a dielectric dissipation factor in high frequency bands as well as of having a controlled rise in the melting point.</p>
+<heading id="h0002">BACKGROUND OF THE INVENTION</heading>
+<p id="p0002" num="0002">Recently, there has been remarkable advances in the field of information devices, e.g., personal computers, and in the field of communication devices, e.g., cell phones or smartphones. The frequencies used in such electronics and/or communication devices have been shifted to the gigahertz bands.</p>
+<p id="p0003" num="0003">As information and communication devices adapted for high frequencies, for example, there have been developed millimeter-wave radars used for detecting inter-vehicle distances for the purpose of safe driving assistance and of driving automation in vehicles. Such millimeter-wave radars have antennas for receiving and transmitting electromagnetic wave signals, and there is a demand for a material with a low dielectric dissipation factor, in particular, in high frequency bands, for insulating substrates used for the antennas.</p>
+<p id="p0004" num="0004">As the insulating substrates for the antennas, although there has been known ceramic substrates and fluororesin substrates, the ceramic substrates have<!-- EPO <DP n="2"> --> problems that they are difficult to process and cost a lot, while the fluororesin substrates cannot attain high frequency characteristics and are poor in moisture resistance as a whole due to adverse effect by glass cloth that enhances dimensional stability.</p>
+<p id="p0005" num="0005">In contrast, a thermoplastic liquid crystal polymer has been increasingly attracting attention as a material having excellent high frequency characteristics. For example, Patent Document 1 (<patcit id="pcit0001" dnum="JP2009108190A"><text>JP Laid-open Patent Publication No. 2009-108190</text></patcit>) discloses a wholly aromatic liquid crystal polyester containing a repeating unit derived from 6-hydroxy-2-naphthoic acid, a repeating unit derived from 4,4'-dihydroxybiphenyl, and a repeating unit derived from an aromatic dicarboxylic acid in a predetermined ratio, wherein the wholly aromatic liquid crystal polyester further contains a small amount of a repeating unit derived from benzenediol.</p>
+<p id="p0006" num="0006">Patent Document 2 (<patcit id="pcit0002" dnum="JP2004196930A"><text>JP Laid-open Patent Publication No. 2004-196930</text></patcit>) discloses an aromatic liquid crystal polyester substantially containing 30 to 80 mol% of a repeating unit derived from 2-hydroxy-6-naphthoic acid, 35 to 10 mol% of a repeating unit derived from an aromatic diol, and 35 to 10 mol% of a repeating unit derived from an aromatic dicarboxylic acid.</p>
+<p id="p0007" num="0007">Patent Document 3 (<patcit id="pcit0003" dnum="JP2005272810A"><text>JP Laid-open Patent Publication No. 2005-272810</text></patcit>) discloses an aromatic liquid crystal polyester containing 40 to 74.8 mol% of a repeating unit derived from 2-hydroxy-6-naphthoic acid, 12.5 to 30 mol% of a repeating unit derived from an aromatic diol, 12.5 to 30 mol% of a repeating unit derived from a naphthalenedicarboxylic acid, and 0.2 to 15 mol% of a repeating unit derived from an aromatic dicarboxylic acid, wherein the number of moles of the repeating unit derived from the naphthalenedicarboxylic acid is greater than that of the repeating unit derived from the aromatic dicarboxylic acid.</p>
+<p id="p0008" num="0008">Patent Document 4 (<patcit id="pcit0004" dnum="US2005113555A1"><text>US 2005/113555 A1</text></patcit>) deals with an aromatic liquid-crystalline polyester film and aims at excellent moldability (processability) into a film while maintaining small dielectric loss.<!-- EPO <DP n="3"> --></p>
+<heading id="h0003">PATENT DOCUMENT</heading>
+<p id="p0009" num="0009">
+<ul id="ul0001" list-style="none" compact="compact">
+<li>[Patent Document 1] <patcit id="pcit0005" dnum="JP2009108190A"><text>JP Laid-open Patent Publication No. 2009-108190 </text></patcit></li>
+<li>[Patent Document 2] <patcit id="pcit0006" dnum="JP2004196930A"><text>JP Laid-open Patent Publication No. 2004-196930 </text></patcit></li>
+<li>[Patent Document 3] <patcit id="pcit0007" dnum="JP2005272810A"><text>JP Laid-open Patent Publication No. 2005-272810 </text></patcit></li>
+<li>[Patent Document 4] <patcit id="pcit0008" dnum="US2005113555A1"><text>US 2005/113555 A1 </text></patcit></li>
+</ul></p>
+<heading id="h0004">SUMMARY OF THE INVENTION</heading>
+<heading id="h0005">PROBLEMS TO BE SOLVED BY THE INVENTION</heading>
+<p id="p0010" num="0010">Although Patent Document 1 states that the wholly aromatic liquid crystal polyester is excellent in mechanical properties as well as dielectric characteristics in high frequency bands, Patent Document 1 determined strength properties and a dielectric dissipation factor of polymer test pieces in a dumbbell shape or in a stick shape processed via injection molding. Therefore, the document does not describe the polymer in terms of processability as a film or a dielectric dissipation factor when the polyester is used as a film.</p>
+<p id="p0011" num="0011">Patent Document 2 has an object of improving the dielectric loss in the megahertz bands so that there is a need to lower the dielectric dissipation factor in higher frequency bands.</p>
+<p id="p0012" num="0012">Patent Document 3 states that it provides an aromatic liquid crystal polyester having well-balanced heat resistance and film processability as well as small dielectric loss. However, the polymer obtained in Patent Document 3 cannot reduce rise in the melting point because there is a trade-off between the melting point and heat resistance. Thus, there is a demand for a polymer with an even lower dielectric dissipation factor.</p>
+<p id="p0013" num="0013">Accordingly, an object of the present invention is to provide a thermoplastic liquid crystal polymer capable of reducing a dielectric dissipation factor in high frequency bands and of reducing rise in the melting point.<!-- EPO <DP n="4"> --></p>
+<p id="p0014" num="0014">Another object of the present invention is to provide a thermoplastic liquid crystal polymer film having an extremely low dielectric dissipation factor in the high frequency bands.</p>
+<heading id="h0006">MEANS FOR SOLVING THE PROBLEMS</heading>
+<p id="p0015" num="0015">After intensive investigation to achieve the above objects, (1) the inventors of the present invention focused attention on the carbonyl group forming a permanent dipole in the thermoplastic liquid crystal polymer, studied its orientation and rotation property and found that it is possible to achieve an extremely low dielectric dissipation factor in the thermoplastic liquid crystal polymer by the liquid crystal polymer that has a specific ratio of repeating units of a bulky naphthalene ring as an aromatic ring bonded to a carbonyl group in the all repeating units, so that the carbonyl group can have greater rotational energy and have a reduced rotational motion component in the gigahertz band. At the same time, the inventors have found as a new problem that when the polymer contains repeating units having a naphthalene ring, such polymers have difficulty for film production because of the enhanced melting point so that the inventors needed further study. As a result of further investigation, the inventors have finally found that (2) by using two repeating units having different structures as repeating units, each derived from an aromatic diol, for forming the thermoplastic liquid crystal polymer, and by setting a blending ratio of the two repeating units, each derived from an aromatic diol, to be within a specific range, the polymer is less likely to have a strong crystalline structure, which makes it possible to reduce rise in melting point in spite of the polymer containing a desired amount of the repeating units, each having a naphthalene ring. In this way, the inventors achieved the present invention.<!-- EPO <DP n="5"> --></p>
+<heading id="h0007">EFFECT OF THE INVENTION</heading>
+<p id="p0016" num="0016">The present invention can provide a thermoplastic liquid crystal polymer which is capable of having not only an extremely low dielectric dissipation factor, but also a reduced melting point.</p>
+<p id="p0017" num="0017">Further, a film of a thermoplastic liquid crystal polymer according to the present invention is suitably applicable as a unit constituting a vehicle radar (for example, a unit constituting a millimeter-wave antenna) because the film has an extremely low dielectric dissipation factor in high frequency bands.</p>
+<heading id="h0008">DESCRIPTION OF THE EMBODIMENTS</heading>
+<heading id="h0009">Thermoplastic Liquid Crystal Polymer</heading>
+<p id="p0018" num="0018">A thermoplastic liquid crystal polymer according to the present invention at least includes repeating units represented by the following formulae (I), (II), (III) and (IV) in a speicific ratio.
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="91" he="26" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0002" num="0002"><img id="ib0002" file="imgb0002.tif" wi="93" he="31" img-content="chem" img-format="tif"/></chemistry><br/>
+<br/>
+        -O-Ar<sub>1</sub>-O-     (III)<br/>
+<br/>
+        -O-Ar<sub>2</sub>-O-     (IV)<br/>
+<br/>
+ <!-- EPO <DP n="6"> --></p>
+<p id="p0019" num="0019">Wherein An and Ar<sub>2</sub> represent divalent aromatic groups that are different from each other.</p>
+<heading id="h0010">Repeating Units Represented by Formulae (I) and (II)</heading>
+<p id="p0020" num="0020">Examples of monomers for a repeating unit represented by formula (I) may include 6-hydroxy-2-naphthoic acid and derivatives thereof. Examples of monomers for a repeating unit represented by formula (II) may include 2,6-naphthalenedicarboxylic acid and derivatives thereof. It should be understood that the term "derivative(s)" used herein includes, for example, ester-forming derivatives, such as acylated compounds, ester derivatives and acid halides, as well as that names of compounds used hereinafter also refer to derivatives thereof.</p>
+<p id="p0021" num="0021">In order to suppress the dielectric dissipation factor in the gigahertz bands, in the thermoplastic liquid crystal polymer according to the present invention, a molar ratio of a total amount of the repeating units represented by formula (I) and formula (II) is in a range of 50 to 90 mol% relative to a total amount of all the repeating units. By using, as an aromatic ring repeating unit bonded to the carbonyl group, a bulky naphthalene ring repeating unit having a total molar amount range as described above relative to the total amount of all the repeating units, presumably because this structure contributes to enhanced rotational energy of carbonyl groups in ester bonds as permanent dipoles in the thermoplastic liquid crystal polymer, it is possible to suppress increase in the dielectric dissipation factor caused by energy dissipation into heat due to rotational motion of permanent dipoles.</p>
+<p id="p0022" num="0022">The molar ratio of the total amount of the repeating units represented by formula (I) and formula (II) to the total amount of all the repeating units may be preferably 55 to 85 mol% and more preferably 60 to 80 mol%. The molar ratio of the total amount of the repeating units represented by formula (I) and formula (II) to the total amount of all the repeating units of less than 50 mol% is not preferable because of the increased dielectric dissipation factor.<!-- EPO <DP n="7"> --></p>
+<p id="p0023" num="0023">In order to suppress energy dissipation into heat caused by rotational motion of carbonyl groups, the molar ratio of the repeating unit represented by formula (I) to the total amount of all the repeating units derived from hydroxycarboxylic acids in the thermoplastic liquid crystal polymer may be, for example, 85 mol% or higher, preferably 90 mol% or higher, more preferably 95 mol% or higher, still more preferably 98 mol% or higher, and particularly preferably 100 mol%.</p>
+<p id="p0024" num="0024">In order to suppress energy dissipation into heat caused by rotational motion of the carbonyl group, the molar ratio of the repeating unit represented by formula (II) to the total amounts of all the repeating units derived from dicarboxylic acids in the thermoplastic liquid crystal polymer may be, for example, 85 mol% or higher, preferably 90 mol% or higher, more preferably 95 mol% or higher, still more preferably 98 mol% or higher, and particularly preferably 100 mol%.</p>
+<p id="p0025" num="0025">In order to lower the melting point of the thermoplastic liquid crystal polymer, the molar ratio of the repeating unit represented by formula (I) to the repeating unit represented by formula (II) may be preferably the former/the latter = 45/55 to 90/10, more preferably 55/45 to 85/15, and still more preferably 60/40 to 80/20.</p>
+<heading id="h0011">Repeating Units Represented by Formulae (III) and (IV)</heading>
+<p id="p0026" num="0026">The repeating units represented by formulae (III) and (IV) are repeating units derived from divalent aromatic diols which are different from each other.</p>
+<p id="p0027" num="0027">In order to lower the melting point of the thermoplastic liquid crystal polymer containing large amounts of the repeating units of formulae (I) and (II), the thermoplastic liquid crystal polymer according to the present invention has a molar ratio of the repeating unit represented by formula (III) to the repeating unit represented by formula (IV) in a range of the former/the latter = 23/77 to 77/23. The melting point of the polymer can be lowered probably because of avoidance<!-- EPO <DP n="8"> --> of strong crystalline structure being produced by using two repeating units derived from aromatic diols constituting the thermoplastic liquid crystal polymer, both units being different from each other in a specific constitution ratio of the two repeating units.</p>
+<p id="p0028" num="0028">The molar ratio of the repeating unit represented by formula (III) to repeating unit represented by formula (IV) may be preferably 25/75 to 75/25, more preferably 30/70 to 70/30, and particularly preferably 35/65 to 65/35.</p>
+<p id="p0029" num="0029">For example, in the repeating units represented by formulae (III) and (IV), Ar<sub>1</sub> and Ar<sub>2</sub> are different from each other; each of Ar<sub>1</sub> and Ar<sub>2</sub> may be selected from a group consisting of 1,4-phenylene, 1,3-phenylene, 1,5-naphthylene, 2,6-naphthylene, 4,4'-biphenylene, 2,6-anthraquinonylene, and a divalent residue having two or more phenylenes linked by a linking group at the para-position; and the linking group may be selected from a group consisting of a carbon-carbon bond, an oxy group, an alkylene group with 1 to 3 carbon atoms, an amino group, a carbonyl group, a sulfide group, a sulfinyl group, and a sulfonyl group. Ar<sub>1</sub> and Ar<sub>2</sub> may optionally have a substituent (for example, a lower alkyl group such as a C<sub>1-3</sub> alkyl group, a halogen atom, and a phenyl group).</p>
+<p id="p0030" num="0030">Examples of monomers for the repeating units represented by formulae (III) and (IV) may include aromatic diol compounds selected from an exemplary group shown in Table 1 below and derivatives thereof.<!-- EPO <DP n="9"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>Table 1</title>
+<tgroup cols="2" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="89mm"/>
+<colspec colnum="2" colname="col2" colwidth="77mm" colsep="1"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="top">Chemical structural formulae of representative examples of aromatic diol compounds</entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry>
+<chemistry id="chem0003" num="0003"><img id="ib0003" file="imgb0003.tif" wi="49" he="29" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry>X represents a hydrogen atom or a halogen atom, or a group such as a lower alkyl (e.g., C<sub>1-3</sub> alkyl) or a phenyl</entry></row>
+<row rowsep="0">
+<entry>
+<chemistry id="chem0004" num="0004"><img id="ib0004" file="imgb0004.tif" wi="62" he="23" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry>
+<chemistry id="chem0005" num="0005"><img id="ib0005" file="imgb0005.tif" wi="39" he="41" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row rowsep="0">
+<entry>
+<chemistry id="chem0006" num="0006"><img id="ib0006" file="imgb0006.tif" wi="73" he="20" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry/></row>
+<row rowsep="0">
+<entry>
+<chemistry id="chem0007" num="0007"><img id="ib0007" file="imgb0007.tif" wi="78" he="37" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry>
+<chemistry id="chem0008" num="0008"><img id="ib0008" file="imgb0008.tif" wi="39" he="26" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row>
+<entry>
+<chemistry id="chem0009" num="0009"><img id="ib0009" file="imgb0009.tif" wi="82" he="21" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry>Y represents a group such as -O-, -CH<sub>2</sub>-, -S-, -CO-, -C(CH<sub>3</sub>)<sub>2</sub>-, or -SO<sub>2</sub>-</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="10"> --></p>
+<p id="p0031" num="0031">In order to obtain good flow characteristics while maintaining dielectric characteristics of the thermoplastic liquid crystal polymer, monomers for the repeating units represented by formulae (III) and (IV) are preferably selected from linear aromatic diol compounds. For example, such linear aromatic diol compounds preferably have linear portion (for example, at the para-position or the 2,6-position) forming the main chain of the thermoplastic liquid crystal polymer.</p>
+<p id="p0032" num="0032">Preferably, in the repeating units represented by formulae (III) and (IV), An and Ar<sub>2</sub> are different from each other; each of Ar<sub>1</sub> and Ar<sub>2</sub> may be selected from a group consisting of 1,4-phenylene, 2,6-naphthylene, 4,4'-biphenylene, 2,6-anthraquinonylene, and a divalent residue having two or more phenylenes linked by a linking group at the para-position; the linking group may be selected from a group consisting of a carbon-carbon bond, an oxy group, an alkylene group with 1 to 3 carbon atoms, and a carbonyl group; and Ar<sub>1</sub> and Ar<sub>2</sub> may optionally have a substituent (for example, a lower alkyl group such as a C<sub>1-3</sub> alkyl group, and a phenyl group).</p>
+<p id="p0033" num="0033">The inventors have further found that when the above thermoplastic liquid crystal polymer includes a specific combination of the repeating units represented by formulae (III) and (IV), it is possible to maintain a low dielectric dissipation factor without disturbing liquid crystallinity.</p>
+<p id="p0034" num="0034">In particular, monomers for the repeating units represented by formulae (III) and (IV) are preferably two aromatic diol compounds selected from hydroquinone, 4,4'-dihydroxybiphenyl, phenylhydroquinone, and 4,4'-dihydroxydiphenyl ether. In particular, at least one of the monomers for the repeating units represented by formulae (III) and (IV) preferably has a biphenyl moiety. Monomers having a biphenyl moiety contribute to decrease in the dielectric dissipation factor because the biphenyl moiety existence makes it possible to reduce the ratio of the permanent dipole ester group to the molecular weight.<!-- EPO <DP n="11"> --></p>
+<p id="p0035" num="0035">Further, it is preferable to combine the repeating units substantially represented by formulae (III) and (IV) with the repeating unit represented by formula (II). The molar ratio of the repeating unit represented by formula (II) to the total amount of the repeating units represented by formulae (III) and (IV) may be, for example, 90/100 to 100/90, preferably 95/100 to 100/95, and more preferably 100/100.</p>
+<p id="p0036" num="0036">It should be noted that, as long as the effect of the present invention can be obtained, the thermoplastic liquid crystal polymer according to the present invention may include a repeating unit derived from aliphatic diol compounds, such as HO(CH<sub>2</sub>)<sub>n</sub>OH (n is an integer from 2 to 12).</p>
+<p id="p0037" num="0037">Additionally, as long as the effect of the present invention can be obtained, the thermoplastic liquid crystal polymer according to the present invention may include a repeating unit used in known thermoplastic liquid crystal polyesters, such as a repeating unit derived from diols, a repeating unit derived from dicarboxylic acids, a repeating unit derived from hydroxycarboxylic acids, and a repeating unit derived from aromatic diamines, aromatic hydroxyamines, or aromatic aminocarboxylic acids. For example, the thermoplastic liquid crystal polymer may include a repeating unit derived from the compounds classified in the following Tables 2 to 4.</p>
+<p id="p0038" num="0038">Aromatic or aliphatic dicarboxylic acids (see Table 2 for representative examples)<!-- EPO <DP n="12"> -->
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>Table 2</title>
+<tgroup cols="2" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="78mm"/>
+<colspec colnum="2" colname="col2" colwidth="78mm" colsep="1"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="top">Chemical structural formulae of representative examples of aromatic or aliphatic dicarboxylic acids</entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry namest="col1" nameend="col2" align="left">
+<chemistry id="chem0010" num="0010"><img id="ib0010" file="imgb0010.tif" wi="143" he="27" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row rowsep="0">
+<entry namest="col1" nameend="col2" align="left">
+<chemistry id="chem0011" num="0011"><img id="ib0011" file="imgb0011.tif" wi="143" he="51" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row rowsep="0">
+<entry namest="col1" nameend="col2" align="left">
+<chemistry id="chem0012" num="0012"><img id="ib0012" file="imgb0012.tif" wi="96" he="21" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row rowsep="0">
+<entry namest="col1" nameend="col2" align="left">
+<chemistry id="chem0013" num="0013"><img id="ib0013" file="imgb0013.tif" wi="96" he="21" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row rowsep="0">
+<entry namest="col1" nameend="col2" align="left">
+<chemistry id="chem0014" num="0014"><img id="ib0014" file="imgb0014.tif" wi="117" he="21" img-content="chem" img-format="tif"/></chemistry></entry></row>
+<row>
+<entry align="center">HOOC(CH<sub>2</sub>)<sub>n</sub>COOH</entry>
+<entry align="center">n is an integer of 2 to 12</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0039" num="0039">Aromatic hydroxycarboxylic acids (see Table 3 for representative examples)<!-- EPO <DP n="13"> -->
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>Table 3</title>
+<tgroup cols="2" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="63mm"/>
+<colspec colnum="2" colname="col2" colwidth="103mm" colsep="1"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col2" align="center" valign="top">Chemical structural formulae of representative examples of aromatic hydroxycarboxylic acids</entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry>
+<chemistry id="chem0015" num="0015"><img id="ib0015" file="imgb0015.tif" wi="56" he="29" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry>X represents a hydrogen atom or a halogen atom, or a group such as a lower alkyl (e.g., C<sub>1-3</sub> alkyl) or a phenyl</entry></row>
+<row>
+<entry>
+<chemistry id="chem0016" num="0016"><img id="ib0016" file="imgb0016.tif" wi="46" he="26" img-content="chem" img-format="tif"/></chemistry></entry>
+<entry>
+<chemistry id="chem0017" num="0017"><img id="ib0017" file="imgb0017.tif" wi="81" he="21" img-content="chem" img-format="tif"/></chemistry></entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0040" num="0040">Aromatic diamines, aromatic hydroxyamines, or aromatic aminocarboxylic acids (see Table 4 for representative examples)
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title>Table 4</title>
+<tgroup cols="1" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="161mm" colsep="1"/>
+<thead>
+<row>
+<entry align="center" valign="top">Chemical structural formulae of representative examples of aromatic diamines, aromatic hydroxy amines, or aromatic aminocarboxylic acids</entry></row></thead>
+<tbody>
+<row>
+<entry>
+<chemistry id="chem0018" num="0018"><img id="ib0018" file="imgb0018.tif" wi="161" he="21" img-content="chem" img-format="tif"/></chemistry></entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0041" num="0041">Further, the thermoplastic liquid crystal polymer according to the present invention is not particularly limited as long as the effect of the present invention can be obtained, and may also be, other than the thermoplastic liquid crystal polyester including the respective repeating units described above, a thermoplastic liquid crystal polyesteramide that is the above thermoplastic liquid crystal polyester with an amide bond incorporated thereto. The thermoplastic liquid crystal polymer may also be a polymer that is an aromatic polyester or an<!-- EPO <DP n="14"> --> aromatic polyesteramide with, e.g., an imide bond, a carbonate bond, a carbodiimide bond, or an isocyanate-derived bond such as an isocyanurate bond incorporated thereto.</p>
+<p id="p0042" num="0042">It should be noted that in the present invention, capability of forming an optically anisotropic melt phase can be determined by, for example, placing a sample on a hot stage, heating the sample with an elevating temperature under a nitrogen atmosphere, and observing light transmitted through the sample.</p>
+<p id="p0043" num="0043">The thermoplastic liquid crystal polymer of the present invention can have a reduced melting point in spite of containing a specific amount of the repeating unit having a naphthalene ring. For example, the polymer may have a melting point (hereinafter, referred to as Tmo) preferably in a range from 260 to 330°C (for example, from 270 to 330°C), and more preferably from 270 to 320°C (for example, from 290 to 320°C). Since the thermoplastic liquid crystal polymer of the present invention has a melting point within a predetermined range, it is possible to melt-extrude the thermoplastic liquid crystal polymer at a lower temperature, to achieve good film formability as well as to suppress thermal decomposition of the thermoplastic liquid crystal polymer. It should be noted that the melting point is a value measured according to the method recited in Examples described later.</p>
+<p id="p0044" num="0044">The thermoplastic liquid crystal polymer according to the present invention is preferably capable of achieving not only a reduced melting point, but also a large temperature difference between the melting point and the solidifying temperature. For example, the temperature difference between the melting point and the solidifying temperature may be preferably in a range from 40 to 160°C, and more preferably in a range from 45 to 155°C. In a film formation process, where the temperature difference between the melting point and the solidifying temperature is within the above range, a sufficient time is ensured from melting to solidification of the thermoplastic liquid crystal polymer during melt film formation of the thermoplastic liquid crystal polymer so as to enhance<!-- EPO <DP n="15"> --> flexibility in temperature condition settings, such as the film formation temperature.</p>
+<p id="p0045" num="0045">It should be noted that the term "solidifying temperature" refers to a peak temperature of crystallization (crystallization temperature) in a cooling process of a DSC measurement, but if a crystallization temperature is not observed, the term "solidifying temperature" refers to a glass transition temperature. Specifically, a solidifying temperature is measured according to the method recited in Examples described later. Additionally, temperature difference between a melting point and a solidifying temperature of a thermoplastic liquid crystal polymer is calculated by subtracting the solidifying temperature from the melting point.</p>
+<p id="p0046" num="0046">The thermoplastic liquid crystal polymer may be a resin composition containing other component(s). The resin composition may comprise any thermoplastic polymer such as a polyethylene terephthalate, a modified polyethylene terephthalate, a polyolefin, a polycarbonate, a polyarylate, a polyamide, a polyphenylene sulfide, a polyether ether ketone, and a fluorine resin; and/or various additives, as long as the advantageous effect of the present invention is not deteriorated. If necessary, the resin composition may comprise a filler.</p>
+<heading id="h0012">Method for Producing Thermoplastic Liquid Crystal Polymer</heading>
+<p id="p0047" num="0047">The method for producing a thermoplastic liquid crystal polymer according to the present invention is not particularly limited, and the thermoplastic liquid crystal polymer can be synthesized by a known polycondensation method. Direct polymerization may be performed using 6-hydroxy-2-naphthoic acid, 2,6-naphthalenedicarboxylic acid, and any aromatic diols as monomers for polycondensation. The monomers such as 6-hydroxy-2-naphthoic acid and aromatic diols may be used in the polymerization in the form of acylated compounds obtained by acylating the hydroxy groups in these monomers to activate their terminals.<!-- EPO <DP n="16"> --></p>
+<p id="p0048" num="0048">As the acylated compounds of the monomers, monomers may be reacted with an acylating agent in advance. Alternatively, an acylating agent is added to the monomers in a reaction system in the process of producing the thermoplastic liquid crystal polymer. Examples of the acylating agent may include acid anhydrides, such as acetic anhydride.</p>
+<p id="p0049" num="0049">The polycondensation may be performed in presence of various catalysts, including an organic tin-based catalyst (such as dialkyltin oxide), an antimony-based catalyst (such as antimony trioxide), a titanium-based catalyst (such as titanium dioxide), any of alkali metal salts or alkaline earth metal salts of carboxylic acids (such as potassium acetate), and a Lewis acid (such as BF<sub>3</sub>), for example.</p>
+<p id="p0050" num="0050">After polycondensation is carried out by polymerization in the melt phase, solid-phase polymerization may be further carried out. In the solid-phase polymerization, for example, the polymer thus obtained in the melt polymerization step is subjected to crushing into powder or flakes, and then performing heat treatment in the solid phase under vacuum or under an inert atmosphere, such as nitrogen.</p>
+<heading id="h0013">Method for Producing Thermoplastic Liquid Crystal Polymer Film</heading>
+<p id="p0051" num="0051">Since the thermoplastic liquid crystal polymer of the present invention is capable of having a reduced melting point in spite of containing a predetermined amount of the repeating units having a naphthalene ring, films can be suitably produced from the thermoplastic liquid crystal polymer. The thermoplastic liquid crystal polymer film can be obtained, for example, by extruding the melt-kneaded product of the thermoplastic liquid crystal polymer.</p>
+<p id="p0052" num="0052">Any method may be used for extruding the polymer, and industrially advantageous well-known methods, such as a T-die method or an inflation method, are used. In particular, in the inflation method, stress can be applied not only in a machine direction of a film (hereinafter, abbreviated as an MD direction), but also in a transverse direction (hereinafter, abbreviated as a TD<!-- EPO <DP n="17"> --> direction) perpendicular to the MD direction, which allows the film to be uniformly stretched in the MD direction and the TD direction. Accordingly, it is possible to obtain a film having controlled properties such as molecular orientation and dielectric characteristics in both the MD and TD directions.</p>
+<p id="p0053" num="0053">For example, in extrusion molding using a T-die method, a film may be formed by stretching a molten polymer sheet extruded from a T-die in the MD direction and the TD direction of a film at the same time, or alternatively, a film may be formed by stretching a molten polymer sheet extruded from a T-die in sequence, first in the MD direction and then the TD direction.</p>
+<p id="p0054" num="0054">Also, in the extrusion molding using an inflation method, a film may be formed by drawing a tubular sheet melt-extruded from an annular die in a predetermined draw ratio (corresponding to a stretching ratio in the MD direction) and a predetermined blow ratio (corresponding to a stretching ratio in the TD direction).</p>
+<p id="p0055" num="0055">The stretching ratios used in such extrusion molding may be, as a stretching ratio in the MD direction (or a draw ratio), for example, about 1.0 to 10, preferably about 1.2 to 7, and more preferably about 1.3 to 7; and/or as a stretching ratio in the TD direction (or a blow ratio), for example, about 1.5 to 20, preferably about 2 to 15, and still more preferably about 2.5 to 14.</p>
+<p id="p0056" num="0056">If necessary, a known or conventional heat treatment may be carried out in order to control a melting point and/or a thermal expansion coefficient of the thermoplastic liquid crystal polymer film. Heat treatment conditions can be set appropriately depending on the purpose. The heat treatment may be carried out by heating for hours at a temperature of, for example, (Tmo - 10)°C or higher, wherein Tmo denotes a melting point of a thermoplastic liquid crystal polymer, for example, about (Tmo - 10)°C to (Tmo + 30)°C, and preferably about Tm<sub>0</sub>°C to (Tmo + 20)°C to increase a melting point (Tm) of the thermoplastic liquid crystal polymer film.</p>
+<p id="p0057" num="0057">Thermoplastic Liquid Crystal Polymer Film<!-- EPO <DP n="18"> --></p>
+<p id="p0058" num="0058">According to one embodiment of the present invention, a thermoplastic liquid crystal polymer film is formed from the above thermoplastic liquid crystal polymer. The thermoplastic liquid crystal polymer film can have an extremely low dielectric dissipation factor because the thermoplastic liquid crystal polymer constituting the film has a specific amount in the repeating units as the total amount of the repeating unit represented by formula (I) and the repeating unit represented by formula (II).</p>
+<heading id="h0014">Dielectric Dissipation Factor</heading>
+<p id="p0059" num="0059">According to one embodiment of the present invention, a thermoplastic liquid crystal polymer film may have, for example, a dielectric dissipation factor of 0.0007 or lower and more preferably 0.0006 or lower at 25°C and 5 GHz. It should be noted that a dielectric dissipation factor is a value measured according to the method recited in Examples described later. The dielectric dissipation factor is calculated as an average of dielectric dissipation factors measured at 5 GHz in one direction (X direction) and a transverse direction (Y direction) perpendicular to the X direction.</p>
+<p id="p0060" num="0060">According to one embodiment of the present invention, a thermoplastic liquid crystal polymer film can preferably have a low dielectric dissipation factor in higher frequency bands as well. For example, the dielectric dissipation factor at 40°C and 24 GHz may be 0.0012 or lower, and more preferably 0.0010 or lower. It should be noted that a dielectric dissipation factor at 40°C and 24 GHz is a value measured according to the method recited in Examples described later.</p>
+<p id="p0061" num="0061">According to one embodiment of the present invention, a thermoplastic liquid crystal polymer film can preferably have a low dielectric dissipation factor at a high temperature (for example, 120°C) as well. For example, the dielectric dissipation factor at 120°C and 24 GHz may be 0.0025 or lower, and more preferably 0.0022 or lower, and still more preferably 0.0020 or lower. It should be noted that a dielectric dissipation factor at 120°C and 24 GHz is a value measured according to the method recited in Examples described later.<!-- EPO <DP n="19"> --></p>
+<p id="p0062" num="0062">Since the thermoplastic liquid crystal polymer film of the present invention has an extremely low dielectric dissipation factor, it can suitably be used as a substrate material, in particular, as a substrate material used in a radar adapted for the gigahertz bands. The lower the dielectric dissipation factor is, the smaller the transmission loss is. Thus, such a thermoplastic liquid crystal polymer film can be suitably used for a transmission circuit so as to reduce power consumption and/or noise.</p>
+<heading id="h0015">Dielectric Constant</heading>
+<p id="p0063" num="0063">The thermoplastic liquid crystal polymer film of the present invention may have, for example, a dielectric constant of 2.5 to 4.0 (for example, about 2.6 to 4.0) and preferably of about 2.8 to 4.0 at 25°C and 5 GHz. The film may also have a dielectric constant of 2.5 to 4.0 (for example, about 2.6 to 4.0) and preferably of about 2.8 to 4.0 at 40°C and 24 GHz. The film may further have a dielectric constant of 2.5 to 4.0 (for example, about 2.6 to 4.0) and preferably of about 2.8 to 4.0 at 120°C and 24 GHz. It should be noted that a dielectric constant is a value measured according to the method recited in Examples described later. The dielectric constant is calculated as an average of dielectric constants measured at a predetermined frequency (and a temperature) in one direction (X direction) and a transverse direction (Y direction) perpendicular to the X direction.</p>
+<heading id="h0016">Metal-Clad Laminate</heading>
+<p id="p0064" num="0064">An aspect of the present invention may include a metal-clad laminate having a thermoplastic liquid crystal polymer film and a metal layer (for example, a metal sheet) bonded to at least one surface of the thermoplastic liquid crystal polymer film.</p>
+<p id="p0065" num="0065">The metal layer may be formed from, for example, gold, silver, copper, iron, nickel, aluminum, or an alloy thereof. The metal-clad laminate may preferably be a copper-clad laminate.<!-- EPO <DP n="20"> --></p>
+<p id="p0066" num="0066">A circuit board can be obtained by subjecting the metal-clad laminate to a known or conventional process to form a circuit pattern on the metal layer part.</p>
+<heading id="h0017">Circuit Board</heading>
+<p id="p0067" num="0067">According to one embodiment of the present invention, a circuit board includes at least one conductor layer and at least one insulator (or dielectric) layer. As long as the thermoplastic liquid crystal polymer film is used as an insulator (or a dielectric), configurations of the circuit board are not particularly limited, and the circuit board can be obtained by a known or conventional means and used as various high-frequency circuit boards. In addition, the circuit board may be a circuit board having a semiconductor element (for example, an IC chip) mounted thereon (or a substrate on which a semiconductor chip(s) is(are) mounted).</p>
+<heading id="h0018">Conductor Layer</heading>
+<p id="p0068" num="0068">A conductor layer is formed from, for example, a metal at least having conductivity, and a circuit is formed on the conductor layer using a known method for processing a circuit. Conductors for forming a conductor layer may include various metals having conductivity, such as gold, silver, copper, iron, nickel, aluminum, or an alloy thereof.</p>
+<p id="p0069" num="0069">In particular, since the circuit board as one aspect of the present invention has a dielectric dissipation factor that is controlled to be extremely low, it may be used for various transmission lines (for example, known or conventional transmission lines, such as coaxial lines, strip lines, microstrip lines, coplanar lines, parallel lines), and for antennas (for example, microwave or millimeter-wave antennas). The circuit board may also be used for an antenna device having an antenna and a transmission line integrated.</p>
+<p id="p0070" num="0070">The antenna may include antennas using milli-meter wave or microwave, such as waveguide slot antennas, horn antennas, lens antennas, printed antennas, triplate antennas, microstrip antennas, and patch antennas.<!-- EPO <DP n="21"> --></p>
+<p id="p0071" num="0071">For example, such an antenna has, as a base material of the antenna, at least a circuit board (preferably, a multilayer circuit board) that comprises at least one conductor layer and at least one insulator (or a dielectric) formed from the thermoplastic liquid crystal polymer film of the present invention.</p>
+<p id="p0072" num="0072">The circuit board (or a substrate on which a semiconductor chip(s) is(are) mounted) according to the present invention is preferably used for various sensors and, in particular, vehicular radars. The various sensors, in particular, vehicular radars, may at least include, for example, a circuit board comprising the thermoplastic liquid crystal polymer film of the present invention and a semiconductor element (for example, an IC chip).</p>
+<heading id="h0019">EXAMPLES</heading>
+<p id="p0073" num="0073">Hereafter, the present invention will be described in detail with reference to Examples; however, the present invention is not limited to these Examples. Various physical properties discussed in the Examples and Comparative Examples were measured by the following procedures.</p>
+<heading id="h0020">Melting Point</heading>
+<p id="p0074" num="0074">A melting point of a sample is an endothermic peak temperature measured for 5 mg of the sample using a DSC Q2000 (produced by TA Instruments Japan, Inc.), by heating the sample at a speed of 20°C per minute from a room temperature to a temperature at which the sample was polymerized, maintaining the sample at that temperature for 2 minutes, cooling it to 25°C at a speed of 20°C per minute, maintaining it at 25°C for 2 minutes, and then heating it again at a speed of 20°C per minute.</p>
+<heading id="h0021">Solidifying Temperature</heading>
+<p id="p0075" num="0075">The solidifying temperature is an exothermic peak temperature (crystallization temperature) in the cooling process in the above measurement of the melting point. In the case where a crystallization temperature is not observed, the solidifying temperature is a glass transition temperature observed in the cooling process in the above measurement of the melting point.<!-- EPO <DP n="22"> --></p>
+<heading id="h0022">Dielectric Characteristics at 25°C and 5 GIIz</heading>
+<heading id="h0023">Sample Preparation</heading>
+<p id="p0076" num="0076">A thermoplastic liquid crystal polymer was subjected to heat pressing in a condition of (Tmo + 15) to (Tmo + 30)°C under pressure of 100 kg/cm<sup>2</sup> to obtain a 12-cm square sheet with a thickness of 125 µm, a length of 12 cm, and a width of 12 cm. Then, the resultant sheet was cut in the horizontal direction (X direction) of the sheet to obtain sample pieces with a length of 8 cm, a width of 2 mm, and a thickness of 125 µm. Another sheet was obtained in the same manner and was cut in the vertical direction (Y direction) of the sheet to obtain sample pieces with a length of 8 cm, a width of 2 mm, and a thickness of 125 µm.</p>
+<heading id="h0024">Method of Measurement</heading>
+<p id="p0077" num="0077">Measurement of dielectric constants and dielectric dissipation factors were performed by a perturbation method using a cavity resonator at a frequency of 5 GHz. A cavity resonator (produced by KANTO Electronic Application and Development Inc.) at 5 GHz was connected to a network analyzer (produced by Agilent Technologies, Inc., "E8362B"), and the above sample pieces were inserted into the cavity resonator to perform the measurement at 25°C. With respect to each of the dielectric constants and the dielectric dissipation factors, the data obtained in the vertical direction and the horizontal direction were calculated into an average value to be adopted.</p>
+<p id="p0078" num="0078">Dielectric Characteristics at 40°C and 24 GHz and at 120°C and 24 GHz</p>
+<heading id="h0025">Sample Preparation</heading>
+<p id="p0079" num="0079">A thermoplastic liquid crystal polymer was subjected to hot pressing in a condition of (Tmo + 20) to (Tmo + 30)°C under pressure of 100 kg/cm<sup>2</sup> to obtain a 10-cm square sheet with a thickness of 1 mm, a length of 10 cm, and a width of 10 cm. Then, the resultant sheet was cut in the horizonal direction of the sheet while adjusting the width (about 1.6 mm) so as to have a diagonal<!-- EPO <DP n="23"> --> length of 1.87 mm in the cross section, and thereby to obtain sample pieces with a length of 40 mm, a width of about 1.6 mm, and a thickness of 1 mm. Another sheet was obtained in the same manner and was cut in the vertical direction of the sheet to obtain sample pieces with a length of 40 mm, a width of about 1.6 mm, and a thickness of 1 mm.</p>
+<heading id="h0026">Method of Measurement</heading>
+<p id="p0080" num="0080">According to a method described by Kentaro Mori and Atsuhiro Nishikata, "Temperature evaluation at sample location and measurement of the liquid crystal polymer film's complex permittivity by temperature-controlled waveguide penetration method", Program of Society Conference 2016, the Institute of Electronics, Information and Communication Engineers, B-4-44, measurement of the above sample pieces was performed. Measurement was performed for the dielectric constants and dielectric dissipation factors at 24 GHz, at temperatures of 40°C and 120°C. With respect to each of the dielectric constants and the dielectric dissipation factors, the data obtained in the vertical direction and the horizontal direction were calculated into an average value to be adopted.</p>
+<heading id="h0027">Example 1</heading>
+<p id="p0081" num="0081">Into a 100-mL reactor, were introduced 19.74 g of 6-hydroxy-2-naphthoic acid (60 mol%), 7.56 g of 2,6-naphthalenedicarboxylic acid (20 mol%), 0.96 g of hydroquinone (5 mol%), 4.88 g of 4,4'-dihydroxybiphenyl (15 mol%), 19.64 g of acetic anhydride, and 3.77 mg of potassium acetate as a polymerization catalyst. The mixture was acetylated under a nitrogen atmosphere (at 160°C for about 2 hours under reflux) and then kept at 280°C for 0.5 hour, at 320°C for 1 hour and at 360°C for 1 hour. Then, decompression treatment (100 Pa) was performed until it is confirmed that forming has stopped (for 30 to 120 minutes), and subsequently the reactor was purged with nitrogen to obtain an aromatic liquid crystal polyester.<!-- EPO <DP n="24"> --></p>
+<p id="p0082" num="0082">The resultant thermoplastic liquid crystal polymer had a melting point of 294°C and a solidifying temperature of 228°C, and a temperature difference between the melting point and the solidifying temperature was 66°C.</p>
+<p id="p0083" num="0083">The obtained thermoplastic liquid crystal polymer was heat-pressed to obtain a film, and a dielectric constant and a dielectric dissipation factor of the film were measured. The results of the measurement are shown in Table 5.</p>
+<heading id="h0028">Example 2</heading>
+<p id="p0084" num="0084">An aromatic liquid crystal polyester was obtained in the same manner as in Example 1, except that the raw materials introduced into the reactor were changed to 20.19 g of 6-hydroxy-2-naphthoic acid (60 mol%), 7.73 g of 2,6-naphthalenedicarboxylic acid (20 mol%), 1.97 g of hydroquinone (10 mol%), 3.33 g of 4,4'-dihydroxybiphenyl (10 mol%), 20.08 g of acetic anhydride, and 3.77 mg of potassium acetate.</p>
+<p id="p0085" num="0085">The resultant thermoplastic liquid crystal polymer had a melting point of 291°C and a solidifying temperature of 237°C, and a temperature difference between the melting point and the solidifying temperature was 54°C.</p>
+<p id="p0086" num="0086">The obtained thermoplastic liquid crystal polymer was heat-pressed to obtain a film, and a dielectric constant and a dielectric dissipation factor of the film were measured. The results of the measurement are shown in Table 5.</p>
+<heading id="h0029">Example 3</heading>
+<p id="p0087" num="0087">An aromatic liquid crystal polyester was obtained in the same manner as in Example 1, except that the raw materials introduced into the reactor were changed to 20.66 g of 6-hydroxy-2-naphthoic acid (60 mol%), 7.91 g of 2,6-naphthalenedicarboxylic acid (20 mol%), 3.02 g of hydroquinone (15 mol%), 1.70 g of 4,4'-dihydroxybiphenyl (5 mol%), 20.55g of acetic anhydride, and 3.77 mg of potassium acetate.</p>
+<p id="p0088" num="0088">The resultant thermoplastic liquid crystal polymer had a melting point of 309°C and a solidifying temperature of 252°C, and a temperature difference between the melting point and the solidifying temperature was 57°C.<!-- EPO <DP n="25"> --></p>
+<p id="p0089" num="0089">The obtained thermoplastic liquid crystal polymer was heat-pressed to obtain a film, and a dielectric constant and a dielectric dissipation factor of the film were measured. The results of the measurement are shown in Table 5.</p>
+<heading id="h0030">Example 4</heading>
+<p id="p0090" num="0090">An aromatic liquid crystal polyester was obtained in the same manner as in Example 1, except that the raw materials introduced into the reactor were changed to 15.23 g of 6-hydroxy-2-naphthoic acid (45 mol%), 10.69 g of 2,6-naphthalenedicarboxylic acid (27.5 mol%), 2.72 g of hydroquinone (13.75 mol%), 4.60 g of 4,4'-dihydroxybiphenyl (13.75 mol%), 20.19 g of acetic anhydride, and 3.77 mg of potassium acetate.</p>
+<p id="p0091" num="0091">The resultant thermoplastic liquid crystal polymer had a melting point of 275°C and a solidifying temperature of 225°C, and a temperature difference between the melting point and the solidifying temperature was 50°C.</p>
+<p id="p0092" num="0092">The obtained thermoplastic liquid crystal polymer was heat-pressed to obtain a film, and a dielectric constant and a dielectric dissipation factor of the film were measured. The results of the measurement are shown in Table 5.</p>
+<heading id="h0031">Example 5</heading>
+<p id="p0093" num="0093">An aromatic liquid crystal polyester was obtained in the same manner as in Example 1, except that the raw materials introduced into the reactor were changed to 10.21 g of 6-hydroxy-2-naphthoic acid (30 mol%), 13.68 g of 2,6-naphthalenedicarboxylic acid (35 mol%), 3.48 g of hydroquinone (17.5 mol%), 5.89 g of 4,4'-dihydroxybiphenyl (17.5 mol%), 20.30 g of acetic anhydride, and 3.77 mg of potassium acetate.</p>
+<p id="p0094" num="0094">The resultant thermoplastic liquid crystal polymer had a melting point of 317°C and a solidifying temperature of 240°C, and a temperature difference between the melting point and the solidifying temperature was 77°C.</p>
+<p id="p0095" num="0095">The obtained thermoplastic liquid crystal polymer was heat-pressed to obtain a film, and a dielectric constant and a dielectric dissipation factor of the film were measured. The results of the measurement are shown in Table 5.<!-- EPO <DP n="26"> --></p>
+<heading id="h0032">Example 6</heading>
+<p id="p0096" num="0096">An aromatic liquid crystal polyester was obtained in the same manner as in Example 1, except that the raw materials introduced into the reactor were changed to 19.32 g of 6-hydroxy-2-naphthoic acid (60 mol%), 7.40 g of 2,6-naphthalenedicarboxylic acid (20 mol%), 3.19 g of 4,4'-dihydroxybiphenyl (10 mol%), 3.19 g of phenylhydroquinone (10 mol%), 19.21 g of acetic anhydride, and 3.77 mg of potassium acetate.</p>
+<p id="p0097" num="0097">The resultant thermoplastic liquid crystal polymer had a melting point of 262°C and a solidifying temperature of 140°C, and a temperature difference between the melting point and the solidifying temperature was 122°C.</p>
+<p id="p0098" num="0098">The obtained thermoplastic liquid crystal polymer was heat-pressed to obtain a film, and a dielectric constant and a dielectric dissipation factor of the film were measured. The results of the measurement are shown in Table 5.</p>
+<heading id="h0033">Example 7</heading>
+<p id="p0099" num="0099">An aromatic liquid crystal polyester was obtained in the same manner as in Example 1, except that the raw materials introduced into the reactor were changed to 19.14 g of 6-hydroxy-2-naphthoic acid (60 mol%), 7.33 g of 2,6-naphthalenedicarboxylic acid (20 mol%), 3.16 g of 4,4'-dihydroxybiphenyl (10 mol%), 3.43 g of 4,4'-dihydroxydiphenyl ether (10 mol%), 19.04 g of acetic anhydride, and 3.77 mg of potassium acetate.</p>
+<p id="p0100" num="0100">The resultant thermoplastic liquid crystal polymer had a melting point of 261°C and a solidifying temperature of 110°C, and a temperature difference between the melting point and the solidifying temperature was 151°C.</p>
+<p id="p0101" num="0101">The obtained thermoplastic liquid crystal polymer was heat-pressed to obtain a film, and a dielectric constant and a dielectric dissipation factor of the film were measured. The results of the measurement are shown in Table 5.</p>
+<heading id="h0034">Comparative Example 1</heading>
+<p id="p0102" num="0102">An aromatic liquid crystal polyester was obtained in the same manner as in Example 1, except that the raw materials introduced into the reactor were<!-- EPO <DP n="27"> --> changed to 18.65 g of 6-hydroxy-2-naphthoic acid (54 mol%), 7.01 g of terephthalic acid (23 mol%), 0.30 g of hydroquinone (1.5 mol%), 7.35 g of 4,4'-dihydroxybiphenyl (21.5 mol%), 19.11 g of acetic anhydride, and 3.77 mg of potassium acetate.</p>
+<p id="p0103" num="0103">The resultant thermoplastic liquid crystal polymer had a melting point of 342°C and a solidifying temperature of 306°C, and a temperature difference between the melting point and the solidifying temperature was 36°C.</p>
+<p id="p0104" num="0104">The obtained thermoplastic liquid crystal polymer was heat-pressed to obtain a film, and a dielectric constant and a dielectric dissipation factor of the film were measured. The results of the measurement are shown in Table 5.</p>
+<heading id="h0035">Comparative Example 2</heading>
+<p id="p0105" num="0105">Into a reactor, were introduced 22.64 g of 4-hydroxybenzoic acid (73 mol%), 11.41 g of 6-hydroxy-2-naphthoic acid (27 mol%), 23.38 g of acetic anhydride, and 3.77 mg of potassium acetate. The mixture was acetylated under a nitrogen atmosphere (at 160°C for about 2 hours under reflux) and then kept at 250°C for 0.5 hour, at 280°C for 1 hour and at 320°C for 1 hour. Then, the decompression treatment (100 Pa) was performed for 30 minutes, and after it is confirmed that forming has stopped, the reactor was purged with nitrogen to obtain an aromatic liquid crystal polyester.</p>
+<p id="p0106" num="0106">The resultant thermoplastic liquid crystal polymer had a melting point of 278°C and a solidifying temperature of 237°C, and a temperature difference between the melting point and the solidifying temperature was 41°C.</p>
+<p id="p0107" num="0107">The obtained thermoplastic liquid crystal polymer was heat-pressed to obtain a film, and a dielectric constant and a dielectric dissipation factor of the film were measured. The results of the measurement are shown in Table 5.</p>
+<heading id="h0036">Comparative Example 3</heading>
+<p id="p0108" num="0108">An aromatic liquid crystal polyester was obtained in the same manner as in Example 1, except that the raw materials introduced into the reactor were changed to 20.95 g of 6-hydroxy-2-naphthoic acid (60 mol%), 8.02 g of<!-- EPO <DP n="28"> --> 2,6-naphthalenedicarboxylic acid (20 mol%), 3.68 g of hydroquinone (18 mol%), 0.69 g of 4,4'-dihydroxybiphenyl (2 mol%), 29.89 g of acetic anhydride, and 3.77 mg of potassium acetate.</p>
+<p id="p0109" num="0109">The resultant thermoplastic liquid crystal polymer had a melting point of 332°C and a solidifying temperature of 280°C, and a temperature difference between the melting point and the solidifying temperature was 52°C.</p>
+<p id="p0110" num="0110">The obtained thermoplastic liquid crystal polymer was heat-pressed to obtain a film, and a dielectric constant and a dielectric dissipation factor of the film were measured. The results of the measurement are shown in Table 5.</p>
+<heading id="h0037">Comparative Example 4</heading>
+<p id="p0111" num="0111">An aromatic liquid crystal polyester was obtained in the same manner as in Example 1, except that the raw materials introduced into the reactor were changed to 12.69 g of 6-hydroxy-2-naphthoic acid (40 mol%), 10.93 g of 2,6-naphthalenedicarboxylic acid (30 mol%), 9.42 g of 4,4'-dihydroxybiphenyl (30 mol%), 18.93 g of acetic anhydride, and 3.77 mg of potassium acetate.</p>
+<p id="p0112" num="0112">The resultant thermoplastic liquid crystal polymer had a melting point of 347°C and a solidifying temperature of 324°C, and a temperature difference between the melting point and the solidifying temperature was 23°C.</p>
+<p id="p0113" num="0113">The obtained thermoplastic liquid crystal polymer was heat-pressed to obtain a film, and a dielectric constant and a dielectric dissipation factor of the film were measured. The results of the measurement are shown in Table 5.<!-- EPO <DP n="29"> -->
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<title>Table 5</title>
+<tgroup cols="13">
+<colspec colnum="1" colname="col1" colwidth="44mm"/>
+<colspec colnum="2" colname="col2" colwidth="32mm"/>
+<colspec colnum="3" colname="col3" colwidth="15mm"/>
+<colspec colnum="4" colname="col4" colwidth="15mm"/>
+<colspec colnum="5" colname="col5" colwidth="15mm"/>
+<colspec colnum="6" colname="col6" colwidth="15mm"/>
+<colspec colnum="7" colname="col7" colwidth="15mm"/>
+<colspec colnum="8" colname="col8" colwidth="15mm"/>
+<colspec colnum="9" colname="col9" colwidth="15mm"/>
+<colspec colnum="10" colname="col10" colwidth="15mm"/>
+<colspec colnum="11" colname="col11" colwidth="15mm"/>
+<colspec colnum="12" colname="col12" colwidth="15mm"/>
+<colspec colnum="13" colname="col13" colwidth="15mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col2" morerows="1" align="center" valign="top"/>
+<entry namest="col3" nameend="col9" align="center" valign="top">Examples</entry>
+<entry namest="col10" nameend="col13" align="center" valign="top">Comparative Examples</entry></row>
+<row>
+<entry align="center" valign="top">1</entry>
+<entry align="center" valign="top">2</entry>
+<entry align="center" valign="top">3</entry>
+<entry align="center" valign="top">4</entry>
+<entry align="center" valign="top">5</entry>
+<entry align="center" valign="top">6</entry>
+<entry align="center" valign="top">7</entry>
+<entry align="center" valign="top">1</entry>
+<entry align="center" valign="top">2</entry>
+<entry align="center" valign="top">3</entry>
+<entry align="center" valign="top">4</entry></row></thead>
+<tbody>
+<row>
+<entry morerows="7" valign="middle">Monomer ratio (mol%)</entry>
+<entry align="center">HNA</entry>
+<entry align="center">60</entry>
+<entry align="center">60</entry>
+<entry align="center">60</entry>
+<entry align="center">45</entry>
+<entry align="center">30</entry>
+<entry align="center">60</entry>
+<entry align="center">60</entry>
+<entry align="center">54</entry>
+<entry align="center">27</entry>
+<entry align="center">60</entry>
+<entry align="center">40</entry></row>
+<row>
+<entry align="center">HBA</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">73</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">TPA</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">23</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">NDCA</entry>
+<entry align="center">20</entry>
+<entry align="center">20</entry>
+<entry align="center">20</entry>
+<entry align="center">27.5</entry>
+<entry align="center">35</entry>
+<entry align="center">20</entry>
+<entry align="center">20</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">20</entry>
+<entry align="center">30</entry></row>
+<row>
+<entry align="center">HQ</entry>
+<entry align="center">5</entry>
+<entry align="center">10</entry>
+<entry align="center">15</entry>
+<entry align="center">13.75</entry>
+<entry align="center">17.5</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">1.5</entry>
+<entry align="center">-</entry>
+<entry align="center">18</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">BP</entry>
+<entry align="center">15</entry>
+<entry align="center">10</entry>
+<entry align="center">5</entry>
+<entry align="center">13.75</entry>
+<entry align="center">17.5</entry>
+<entry align="center">10</entry>
+<entry align="center">10</entry>
+<entry align="center">21.5</entry>
+<entry align="center">-</entry>
+<entry align="center">2</entry>
+<entry align="center">30</entry></row>
+<row>
+<entry align="center">Ph-HQ</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">10</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry align="center">DHBE</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">10</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center">Melting point (°C)</entry>
+<entry align="center">294</entry>
+<entry align="center">291</entry>
+<entry align="center">309</entry>
+<entry align="center">275</entry>
+<entry align="center">317</entry>
+<entry align="center">262</entry>
+<entry align="center">261</entry>
+<entry align="center">342</entry>
+<entry align="center">278</entry>
+<entry align="center">332</entry>
+<entry align="center">347</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center">Average dielectric constant in the X, Y directions (5 GHz and 25°C)</entry>
+<entry align="center">3.36</entry>
+<entry align="center">3.46</entry>
+<entry align="center">3.63</entry>
+<entry align="center">3.33</entry>
+<entry align="center">3.35</entry>
+<entry align="center">3.62</entry>
+<entry align="center">3.46</entry>
+<entry align="center">3.37</entry>
+<entry align="center">2.97</entry>
+<entry align="center">3.53</entry>
+<entry align="center">3.34</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="center">Average dielectric dissipation factor in the X, Y directions (5 GHz and 25°C)</entry>
+<entry align="center">0.0006</entry>
+<entry align="center">0.0005</entry>
+<entry align="center">0.0005</entry>
+<entry align="center">0.0006</entry>
+<entry align="center">0.0006</entry>
+<entry align="center">0.0006</entry>
+<entry align="center">0.0006</entry>
+<entry align="center">0.0012</entry>
+<entry align="center">0.0020</entry>
+<entry align="center">0.0006</entry>
+<entry align="center">0.0006</entry></row></tbody></tgroup>
+<tgroup cols="13" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="44mm"/>
+<colspec colnum="2" colname="col2" colwidth="32mm"/>
+<colspec colnum="3" colname="col3" colwidth="15mm"/>
+<colspec colnum="4" colname="col4" colwidth="15mm"/>
+<colspec colnum="5" colname="col5" colwidth="15mm"/>
+<colspec colnum="6" colname="col6" colwidth="15mm"/>
+<colspec colnum="7" colname="col7" colwidth="15mm"/>
+<colspec colnum="8" colname="col8" colwidth="15mm"/>
+<colspec colnum="9" colname="col9" colwidth="15mm"/>
+<colspec colnum="10" colname="col10" colwidth="15mm"/>
+<colspec colnum="11" colname="col11" colwidth="15mm"/>
+<colspec colnum="12" colname="col12" colwidth="15mm"/>
+<colspec colnum="13" colname="col13" colwidth="15mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col13" align="justify">HNA: 6-hydroxy-2-naphthoic acid; HBA: 4-hydroxybenzoic acid; TPA: terephthalic acid; NDCA: 2,6-naphthalenedicarboxylic acid; HQ: hydroquinone; BP: 4,4'-dihydroxybiphenyl; Ph-HQ: phenylhydroquinone; DHBE: 4,4'-dihydroxydiphenyl ether</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="30"> --></p>
+<p id="p0114" num="0114">As shown in Table 5, Examples 1 to 7 had reduced melting points as well as large temperature differences between the melting points and the solidifying temperatures. Further, the films formed from the resultant thermoplastic liquid crystal polymers had extremely low dielectric dissipation factor at 5 GHz.</p>
+<p id="p0115" num="0115">Comparative Example 1, which corresponds to a formulation of a thermoplastic liquid crystal polymer of Example in Patent Document 1, had a dielectric dissipation factor of the film at 5 GHz twice or more as high as those of the Examples of the present invention because Comparative Example 1 did not include the repeating unit represented by formula (II) but included a large amount of a repeating unit derived from a different dicarboxylic acid (terephthalic acid). Further, even though Comparative Example 1 includes two repeating units derived from aromatic diols, it had a high melting point because the molar ratio of the repeating units was not in the specific range.</p>
+<p id="p0116" num="0116">Comparative Example 2 did not include the repeating unit represented by formula (II) and included a small amount of the repeating unit having a naphthalene ring. Thus, the film of Comparative Example 2 had a dielectric dissipation factor at 5 GHz three times or more as high as those of the Examples of the present invention.</p>
+<p id="p0117" num="0117">Since Comparative Example 3 had a formulation including repeating units represented by formulae (I) and (II), the film of Comparative Example 3 had a dielectric dissipation factor at 5 GHz as low as those of the Examples of the present invention. However, even though Comparative Example 3 included two repeating units derived from aromatic diols, it had a high melting point because the molar ratio of the repeating units was not in the specific range.</p>
+<p id="p0118" num="0118">Since Comparative Example 4 had a formulation including repeating units represented by formulae (I) and (II), the film of Comparative Example 4 had a dielectric dissipation factor at 5 GHz as low as those of the Examples.<!-- EPO <DP n="31"> --> However, since Comparative Example 4 included only one repeating unit derived from aromatic diols, it had a high melting point.</p>
+<p id="p0119" num="0119">Further, Examples 2 and 5 as well as Comparative Example 2 were studied for dielectric characteristics in a higher frequency band (24 GHz). The results are shown in Table 6 below.
+<tables id="tabl0006" num="0006">
+<table frame="all">
+<title>Table 6</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="111mm"/>
+<colspec colnum="2" colname="col2" colwidth="15mm"/>
+<colspec colnum="3" colname="col3" colwidth="15mm"/>
+<colspec colnum="4" colname="col4" colwidth="21mm"/>
+<thead>
+<row>
+<entry valign="middle"/>
+<entry align="center" valign="middle">Ex. 2</entry>
+<entry align="center" valign="middle">Ex. 5</entry>
+<entry align="center" valign="middle">Com. Ex. 2</entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">Average dielectric constant of the X, Y directions (24 GHz and 40°C)</entry>
+<entry align="center" valign="middle">3.47</entry>
+<entry align="center" valign="middle">3.19</entry>
+<entry align="center" valign="middle">3.43</entry></row>
+<row>
+<entry valign="middle">Average dielectric dissipation factor of the X, Y directions (24 GHz and 40°C)</entry>
+<entry align="center" valign="middle">0.0009</entry>
+<entry align="center" valign="middle">0.0007</entry>
+<entry align="center" valign="middle">0.0030</entry></row>
+<row>
+<entry valign="middle">Average dielectric constant of the X, Y directions (24 GHz and 120°C)</entry>
+<entry align="center" valign="middle">3.51</entry>
+<entry align="center" valign="middle">3.20</entry>
+<entry align="center" valign="middle">3.46</entry></row>
+<row>
+<entry valign="middle">Average dielectric dissipation factor of the X, Y directions (24 GHz and 120°C)</entry>
+<entry align="center" valign="middle">0.0022</entry>
+<entry align="center" valign="middle">0.0018</entry>
+<entry align="center" valign="middle">0.0063</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0120" num="0120">As shown in Table 6, Examples 2 and 5 had low dielectric dissipation factors even at a higher frequency band (24 GHz). Also, Examples 2 and 5 achieved low dielectric dissipation factors even at a high temperature (120°C) at which the dielectric dissipation factors would generally rise due to dielectric loss increase as the temperature rises.</p>
+<p id="p0121" num="0121">In contrast, Comparative Example 2 had a dielectric dissipation factor three times or more as high as those of the Examples at a higher frequency band (24 GHz). In addition, Comparative Example 2 failed to suppress rise in the dielectric dissipation factor at a high temperature (120°C).</p>
+<heading id="h0038">INDUSTRIAL APPLICABILITY</heading>
+<p id="p0122" num="0122">A thermoplastic liquid crystal polymer according to the present invention can be used to form a film having an extremely low dielectric dissipation factor. The thermoplastic liquid crystal polymer film obtained by<!-- EPO <DP n="32"> --> forming the thermoplastic liquid crystal polymer may suitably be used as substrate materials, in particular, as substrate materials for a radar adapted for the gigahertz bands.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="33"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A thermoplastic polymer capable of forming an optically anisotropic melt phase (hereinafter, referred to as a thermoplastic liquid crystal polymer), the thermoplastic liquid crystal polymer comprising repeating units represented by the following formulae (I), (II), (III) and (IV),
+<claim-text>wherein a molar ratio of a total amount of the repeating units represented by formulae (I) and (II) to a total amount of all the repeating units in the thermoplastic liquid crystal polymer is 50 to 90 mol%, and</claim-text>
+<claim-text>a molar ratio of the repeating unit represented by formula (III) to the repeating unit represented by formula (IV) is the former/the latter = 23/77 to 77/23.
+<chemistry id="chem0019" num="0019"><img id="ib0019" file="imgb0019.tif" wi="92" he="26" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0020" num="0020"><img id="ib0020" file="imgb0020.tif" wi="94" he="31" img-content="chem" img-format="tif"/></chemistry><br/>
+<br/>
+        -O-Ar<sub>1</sub>-O-     (III)<br/>
+<br/>
+        -O-Ar<sub>2</sub>-O-     (IV),<br/>
+<br/>
+</claim-text>
+<claim-text>wherein Ar<sub>1</sub> and Ar<sub>2</sub> represent divalent aromatic groups that are different from each other.</claim-text></claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>The thermoplastic liquid crystal polymer according to claim 1, wherein a molar ratio of the repeating unit represented by formula (I) to the repeating unit represented by formula (II) is the former/the latter = 45/55 to 90/10.<!-- EPO <DP n="34"> --></claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>The thermoplastic liquid crystal polymer according to claim 1 or 2, wherein a molar ratio of the repeating unit represented by the formula (II) to a total amount of all the repeating units derived from dicarboxylic acids in the thermoplastic liquid crystal polymer is 85 mol% or higher.</claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>The thermoplastic liquid crystal polymer according to any one of claims 1 to 3, wherein An and Ar<sub>2</sub> are different from each other; each of An and Ar<sub>2</sub> is selected from a group consisting of 1,4-phenylene, 1,3-phenylene, 1,5-naphthylene, 2,6-naphthylene, 4,4'-biphenylene, 2,6-anthraquinonylene, and a divalent residue having two or more phenylenes linked by a linking group at the para-position; the linking group is selected from a group consisting of a carbon-carbon bond, an oxy group, an alkylene group with 1 to 3 carbon atoms, an amino group, a carbonyl group, a sulfide group, a sulfinyl group, and a sulfonyl group; and each of An and Ar<sub>2</sub> optionally has a substituent selected from a group consisting of a C<sub>1-3</sub> alkyl group, a halogen atom, and a phenyl group.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>The thermoplastic liquid crystal polymer according to any one of claims 1 to 4, wherein the repeating units represented by formulae (III) and (IV) are two repeating units derived from two aromatic diols, the two aromatic diols being selected from hydroquinone, 4,4'-dihydroxybiphenyl, phenylhydroquinone, and 4,4'-dihydroxydiphenyl ether.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>The thermoplastic liquid crystal polymer according to any one of claims 1 to 5, wherein the thermoplastic liquid crystal polymer has a temperature difference between a melting point and a solidifying temperature in a range of 40 to 160°C.</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>A thermoplastic liquid crystal polymer film comprising the thermoplastic liquid crystal polymer recited in any one of claims 1 to 6.</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>The thermoplastic liquid crystal polymer film according to claim 7, wherein the thermoplastic liquid crystal polymer film has a dielectric dissipation factor of 0.0007 or lower at 25°C and 5 GHz.<!-- EPO <DP n="35"> --></claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>A metal-clad laminate comprising the thermoplastic liquid crystal polymer film recited in claim 7 or 8 and a metal layer bonded to at least one surface of the thermoplastic liquid crystal polymer film.</claim-text></claim>
+<claim id="c-en-01-0010" num="0010">
+<claim-text>A circuit board comprising at least one conductor layer and the thermoplastic liquid crystal polymer film recited in claim 7 or 8.</claim-text></claim>
+<claim id="c-en-01-0011" num="0011">
+<claim-text>The circuit board according to claim 10, wherein the circuit board is a multilayered circuit board.</claim-text></claim>
+<claim id="c-en-01-0012" num="0012">
+<claim-text>The circuit board according to claim 10 or 11, wherein the circuit board comprises a semiconductor element mounted thereon.</claim-text></claim>
+<claim id="c-en-01-0013" num="0013">
+<claim-text>A vehicular radar comprising the circuit board recited in any one of claims 10 to 12.</claim-text></claim>
+</claims>
+<claims id="claims02" lang="de"><!-- EPO <DP n="36"> -->
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Ein thermoplastisches Polymer, das eine optische anisotrope Schmelzphase bilden kann (im Folgenden als thermoplastisches Flüssigkristallpolymer bezeichnet), wobei das thermoplastische Flüssigkristallpolymer Wiederholungseinheiten umfasst, die durch die folgenden Formeln (I), (II), (III) und (IV) dargestellt werden,<br/>
+wobei ein Molverhältnis einer Gesamtmenge der durch die Formeln (I) und (II) dargestellten Wiederholungseinheiten zu einer Gesamtmenge aller Wiederholungseinheiten in dem thermoplastischen Flüssigkristallpolymer 50 bis 90 Mol-% beträgt, und ein Molverhältnis der durch Formel (III) dargestellten Wiederholungseinheit zu der durch Formel (IV) dargestellten Wiederholungseinheit erstere/letztere = 23/77 bis 77/23 beträgt,
+<chemistry id="chem0021" num="0021"><img id="ib0021" file="imgb0021.tif" wi="92" he="26" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0022" num="0022"><img id="ib0022" file="imgb0022.tif" wi="94" he="31" img-content="chem" img-format="tif"/></chemistry><br/>
+<br/>
+        -O-Ar<sub>1</sub>-O-     (III)<br/>
+<br/>
+        -O-Ar<sub>2</sub>-O-     (IV)<br/>
+<br/>
+wobei Ar<sub>1</sub> und Ar<sub>2</sub> zweiwertige aromatische Gruppen darstellen, die voneinander verschieden sind.</claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Das thermoplastische Flüssigkristallpolymer nach Anspruch 1, wobei ein Molverhältnis<!-- EPO <DP n="37"> --> der durch Formel (I) dargestellten Wiederholungseinheit zu der durch Formel (II) dargestellten Wiederholungseinheit erstere/letzte = 45/55 bis 90/10 beträgt.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Das thermoplastische Flüssigkristallpolymer nach Anspruch 1 oder 2, wobei ein Molverhältnis der durch die Formel (II) dargestellten Wiederholungseinheit zu einer Gesamtmenge aller von Dicarbonsäuren abgeleiteten Wiederholungseinheiten in dem thermoplastischen Flüssigkristallpolymer 85 Mol-% oder mehr beträgt.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Das thermoplastische Flüssigkristallpolymer nach einem der Ansprüche 1 bis 3, wobei Ar<sub>1</sub> und Ar<sub>2</sub> voneinander verschieden sind; jedes von Ar<sub>1</sub> und Ar<sub>2</sub> ausgewählt ist aus einer Gruppe, bestehend aus 1,4-Phenylen, 1,3-Phenylen, 1,5-Naphthylen, 2,6-Naphthylen, 4,4'-Biphenylen, 2,6-Anthrachinonylen und einem zweiwertigen Rest mit zwei oder mehr Phenylenen, die durch eine Verknüpfungsgruppe an der para-Position verbunden sind; die Verknüpfungsgruppe ausgewählt ist aus einer Gruppe, bestehend aus einer Kohlenstoff-Kohlenstoff-Bindung, einer Oxygruppe, einer Alkylengruppe mit 1 bis 3 Kohlenstoffatomen, einer Aminogruppe, einer Carbonylgruppe, einer Sulfidgruppe, einer Sulfinylgruppe und einer Sulfonylgruppe; und jedes von Ar<sub>1</sub> und Ar<sub>2</sub> gegebenenfalls einen Substituenten aufweist, der ausgewählt ist aus einer Gruppe bestehend aus einer C<sub>1-3</sub>-Alkylgruppe, einem Halogenatom und einer Phenylgruppe.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Das thermoplastische Flüssigkristallpolymer nach einem der Ansprüche 1 bis 4, wobei die durch die Formeln (III) und (IV) dargestellten Wiederholungseinheiten zwei Wiederholungseinheiten sind, die von zwei aromatischen Diolen abgeleitet sind, wobei die zwei aromatischen Diole ausgewählt sind aus Hydrochinon, 4,4'-Dihydroxybiphenyl, Phenylhydrochinon und 4,4'-Dihydroxydiphenylether.</claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Das thermoplastische Flüssigkristallpolymer nach einem der Ansprüche 1 bis 5, wobei das thermoplastische Flüssigkristallpolymer eine Temperaturdifferenz zwischen einem Schmelzpunkt und einer Erstarrungstemperatur in einem Bereich von 40 bis 160°C aufweist.<!-- EPO <DP n="38"> --></claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Ein thermoplastischer Flüssigkristallpolymerfilm, umfassend das in einem der Ansprüche 1 bis 6 genannte thermoplastische Flüssigkristallpolymer.</claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Der thermoplastische Flüssigkristallpolymerfilm nach Anspruch 7, wobei der thermoplastische Flüssigkristallpolymerfilm einen dielektrischen Verlustfaktor von 0,0007 oder weniger bei 25°C und 5 GHz aufweist.</claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Ein metallkaschiertes Laminat, umfassend den thermoplastischen Flüssigkristallpolymerfilm nach Anspruch 7 oder 8 und eine Metallschicht, die an mindestens eine Oberfläche des thermoplastischen Flüssigkristallpolymerfilms gebunden ist.</claim-text></claim>
+<claim id="c-de-01-0010" num="0010">
+<claim-text>Eine Leiterplatte, umfassend mindestens eine Leiterschicht und den thermoplastischen Flüssigkristallpolymerfilm nach Anspruch 7 oder 8.</claim-text></claim>
+<claim id="c-de-01-0011" num="0011">
+<claim-text>Die Leiterplatte nach Anspruch 10, wobei die Leiterplatte eine mehrschichtige Leiterplatte ist.</claim-text></claim>
+<claim id="c-de-01-0012" num="0012">
+<claim-text>Die Leiterplatte nach Anspruch 10 oder 11, wobei die Leiterplatte ein darauf montiertes Halbleiterelement aufweist.</claim-text></claim>
+<claim id="c-de-01-0013" num="0013">
+<claim-text>Ein Fahrzeugradar, umfassend die in einem der Ansprüche 10 bis 12 genannte Leiterplatte.</claim-text></claim>
+</claims>
+<claims id="claims03" lang="fr"><!-- EPO <DP n="39"> -->
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Polymère thermoplastique capable de former une phase optiquement anisotrope à l'état fondu (appelé ci-après un polymère cristal liquide thermoplastique), le polymère cristal liquide thermoplastique comprenant des motifs répétitifs représentés par les formules (I), (II), (III) et (IV) qui suivent, dans lequel
+<claim-text>le rapport molaire de la quantité totale des motifs répétitifs représentés par les formules (I) et (II) à la quantité totale de tous les motifs répétitifs dans le polymère cristal liquide thermoplastique est de 50 à 90 % en moles, et</claim-text>
+<claim-text>le rapport molaire du motif répétitif représenté par la formule (III) au motif répétitif représenté par la formule (IV) est le premier/le dernier = 23/77 à 77/23.
+<chemistry id="chem0023" num="0023"><img id="ib0023" file="imgb0023.tif" wi="98" he="27" img-content="chem" img-format="tif"/></chemistry>
+<chemistry id="chem0024" num="0024"><img id="ib0024" file="imgb0024.tif" wi="100" he="34" img-content="chem" img-format="tif"/></chemistry><br/>
+<br/>
+        -O-Ar<sub>1</sub>-O-     (III)<br/>
+<br/>
+        -O-Ar<sub>2</sub>-O-     (IV)<br/>
+<br/>
+</claim-text>
+<claim-text>où Ar<sub>1</sub> et Ar<sub>2</sub> représentent des groupes aromatiques divalents qui sont différents l'un de l'autre.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Polymère cristal liquide thermoplastique selon la revendication 1, dans lequel le rapport molaire du motif répétitif représenté par la formule (I) au motif répétitif représenté par la formule (II) est le premier/le dernier = 45/55 à 90/10.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Polymère cristal liquide thermoplastique selon la revendication 1 ou 2, dans lequel le rapport molaire du motif répétitif représenté par la formule (II) à la quantité totale de tous les motifs répétitifs dérivés d'acides dicarboxyliques dans le<!-- EPO <DP n="40"> --> polymère cristal liquide thermoplastique est de 85 % en moles ou plus.</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Polymère cristal liquide thermoplastique selon l'une quelconque des revendications 1 à 3, dans lequel Ar<sub>1</sub> et Ar<sub>2</sub> sont différents l'un de l'autre ; chacun de Ar<sub>1</sub> et Ar<sub>2</sub> est choisi dans l'ensemble constitué par le 1,4-phénylène, le 1,3-phénylène, le 1,5-naphtylène, le 2,6-naphtylène, le 4,4'-biphénylène, le 2,6-anthraquinonylène, et un résidu divalent ayant deux ou plus de deux phénylènes liés par un groupe de liaison en position para ; le groupe de liaison est choisi dans l'ensemble constitué par une liaison carbone-carbone, un groupe oxy, un groupe alkylène ayant 1 à 3 atomes de carbone, un groupe amino, un groupe carbonyle, un groupe sulfure, un groupe sulfinyle, et un groupe sulfonyle ; et chacun de Ar<sub>1</sub> et Ar<sub>2</sub> porte éventuellement un substituant choisi dans l'ensemble constitué par un groupe alkyle en C<sub>1</sub> à C<sub>3</sub>, un atome d'halogène, et un groupe phényle.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Polymère cristal liquide thermoplastique selon l'une quelconque des revendications 1 à 4, dans lequel les motifs répétitifs représentés par les formules (III) et (IV) sont deux motifs répétitifs dérivés de deux diols aromatiques, les deux diols aromatiques étant choisis parmi l'hydroquinone, le 4,4'-dihydroxybiphényle, la phénylhydroquinone, et le 4,4'-dihydroxydiphényléther.</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Polymère cristal liquide thermoplastique selon l'une quelconque des revendications 1 à 5, lequel polymère cristal liquide thermoplastique a une différence de température entre le point de fusion et le point de solidification située dans la plage allant de 40 à 160°C.</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Film de polymère cristal liquide thermoplastique comprenant le polymère cristal liquide thermoplastique défini dans l'une quelconque des revendications 1 à 6.</claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Film de polymère cristal liquide thermoplastique selon la revendication 7, lequel film de polymère cristal liquide thermoplastique a un facteur de dissipation diélectrique de 0,0007 ou moins à 25°C et 5 GHz.<!-- EPO <DP n="41"> --></claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Stratifié blindé comprenant le film de polymère cristal liquide thermoplastique défini dans la revendication 7 ou 8 et une couche de métal collée sur au moins une surface du film de polymère cristal liquide thermoplastique.</claim-text></claim>
+<claim id="c-fr-01-0010" num="0010">
+<claim-text>Carte de circuit comprenant au moins une couche de conducteur et le film de polymère cristal liquide thermoplastique défini dans la revendication 7 ou 8.</claim-text></claim>
+<claim id="c-fr-01-0011" num="0011">
+<claim-text>Carte de circuit selon la revendication 10, laquelle carte de circuit est une carte de circuit multicouche.</claim-text></claim>
+<claim id="c-fr-01-0012" num="0012">
+<claim-text>Carte de circuit selon la revendication 10 ou 11, laquelle carte de circuit comprend un élément semi-conducteur monté sur celle-ci.</claim-text></claim>
+<claim id="c-fr-01-0013" num="0013">
+<claim-text>Radar véhiculaire comprenant la carte de circuit définie dans l'une quelconque des revendications 10 à 12.</claim-text></claim>
+</claims>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="JP2009108190A"><document-id><country>JP</country><doc-number>2009108190</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0005]</crossref><crossref idref="pcit0005">[0009]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="JP2004196930A"><document-id><country>JP</country><doc-number>2004196930</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0002">[0006]</crossref><crossref idref="pcit0006">[0009]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="JP2005272810A"><document-id><country>JP</country><doc-number>2005272810</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0003">[0007]</crossref><crossref idref="pcit0007">[0009]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="US2005113555A1"><document-id><country>US</country><doc-number>2005113555</doc-number><kind>A1</kind></document-id></patcit><crossref idref="pcit0004">[0008]</crossref><crossref idref="pcit0008">[0009]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

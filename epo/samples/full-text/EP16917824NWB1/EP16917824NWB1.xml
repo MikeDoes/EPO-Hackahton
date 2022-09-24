@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP16917824B1" file="EP16917824NWB1.xml" lang="en" country="EP" doc-number="3438020" kind="B1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSK..HRIS..MTNORS..SM..................</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  2100000/0</B007EP></eptags></B000><B100><B110>3438020</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>16917824.1</B210><B220><date>20161130</date></B220><B240><B241><date>20181029</date></B241><B242><date>20200724</date></B242></B240><B250>ko</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>20160127001</B310><B320><date>20160930</date></B320><B330><ctry>KR</ctry></B330><B310>20160127002</B310><B320><date>20160930</date></B320><B330><ctry>KR</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20190206</date><bnum>201906</bnum></B430><B450><date>20211006</date><bnum>202140</bnum></B450><B452EP><date>20210504</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>B65D  85/72        20060101AFI20191022BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>B65D  81/38        20060101ALI20191022BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>B65D  25/14        20060101ALI20191022BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>B65D  25/34        20060101ALI20191022BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>B29C  51/14        20060101ALI20191022BHEP        </text></classification-ipcr><classification-ipcr sequence="6"><text>B05D   7/24        20060101ALI20191022BHEP        </text></classification-ipcr><classification-ipcr sequence="7"><text>B05D   7/04        20060101ALI20191022BHEP        </text></classification-ipcr><classification-ipcr sequence="8"><text>C08L  67/03        20060101ALI20191022BHEP        </text></classification-ipcr><classification-ipcr sequence="9"><text>C08J   9/00        20060101ALI20191022BHEP        </text></classification-ipcr><classification-ipcr sequence="10"><text>C08J   7/04        20200101ALI20191022BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cset><classification-cset group-number="1"><classification-cpc rank="1"><text>C08K   3/346       20130101 LA20201110BHEP        </text></classification-cpc><classification-cpc rank="2"><text>C08L  67/02        20130101 LA20201110BHEP        </text></classification-cpc></classification-cset></classifications-cset><classifications-cpc><classification-cpc sequence="1"><text>C08J2203/14        20130101 LA20180625BHEP        </text></classification-cpc><classification-cpc sequence="2"><text>C08J   9/365       20130101 LI20210420BHEP        </text></classification-cpc><classification-cpc sequence="3"><text>C08J   9/141       20130101 LI20180625BHEP        </text></classification-cpc><classification-cpc sequence="4"><text>C08K   3/346       20130101 LA20201110BHEP        </text></classification-cpc><classification-cpc sequence="5"><text>C08J   9/0066      20130101 FI20180625BHEP        </text></classification-cpc><classification-cpc sequence="6"><text>C08J2205/044       20130101 LA20210420BHEP        </text></classification-cpc><classification-cpc sequence="7"><text>B32B2250/02        20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="8"><text>C08J2325/06        20130101 LA20180625BHEP        </text></classification-cpc><classification-cpc sequence="9"><text>C08J2467/04        20130101 LA20210420BHEP        </text></classification-cpc><classification-cpc sequence="10"><text>C08J   9/00        20130101 LI20180521BHEP        </text></classification-cpc><classification-cpc sequence="11"><text>C08J2201/03        20130101 LA20180625BHEP        </text></classification-cpc><classification-cpc sequence="12"><text>C08J2207/00        20130101 LA20180625BHEP        </text></classification-cpc><classification-cpc sequence="13"><text>C08J2367/02        20130101 LA20180625BHEP        </text></classification-cpc><classification-cpc sequence="14"><text>B29C  51/14        20130101 LA20180701BHEP        </text></classification-cpc><classification-cpc sequence="15"><text>C08J   9/0023      20130101 LI20180625BHEP        </text></classification-cpc><classification-cpc sequence="16"><text>B32B2266/10        20161101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="17"><text>B29K2105/04        20130101 LA20180731BHEP        </text></classification-cpc><classification-cpc sequence="18"><text>C08J   9/0095      20130101 LI20180625BHEP        </text></classification-cpc><classification-cpc sequence="19"><text>B32B2307/54        20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="20"><text>B32B2307/75        20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="21"><text>B32B  27/36        20130101 LI20191220BHEP        </text></classification-cpc><classification-cpc sequence="22"><text>B32B2250/03        20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="23"><text>B32B2307/72        20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="24"><text>B32B2266/08        20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="25"><text>B32B2307/306       20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="26"><text>B32B2439/70        20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="27"><text>B32B  27/065       20130101 LI20191220BHEP        </text></classification-cpc><classification-cpc sequence="28"><text>B32B2266/0264      20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="29"><text>B32B2307/304       20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="30"><text>B32B2307/7244      20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="31"><text>B32B2307/7246      20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="32"><text>B32B   5/18        20130101 LI20191220BHEP        </text></classification-cpc><classification-cpc sequence="33"><text>B32B2307/50        20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="34"><text>B32B2307/738       20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="35"><text>B32B2307/732       20130101 LA20191220BHEP        </text></classification-cpc><classification-cpc sequence="36"><text>B32B2250/40        20130101 LA20191220BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>LEBENSMITTELBEHÄLTER MIT REDUZIERTER ELUIERUNG GEFÄHRLICHER STOFFE</B542><B541>en</B541><B542>FOOD CONTAINER WITH REDUCED ELUTION OF HAZARDOUS SUBSTANCES</B542><B541>fr</B541><B542>RÉCIPIENT ALIMENTAIRE À ÉLUTION RÉDUITE DE SUBSTANCES DANGEREUSES</B542></B540><B560><B561><text>EP-A1- 1 160 274</text></B561><B561><text>JP-A- 2006 248 030</text></B561><B561><text>JP-A- 2013 212 643</text></B561><B561><text>JP-Y2- H0 621 847</text></B561><B561><text>KR-A- 20140 038 973</text></B561><B561><text>KR-B1- 101 459 275</text></B561><B561><text>US-A- 3 492 273</text></B561><B561><text>US-A- 5 000 991</text></B561><B561><text>US-B1- 6 365 249</text></B561><B565EP><date>20191028</date></B565EP></B560></B500><B700><B720><B721><snm>HUH, Mee</snm><adr><str>(Daedeok Techno Valley Apt.
+Gwanpyeong-dong)
+202-1602
+3 Baeul 2-ro
+Yuseong-gu</str><city>Daejeon 30421</city><ctry>KR</ctry></adr></B721><B721><snm>LEE, Kwang Hee</snm><adr><str>(Ssangyong Yega Apt.
+Taepyeong-dong)
+114-1104
+93 Pyeongchon-ro
+Jung-gu</str><city>Daejeon 34896</city><ctry>KR</ctry></adr></B721><B721><snm>KIM, Woo Jin</snm><adr><str>(Eunhasu Apt.
+Dunsan-dong)
+110-707
+15 Dunsannam-ro
+Seo-gu</str><city>Daejeon 35234</city><ctry>KR</ctry></adr></B721><B721><snm>LEE, Seung Jun</snm><adr><str>22-23 Masan-gil
+Bongsan-myeon</str><city>Damyang-gun
+Jeollanam-do 57371</city><ctry>KR</ctry></adr></B721><B721><snm>HA, Sang-hun</snm><adr><str>(Hyoja-dong 3-ga)
+19 Nongso 7-gil
+Wansan-gu</str><city>Jeonju-si
+Jeollanam-do 54965</city><ctry>KR</ctry></adr></B721></B720><B730><B731><snm>Huvis Corporation</snm><iid>101650813</iid><irf>P511981EP/NJC</irf><adr><str>Nonhyeon-dong 
+343 Hakdong-ro 
+Gangnam-gu</str><city>Seoul 06060</city><ctry>KR</ctry></adr></B731></B730><B740><B741><snm>Cordy, Nicole Jessica</snm><iid>101687181</iid><adr><str>Urquhart-Dykes &amp; Lord LLP 
+7th Floor Churchill House 
+Churchill Way</str><city>Cardiff CF10 2HH</city><ctry>GB</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B860><B861><dnum><anum>KR2016013991</anum></dnum><date>20161130</date></B861><B862>ko</B862></B860><B870><B871><dnum><pnum>WO2018062623</pnum></dnum><date>20180405</date><bnum>201814</bnum></B871></B870></B800></SDOBI>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">[Technical Field]</heading>
+<p id="p0001" num="0001">The present invention relates to a food container.</p>
+<heading id="h0002">[Background Art]</heading>
+<p id="p0002" num="0002">Conventionally, food containers such as beverage containers, yogurt containers, single-size containers and containers for cup ramen, and disposable containers for medical supplies require properties such as tensile strength, thermal resistance, a thermal barrier property, light resistance, moldability, surface glossiness, compressive strength, and printability.</p>
+<p id="p0003" num="0003">Generally, a synthetic resin (plastic) is advantageous in that it is light and strong, not rusted or rotted, easily transparent and colored and easily mass-produced, has excellent electrical insulation and excellent heat insulation, is clean, and excellent in food preservation, and thus is used for various purposes.</p>
+<p id="p0004" num="0004">Particularly, containers manufactured of synthetic resins have been used for various purposes due to many advantages of low costs, light weights, easy molding and rigidity, and particularly, have been widely used as containers for food. As synthetic resins used for food containers, polystyrenes, polypropylenes, AS resins, and polycarbonates have been widely used.</p>
+<p id="p0005" num="0005">However, when such a synthetic resin container is used as a food container, an environmental hormone, which is a hazardous substance, is eluted from a surface<!-- EPO <DP n="2"> --> of the synthetic resin container and comes in contact with foods, and thus may cause a problem of threatening the health of the human body. The environmental hormone is a substance that disturbs the endocrine system from which human hormones arise, and breaks the balance of the human body and hinders the development of the human body.</p>
+<p id="p0006" num="0006">Hormones are substances that help the exchange of information between various cells and organs, and are dissolved in the blood and act on receptors of certain cells. If, rather than a hormone in the body, an environmental hormone having a similar chemical structure to the hormone, binds to the receptor, or an environmental hormone blocks an opening of the receptor, there may be an abnormality in the human body.</p>
+<p id="p0007" num="0007">According to the US Environmental Protection Agency (EPA), such environmental hormones that have been proven to be hazardous until now are only a few, which include DDT used as an insecticide, DES used as a medication for preventing miscarriages, and dioxin generated during incineration of industrial wastes. However, other environmental hormones suspected to be hazardous mostly include an organic chlorine-based substance having a chemical structure similar to that of DDT. Other than these, vinclozolin, chlorothalonil, endosulfan, fenvalerate, styrene dimers, styrene trimers, bisphenol A, nonylphenol, and some heavy metal compounds are also classified as environmental hormones.</p>
+<p id="p0008" num="0008">A styrene trimer, assumed as an environmental hormone, is generated from a cup ramen container, and bisphenol A is generated from a coating layer in a beverage can, a baby bottle, etc.<!-- EPO <DP n="3"> --></p>
+<p id="p0009" num="0009">Theoretically, these environmental hormones pose risks to all of the organs including the genitalia and affect the immune and nervous systems as well, and therefore they may lead to frequent sickness, and disorders such as anxiety, a lack of concentration, etc.</p>
+<p id="p0010" num="0010">To solve these problems, conventionally, a method of blocking the conduction of heat of contents in a cup or container by wrapping a paper (napkin) or thick corrugated paper cut to size, or double covering the cup or container with another disposable cup or the like has been used.</p>
+<p id="p0011" num="0011">When an external wrapping material is used by being rolled in a round shape, it has a heat insulating effect, but since the cup and an insulating sheet must be separately manufactured for use, due to separate manufacturing processes and a large amount of waste paper, high production and processing costs are needed.</p>
+<p id="p0012" num="0012">Another method is to mold a container using a foam sheet manufactured by foaming a polystyrene resin. In this case, there is be a drawback in that, during the use of a thermal-resistant product, a styrene monomer is released and harmful to the human body.</p>
+<p id="p0013" num="0013">Therefore, there is an urgent demand for development of a food container which satisfies basic physical properties of food containers, such as thermal resistance, moldability, strength, etc., does not generate a hazardous substance, has an improved thermal barrier property, thereby having an excellent heat insulation and safety in use.</p>
+<p id="p0014" num="0014">Examples of known food containers comprising foam sheet and resin layers are described in <patcit id="pcit0001" dnum="EP1160274A"><text>EP1160274</text></patcit>, <patcit id="pcit0002" dnum="US5000991A"><text>US5000991</text></patcit>, <patcit id="pcit0003" dnum="JP2006248030B"><text>JP2006248030</text></patcit> and <patcit id="pcit0004" dnum="US6365249B"><text>US6365249</text></patcit>.<!-- EPO <DP n="4"> --> <patcit id="pcit0005" dnum="EP1160274A"><text>EP1160274</text></patcit> describes a foam layer comprised of crystalline aromatic polyester resin prepuffs laminated with a film of an aromatic polyester resin.</p>
+<heading id="h0003">[Disclosure]</heading>
+<heading id="h0004">[Technical Problem]</heading>
+<p id="p0015" num="0015">The present invention is directed to providing a food container which satisfies the basic physical properties of a food container, for example, compressive strength, thermal resistance, printability and moldability, and has excellent safety in use due to a reduced elution amount of a hazardous substance.</p>
+<heading id="h0005">[Technical Solution]</heading>
+<p id="p0016" num="0016">To attain the above-mentioned object, the present invention provides a food container as defined in the appended claims. In the claimed invention, the food container has an inner layer and an outer layer, wherein the inner layer is formed of a foamed layer and the outer layer is formed of a resin layer, wherein the foamed layer has an average cell size of 100 to 500 µm and is a foam sheet of a polyethylene terephthalate resin, wherein the resin layer is a coating layer of a resin having a repeating unit of Formula 1 below:
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="129" he="32" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0017" num="0017">In Formula 1, m and n represent mole fractions of repeating units, and range from 1 to 100, respectively.<!-- EPO <DP n="5"> --></p>
+<heading id="h0006">[Advantageous Effects]</heading>
+<p id="p0018" num="0018">A food container according to the present invention has an inner layer and an outer layer, wherein the inner layer is formed of a foamed layer controlled in cell size and the inner layer is a resin coating layer, thereby improving compressive strength, and having less deformation due to a physical force and improved moldability due to improved elongation, so that it can be provided in various sizes and shapes. The food container according to the present invention can easily store food due to low oxygen and moisture permeability, and prevent deformation even in high-temperature water due to excellent heat resistance. In addition, the food container according to the present invention is harmless to the human body due to a considerably low elution amount of a hazardous substance, and has improved strength, printability and moldability and a superior thermal barrier property, thereby exhibiting improved heat insulation for food.</p>
+<heading id="h0007">[Description of Drawings]</heading>
+<p id="p0019" num="0019">
+<ul id="ul0001" list-style="none" compact="compact">
+<li><figref idref="f0001">FIG. 1</figref> is a scanned electron microscope (SEM) image showing a cell size of a foam sheet of a food container according to an example.</li>
+<li><figref idref="f0001">FIG. 2</figref> is an SEM image showing a cell size of a foam sheet of a food container according to Comparative Example 1.</li>
+<li><figref idref="f0002">FIG. 3</figref> is an SEM image showing a cell size of a foam sheet of a food container according to Comparative Example 2.</li>
+<li><figref idref="f0003">FIG. 4</figref> is a graph showing a melting point (Tm) and a glass transition temperature (Tg) of a polyethylene terephthalate (PET) resin used in an example.<!-- EPO <DP n="6"> --></li>
+<li><figref idref="f0004">FIG. 5</figref> is a graph showing a melting point (Tm) and a glass transition temperature (Tg) of a polyethylene terephthalate glycol (PETG) resin used in an example.</li>
+</ul></p>
+<heading id="h0008">[Modes of the Invention]</heading>
+<p id="p0020" num="0020">The present invention may have various modifications and various examples, and thus specific examples are illustrated in the drawings and described in detail in the detailed description.</p>
+<p id="p0021" num="0021">However, it should be understood that the present invention is not limited to specific embodiments, and includes all modifications, equivalents or alternatives within technical scope of the claimed invention. In the explanation of the present invention, detailed description of the related art will be omitted if it is determined that the gist of the present invention can be obscured.</p>
+<p id="p0022" num="0022">The terms "first," "second" and the like may be used to describe various components, but the components should not be limited by these terms. The terms are used only to distinguish one component from another component.</p>
+<p id="p0023" num="0023">The terms used in the present invention are used only to explain specific examples, not to limit the present invention. Singular expressions include plural referents unless clearly indicated otherwise in the context.</p>
+<p id="p0024" num="0024">The terms "include," "have" and the like used herein designate the presence of characteristics, numbers, stages, actions, components or members described in the specification or a combination thereof, and it should be understood that the possibility of the presence or addition of one or more other characteristics, numbers, stages, actions, components, members or a combination thereof is not excluded in advance.<!-- EPO <DP n="7"> --></p>
+<p id="p0025" num="0025">Accordingly, the configuration illustrated in the example described in the specification is merely the most preferable example of the present invention, but does not represent all of the technical ideas of the present invention. Therefore, there may be various equivalents and modified examples, which can substitute for these at the time of the application of the present invention.</p>
+<p id="p0026" num="0026">Conventional food containers, for example, beverage containers, yogurt containers, single-size containers and containers for cup ramen, are generally manufactured of a polystyrene resin. When a synthetic resin container manufactured of such polystyrene resin is used as a food container, an environmental hormone, which is a hazardous substance, is eluted from a surface of the synthetic resin container and comes in contact with food, and it may cause a problem of threatening the health of the human body. A paper food container for preventing the elution of such a hazardous substance has problems of a significantly low thermal barrier property, significantly low compressive strength, and a 3 to 10-fold higher production cost than that of a synthetic resin container.</p>
+<p id="p0027" num="0027">The present invention is provided to solve the problems of the conventional food container, and provides a food container, which comprises an inner foam layer made of a polyethyleneterephthalate (PET) resin such that it has a controlled cell size, improved compressive strength and a thermal barrier property and a relatively low glass transition temperature and an outer resin coating layer having a relatively high glass transition temperature, thereby significantly reducing an elution amount of a hazardous substance.</p>
+<p id="p0028" num="0028">The food container according to the present invention has an inner foamed layer having an average cell size of 100 to 500 µm and an outer resin layer, wherein<!-- EPO <DP n="8"> --> the resin layer is a coating layer of a resin having a repeating unit of Formula 1 below.
+<chemistry id="chem0002" num="0002"><img id="ib0002" file="imgb0002.tif" wi="127" he="32" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0029" num="0029">In Formula 1, m and n represent mole fractions of repeating units, and range from 1 to 100, respectively.</p>
+<p id="p0030" num="0030">For example, m and n are mole fractions of repeating units, and a ratio of m and n may range from 1:9 to 7:2. Specifically, in a resin forming the resin layer, a content of the polymerization unit derived from cyclohexanedimethanol (CHDM) in a molecule may be 20 mol% or more, and specifically, the content of the polymerization unit derived from CHDM may range from 20 to 90 mol%, or 30 to 90 mol%. In Formula 1, when the content of the polymerization unit induced from CHDM satisfies the above-mentioned range, a melting point (Tm) may be reduced due to an induced decrease in crystallinity of the resin, resulting in the achievement of excellent processability.</p>
+<p id="p0031" num="0031">Specifically, an average cell size of the foamed layer may be 110 to 450 µm, 130 to 430 µm,150 to 410 µm,180 to 400 µm, 200 to 380 µm, 220 to 360 µm or 250 to 350 µm. When the average cell size of the foamed layer is within the above-mentioned range, the thermal barrier property and compressive strength of the food container are improved, and it is easy to form a deeper inside of the food container in molding of the food container. When the cell size is larger than 500 µm, it is difficult to produce a deeper container by thermoforming in manufacture of the food<!-- EPO <DP n="9"> --> container, and compressive strength may be reduced, and when the cell size is smaller than the above-mentioned range, the compressive strength and the thermal barrier property may be reduced.</p>
+<p id="p0032" num="0032">In one example, a glass transition temperature (Tg) of the resin constituting the foamed layer may be 70 to 90 °C, 75 to 85 °C or 80 to 90 °C. In addition, a glass transition temperature of the resin constituting the resin layer may be 65 to 95 °C, 70 to 90 °C, 75 to 85 °C or 78 to 90 °C. Since the foamed layer according to the present invention satisfies the above-mentioned range of the glass transition temperature, a food container having excellent thermal resistance is provided.</p>
+<p id="p0033" num="0033">In the present invention, the resin having the repeating unit of Formula 1 may be, for example, a polyethylene terephthalate glycol (hereinafter, referred to PETG) resin. Such a PETG resin may have a CHDM-copolymerized structure. The CHDM acts to prevent crystallization of the resin, and the CHDM-copolymerized PETG has a non-crystalline region. Therefore, the viscosity of the PETG resin is easily maintained, and thus a cohesive property between the foamed layer and the resin layer is imparted. Since the present invention has a structure in which a foamed layer of a resin having the glass transition temperature within the above-mentioned range and a PETG resin layer having a non-crystalline region are laminated, the present invention satisfies both moldability and thermal resistance of a food container.</p>
+<p id="p0034" num="0034">In the present invention, the resin constituting the resin layer may not have a melting point (Tm) within the range of 40 to 270 °C. In the resin layer according to the present invention, a content of the polymerization unit derived from CHDM in a molecule constituting Formula 1 satisfies the above range, and thus includes a<!-- EPO <DP n="10"> --> repeating unit that decreases the melting point of the resin as a main repeating unit. Therefore, since the resin layer according to the present invention does not have a melting point, it may have a low degree of crystallinity, and thus exhibit an excellent adhesive property. In addition, the non-crystallinity may result in excellent lightness.</p>
+<p id="p0035" num="0035">In one example, in the present invention, a degree of crystallinity of the resin forming the resin layer may be less than 10%. Specifically, the degree of crystallinity may be 5% or less, 2% or less, 0 to 2%, 0.001 to 0.5%, or 0.001 to 0.1%, and more specifically, the degree of crystallinity may be 0%. Since the resin forming the resin layer according to the present invention satisfies the degree of crystallinity within the above-mentioned range, viscosity may be maintained within a suitable range even at a relatively low temperature in the manufacture of a food container, and thus excellent processability may be exhibited.</p>
+<p id="p0036" num="0036">The food container according to the present invention has a bilayer structure, in which an inner layer of the container is formed of the foamed layer, and an outer layer of the container is formed of the resin layer. That is, the inner layer of the container is the foamed layer of the resin having a glass transition temperature of 65 to 95 °C, and the outer layer of the container is the resin layer of the resin having a repeating unit of Formula 1 below.
+<chemistry id="chem0003" num="0003"><img id="ib0003" file="imgb0003.tif" wi="127" he="32" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="11"> --></p>
+<p id="p0037" num="0037">In Formula 1, m and n represent mole fractions of repeating units, and range from 1 to 100, respectively.</p>
+<p id="p0038" num="0038">The food container according to the present invention may have a styrene elution amount of 50 mg/kg or less while being heated in an 800W microwave oven for 5 minutes. Specifically, when a prepared food container sample is heated in an 800W microwave oven for 5 minutes, an elution amount of a volatile substance is measured. For example, when the food container is heated in a microwave oven, the styrene elution amount may be 20 mg/kg or less, 10 mg/kg or less or 0.01 mg/kg or less, and more specifically, styrene may not be eluted. In the food container according to the present invention, a volatile substance such as toluene, ethylbenzene, isopropyl benzene or n-propyl benzene, in addition to the styrene, may not be eluted, and therefore, it can be seen that, when the food container according to the present invention is heated in a microwave oven, it is possible to effectively prevent the human body from being exposed to a hazardous substance.</p>
+<p id="p0039" num="0039">The food container according to the present invention may have a difference in temperature between the inside and outside of the container of 10 °C or more, measured, under ambient conditions at room temperature, two minutes after 60 to 100 °C water is put into the container at 70% (v/v). This shows that the food container according to the present invention exhibits an excellent thermal barrier property, and specifically, the difference in temperature between the inside and outside of the container is measured 2 minutes after 100 °C water is put into the container at 70% (v/v). For example, the difference in temperature between the inside and outside of the food container under the above-described conditions may be 13 to 40 °C, 15 to 35 °C, 20 to 32 °C or 21.5 to 30 °C.<!-- EPO <DP n="12"> --></p>
+<p id="p0040" num="0040">As an example, two minutes after 60 to 100 °C water was put into the food container according to the present invention at 70% (v/v), when the outer temperature of the container is 40 °C, the inner temperature of the container may be 60 to 80 °C. As the difference in temperature between the inside and outside of the container according to the present invention is maintained relatively large under the above-mentioned conditions, it can be seen that the food container has an excellent thermal barrier property, and thus effectively improves heat insulation for food.</p>
+<p id="p0041" num="0041">In the present invention, the foamed layer is a foam sheet of a PET resin, and the resin layer is a coating layer of a PETG resin. The foamed layer may be provided in the form of a relatively thin foam sheet to achieve lightness, and the coating layer may be provided to achieve compressive strength.</p>
+<p id="p0042" num="0042">The foamed layer according to the present invention, that is, the foam sheet, may have a density of 30 to 400 kg/m<sup>3</sup>. Specifically, the density of the foam sheet may be 50 to 350 kg/m<sup>3</sup>, 70 to 300 kg/m<sup>3</sup>, 80 to 250 kg/m<sup>3</sup>, 90 to 200 kg/m<sup>3</sup> or 100 to 150 kg/m<sup>3</sup>. As the density of the foamed layer according to the present invention is in the above-mentioned range, the foamed layer may have a small thickness and improved compressive strength.</p>
+<p id="p0043" num="0043">Since the PETG resin does not generate a hazardous substance, there is a low risk in the manufacturing process and incineration, and therefore, when food is cooked using the food container according to the present invention, the elution amount of a hazardous substance is considerably reduced. In addition, when a coating layer is formed of the PETG resin, it imparts strength to the food container, thereby improving compressive strength, and has excellent printability and<!-- EPO <DP n="13"> --> moldability. Therefore, a food container with a good appearance may be easily manufactured.</p>
+<p id="p0044" num="0044">Specifically, the multilayer structure may have an average thickness of 1.2 to 4 mm, 1.5 to 3.5 mm, 1.8 to 3 mm, or 2 mm. In addition, a thickness ratio of the foamed layer to the resin layer may be, specifically, 10:0.2 to 1.5, 10:0.3 to 1, or 10:0.5. As the food container according to the present invention has the foamed layer and the resin layer, which have the above-mentioned thickness range, compressive strength may be improved, and lightness may also be satisfied.</p>
+<p id="p0045" num="0045">As an example, the food container may have an average thickness of 2 mm, the foamed layer may have an average thickness of 1.9 mm, and the resin layer may have an average thickness of 0.1 mm.</p>
+<p id="p0046" num="0046">The food container according to the present invention may satisfy a condition represented by Mathematical Expression 1 below. <maths id="math0001" num="[Mathematical Expression 1]"><math display="block"><mfenced open="|" close="|" separators=""><msub><mi mathvariant="normal">V</mi><mn>1</mn></msub><mo>−</mo><msub><mi mathvariant="normal">V</mi><mn>0</mn></msub></mfenced><mo>/</mo><msub><mi mathvariant="normal">V</mi><mn>0</mn></msub><mo>×</mo><mn>100</mn><mo>&lt;</mo><mn>5</mn><mi>%</mi></math><img id="ib0004" file="imgb0004.tif" wi="51" he="13" img-content="math" img-format="tif"/></maths></p>
+<p id="p0047" num="0047">In Mathematical Expression 1, V<sub>0</sub> is a volume (mm<sup>3</sup>) of the food container before being exposed to 100 °C, and V<sub>1</sub> is a volume (mm<sup>3</sup>) of the food container after being exposed to 100 °C for 20 minutes.</p>
+<p id="p0048" num="0048">Specifically, a dimensional variation before and after the manufactured food container sample is exposed to 100 °C for 20 minutes is measured. This is a measured value corresponding to a long-term dimensional variation of the food container according to the present invention. For example, the volume may refer to a value calculated by multiplying a length, a width and a thickness of a thermal-resistant material. For example, the dimensional variation according to<!-- EPO <DP n="14"> --> Mathematical Expression 1 may be 3% or less, 1% or less, 0.1% or less, 0.001% or less, or 0.0001 to 0.001%, and specifically, there may be no change in dimension. As the above-mentioned range of the value of Mathematical Expression 1 is satisfied, it can be seen that there is almost no change in shape of the food container according to the present invention even when used in a high temperature environment. Therefore, it can be seen that the food container according to the present invention has excellent thermal resistance.</p>
+<p id="p0049" num="0049">When the value of Mathematical Expression 1 is more than 5%, it can mean that swell, distortion, discoloration or deformation may easily occur in the food container.</p>
+<p id="p0050" num="0050">The food container according to the present invention may have compressive strength of 40 kgf or more, which is measured when a load is applied vertically to one surface or a lower surface of the food container at a speed of 100 mm/min.</p>
+<p id="p0051" num="0051">Specifically, the compressive strength may be measured when a load is applied vertically using Load Cell 1KN at a speed of 100 mm/min, and for example, the compressive strength may be 41 to 95 kgf, 45 to 90 kgf, 48 to 85 kgf or 50 to 80 kgf. The food container according to the present invention may have the above-mentioned range of compressive strength by forming a PET foam sheet as the inner layer of the container, and forming a coating layer consisting of a PETG resin as an outer layer of the container. Such a food container has an advantage in that it is not easily deformed by an external physical force.</p>
+<p id="p0052" num="0052">The food container according to the present invention may have a moisture permeability of 16 g/m<sup>2</sup>·day or less, which is measured according to ASTM D 1249. Specifically, the moisture permeability of the manufactured food container sample is<!-- EPO <DP n="15"> --> measured under conditions of 37.8±1 °C and 100% R.H for 30 minutes. For example, the moisture permeability measured under the above conditions may be 15 g/m<sup>2</sup>·day or less, 13 g/m<sup>2</sup>·day or less, 1 to 10 g/m<sup>2</sup>·day, 2 to 9 g/m<sup>2</sup>·day or 3 to 8.8 g/m<sup>2</sup>·day.</p>
+<p id="p0053" num="0053">In addition, the food container according to the present invention may have an oxygen permeability of 1,500 cc/m<sup>2</sup>·day or less, which is measured according to ASTM D 3985. Specifically, the oxygen permeability of the manufactured food container sample is measured under conditions of 23±1 °C for 30 minutes. For example, the oxygen permeability measured under the above conditions may satisfy 50 to 1,450 cc/m<sup>2</sup>·day, 100 to 1,400 cc/m<sup>2</sup>·day, or 150 to 1,350 cc/m<sup>2</sup>·day. The food container according to the present invention is manufactured by forming a PET foam sheet as the inner layer of the container and forming a coating layer consisting of a PETG resin as the outer layer of the container, thereby satisfying the moisture permeability and oxygen permeability as described above, and the food container according to the present invention may satisfy the above-mentioned ranges of low moisture permeability and low oxygen permeability, thereby exhibiting excellent oxygen and moisture barrier performance, resulting in the extension of the preservation period of food.</p>
+<p id="p0054" num="0054">As an example, the food container according to the present invention may have a transverse direction (TD) tensile strength and a machine direction (MD) tensile strength, which are measured according to ASTM D 638, within a range of 4 to 20. Specifically, when a tensile strength is measured at a speed of 5 mm/min using a universal testing machine (Model 3367, Instron), the transverse direction (TD) tensile strength may be in the range of 4.5 to 7 MPa, and the machine direction<!-- EPO <DP n="16"> --> (MD) tensile strength may be in the range of 4 to 6 MPa. As a PET foam sheet is formed as the inner layer of the container, and a coating layer consisting of a PETG resin is formed as the outer layer of the container, the food container according to the present invention may exhibit tensile strengths within the above-mentioned ranges, and thus it may not be easily deformed by a physical force.</p>
+<p id="p0055" num="0055">As another example, the food container according to the present invention may have a transverse direction (TD) elongation of 3 to 10% and a machine direction (MD) elongation of 5 to 20%, which are measured according to ASTM D 638. Specifically, when elongations are measured using a universal testing machine (Model 3367, Instron), the transverse direction (TD) elongation may be in a range of 4 to 7%, and the machine direction (MD) elongation may be in a range of 7 to 15%. The food container according to the present invention may satisfy the above-mentioned ranges of TD and MD elongations by forming a PET foam sheet as the inner layer of the container, and forming a coating layer consisting of a PETG resin as the outer layer of the container, and thereby exhibit excellent moldability.</p>
+<p id="p0056" num="0056">Hereinafter, the present invention will be described in further detail with reference to examples and comparative examples, but the scope of the present invention is not limited to the following descriptions.</p>
+<heading id="h0009"><b>Example</b></heading>
+<p id="p0057" num="0057">To manufacture a food container according to the present invention, first, 100 parts by weight of a PET resin was dried at 130 °C to remove moisture, mixed with 1 part by weight of pyromellitic dianhydride, 1 part by weight of talc and 0.1 part by weight of Irganox (IRG 1010) with respect to 100 parts by weight of the moisture-removed<!-- EPO <DP n="17"> --> PET resin in a first extruder and heated to 280 °C, thereby preparing a resin melt. Subsequently, 5 parts by weight of butane gas as a foaming agent was added to the first extruder, with respect to 100 parts by weight of the PET resin, and extrusion foaming was performed, thereby obtaining a PET foam sheet. The obtained foam sheet has a density of approximately 120 kg/m<sup>3</sup>, and a thickness of approximately 1.9 mm. Afterward, one surface of the foam sheet was extrusion-coated with PETG, thereby forming a coating layer with a thickness of 100 µm. And then, the foam sheet having the coating layer was subjected to thermoforming at 140 °C, thereby manufacturing a food container. The manufactured food container had an average thickness of 2 mm. <figref idref="f0001">FIG. 1</figref> is an SEM image showing a cell size of the foam sheet formed according to the example. Referring to <figref idref="f0001">FIG. 1</figref>, it can be confirmed that cells were formed to have an average size of 330 µm.</p>
+<heading id="h0010"><b>Comparative Example 1</b></heading>
+<p id="p0058" num="0058">A food container was manufactured by the same method as described in the example, except that a foam sheet (2.5 mm) was formed using a polystyrene (PS) resin instead of a PET resin, and a polystyrene coating layer (100 µm), instead of a PETG coating layer, was formed. At this time, an average cell size of the foam sheet was 180 µm.</p>
+<p id="p0059" num="0059"><figref idref="f0001">FIG. 2</figref> is an SEM image showing a cell size of the foam sheet formed according to Comparative Example 1. Referring to <figref idref="f0001">FIG. 2</figref>, it can be confirmed that cells were formed to have an average size of 180 µm.</p>
+<heading id="h0011"><b>Comparative Example 2</b></heading>
+<p id="p0060" num="0060">A food container was manufactured by the same method as described in the example, except that an average cell size of a foam sheet was controlled to<!-- EPO <DP n="18"> --> approximately 900 µm. <figref idref="f0002">FIG. 3</figref> is an SEM image showing a cell size of the foam sheet formed according to Comparative Example 2. Referring to <figref idref="f0002">FIG. 3</figref>, it can be confirmed that cells were formed to have an average size of 900 µm.</p>
+<heading id="h0012"><b>Comparative Example 3</b></heading>
+<p id="p0061" num="0061">A food container manufactured of paper was purchased commercially. At this time, the paper food container had a thickness of approximately 1 mm.</p>
+<heading id="h0013"><b>Comparative Example 4</b></heading>
+<p id="p0062" num="0062">A polypropylene (PP rigid) sheet having a thickness of 1 mm was commercially purchased, and used to mold a food container using the same mold as used in the example.</p>
+<heading id="h0014"><b>Experimental Example 1</b></heading>
+<p id="p0063" num="0063">Elution amounts of a hazardous substance from the food container manufactured in the example and Comparative Example 1 were evaluated. Evaluation was performed by measuring an elution amount of a hazardous substance after each food container was heated in an 800W microwave oven for 5 minutes, and it was demonstrated that evaluation items satisfy the criteria according to the Ministry of Food and Drug Safety (MFDS) Notification No. 2016-51. The evaluation items and results are shown in in Table 1 below.<!-- EPO <DP n="19"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>[Table 1]</title>
+<tgroup cols="7">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="55mm"/>
+<colspec colnum="3" colname="col3" colwidth="14mm"/>
+<colspec colnum="4" colname="col4" colwidth="19mm"/>
+<colspec colnum="5" colname="col5" colwidth="18mm"/>
+<colspec colnum="6" colname="col6" colwidth="20mm"/>
+<colspec colnum="7" colname="col7" colwidth="18mm"/>
+<thead>
+<row>
+<entry morerows="1" align="center" valign="middle">Classification</entry>
+<entry morerows="1" align="center" valign="middle">Item</entry>
+<entry morerows="1" align="center" valign="middle">Units</entry>
+<entry namest="col4" nameend="col5" align="center" valign="middle">Example</entry>
+<entry namest="col6" nameend="col7" align="center" valign="middle">Comparative Example 1</entry></row>
+<row>
+<entry align="center" valign="middle">Standard</entry>
+<entry align="center" valign="middle">Analysis result</entry>
+<entry align="center" valign="middle">Standard</entry>
+<entry align="center" valign="middle">Analysis result</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Residue specification</entry>
+<entry align="center" valign="middle">Volatile substance (styrene, toluene, ethylbenzene, isopropylene, n-propyl benzene)</entry>
+<entry align="center" valign="middle">mg/kg</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">Not detected</entry>
+<entry align="center" valign="middle">≤5,000</entry>
+<entry align="center" valign="middle">412 (styrene)</entry></row>
+<row>
+<entry morerows="2" align="center" valign="middle">Elution specification</entry>
+<entry align="center" valign="middle">4% acetic acid</entry>
+<entry align="center" valign="middle">mg/L</entry>
+<entry align="center" valign="middle">≤30</entry>
+<entry align="center" valign="middle">Not detected</entry>
+<entry align="center" valign="middle">≤30</entry>
+<entry align="center" valign="middle">7</entry></row>
+<row>
+<entry align="center" valign="middle">Water</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">≤30</entry>
+<entry align="center" valign="middle">Not detected</entry>
+<entry align="center" valign="middle">≤30</entry>
+<entry align="center" valign="middle">10</entry></row>
+<row>
+<entry align="center" valign="middle">n-heptane</entry>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">≤30</entry>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">≤240</entry>
+<entry align="center" valign="middle">8</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0064" num="0064">Referring to Table 1, while no volatile substance was detected from the food container according to the example, indicating that the food container satisfied the criteria notified by the MFDS, the food container according to Comparative Example 1 contained a large amount of residual styrene, measuring at 412 mg/kg. In the case of the food container according to the example, 4% acetic acid and water were not eluted, whereas in the case of the food container according to Comparative Example 1, 4% acetic acid and water were eluted. Therefore, it was confirmed that the food container according to the present invention can considerably reduce residual and elution amounts of a hazardous substance.</p>
+<heading id="h0015"><b>Experimental Example 2</b></heading><!-- EPO <DP n="20"> -->
+<p id="p0065" num="0065">Thermal resistance of the food containers manufactured in the example and Comparative Example 1 was assessed. A measurement method is described below, and the result is shown in Table 2 below.</p>
+<p id="p0066" num="0066">The thermal resistance was assessed by measuring a dimensional variation according to Mathematical Expression 1 below. <maths id="math0002" num="[Mathematical Expression 1]"><math display="block"><mfenced open="|" close="|" separators=""><msub><mi mathvariant="normal">V</mi><mn>1</mn></msub><mo>−</mo><msub><mi mathvariant="normal">V</mi><mn>0</mn></msub></mfenced><mo>/</mo><msub><mi mathvariant="normal">V</mi><mn>0</mn></msub><mo>×</mo><mn>100</mn><mo>&lt;</mo><mn>5</mn><mi>%</mi></math><img id="ib0005" file="imgb0005.tif" wi="51" he="13" img-content="math" img-format="tif"/></maths></p>
+<p id="p0067" num="0067">In Mathematical Expression 1, V<sub>0</sub> is a volume (mm<sup>3</sup>) of the food container before being exposed to 100 °C, and V<sub>1</sub> is a volume (mm<sup>3</sup>) of the food container after being exposed to 100 °C for 20 minutes.</p>
+<p id="p0068" num="0068">At this time, the exposure to 100 °C was carried out using a convection oven, and the volume (mm<sup>3</sup>) of the sample before each of the food containers according to the example and Comparative Example 1 was exposed to 100 °C was 100 × 100 × 3 (width × length × height).
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>[Table 2]</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="39mm"/>
+<colspec colnum="2" colname="col2" colwidth="41mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Classification</entry>
+<entry align="center" valign="top">Dimensional variation (%)</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">Example</entry>
+<entry align="center">0</entry></row>
+<row>
+<entry align="center">Comparative Example 1</entry>
+<entry align="center">5.95</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0069" num="0069">Referring to Table 2, it can be seen that although the food container according to the present invention was exposed to a high temperature for a long time, the dimensional variation was approximately 0%, indicating that it has excellent thermal resistance. Compared with this, it can be seen that the food container according to Comparative Example 1 exhibited the dimensional variation of<!-- EPO <DP n="21"> --> approximately 5.95%, indicating that it did not have excellent thermal resistance. Therefore, it can be shown that when being used at a high temperature, the food container of the present invention does not experience a change in shape, and the food container according to Comparative Example 1 is easily deformed.</p>
+<heading id="h0016"><b>Experimental Example 3</b></heading>
+<p id="p0070" num="0070">To evaluate a thermal barrier property of each of the food containers according to the example, Comparative Example 1, and Comparative Examples 3 and 4, temperatures at a random position inside the container and at a random position outside the container were measured two minutes after 100 °C water was put into the container at 70%(v/v).</p>
+<p id="p0071" num="0071">The result is shown in Table 3 below.
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>[Table 3]</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="35mm"/>
+<colspec colnum="3" colname="col3" colwidth="42mm"/>
+<colspec colnum="4" colname="col4" colwidth="66mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle">Classification</entry>
+<entry align="center" valign="middle">External temperature of container (°C)</entry>
+<entry align="center" valign="middle">Internal temperature of container (°C)</entry>
+<entry align="center" valign="middle">Difference in temperature between inside and outside container (°C)</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Example</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">62</entry>
+<entry align="center" valign="middle">22</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 1</entry>
+<entry align="center" valign="middle">40</entry>
+<entry align="center" valign="middle">61</entry>
+<entry align="center" valign="middle">21</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 3</entry>
+<entry align="center" valign="middle">45</entry>
+<entry align="center" valign="middle">55</entry>
+<entry align="center" valign="middle">10</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 4</entry>
+<entry align="center" valign="middle">42</entry>
+<entry align="center" valign="middle">46</entry>
+<entry align="center" valign="middle">4</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="22"> --></p>
+<p id="p0072" num="0072">Referring to Table 3, the food container according to the example had a difference in temperature between the inside and outside of the container of 22 °C, indicating an excellent thermal barrier property, which was similar to that of Comparative Example 1, and the food containers according to Comparative Examples 3 and 4 had the temperature differences of 10 °C and 4 °C, respectively, indicating a considerably poor thermal barrier property. Therefore, it was confirmed that the food container according to the present invention is manufactured by applying a PETG resin layer to one surface of a foam sheet with a cell size controlled in a predetermined range, thereby having excellent thermal barrier property, and thus can exhibit excellent heat insulation.</p>
+<heading id="h0017"><b>Experimental Example 4</b></heading>
+<p id="p0073" num="0073">Moisture permeability and oxygen permeability of each of the food containers manufactured in Example and Comparative Example 1 were measured. Methods of measuring moisture permeability and oxygen permeability are described below, and the results are shown in Table 4 below.
+<ol id="ol0001" compact="compact" ol-style="">
+<li>1) Test for moisture permeability
+<ul id="ul0002" list-style="dash" compact="compact">
+<li>Test method: ASTM D 1249</li>
+<li>Test instrument: Permatran W-700 (MOCON, USA)</li>
+<li>Test temperature: (37.8±1) °C, 100% R.H</li>
+<li>Test time: 30 min</li>
+<li>Measurement range: 0.05 ~ 100 g/m<sup>2</sup>·day</li>
+<li>Sample size: 5 cm<sup>2</sup></li>
+</ul></li>
+<li>2) Test for oxygen permeability
+<ul id="ul0003" list-style="dash" compact="compact">
+<li>Test method: ASTM D 3985<!-- EPO <DP n="23"> --></li>
+<li>Test instrument: OX-TRAN 702 (MOCON, USA)</li>
+<li>Test temperature: (23±1) °C</li>
+<li>Test time: 30 min</li>
+<li>Measurement range: 0.1 ~ 2000 cc/m<sup>2</sup>·day</li>
+<li>Sample size: 5 cm<sup>2</sup></li>
+</ul></li>
+</ol>
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title>[Table 4]</title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="39mm"/>
+<colspec colnum="2" colname="col2" colwidth="35mm"/>
+<colspec colnum="3" colname="col3" colwidth="20mm"/>
+<colspec colnum="4" colname="col4" colwidth="16mm"/>
+<colspec colnum="5" colname="col5" colwidth="17mm"/>
+<thead>
+<row>
+<entry morerows="1" align="center" valign="middle">Classification</entry>
+<entry morerows="1" align="center" valign="middle">Test item</entry>
+<entry morerows="1" align="center" valign="middle">Units</entry>
+<entry namest="col4" nameend="col5" align="center" valign="middle">Measurement result</entry></row>
+<row>
+<entry align="center" valign="middle">First</entry>
+<entry align="center" valign="middle">Second</entry></row></thead>
+<tbody>
+<row>
+<entry morerows="1" align="center" valign="middle">Example</entry>
+<entry align="center" valign="middle">Moisture permeability</entry>
+<entry align="center" valign="middle">g/m<sup>2</sup>·day</entry>
+<entry align="center" valign="middle">8.23</entry>
+<entry align="center" valign="middle">8.69</entry></row>
+<row>
+<entry align="center" valign="middle">Oxygen permeability</entry>
+<entry align="center" valign="middle">cc/m<sup>2</sup>·day</entry>
+<entry align="center" valign="middle">1336</entry>
+<entry align="center" valign="middle">893.1</entry></row>
+<row>
+<entry morerows="1" align="center" valign="middle">Comparative Example 1</entry>
+<entry align="center" valign="middle">Moisture permeability</entry>
+<entry align="center" valign="middle">g/m<sup>2</sup>·day</entry>
+<entry align="center" valign="middle">16.60</entry>
+<entry align="center" valign="middle">17.30</entry></row>
+<row>
+<entry align="center" valign="middle">Oxygen permeability</entry>
+<entry align="center" valign="middle">cc/m<sup>2</sup>·day</entry>
+<entry align="center" valign="middle">2591.2</entry>
+<entry align="center" valign="middle">1003.7</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0074" num="0074">Referring to Table 4, in the case of the food container according to the example, both of the first and second measurements showed low moisture permeability, measuring at 8.23 g/m<sup>2</sup>·day and 8.69 g/m<sup>2</sup>·day, respectively, and in the case of the food container according to Comparative Example 1, both of the first and second measurements showed high moisture permeability, measuring at 16.60 g/m<sup>2</sup>·day and 17.30 g/m<sup>2</sup>·day, respectively, which are higher than those of the food container according to the example. In addition, according to the test for oxygen<!-- EPO <DP n="24"> --> permeability, the food container according to the example exhibited oxygen permeability, measuring at 1336 cc/m<sup>2</sup>·day and 893.1 cc/m<sup>2</sup>·day in the first and second measurements, respectively, which are considerably lower than those of Comparative Example 1.</p>
+<p id="p0075" num="0075">Therefore, it was confirmed that the food container according to the present invention is highly effective in blocking oxygen and moisture to extend the preservation period of food.</p>
+<heading id="h0018"><b>Experimental Example 5</b></heading>
+<p id="p0076" num="0076">The compressive strength, tensile strength, elongation and puncture strength of each of the food containers manufactured in Example and Comparative Example 1 were measured. An instrument used in measurement was a universal testing machine (Model 3367, Instron), and corresponding measurement conditions are described below, and the results are shown in Table 5.</p>
+<heading id="h0019">1) Measurement of compressive strength</heading>
+<p id="p0077" num="0077">Compressive strength was assessed by measuring the maximum load measured when a load was applied vertically to the food container at a speed of 100 mm/min.</p>
+<heading id="h0020">2) Measurement of tensile strength</heading>
+<p id="p0078" num="0078">Tensile strength was measured according to ASTM D 638, and a test speed was 5 mm/min.</p>
+<heading id="h0021">3) Measurement of elongation</heading>
+<p id="p0079" num="0079">Elongation was measured according to ASTM D 638.</p>
+<heading id="h0022">4) Measurement of puncture strength</heading><!-- EPO <DP n="25"> -->
+<p id="p0080" num="0080">Puncture strength was measured according to ASTM D 5748, and a test speed was 6 mm/min.
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<title>[Table 5]</title>
+<tgroup cols="7">
+<colspec colnum="1" colname="col1" colwidth="37mm"/>
+<colspec colnum="2" colname="col2" colwidth="45mm"/>
+<colspec colnum="3" colname="col3" colwidth="15mm"/>
+<colspec colnum="4" colname="col4" colwidth="15mm"/>
+<colspec colnum="5" colname="col5" colwidth="12mm"/>
+<colspec colnum="6" colname="col6" colwidth="12mm"/>
+<colspec colnum="7" colname="col7" colwidth="33mm"/>
+<thead>
+<row>
+<entry morerows="1" align="center" valign="middle">Classification</entry>
+<entry morerows="1" align="center" valign="middle">Compressive strength (kgf/m<sup>3</sup>)</entry>
+<entry namest="col3" nameend="col4" align="center" valign="middle">Tensile strength (MPa)</entry>
+<entry namest="col5" nameend="col6" align="center" valign="middle">Elongation (%)</entry>
+<entry morerows="1" align="center" valign="middle">Puncture strength (N)</entry></row>
+<row>
+<entry align="center" valign="middle">TD</entry>
+<entry align="center" valign="middle">MD</entry>
+<entry align="center" valign="middle">TD</entry>
+<entry align="center" valign="middle">MD</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Example</entry>
+<entry align="center" valign="middle">51.9</entry>
+<entry align="center" valign="middle">5.68</entry>
+<entry align="center" valign="middle">4.77</entry>
+<entry align="center" valign="middle">4.83</entry>
+<entry align="center" valign="middle">9.19</entry>
+<entry align="center" valign="middle">409.48</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 1</entry>
+<entry align="center" valign="middle">28</entry>
+<entry align="center" valign="middle">3.2</entry>
+<entry align="center" valign="middle">2.8</entry>
+<entry align="center" valign="middle">2.5</entry>
+<entry align="center" valign="middle">3.1</entry>
+<entry align="center" valign="middle">210</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0081" num="0081">Referring to Table 5, it can be seen that the food container according to the example was not easily deformed by an external force due to remarkably higher compressive strength and tensile strength than those of the food container according to Comparative Example 1, and exhibited excellent moldability due to higher elongation than that of the food container according to Comparative Example 1. In addition, it was confirmed that the food container according to the example exhibited higher puncture strength than the food container of Comparative Example 1, and thus was highly resistant to physical shocks.</p>
+<p id="p0082" num="0082">Therefore, it can be seen that the food container according to the present invention can be used in a microwave oven due to improved thermal resistance by forming a PETG coating layer to a suitable thickness on the outer layer of a PET foam sheet, and have improved compressive strength, tensile strength, elongation and puncture strength.</p>
+<heading id="h0023"><b>Experimental Example 6</b></heading><!-- EPO <DP n="26"> -->
+<p id="p0083" num="0083">To evaluate physical properties of the food container according to the present invention, a melting point (Tm) and a glass transition temperature (Tg) of the PET resin and the PETG resin used in manufacture of the food container according to the example were measured within a range from 40 to 270 °C (increased by 20 °C/min) using a differential scanning calorimeter (Perkin Elmer, DSC-7). The results are shown in Table 6, and in <figref idref="f0003">FIGS. 4</figref> and <figref idref="f0004">5</figref>. <figref idref="f0003">FIG. 4</figref> is a graph showing the melting point (Tm) and the glass transition temperature (Tg) of the PET resin, and <figref idref="f0004">FIG. 5</figref> is a graph showing the melting point (Tm) and the glass transition temperature (Tg) of the PETG resin.
+<tables id="tabl0006" num="0006">
+<table frame="all">
+<title>[Table 6]</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="14mm"/>
+<colspec colnum="2" colname="col2" colwidth="15mm"/>
+<colspec colnum="3" colname="col3" colwidth="15mm"/>
+<thead>
+<row>
+<entry align="center" valign="top"/>
+<entry align="center" valign="top">Tm (°C)</entry>
+<entry align="center" valign="top">Tg (°C)</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">PET</entry>
+<entry align="center">251.17</entry>
+<entry align="center">81.65</entry></row>
+<row>
+<entry align="center">PETG</entry>
+<entry align="center">-</entry>
+<entry align="center">79.01</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0084" num="0084">Referring to Table 6 and <figref idref="f0003">FIG. 4</figref>, the melting point of the PET resin was approximately 251.17 °C, and the glass transition temperature of the PET resin was approximately 81.65 °C. Meanwhile, the melting point of the PETG resin was not measured, and the glass transition temperature of the PETG resin was approximately 79.01 °C, which is similar to that of the PET resin (refer to <figref idref="f0004">FIG. 5</figref>). Therefore, it can be seen that the PETG resin has a non-crystalline characteristic, and that it is possible to implement an excellent adhesive property, excellent processability and excellent thermal resistance by manufacturing a food container using the PETG resin coating layer.</p>
+<heading id="h0024">[Industrial Applicability]</heading><!-- EPO <DP n="27"> -->
+<p id="p0085" num="0085">A food container according to the present invention, as defined in the appended claims, has improved compressive strength, and less deformation due to a physical force and improved moldability due to improved elongation, so that it can be provided in various sizes and shapes. The food container according to the present invention can easily store food due to low oxygen and moisture permeability, and prevent deformation even in high-temperature water due to excellent heat resistance. In addition, the food container according to the present invention is harmless to the human body due to a considerably low elution amount of a hazardous substance, and has improved strength, printability and moldability and a superior thermal barrier property, thereby exhibiting improved heat insulation for food.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="28"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A food container having a bilayer structure being an inner layer and an outer layer,
+<claim-text>wherein the inner layer is formed of a foamed layer and the outer layer is formed of a resin layer,</claim-text>
+<claim-text>wherein the foamed layer has an average cell size of 100 to 500 µm and is a foam sheet of a polyethylene terephthalate resin,</claim-text>
+<claim-text>wherein the resin layer is a coating layer of a resin having a repeating unit of Formula 1 below:
+<chemistry id="chem0004" num="0004"><img id="ib0006" file="imgb0006.tif" wi="127" he="32" img-content="chem" img-format="tif"/></chemistry>
+In Formula 1,<br/>
+m and n represent mole fractions of repeating units, and range from 1 to 100, respectively.</claim-text></claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>The food container according to claim 1, wherein the resin forming the resin layer has a polymerization unit derived from cyclohexanedimethanol (CHDM) in a molecule at a content of 10 mol% or more.</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>The food container according to claim 1, wherein the foamed layer has a density of 30 to 400 kg/m<sup>3</sup>.<!-- EPO <DP n="29"> --></claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>The food container according to claim 1, wherein the food container has an average thickness of 1 to 5 mm, and a thickness ratio of the foamed layer and the resin layer is 10:0.1 to 2.</claim-text></claim>
+</claims>
+<claims id="claims02" lang="de"><!-- EPO <DP n="30"> -->
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Lebensmittelbehälter mit einer zweischichtigen Struktur aus einer inneren Schicht und einer äußeren Schicht,
+<claim-text>wobei die innere Schicht aus einer geschäumten Schicht und die äußere Schicht aus einer Harzschicht gebildet ist,</claim-text>
+<claim-text>wobei die geschäumte Schicht eine durchschnittliche Zellgröße von 100 bis 500 µm hat und eine Schaumstoffplatte aus einem Polyethylenterephthalatharz ist,</claim-text>
+<claim-text>wobei die Harzschicht eine Überzugsschicht aus einem Harz mit einer Wiederholungseinheit der folgenden Formel 1 ist:
+<chemistry id="chem0005" num="0005"><img id="ib0007" file="imgb0007.tif" wi="136" he="31" img-content="chem" img-format="tif"/></chemistry>
+wobei in Formel 1<br/>
+m und n Molfraktionen der Wiederholungseinheiten darstellen und jeweils im Bereich von 1 bis 100 liegen.</claim-text></claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Lebensmittelbehälter nach Anspruch 1, wobei das die Harzschicht bildende Harz eine von Cyclohexandimethanol (CHDM) abgeleitete Polymerisationseinheit in einem Molekül mit einem Gehalt von 10 Mol-% oder mehr aufweist.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Lebensmittelbehälter nach Anspruch 1, wobei die geschäumte Schicht eine Dichte von 30 bis 400 kg/m<sup>3</sup> hat.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Lebensmittelbehälter nach Anspruch 1, wobei der Lebensmittelbehälter eine durchschnittliche Dicke von 1 bis<!-- EPO <DP n="31"> --> 5 mm hat und ein Dickenverhältnis zwischen der geschäumten Schicht und der Harzschicht 10:0,1 bis 2 beträgt.</claim-text></claim>
+</claims>
+<claims id="claims03" lang="fr"><!-- EPO <DP n="32"> -->
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Récipient alimentaire ayant une structure bicouche faite d'une couche interne et d'une couche externe,
+<claim-text>dans lequel la couche interne est constituée d'une couche expansée et la couche externe est constituée d'une couche de résine,</claim-text>
+<claim-text>dans lequel la couche expansée a une taille d'alvéole moyenne de 100 à 500 µm et est une feuille de mousse faite d'une résine de polytéréphtalate d'éthylène,</claim-text>
+<claim-text>dans lequel la couche de résine est une couche de revêtement faite d'une résine ayant une unité répétitive de formule 1 ci-dessous :
+<chemistry id="chem0006" num="0006"><img id="ib0008" file="imgb0008.tif" wi="126" he="32" img-content="chem" img-format="tif"/></chemistry>
+Dans la formule 1,<br/>
+m et n représentent des fractions molaires d'unités répétitives et se situent respectivement dans la plage de 1 à 100.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Récipient alimentaire selon la revendication 1, dans lequel la résine formant la couche de résine a une unité de polymérisation dérivée du cyclohexanediméthanol (CHDM) dans une molécule à une teneur de 10 % en moles ou plus.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Récipient alimentaire selon la revendication 1, dans lequel la couche expansée a une densité de 30 à 400 kg/m<sup>3</sup>.<!-- EPO <DP n="33"> --></claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Récipient alimentaire selon la revendication 1, dans lequel le récipient alimentaire a une épaisseur moyenne de 1 à 5 mm, et un ratio d'épaisseur de la couche expansée et de la couche de résine est de 10:0,1 à 2.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="34"> -->
+<figure id="f0001" num="1,2"><img id="if0001" file="imgf0001.tif" wi="161" he="225" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="35"> -->
+<figure id="f0002" num="3"><img id="if0002" file="imgf0002.tif" wi="161" he="112" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="36"> -->
+<figure id="f0003" num="4"><img id="if0003" file="imgf0003.tif" wi="117" he="213" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="37"> -->
+<figure id="f0004" num="5"><img id="if0004" file="imgf0004.tif" wi="124" he="213" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="EP1160274A"><document-id><country>EP</country><doc-number>1160274</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0014]</crossref><crossref idref="pcit0005">[0014]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="US5000991A"><document-id><country>US</country><doc-number>5000991</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0002">[0014]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="JP2006248030B"><document-id><country>JP</country><doc-number>2006248030</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0003">[0014]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="US6365249B"><document-id><country>US</country><doc-number>6365249</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0004">[0014]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

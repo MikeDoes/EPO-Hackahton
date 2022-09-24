@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP14810980B1" file="EP14810980NWB1.xml" lang="en" country="EP" doc-number="3010197" kind="B1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSK..HRIS..MTNORS..SM..................</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  2100000/0</B007EP></eptags></B000><B100><B110>3010197</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>14810980.4</B210><B220><date>20140609</date></B220><B240><B241><date>20160108</date></B241><B242><date>20190409</date></B242></B240><B250>zh</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>201310236734</B310><B320><date>20130613</date></B320><B330><ctry>CN</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20160420</date><bnum>201616</bnum></B430><B450><date>20211006</date><bnum>202140</bnum></B450><B452EP><date>20210415</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>H04W  72/04        20090101AFI20201014BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>H04W  76/14        20180101ALI20201014BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>H04W   4/70        20180101ALI20201014BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>H04W   8/00        20090101ALI20201014BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>H04W  92/18        20130101 LA20150702BHEP        </text></classification-cpc><classification-cpc sequence="2"><text>H04W   8/005       20130101 LI20150728BHEP        </text></classification-cpc><classification-cpc sequence="3"><text>H04W  48/00        20130101 LI20150702BHEP        </text></classification-cpc><classification-cpc sequence="4"><text>H04L   1/00        20130101 LI20150121BHEP        </text></classification-cpc><classification-cpc sequence="5"><text>H04W  76/14        20180201 LI20201014BHEP        </text></classification-cpc><classification-cpc sequence="6"><text>H04W   4/70        20180201 LI20180219BHEP        </text></classification-cpc><classification-cpc sequence="7"><text>H04W  72/0446      20130101 FI20201014BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>VERFAHREN UND VORRICHTUNG ZUR KOMMUNIKATION IN EINEM D2D-BENUTZERGERÄT EINES TDD-SYSTEMS</B542><B541>en</B541><B542>METHOD AND DEVICE FOR COMMUNICATION IN D2D UE OF TDD SYSTEM</B542><B541>fr</B541><B542>PROCÉDÉ ET DISPOSITIF DE COMMUNICATION DANS UN D2D UE D'UN SYSTÈME TDD</B542></B540><B560><B561><text>CN-A- 102 281 099</text></B561><B561><text>CN-A- 102 307 060</text></B561><B561><text>CN-A- 103 108 405</text></B561><B561><text>CN-A- 103 139 921</text></B561><B561><text>US-A1- 2013 142 268</text></B561><B561><text>US-A1- 2013 142 268</text></B561><B562><text>HTC: "Physical layer considerations on D2D communication", 3GPP DRAFT; R1-132083 PHYSICAL LAYER CONSIDERATIONS ON D2D COMMUNICATION, 3RD GENERATION PARTNERSHIP PROJECT (3GPP), MOBILE COMPETENCE CENTRE ; 650, ROUTE DES LUCIOLES ; F-06921 SOPHIA-ANTIPOLIS CEDEX , vol. RAN WG1, no. Fukuoka, Japan; 20130520 - 20130524 11 May 2013 (2013-05-11), XP050697861, Retrieved from the Internet: URL:http://www.3gpp.org/ftp/tsg_ran/WG1_RL 1/TSGR1_73/Docs/ [retrieved on 2013-05-11]</text></B562><B562><text>None</text></B562><B565EP><date>20170117</date></B565EP></B560></B500><B700><B720><B721><snm>MA, Li</snm><adr><str>Room 302
+No.36 Lane 628
+Middle Yan Chang Road
+Zhabei District</str><city>Shanghai 200072</city><ctry>CN</ctry></adr></B721></B720><B730><B731><snm>Shanghai Langbo Communication 
+Technology Company Limited</snm><iid>101517904</iid><irf>LNG005-EP</irf><adr><str>Room A2117 Building B 
+No.555 East Chuan Road 
+Minhang District</str><city>Shanghai 200240</city><ctry>CN</ctry></adr></B731></B730><B740><B741><snm>Metroconsult Srl</snm><iid>101811668</iid><adr><str>Via Sestriere, 100</str><city>10060 None (TO)</city><ctry>IT</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B860><B861><dnum><anum>CN2014079474</anum></dnum><date>20140609</date></B861><B862>zh</B862></B860><B870><B871><dnum><pnum>WO2014198207</pnum></dnum><date>20141218</date><bnum>201451</bnum></B871></B870></B800></SDOBI>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001"><b>BACKGROUND</b></heading>
+<heading id="h0002"><b>Technical Field</b></heading>
+<p id="p0001" num="0001">The disclosure is related to a subframe scheduling scheme in the Time Division Duplex (TDD) system, and more particular to a subframe scheduling scheme in the TDD system of the Long Term Evolution (LTE) Device to Device (D2D) configuration.</p>
+<heading id="h0003"><b>Related Art</b></heading>
+<p id="p0002" num="0002">The traditional LTE system of 3rd Generation Partnership Project (3GPP) defines the frame structure of the TDD system, as shown in Table 1, in which D indicates downlink subframe, U indicates uplink subframe, S indicates special subframe.
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>Table 1: TDD LTE frame structure</title>
+<tgroup cols="12">
+<colspec colnum="1" colname="col1" colwidth="43mm"/>
+<colspec colnum="2" colname="col2" colwidth="41mm"/>
+<colspec colnum="3" colname="col3" colwidth="8mm"/>
+<colspec colnum="4" colname="col4" colwidth="8mm"/>
+<colspec colnum="5" colname="col5" colwidth="8mm"/>
+<colspec colnum="6" colname="col6" colwidth="8mm"/>
+<colspec colnum="7" colname="col7" colwidth="8mm"/>
+<colspec colnum="8" colname="col8" colwidth="8mm"/>
+<colspec colnum="9" colname="col9" colwidth="8mm"/>
+<colspec colnum="10" colname="col10" colwidth="8mm"/>
+<colspec colnum="11" colname="col11" colwidth="8mm"/>
+<colspec colnum="12" colname="col12" colwidth="8mm"/>
+<thead>
+<row>
+<entry morerows="1" align="center" valign="middle">TDD UL/DL frame structure</entry>
+<entry morerows="1" align="center" valign="middle">DL-UL switch point period</entry>
+<entry namest="col3" nameend="col12" align="center" valign="middle">Subframe Index</entry></row>
+<row>
+<entry align="center" valign="middle">0</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">3</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">6</entry>
+<entry align="center" valign="middle">7</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">9</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">#0</entry>
+<entry align="center" valign="middle">5 ms</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">S</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">S</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">U</entry></row>
+<row>
+<entry align="center" valign="middle">#1</entry>
+<entry align="center" valign="middle">5 ms</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">S</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">S</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">D</entry></row>
+<row>
+<entry align="center" valign="middle">#2</entry>
+<entry align="center" valign="middle">5 ms</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">S</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">S</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">D</entry></row>
+<row>
+<entry align="center" valign="middle">#3</entry>
+<entry align="center" valign="middle">10 ms</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">S</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">D</entry></row>
+<row>
+<entry align="center" valign="middle">#4</entry>
+<entry align="center" valign="middle">10 ms</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">S</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">D</entry></row>
+<row>
+<entry align="center" valign="middle">#5</entry>
+<entry align="center" valign="middle">10 ms</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">S</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">D</entry></row><!-- EPO <DP n="2"> -->
+<row>
+<entry align="center" valign="middle">#6</entry>
+<entry align="center" valign="middle">5 ms</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">S</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">D</entry>
+<entry align="center" valign="middle">S</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">U</entry>
+<entry align="center" valign="middle">D</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0003" num="0003">In the traditional 3GPP version, the data communication occurs between the base station and the user equipment (UE). In 3GPP R (Release) 12, D2D communication is approved and discussed. The essential characteristics of D2D is to allow data transfer between the UEs. For FDD and TDD system, 3GPP has concluded that the UE is not allowed for simultaneous receiving and transmitting in D2D system in the RANI (Radio Access Network Working Group 1) #73 meeting. Furthermore, for avoiding the interference of the downlink data on D2D communication, the UE occupies the uplink subframe of the subframe (TDD) for D2D communication. The downlink subframe needs further discussion.</p>
+<p id="p0004" num="0004">The other important issue about TDD system in 3GPP R12 is eIMTA (Enhanced Interference Traffic Adaptation). The frame structure of the traditional TDD system is configured via SIB (System Information Block), and the shortest configuration period is 640 ms (millisecond). eIMTA allows TDD system to adjust the frame structure dynamically (10 millisecond period). RANI #73 meeting concluded that the common physical layer signaling is used to dynamically configure the frame structure of the current frame. For 3GPP R12 and the previous LTE system, the optional range of SIB and the frame structure configured by the common physical layer signaling is TDD UL/DL frame structure #{0,1,2,3,4,5,6}.</p>
+<p id="p0005" num="0005">Therefore, the D2D solution needs to support eIMTA scenario. One typical scenario is that two UEs performing D2D communication are in the coverage of the different service cells (or one is within the coverage of the service cell and the other<!-- EPO <DP n="3"> --> one is outside the coverage of the service cell). At this point it requires studying how to perform the resource allocation for D2D communication.</p>
+<heading id="h0004"><b>SUMMARY</b></heading>
+<p id="p0006" num="0006">One principle for D2D resource allocation is to protect the D2D user equipment (UE) from the downlink interference generated by the system equipment. Based on the inventor's research, it is found that in some specific scenarios the two UEs performing D2D communication may experience interference from the different downlink equipments. Two scenarios below are the examples for the two user equipments UE1, UE 2 performing D2D communication.</p>
+<p id="p0007" num="0007">Scenario I: UE1 and UE 2 are respectively camping on the two service cells with different frame structures.</p>
+<p id="p0008" num="0008">Scenario II: UE1 is under the service cell's coverage while UE2 is outside the coverage of the service cell (i.e. UE2 is not interfered by the downlink signals).</p>
+<p id="p0009" num="0009">The disclosure provides a unified solution for the different scenarios.</p>
+<p id="p0010" num="0010">The disclosure provides a method used in a user equipment that supports Device to Device transmission in Time Division Duplex system. The method comprises receiving a downlink signaling to obtain a first configured frame structure, or determining a first configured frame structure by itself; and transmitting a first D2D signaling to indicate the first configured frame structure.</p>
+<p id="p0011" num="0011">In one embodiment, the first configured frame structure indicates an uplink or downlink direction for all the subframes within one radio frame.</p>
+<p id="p0012" num="0012">The step of receiving a downlink signaling to obtain a first configured frame<!-- EPO <DP n="4"> --> structure is applicable for the user equipment within the network coverage. That is, the user equipment is able to receive the downlink configured frame structure signaling from the service cell. There are two types of the downlink signaling in LTE network, which are System Information Block (SIB) and the common physical layer signaling. The former is suitable for a traditional scenario, and the latter is suitable for eIMTA scenario.</p>
+<p id="p0013" num="0013">The step of determining a first configured frame structure by itself is applicable for the user equipment outside of the network coverage. That is, the user equipment can not reliably receive the data from the service cell or the user equipment does not search out the accessible cells. Therefore, the user equipment needs to determine the first configured frame structure by itself.</p>
+<p id="p0014" num="0014">Specifically, according to one aspect of the disclosure, the first D2D signaling is a physical layer signaling.</p>
+<p id="p0015" num="0015">To support eIMTA, the user equipment in D2D communication needs to dynamically inform the paired user equipment in D2D communication of the status of its frame structure.</p>
+<p id="p0016" num="0016">Specifically, according to one aspect of the disclosure, when the UE determines the first configured frame structure by itself, the first configured frame structure is configured as uplink frame structure.</p>
+<p id="p0017" num="0017">For the user equipment outside of the network coverage, it is not interfered by the downlink signals of the service cell. Therefore, all the subframes may be suitable for receiving the D2D signals.</p>
+<p id="p0018" num="0018">Specifically, according to one aspect of the disclosure, the disclosure further<!-- EPO <DP n="5"> --> comprises:
+<ul id="ul0001" list-style="none">
+<li>receiving a second D2D signaling to obtain a second configured frame structure;</li>
+<li>wherein the second configured frame structure indicates a uplink or downlink direction for all the subframes within one radio frame.</li>
+</ul></p>
+<p id="p0019" num="0019">In one embodiment, the aforementioned aspects are suitable for D2D communication with the peer configuration. That is each user equipment needs to report its frame structure to the peer user equipment, and in the meanwhile needs to receive a signaling corresponding to the frame structure from the peer user equipment. For D2D communication with the master-slave configuration, the slave UE only needs to report its frame structure to the master UE through signaling without acquiring the frame structure of the master UE.</p>
+<p id="p0020" num="0020">In the D2D communication, the possible D2D communication resource scheduling (for example physical resource allocation, Hybrid Automatic Repeat Request (HARQ), retransmission resource allocation, power control, etc.) comprises the following approaches:
+<ul id="ul0002" list-style="none">
+<li>Approach 1: the system controls all the resource scheduling;</li>
+<li>Approach 2: UE controls all the resource scheduling;</li>
+<li>Approach 3: the system and UE together control the resource scheduling.</li>
+</ul></p>
+<p id="p0021" num="0021">Approach 1 may require the excessive control signaling and may have larger delay. Approach 2 may generate a certain extent of interference on the non-D2D communication in the cell. Approach 3 is a reasonable solution. For example, the system allocates the frequency-domain resources, and the UE determines the time<!-- EPO <DP n="6"> --> resources for D2D communication by itself. For Approach 2 and Approach 3, the UE is likely to determine the subframes available for D2D reception and D2D transmission. In eIMTA scenario of TDD, it is possible that the two UEs in D2D communication are configured with the different frame structures. Therefore, for a given UE, the available subframes for D2D reception may be different from the available subframes for D2D transmission.</p>
+<p id="p0022" num="0022">Specifically, according to one aspect of the disclosure, the disclosure further comprises:<br/>
+receiving the D2D signals in a subframe corresponding to the uplink subframe of the first configured frame structure.</p>
+<p id="p0023" num="0023">The essence of the above aspect is that the UE can only receive the D2D signals in the uplink subframe of the configured frame structure so as to avoid the downlink interference.</p>
+<p id="p0024" num="0024">Specifically, according to another aspect of the disclosure, the disclosure further comprises:
+<ul id="ul0003" list-style="none">
+<li>selecting a suitable subframe out of the subframes corresponding to the UL subframe of the second configured frame structure; and</li>
+<li>transmitting the D2D signals on the suitable subframe.</li>
+</ul></p>
+<p id="p0025" num="0025">The essence of the above aspect is that (in order to assure that the D2D receiving UE may receive the D2D signals) the UE transmits the D2D signals on the selected (one or more) subframe (s), which is (are) configured as UL subframe (s) for the D2D receiving UE. In one embodiment, the UE selects the<!-- EPO <DP n="7"> --> suitable subframe(s) by itself. In another embodiment, the UE selects the suitable subframe(s) according to the instruction of the downlink selection signaling.</p>
+<p id="p0026" num="0026">Specifically, according to one aspect of the disclosure, the UE receives the downlink signaling to obtain the first configured frame structure. The downlink signaling is SIB or a physical layer signaling. The first configured frame structure is one of TDD UL/DL frame structure #{0,1,2,3,4,5,6}.</p>
+<p id="p0027" num="0027">The disclosure provides a method used in UE that supports D2D transmission under TDD system, comprising:
+<ul id="ul0004" list-style="none">
+<li>receiving a first D2D signaling to obtain a first configured frame structure;</li>
+<li>wherein the first configured frame structure indicates a uplink or downlink direction for all the subframes within one radio frame.</li>
+</ul></p>
+<p id="p0028" num="0028">Specifically, according to one aspect of the disclosure, the method further comprises:
+<ul id="ul0005" list-style="none">
+<li>selecting one (or more) suitable subframe (s) corresponding to the UL subframe of the first configured frame structure; and</li>
+<li>transmitting the D2D signals on the suitable subframe(s).</li>
+</ul></p>
+<p id="p0029" num="0029">Specifically, according to one aspect of the disclosure, the first D2D signaling is a physical layer signaling.</p>
+<p id="p0030" num="0030">Specifically, according to one aspect of the disclosure, the first configured frame structure is configured as UL subframes; or the first configured frame structure is one of TDD UL/DL frame structure #{0,1,2,3,4,5,6}.<!-- EPO <DP n="8"> --></p>
+<p id="p0031" num="0031">The disclosure provides a user equipment (UE) comprising:
+<ul id="ul0006" list-style="none">
+<li>a first module for receiving a downlink signaling to obtain a first configured frame structure, or determining a first configured frame structure by itself; and</li>
+<li>a second module for transmitting a first D2D signaling to indicate the first configured frame structure;</li>
+<li>wherein the first configured frame structure indicates a uplink or downlink direction for all the subframes within one radio frame.</li>
+</ul></p>
+<p id="p0032" num="0032">The UE comprises, but not limited to mobile phones, tablet computers, data cards, laptops, and etc.</p>
+<p id="p0033" num="0033">In one embodiment, the UE further comprises a third module for receiving a second D2D signaling to obtain a second configured frame structure; wherein the second configured frame structure indicates a uplink or downlink direction for all the subframes within one radio frame.</p>
+<p id="p0034" num="0034">In one embodiment, the UE further comprises
+<ul id="ul0007" list-style="none">
+<li>a fifth module for selecting a suitable subframe(s) out of the subframes corresponding to the UL subframes of the second configured frame structure; and</li>
+<li>a sixth module for transmitting the D2D signal on the suitable subframe.</li>
+</ul></p>
+<p id="p0035" num="0035">In one embodiment, the UE further comprises a fourth module for receiving the D2D signal in one (or more) subframe(s) out of the subframes corresponding to the UL subframe of the first configured frame structure.</p>
+<p id="p0036" num="0036">The disclosure solves the problem that the UE in D2D communication<!-- EPO <DP n="9"> --> cannot determine the subframe for D2D signal transmission in eIMTA scenario. Through allowing the UE to transmit the configured frame structure to assure the peer UE being able to determine the subframe(s) for transmitting D2D signal, the disclosure maximumly maintains the compatibility with the existing systems.</p>
+<heading id="h0005"><b>BRIEF DESCRIPTION OF THE DRAWINGS</b></heading>
+<p id="p0037" num="0037">The above and other exemplary aspects, features and advantages of certain exemplary embodiments of the present disclosure will be more apparent from the following description taken in conjunction with the accompanying drawings, in which:
+<ul id="ul0008" list-style="none">
+<li><figref idref="f0001">Fig. 1</figref> is a schematic diagram illustrating two UE in D2D communication camping on two different service cells respectively according to one embodiment of the present disclosure;</li>
+<li><figref idref="f0002">Fig. 2</figref> is a schematic diagram illustrating one UE in D2D communication is in the coverage of the service cell and the other UE in D2D communication is outside the coverage of the service cell according to one embodiment of the present disclosure;</li>
+<li><figref idref="f0003">Fig. 3</figref> is a schematic diagram illustrating two UE in D2D communication at the same service cell according to one embodiment of the present disclosure;</li>
+<li><figref idref="f0004">Fig. 4</figref> is a schematic flow chart illustrating the D2D communication according to one embodiment of the present disclosure;</li>
+<li><figref idref="f0005">Fig. 5</figref> is a block diagram illustrating the device transmitting the configured frame structure signaling in an user equipment according to one embodiment of the present disclosure; and<!-- EPO <DP n="10"> --></li>
+<li><figref idref="f0006">Fig. 6</figref> is a block diagram illustrating the device receiving the configured frame structure signaling in a user equipment according to one embodiment of the present disclosure.</li>
+</ul></p>
+<heading id="h0006"><b>DETAILED DESCRIPTION</b></heading>
+<p id="p0038" num="0038">The following description with reference to the accompanying drawings is provided to explain the exemplary embodiments of the disclosure. Note that in the case of no conflict, the embodiments of the present disclosure and the features of the embodiments may be arbitrarily combined with each other.</p>
+<heading id="h0007">Embodiment I</heading>
+<p id="p0039" num="0039">Embodiment I illustrates two UEs in D2D communication located at two different service cells, as shown in <figref idref="f0001">Fig. 1</figref>. In <figref idref="f0001">Fig. 1</figref>, the first UE 30 is in the coverage of the first service cell 10, and the second UE 40 is in the coverage of the second service cell 20. The first UE 30 and the second UE 40 perform D2D communication.</p>
+<p id="p0040" num="0040">For the first UE 30, in Step S103, the first UE 30 receives the SIB signaling of the first service cell 10 to obtain the configured frame structure of the first cell 10. In Step 304, the D2D signaling is transmitted to the second UE 40 to indicate the configured frame structure of the first cell 10. In Step S403, the D2D signaling from the second UE 40 is received to obtain the configured frame structure of the second cell 20.</p>
+<p id="p0041" num="0041">For the second UE 40, in Step S204, the common physical layer signaling of the second service cell 20 is received to obtain the configured frame structure of the second service cell 20. In Step 403, the D2D signaling is transmitted to the first UE 30 to indicate the configured frame structure of the second cell 20. In Step 304, the D2D<!-- EPO <DP n="11"> --> signaling from the first UE 30 is received to obtain configured frame structure of the first cell 10.</p>
+<p id="p0042" num="0042">In Embodiment I, the configured frame structure is TDD UL/DL frame structure, which is one of TDD UL/DL frame structure #{0,1,2,3,4,5,6}.</p>
+<heading id="h0008">Embodiment II</heading>
+<p id="p0043" num="0043">Embodiment II illustrates that one UE in D2D communication is in the coverage of the service cell and the other UE in D2D communication is outside the coverage of the service cell, as shown in <figref idref="f0002">Fig. 2</figref>. In <figref idref="f0002">Fig. 2</figref>, the first UE 30 is in the first service cell 10, and the second UE 40 is outside of the service cell. The first UE 30 and the second UE 40 perform D2D communication.</p>
+<p id="p0044" num="0044">For the first UE 30, in Step S103, the first UE 30 receives the SIB signaling of the first service cell 10 to obtain the configured frame structure of the first cell 10. In Step 403, the signaling from the second UE 40 is received to obtain the configured frame structure of the second UE 40.</p>
+<p id="p0045" num="0045">For the second UE 40, in Step 404, the frame structure of the second UE 40 is determined as uplink frame structure. The Step 404 is completed in the second UE 40. In Step S403, a signaling is transmitted to the first UE 30 to indicate the configured frame structure of the second UE 40. In Embodiment II, the first UE 30 is master, and the second UE 40 is slave.</p>
+<heading id="h0009">Embodiment III</heading>
+<p id="p0046" num="0046">Embodiment III illustrates that the two UEs in D2D communication are at the same cell, as shown in <figref idref="f0003">Fig. 3</figref>. In <figref idref="f0003">Fig. 3</figref>, the service cell for the third UE 60 and the<!-- EPO <DP n="12"> --> fourth</p>
+<p id="p0047" num="0047">UE 80 is the third service cell 50.</p>
+<p id="p0048" num="0048">For the fourth UE 80, in Step S401, the fourth UE 80 receives the SIB signaling of the third cell 50 to obtain the configured frame structure of the third cell 50, which is TDD UL/DL frame structure #0. In Step S601, the fourth UE 80 receives the D2D signaling from the third UE 60 to obtain the configured frame structure of the third UE 60, which is TDD UL/DL frame structure #4. In Step S801, the fourth UE 80 transmits the D2D signaling to indicate the configured frame structure as TDD UL/DL frame structure #0.</p>
+<p id="p0049" num="0049">For the third UE 60, in Step S402, the third UE 60 receives the downlink common physical layer signaling for eIMTA configured frame structure from the third cell to obtain the current configured frame structure of the third cell 50, which is TDD UL/DL frame structure #4. In Step S601, the third UE 60 transmits the D2D signaling to indicate the configured frame structure as TDD UL/DL frame structure #4. In Step S801, the third UE 60 receives the D2D signaling from the fourth UE 80 to obtain the configured frame structure of the fourth UE 80, which is TDD UL/DL frame structure #0.</p>
+<p id="p0050" num="0050">In Embodiment III, the fourth UE 80 is a non eIMTA configured UE. The third UE 60 is an eIMTA configured UE. Although they are in the same service cell, the configured frame structures of the fourth UE 80 and the third UE 60 are different.</p>
+<p id="p0051" num="0051">In another embodiment of Embodiment III, the D2D signaling is a physical layer signaling.</p>
+<heading id="h0010">Embodiment IV</heading>
+<p id="p0052" num="0052">Embodiment IV illustrates the process of D2D communication, as shown in <figref idref="f0004">Fig.<!-- EPO <DP n="13"> --> 4</figref>. In <figref idref="f0004">Fig. 4</figref>, the service cell for UE U1 is N1, and the service cell for UE U2 is N2. U1 and U2 perform D2D communication. In <figref idref="f0004">Fig. 4</figref>, the steps in the block F1 and the steps in the block F2 are optional.</p>
+<p id="p0053" num="0053">For U1, in Step S21, U1 receives the first downlink signaling transmitted from N1 to obtain the configured frame structure S1. In Step 22, the first D2D signaling is transmitted to indicate the configured frame structure S1. In Step S23, the second D2D signaling is received to obtain the configured frame structure S2.</p>
+<p id="p0054" num="0054">For U2, in Step S31, U2 receives the second downlink signaling transmitted from N2 to obtain the configured frame structure S2. In Step S32, the first D2D signaling is received to obtain the configured frame structure S1. In Step S33, the second D2D signaling is transmitted to indicate the configured frame structure S2.</p>
+<p id="p0055" num="0055">In Embodiment IV, the downlink signaling is SIB. The configured frame structure is one of TDD UL/DL frame structure #{0,1,2,3,4,5,6}.</p>
+<p id="p0056" num="0056">In an alternative embodiment of Embodiment IV, in Step S34, UE U2 selects a first subframe within the first subframe set (according to the instruction of N2 or by itself). In Step S35, the first D2D signal is transmitted on the first subframe. In Step S24, UE U1 receives the D2D signal on the first subframe.</p>
+<p id="p0057" num="0057">In the alternative embodiment of Embodiment IV, the first subframe set is a set composed of the subframes of the uplink subframe corresponding to S1.</p>
+<p id="p0058" num="0058">In an alternative embodiment of Embodiment IV, in Step S25, UE U1 selects a second subframe within the second subframe set (according to the instruction of N1 or by itself). In Step S26, the second D2D signal is transmitted on the second subframe. In Step S36, UE U2 receives the D2D signal on the second subframe.<!-- EPO <DP n="14"> --></p>
+<p id="p0059" num="0059">In the alternative embodiment of Embodiment IV, the second subframe set is a set composed of the subframes of the uplink subframe corresponding to S2.</p>
+<heading id="h0011">Embodiment V</heading>
+<p id="p0060" num="0060">Embodiment V illustrates a block diagram illustrating the device transmitting the configured frame structure signaling in a user equipment, as shown in <figref idref="f0005">Fig. 5</figref>. In <figref idref="f0005">Fig. 5</figref>, the device 100 transmitting the configured frame structure signaling comprises a processing module 101, a first transmitting module 102, and a first receiving module 103. The processing module 101 is for obtaining a first frame structure. For the UE within the coverage of the service cell, the processing module 101 obtains the first frame structure according to the downlink signaling of the service cell. For the UE outside of the coverage of the service cell, the processing module 101 determines the first frame structure as uplink frame structure itself. The first transmitting module 102 transmits the D2D signaling to indicate the first configured frame structure. The first receiving module 103 receives the D2D signal on the subframe of the uplink subframe corresponding to the first frame structure.</p>
+<p id="p0061" num="0061">In an alternative embodiment, the first frame structure is one of TDD UL/DL frame structure #{0,1,2,3,4,5,6}, which are uplink frame structure.</p>
+<heading id="h0012">Embodiment VI</heading>
+<p id="p0062" num="0062">Embodiment VI illustrates a block diagram illustrating the device receiving the configured frame structure signaling in a user equipment, as shown in <figref idref="f0006">Fig. 6</figref>. In <figref idref="f0006">Fig. 6</figref>, the device 200 receiving the configured frame structure signaling comprises a second receiving module 201, a selecting module 202 and a second transmitting module 203. The second receiving module 201 receives the D2D signaling to obtain the second<!-- EPO <DP n="15"> --> frame structure. The selecting module 202 selects a suitable subframe from the subframes of the uplink subframes corresponding the second frame structure. The second transmitting module 203 transmits the D2D signal on the suitable subframe.</p>
+<p id="p0063" num="0063">In an alternative embodiment, the second frame structure is one of TDD UL/DL frame structure #{0,1,2,3,4,5,6}.</p>
+<p id="p0064" num="0064">Those of ordinary skill will be appreciated that all or part of the above method may be accomplished by a program instructing related hardware. The program may be stored in a computer-readable storage medium, such as read-only memory, a hard disk or CD-ROM. Alternatively, all or part of the steps of the above-described embodiments may be accomplished by one or more integrated circuits. Accordingly, each module in the above-described embodiments may be accomplished by hardware implementation, or may also be realized by the form of software modules. The present disclosure is not limited to any particular form of combination of software and hardware.</p>
+<p id="p0065" num="0065">Although the present disclosure is illustrated and described with reference to specific embodiments, those skilled in the art will understand that many variations and modifications are readily attainable without departing from the scope thereof as defined by the appended claims and their legal equivalents.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="16"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>Method used in a User Equipment (40), UE, that supports Device to Device, D2D, communication in Time Division Duplex, TDD, system, comprising:
+<claim-text>receiving a downlink signaling (S21) to obtain a first configured frame structure, or determining a first configured frame structure by itself; and</claim-text>
+<claim-text>transmitting a first D2D signaling (S22) to indicate the first configured frame structure;</claim-text>
+<claim-text>receiving the D2D signals (S24) only in a subframe corresponding to the uplink subframe of the first configured frame structure,</claim-text>
+<claim-text>wherein the first configured frame structure is one of TDD Uplink/Downlink, UL/DL, frame structure #{0,1,2,3,4,5,6}.</claim-text></claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>Method according to claim 1, further comprising:<br/>
+receiving a second D2D signaling (S23) to obtain a second configured frame structure.</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>Method according to claim 2, comprising:
+<claim-text>selecting a suitable subframe out of the subframes corresponding to the UL subframe of the second configured frame structure (S25); and</claim-text>
+<claim-text>transmitting the D2D signals on the suitable subframe (S26).</claim-text></claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>Method according to any of the preceding claims, wherein the first D2D signaling is a physical layer signaling.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>Method used in a User Equipment (30), UE, that supports Device to Device, D2D, communication under Time Division Duplex, TDD, system, comprising:
+<claim-text>receiving a first D2D signaling to obtain a first configured frame structure (S32);</claim-text>
+<claim-text>wherein the first configured frame structure is one of TDD Uplink/Downlink, UL/DL, frame structure #{0,1,2,3,4,5,6};</claim-text>
+<claim-text>selecting a suitable subframe out of the subframes corresponding to the UL subframe of the first configured frame structure (S34); and</claim-text>
+<claim-text>transmitting D2D signals on the suitable subframe (S35).</claim-text><!-- EPO <DP n="17"> --></claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>Method according to claim 5, wherein the first D2D signaling is a physical layer signaling.</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>User equipment (100,200), UE, supporting Device to Device, D2D, communication in a Time Division Duplex, TDD, system, comprising:
+<claim-text>a first module (101) for receiving a downlink signaling to obtain a first configured frame structure, or determining a first configured frame structure by itself;</claim-text>
+<claim-text>a second module (102) for transmitting a first D2D signaling to indicate the first configured frame structure;</claim-text>
+<claim-text>a third module (103) for receiving D2D signals only on the subframe of the uplink, UL, subframe corresponding to the first configured frame structure,</claim-text>
+<claim-text>wherein the first configured frame structure is one of TDD Uplink/Downlink, UL/DL, frame structure #{0,1,2,3,4,5,6}.</claim-text></claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>User equipment according to claim 7, comprising:<br/>
+a fourth module (201) for receiving a second D2D signaling to obtain a second configured frame structure.</claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>User equipment according to claim 8, comprising:
+<claim-text>a fifth module (202) for selecting a suitable subframe out of the subframes corresponding to the UL subframe of the second configured frame structure; and</claim-text>
+<claim-text>a sixth module (203) for transmitting the D2D signals on the suitable subframe.</claim-text></claim-text></claim>
+<claim id="c-en-01-0010" num="0010">
+<claim-text>User equipment according to any of claims 7-9, wherein the first D2D signaling is a physical layer signaling.</claim-text></claim>
+</claims>
+<claims id="claims02" lang="de"><!-- EPO <DP n="18"> -->
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Verfahren, das in einem Benutzerendgerät (40), UE, verwendet wird, das Vorrichtung-zu-Vorrichtung (Device-to-Device-), D2D-, Kommunikation in einem Zeitduplex- (Time-Division-Duplex-), TDD-, System unterstützt, umfassend:
+<claim-text>Empfangen einer Downlink-Signalisierung (S21), um eine erste konfigurierte Rahmenstruktur zu erhalten, oder Bestimmen einer ersten konfigurierten Rahmenstruktur durch sich selbst; und</claim-text>
+<claim-text>Übertragen einerersten D2D-Signalisierung (S22), um die erste konfigurierte Rahmenstruktur anzuzeigen;</claim-text>
+<claim-text>Empfangen der D2D-Signale (S24) nur in einem Subrahmen, der dem Uplink-Subrahmen der ersten konfigurierten Rahmenstruktur entspricht,</claim-text>
+<claim-text>wobei die erste konfigurierte Rahmenstruktur eine von TDD-Uplink/Downlink-, UL/DL-, Rahmenstruktur #{0,1,2,3,4,5,6} ist.</claim-text></claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Verfahren nach Anspruch 1, weiter umfassend:<br/>
+Empfangen einer zweiten D2D-Signalisierung (S23), um eine zweite konfigurierte Rahmenstruktur zu erhalten.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Verfahren nach Anspruch 2, umfassend:
+<claim-text>Auswählen eines geeigneten Subrahmens aus den Subrahmen, die dem UL-Subrahmen der zweiten konfigurierten Rahmenstruktur (S25) entsprechen; und</claim-text>
+<claim-text>Übertragen der D2D-Signale auf dem geeigneten Subrahmen (S26).</claim-text></claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Verfahren nach einem der vorstehenden Ansprüche, wobei die erste D2D-Signalisierung eine Signalisierung der physikalischen Schicht ist.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Verfahren, das in einem Benutzerendgerät (30), UE, verwendet wird, das Vorrichtung-zu-Vorrichtung- (Device-to-Device-), D2D-, Kommunikation in einem Zeitduplex- (Time-Division-Duplex-), TDD-, System unterstützt, umfassend:<!-- EPO <DP n="19"> -->
+<claim-text>Empfangen einer ersten D2D-Signalisierung, um eine erste konfigurierte Rahmenstruktur (S32) zu erhalten;</claim-text>
+<claim-text>wobei die erste konfigurierte Rahmenstruktur eine von TDD-Uplink/Downlink-, UL/DL-, Rahmenstruktur #{0,1,2,3,4,5,6} ist;</claim-text>
+<claim-text>Auswählen eines geeigneten Subrahmens aus den Subrahmen, die dem UL-Subrahmen der ersten konfigurierten Rahmenstruktur (S34) entsprechen; und</claim-text>
+<claim-text>Übertragen von D2D-Signalen auf dem geeigneten Subrahmen (S35).</claim-text></claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Verfahren nach Anspruch 5, wobei die erste D2D-Signalisierung eine Signalisierung der physikalischen Schicht ist.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Benutzerendgerät (100, 200), UE, das Vorrichtung-zu-Vorrichtung- (Device-to-Device-), D2D-, Kommunikation in einem Zeitduplex- (Time-Division-Duplex-), TDD-, System unterstützt, umfassend:
+<claim-text>ein erstes Modul (101) Empfangen einer Downlink-Signalisierung, um eine erste konfigurierte Rahmenstruktur zu erhalten, oder Bestimmen einer ersten konfigurierten Rahmenstruktur durch sich selbst;</claim-text>
+<claim-text>ein zweites Modul (102) zum Übertragen einer ersten D2D-Signalisierung, um die erste konfigurierte Rahmenstruktur anzuzeigen;</claim-text>
+<claim-text>ein drittes Modul (103) zum Empfangen von D2D-Signalen nur auf dem Subrahmen des Uplink-, UL-, Subrahmens, der der ersten konfigurierten Rahmenstruktur entspricht,</claim-text>
+<claim-text>wobei die erste konfigurierte Rahmenstruktur eine von TDD-Uplink/Downlink-, UL/DL-, Rahmenstruktur #{0,1,2,3,4,5,6} ist.</claim-text></claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Benutzerendgerät nach Anspruch 7, umfassend:<br/>
+ein viertes Modul (201) zum Empfangen einer zweiten D2D-Signalisierung, um eine zweite konfigurierte Rahmenstruktur zu erhalten.</claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Benutzerendgerät nach Anspruch 8, umfassend:<!-- EPO <DP n="20"> -->
+<claim-text>ein fünftes Modul (202) zum Auswählen eines geeigneten Subrahmens aus den Subrahmen, die dem UL-Subrahmen der zweiten konfigurierten Rahmenstruktur entsprechen; und</claim-text>
+<claim-text>ein sechstes Modul (203) zum Übertragen der D2D-Signale auf dem geeigneten Subrahmen.</claim-text></claim-text></claim>
+<claim id="c-de-01-0010" num="0010">
+<claim-text>Benutzerendgerät nach einem der Ansprüche 7-9, wobei die erste D2D-Signalisierung eine Signalisierung der physikalischen Schicht ist.</claim-text></claim>
+</claims>
+<claims id="claims03" lang="fr"><!-- EPO <DP n="21"> -->
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Procédé utilisé dans un équipement utilisateur (40), UE, qui prend en charge une communication de dispositif à dispositif, D2D, dans un système en duplex par séparation temporelle, TDD, comprenant :
+<claim-text>la réception d'une signalisation de liaison descendante (S21) pour obtenir une première structure de trame configurée, ou la détermination d'une première structure de trame configurée, par elle-même ; et</claim-text>
+<claim-text>l'émission d'une première signalisation D2D (S22) pour indiquer la première structure de trame configurée ;</claim-text>
+<claim-text>la réception des signaux D2D (S24) uniquement dans une sous-trame correspondant à la sous-trame de liaison montante de la première structure de trame configurée,</claim-text>
+<claim-text>dans lequel la première structure de trame configurée est l'une parmi les structures de trame en TDD de liaison montante/de liaison descendante, UL/DL, n° {0,1,2,3,4,5,6}.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Procédé selon la revendication 1, comprenant en outre :<br/>
+la réception d'une seconde signalisation D2D (S23) pour obtenir une seconde structure de trame configurée.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Procédé selon la revendication 2, comprenant :
+<claim-text>la sélection d'une sous-trame appropriée parmi les sous-trames correspondant à la sous-trame d'UL de la seconde structure de trame configurée (S25) ; et</claim-text>
+<claim-text>l'émission des signaux D2D sur la sous-trame appropriée (S26).</claim-text></claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Procédé selon l'une quelconque des revendications précédentes, dans lequel la première signalisation D2D est une signalisation de couche physique.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Procédé utilisé dans un équipement utilisateur (30), UE, qui prend en charge une communication de dispositif à dispositif, D2D, sous un système en duplex par séparation temporelle, TDD, comprenant :
+<claim-text>la réception d'une première signalisation D2D pour obtenir une première structure de trame configurée (S32) ;<!-- EPO <DP n="22"> --></claim-text>
+<claim-text>dans lequel la première structure de trame configurée est l'une parmi les structures de trame en TDD de liaison montante/de liaison descendante, UL/DL, n° {0,1,2,3,4,5,6} ;</claim-text>
+<claim-text>la sélection d'une sous-trame appropriée parmi les sous-trames correspondant à la sous-trame d'UL de la première structure de trame configurée (S34) ; et</claim-text>
+<claim-text>l'émission de signaux D2D sur la sous-trame appropriée (S35).</claim-text></claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Procédé selon la revendication 5, dans lequel la première signalisation D2D est une signalisation de couche physique.</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Équipement utilisateur (100, 200), UE, prenant en charge une communication de dispositif à dispositif, D2D, dans un système en duplex par séparation temporelle, TDD, comprenant :
+<claim-text>un premier module (101) pour recevoir une signalisation de liaison descendante pour obtenir une première structure de trame configurée, ou déterminer une première structure de trame configurée, par elle-même ;</claim-text>
+<claim-text>un deuxième module (102) pour émettre une première signalisation D2D pour indiquer la première structure de trame configurée ;</claim-text>
+<claim-text>un troisième module (103) pour recevoir des signaux D2D uniquement sur la sous-trame de la sous-trame de liaison montante, UL, correspondant à la première structure de trame configurée,</claim-text>
+<claim-text>dans lequel la première structure de trame configurée est l'une parmi les structures de trame en TDD de liaison montante/de liaison descendante, UL/DL, n° {0,1,2,3,4,5,6}.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Équipement utilisateur selon la revendication 7, comprenant :<br/>
+un quatrième module (201) pour recevoir une seconde signalisation D2D pour obtenir une seconde structure de trame configurée.</claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Équipement utilisateur selon la revendication 8, comprenant :
+<claim-text>un cinquième module (202) pour sélectionner une sous-trame appropriée parmi les sous-trames correspondant à la sous-trame d'UL de la seconde structure de trame configurée ; et</claim-text>
+<claim-text>un sixième module (203) pour émettre les signaux D2D sur la sous-trame appropriée.</claim-text><!-- EPO <DP n="23"> --></claim-text></claim>
+<claim id="c-fr-01-0010" num="0010">
+<claim-text>Équipement utilisateur selon l'une quelconque des revendications 7 à 9, dans lequel la première signalisation D2D est une signalisation de couche physique.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="24"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="111" he="104" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="25"> -->
+<figure id="f0002" num="2"><img id="if0002" file="imgf0002.tif" wi="115" he="108" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="26"> -->
+<figure id="f0003" num="3"><img id="if0003" file="imgf0003.tif" wi="115" he="113" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="27"> -->
+<figure id="f0004" num="4"><img id="if0004" file="imgf0004.tif" wi="157" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="28"> -->
+<figure id="f0005" num="5"><img id="if0005" file="imgf0005.tif" wi="112" he="104" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="29"> -->
+<figure id="f0006" num="6"><img id="if0006" file="imgf0006.tif" wi="136" he="86" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+</ep-patent-document>

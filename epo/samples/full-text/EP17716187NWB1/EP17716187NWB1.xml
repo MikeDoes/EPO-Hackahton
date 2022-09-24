@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP17716187B1" file="EP17716187NWB1.xml" lang="en" country="EP" doc-number="3443196" kind="B1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSK..HRIS..MTNORS..SM..................</B001EP><B003EP>*</B003EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  2100000/0</B007EP></eptags></B000><B100><B110>3443196</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>17716187.4</B210><B220><date>20170405</date></B220><B240><B241><date>20181114</date></B241><B242><date>20190902</date></B242></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>201606552</B310><B320><date>20160414</date></B320><B330><ctry>GB</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20190220</date><bnum>201908</bnum></B430><B450><date>20211006</date><bnum>202140</bnum></B450><B452EP><date>20210510</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>E21B  43/01        20060101AFI20171020BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>B01D  53/00        20060101ALI20171020BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>E21B  43/34        20060101ALI20171020BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>F28B   3/00        20060101ALI20171020BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>E21B  43/34        20130101 LI20170607BHEP        </text></classification-cpc><classification-cpc sequence="2"><text>E21B  43/01        20130101 FI20170607BHEP        </text></classification-cpc><classification-cpc sequence="3"><text>F28C   3/005       20130101 LI20171127BHEP        </text></classification-cpc><classification-cpc sequence="4"><text>F28F   3/02        20130101 LI20171127BHEP        </text></classification-cpc><classification-cpc sequence="5"><text>B01D  53/265       20130101 LI20180727BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>NASSGASKONDENSATOR</B542><B541>en</B541><B542>WET GAS CONDENSER</B542><B541>fr</B541><B542>UN CONDENSEUR DE GAZ HUMIDE</B542></B540><B560><B561><text>US-A1- 2002 120 172</text></B561><B561><text>US-A1- 2005 274 515</text></B561><B561><text>US-A1- 2010 147 056</text></B561><B561><text>US-A1- 2010 242 732</text></B561><B561><text>US-B1- 6 774 276</text></B561></B560></B500><B700><B720><B721><snm>STONE, Matthew Edmund</snm><adr><str>2 High Street</str><city>Nailsea
+Bristol BS48 1BS</city><ctry>GB</ctry></adr></B721></B720><B730><B731><snm>GE Oil &amp; Gas UK Limited</snm><iid>101499874</iid><irf>53NAP-286031-EP-3</irf><adr><str>2 High Street</str><city>Nailsea
+Bristol BS48 1BS</city><ctry>GB</ctry></adr></B731></B730><B740><B741><snm>BRP Renaud &amp; Partner mbB 
+Rechtsanwälte Patentanwälte 
+Steuerberater</snm><iid>100060892</iid><adr><str>Königstraße 28</str><city>70173 Stuttgart</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B860><B861><dnum><anum>EP2017058143</anum></dnum><date>20170405</date></B861><B862>en</B862></B860><B870><B871><dnum><pnum>WO2017178305</pnum></dnum><date>20171019</date><bnum>201742</bnum></B871></B870></B800></SDOBI>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001"><u>Field of the Invention</u></heading>
+<p id="p0001" num="0001">This invention relates to a gas production line including a wet gas condenser, for example in a subsea hydrocarbon extraction facility. The invention also relates to a method of removing water vapour from a wet gas flow in a gas production line.</p>
+<p id="p0002" num="0002">In the following specification the term 'wet gas' is intended to mean a gas comprising water vapour.</p>
+<heading id="h0002"><u>Background of the Invention</u></heading>
+<p id="p0003" num="0003">In gas production lines, for example in subsea hydrocarbon extraction facilities, hot gases may be passed through pipelines in relatively cool ambient environments. If these gasses contain water vapour the temperature difference may cause said vapour to condense into liquid form inside the pipeline. A large build-up of this liquid water can result in the formation of a so-called water plug, which can obstruct the passage of gas through the production line.</p>
+<p id="p0004" num="0004">In the prior art, the problem of water plugs in subsea pipelines has been overcome through intervention, typically by a remotely operated underwater vehicle (ROV), to drain the liquid water from the pipeline and remove the plug. This solution is generally undesirable, as it is time consuming and costly to perform any kind of subsea intervention.</p>
+<p id="p0005" num="0005">The present invention aims to overcome some of the problems associated with prior art gas production lines.</p>
+<p id="p0006" num="0006"><patcit id="pcit0001" dnum="US2010242732A1"><text>US 2010/242732 A1</text></patcit> discloses a gas dehydrator with an input, an output, a condensation surface and a basin to received condensed water draining from the surface. <patcit id="pcit0002" dnum="US2002120172A1"><text>US 2002/120172 A1</text></patcit> is considered as disclosing the features of the preamble to claims 1 and 8.</p>
+<p id="p0007" num="0007">As prior art there may be mentioned <patcit id="pcit0003" dnum="WO2000040835A"><text>WO2000040835</text></patcit>, which discloses a method of accelerating a gas flow to lower its temperature and pressure to below the condensation point of some of its heavier gaseous components, <patcit id="pcit0004" dnum="US6703534B"><text>US6703534</text></patcit>, which discloses a subsea heat exchanger, <patcit id="pcit0005" dnum="US9068451B"><text>US9068451</text></patcit>, which discloses a method of separating hydrocarbons in a fluid flow, <patcit id="pcit0006" dnum="US8978769B"><text>US8978769</text></patcit>, which discloses an offshore<!-- EPO <DP n="2"> --> hydrocarbon cooling system, <patcit id="pcit0007" dnum="US5442924A"><text>US5442924</text></patcit>, which discloses a method of removing condensates from a natural gas flow through filtration, and "<nplcit id="ncit0001" npl-type="s" url="https://www.onepetro.org/conference-paper/SPE-100442-MS"><text>Selective Removal of Water From Supercritical Natural Gas" by Anahid Karimi et al (accessible at https://www.onepetro.org/conference-paper/SPE-100442-MS</text></nplcit><u>)</u>, which discloses a simulation model to predict the efficiency of the removal of water from a hydrocarbon flow under various flow conditions.</p>
+<heading id="h0003"><u>Summary of the Invention</u></heading>
+<p id="p0008" num="0008">The present invention is defined in the accompanying claims.</p>
+<p id="p0009" num="0009">According to the present invention from one aspect, there is provided a gas production line comprising:
+<ul id="ul0001" list-style="none">
+<li>an inlet;</li>
+<li>an outlet; and</li>
+<li>a wet gas condenser connected between the inlet and the outlet, wherein the wet gas condenser comprises:
+<ul id="ul0002" list-style="none">
+<li>a condensing chamber;</li>
+<li>a condensing surface; and</li>
+<li>a collecting chamber,</li>
+<li>wherein, in use, water vapour in wet gas passing over the condensing surface is condensed into liquid water,</li>
+<li>said liquid water flowing along a predetermined flow path into the collecting chamber.</li>
+</ul></li>
+</ul></p>
+<p id="p0010" num="0010">According to the present invention from a second aspect, there is provided a method of removing water vapour from a wet gas flow in a gas production line, the method comprising the steps of:
+<ul id="ul0003" list-style="none">
+<li>providing a wet gas condenser comprising a condensing chamber, a condensing surface and a collecting chamber;<!-- EPO <DP n="3"> --></li>
+<li>connecting an inlet of the gas production line to the wet gas condenser;</li>
+<li>connecting an outlet of the gas production line to the wet gas condenser; and</li>
+<li>arranging the wet gas condenser such that water vapour in wet gas passing over the condensing surface is condensed into liquid water, said liquid water flowing along a predetermined flow path into the collecting chamber.</li>
+</ul></p>
+<p id="p0011" num="0011">The predetermined flow path could be defined by the influence of gravity, or a predicted migration path under the influence of the gas flow.</p>
+<p id="p0012" num="0012">The condensing surface could extend through a wall of the condensing chamber to be in thermal contact with the environment outside the condensing chamber.</p>
+<p id="p0013" num="0013">The condenser comprises a pump operable to pump water from the collecting chamber to a further location. The condenser comprises a water sensor attached to a wall of the collecting chamber. The water sensor is in communication with control circuitry to activate and deactivate the pump. The control circuitry could be configured to activate the pump when the water sensor detects the presence of water in its proximate area. The condenser could comprise a second water sensor attached to a wall of the collecting chamber. The second water sensor could be in communication with the control circuitry. The control circuitry could be configured to deactivate the pump when the second water sensor detects the absence of water in its proximate area.</p>
+<p id="p0014" num="0014">The control circuitry could be located in a subsea electronics module or in a topside control station.</p>
+<p id="p0015" num="0015">According to the present invention from a third aspect, there is provided a hydrocarbon extraction facility including a gas production line as defined above.</p>
+<heading id="h0004"><u>Brief Description of the Drawings</u></heading>
+<p id="p0016" num="0016"><figref idref="f0001">Fig. 1</figref> schematically shows a gas production line according to the invention.<!-- EPO <DP n="4"> --></p>
+<heading id="h0005"><u>Detailed Description of the Invention</u></heading>
+<p id="p0017" num="0017"><figref idref="f0001">Fig. 1</figref> shows a gas production line 1. A flow of gas flows from an inlet 2 to an outlet 3. The inlet may be connected to a subsea hydrocarbon well. The outlet may be connected to a riser for transmitting the gas flow to a surface location.</p>
+<p id="p0018" num="0018">The gas production line 1 comprises a condensing chamber 4 connected between the inlet 2 and the outlet 3. The inlet comprises a flanged connector 5a which is connected to a cooperating flanged connector 5b on the condensing chamber 4. The condensing chamber 4 comprises a further flanged connector 6a which is connected to a cooperating flanged connector 6b on the outlet 3.</p>
+<p id="p0019" num="0019">The condensing chamber 4 comprises a condensing surface 7. As can be seen in <figref idref="f0001">Fig. 1</figref>, the condensing surface 7 extends through a wall of the condensing chamber 4. This allows the temperature of the ambient environment outside the condensing chamber, i.e. the subsea ambient environment, to be in thermal contact with the condensing surface 7. As the ambient environment is typically cooler than the temperature of the gas flow in the gas production line, this enhances the effectiveness of the condensing surface 7.</p>
+<p id="p0020" num="0020">The condensing surface 7 could take any suitable form. In general, desirable attributes are:
+<ol id="ol0001" ol-style="">
+<li>i) large surface area presented to gas flow - for example, a network of thin fins, wires or filaments;</li>
+<li>ii) not obtrusive to gas flow - for example, a large number of apertures to allow high velocity gas to pass through the surface; and</li>
+<li>iii) provides a predetermined flow path for condensed moisture - for example, a wick, or multiple wicks, to guide water droplets towards the condensing chamber in a predictable, predetermined flow path, either under the influence or gravity, under the influence of the gas flow, or under the influence of both.</li>
+</ol><!-- EPO <DP n="5"> --></p>
+<p id="p0021" num="0021">The condensing surface should also be constructed to avoid the collection of debris from the gas flow. For example, a low-friction coating could be applied to the condensing surface. Additionally or alternatively, the condensing surface could have one or more redundant surface to deflect debris that would otherwise collect in an aperture of the condensing surface.</p>
+<p id="p0022" num="0022">If the flow of gas in the gas production line 1 contains moisture in vapour form, this will condense on the condensing surface 7. From here, the condensed moisture will flow down under gravity, as indicated by arrow 9, into a collecting chamber 8. Collected water accumulates at the bottom of the collecting chamber 8 as indicated by reference numeral 10.</p>
+<p id="p0023" num="0023">A pair of sensors are connected to the collecting chamber 8: a 'start' sensor 11 and a 'stop' sensor 12. The sensors are connected to a wall of the collecting chamber 8 and are operable to sense the presence of liquid water in the area proximate the sensor. Exemplary sensors include conducive resistance probes, acoustic detectors, mass detectors and proximity proves such as infrared (IR) beam emitters and detectors.</p>
+<p id="p0024" num="0024">Both sensors are in communication with a processor (not shown) which contains control circuitry to operate a pump 13. Said processor could be located subsea, for example in a subsea electronics module (SEM), or at a topside location, for example in a topside control station (TCS), said communication taking place via communication lines in an umbilical.</p>
+<p id="p0025" num="0025">The control circuitry operates on the following logic: once the 'start' sensor 11 detects that water has reached a maximum level at the top of the collecting chamber 8, the pump 13 is instructed to pump water out of the bottom of the collecting chamber. The arrow 14 represents the movement of water out of the bottom of the collecting chamber 8 to the pump 13, and arrow 15 represents the movement of water from the pump 13 to a further location, e.g. the ambient subsea environment, a return line, a fluid re-injection line, or a waste disposal system. Once the 'stop' sensor 12 no longer senses the presence of water in its proximate area, the water has fallen to an acceptably low level and so the pump 13 is instructed to stop pumping water from the bottom of the collecting chamber 8.<!-- EPO <DP n="6"> --></p>
+<p id="p0026" num="0026">The processor could also comprise a data storage to log the frequency with which the collecting chamber 8 is emptied. The stored data could be used to infer changes in the composition of the gas flow in the gas line (e.g. water vapour content) over time. The inferred change in gas flow composition can be used as part of a wider well management strategy. For example, if the data shows that the water build-up rate is increasing, this may mean that there is a higher hydrate risk. Corrective action could then be taken, such as decreasing the pressure in the well.</p>
+<p id="p0027" num="0027">While the invention has been described above with respect to a, this is exemplary only and the invention is not so limited. For example, while the condensing surface 7 is shown as being vertical in <figref idref="f0001">Fig. 1</figref>, the condensing surface could be angled, and condensed moisture could flow along a predicted migration path along the condensing surface under the influence of the gas flow. Such an arrangement can have the benefit that a larger total surface area is presented to the gas flow, compared to a condensing surface that is perpendicular to the gas flow, and so a larger volume of moisture can be condensed.</p>
+<p id="p0028" num="0028">Another benefit is that an angled condensing surface will generally introduce less turbulence into the gas flow, as the flow of gas will be deflected less by an angled condensing surface compared to a perpendicular condensing surface.</p>
+<p id="p0029" num="0029">Another modification is that the invention may form part of a water injection system for an underwater hydrocarbon extraction facility. The condensed water may be used in place of water inserted from the surface. This can act to reduce the amount of water that is required to be inserted for the surface, or replace such water entirely, meaning that costly topside water injection systems can be removed completely in some cases.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="7"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A gas production line (1) comprising:
+<claim-text>an inlet (2);</claim-text>
+<claim-text>an outlet (3); and</claim-text>
+<claim-text>a wet gas condenser connected between the inlet (2) and the outlet (3), wherein the wet gas condenser comprises:
+<claim-text>a condensing chamber (4);</claim-text>
+<claim-text>a condensing surface (7); and</claim-text>
+<claim-text>a collecting chamber (8),</claim-text></claim-text>
+<claim-text>wherein, in use, water vapour in wet gas passing over the condensing surface (7) is condensed into liquid water,</claim-text>
+<claim-text>said liquid water flowing along a predetermined flow path into the collecting chamber (8);</claim-text>
+<claim-text><b>characterized in that</b> the condenser comprises a pump (13) operable to pump water from the collecting chamber (8) to a further location; and</claim-text>
+<claim-text>wherein the condenser comprises a water sensor (11,12) attached to a wall of the collecting chamber (8), wherein the water sensor (11,12) is in communication with control circuitry to activate and deactivate the pump (13).</claim-text></claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>A gas production line according to claim 1, wherein the condensing surface (7) extends through a wall of the condensing chamber (4) to be in thermal contact with the environment outside the condensing chamber.</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>A gas production line according to claim 1 or claim 2, wherein the control circuitry is configured to activate the pump (13) when the water sensor (11) detects the presence of water in its proximate area.<!-- EPO <DP n="8"> --></claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>A gas production line according to claim 3, wherein the condenser comprises a second water sensor (12) attached to a wall of the collecting chamber.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>A gas production line according to claim 4, wherein the second water sensor (12) is in communication with the control circuitry.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>A gas production line according to claim 5, wherein the control circuitry is configured to deactivate the pump (13) when the second water sensor (12) detects the absence of water in its proximate area.</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>A hydrocarbon extraction facility including a gas production line according to any preceding claim.</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>A method of removing water vapour from a wet gas flow in a gas production line, the method comprising the steps of:
+<claim-text>providing a wet gas condenser comprising a condensing chamber (4), a condensing surface (7) and a collecting chamber (8);</claim-text>
+<claim-text>connecting an inlet (2) of the gas production line to the wet gas condenser;</claim-text>
+<claim-text>connecting an outlet (3) of the gas production line to the wet gas condenser, the wet gas condenser being connected between the inlet (2) and the outlet (3); and</claim-text>
+<claim-text>arranging the wet gas condenser such that water vapour in wet gas passing over the condensing surface (7) is condensed into liquid water, said liquid water flowing along a predetermined flow path into the collecting chamber (8);</claim-text>
+<claim-text><b>characterized in that</b> the condenser comprises a pump (13) operable to pump water from the collecting chamber (8) to a further location; and</claim-text>
+<claim-text>wherein the condenser comprises a water sensor (11,12) attached to a wall of the collecting chamber (8), wherein the water sensor (11,12) is in communication with control circuitry to activate and deactivate the pump (13).</claim-text><!-- EPO <DP n="9"> --></claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>A method according to claim 8, wherein the condensing surface (7) extends through a wall of the condensing chamber (4) to be in thermal contact with the environment outside the condensing chamber (4).</claim-text></claim>
+</claims>
+<claims id="claims02" lang="de"><!-- EPO <DP n="10"> -->
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Gasproduktionslinie (1), umfassend:
+<claim-text>einen Einlass (2);</claim-text>
+<claim-text>einen Auslass (3); und</claim-text>
+<claim-text>einen Nassgaskondensator, der zwischen dem Einlass (2) und dem Auslass (3) verbunden ist, wobei der Nassgaskondensator umfasst:
+<claim-text>eine Kondensationskammer (4);</claim-text>
+<claim-text>eine Kondensationsfläche (7); und</claim-text>
+<claim-text>eine Sammelkammer (8),</claim-text></claim-text>
+<claim-text>wobei im Gebrauch Wasserdampf in nassem Gas, das über die Kondensationsfläche (7) strömt, zu flüssigem Wasser kondensiert wird,</claim-text>
+<claim-text>wobei das flüssige Wasser entlang eines vorbestimmten Strömungswegs in die Sammelkammer (8) strömt;</claim-text>
+<claim-text><b>dadurch gekennzeichnet, dass</b> der Kondensator eine Pumpe (13) umfasst, die betreibbar ist, um Wasser von der Sammelkammer (8) zu einer weiteren Stelle zu pumpen; und</claim-text>
+<claim-text>wobei der Kondensator einen Wassersensor (11, 12) umfasst, der an einer Wand der Sammelkammer (8) angebracht ist, wobei der Wassersensor (11, 12) mit einer Steuerschaltung in Verbindung steht, um die Pumpe (13) zu aktivieren und zu deaktivieren.</claim-text></claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Gasproduktionslinie nach Anspruch 1, wobei sich die Kondensationsfläche (7) durch eine Wand der Kondensationskammer (4) erstreckt, um in thermischem Kontakt mit der Umgebung außerhalb der Kondensationskammer zu stehen.<!-- EPO <DP n="11"> --></claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Gasproduktionslinie nach Anspruch 1 oder Anspruch 2, wobei die Steuerschaltung dafür konfiguriert ist, um die Pumpe (13) zu aktivieren, wenn der Wassersensor (11) das Vorhandensein von Wasser in seiner näheren Umgebung erfasst.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Gasproduktionslinie nach Anspruch 3, wobei der Kondensator einen zweiten Wassersensor (12) umfasst, der an einer Wand der Sammelkammer angebracht ist.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Gasproduktionslinie nach Anspruch 4, wobei der zweite Wassersensor (12) mit der Steuerschaltung in Verbindung steht.</claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Gasproduktionslinie nach Anspruch 5, wobei die Steuerschaltung dafür konfiguriert ist, um die Pumpe (13) zu deaktivieren, wenn der zweite Wassersensor (12) das Fehlen von Wasser in seinem nahen Bereich erfasst.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Kohlenwasserstoffextraktionsanlage einschließlich einer Gasproduktionslinie nach einem der vorhergehenden Ansprüche.</claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Verfahren zum Entfernen von Wasserdampf aus einem Nassgasstrom in einer Gasproduktionslinie, wobei das Verfahren die folgenden Schritte umfasst:
+<claim-text>Bereitstellen eines Nassgaskondensators, der eine Kondensationskammer (4), eine Kondensationsfläche (7) und eine Sammelkammer (8) umfasst;</claim-text>
+<claim-text>Verbinden eines Einlasses (2) der Gasproduktionsleitung mit dem Nassgaskondensator;</claim-text>
+<claim-text>Verbinden eines Auslasses (3) der Gasproduktionsleitung mit dem Nassgaskondensator, wobei der Nassgaskondensator zwischen dem Einlass (2) und dem Auslass (3) verbunden ist; und</claim-text>
+<claim-text>Anordnen des Nassgaskondensators derart, dass Wasserdampf in Nassgas, das über die Kondensationsfläche (7) strömt, zu flüssigem Wasser kondensiert wird, wobei das flüssige Wasser entlang eines vorbestimmten Strömungswegs in die Sammelkammer (8) strömt;<!-- EPO <DP n="12"> --></claim-text>
+<claim-text><b>dadurch gekennzeichnet, dass</b> der Kondensator eine Pumpe (13) umfasst, die betreibbar ist, um Wasser von der Sammelkammer (8) zu einer weiteren Stelle zu pumpen; und</claim-text>
+<claim-text>wobei der Kondensator einen Wassersensor (11, 12) umfasst, der an einer Wand der Sammelkammer (8) angebracht ist, wobei der Wassersensor (11, 12) mit einer Steuerschaltung in Verbindung steht, um die Pumpe (13) zu aktivieren und zu deaktivieren.</claim-text></claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Verfahren nach Anspruch 8, wobei sich die Kondensationsfläche (7) durch eine Wand der Kondensationskammer (4) erstreckt, um in thermischem Kontakt mit der Umgebung außerhalb der Kondensationskammer (4) zu stehen.</claim-text></claim>
+</claims>
+<claims id="claims03" lang="fr"><!-- EPO <DP n="13"> -->
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Ligne de production de gaz (1) comprenant :
+<claim-text>une entrée (2) ;</claim-text>
+<claim-text>une sortie (3) ; et</claim-text>
+<claim-text>un condenseur de gaz humide relié entre l'entrée (2) et la sortie (3), le condenseur de gaz humide comprenant :
+<claim-text>une chambre de condensation (4) ;</claim-text>
+<claim-text>une surface de condensation (7) ; et</claim-text>
+<claim-text>une chambre de collecte (8),</claim-text></claim-text>
+<claim-text>dans laquelle, lors de l'utilisation, la vapeur d'eau présente dans le gaz humide qui passe sur la surface de condensation (7) est condensée en eau liquide,</claim-text>
+<claim-text>ladite eau liquide s'écoulant le long d'un trajet d'écoulement prédéterminé dans la chambre de collecte (8) ;</claim-text>
+<claim-text><b>caractérisée en ce que</b> le condenseur comprend une pompe (13) pouvant fonctionner pour pomper de l'eau de la chambre de collecte (8) vers un autre emplacement ; et</claim-text>
+<claim-text>dans laquelle le condenseur comprend un capteur d'eau (11, 12) fixé à une paroi de la chambre de collecte (8), le capteur d'eau (11, 12) étant en communication avec un circuit de commande pour activer et désactiver la pompe (13).</claim-text></claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Ligne de production de gaz selon la revendication 1, dans laquelle la surface de condensation (7) s'étend au travers d'une paroi de la chambre de condensation (4) pour être en contact thermique avec l'environnement à l'extérieur de la chambre de condensation.<!-- EPO <DP n="14"> --></claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Ligne de production de gaz selon la revendication 1 ou la revendication 2, dans laquelle le circuit de commande est configuré pour activer la pompe (13) lorsque le capteur d'eau (11) détecte la présence d'eau dans la région à proximité de lui.</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Ligne de production de gaz selon la revendication 3, dans laquelle le condenseur comprend un second capteur d'eau (12) fixé à une paroi de la chambre de collecte.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Ligne de production de gaz selon la revendication 4, dans laquelle le second capteur d'eau (12) est en communication avec le circuit de commande.</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Ligne de production de gaz selon la revendication 5, dans laquelle le circuit de commande est configuré pour désactiver la pompe (13) lorsque le second capteur d'eau (12) détecte l'absence d'eau dans la région à proximité de lui.</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Installation d'extraction d'hydrocarbures incluant une ligne de production de gaz selon l'une quelconque revendication précédente.</claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Procédé d'élimination de vapeur d'eau d'un flux de gaz humide dans une ligne de production de gaz, le procédé comprenant les étapes consistant à :
+<claim-text>fournir un condenseur de gaz humide comprenant une chambre de condensation (4), une surface de condensation (7) et une chambre de collecte (8) ;</claim-text>
+<claim-text>raccorder une entrée (2) de la ligne de production de gaz au condenseur de gaz humide ;</claim-text>
+<claim-text>raccorder une sortie (3) de la ligne de production de gaz au condenseur de gaz humide, le condenseur de gaz humide étant raccordé entre l'entrée (2) et la sortie (3) ; et</claim-text>
+<claim-text>disposer le condenseur de gaz humide de telle sorte que la vapeur d'eau dans le gaz humide qui passe sur la surface de condensation (7) soit condensée en eau liquide, ladite eau liquide s'écoulant le long d'un trajet d'écoulement prédéterminé dans la chambre de collecte (8) ;<!-- EPO <DP n="15"> --></claim-text>
+<claim-text><b>caractérisé en ce que</b> le condenseur comprend une pompe (13) pouvant fonctionner pour pomper de l'eau de la chambre de collecte (8) vers un autre emplacement ; et</claim-text>
+<claim-text>dans lequel le condenseur comprend un capteur d'eau (11, 12) fixé à une paroi de la chambre de collecte (8), le capteur d'eau (11, 12) étant en communication avec un circuit de commande pour activer et désactiver la pompe (13).</claim-text></claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Procédé selon la revendication 8, dans lequel la surface de condensation (7) s'étend au travers d'une paroi de la chambre de condensation (4) pour être en contact thermique avec l'environnement à l'extérieur de la chambre de condensation (4).</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="16"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="162" he="152" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="US2010242732A1"><document-id><country>US</country><doc-number>2010242732</doc-number><kind>A1</kind></document-id></patcit><crossref idref="pcit0001">[0006]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="US2002120172A1"><document-id><country>US</country><doc-number>2002120172</doc-number><kind>A1</kind></document-id></patcit><crossref idref="pcit0002">[0006]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="WO2000040835A"><document-id><country>WO</country><doc-number>2000040835</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0003">[0007]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="US6703534B"><document-id><country>US</country><doc-number>6703534</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0004">[0007]</crossref></li>
+<li><patcit id="ref-pcit0005" dnum="US9068451B"><document-id><country>US</country><doc-number>9068451</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0005">[0007]</crossref></li>
+<li><patcit id="ref-pcit0006" dnum="US8978769B"><document-id><country>US</country><doc-number>8978769</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0006">[0007]</crossref></li>
+<li><patcit id="ref-pcit0007" dnum="US5442924A"><document-id><country>US</country><doc-number>5442924</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0007">[0007]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="s" url="https://www.onepetro.org/conference-paper/SPE-100442-MS"><article><author><name>ANAHID KARIMI et al.</name></author><atl/><serial><sertitle>Selective Removal of Water From Supercritical Natural Gas</sertitle></serial></article></nplcit><crossref idref="ncit0001">[0007]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP17763547B1" file="EP17763547NWB1.xml" lang="en" country="EP" doc-number="3427822" kind="B1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSK..HRIS..MTNORS..SM..................</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  2100000/0</B007EP></eptags></B000><B100><B110>3427822</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>17763547.1</B210><B220><date>20170307</date></B220><B240><B241><date>20180921</date></B241><B242><date>20210113</date></B242></B240><B250>ko</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>20160026921</B310><B320><date>20160307</date></B320><B330><ctry>KR</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20190116</date><bnum>201903</bnum></B430><B450><date>20211006</date><bnum>202140</bnum></B450><B452EP><date>20210715</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>C07D 307/68        20060101AFI20210615BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>B01J  23/46        20060101ALI20210615BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>B01J  23/00        20060101ALI20210615BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>B01J  23/89        20060101ALI20210615BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>B01J  35/00        20060101ALI20210615BHEP        </text></classification-ipcr><classification-ipcr sequence="6"><text>B01J  37/02        20060101ALI20210615BHEP        </text></classification-ipcr><classification-ipcr sequence="7"><text>B01J  37/03        20060101ALI20210615BHEP        </text></classification-ipcr><classification-ipcr sequence="8"><text>B01J  37/08        20060101ALI20210615BHEP        </text></classification-ipcr><classification-ipcr sequence="9"><text>C07D 307/48        20060101ALI20210615BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cset><classification-cset group-number="1"><classification-cpc rank="1"><text>B01J2523/00        20130101 LA20191125BHEP        </text></classification-cpc><classification-cpc rank="2"><text>B01J2523/72        20130101 LA20191125BHEP        </text></classification-cpc><classification-cpc rank="3"><text>B01J2523/821       20130101 LA20191125BHEP        </text></classification-cpc><classification-cpc rank="4"><text>B01J2523/845       20130101 LA20191125BHEP        </text></classification-cpc></classification-cset></classifications-cset><classifications-cpc><classification-cpc sequence="1"><text>C07D 307/48        20130101 LI20171005BHEP        </text></classification-cpc><classification-cpc sequence="2"><text>C07D 307/68        20130101 LI20190321BHEP        </text></classification-cpc><classification-cpc sequence="3"><text>B01J  35/0013      20130101 LI20191125BHEP        </text></classification-cpc><classification-cpc sequence="4"><text>B01J  23/46        20130101 LI20171005BHEP        </text></classification-cpc><classification-cpc sequence="5"><text>B01J2523/00        20130101 LA20191125BHEP        </text></classification-cpc><classification-cpc sequence="6"><text>B01J  37/0201      20130101 LI20191125BHEP        </text></classification-cpc><classification-cpc sequence="7"><text>B01J  23/8986      20130101 LI20191120BHEP        </text></classification-cpc><classification-cpc sequence="8"><text>B01J  37/088       20130101 LI20191125BHEP        </text></classification-cpc><classification-cpc sequence="9"><text>B01J  35/00        20130101 LA20191125BHEP        </text></classification-cpc><classification-cpc sequence="10"><text>B01J  37/033       20130101 LI20191125BHEP        </text></classification-cpc><classification-cpc sequence="11"><text>B01J  23/005       20130101 LI20191120BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>KATALYSATOR ZUR HERSTELLUNG VON 2,5-FURANCARBONSÄURE UND VERFAHREN ZUR HERSTELLUNG VON 2,5-FURANCARBONSÄURE MITHILFE EINES KATALYSATORS</B542><B541>en</B541><B542>CATALYST FOR PREPARING 2,5-FURANCARBOXYLIC ACID AND METHOD FOR PREPARING 2,5-FURANCARBOXYLIC ACID USING CATALYST</B542><B541>fr</B541><B542>CATALYSEUR POUR LA PRÉPARATION D'ACIDE 2,5-FURANCARBOXYLIQUE ET PROCÉDÉ DE PRÉPARATION D'ACIDE 2,5-FURANCARBOXYLIQUE AU MOYEN DU CATALYSEUR</B542></B540><B560><B561><text>CN-A- 103 724 303</text></B561><B561><text>CN-A- 104 607 202</text></B561><B561><text>KR-A- 20150 133 388</text></B561><B561><text>US-B1- 7 829 140</text></B561><B562><text>ZEHUI ZHANG ET AL: "Recent Advances in the Catalytic Synthesis of 2,5-Furandicarboxylic Acid and Its Derivatives", ACS CATALYSIS, vol. 5, no. 11, 6 November 2015 (2015-11-06), pages 6529-6544, XP055278280, US ISSN: 2155-5435, DOI: 10.1021/acscatal.5b01491</text></B562><B562><text>WEI-ZHEN LI ET AL: "Stable platinum nanoparticles on specific MgAl2O4 spinel facets at high temperatures in oxidizing atmospheres", NATURE COMMUNICATIONS, vol. 4, no. 1, 1 December 2013 (2013-12-01), XP055644679, DOI: 10.1038/ncomms3481</text></B562><B562><text>JUAN&amp;EMSP14;M. CAMPELO ET AL: "Sustainable Preparation of Supported Metal Nanoparticles and Their Applications in Catalysis", CHEMSUSCHEM, vol. 2, no. 1, 26 January 2009 (2009-01-26), pages 18-45, XP055181858, ISSN: 1864-5631, DOI: 10.1002/cssc.200800227</text></B562><B562><text>GORBANEV, YURY Y. et al.: "Selective Aerobic Oxidation of 5-hydroxymethylfurfural in Water over Solid Ruthenium Hydroxide Catalysts with Magnesium-based Supports", Catalysis Letters, vol. 141, no. 12, 2011, pages 1752-1760, XP055538292,</text></B562><B562><text>ZHANG, ZEHUI et al.: "Recent Advances in the Catalytic Synthesis of 2,5-furandicarboxylic Acid and Its Derivatives", ACS Catalysis, vol. 5, no. 11, 2015, pages 6529-6544, XP055546012,</text></B562><B562><text>GORBANEV, YURY Y. et al.: "Effect of Support in Heterogeneous Ruthenium Catalysts Used for the Selective Aerobic Oxidation of HMF in Water", Topics in Catalysis, vol. 54, no. 16-18, 2011, pages 1318-1324, XP055546021,</text></B562><B562><text>WAN, XIAOYUE et al.: "Base-free Aerobic Oxidation of 5-hydroxymelhyl-furfural to 2,5-furandicarboxylic Acid in Water Catalyzed by Functionalized Carbon Nanotube-supported Au-Pd Alloy Nanoparticles", ACS Catalysis, vol. 4, no. 7, 2014, pages 2175-2185, XP055546048,</text></B562><B562><text>MISHRA, DINESH KUMAR et al.: "MnCo2O4 Spinel Supported Ruthenium Catalyst for Air-oxidation ofHMF to FDCA under Aqueous Phase and Base-free Conditions", Green Chemistry, vol. 19, no. 7 2017, pages 1619-1623, XP055546055, [retrieved on 2017-02-06]</text></B562><B565EP><date>20191129</date></B565EP></B560></B500><B700><B720><B721><snm>KIM, Yong Jin</snm><adr><str>Korea Institute of Industrial Technology
+89 Yangdaegiro-gil
+Ipjang-myeon
+Seobuk-gu</str><city>Cheonan-si
+Chungcheongnam-do 31056</city><ctry>KR</ctry></adr></B721><B721><snm>CHO, Jin Ku</snm><adr><str>210-503
+15 Yonggu-daero 2518beon-gil
+Giheung-gu</str><city>Yongin-si
+Gyeonggi-do 16904</city><ctry>KR</ctry></adr></B721><B721><snm>SHIN, Seung Han</snm><adr><str>201-1103
+201 Ichon-ro
+Yongsan-gu</str><city>Seoul 04421</city><ctry>KR</ctry></adr></B721><B721><snm>LEE, Hong Shik</snm><adr><str>103-626
+16 Sinchon 4-ro
+Dongnam-gu</str><city>Cheonan-si
+Chungcheongnam-do 31177</city><ctry>KR</ctry></adr></B721><B721><snm>DINESH KUMAR, Mishra</snm><adr><str>469 Research Building
+Korea Institute of Industrial Technology
+89 Yangdaegiro-gil
+Ipjang-myeon
+Seobuk-gu</str><city>Cheonan-si
+Chungcheongnam-do 31056</city><ctry>KR</ctry></adr></B721></B720><B730><B731><snm>Korea Institute of Industrial Technology</snm><iid>101646171</iid><irf>P33697EP00/RLA</irf><adr><str>89 Yangdaegiro-gil 
+Ipjang-myeon 
+Seobuk-gu</str><city>Cheonan-si, Chungcheongnam-do 31056</city><ctry>KR</ctry></adr></B731></B730><B740><B741><snm>EP&amp;C</snm><iid>101364004</iid><adr><str>P.O. Box 3241</str><city>2280 GE Rijswijk</city><ctry>NL</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B860><B861><dnum><anum>KR2017002462</anum></dnum><date>20170307</date></B861><B862>ko</B862></B860><B870><B871><dnum><pnum>WO2017155286</pnum></dnum><date>20170914</date><bnum>201737</bnum></B871></B870><B880><date>20180907</date><bnum>000000</bnum></B880></B800></SDOBI>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001"><b>Technical Field</b></heading>
+<p id="p0001" num="0001">The present invention relates to a method of preparing 2,5-furandicarboxylic acid from a furan-based compound containing a hydroxyl group and a carbonyl group or a derivative thereof using a catalyst configured such that noble metal nanoparticles are incorporated into a spinel-type support.</p>
+<heading id="h0002"><b>Background Art</b></heading>
+<p id="p0002" num="0002">In recent years, many scientists and researchers have shown considerable interest in biomass-derived molecules, known as platform molecules or building blocks.</p>
+<p id="p0003" num="0003">Typical examples of such platform molecules may include 5-hydroxymethyl-2-furfural (hereinafter referred to as HMF), which is recently receiving attention as a biomass-derived furan-based compound, and 2,5-furandicarboxylic acid (hereinafter referred to as FDCA), produced by an oxidation reaction on HMF.</p>
+<p id="p0004" num="0004">In particular, FDCA, which is a platform molecule, is structurally similar to terephthalic acid,<!-- EPO <DP n="2"> --> serving as a raw material of polyester, which is a typical polymer, and may thus be used as an alternative to terephthalic acid. Furthermore, an FDCA-based polymer, for example, poly(ethylene-2,5-furandicarboxylate) (PEF), has also been studied as an alternative polymer to polyethylene terephthalate (PET).</p>
+<p id="p0005" num="0005">U.S. Patent Publication (<patcit id="pcit0001" dnum="US20120059178A1"><text>US 2012/0059178 A1</text></patcit>) discloses a process for oxidation of furan aldehyde such as HMF using a Co/Mn binary catalyst system. Here, the use of Co/Mn and MEK (methyl ethyl ketone) as a catalyst causes selective oxidation into DFF, and the use of Co/Mn and bromide as a catalyst causes selective oxidation into 2,5-furandicarboxylic acid (hereinafter referred to as FDCA).</p>
+<p id="p0006" num="0006">Also, U.S. Patent Publication (<patcit id="pcit0002" dnum="US20110092720A1"><text>US 2011/0092720 A1</text></patcit>) discloses a method of preparing FDCA, which produces FDCA having high purity at high yield, comprising bringing HMF into contact with an oxidizing agent in an organic acid (solvent) in the presence of bromine and a metal catalyst and allowing HMF to react with the oxidizing agent. These methods allow the reaction to proceed while removing the water produced by the reaction, and the yield of FDCA is about 62%.</p>
+<p id="p0007" num="0007">However, the above methods are problematic because the preparation process is complicated or high temperature and pressure have to be used, the purity and<!-- EPO <DP n="3"> --> productivity of final products are low, and, upon preparation of FDCA, oxidation does not completely occur, and thus byproducts other than FDCA, for example, 5-hydroxymethyl-2-furancarboxylic acid (HMFCA), 5-formyl-2-furancarboxylic acid (FFCA), 2,5-diformylfuran (DFF), and the like, may be generated. Hence, improvements in processes for selective oxidation of FDCA are continually required.</p>
+<p id="p0008" num="0008"><nplcit id="ncit0001" npl-type="s"><text>Gorbanev et al., Catal letters 2011, 141, 1752-1760</text></nplcit> describes the selective aerobic oxidation of 5-hydroxymethylfurfural in water over ruthenium hydroxide catalysts on magnesium based supports.</p>
+<p id="p0009" num="0009"><patcit id="pcit0003" dnum="CN103724303"><text>CN103724303</text></patcit> describes spinel type supports carrying of noble metal particles and its use in the preparation of 2, 5-furandicarboxylix acid.</p>
+<p id="p0010" num="0010"><nplcit id="ncit0002" npl-type="s"><text>Zhang et al. ACS catalysis, vol 5, no 11, 2015, 6529-6544</text></nplcit> also describes use in the preparation of 2, 5-furandicarboxylix acid of PD catalysts on iron-coated HAP supports.</p>
+<heading id="h0003">[Citation List]</heading>
+<heading id="h0004">[Patent Literature]</heading>
+<p id="p0011" num="0011"><patcit id="pcit0004" dnum="US20120059178A"><text>U.S. Patent Publication No. 2012/0059178</text></patcit></p>
+<p id="p0012" num="0012"><patcit id="pcit0005" dnum="US20110092720A"><text>U.S. Patent Publication No. 2011/0092720</text></patcit></p>
+<heading id="h0005"><b>Disclosure</b></heading><!-- EPO <DP n="4"> -->
+<heading id="h0006"><b>Technical Problem</b></heading>
+<p id="p0013" num="0013">Accordingly, the present invention is intended to provide a method of preparing FDCA, in which FDCA having high purity may be produced at high yield from a furan-based compound containing a hydroxyl group and a carbonyl group or a derivative thereof in a simple manner under conditions of low temperature and low air pressure while minimizing the generation of byproducts.</p>
+<heading id="h0007"><b>Technical Solution</b></heading>
+<p id="p0014" num="0014">Based on the results of extensive and intensive research into solving the above problems by the present inventors, an aspect of the present invention provides a catalyst for preparing FDCA, which is a catalyst for carboxylation of a furan-based compound containing a hydroxyl group and a carbonyl group or a derivative thereof and is configured such that ruthenium metal nanoparticles are incorporated into a MnCo<sub>2</sub>O<sub>4</sub> or CoMn<sub>2</sub>O<sub>4</sub> spinel-type support.</p>
+<p id="p0015" num="0015">Another aspect of the present invention provides a method of preparing FDCA, comprising carboxylating a furan-based compound containing a hydroxyl group and a carbonyl group or a derivative thereof using a catalyst configured such that ruthenium metal nanoparticles are incorporated into a MnCo<sub>2</sub>O<sub>4</sub> or CoMn<sub>2</sub>O<sub>4</sub>spinel-type support.<!-- EPO <DP n="5"> --></p>
+<p id="p0016" num="0016">Furthermore, the furan-based compound containing a hydroxyl group and a carbonyl group or the derivative thereof, which is used in the method of preparing FDCA according to the present invention, may be obtained from biomass containing cellulose or polysaccharides, but is not limited thereto.</p>
+<heading id="h0008"><b>Advantageous Effects</b></heading>
+<p id="p0017" num="0017">According to the present invention, the use of the catalyst configured such that ruthenium metal nanoparticles are incorporated into a MnCo<sub>2</sub>O<sub>4</sub> or CoMn<sub>2</sub>O<sub>4</sub>spinel-type support enables the preparation of FDCA at high selectivity and high yield at low temperature and low air pressure under base-free conditions without the use of an additional base material and without complicated processing, unlike conventional techniques. As such, the generation of byproducts can be minimized.</p>
+<heading id="h0009"><b>Description of Drawings</b></heading>
+<p id="p0018" num="0018">
+<ul id="ul0001" list-style="none" compact="compact">
+<li><figref idref="f0001">FIG. 1</figref> is an SEM image showing a spinel support according to an embodiment of the present invention;</li>
+<li><figref idref="f0002">FIG. 2</figref> is an SEM image showing microspheres of a spinel-type MnCo<sub>2</sub>O<sub>4</sub> support according to an embodiment of the present invention;<!-- EPO <DP n="6"> --></li>
+<li><figref idref="f0003">FIG. 3</figref> is an SEM image showing a plurality of pores in the spinel-type MnCo<sub>2</sub>O<sub>4</sub> support according to an embodiment of the present invention;</li>
+<li><figref idref="f0004">FIG. 4</figref> shows the results of energy-dispersive X-ray (EDX/EDS) spectrometry performed on a catalyst configured such that Ru nanoparticles are incorporated into a spinel-type MnCo<sub>2</sub>O<sub>4</sub> support according to an embodiment of the present invention;</li>
+<li><figref idref="f0005">FIG. 5</figref> shows the results of X-ray photoelectron spectroscopy (XPS) performed on the catalyst configured such that Ru nanoparticles are incorporated into a spinel-type MnCo<sub>2</sub>O<sub>4</sub> support according to an embodiment of the present invention; and</li>
+<li>FIG. 6 shows the results of HPLC of a solid obtained after the preparation of FDCA using the catalyst of Example 1 according to the present invention.</li>
+</ul></p>
+<heading id="h0010"><b>Mode for Invention</b></heading>
+<p id="p0019" num="0019">An embodiment of the present invention pertains to a catalyst for preparing 2,5-furandicarboxylic acid (FDCA), which is a catalyst for carboxylation of a furan-based compound containing a hydroxyl group and a carbonyl group or a derivative thereof and is configured such that ruthenium metal nanoparticles are incorporated into a MnCo<sub>2</sub>O<sub>4</sub> or CoMn<sub>2</sub>O<sub>4</sub> spinel-type support.<!-- EPO <DP n="7"> --></p>
+<p id="p0020" num="0020">Here, the spinel-type support is MnCo<sub>2</sub>O<sub>4</sub> or CoMn<sub>2</sub>O<sub>4</sub> .</p>
+<p id="p0021" num="0021">As shown in <figref idref="f0001">FIG. 1</figref>, representing the results of SEM of MnCo<sub>2</sub>O<sub>4</sub>, the MnCo<sub>2</sub>O<sub>4</sub> or CoMn<sub>2</sub>O<sub>4</sub> support has a spinel structure with an average particle size (D<sub>50</sub>) of 2.0 to 4.0 µm, the structure being configured such that a plurality of microspheres ranging from 30 to 60 nm in size is aggregated, as shown in <figref idref="f0002">FIG. 2</figref>.</p>
+<p id="p0022" num="0022">As shown in the dotted line of <figref idref="f0003">FIG. 3</figref>, the MnCo<sub>2</sub>O<sub>4</sub> support may contain therein a plurality of pores, and the noble metal nanoparticles may be incorporated into the support.</p>
+<p id="p0023" num="0023">In an embodiment of the present invention, the MnCo<sub>2</sub>O<sub>4</sub> or CoMn<sub>2</sub>O<sub>4</sub> support has the specific structure and size shown in <figref idref="f0001 f0002 f0003">FIGS. 1 to 3</figref>, and thus, when noble metal nanoparticles are reduced and thus incorporated into the support, an efficient configuration in which the nanoparticles are uniformly distributed in the support may result.</p>
+<p id="p0024" num="0024">The noble metal is ruthenium.</p>
+<p id="p0025" num="0025">In particular, the noble metal nanoparticles may have a particle size of 5 to 15 nm, and the noble metal nanoparticles having a size of 5 to 15 nm may be efficiently incorporated into the spinel-type support. Furthermore, the noble metal particles are uniformly dispersed in the<!-- EPO <DP n="8"> --> structure of the spinel support in which a plurality of microspheres is aggregated, thereby inducing stable oxidation of the furan-based compound.</p>
+<p id="p0026" num="0026">Also, the noble metal nanoparticles may be used in an amount of 0.1 to 10 wt% based on the total weight of the catalyst including the support and the noble metal nanoparticles. If the amount of the noble metal nanoparticles is less than 0.1 wt%, the yield of 2,5-furandicarboxylic acid (FDCA) may decrease. On the other hand, if the amount thereof exceeds 10 wt%, the furan-based compound may be drastically oxidized and thus processing stability may become problematic, and excessive use of noble metal particles may increase the price of the catalyst, thus negating economic benefits.</p>
+<p id="p0027" num="0027">The method of preparing the spinel-type support is not particularly limited, and typical methods known in the art may be used. Also, the method of loading the noble metal nanoparticles into the spinel-type support is not particularly limited, but according to an embodiment of the present invention, the spinel-type support is impregnated with a noble metal salt hydrate in an aqueous solution phase, followed by reducing treatment, whereby the reduced noble metal is incorporated into the support.</p>
+<p id="p0028" num="0028">When the catalyst according to an embodiment of the present invention is used, efficient oxidation from HMF<!-- EPO <DP n="9"> --> into FDCA may occur upon preparation of FDCA, and the preparation process may be performed at low temperature and low air pressure under base-free conditions without the use of an additional base material, unlike conventional techniques.</p>
+<p id="p0029" num="0029">Another aspect of the present invention pertains to a method of preparing 2,5-furandicarboxylic acid (FDCA), comprising carboxylating a furan-based compound containing a hydroxyl group and a carbonyl group or a derivative thereof in the presence of a catalyst configured such that ruthenium metal nanoparticles are incorporated into a MnCo<sub>2</sub>O<sub>4</sub> or CoMn<sub>2</sub>O<sub>4</sub> spinel-type support.</p>
+<p id="p0030" num="0030">The spinel-type support is MnCo<sub>2</sub>O<sub>4</sub> or CoMn<sub>2</sub>O<sub>4</sub>.</p>
+<p id="p0031" num="0031">Here, the furan-based compound containing a hydroxyl group and a carbonyl group may be 5-hydroxymethylfurfural (HMF).</p>
+<p id="p0032" num="0032">In the present invention, the furan-based compound, particularly HMF, may be obtained through dehydration of sugar, especially hexose, for example, fructose and glucose, and the sugar may be obtained through hydrolysis of biomass containing cellulose or polysaccharides and possibly from glucose and fructose (high-sugar-content syrup) resulting from isomerization of glucose. Briefly, the furan-based compound used in the present invention may be regarded as being obtained from<!-- EPO <DP n="10"> --> biomass containing cellulose or polysaccharides. The biomass containing cellulose or polysaccharides is an example of widely available natural materials, and is a renewable material for HMF.</p>
+<p id="p0033" num="0033">In another embodiment of the present invention, useful as a substrate for producing FDCA, a derivative of a furan-based compound containing a hydroxyl group and a carbonyl group may include a furan-based compound containing an acyloxy group and a carbonyl group. Specific examples thereof may include acetoxymethylfurfural (AMF), in which the hydroxyl group of HMF is substituted with an acetyloxy group.</p>
+<p id="p0034" num="0034">In the method of preparing FDCA according to the present invention, minimizing the yields of DFF and FFCA and maximizing the yield of FDCA were realized depending on changes in the catalyst, solvent, and pressure and temperature conditions.</p>
+<p id="p0035" num="0035">The noble metal nanoparticle is ruthenium. In the catalyst configured such that ruthenium metal nanoparticles are incorporated into the MnCo<sub>2</sub>O<sub>4</sub> or CoMn<sub>2</sub>O<sub>4</sub> spinel-type support, the molar ratio of the ruthenium metal nanoparticles to the furan-based compound preferably falls in the range of 1:5 - 200, and more preferably 1:10 - 150, in order to realize efficient processing while maximizing the<!-- EPO <DP n="11"> --> conversion of HMF and the yield of FDCA by optimizing the proportion of the noble metal.</p>
+<p id="p0036" num="0036">The oxidation of the furan-based compound is preferably carried out under conditions of an air pressure of 80 to 1000 psi (551-6894 kPa) in the reactor, a reaction temperature of 100 to 200°C and a reaction time of 3 to 12 hr, and more preferably an air pressure of 100 to 500 psi (689-3447 kPa), a reaction temperature of 120 to 150°C, and a reaction time of 5 to 10 hr. If the air pressure is less than 80 psi, the yield of FDCA and the amount of the final product are low. On the other hand, if the air pressure exceeds 1000 psi (6894 kPa), the yield of FDCA is not significantly increased, but production and processing costs and processing simplicity under the low air pressure conditions desired in the present invention may become unfavorable due to excessively high pressure, and furthermore, byproducts may be generated in large amounts due to excessive air supply. If the reaction time is less than 3 hr, the yield of FDCA is low. On the other hand, if the reaction time exceeds 12 hr, the yield of byproducts and processing costs may increase. Also, if the reaction temperature is lower than 100°C, the yield of FDCA is low. On the other hand, if the reaction temperature is higher than 200°C, the process cannot be efficiently conducted in the low temperature range desired in the present invention.<!-- EPO <DP n="12"> --></p>
+<p id="p0037" num="0037">For example, various compounds may be produced depending on the extent of oxidation of HMF, as represented in Scheme 1 below.
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="96" he="168" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="13"> --></p>
+<p id="p0038" num="0038">In the preparation of FDCA from HMF using the catalyst according to an embodiment of the present invention, HMFCA, FFCA, DFF, and the like are regarded as byproducts because the extent of oxidation thereof is different from that of the finally obtained FDCA. Also, the produced HMFCA has very low solubility in the solvent and may thus have an adverse influence on the final yield of FDCA, which is a compound desired in the present invention. Hence, according to an embodiment of the present invention, water may be used as the solvent upon preparation of FDCA. When water is used as the solvent in this way, the generation of byproducts may be minimized, and the selectivity of FDCA may increase. Moreover, in an embodiment of the present invention, a base-free oxidation process may be carried out under mild conditions, without the use of a base material, for example, NaOH or Na<sub>2</sub>CO<sub>3</sub>, which is conventionally contained in the solvent to oxidize FDCA.</p>
+<p id="p0039" num="0039">Also, the reaction may be carried out in a single vessel.</p>
+<p id="p0040" num="0040">A better understanding of the present invention will be given through the following examples, which are set forth to more specifically describe the present invention but are not to be construed as limiting the scope of the present invention.<!-- EPO <DP n="14"> --></p>
+<heading id="h0011">Preparation of spinel-type MnCo<sub>2</sub>O<sub>4</sub> support</heading>
+<p id="p0041" num="0041">As commercially available materials, 65.3 mmol of (CH<sub>3</sub>COO)<sub>2</sub>CO·4H<sub>2</sub>O and 32.6 mmol of (CH<sub>3</sub>COO)<sub>2</sub>Mn·4H<sub>2</sub>O (a molar ratio of Co:Mn=2:1) were dissolved in 400 mL of water and stirred for 30 min to thus homogenize the mixture.</p>
+<p id="p0042" num="0042">Separately, 50 g of ammonium sulfate was dissolved in 400 mL of water. The resulting solution was slowly stirred and mixed for 4 hr. The sufficiently dissolved aqueous solution of NH<sub>4</sub>HCO<sub>3</sub> was then slowly mixed with the above solution, followed by stirring for 6 hr. Thereafter, the precipitate having a pale pink color was obtained through filtration, and was then washed with distilled water and anhydrous ethanol, followed by drying at 60°C for 12 hr. The obtained carbonate precursor was thermally treated in a furnace at 425°C (2 °C/min) for 12 hr while air was supplied thereto, and was then slowly cooled to room temperature and maintained for 8 hr, thus yielding a spinel-type MnCo<sub>2</sub>O<sub>4</sub> support.</p>
+<heading id="h0012">Preparation of catalyst configured such that ruthenium noble metal nanoparticles were incorporated into spinel-type MnCo<sub>2</sub>O<sub>4</sub> support</heading>
+<p id="p0043" num="0043">5 g of the spinel-type MnCo<sub>2</sub>O<sub>4</sub> support thus prepared and 0.432 g of RuCl<sub>3</sub>·3H<sub>2</sub>O, corresponding to 4.0 wt% of Ru based on the total amount of the catalyst, were placed in a two-neck round-bottom flask (100 mL) containing about<!-- EPO <DP n="15"> --> 20 mL of water in a cooling bath. The mixture was stirred for 12 hr in an N<sub>2</sub> atmosphere. Thereafter, a NaBH<sub>4</sub> aqueous solution was added dropwise in the flask in an amount at least 10 times as large as the amount of RuCl<sub>3</sub>·3H<sub>2</sub>O with stirring, after which stirring was performed at 500 rpm for one day at room temperature in an N<sub>2</sub> atmosphere so that the reaction was thoroughly carried out. Through the reaction, Ru() was reduced into Ru(0), thus forming nanoparticles. The catalyst thus obtained was filtered, separated and washed with ethanol. By performing the above procedures, the resulting catalyst was configured such that ruthenium noble metal nanoparticles were incorporated into the dried spinel-type MnCo<sub>2</sub>O<sub>4</sub> support having a dark black color. In order to analyze the catalyst, energy-dispersive X-ray (EDX/EDS) spectrometry and Quantax 200 zero measurement were performed. The results are shown in <figref idref="f0004">FIG. 4</figref>. As shown in <figref idref="f0004">FIG. 4</figref>, the ruthenium noble metal can be confirmed to be incorporated into the spinel-type MnCo<sub>2</sub>O<sub>4</sub> support.</p>
+<p id="p0044" num="0044">Moreover, as shown in <figref idref="f0005">FIG. 5</figref>, the catalyst was analyzed through X-ray photoelectron spectroscopy (XPS). In <figref idref="f0005">FIG. 5(a)</figref>, Co, Mn, O and Ru were confirmed to be present, and in <figref idref="f0005">FIG. 5(d)</figref>, O atoms were confirmed to be present within spinel lattices based on a 1s spectrum of O. In <figref idref="f0005">FIG. 5(f)</figref>, the maximum peak of 3P<sub>3/2</sub> of Ru was present in 455 to<!-- EPO <DP n="16"> --> 480 eV, corresponding to the 3d region of Ru, from which Ru was confirmed to be metal particles.</p>
+<p id="p0045" num="0045">Also, through HR TEM of the catalyst, the average diameter of Ru nanometal was determined to be 5 nm.</p>
+<heading id="h0013">Oxidation from HMF into FDCA (Examples 1 to 4 and Comparative Examples 1 to 9)</heading>
+<heading id="h0014">[Example 1]</heading>
+<p id="p0046" num="0046">A 100 mL stainless steel high-pressure reactor was provided with a magnetic stirrer and an electric heater. 5-hydroxymethylfurfural (HMF) (0.2513 g, 2.0 mmol) and 20 mL of a water solvent were placed therein, and the catalyst was added thereto, as shown in Table 1 below, after which mixing was performed at room temperature for at least 5 min with stirring at 100 rpm. While air was continuously supplied into the reactor, the temperature and pressure of the reactor were maintained at 120°C and 150 psi (1034 kPa), after which the final air pressure in the reactor was set to 350 psi (2413 kPa) with stirring at 600 rpm and the reaction was carried out at 120°C for 10 hr. The pressure was adjusted using a back-pressure regulator connected to a reservoir tank so that the pressure in the reactor was maintained constant during the reaction. After completion of the reaction, the reaction mixture was cooled to room temperature and filtered, thus separating the solid product. The solid product thus separated was completely dried in a<!-- EPO <DP n="17"> --> vacuum oven. The weight of FDCA produced after drying was measured, a portion thereof was dissolved in water containing H<sub>2</sub>SO<sub>4</sub> (0.0005 M), and analysis was performed through HPLC (Agilent Technologies 1200 series, Bio-Rad Aminex HPX-87 H pre-packed column, and UV-detector), whereby the HMF conversion (C), FDCA yield (Y), and selectivity (S) of FDCA, FFCA and DFF were calculated using the following Equations (selectivity (S) of FFCA and DFF was calculated by being replaced with the yield of FFCA and DFF in the following Equation 3). The results of HPLC of Example 1 are shown in FIG. 6, and the calculated results are given in Table 1 below.<br/>
+<br/>
+<maths id="math0001" num="[Equation 1]"><math display="block"><mi>HMF</mi><mspace width="1ex"/><mi>Conversion</mi><mspace width="1ex"/><mfenced><mi>%</mi></mfenced><mo>=</mo><mfrac><mrow><mi mathvariant="italic">mol</mi><mspace width="1ex"/><mi mathvariant="italic">of</mi><mspace width="1ex"/><mi mathvariant="italic">reacted</mi><mspace width="1ex"/><mi mathvariant="italic">HMF</mi></mrow><mrow><mi mathvariant="italic">mol</mi><mspace width="1ex"/><mi mathvariant="italic">of</mi><mspace width="1ex"/><mi mathvariant="italic">added</mi><mspace width="1ex"/><mi mathvariant="italic">HMF</mi></mrow></mfrac><mo>×</mo><mn>100</mn></math><img id="ib0002" file="imgb0002.tif" wi="102" he="18" img-content="math" img-format="tif"/></maths><br/>
+<br/>
+<maths id="math0002" num="[Equation 2]"><math display="block"><mi>FDCA</mi><mspace width="1ex"/><mi>Yield</mi><mspace width="1ex"/><mfenced><mi>%</mi></mfenced><mo>=</mo><mfrac><mrow><mi mathvariant="italic">actual</mi><mspace width="1ex"/><mi mathvariant="italic">mol</mi><mspace width="1ex"/><mi mathvariant="italic">of</mi><mspace width="1ex"/><mi mathvariant="italic">produced</mi><mspace width="1ex"/><mi mathvariant="italic">FDCA</mi></mrow><mrow><mi mathvariant="italic">theoertical</mi><mspace width="1ex"/><mi mathvariant="italic">mol</mi><mspace width="1ex"/><mi mathvariant="italic">of</mi><mspace width="1ex"/><mi mathvariant="italic">produced</mi><mspace width="1ex"/><mi mathvariant="italic">FDCA</mi></mrow></mfrac><mo>×</mo><mn>100</mn></math><img id="ib0003" file="imgb0003.tif" wi="116" he="18" img-content="math" img-format="tif"/></maths><br/>
+<br/>
+<maths id="math0003" num="[Equation 3]"><math display="block"><mi>FDCA</mi><mspace width="1ex"/><mi>Selectivity</mi><mspace width="1ex"/><mfenced><mi>%</mi></mfenced><mo>=</mo><mfrac><mrow><mi mathvariant="italic">FDCA</mi><mspace width="1ex"/><mi mathvariant="italic">yield</mi></mrow><mrow><mi mathvariant="italic">HMF</mi><mspace width="1ex"/><mi mathvariant="italic">conversion</mi></mrow></mfrac><mo>×</mo><mn>100</mn></math><img id="ib0004" file="imgb0004.tif" wi="99" he="17" img-content="math" img-format="tif"/></maths></p>
+<heading id="h0015">[Examples 2 to 4]</heading>
+<p id="p0047" num="0047">The procedures were performed under the same conditions as in Example 1, with the exception that the amount of the catalyst, the reaction temperature and the reaction time were differently set. The results are shown<!-- EPO <DP n="18"> --> in Table 1 below. FDCA was prepared at high yield even under acidic conditions of pH 3 to 4 in the vessel after initiation of the reaction in Examples 1 to 4.
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>[Table 1]</title>
+<tgroup cols="11">
+<colspec colnum="1" colname="col1" colwidth="18mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<colspec colnum="3" colname="col3" colwidth="16mm"/>
+<colspec colnum="4" colname="col4" colwidth="19mm"/>
+<colspec colnum="5" colname="col5" colwidth="15mm"/>
+<colspec colnum="6" colname="col6" colwidth="13mm"/>
+<colspec colnum="7" colname="col7" colwidth="14mm"/>
+<colspec colnum="8" colname="col8" colwidth="15mm"/>
+<colspec colnum="9" colname="col9" colwidth="15mm"/>
+<colspec colnum="10" colname="col10" colwidth="15mm"/>
+<colspec colnum="11" colname="col11" colwidth="14mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">HMF (mmol)</entry>
+<entry align="center" valign="middle">HMF/metal molar ratio</entry>
+<entry align="center" valign="middle">Catalyst [metal (wt%)/support]</entry>
+<entry align="center" valign="middle">Temp. °C</entry>
+<entry align="center" valign="middle">Time (hr)</entry>
+<entry align="center" valign="middle">C<sub>HMF</sub>, %</entry>
+<entry align="center" valign="middle">Y<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FFCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>DFF</sub>, %</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Example 1</entry>
+<entry align="center" valign="middle">1.0</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">4.0%Ru/MnCo<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">120</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">99.9</entry>
+<entry align="center" valign="middle">92.6</entry>
+<entry align="center" valign="middle">92.6</entry>
+<entry align="center" valign="middle">0.0</entry>
+<entry align="center" valign="middle">0.0</entry></row>
+<row>
+<entry align="center" valign="middle">Example 2</entry>
+<entry align="center" valign="middle">1.0</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">1.8%Ru/MnCo<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">120</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">99.0</entry>
+<entry align="center" valign="middle">87.9</entry>
+<entry align="center" valign="middle">88.8</entry>
+<entry align="center" valign="middle">4.7</entry>
+<entry align="center" valign="middle">0.0</entry></row>
+<row>
+<entry align="center" valign="middle">Example 3</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">85</entry>
+<entry align="center" valign="middle">1.8%Ru/MnCo<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">150</entry>
+<entry align="center" valign="middle">8</entry>
+<entry align="center" valign="middle">99.9</entry>
+<entry align="center" valign="middle">81.9</entry>
+<entry align="center" valign="middle">82.0</entry>
+<entry align="center" valign="middle">3.3</entry>
+<entry align="center" valign="middle">0.0</entry></row>
+<row>
+<entry align="center" valign="middle">Example 4</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">150</entry>
+<entry align="center" valign="middle">1.8%Ru/MnCo<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">150</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">43.7</entry>
+<entry align="center" valign="middle">43.7</entry>
+<entry align="center" valign="middle">29.8</entry>
+<entry align="center" valign="middle">0.5</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0016">[Examples 5 to 8]</heading>
+<p id="p0048" num="0048">The procedures were performed under the same conditions as in Example 1 (temperature: 120°C, reaction time: 10 hr), with the exception that the HMF/metal molar ratio was differently set. The results are shown in Table 2 below.
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>[Table 2]</title>
+<tgroup cols="9">
+<colspec colnum="1" colname="col1" colwidth="20mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<colspec colnum="3" colname="col3" colwidth="28mm"/>
+<colspec colnum="4" colname="col4" colwidth="24mm"/>
+<colspec colnum="5" colname="col5" colwidth="16mm"/>
+<colspec colnum="6" colname="col6" colwidth="17mm"/>
+<colspec colnum="7" colname="col7" colwidth="17mm"/>
+<colspec colnum="8" colname="col8" colwidth="17mm"/>
+<colspec colnum="9" colname="col9" colwidth="15mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">HMF (mmol)</entry>
+<entry align="center" valign="middle">HMF/metal molar ratio</entry>
+<entry align="center" valign="middle">Catalyst [metal (wt%)/support]</entry>
+<entry align="center" valign="middle">C<sub>HMF</sub>, %</entry>
+<entry align="center" valign="middle">Y<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FFCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>DFF</sub>, %</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Example 5</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">4.0%Ru/MnCo<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">96.9</entry>
+<entry align="center" valign="middle">96.9</entry>
+<entry align="center" valign="middle">0.0</entry>
+<entry align="center" valign="middle">0.0</entry></row>
+<row>
+<entry align="center" valign="middle">Example 6</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">33.6</entry>
+<entry align="center" valign="middle">4.0%Ru/MnCo<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">97.4</entry>
+<entry align="center" valign="middle">97.4</entry>
+<entry align="center" valign="middle">2.3</entry>
+<entry align="center" valign="middle">0.0</entry></row>
+<row>
+<entry align="center" valign="middle">Example 7</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">50</entry>
+<entry align="center" valign="middle">4.0%Ru/MnCo<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">70.1</entry>
+<entry align="center" valign="middle">70.1</entry>
+<entry align="center" valign="middle">15.0</entry>
+<entry align="center" valign="middle">0.0</entry></row>
+<row>
+<entry align="center" valign="middle">Example 8</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">4.0%Ru/MnCo<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">55.9</entry>
+<entry align="center" valign="middle">55.9</entry>
+<entry align="center" valign="middle">39.0</entry>
+<entry align="center" valign="middle">0.1</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0017">[Examples 9 to 11]</heading><!-- EPO <DP n="19"> -->
+<p id="p0049" num="0049">The procedures were performed under the same conditions as in Example 6 (temperature: 120°C, reaction time: 10 hr), with the exception that the air pressure was differently set. The results are shown in Table 3 below.
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>[Table 3]</title>
+<tgroup cols="9">
+<colspec colnum="1" colname="col1" colwidth="18mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<colspec colnum="3" colname="col3" colwidth="30mm"/>
+<colspec colnum="4" colname="col4" colwidth="26mm"/>
+<colspec colnum="5" colname="col5" colwidth="18mm"/>
+<colspec colnum="6" colname="col6" colwidth="15mm"/>
+<colspec colnum="7" colname="col7" colwidth="16mm"/>
+<colspec colnum="8" colname="col8" colwidth="16mm"/>
+<colspec colnum="9" colname="col9" colwidth="15mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">HMF (mmol)</entry>
+<entry align="center" valign="middle">HMF/metal molar ratio</entry>
+<entry align="center" valign="middle">Catalyst [metal (wt%)/support]</entry>
+<entry align="center" valign="middle">Pressure Psi (kPa)</entry>
+<entry align="center" valign="middle">C<sub>HMF</sub>, %</entry>
+<entry align="center" valign="middle">Y<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FFCA</sub>, %</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Example 9</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">33.6</entry>
+<entry align="center" valign="middle">4.0%Ru/MnCo<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">150 (1034)</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">67.3</entry>
+<entry align="center" valign="middle">67.3</entry>
+<entry align="center" valign="middle">21.7</entry></row>
+<row>
+<entry align="center" valign="middle">Example 10</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">33.6</entry>
+<entry align="center" valign="middle">4.0%Ru/MnCo<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">250 (1723)</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">86.9</entry>
+<entry align="center" valign="middle">86.9</entry>
+<entry align="center" valign="middle">4.3</entry></row>
+<row>
+<entry align="center" valign="middle">Example 6</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">33.6</entry>
+<entry align="center" valign="middle">4.0%Ru/MnCo<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">350(2413)</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">97.4</entry>
+<entry align="center" valign="middle">97.4</entry>
+<entry align="center" valign="middle">2.3</entry></row>
+<row>
+<entry align="center" valign="middle">Example 11</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">33.6</entry>
+<entry align="center" valign="middle">4.0%Ru/MnCo<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">450 (3102)</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">98.7</entry>
+<entry align="center" valign="middle">98.7</entry>
+<entry align="center" valign="middle">0.0</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0018">[Examples 12 to 14]</heading>
+<p id="p0050" num="0050">The procedures were performed under the same conditions as in Example 6 (temperature: 120°C, reaction time: 10 hr, pressure: 350 psi (2413 kPa)), with the exception that the wt% of Ru nanometal based on the total weight of the catalyst of the invention was differently set. The results are shown in Table 4 below.
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title>[Table 4]</title>
+<tgroup cols="8">
+<colspec colnum="1" colname="col1" colwidth="20mm"/>
+<colspec colnum="2" colname="col2" colwidth="21mm"/>
+<colspec colnum="3" colname="col3" colwidth="45mm"/>
+<colspec colnum="4" colname="col4" colwidth="16mm"/>
+<colspec colnum="5" colname="col5" colwidth="17mm"/>
+<colspec colnum="6" colname="col6" colwidth="17mm"/>
+<colspec colnum="7" colname="col7" colwidth="17mm"/>
+<colspec colnum="8" colname="col8" colwidth="15mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">HMF (mmol)</entry>
+<entry align="center" valign="middle">Catalyst [metal (wt%)/support]</entry>
+<entry align="center" valign="middle">C<sub>HMF</sub>, %</entry>
+<entry align="center" valign="middle">Y<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FFCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>DFF</sub>, %</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Example 12</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">1.0%Ru/MnCo<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">87.4</entry>
+<entry align="center" valign="middle">17.8</entry>
+<entry align="center" valign="middle">20.4</entry>
+<entry align="center" valign="middle">54.2</entry>
+<entry align="center" valign="middle">13.4</entry></row><!-- EPO <DP n="20"> -->
+<row>
+<entry align="center" valign="middle">Example 13</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">2.0%Ru/MnCo<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">90.8</entry>
+<entry align="center" valign="middle">60.1</entry>
+<entry align="center" valign="middle">66.2</entry>
+<entry align="center" valign="middle">3.3</entry>
+<entry align="center" valign="middle">1.2</entry></row>
+<row>
+<entry align="center" valign="middle">Example 6</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">4.0%Ru/MnCo<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">97.4</entry>
+<entry align="center" valign="middle">97.4</entry>
+<entry align="center" valign="middle">2.3</entry>
+<entry align="center" valign="middle">0.0</entry></row>
+<row>
+<entry align="center" valign="middle">Example 14</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">10.0%Ru/MnCo<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">98.4</entry>
+<entry align="center" valign="middle">98.4</entry>
+<entry align="center" valign="middle">0.0</entry>
+<entry align="center" valign="middle">0.0</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0019">[Example 15]</heading>
+<p id="p0051" num="0051">A spinel-type support, in which the molar ratio of Co:Mn was 1:2, was prepared using (CH<sub>3</sub>COO)<sub>2</sub>CO·4H<sub>2</sub>O and (CH<sub>3</sub>COO)<sub>2</sub>Mn·4H<sub>2</sub>O at a molar ratio of 1:2, and 4 wt% of Ru nanometal was incorporated into the support, after which the procedures were performed in the same manner as in Example 6 (temperature: 120°C, reaction time: 10 hr, pressure: 350 psi (2413 kPa)). The results are shown in Table 5 below.
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<title>[Table 5]</title>
+<tgroup cols="9">
+<colspec colnum="1" colname="col1" colwidth="20mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<colspec colnum="3" colname="col3" colwidth="28mm"/>
+<colspec colnum="4" colname="col4" colwidth="24mm"/>
+<colspec colnum="5" colname="col5" colwidth="16mm"/>
+<colspec colnum="6" colname="col6" colwidth="17mm"/>
+<colspec colnum="7" colname="col7" colwidth="17mm"/>
+<colspec colnum="8" colname="col8" colwidth="17mm"/>
+<colspec colnum="9" colname="col9" colwidth="15mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">HMF (mmol)</entry>
+<entry align="center" valign="middle">HMF/metal molar ratio</entry>
+<entry align="center" valign="middle">Catalyst [metal (wt%)/support]</entry>
+<entry align="center" valign="middle">C<sub>HMF</sub>, %</entry>
+<entry align="center" valign="middle">Y<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FFCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>DFF</sub>, %</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Example 6</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">33.6</entry>
+<entry align="center" valign="middle">4.0%Ru/MnCo<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">97.4</entry>
+<entry align="center" valign="middle">97.4</entry>
+<entry align="center" valign="middle">2.3</entry>
+<entry align="center" valign="middle">0.0</entry></row>
+<row>
+<entry align="center" valign="middle">Exampl 15</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">33.6</entry>
+<entry align="center" valign="middle">4.0%Ru/CoMn<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">98.8</entry>
+<entry align="center" valign="middle">70.1</entry>
+<entry align="center" valign="middle">70.9</entry>
+<entry align="center" valign="middle">27.3</entry>
+<entry align="center" valign="middle">0.0</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0020">[Example 16]</heading>
+<p id="p0052" num="0052">The procedures were performed under the same conditions as in Example 6, with the exception that AMF (2-acetoxymethyl-5-furfural) was used as the substrate in lieu of HMF. The results are shown in Table 6 below. FDCA was<!-- EPO <DP n="21"> --> produced at high yield even when AMF was used as the substrate.<br/>
+[
+<tables id="tabl0006" num="0006">
+<table frame="all">
+<title>Table 6]</title>
+<tgroup cols="9">
+<colspec colnum="1" colname="col1" colwidth="18mm"/>
+<colspec colnum="2" colname="col2" colwidth="19mm"/>
+<colspec colnum="3" colname="col3" colwidth="28mm"/>
+<colspec colnum="4" colname="col4" colwidth="28mm"/>
+<colspec colnum="5" colname="col5" colwidth="15mm"/>
+<colspec colnum="6" colname="col6" colwidth="16mm"/>
+<colspec colnum="7" colname="col7" colwidth="16mm"/>
+<colspec colnum="8" colname="col8" colwidth="16mm"/>
+<colspec colnum="9" colname="col9" colwidth="14mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">Substrate (mmol)</entry>
+<entry align="center" valign="middle">HMF/metal molar ratio</entry>
+<entry align="center" valign="middle">Catalyst [metal (wt%)/support]</entry>
+<entry align="center" valign="middle">C<sub>HMF</sub>, %</entry>
+<entry align="center" valign="middle">Y<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FFCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>DFF</sub>, %</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Example 16</entry>
+<entry align="center" valign="middle">AMF 2.0</entry>
+<entry align="center" valign="middle">33.6</entry>
+<entry align="center" valign="middle">4.0%Ru/MnCo<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">95.7</entry>
+<entry align="center" valign="middle">95.7</entry>
+<entry align="center" valign="middle">2.5</entry>
+<entry align="center" valign="middle">0</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0021">[Comparative Example 1]</heading>
+<p id="p0053" num="0053">The procedures were performed under the same conditions as in Example 1, with the exception that a catalyst composed exclusively of MnCo<sub>2</sub>O<sub>4</sub> without Ru metal was used and the temperature and reaction time were differently set. The results are shown in Table 7 below.
+<tables id="tabl0007" num="0007">
+<table frame="all">
+<title>[Table 7]</title>
+<tgroup cols="10">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<colspec colnum="3" colname="col3" colwidth="29mm"/>
+<colspec colnum="4" colname="col4" colwidth="15mm"/>
+<colspec colnum="5" colname="col5" colwidth="13mm"/>
+<colspec colnum="6" colname="col6" colwidth="14mm"/>
+<colspec colnum="7" colname="col7" colwidth="15mm"/>
+<colspec colnum="8" colname="col8" colwidth="15mm"/>
+<colspec colnum="9" colname="col9" colwidth="15mm"/>
+<colspec colnum="10" colname="col10" colwidth="14mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">HMF (mmol)</entry>
+<entry align="center" valign="middle">Catalyst [metal (wt%)/support]</entry>
+<entry align="center" valign="middle">Temp. °C</entry>
+<entry align="center" valign="middle">Time (hr)</entry>
+<entry align="center" valign="middle">C<sub>HMF</sub>, %</entry>
+<entry align="center" valign="middle">Y<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FFCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>DFF</sub>, %</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Comparative Example 1</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">MnCo<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">150</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">42.8</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">4.7</entry>
+<entry align="center" valign="middle">10.8</entry>
+<entry align="center" valign="middle">24.9</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0054" num="0054">As is apparent from the above Table, when the catalyst composed exclusively of the MnCo<sub>2</sub>O<sub>4</sub> support without Ru was used, unlike the catalyst of Examples of the present invention, the HMF conversion, FDCA yield, and FDCA selectivity were significantly decreased.</p>
+<heading id="h0022">[Comparative Examples 2 and 3]</heading><!-- EPO <DP n="22"> -->
+<p id="p0055" num="0055">The procedures were performed under the same conditions as in Example 1, with the exception that Au metal nanoparticles and a MnCo<sub>2</sub>O<sub>4</sub> support were used as shown in Table 8 below, and the reaction time and temperature were differently set. The results are shown in Table 8 below.
+<tables id="tabl0008" num="0008">
+<table frame="all">
+<title>[Table 8]</title>
+<tgroup cols="11">
+<colspec colnum="1" colname="col1" colwidth="29mm"/>
+<colspec colnum="2" colname="col2" colwidth="21mm"/>
+<colspec colnum="3" colname="col3" colwidth="31mm"/>
+<colspec colnum="4" colname="col4" colwidth="38mm"/>
+<colspec colnum="5" colname="col5" colwidth="18mm"/>
+<colspec colnum="6" colname="col6" colwidth="17mm"/>
+<colspec colnum="7" colname="col7" colwidth="18mm"/>
+<colspec colnum="8" colname="col8" colwidth="19mm"/>
+<colspec colnum="9" colname="col9" colwidth="19mm"/>
+<colspec colnum="10" colname="col10" colwidth="19mm"/>
+<colspec colnum="11" colname="col11" colwidth="17mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">HMF (mmol)</entry>
+<entry align="center" valign="middle">HMF/metal molar ratio</entry>
+<entry align="center" valign="middle">Catalyst [metal (wt%)/support]</entry>
+<entry align="center" valign="middle">Temp. ° C</entry>
+<entry align="center" valign="middle">Time (hr)</entry>
+<entry align="center" valign="middle">C<sub>HMF</sub>, %</entry>
+<entry align="center" valign="middle">Y<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FFCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>DFF</sub>, %</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Comparative Example 2</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">250</entry>
+<entry align="center" valign="middle">2.1%Au/MnCo<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">150</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">67.2</entry>
+<entry align="center" valign="middle">8.9</entry>
+<entry align="center" valign="middle">13.3</entry>
+<entry align="center" valign="middle">21.2</entry>
+<entry align="center" valign="middle">11.6</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 3</entry>
+<entry align="center" valign="middle">4.0</entry>
+<entry align="center" valign="middle">500</entry>
+<entry align="center" valign="middle">2.1%Au/MnCo<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">150</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">88.5</entry>
+<entry align="center" valign="middle">0.04</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0056" num="0056">As is apparent from the above Table, when the MnCo<sub>2</sub>O<sub>4</sub> support containing Au was used as the catalyst, unlike the catalyst of Examples of the present invention, the FDCA yield was significantly decreased.</p>
+<heading id="h0023">[Comparative Examples 4 to 7]</heading>
+<p id="p0057" num="0057">The procedures were performed under the same conditions as in Example 6, with the exception that a catalyst comprising an Au metal/CeO<sub>2</sub> support was used and some of the test conditions were differently set, as shown<!-- EPO <DP n="23"> --> in Table 9 below. In Comparative Example 6, a solvent mixture of acetic acid and methanol at 8:2 was used, in lieu of the water solvent.
+<tables id="tabl0009" num="0009">
+<table frame="all">
+<title>[Table 9]</title>
+<tgroup cols="10">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<colspec colnum="3" colname="col3" colwidth="29mm"/>
+<colspec colnum="4" colname="col4" colwidth="15mm"/>
+<colspec colnum="5" colname="col5" colwidth="13mm"/>
+<colspec colnum="6" colname="col6" colwidth="14mm"/>
+<colspec colnum="7" colname="col7" colwidth="15mm"/>
+<colspec colnum="8" colname="col8" colwidth="15mm"/>
+<colspec colnum="9" colname="col9" colwidth="15mm"/>
+<colspec colnum="10" colname="col10" colwidth="14mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">HMF (mmol)</entry>
+<entry align="center" valign="middle">Catalyst [metal (wt%)/support]</entry>
+<entry align="center" valign="middle">Temp. °C</entry>
+<entry align="center" valign="middle">Time (hr)</entry>
+<entry align="center" valign="middle">C<sub>HMF</sub>, %</entry>
+<entry align="center" valign="middle">Y<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FFCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>DFF</sub>, %</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Comparative Example 4</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">2.1%Au/CeO<sub>2</sub></entry>
+<entry align="center" valign="middle">150</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">68.8</entry>
+<entry align="center" valign="middle">1.7</entry>
+<entry align="center" valign="middle">2.5</entry>
+<entry align="center" valign="middle">3.7</entry>
+<entry align="center" valign="middle">8.0</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 5</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">2.1%Au/CeO<sub>2</sub></entry>
+<entry align="center" valign="middle">150</entry>
+<entry align="center" valign="middle">5</entry>
+<entry align="center" valign="middle">93.8</entry>
+<entry align="center" valign="middle">2.2</entry>
+<entry align="center" valign="middle">2.3</entry>
+<entry align="center" valign="middle">1.5</entry>
+<entry align="center" valign="middle">0.9</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 6</entry>
+<entry align="center" valign="middle">8.0</entry>
+<entry align="center" valign="middle">2.1%Au/CeO<sub>2</sub></entry>
+<entry align="center" valign="middle">150</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">45.4</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">0.03</entry>
+<entry align="center" valign="middle">13.7</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 7</entry>
+<entry align="center" valign="middle">4.0</entry>
+<entry align="center" valign="middle">2.1%Au/CeO<sub>2</sub></entry>
+<entry align="center" valign="middle">150</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">81.05</entry>
+<entry align="center" valign="middle">0.01</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row></tbody></tgroup>
+<tgroup cols="10" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<colspec colnum="3" colname="col3" colwidth="29mm"/>
+<colspec colnum="4" colname="col4" colwidth="15mm"/>
+<colspec colnum="5" colname="col5" colwidth="13mm"/>
+<colspec colnum="6" colname="col6" colwidth="14mm"/>
+<colspec colnum="7" colname="col7" colwidth="15mm"/>
+<colspec colnum="8" colname="col8" colwidth="15mm"/>
+<colspec colnum="9" colname="col9" colwidth="15mm"/>
+<colspec colnum="10" colname="col10" colwidth="14mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col10" align="justify">*at 400°C, Au was reduced under H<sub>2</sub> flow, 2.1% Au/CeO<sub>2</sub></entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0058" num="0058">As is apparent from the above Table, when the catalysts of Comparative Examples 4 to 7 including the support and the metal particles different from those of the catalyst of the present invention were used, the conversion, yield and selectivity were significantly lowered even at high reaction temperatures compared to Examples 1 to 6 according to the present invention. In particular, the 2.1% Au/CeO<sub>2</sub> catalyst of Comparative Examples 4 to 7 was produced in a manner in which Au ions were reduced under strongly basic conditions (pH of about 10 or more, NaOH solution), incorporated into CeO<sub>2</sub> and dried, whereby the catalyst<!-- EPO <DP n="24"> --> itself was made to be strongly basic. When comparing the solvent of Comparative Example 6 (solvent, acetic acid:methanol=8:2) with the solvent of Comparative Examples 4, 5 and 7 (solvent, water), Comparative Example 6, using the acidic solvent, exhibited drastically lowered HMF conversion and very low FDCA yield and selectivity, from which the above catalyst was confirmed to be basic.</p>
+<heading id="h0024">[Comparative Example 8]</heading>
+<p id="p0059" num="0059">The procedures were performed under the same conditions as in Example 1, with the exception that a Ru metal/MgAl<sub>2</sub>O<sub>4</sub> support was used as the catalyst.
+<tables id="tabl0010" num="0010">
+<table frame="all">
+<title>[Table 10]</title>
+<tgroup cols="11">
+<colspec colnum="1" colname="col1" colwidth="33mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<colspec colnum="3" colname="col3" colwidth="32mm"/>
+<colspec colnum="4" colname="col4" colwidth="40mm"/>
+<colspec colnum="5" colname="col5" colwidth="19mm"/>
+<colspec colnum="6" colname="col6" colwidth="16mm"/>
+<colspec colnum="7" colname="col7" colwidth="18mm"/>
+<colspec colnum="8" colname="col8" colwidth="19mm"/>
+<colspec colnum="9" colname="col9" colwidth="19mm"/>
+<colspec colnum="10" colname="col10" colwidth="18mm"/>
+<colspec colnum="11" colname="col11" colwidth="17mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">HMF (mmol)</entry>
+<entry align="center" valign="middle">HMF/metal molar ratio</entry>
+<entry align="center" valign="middle">Catalyst [metal (wt%)/support]</entry>
+<entry align="center" valign="middle">Temp . °C</entry>
+<entry align="center" valign="middle">Tim e (hr )</entry>
+<entry align="center" valign="middle">C<sub>HMF</sub>, %</entry>
+<entry align="center" valign="middle">Y<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FFCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>DFF</sub>, %</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Comparative Example 8</entry>
+<entry align="center" valign="middle">1.0</entry>
+<entry align="center" valign="middle">33.3</entry>
+<entry align="center" valign="middle">4%Ru/MgAl<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">120</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">90.5</entry>
+<entry align="center" valign="middle">53.7</entry>
+<entry align="center" valign="middle">59.4</entry>
+<entry align="center" valign="middle">10.5</entry>
+<entry align="center" valign="middle">1.0</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0060" num="0060">As described above, in Comparative Example 8 using the support (MgAl<sub>2</sub>O<sub>4</sub>) other than the spinel support of the present invention, even when the Ru catalyst was used in the same amount, the FDCA selectivity did not reach 60%,<!-- EPO <DP n="25"> --> unlike Example 1 of the present invention, and the yield was also remarkably low.</p>
+<heading id="h0025">[Comparative Example 9]</heading>
+<p id="p0061" num="0061">The procedures were performed under the same conditions as in Example 6, with the exception that a Ru metal/carbon was used as the catalyst and the base materials Na<sub>2</sub>CO<sub>3</sub> and NaHCO<sub>3</sub> were placed in the reactor. The pH in the reactor after initiation of the reaction of Comparative Example 9 was 7 to 8. Furthermore, the procedures were performed under the same conditions (base-free conditions) as in Example 6 using the same catalyst (Ru metal/carbon).
+<tables id="tabl0011" num="0011">
+<table frame="all">
+<title>[Table 11]</title>
+<tgroup cols="11">
+<colspec colnum="1" colname="col1" colwidth="33mm"/>
+<colspec colnum="2" colname="col2" colwidth="18mm"/>
+<colspec colnum="3" colname="col3" colwidth="31mm"/>
+<colspec colnum="4" colname="col4" colwidth="40mm"/>
+<colspec colnum="5" colname="col5" colwidth="21mm"/>
+<colspec colnum="6" colname="col6" colwidth="15mm"/>
+<colspec colnum="7" colname="col7" colwidth="17mm"/>
+<colspec colnum="8" colname="col8" colwidth="18mm"/>
+<colspec colnum="9" colname="col9" colwidth="18mm"/>
+<colspec colnum="10" colname="col10" colwidth="18mm"/>
+<colspec colnum="11" colname="col11" colwidth="16mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">HMF (mmol)</entry>
+<entry align="center" valign="middle">HMF/metal mola r ratio</entry>
+<entry align="center" valign="middle">Catalyst [metal (wt%)/support]</entry>
+<entry align="center" valign="middle">Base material</entry>
+<entry align="center" valign="middle">Tim e (hr)</entry>
+<entry align="center" valign="middle">C<sub>HMF</sub>, %</entry>
+<entry align="center" valign="middle">Y<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FFCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>DFF</sub>, %</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Comparative Example 9</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">33.3</entry>
+<entry align="center" valign="middle">4%Ru/carbon</entry>
+<entry align="center" valign="middle">NaHCO<sub>3</sub></entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">85.1</entry>
+<entry align="center" valign="middle">85.1</entry>
+<entry align="center" valign="middle">10.1</entry>
+<entry align="center" valign="middle">0.9</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 10</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">33.3</entry>
+<entry align="center" valign="middle">4%Ru/carbon</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">50.4</entry>
+<entry align="center" valign="middle">35.1</entry>
+<entry align="center" valign="middle">69.9</entry>
+<entry align="center" valign="middle">15.3</entry>
+<entry align="center" valign="middle">0</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0062" num="0062">As is apparent from Table 11, when the Ru metal/carbon support was used under basic conditions, the FDCA yield was low compared to Example 6 of the present<!-- EPO <DP n="26"> --> invention, and very poor results were obtained under base-free conditions.</p>
+<heading id="h0026">[Comparative Example 10 to 12]</heading>
+<p id="p0063" num="0063">The procedures were performed as shown in Table 8 in the same manner as in Example 6, with the exception that different kinds of supports were used, as shown in Table 12 below.
+<tables id="tabl0012" num="0012">
+<table frame="all">
+<title>[Table 12]</title>
+<tgroup cols="9">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<colspec colnum="3" colname="col3" colwidth="31mm"/>
+<colspec colnum="4" colname="col4" colwidth="25mm"/>
+<colspec colnum="5" colname="col5" colwidth="15mm"/>
+<colspec colnum="6" colname="col6" colwidth="16mm"/>
+<colspec colnum="7" colname="col7" colwidth="16mm"/>
+<colspec colnum="8" colname="col8" colwidth="15mm"/>
+<colspec colnum="9" colname="col9" colwidth="14mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">HMF (mmol)</entry>
+<entry align="center" valign="middle">HMF/metal molar ratio</entry>
+<entry align="center" valign="middle">Catalyst [metal (wt%)/support]</entry>
+<entry align="center" valign="middle">C<sub>HMF</sub>, %</entry>
+<entry align="center" valign="middle">Y<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FDCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>FFCA</sub>, %</entry>
+<entry align="center" valign="middle">S<sub>DFF</sub>, %</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Example 6</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">33.6</entry>
+<entry align="center" valign="middle">4.0%Ru/MnCo<sub>2</sub>O<sub>4</sub></entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">97.4</entry>
+<entry align="center" valign="middle">2.3</entry>
+<entry align="center" valign="middle">0.0</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 11</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">33.6</entry>
+<entry align="center" valign="middle">4.0%Ru/CoO</entry>
+<entry align="center" valign="middle">91.1</entry>
+<entry align="center" valign="middle">17.8</entry>
+<entry align="center" valign="middle">19.5</entry>
+<entry align="center" valign="middle">54.2</entry>
+<entry align="center" valign="middle">13.4</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 12</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">33.6</entry>
+<entry align="center" valign="middle">4.0%Ru/MnCo<sub>2</sub>CO<sub>3</sub></entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">69.9</entry>
+<entry align="center" valign="middle">69.9</entry>
+<entry align="center" valign="middle">15.5</entry>
+<entry align="center" valign="middle">0.0</entry></row>
+<row>
+<entry align="center" valign="middle">Comparative Example 13</entry>
+<entry align="center" valign="middle">2.0</entry>
+<entry align="center" valign="middle">33.6</entry>
+<entry align="center" valign="middle">4.0Ru/MnO<sub>2</sub></entry>
+<entry align="center" valign="middle">98.8</entry>
+<entry align="center" valign="middle">31.1</entry>
+<entry align="center" valign="middle">31.5</entry>
+<entry align="center" valign="middle">37.3</entry>
+<entry align="center" valign="middle">1.2</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0064" num="0064">As is apparent from Table 12, even when the Ru nano metal was used in the same amount, the FDCA yield and selectivity were remarkably lowered in Comparative Examples 11, 12 and 13, which did not include the support (MnCo<sub>2</sub>O<sub>4</sub>) according to an embodiment of the present invention.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="27"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A catalyst for preparing 2,5-furandicarboxylic acid (FDCA), which is a catalyst for carboxylation of a furan-based compound containing a hydroxyl group and a carbonyl group or a derivative thereof and is configured such that ruthenium metal nanoparticles are incorporated into a MnCo<sub>2</sub>O<sub>4</sub> or CoMn<sub>2</sub>O<sub>4</sub> spinel-type support.</claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>The catalyst of claim 1, wherein the support has an average particle size (D50) of 2.0 to 4.0 µm.</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>The catalyst of claim 1, wherein the ruthenium nanoparticles are used in an amount of 0.1 to 10 wt% based on a total weight of the catalyst.</claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>A method of preparing 2,5-furandicarboxylic acid (FDCA), comprising carboxylating a furan-based compound containing a hydroxyl group and a carbonyl group or a derivative thereof using a catalyst configured such that ruthenium nanoparticles are incorporated into a MnCo<sub>2</sub>O<sub>4</sub> or CoMn<sub>2</sub>O<sub>4</sub> spinel-type support.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>The method of claim 4, wherein the furan-based compound containing a hydroxyl group and a carbonyl group is 5-hydroxymethylfurfural (HMF).</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>The method of claim 4, wherein the derivative of the furan-based compound is 2-acetoxymethyl-5-furfural (AMF).</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>The method of claim 4, wherein oxidation of the furan-based compound is carried out under conditions of a temperature of 100 to 200 °C, an air pressure of 80 to 1000 psi (551-6894 kPa), and a reaction time of 3 to 12 hr.</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>The method of claim 4 wherein a molar ratio of the noble metal nanoparticles to the furan-based compound is 1:5 - 200.</claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>The method of claim 4, wherein oxidation of the furan-based compound is carried out in a single vessel using water as a solvent under base-free conditions.</claim-text></claim>
+</claims>
+<claims id="claims02" lang="de"><!-- EPO <DP n="28"> -->
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Ein Katalysator zur Herstellung von 2,5-Furandicarbonsäure (FDCA), welcher ein Katalysator für die Carboxylierung einer Furan-basierten Verbindung ist, welche eine Hydroxylgruppe und eine Carbonylgruppe oder ein Derivat davon enthält, und welcher so konfiguriert ist, dass Ruthenium Metall Nanopartikel in ein MnCo<sub>2</sub>O<sub>4</sub> oder CoMn<sub>2</sub>O<sub>4</sub> Spinell-typ Trägermaterial eingebettet sind.</claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Der Katalysator nach Anspruch 1, wobei das Trägermaterial eine durchschnittliche Partikelgröße (D50) von 2.0 bis 4.0 µm hat.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Der Katalysator nach Anspruch 1, wobei die Ruthenium Nanopartikel in einer Menge von 0.1 bis 10% w/w basierend auf dem Gesamtgewicht des Katalysators verwendet werden.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Eine Methode zur Herstellung von 2,5-Furandicarbonsäure (FDCA), umfassend die Carboxylierung einer Furan-basierten Verbindung, welche eine Hydroxylgruppe und eine Carbonylgruppe oder ein Derivat davon enthält, unter Verwendung eines Katalysators der so konfiguriert ist, dass Ruthenium Nanopartikel in ein MnCo<sub>2</sub>O<sub>4</sub> oder CoMn<sub>2</sub>O<sub>4</sub> Spinell-typ Trägermaterial eingebettet sind.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Die Methode nach Anspruch 4, wobei die Furan-basierte Verbindung, welche eine Hydroxylgruppe und eine Carbonylgruppe oder ein Derivat davon enthält, 5-Hydroxymethylfurfural (HMF) ist.</claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Die Methode nach Anspruch 4, wobei das Derivate der Furan-basierten Verbindung 2-acetoxymethyl-5-furfural (AMF) ist.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Die Methode nach Anspruch 4, wobei die Oxidation der Furan-basierten Verbindung unter den Bedingungen einer Temperatur von 100-200 °C, eines Drucks von 80 bis 1000 psi (551-6894 kPa), und einer Reaktionszeit von 3 bis 12 h durchgeführt wird.</claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Die Methode nach Anspruch 4, wobei das Molverhältnis der Edelmetall Nanopartikel zu der Furan-basierten Verbindung 1:5 - 200 ist.</claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Die Methode nach Anspruch 4, wobei die Oxidation der Furan-basierten Verbindung in einem einzelnen Gefäß unter Verwendung von Wasser als Lösungsmittel unter Basen-freien Bedingungen durchgeführt wird.</claim-text></claim>
+</claims>
+<claims id="claims03" lang="fr"><!-- EPO <DP n="29"> -->
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Catalyseur pour la préparation d'acide 2,5-furandicarboxylique (FDCA), qui est un catalyseur pour la carboxylation d'un composé à base de furane contenant un groupe hydroxyle et un groupe carbonyle ou un dérivé de ceux-ci et est configuré de telle sorte que des nanoparticules de ruthénium sont incorporées dans un support MnCo<sub>2</sub>O<sub>4</sub> ou CoMn<sub>2</sub>O<sub>4</sub> de type spinelle.</claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Catalyseur selon la revendication 1, dans lequel le support a une taille de particule moyenne (D50) allant de 2,0 à 4,0 µm.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Catalyseur selon la revendication 1, dans lequel les nanoparticules de ruthénium sont utilisées en une quantité allant de 0,1 à 10 % en poids par rapport au poids total du catalyseur.</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Procédé de préparation d'acide 2,5-furandicarboxylique (FDCA), comprenant la carboxylation d'un composé à base de furane contenant un groupe hydroxyle et un groupe carbonyle ou un dérivé de ceux-ci en utilisant un catalyseur configuré de telle sorte que des nanoparticules de ruthénium sont incorporées dans un support MnCo<sub>2</sub>O<sub>4</sub> ou CoMn<sub>2</sub>O<sub>4</sub> de type spinelle.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Procédé selon la revendication 4, dans lequel le composé à base de furane contenant un groupe hydroxyle et un groupe carbonyle est le 5-hydroxyméthylfurfural (HMF).<!-- EPO <DP n="30"> --></claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Procédé selon la revendication 4, dans lequel le dérivé du composé à base de furane est le 2-acétoxyméthyl-5-furfural (AMF) .</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Procédé selon la revendication 4, dans lequel l'oxydation du composé à base de furane est effectuée dans des conditions de température allant de 100 à 200°C, de pression d'air allant de 80 à 1000 psi (551 à 6894 kPa) et de temps de réaction allant de 3 à 12 heures.</claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Procédé selon la revendication 4, dans lequel un rapport molaire des nanoparticules de métal noble au composé à base de furane va de 1:5 à 1:200.</claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Procédé selon la revendication 4, dans lequel l'oxydation du composé à base de furane est effectuée dans un seul récipient en utilisant de l'eau comme solvant en l'absence de base.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="31"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="132" he="115" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="32"> -->
+<figure id="f0002" num="2"><img id="if0002" file="imgf0002.tif" wi="135" he="115" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="33"> -->
+<figure id="f0003" num="3"><img id="if0003" file="imgf0003.tif" wi="134" he="115" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="34"> -->
+<figure id="f0004" num="4"><img id="if0004" file="imgf0004.tif" wi="133" he="191" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="35"> -->
+<figure id="f0005" num="5(a),5(b),5(c),5(d),5(e),5(f)"><img id="if0005" file="imgf0005.tif" wi="127" he="203" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="US20120059178A1"><document-id><country>US</country><doc-number>20120059178</doc-number><kind>A1</kind></document-id></patcit><crossref idref="pcit0001">[0005]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="US20110092720A1"><document-id><country>US</country><doc-number>20110092720</doc-number><kind>A1</kind></document-id></patcit><crossref idref="pcit0002">[0006]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="CN103724303"><document-id><country>CN</country><doc-number>103724303</doc-number></document-id></patcit><crossref idref="pcit0003">[0009]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="US20120059178A"><document-id><country>US</country><doc-number>20120059178</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0004">[0011]</crossref></li>
+<li><patcit id="ref-pcit0005" dnum="US20110092720A"><document-id><country>US</country><doc-number>20110092720</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0005">[0012]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="s"><article><author><name>GORBANEV et al.</name></author><atl/><serial><sertitle>Catal letters</sertitle><pubdate><sdate>20110000</sdate><edate/></pubdate><vid>141</vid></serial><location><pp><ppf>1752</ppf><ppl>1760</ppl></pp></location></article></nplcit><crossref idref="ncit0001">[0008]</crossref></li>
+<li><nplcit id="ref-ncit0002" npl-type="s"><article><author><name>ZHANG et al.</name></author><atl/><serial><sertitle>ACS catalysis</sertitle><pubdate><sdate>20150000</sdate><edate/></pubdate><vid>5</vid><ino>11</ino></serial><location><pp><ppf>6529</ppf><ppl>6544</ppl></pp></location></article></nplcit><crossref idref="ncit0002">[0010]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

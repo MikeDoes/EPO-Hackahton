@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP18767255B1" file="EP18767255NWB1.xml" lang="en" country="EP" doc-number="3597703" kind="B1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSK..HRIS..MTNORS..SM..................</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  2100000/0</B007EP></eptags></B000><B100><B110>3597703</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>18767255.5</B210><B220><date>20180228</date></B220><B240><B241><date>20190816</date></B241></B240><B250>ja</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>2017046905</B310><B320><date>20170313</date></B320><B330><ctry>JP</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20200122</date><bnum>202004</bnum></B430><B450><date>20211006</date><bnum>202140</bnum></B450><B452EP><date>20210506</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>C08L  79/04        20060101AFI20210326BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C08L  51/04        20060101ALI20210326BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>C08K   3/36        20060101ALI20210326BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>C08J   5/24        20060101ALI20210326BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cset><classification-cset group-number="1"><classification-cpc rank="1"><text>C08L  79/04        20130101 LI20201116BHEP        </text></classification-cpc><classification-cpc rank="2"><text>C08L  51/04        20130101 LI20201116BHEP        </text></classification-cpc><classification-cpc rank="3"><text>C08K   3/36        20130101 LI20201116BHEP        </text></classification-cpc><classification-cpc rank="4"><text>C08K   5/0025      20130101 LI20201116BHEP        </text></classification-cpc></classification-cset><classification-cset group-number="2"><classification-cpc rank="1"><text>C08L  51/04        20130101 LI20201130BHEP        </text></classification-cpc><classification-cpc rank="2"><text>C08L  79/04        20130101 LI20201130BHEP        </text></classification-cpc><classification-cpc rank="3"><text>C08K   3/36        20130101 LI20201130BHEP        </text></classification-cpc><classification-cpc rank="4"><text>C08K   5/0025      20130101 LI20201130BHEP        </text></classification-cpc></classification-cset></classifications-cset><classifications-cpc><classification-cpc sequence="1"><text>C08J2379/04        20130101 LA20201214BHEP        </text></classification-cpc><classification-cpc sequence="2"><text>C08L  79/04        20130101 LI20181013BHEP        </text></classification-cpc><classification-cpc sequence="3"><text>C08J   5/24        20130101 FI20181013BHEP        </text></classification-cpc><classification-cpc sequence="4"><text>C08K   3/36        20130101 LI20181013BHEP        </text></classification-cpc><classification-cpc sequence="5"><text>C08J2451/04        20130101 LA20201216BHEP        </text></classification-cpc><classification-cpc sequence="6"><text>C08L  51/04        20130101 LI20181013BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>CYANATESTERHARZZUSAMMENSETZUNG UND PREPREG</B542><B541>en</B541><B542>CYANATE ESTER RESIN COMPOSITION AND PREPREG</B542><B541>fr</B541><B542>COMPOSITION DE RÉSINE D'ESTER DE CYANATE ET PRÉIMPRÉGNÉ</B542></B540><B560><B561><text>WO-A1-2016/060166</text></B561><B561><text>JP-A- S62 146 927</text></B561><B561><text>JP-A- 2009 013 254</text></B561><B561><text>JP-A- 2013 064 136</text></B561><B561><text>JP-A- 2016 210 993</text></B561><B561><text>US-A1- 2012 111 621</text></B561><B561><text>US-A1- 2013 045 650</text></B561><B565EP><date>20201217</date></B565EP></B560></B500><B700><B720><B721><snm>IWATA, Mitsuhiro</snm><adr><str>c/o THE YOKOHAMA RUBBER Co. Ltd.
+Hiratsuka Factory
+2-1 Oiwake</str><city>Hiratsuka-shi
+Kanagawa 254-8601</city><ctry>JP</ctry></adr></B721><B721><snm>KAMIMURA, Yukihiro</snm><adr><str>c/o THE YOKOHAMA RUBBER Co. Ltd.
+Hiratsuka Factory
+2-1 Oiwake</str><city>Hiratsuka-shi
+Kanagawa 254-8601</city><ctry>JP</ctry></adr></B721><B721><snm>ITO, Tomohiro</snm><adr><str>c/o THE YOKOHAMA RUBBER Co. Ltd.
+Hiratsuka Factory
+2-1 Oiwake</str><city>Hiratsuka-shi
+Kanagawa 254-8601</city><ctry>JP</ctry></adr></B721></B720><B730><B731><snm>The Yokohama Rubber Co., Ltd.</snm><iid>100813044</iid><irf>Y 1881 EP</irf><adr><str>36-11 Shimbashi 5-chome</str><city>Minato-ku
+Tokyo 105-8685</city><ctry>JP</ctry></adr></B731></B730><B740><B741><snm>Dilg, Haeusler, Schindelmann 
+Patentanwaltsgesellschaft mbH</snm><iid>100964928</iid><adr><str>Leonrodstraße 58</str><city>80636 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B860><B861><dnum><anum>JP2018007445</anum></dnum><date>20180228</date></B861><B862>ja</B862></B860><B870><B871><dnum><pnum>WO2018168461</pnum></dnum><date>20180920</date><bnum>201838</bnum></B871></B870></B800></SDOBI>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">Technical Field</heading>
+<p id="p0001" num="0001">The present invention relates to a cyanate ester resin composition and a prepreg.</p>
+<heading id="h0002">Background Art</heading>
+<p id="p0002" num="0002">Fiber-reinforced composite materials with thermosetting resins including epoxy resins as a matrix are known. For example, Patent Document 1 discloses an epoxy resin composition containing an epoxy resin as a matrix, a thermoplastic resin for viscosity adjustment, a filler, and a curing agent, and a prepreg obtained by combining the composition and a reinforcing fiber. Such a prepreg is used in a wide range of fields including structural materials such as aircrafts and vehicles, reinforcing of concrete structures, sports fields such as golf clubs, tennis rackets, and fishing rods because of its lightness and excellent mechanical properties.<!-- EPO <DP n="2"> --></p>
+<p id="p0003" num="0003">One of the characteristics required for the prepreg used in such applications includes heat resistance. Therefore, various fiber-reinforced composite materials having a resin with higher heat resistance than epoxy resins as a matrix have been investigated.</p>
+<heading id="h0003">Citation List</heading>
+<heading id="h0004">Patent Document</heading>
+<p id="p0004" num="0004">Patent Document 1: <patcit id="pcit0001" dnum="JP2011099094A"><text>JP 2011-99094 A </text></patcit></p>
+<heading id="h0005">Summary of the Invention</heading>
+<heading id="h0006">Technical Problem</heading>
+<p id="p0005" num="0005">Resins that may substitute for epoxy resins include cyanate ester resins. Cyanate ester resins have superior heat resistance than epoxy resins, and can withstand heat up to near 300°C, for example.</p>
+<p id="p0006" num="0006">However, cyanate ester resins have the problem that the thermoplastic resin for viscosity adjustment is difficult to dissolve, the viscosity adjustment of the resin composition is difficult, and the resin has a high viscosity at room temperature but has a low viscosity during curing heating. Due to this problem, when the prepreg is heat cured, the resin composition flows out of the reinforcing fiber, and resin defects occur in the obtained fiber-reinforced composite material, and the thickness is non-even. In order to suppress resin flow during curing, the viscosity of the resin composition needs to be higher, but in this case, the viscosity of the resin composition at room temperature is too high, so the workability during prepreg molding will be negatively affected.</p>
+<p id="p0007" num="0007">Therefore, an object of the present invention is to provide a cyanate ester resin composition that can suppress the resin flow during heating and<!-- EPO <DP n="3"> --> curing without adding a thermoplastic resin for viscosity adjustment, eliminate resin defects and uneven thickness, and have excellent workability, and to provide a prepreg using the same.</p>
+<heading id="h0007">Solution to Problem</heading>
+<p id="p0008" num="0008">As a result of diligent research, the present inventors discovered that the problem can be solved by adding a curing agent or a curing accelerator, silica microparticles, and core-shell rubber particles to a cyanate ester resin and limiting the compounding ratio of silica microparticles and core-shell rubber particles with respect to cyanate ester resin to a specified ratio, and thus completed the present invention.</p>
+<p id="p0009" num="0009">The present invention is described as follows.</p>
+<p id="p0010" num="0010">
+<ol id="ol0001" compact="compact" ol-style="">
+<li>1. A cyanate ester resin composition, containing: a cyanate ester resin (A); a curing agent or a curing accelerator (B); silica microparticles (C); and core-shell rubber particles (D); in which the resin composition includes: from 1 to 5 parts by mass of the silica microparticles (C) and from 2 to 10 parts by mass of the core-shell rubber particles (D) based on 100 parts by mass of the cyanate ester resin (A), and a mass ratio of the silica microparticles (C) to the core-shell rubber particles (D) is from 1/1 to 1/5 as (C)/(D).</li>
+<li>2. The cyanate ester resin composition according to 1, in which a tan δ at a strain 1% is less than 1 and a tan δ at a strain 100% is 1 or greater when viscoelasticity is measured at a temperature of 70°C and a frequency 1 Hz on a parallel plate.</li>
+<li>3. The cyanate ester resin composition according to 1, in which the cyanate ester resin (A) is a novolac type cyanate ester resin.</li>
+<li>4. The cyanate ester resin composition according to 1, in which a compounded amount of the silica microparticles (C) per 100 parts by mass of the cyanate ester resin (A) is from 2 to 4 parts by mass.<!-- EPO <DP n="4"> --></li>
+<li>5. The cyanate ester resin composition according to 1, in which a compounded amount of the core-shell rubber particles (D) per 100 parts by mass of the cyanate ester resin (A) is from 4 to 8 parts by mass.</li>
+<li>6. The cyanate ester resin composition according to 1, in which a mass ratio of the silica microparticles (C) to the core-shell rubber particles (D) is from 1/1.5 to 1/4 as (C)/(D).</li>
+<li>7. A prepreg containing the cyanate ester resin composition described in any one of 1 to 6 and a reinforcing fiber.</li>
+<li>8. The prepreg according to 7, in which a content of the cyanate ester resin composition in the prepreg is from 30 to 60 mass%.</li>
+</ol></p>
+<heading id="h0008">Advantageous Effects of Invention</heading>
+<p id="p0011" num="0011">According to the present invention, because the curing agent or the curing accelerator (B), the silica microparticles (C), and the core-shell rubber particles (D) are added to the cyanate ester resin (A), and the compounding ratio of the silica microparticles (C) and the core-shell rubber particles (D) to the cyanate ester resin (A) is limited into a specified ratio, the cyanate ester resin composition that can suppress the resin flow during heating and curing without adding a thermoplastic resin for viscosity adjustment, eliminate resin defects and uneven thickness, and have excellent workability can be provided.</p>
+<p id="p0012" num="0012">In addition, the cyanate ester resin composition of the present invention in which a tan δ at a strain 1% is less than 1 and a tan δ at a strain 100% is 1 or greater when viscoelasticity is measured at a temperature of 70°C and a frequency 1 Hz on a parallel plate has excellent suppression of the resin flow during heating and curing, the elimination of resin defects and uneven thickness, and workability.</p>
+<p id="p0013" num="0013">Furthermore, the prepreg formed from the cyanate ester resin composition and the reinforcing fiber has excellent heat resistance, and also has excellent mechanical strength because resin defects and uneven thickness are also suppressed.<!-- EPO <DP n="5"> --></p>
+<heading id="h0009">Description of Embodiments</heading>
+<p id="p0014" num="0014">Hereinafter, embodiments of the present invention will be described in more detail.</p>
+<heading id="h0010">(A) Cyanate ester resin</heading>
+<p id="p0015" num="0015">The cyanate ester resin (A) used in the present invention is not particularly limited. Generally, the cyanate ester resin is represented by the following formula: <maths id="math0001" num=""><math display="block"><mi mathvariant="normal">R</mi><mo>−</mo><mfenced separators=""><mi mathvariant="normal">O</mi><mo>−</mo><mi mathvariant="normal">C</mi><mo>≡</mo><mi mathvariant="normal">N</mi></mfenced><mi mathvariant="normal">n</mi></math><img id="ib0001" file="imgb0001.tif" wi="36" he="5" img-content="math" img-format="tif"/></maths> (R represents a divalent or higher organic group having an aromatic ring, and n represents an integer of 2 or greater).</p>
+<p id="p0016" num="0016">Examples of such cyanate ester resins include novolac type, bisphenol A type, bisphenol E type, and bisphenol F type cyanate ester resins. Among them, novolac type cyanate ester resins are preferred.</p>
+<p id="p0017" num="0017">Commercially available novolac type resins can be used, and examples thereof include PRIMASET PT-30 and PRIMASET PT-60 available from LONZA Japan.</p>
+<heading id="h0011">(B) Curing agent or curing accelerator</heading>
+<p id="p0018" num="0018">The curing agent or curing accelerator (B) used in the present invention is not particularly limited as long as it is capable of promoting thermal curing of the cyanate ester resin, but examples include metal complexes such as cobalt or copper, alcohols, acids, amines, bases, and the like.</p>
+<heading id="h0012">(C) Silica microparticles</heading>
+<p id="p0019" num="0019">The silica microparticles (C) are preferably hydrophilic silica microparticles. Examples include non-crystalline synthetic silica such as precipitated silica,<!-- EPO <DP n="6"> --> gel-method silica, pyrolyzing silica, and fused silica; crystalline synthetic silica; and natural silica.</p>
+<p id="p0020" num="0020">The average primary particle size of the silica microparticles (C) is preferably from 5 nm to 100 nm.</p>
+<heading id="h0013">(D) Core-shell rubber particles</heading>
+<p id="p0021" num="0021">The core-shell rubber particles (D) used in the present invention are known, and can be, for example, particles obtained by graft polymerization of a shell component polymer that is different from the core component on the surface of the particulate core component containing a crosslinked rubberlike polymer as a main component.</p>
+<p id="p0022" num="0022">Examples of the core component include butadiene rubber, acrylic rubber, silicone rubber, butyl rubber, NBR, SBR, IR, and EPR.</p>
+<p id="p0023" num="0023">Example of the shell component includes a polymer obtained by polymerizing a monomer selected from acrylic acid ester-based monomers, methacrylic acid ester-based monomers, aromatic vinyl monomers, and the like.</p>
+<p id="p0024" num="0024">The average particle size of the core-shell rubber particles (D) is, for example, from 10 nm to 10 µm, and preferably from 100 nm to 500 nm.</p>
+<heading id="h0014">Compounding ratio</heading>
+<p id="p0025" num="0025">The cyanate ester resin composition of the present invention is required that from 1 to 5 parts by mass of silica microparticles (C) and from 2 to 10 parts by mass of core-shell rubber particles (D) is included based on 100 parts by mass of the cyanate ester resin (A), and a mass ratio of silica microparticles (C) to core-shell rubber particles (D) is from 1/1 to 1/5 as (C)/(D).</p>
+<p id="p0026" num="0026">(C) In a case where the compounding ratio of the silica microparticles (C) is less than 1 part by mass or the compounding ratio of the core-shell rubber particles (D) is less than 2 parts by mass, the suppression of the resin flow is insufficient, and the effect of the present invention cannot be achieved.<!-- EPO <DP n="7"> --></p>
+<p id="p0027" num="0027">(C) In a case where the compounding ratio of the silica microparticles (C) exceeds 5 parts by mass, or the compounding ratio of the core-shell rubber particles (D) exceeds 10 parts by mass, the viscosity of the resin composition increases, the workability is negatively affected, and the mechanical properties (mainly elastic modulus) of the cured product will decline.</p>
+<p id="p0028" num="0028">(C) In a case where the mass ratio of the silica microparticles (C) to the core-shell rubber particles (D) is greater than 1/1 as (C)/(D), that is, when the compounded amount of the component (D) is smaller than that of the component (C), the resin flow is insufficient, and the effect of the present invention cannot be achieved.</p>
+<p id="p0029" num="0029">(C) In a case where the mass ratio of the silica microparticles (C) to the core-shell rubber particles (D) is less than 1/5 as (C)/(D), that is, when the compounded amount of the component (D) is too high with respect to that of the component (C), the resin flow suppression effect will be too high, so the workability during prepreg molding will be negatively affected.</p>
+<p id="p0030" num="0030">In the present invention, the compounded amount of the silica microparticles (C) per 100 parts by mass of the cyanate ester resin (A) is more preferably from 2 to 4 parts by mass, and the compounded amount of the core-shell rubber particles (D) is more preferably from 4 to 8 parts by mass, and the mass ratio of the silica microparticles (C) to the core-shell rubber particles (D) is more preferably from 1/1.5 to 1/4 as (C)/(D).</p>
+<p id="p0031" num="0031">Since in the cyanate ester resin composition of the present invention, a tan δ at the strain 1% is less than 1 and a tan δ at a strain 100% is 1 or greater when viscoelasticity is measured at a temperature of 70°C and a frequency 1 Hz on a parallel plate, the resin has excellent suppression of the resin flow during heating and curing, the elimination of resin defects and uneven thickness, and workability. Note that the measurement of viscoelasticity can be measured by using the trade name ARES manufactured by TA Instruments. Furthermore, the viscoelasticity<!-- EPO <DP n="8"> --> described above can be achieved by appropriately setting the compounded amount of the silica microparticles (C) and the core-shell rubber particles (D) to the cyanate ester resin as described above.</p>
+<p id="p0032" num="0032">The cyanate ester resin composition of the present invention can include other additives as needed. Examples of the additives include fillers, anti-aging agents, solvents, flame retardants, reaction retarders, antioxidants, pigments (dyes), plasticizers, thixotropic agents, UV absorbents, surfactants (including leveling agents), dispersants, dewatering agents, adhesion promoters, and anti-static agents.</p>
+<p id="p0033" num="0033">The prepreg of the present invention comprises the cyanate ester resin composition of the present invention and the reinforcing fiber. Specifically, the prepreg of the present invention is obtained by impregnating the reinforcing fiber with the cyanate ester resin composition of the present invention.</p>
+<p id="p0034" num="0034">The reinforcing fiber used in the prepreg of the present invention is not particularly limited, and examples thereof include known products. Of these, from the perspective of strength, the reinforcing fiber is preferably at least one selected from the group consisting of carbon fiber, glass fiber, and aramid fiber.</p>
+<p id="p0035" num="0035">The form of the fiber is not particularly limited, and examples thereof include roving, fiber obtained by lining up roving, woven fabric, nonwoven fabric, knitted fabric, and tulle.</p>
+<p id="p0036" num="0036">A method of manufacturing the prepreg of the present invention is not particularly limited. Examples thereof include wet methods using a solvent and hot-melt methods (solvent-free methods). From the perspective of being able to reduce drying time, an amount of the solvent used is preferably from 80 to 200 parts by mass per 100 parts by mass of the solid content of the cyanate ester resin composition.<!-- EPO <DP n="9"> --></p>
+<p id="p0037" num="0037">In the prepreg of the present invention, the content of cyanate ester resin composition is preferably from 30 to 60 mass% in the prepreg from the perspective of the mechanical properties of the resulting fiber-reinforced composite material.</p>
+<p id="p0038" num="0038">Use of the prepreg of the present invention is not particularly limited. For example, a known fiber-reinforced composite material can be obtained by curing the prepreg of the present invention. Specific examples of uses include aircraft parts (e.g. fairings, flaps, leading edges, floor panels, propellers, fuselages, and the like); two-wheel vehicle parts (e.g. motorcycle frames, cowls, fenders, and the like); automobile parts (e.g. doors, bonnets, tailgates, side fenders, side panels, fenders, energy absorbers, trunk lids, hard tops, side mirror covers, spoilers, diffusers, ski carriers, engine cylinder covers, engine hoods, chassis, air spoilers, propeller shafts, and the like); vehicle exterior plating (e.g. lead car noses, roofs, side panels, doors, truck bed covers, side skirts, and the like); railroad vehicle parts (e.g. luggage racks, seats, and the like); aero parts (e.g. side skirts and the like mounted on automobiles and rigid vehicles such as interior design elements, inner panels, outer panels, roofs, and floors of wings on wing trucks, and the like); use as housings (e.g. notebook computers, portable phones, and the like); medical uses (e.g. X-ray cassettes, table tops, and the like); audio product uses (e.g. flat speaker panels, speaker cones, and the like); sports goods uses (e.g. golf club heads, face masks, snowboards, surf boards, protectors, and the like); and general industrial uses (e.g. flat springs, windmill blades, and elevators (compartment panels, doors).</p>
+<p id="p0039" num="0039">Additionally, a fiber-reinforced composite material can be fabricated by layering the prepreg of the present invention and another member (e.g. a honeycomb core). Examples of the fiber-reinforced composite material that can be fabricated by layering the prepreg of the present invention and another member include honeycomb sandwich panels.<!-- EPO <DP n="10"> --></p>
+<heading id="h0015">Example</heading>
+<p id="p0040" num="0040">The present invention will be described in further detail by way of examples and comparative examples.</p>
+<p id="p0041" num="0041">The following materials were used in the examples below.
+<ol id="ol0002" compact="compact" ol-style="">
+<li>(A) Cyanate ester resin: PRIMASET PT-30 and PRIMASET PT-60 manufactured by LONZA Japan (novolac type cyanate ester resin)</li>
+<li>(B) Curing agent or curing accelerator: DICY - 15 (dicyandiamide) available from Mitsubishi Chemical Corporation</li>
+<li>(C) Silica microparticles: CAB-O-SIL M5 (hydrophilic fumed silica) available from Cabot Corporation</li>
+<li>(D) Core-shell rubber particles: MX-154 (Epoxy Resin/Core-Shell Rubber Particle Master Batch, containing 40 mass% of butadiene-based core-shell rubber particles)</li>
+</ol></p>
+<p id="p0042" num="0042">Various cyanate ester resin compositions were prepared by kneading each of the materials using a kneader at 70°C according to the compounding ratio (parts by mass) shown in Table 1 below.</p>
+<p id="p0043" num="0043">The following measurements were performed on the various cyanate ester resin compositions obtained.</p>
+<p id="p0044" num="0044">Viscoelasticity: The tan δ at strain 1% or 100% was measured on a parallel plate under conditions of a temperature of 70°C and a frequency of 1 Hz using ARES available from TA Instruments.</p>
+<heading id="h0016">Molding prepreg</heading>
+<p id="p0045" num="0045">The cyanate ester resin composition film (resin weight 104 g/m<sup>2</sup>) was impregnated into the glass fiber fabric (fiber basis weight 156 g/m<sup>2</sup>) to<!-- EPO <DP n="11"> --> mold a prepreg. The cyanate ester resin composition in the molded prepreg is 40 mass%.</p>
+<p id="p0046" num="0046">Resin flow: The prepreg was cut into 100 mm × 100 mm, and four sheets of cut prepregs were laminated, and pressed at a temperature of 180°C and a pressure of 3 kgf/cm<sup>2</sup> for 30 min. The weight of the resin cured product protruded from the fiber was measured, and the resin flow was calculated using the following equation. <maths id="math0002" num=""><math display="block"><mtable columnalign="left"><mtr><mtd><mrow><mi>Resin</mi><mspace width="1ex"/><mi>flow</mi></mrow><mfenced><mi>%</mi></mfenced><mo>=</mo><mfenced separators=""><mi>weight</mi><mspace width="1ex"/><mi>of</mi><mspace width="1ex"/><mi>protruded</mi><mspace width="1ex"/><mi>resin</mi><mspace width="1ex"/><mi>cured</mi><mspace width="1ex"/><mi>product</mi></mfenced><mo>/</mo><mrow><mo>(</mo><mrow><mi>weight</mi><mspace width="1ex"/><mi>of</mi></mrow></mrow></mtd></mtr><mtr><mtd><mrow><mrow><mi>laminate</mi><mspace width="1ex"/><mi>before</mi><mspace width="1ex"/><mi>pressing</mi></mrow><mo>)</mo></mrow><mo>×</mo><mn>100</mn></mtd></mtr></mtable></math><img id="ib0002" file="imgb0002.tif" wi="149" he="12" img-content="math" img-format="tif"/></maths></p>
+<p id="p0047" num="0047">Workability: The workability when preparing the cyanate ester resin composition film and when impregnating the glass fiber fabric was evaluated according to the following evaluation criteria.
+<ul id="ul0001" list-style="none" compact="compact">
+<li>Good: Good film preparing and good impregnability to glass fiber fabric</li>
+<li>Poor: Prepreg cannot be molded due to difficulty in preparing the film</li>
+</ul></p>
+<p id="p0048" num="0048">Dimensional Stability: The prepreg was cut into 300 mm × 300 mm, ten sheets of cut prepregs were laminated, and cured in an autoclave at 180°C for 2 hours to obtain a fiber-reinforced composite material. The thickness of the obtained fiber-reinforced composite material was measured. When the difference between the maximum thickness and the minimum thickness was 5% or less of the maximum thickness, the dimensional stability was determined to be good.</p>
+<p id="p0049" num="0049">The results are shown in Table 1.<!-- EPO <DP n="12"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>[Table 1]</title>
+<tgroup cols="10">
+<colspec colnum="1" colname="col1" colwidth="46mm"/>
+<colspec colnum="2" colname="col2" colwidth="18mm"/>
+<colspec colnum="3" colname="col3" colwidth="18mm"/>
+<colspec colnum="4" colname="col4" colwidth="18mm"/>
+<colspec colnum="5" colname="col5" colwidth="18mm"/>
+<colspec colnum="6" colname="col6" colwidth="18mm"/>
+<colspec colnum="7" colname="col7" colwidth="27mm"/>
+<colspec colnum="8" colname="col8" colwidth="27mm"/>
+<colspec colnum="9" colname="col9" colwidth="27mm"/>
+<colspec colnum="10" colname="col10" colwidth="27mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col10" align="right" valign="middle">(Part by mass)</entry></row>
+<row>
+<entry align="center" valign="middle">Material</entry>
+<entry align="center" valign="middle">Product name</entry>
+<entry align="center" valign="middle">Example 1</entry>
+<entry align="center" valign="middle">Example 2</entry>
+<entry align="center" valign="middle">Example 3</entry>
+<entry align="center" valign="middle">Example 4</entry>
+<entry align="center" valign="middle">Comparative Example 1</entry>
+<entry align="center" valign="middle">Comparative Example 2</entry>
+<entry align="center" valign="middle">Comparative Example 3</entry>
+<entry align="center" valign="middle">Comparative Example 4</entry></row></thead>
+<tbody>
+<row>
+<entry morerows="1" valign="middle">(A) Cyanate ester resin</entry>
+<entry valign="middle">PT-30</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">100</entry>
+<entry align="center" valign="middle">70</entry>
+<entry align="center" valign="middle">70</entry></row>
+<row>
+<entry valign="middle">PT-60</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">30</entry></row>
+<row>
+<entry valign="middle">(B) Curing agent or curing accelerator</entry>
+<entry valign="middle">DICY-15</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">1</entry></row>
+<row>
+<entry valign="middle">(C) Silica microparticles</entry>
+<entry valign="middle">CAB-O-SIL M5</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">6</entry></row>
+<row>
+<entry valign="middle">(D) Epoxy resin/core-shell rubber particle master batch</entry>
+<entry valign="middle">MX-154</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">25</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">2.5</entry>
+<entry align="center" valign="middle">30</entry></row>
+<row>
+<entry valign="middle">Core-shell rubber particles in the master batch</entry>
+<entry valign="middle"/>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">10</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">4</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">12</entry></row>
+<row>
+<entry valign="middle">Viscoelasticity (strain 1%)</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">0.10</entry>
+<entry align="center" valign="middle">0.22</entry>
+<entry align="center" valign="middle">0.08</entry>
+<entry align="center" valign="middle">0.16</entry>
+<entry align="center" valign="middle">40.23</entry>
+<entry align="center" valign="middle">2.25</entry>
+<entry align="center" valign="middle">23.92</entry>
+<entry align="center" valign="middle">0.07</entry></row>
+<row>
+<entry valign="middle">Viscoelasticity (strain 100%)</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">1.05</entry>
+<entry align="center" valign="middle">2.57</entry>
+<entry align="center" valign="middle">1.11</entry>
+<entry align="center" valign="middle">1.89</entry>
+<entry align="center" valign="middle">42.68</entry>
+<entry align="center" valign="middle">4.10</entry>
+<entry align="center" valign="middle">27.14</entry>
+<entry align="center" valign="middle">0.63</entry></row>
+<row>
+<entry valign="middle">Resin Flow (%)</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">8.3</entry>
+<entry align="center" valign="middle">12.4</entry>
+<entry align="center" valign="middle">9.0</entry>
+<entry align="center" valign="middle">11.2</entry>
+<entry align="center" valign="middle">24.5</entry>
+<entry align="center" valign="middle">18.4</entry>
+<entry align="center" valign="middle">20.5</entry>
+<entry align="center" valign="middle">4.3</entry></row>
+<row>
+<entry valign="middle">Workability</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">Good</entry>
+<entry align="center" valign="middle">Good</entry>
+<entry align="center" valign="middle">Good</entry>
+<entry align="center" valign="middle">Good</entry>
+<entry align="center" valign="middle">Good</entry>
+<entry align="center" valign="middle">Good</entry>
+<entry align="center" valign="middle">Good</entry>
+<entry align="center" valign="middle">Poor</entry></row>
+<row>
+<entry valign="middle">Dimensional Stability (%)</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">4.3</entry>
+<entry align="center" valign="middle">4.8</entry>
+<entry align="center" valign="middle">3.9</entry>
+<entry align="center" valign="middle">4.6</entry>
+<entry align="center" valign="middle">12.9</entry>
+<entry align="center" valign="middle">10.3</entry>
+<entry align="center" valign="middle">9.5</entry>
+<entry align="center" valign="middle">-</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0050" num="0050">From the results shown in Table 1, it was found that the cyanate ester resin composition of each Examples in which the curing agent or the curing accelerator (B), the silica microparticles (C), and the core-shell rubber particles (D) are added to the cyanate ester resin (A), and the compounding ratio of the silica microparticles (C) and the core-shell rubber particles (D) to the cyanate ester resin (A) is limited into a specified ratio of the present invention can suppress the resin flow during heating and curing without adding a thermoplastic resin for viscosity adjustment, eliminate resin defects and uneven thickness, and has excellent workability.<!-- EPO <DP n="13"> --> Additionally, since in the cyanate ester resin composition of each Examples, a tan δ at a strain 1% is less than 1 and a tan δ at a strain 100% is 1 or greater when viscoelasticity is measured at a temperature of 70°C and a frequency 1 Hz on a parallel plate, the resin composition is solid-like at low strain (tan δ of less than 1) and can suppress the resin flow during heating and curing, and is liquid-like at high strain (tan δ of 1 or greater) and has good workability during film applying and impregnating.</p>
+<p id="p0051" num="0051">In contrast, in Comparative Example 1, the results of resin flow and dimensional stability were negatively affected because the core-shell rubber particles (D) were not added.</p>
+<p id="p0052" num="0052">In Comparative Example 2, the results of resin flow and dimensional stability were negatively affected because the silica microparticles (C) were not added.</p>
+<p id="p0053" num="0053">In Comparative Example 3, the results of resin flow and dimensional stability were negatively affected because the compounded amount of the core-shell rubber particles (D) was less than the lower limit specified in the present invention.</p>
+<p id="p0054" num="0054">In Comparative Example 4, the results of workability was negatively affected because the compounded amount of the silica microparticles (C) and the compounded amount of the core-shell rubber particles (D) are both beyond the upper limit specified in the present invention.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="14"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A cyanate ester resin composition, comprising:
+<claim-text>a cyanate ester resin (A);</claim-text>
+<claim-text>a curing agent or a curing accelerator (B);</claim-text>
+<claim-text>silica microparticles (C); and</claim-text>
+<claim-text>core-shell rubber particles (D), wherein</claim-text>
+the resin composition includes from 1 to 5 parts by mass of the silica microparticles (C) and from 2 to 10 parts by mass of the core-shell rubber particles (D) based on 100 parts by mass of the cyanate ester resin (A), and<br/>
+a mass ratio of the silica microparticles (C) to the core-shell rubber particles (D) is from 1/1 to 1/5 as (C)/(D).</claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>The cyanate ester resin composition according to claim 1, wherein<br/>
+a tan δ at a strain 1% is less than 1 and a tan δ at a strain 100% is 1 or greater when viscoelasticity is measured at a temperature of 70°C and a frequency 1 Hz on a parallel plate.</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>The cyanate ester resin composition according to claim 1, wherein<br/>
+the cyanate ester resin (A) is a novolac type cyanate ester resin.</claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>The cyanate ester resin composition according to claim 1, wherein<br/>
+a compounded amount of the silica microparticles (C) per 100 parts by mass of the cyanate ester resin (A) is from 2 to 4 parts by mass.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>The cyanate ester resin composition according to claim 1, wherein<br/>
+a compounded amount of the core-shell rubber particles (D) per 100 parts by mass of the cyanate ester resin (A) is from 4 to 8 parts by mass.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>The cyanate ester resin composition according to claim 1, wherein<br/>
+<!-- EPO <DP n="15"> -->a mass ratio of the silica microparticles (C) to the core-shell rubber particles (D) is from 1/1.5 to 1/4 as (C)/(D).</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>A prepreg comprising the cyanate ester resin composition described in any one of claims 1 to 6 and a reinforcing fiber.</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>The prepreg according to claim 7, wherein a content of the cyanate ester resin composition in the prepreg is from 30 to 60 mass%.</claim-text></claim>
+</claims>
+<claims id="claims02" lang="de"><!-- EPO <DP n="16"> -->
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Cyanatesterharzzusammensetzung, umfassend:
+<claim-text>ein Cyanatesterharz (A);</claim-text>
+<claim-text>ein Härtungsmittel oder einen Härtungsbeschleuniger (B);</claim-text>
+<claim-text>Silica-Mikropartikel (C); und</claim-text>
+<claim-text>Kern-Schale-Kautschukpartikel (D), wobei</claim-text>
+die Harzzusammensetzung von 1 bis 5 Massenteile die Silica-Mikropartikel (C) und von 2 bis 10 Massenteile die Kern-Schale-Kautschukpartikel (D), basierend auf 100 Massenteilen des Cyanatesterharzes (A), einschließt, und<br/>
+ein Massenverhältnis der Silica-Mikropartikel (C) zu den Kern-Schale-Kautschukpartikeln (D) von 1/1 bis 1/5 (C)/(D) beträgt.</claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Cyanatesterharzzusammensetzung nach Anspruch 1, wobei ein tan δ bei einer Dehnung von 1 % kleiner als 1 ist und ein tan δ bei einer Dehnung von 100 % 1 oder größer ist, wenn die Viskoelastizität bei einer Temperatur von 70 °C und einer Frequenz von 1 Hz auf einer parallelen Platte gemessen wird.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Cyanatesterharzzusammensetzung nach Anspruch 1, wobei das Cyanatesterharz (A) ein Cyanatesterharz vom Novolaktyp ist.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Cyanatesterharzzusammensetzung nach Anspruch 1, wobei ein Mischanteil der Silica-Mikropartikel (C) pro 100 Massenteile des Cyanatesterharzes (A) von 2 bis 4 Massenteile beträgt.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Cyanatesterharzzusammensetzung nach Anspruch 1, wobei ein Mischanteil der Kern-Schale-Kautschukpartikel (D) pro 100 Massenteile des Cyanatesterharzes (A) von 4 bis 8 Massenteile beträgt.</claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Cyanatesterharzzusammensetzung nach Anspruch 1, wobei ein Massenverhältnis der Silica-Mikropartikel (C) zu den Kern-Schale-Kautschukpartikeln (D) von 1/1,5 bis 1/4 (C)/(D) beträgt.<!-- EPO <DP n="17"> --></claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Prepreg, umfassend die Cyanatesterharzzusammensetzung nach einem der Ansprüche 1 bis 6 und eine Verstärkungsfaser.</claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Prepreg nach Anspruch 7, wobei ein Gehalt der Cyanatesterharzzusammensetzung in dem Prepreg von 30 bis 60 Massen-% beträgt.</claim-text></claim>
+</claims>
+<claims id="claims03" lang="fr"><!-- EPO <DP n="18"> -->
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Composition de résine ester de cyanate, comprenant :
+<claim-text>une résine ester de cyanate (A) ;</claim-text>
+<claim-text>un agent de durcissement ou un accélérateur de durcissement (B) ;</claim-text>
+<claim-text>des microparticules de silice (C) ; et</claim-text>
+<claim-text>des particules de caoutchouc à noyau-enveloppe (D), dans laquelle</claim-text>
+la composition de résine inclut de 1 à 5 parties en masse des microparticules de silice (C) et de 2 à 10 parties en masse des particules de caoutchouc à noyau-enveloppe (D) sur la base de 100 parties en masse de la résine ester de cyanate (A), et<br/>
+un rapport massique des microparticules de silice (C) aux particules de caoutchouc à noyau-enveloppe (D) va de 1/1 à 1/5 en tant que (C)/(D).</claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Composition de résine ester de cyanate selon la revendication 1, dans laquelle une tan δ à une déformation 1 % est inférieure à 1 et une tan δ à une déformation 100 % vaut 1 ou plus lorsque la viscoélasticité est mesurée à une température de 70 °C et à une fréquence 1 Hz sur une plaque parallèle.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Composition de résine ester de cyanate selon la revendication 1, dans laquelle la résine ester de cyanate (A) est une résine ester de cyanate de type novolac.</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Composition de résine ester de cyanate selon la revendication 1, dans laquelle une quantité mélangée des microparticules de silice (C) pour 100 parties en masse de la résine ester de cyanate (A) va de 2 à 4 parties en masse.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Composition de résine ester de cyanate selon la revendication 1, dans laquelle une quantité mélangée des particules de caoutchouc à noyau-enveloppe (D) pour 100 parties en masse de la résine ester de cyanate (A) va de 4 à 8 parties en masse.</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Composition de résine ester de cyanate selon la revendication 1, dans laquelle un rapport massique des microparticules de silice (C) aux particules de caoutchouc à noyau-enveloppe (D) va de 1/1,5 à 1/4 en tant que (C)/(D).<!-- EPO <DP n="19"> --></claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Préimprégné comprenant la composition de résine ester de cyanate décrite dans l'une quelconque des revendications 1 à 6 et une fibre de renforcement.</claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Préimprégné selon la revendication 7, dans lequel une teneur de la composition de résine ester de cyanate dans le préimprégné va de 30 à 60 % en masse.</claim-text></claim>
+</claims>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="JP2011099094A"><document-id><country>JP</country><doc-number>2011099094</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0004]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

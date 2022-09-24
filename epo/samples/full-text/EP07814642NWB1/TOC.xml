@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE package-index PUBLIC "-//EPO//PACKAGE INDEX 1.2//EN" "package-index-v1-2.dtd">
+<package-index>
+<package-file size="107659">
+<filename>EP07814642NWB1.xml</filename>
+<file-location>.</file-location>
+<subdocs>
+<subdoc subdoc-code="bibl"></subdoc>
+<subdoc subdoc-code="desc"></subdoc>
+<subdoc subdoc-code="clms"></subdoc>
+<subdoc subdoc-code="draw"></subdoc>
+<subdoc subdoc-code="epref"></subdoc>
+</subdocs>
+</package-file>
+<package-file size="435183">
+<filename>EP07814642NWB1.pdf</filename>
+<file-location>.</file-location>
+<subdocs>
+<subdoc subdoc-code="bibl"></subdoc>
+<subdoc subdoc-code="desc"></subdoc>
+<subdoc subdoc-code="clms"></subdoc>
+<subdoc subdoc-code="draw"></subdoc>
+<subdoc subdoc-code="epref"></subdoc>
+</subdocs>
+</package-file>
+<package-file size="8857">
+<filename>imgf0001.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="7075">
+<filename>imgf0002.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="8354">
+<filename>imgf0003.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="4476">
+<filename>imgf0004.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="8285">
+<filename>imgf0005.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="27766">
+<filename>imgf0006.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="4887">
+<filename>imgf0007.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="5036">
+<filename>imgf0008.tif</filename>
+<file-location>.</file-location>
+</package-file>
+<package-file size="6650">
+<filename>imgf0009.tif</filename>
+<file-location>.</file-location>
+</package-file>
+</package-index>

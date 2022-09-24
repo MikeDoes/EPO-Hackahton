@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP14744532B1" file="EP14744532NWB1.xml" lang="en" country="EP" doc-number="3024950" kind="B1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSK..HRIS..MTNORS..SM..................</B001EP><B003EP>*</B003EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  2100000/0</B007EP></eptags></B000><B100><B110>3024950</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>14744532.4</B210><B220><date>20140725</date></B220><B240><B241><date>20160128</date></B241><B242><date>20180309</date></B242></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>13178154</B310><B320><date>20130726</date></B320><B330><ctry>EP</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20160601</date><bnum>201622</bnum></B430><B450><date>20211006</date><bnum>202140</bnum></B450><B452EP><date>20210421</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>C14C   3/20        20060101AFI20150205BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C14C   3/22        20060101ALI20150205BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>C14C   3/28        20060101ALI20150205BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>C14C   3/10        20060101ALI20150205BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>C14C   9/02        20060101ALI20150205BHEP        </text></classification-ipcr><classification-ipcr sequence="6"><text>C14C  11/00        20060101ALI20150205BHEP        </text></classification-ipcr><classification-ipcr sequence="7"><text>C09D 175/04        20060101ALI20150205BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cset><classification-cset group-number="1"><classification-cpc rank="1"><text>C09D 175/04        20130101 LI20140116BHEP        </text></classification-cpc><classification-cpc rank="2"><text>C08L  75/08        20130101 LI20140116BHEP        </text></classification-cpc></classification-cset></classifications-cset><classifications-cpc><classification-cpc sequence="1"><text>C14C   3/28        20130101 FI20160610BHEP        </text></classification-cpc><classification-cpc sequence="2"><text>C14C   3/22        20130101 LI20160610BHEP        </text></classification-cpc><classification-cpc sequence="3"><text>C14C   3/10        20130101 LI20140116BHEP        </text></classification-cpc><classification-cpc sequence="4"><text>C14C   3/20        20130101 LI20160610BHEP        </text></classification-cpc><classification-cpc sequence="5"><text>C14C   9/02        20130101 LI20140116BHEP        </text></classification-cpc><classification-cpc sequence="6"><text>C14C  11/006       20130101 LI20140116BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>VERFAHREN ZUM NACHGERBEN VON LEDER</B542><B541>en</B541><B542>PROCESS FOR RETANNING LEATHER</B542><B541>fr</B541><B542>PROCÉDÉ DE CORROYAGE DE CUIR</B542></B540><B560><B561><text>EP-A1- 1 279 746</text></B561><B561><text>WO-A1-2008/043643</text></B561><B561><text>MX-A- 2007 009 336</text></B561><B562><text>None</text></B562></B560></B500><B700><B720><B721><snm>FENNEN, Jens</snm><adr><str>Stückweg 1</str><city>79639 Grenzach-Wyhlen</city><ctry>DE</ctry></adr></B721><B721><snm>KIENTZ, Eric</snm><adr><str>5 Rue Saint Bernard</str><city>F-68480 Ferrette</city><ctry>FR</ctry></adr></B721><B721><snm>DÖPPERT, Florian</snm><adr><str>Talstrasse 25A</str><city>79418 Schliengen</city><ctry>DE</ctry></adr></B721><B721><snm>SCHULTE, Nina</snm><adr><str>Breisacherstrasse 151B</str><city>79110 Freiburg</city><ctry>DE</ctry></adr></B721></B720><B730><B731><snm>TFL Ledertechnik GmbH</snm><iid>100235124</iid><irf>PC 16 0651 B EP</irf><adr><str>Peter-Krauseneck-Strasse 16</str><city>79618 Rheinfelden</city><ctry>DE</ctry></adr></B731></B730><B740><B741><snm>Maucher Jenkins 
+Patent- und Rechtsanwälte</snm><iid>100060013</iid><adr><str>Urachstrasse 23</str><city>79102 Freiburg i. Br.</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B860><B861><dnum><anum>EP2014066066</anum></dnum><date>20140725</date></B861><B862>en</B862></B860><B870><B871><dnum><pnum>WO2015011272</pnum></dnum><date>20150129</date><bnum>201504</bnum></B871></B870></B800></SDOBI>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<p id="p0001" num="0001">The present invention is directed to a process for retanning leather as well as leather produced thereby as mentioned in claim 1 or a dependent claim, leather obtained by said process and the use of said leather as buffed or full-grain leather or as split leather for automotive, furniture, garment, glove, bag, aircraft, lining and/or upper leather articles.</p>
+<p id="p0002" num="0002">The use of hollow microspheres in the process of retanning leather has been described in the art. All of the processes have in common that the hollow microspheres used are filled with a propellant which expand the microspheres due to a heat treatment step.</p>
+<p id="p0003" num="0003"><patcit id="pcit0001" dnum="US5368609A"><text>US 5,368,609</text></patcit> relates to a softening filler for leather comprising thermo-expansible microcapsules of thermoplastic resin. By entering the spaces between the leather fibers during impregnation, followed by heat treatment where the microcapsules expand, the spaces are expanded making the leather soft and voluminous.</p>
+<p id="p0004" num="0004"><patcit id="pcit0002" dnum="EP1270746A1"><text>EP 1 270 746 A1</text></patcit> refers to a process for the preparation of leather comprising a step of adding to wet skin thermally expandable microspheres. The thermally expandable microspheres used have a thermoplastic polymer shell encapsulating a propellant. Said thermally expandable microspheres are added to wet skin, followed by a step of heat treatment at a temperature sufficient to result in expansion of the microspheres captured in the skin. During heat treatment the shell softens and gives way to the internal pressure of the evaporating propellant, resulting in significant expansion of the microspheres, normally about 2 to about 5 times their diameter. The aim of encapsulating and expanding microspheres within the skin is to give more substance (thicker leather) as well as to increase the area yield of skin. However, due to the heat treatment step the leather is detrimentally affected, since it becomes slightly brittle.<!-- EPO <DP n="2"> --></p>
+<p id="p0005" num="0005">Also <patcit id="pcit0003" dnum="WO2008043643A1"><text>WO 2008/043643 A1</text></patcit> refers to a process for retanning leather using hollow microspheres wherein a tanned leather is treated in aqueous liquor in the presence of hollow microspheres filled with a blowing agent. The leather obtained is dried after further optional retanning steps and treated with steam and infra-red at 80 to 120 °C. Due to the treatment with steam the blowing agent present in the microspheres expands resulting in expansion of the microspheres of 2 to 5 times their diameter.Also with this process, due to the heat treatment step the leather is detrimentally affected, since it becomes slightly brittle. The very short exposure time to steam and IR may also carry the risk to not fully expand the microspheres in the cross-section of the leather.</p>
+<p id="p0006" num="0006">The hollow microspheres used in <patcit id="pcit0004" dnum="WO2008043643A1"><text>WO 2008/043643 A1</text></patcit> are unexpanded microspheres being filled with a blowing agent. Consequently, the true density and the bulk density of a dray powder of such unexpanded microspheres at 25 °C are respectively in the range 1.0 to 1.2 g/cm<sup>3</sup> (true density) and 0.6 to 0.8 g/cm<sup>3</sup> (bulk density). The true density can be determined with a helium pycnometer and is the density of the microspheres as such. The bulk density is determined by measuring the mass of a defined volume of the dry powder, preferably according to ISO 8460, section 1 (determination of free-flow bulk-density).</p>
+<p id="p0007" num="0007"><patcit id="pcit0005" dnum="MX2007009336A"><text>MX 2007/009336 A</text></patcit> describes a process for retanning leather aimed at improving leather filling and softness, in which a (pre)tanned leather is treated with an aqueous dispersion comprising expandable hollow polyurethane microspheres. The unexpanded microspheres have a greater density than expanded microspheres. Expansion is only found above 80 °C.</p>
+<p id="p0008" num="0008">However, the aforementioned processes have several drawbacks. First of all, due to the heat treatment necessary for expanding the microspheres the leather becomes slightly brittle, especially pronounced on chrome free leather. Additionally a large amount of microspheres is needed and the process for expanding microspheres is complicated with high energy consumption. The heat treatment processes also offer the risk to not have a complete and uniform particle expansion through the leather cross-section. Electron scanning microscopy shows that some<!-- EPO <DP n="3"> --> particles, have been deformed or even destroyed after the steam or IR expansion treatment.</p>
+<p id="p0009" num="0009">Thus, there is a need in the art for a process providing the following benefits:<br/>
+First of all a simple process which allows tanneries to avoid complicated and costly processes to expand microspheres with steam or an infra-red oven has to be provided. Moreover, the improved process shall provide a significant effect of filling with a substantially lower quantity of hollow microspheres compared to the state of the art. Additionally, a more uniform distribution through the leather cross-section is to be provided, whereby the leathers obtained have a good overall fullness and mainly good selective filling in the flanks, thus giving articles with significantly higher cutting yield. Also, the customer process of leather making involves a high amount of retanning and fatliquoring agents as well as dyestuffs. It is therefore desirable to reduce the required amount of these products without compromising the leather properties. This will lead additionally to the reduction of the specific weight of the leather.</p>
+<p id="p0010" num="0010">The technical problem underlying the present invention is solved by a process for retanning leather comprising the steps of:
+<ol id="ol0001" compact="compact" ol-style="">
+<li>a) providing tanned or pre-tanned leather</li>
+<li>b) treating the tanned leather of step a) with a composition comprising expanded hollow microspheres, preferably as an aqueous composition, the expanded hollow microspheres have a true density of from 0.01 to 0.10 g/cm<sup>3</sup> (25 °C), determined with a helium pycnometer or as the quotient of the median mass of the expanded hollow microspheres with the median volume of the expanded hollow microspheres, and/or a bulk density of the dry powder of 0.005 to 0.06 g/cm<sup>3</sup> (25 °C), determined by measuring the mass of a defined volume of dry powder according to ISO 8460, section 1, and</li>
+<li>c) drying, whereby the temperature of the leather during drying does not exceed 75 °C.</li>
+</ol><!-- EPO <DP n="4"> --></p>
+<p id="p0011" num="0011">The true density can be determined with a helium pycnometer and is the density of the microspheres as such. Alternatively, the true density can be determined as the quotient of the median mass of the hollow microspheres with the median volume of the hollow microspheres (median mass hollow microspheres / median volume hollow microspheres (g/cm<sup>3</sup>)).</p>
+<p id="p0012" num="0012">The bulk density is determined by measuring the mass of a defined volume of the dry powder according to ISO 8640, section 1 (determination of free-flow bulk-density).</p>
+<p id="p0013" num="0013">In the context of the present invention tanned or pre-tanned leather encompasses chrome-tanned leather. Leather pretanned without chromium and vegetable-pretanned leather can be used as such. Leather containing mineral tanning agent or leather free of mineral tanning agent is preferred. To prepare the leather used in step a), skins and hides of all kind of animals can be used.</p>
+<p id="p0014" num="0014">In step b) the amount of hollow microspheres used preferably is 0.05 to 1.0 % by weight, based on dry weight of the leather (assuming shaved leather having a 50 wt-% water content). Preferably, in step b) the amount of hollow microspheres used is 0.1 to 0.7 % by weight</p>
+<p id="p0015" num="0015">Preferably, the composition used in step b) is an aqueous composition having a solid content of hollow microspheres from 0.5 to 15 % by weight.</p>
+<p id="p0016" num="0016">The hollow microspheres have a shell and an interior (cavity). The shell is preferably composed of an organic polymer or copolymer. Monomers suitable for the synthesis of the shell of the hollow microspheres are in particular monomers containing nitrile groups, such as acrylonitrile, methacrylonitrile, fumaronitrile and crotononitrile, acrylates or methacrylates, such as ethyl acrylate, methyl acrylate, methyl methacrylate, isobornyl methacrylate and hydroxyethyl methacrylate, vinyl halides, such as vinyl chloride and vinylidene chloride, vinyl esters, such as vinyl acetate and vinyl formate and styrene and substituted styrene compounds. In the synthesis of the shell, it is also advantageous to use polyunsaturated compounds<!-- EPO <DP n="5"> --> which serve as crosslinking agents. The amount of such crosslinking agents is usually 0.1 to 2% by weight, based on the sum of all comonomers. Suitable polyunsaturated compounds are, for example, allyl methacrylate, ethylene glycol dimethacrylate, diethylene glycol dimethacrylate, triethylene glycol dimethacrylate, polyethylene glycol dimethacrylate, trimethylolpropane trimethacrylate, pentaerythrityl tetramethacrylate, bis(methacryloyloxymethyl)tricyclodecane and the corresponding diacrylates, divinylbenzene, etc.</p>
+<p id="p0017" num="0017">Polymers and copolymers which are composed of vinylidene chloride, acrylonitrile and (meth)acrylate monomers, and mixtures thereof, are particularly preferred. Polyurethanes or polyurethane ureas are also suitable as wall material.</p>
+<p id="p0018" num="0018">The thin shell particularly preferably consists of a copolymer of more than 75% of polyvinylidene chloride and of less than 25% of polyacrylonitrile.</p>
+<p id="p0019" num="0019">Preferably, the hollow microspheres of step b) have a diameter distribution of from 1 to 200 µm, preferably from 2 to 100 µm and more preferably from 5 to 50 µm.</p>
+<p id="p0020" num="0020">Preferably, at 23 °C (atmospheric pressure) less than 20%, even more preferred less than 15%, preferably less than 10%, preferably less than 5%, even more preferred less than 2.0%, preferably less than 1.0% and most preferred less than 0.5% of the volume of the cavity present in the hollow microspheres of step b) comprises a liquid (propellant, blowing agent) having a boiling point of less than 80 °C, preferably less than 70°C, even more preferred less than 60°C and most preferred less than 50°C at atmospheric pressure.</p>
+<p id="p0021" num="0021">Preferably, at 23 °C (atmospheric pressure) at least 80%, even more preferred at least 85%, preferably at least 90%, preferably at least 95%, even more preferred at least 98%, preferably at least 99% and most preferred at least 99.5% of the volume of the cavity present in the hollow microspheres of step b) comprises a gas obtained by evaporation of the liquid (propellant, blowing agent).</p>
+<p id="p0022" num="0022">Preferably, the volume of all components being present in the cavity of the hollow microspheres of step b) is summing up to 100 %.<!-- EPO <DP n="6"> --></p>
+<p id="p0023" num="0023">Preferably, less than 20 % by weight, preferably less than 15% and even more preferred less than 10% by weight of the total weight of the microspheres is the liquid (propellant, blowing agent).</p>
+<p id="p0024" num="0024">The microspheres used preferably are expanded microspheres resulting in a true density of from 0.01 to 0.1 g/cm<sup>3</sup>, preferably from 0.02 to 0.05 g/ cm<sup>3</sup> (25°C).</p>
+<p id="p0025" num="0025">The microspheres used preferably are expanded microspheres resulting in a bulk density of from 0.005 to 0.06 g/cm<sup>3</sup>, preferably from 0.01 to 0.045 g/cm<sup>3</sup> (25°C).</p>
+<p id="p0026" num="0026">In addition to the microspheres, the composition used in step b) can also contain further additives, such as dyes, synthetic tanning agents, resin tanning agents, vegetable tanning agents, polymer tanning agents like acrylic copolymers and polyurethanes, natural polymers, softening retanning agents, fatliquoring agents and dyeing auxiliaries, as well as chromium, aluminium or zirconium compounds. The composition may also contain thickening or stabilizing agents, biocides, cutting agents and other components that are customary used as formulating agents. Preferably, the additives are polymers and thickening agents. Preferably, the ratio between hollow microspheres and additives is in the range of 5:1 to 1:20, related to the mass of the components. Especially preferred are ratios between 3:1 and 1:10.</p>
+<p id="p0027" num="0027">In step b), other auxiliaries may be used prior to, simultaneously or subsequent to applying the aforementioned composition. These auxiliaries may comprise syntans like condensation products based on aromatic compounds such as for example phenol, naphthalene, phenolsulfonic acid, naphtalenesulfonic acid and formaldehyde vegetable tanning agents like Mimosa,Tara, Quebratcho and chestnut, polymer retanning agents like acrylic copolymers of acrylic acid and natural polymers. Other auxiliaries are fatliquoring agents available as commercial products based on: animal fats like for example fish oil, lard oil or lanolin, vegetable fats like for example castor oil, coconut oil, olive oil or lecithine, synthetic fatliquors<!-- EPO <DP n="7"> --> like for example chloro or sulfochloro paraffin and synthetic fatty acid esters and mineral oil. All these products are well known for a person skilled in the art.</p>
+<p id="p0028" num="0028">Preferably, the composition of step b) further comprises other additives such as dyes, synthetic tanning agents, resin tanning agents, vegetable tanning agents, polymer tanning agents based on acrylate copolymers, natural polymers, softening retanning agents, fatliquoring agents and dyeing auxiliearies, as well as chromium, aluminium or zirconium compounds. The composition may also contain thickening and/or stabilizing agents, biocides, cutting agents and other components that are customary used as formulating agents.</p>
+<p id="p0029" num="0029">Retanning and fatliquoring agents can be used from 0.5% up to 40% by weight of the composition. The retannage step can optionally be followed by dyeing and final fixation with for example formic acid. Among most used dyes are poly-azo dyes, acid dyes, sulfur dyes and metal complex dyes.</p>
+<p id="p0030" num="0030">Retanning, fatliquoring and dyeing operation running time is from 0.5 h up to 24 h when the drum is let to run all the night at a temperature of 20°C to 60°C.</p>
+<p id="p0031" num="0031">Preferably, during drying in step c) the microspheres substantially do not expand.</p>
+<p id="p0032" num="0032">Preferably, after drying in step c) the hollow microspheres substantially have the same particle size distribution and/or same spherical shape as in the composition used in step b).</p>
+<p id="p0033" num="0033">Preferably, after drying in step c) the hollow microspheres are substantially embedded in the leather.</p>
+<p id="p0034" num="0034">The drying step c) can be carried out using conventional methods employed in tanneries like 1) vacuum drying at 45°C up to max 65°C for 1 s to 5 min followed by hanging at room temperature at maximum 35°C for 2 h to up 48 h, 2) hanging and drying at room temperature at max 45°C for 2 h up to 48 h, 3) toggling or<!-- EPO <DP n="8"> --> clamped drying (the hides are stretched by use of clamps) from room temperature up to 70°C for 2 h up to 48h or 4) vacuum drying like described above followed by forced air conditioned drying at max 45°C.</p>
+<p id="p0035" num="0035">During drying in step c) the temperature of the leather does not exceed 75 °C, preferably does not exceed 70 °C, even more preferred does not exceed 65 °C and most preferred does not exceed 60 °C.</p>
+<p id="p0036" num="0036">The leather obtained after step c) may be further processed according to customary tannery processes involving mechanical operations like staking, buffing, milling, toggling, splitting etc. and the application of a coating such comprising for example polyacrylate binders, polyurethanes, polybutadienes, casein, nitrocellulose laquers, pigments, dyes, silicones, matting agents, crosslinkers and any other components commonly used in the finishing of leather. The coating may be applied by spray application, reverse roller coating, transfer coating, curtain coating, padding etc.</p>
+<p id="p0037" num="0037">In a further preferred embodiment, simultaneously or subsequent to step b) the leather is treated with retanning agents and/or dyeing agents and/or fatliquoring agents.</p>
+<p id="p0038" num="0038">In a further preferred embodiment, prior to step b) the leather is treated with a retanning agent and/or dyeing agent.</p>
+<p id="p0039" num="0039">A further aspect of the present invention is directed to leather obtained by the aforementioned process.</p>
+<p id="p0040" num="0040">Preferably, the hollow microspheres are substantially embedded in the leather.</p>
+<p id="p0041" num="0041">In a further preferred embodiment, the leather is used as buffed, full-grain leather or as split leather for automotive, furniture, garment, glove, bag, aircraft, lining and/or upper leather articles.<!-- EPO <DP n="9"> --></p>
+<heading id="h0001">Examples</heading>
+<heading id="h0002">Example 1</heading>
+<heading id="h0003">Hollow microspheres description</heading>
+<p id="p0042" num="0042">The expanded hollow microsphere sample used in the following examples is based on a thermoplastic copolymer of acrylonitrile and vinylidene chloride containing between 6 and 11 wt% isobutane based on solid weight as propellant or blowing agent. Supplied as a "wet cake" with a density of 0.22 g/ cm<sup>3</sup> it contains 15% of dry expanded hollow microspheres having a true density of 0.04 g/cm<sup>3</sup> and a bulk density of 0.025 g/cm<sup>3</sup>. The bulk density is determined by measuring the mass of a defined volume of dries powder of the microspheres according to ISO 8460, section 1 (determination of free-flow bulk-density).</p>
+<p id="p0043" num="0043">The particle size of the powder version of hollow microspheres has been measured with laser light scattering using a Mastersizer 2000 apparatus from Malvern company. The average particle size D(0,5) is 20 micrometers and particle size distribution is 2.6.</p>
+<p id="p0044" num="0044">An example of commercial sample of expanded hollow microspheres can be Expancel 461 WE20 from AKZO .</p>
+<heading id="h0004">Expanded hollow microspheres slurry</heading>
+<p id="p0045" num="0045">Into 750 ml deionized water containing 1,0 g of a silicone fluid defoamer like SILFORM SE 2 from Wacker Chemie AG, 200 g of expanded hollow microspheres 461WE20 having a dry content of 15% is added under good agitation until the dispersion is homogenous. 25,0 g of ACRYSOL ASE-60 with 28% solids acrylic swellable emulsion thickener is added into the mixing vessel continuously over a period of 20-30 minutes.</p>
+<p id="p0046" num="0046">The pH of the solution is then adjusted with a 95% solution o 2-amino-2-methyl-1-propanol neutralization agent (AMP-95 from Angus Chemie GmbH) in the range 7 to 9. This causes the viscosity of the dispersion to raise at 2000 to 5000 cps (23°C).<!-- EPO <DP n="10"> --> The dispersion thus obtained is stable for several months at room temperature. Measured density of the dispersion is 0,55 -0,60 g/cm<sup>3</sup> (using a pycnometer)..</p>
+<heading id="h0005">Example 2</heading>
+<heading id="h0006">Unexpanded microspheres slurry</heading>
+<p id="p0047" num="0047">Into 750 ml deionized water containing 1,0 g of a silicone fluid defoamer like SILFORM SE 2 with 25 % solids from Wacker Chemie AG, 45 g of unexpanded microspheres based on a copolymer of acrylonitrile and vinylidenchloride (like EXPANCEL 460 WU 40) having a dry content of 68% and a density of 1.1 g/cm<sup>3</sup> is added under good agitation until the dispersion is homogenous.</p>
+<p id="p0048" num="0048">25,0 g of ACRYSOL ASE-60 with 28% solids acrylic swellable emulsion thickener is added into the mixing vessel continuously over a period of 20-30 minutes.</p>
+<p id="p0049" num="0049">The pH of the solution is then adjusted with a 95% solution of 2-amino-2-methyl-1-propanol neutralization agent (AMP-95 from Angus Chemie GmbH in the range 7 to 9. This causes the viscosity of the dispersion to raise at 2000 to 5000 cps (23° C). The dispersion thus obtained is table several months at room temperature. The measured particle size using the Mastersizer 2000 gave a particle size D(0,5) of 15 micrometers.</p>
+<heading id="h0007">Example 3</heading>
+<heading id="h0008">Microsphere slurry</heading>
+<p id="p0050" num="0050">Into 750 ml of deionized water containing 1,0 g of a silicone fluid defoamer like SILFORM SE 2 with 25% solids from Wacker Chemie AG, 200 g of expanded hollow microspheres with a solid content of 15% used in example 1 is added under good agitation until the dispersion is homogeneous.</p>
+<p id="p0051" num="0051">No acrylic thickener is added. The obtained dispersion has to be used immediately and can be added directly into the drum containing the leather skin.<!-- EPO <DP n="11"> --></p>
+<heading id="h0009">Example 4</heading>
+<heading id="h0010">Formulation with acrylic binder dispersion</heading>
+<p id="p0052" num="0052">Into 710 g of a copolymer of acrylic acid and acrylamide having 30% solids containing 1,0 g of a silicone fluid defoamer like SILFORM SE 2 with 25% solids from Wacker Chemie AG, 163 g of expanded hollow microspheres based on a copolymer of acrylonitrile and vinylidene chloride (like the one used in example 1) having a dry content of 15% is added under good agitation until the dispersion is homogeneous.</p>
+<p id="p0053" num="0053">71,0 g of ACRYSOL ASE-60 with 28% solids acrylic swellable emulsion thickener is added into the mixing vessel continuously over a period of 20-30 minutes.</p>
+<p id="p0054" num="0054">The pH of the solution is than adjusted with a neutralization agent (like a 20% solution of 2-amino-2-methyl-1-propanol) in the range 7 to 9. This causes the viscosity of the dispersion to raise at 2000 to 5000 cps (23°C). The dispersion thus obtained has a solid content of 23-25%, a dry content of microspheres of 2,4 %, and is stable several days at room temperature.</p>
+<heading id="h0011">Example 5</heading>
+<heading id="h0012">Formulation with acrylic binder dispersion</heading>
+<p id="p0055" num="0055">Into 250 g deionized water, 100 g of expanded microspheres based on a copolymer of acrylonitrile and vinylidenchloride (like the one used in example 1) having a dry content of 15% is added under good agitation until the dispersion is homogeneous. A methylmethacrylate styrene copolymer obtained with emulsion polymerization (30% solids) is then added over a period of 15-20 minutes to the mixing vessel. When homogeneous, 150 g of an emulsion based on modified lecithin (70% solids) is continuously add under agitation.<!-- EPO <DP n="12"> --></p>
+<p id="p0056" num="0056">The thus obtained formulation has a total solid content of 25-26%, a dry content of microspheres of 1,5% and is stable several weeks at room temperature.</p>
+<heading id="h0013">Example 6</heading>
+<heading id="h0014">Formulation with a fatliquor emulsion</heading>
+<p id="p0057" num="0057">Into 180 g glycerine, 120 g of an emulsion of lecithin is added continuously in 15-20 minutes under good agitation. When the mixture is homogeneous, 380 g of a fatliquor emulsion with 50% solids based on fatty acid sulfonamide sulfosuccinate is added under good agitation followed by the addition of 100 g of expanded hollow microspheres based on a copolymer of acrylonitrile and vinylidene chloride (like that of example 1) having a dry content of 15%.</p>
+<p id="p0058" num="0058">The formulation is homogeneous, has a solids content of 33-34%, 1,5% dry microspheres and is stable several weeks at room temperature.<!-- EPO <DP n="13"> --></p>
+<heading id="h0015">Application on wet blue hides</heading>
+<heading id="h0016">Example 7 (invention)</heading>
+<heading id="h0017">Material</heading>
+<p id="p0059" num="0059">2 corresponding wet blue half hides have been used with a thickness of 1,4-1,6 mm.</p>
+<p id="p0060" num="0060">Hides have been weighed. All raw material concentrations are expressed in % based on hide weight.</p>
+<heading id="h0018">Retannage process using formulation from example 1 (expanded microspheres slurry)</heading>
+<heading id="h0019">Washing and chrome retannage</heading>
+<p id="p0061" num="0061">The half hide is put into a rotating steel drum filled up with 300 % water and heated up to 35°C. 0,3% formic acid (85%) is then added and the drum is allowed to rotate for 30 min. The pH of the liquor is 3,9.</p>
+<p id="p0062" num="0062">The aqueous solution is then removed from the drum. 100 % water is added to the drum and heated to 35°C. 4,0% Chrome 33% is added and the drum rotates for 60 min.</p>
+<p id="p0063" num="0063">The float is then neutralized with 3,0% of a mixture of organic acid salts (like SELLASOL NG gran from TFL Ledertechnik) for 20 min. To obtain a pH of 4,6, 1,0% sodium bicarbonate is added within 60 min (final PH 5,0). The aqueous solution is then removed from the drum.</p>
+<heading id="h0020">Retannage/ Dyeing</heading>
+<p id="p0064" num="0064">50% water is added to the drum and heated to 35°C. 5,0% of a syntan mix of aromatic sulfone (like SELLATAN GSB liq. from TFL Ledertechnik) is added to the water and rotated for 10 min.</p>
+<p id="p0065" num="0065">Dyeing is than obtained by adding 3,0% of dye (like SELLA STAR Havanna TFL from TFL) to the drum. The drum is let to rotate for 20 min.<!-- EPO <DP n="14"> --></p>
+<p id="p0066" num="0066">Then an acrylic copolymer of acrylic acid and acrylamide (MAGNOPAL PGN, from TFL Ledertechnik) is added to the mixture. The rotation time of the drum is 20 min. A pH of 5,1 has been measured.</p>
+<p id="p0067" num="0067">After this step, 5,0% of the invention formulation from example 1 (microsphere slurry) is added to the drum and rotated for 90 min. The final pH is adjusted to 3,7 by adding 100 % water (50°C) and 3,0 % formic acid (85%).</p>
+<heading id="h0021">Washing</heading>
+<p id="p0068" num="0068">After these different steps, the drum is drained off and the hide is washed out with 300 % hot water (50°C) for 10 min.</p>
+<heading id="h0022">Fatliquoring</heading>
+<p id="p0069" num="0069">A drum containing the hide prepared as described above is filled up with 100% water at 50°C. 5,0% of the formulation of example 1 (microsphere slurry) is added to the drum and let to rotate for 20 min.</p>
+<p id="p0070" num="0070">Two fatliquor emulsions, for example, 4,0% of a combination of a sulfated fatty acid sodium salt and lanolin fatty acid (like CORIPOL BZE from TFL) and 8,0% of a combination of sulphated and sulphonated natural and synthetic substances (like CORIPOL UFB/W from TFL) are added and the drum rotates for 40 min. The pH is set to 3,5 by adding 2,0 % formic acid 85% (The drum is running for 30 min).</p>
+<p id="p0071" num="0071">The aqueous solution is than removed from drum.</p>
+<heading id="h0023">Final washing</heading>
+<p id="p0072" num="0072">The hide is then washed with 300 % warm water (40°C) for 10 min followed by 300% water at 25°C for 10 min.</p>
+<p id="p0073" num="0073">The final leather is let for the night, then vacuum dried 2 min at 65°C.<!-- EPO <DP n="15"> --></p>
+<heading id="h0024">Example 8</heading>
+<heading id="h0025">Retannage process without formulation according to example 1 (expanded microspheres slurry)</heading>
+<p id="p0074" num="0074">The leather preparation is the same as for example 7 but no microsphere slurry is added to the drum.</p>
+<p id="p0075" num="0075">Results obtained with examples 7 and 8 are given in table 1.<!-- EPO <DP n="16"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>Table 1.</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="36mm"/>
+<colspec colnum="2" colname="col2" colwidth="80mm"/>
+<colspec colnum="3" colname="col3" colwidth="51mm"/>
+<thead>
+<row rowsep="0">
+<entry valign="top">Hide</entry>
+<entry valign="top">Left Side</entry>
+<entry valign="top">Right side</entry></row>
+<row>
+<entry valign="top"/>
+<entry valign="top">Example 7 (invention)</entry>
+<entry valign="top">Example 8 (reference</entry></row></thead>
+<tbody>
+<row>
+<entry>Thickness in backbone</entry>
+<entry>1,7-1.8 mm</entry>
+<entry>1.6 mm</entry></row>
+<row rowsep="0">
+<entry morerows="1" rowsep="1">Thickness in belly and flanks</entry>
+<entry>Belly : 1.8- 1.9 mm</entry>
+<entry>Belly : 1.6- 1.7 mm</entry></row>
+<row>
+<entry>Flanks: 1.9 - 2.1 mm</entry>
+<entry>Flanks: 1.7 - 1.8 mm</entry></row>
+<row>
+<entry>Colour</entry>
+<entry>More levelled</entry>
+<entry>Flanks pronounced slightly less levelled</entry></row>
+<row>
+<entry>Hardness</entry>
+<entry>0</entry>
+<entry>-1/0 slightly softer</entry></row>
+<row>
+<entry>Tightness</entry>
+<entry>+1 especially in flanks more tight</entry>
+<entry>0</entry></row>
+<row rowsep="0">
+<entry morerows="1" rowsep="1">Fullness overall</entry>
+<entry>+1</entry>
+<entry>0</entry></row>
+<row>
+<entry>selective filling in Belly and flanks</entry>
+<entry>Backbone similar, flanks empty</entry></row>
+<row>
+<entry>General</entry>
+<entry>Small flanks, more tight, noticeable more fullness in loose and empty parts</entry>
+<entry>Large flanks</entry></row></tbody></tgroup>
+<tgroup cols="3" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="36mm"/>
+<colspec colnum="2" colname="col2" colwidth="80mm"/>
+<colspec colnum="3" colname="col3" colwidth="51mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col3" align="justify">+2 - very good/ significant difference<br/>
++1 - good / noticeable difference<br/>
+0 - moderate / standard</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0076" num="0076">Leather evaluation showed a noticeable increase in fullness in the loose structured areas of the hide with measurable increase in substance. The leather quality with the formulation from example 1 (microspheres slurry) is firmer, more leveled and tighter in the flanks than the leather made without microspheres slurry.</p>
+<p id="p0077" num="0077">The leather prepared in Example 7 was subjected to a SEM analysis (<figref idref="f0001">figure 1</figref>) to check the uniformity of particle distribution in the leather and the integrity of the<!-- EPO <DP n="17"> --> hollow microspheres after the application process. The picture shows that the voids in the leather structure are uniformly filled with hollow particles and that essentially all particles retained their spherical shape and their original size.</p>
+<heading id="h0026">Application on chrome free automotive hides (FOC leather)</heading>
+<p id="p0078" num="0078">The aim of these trials is to evaluate the ability of the microsphere slurry of the invention, used in combination with an acrylic copolymer to reduce or replace partly traditional syntan and fatliquor agents while maintaining the leather character and the physical properties.</p>
+<heading id="h0027">Material</heading>
+<p id="p0079" num="0079">One automotive wet white shaved hide has been used with a thickness of 1,1 mm. Four pieces have been cut out and named example 9, example 10, example 11 and example 12.</p>
+<p id="p0080" num="0080">Hides have been weighed. All raw material concentrations are expressed in % based on hide weight.</p>
+<heading id="h0028">Example 9 (reference)</heading>
+<heading id="h0029">Standard leather preparation</heading>
+<heading id="h0030">Washing and neutralization</heading>
+<p id="p0081" num="0081">The hide is put into a rotating steel drum filled up with 200 % water and heated up to 35°C. The drum is allowed to rotate for 10 min. The pH is 4.9. The aqueous solution is then removed from the drum. 100 % water is added to the drum and heated to 35°C. The float is than neutralized with 6,0% of an anionic syntan based on a condensation product of phenolic sulfonic acid (like SELLATAN MBS from TFL Ledertechnik) for 60 min. The pH is adjusted to 5.2 by adding 2.0% sodium formate and 0.5% sodium bicarbonate for 60 min. The aqueous solution is then removed from the drum.<!-- EPO <DP n="18"> --></p>
+<heading id="h0031">Retannage/dyeing</heading>
+<p id="p0082" num="0082">100% water is added to the drum and heated to 35°C. A syntan mix like 6,0% of an anionic syntan based on a condensation product of phenolic sulfonic acid (like SELLATAN MBS from TFL Ledertechnik)<br/>
+and 4.0% of a synthetic retanning agent based on condensed sulfonated phenol (like SELLATAN RP) is added to the water and rotate for 60 min. The same syntan mix is added again and rotated for another 60 min. The leather is dyed with 2.0% SELLA FAST Grey VW-L and 0.5 % SELLA FAST Beige GL for 30 min.</p>
+<p id="p0083" num="0083">The pH is set to 4.0 by adding 100% water and 1.5% formic acid 85% after 60 min mixing to the mixture. The rotation time of the drum is 20 min. A pH of 5,1 has been measured.</p>
+<heading id="h0032">Washing</heading>
+<p id="p0084" num="0084">After these different steps, the drum is drained off and the hide is washed out with 300 % hot water (50°C) for 10 min.</p>
+<heading id="h0033">Fatliquoring</heading>
+<p id="p0085" num="0085">A drum containing the hide prepared as described above is filled up with 100% water heated at 50°C. Two fatliquors 6,0% of a modified lecithin emulsion (like CORIPOL ALF from TFL) and 10,0% of a fatliquor emulsion based on a long chain alcohol sulfosuccinate (50% solids like CORIPOL ESA) are added and the drum rotates for 90 min. The pH is set to 3,5 by adding 3,0 % formic acid 85%, the drum running for 40 min. The aqueous solution is then removed from the drum.</p>
+<heading id="h0034">Washing</heading>
+<p id="p0086" num="0086">The hide is washed with 300 % water 25°C for 10 min and then the water is drained off.</p>
+<heading id="h0035">Fixation</heading>
+<p id="p0087" num="0087">300 % water is added to the drum and heated up to 35°C. 0.2% formic acid (85%) is added for 10 min followed by 0.5% of a solution of a copolymer of dimethylamine<!-- EPO <DP n="19"> --> epichlorohydrin (like SELLA FIX E TFL) for 15 min. The water is subsequently drained off.</p>
+<heading id="h0036">Final washing</heading>
+<p id="p0088" num="0088">The hide is than washed with 300 % water 25°C for 10 min. The water is subsequently drained off.</p>
+<p id="p0089" num="0089">The final leather is dried for 12 hours and subsequently vacuum dried for 2 min at 45°C.</p>
+<heading id="h0037">Example 10 (invention)</heading>
+<heading id="h0038">Reduced syntan content during retanning step</heading>
+<p id="p0090" num="0090">This is the same leather preparation as for example 9, but half of the syntan mix used during retannage step has been replaced by 6.0 % of microspheres slurry from example 1 and 4.0% of an acrylic acid acrylamide copolymer (like MAGNOPAL PGN from TFL).</p>
+<heading id="h0039">Retannage/dyeing</heading>
+<p id="p0091" num="0091">100% water is added to the drum and heated to 35°C. 6.0% of the microspheres slurry from example 1, 4.0% of acrylic acid acrylamide copolymer, 3,0% of an anionic syntan based on a condensation product of phenol sulfonic acid (like SELLATAN MBS from TFL Ledertechnik) and 2.0% of a synthetic retanning agent based on condensed sulfonated phenol (like SELLATAN RP) are added to the water and rotate for 60 min. The same syntan composition is added again and let to rotate for another 60 min. The leather is dyed with 2.0% SELLA FAST Grey VW-L and 0.5 % SELLA FAST Beige GL for 30 min. The pH is adjusted to be 4.0 by adding 100% water and 1.5% formic acid 85% after 60 min mixing is added to the mixture. The rotation time of the drum is 20 min. A pH of 5,1 has been measured.<!-- EPO <DP n="20"> --></p>
+<heading id="h0040">Example 11 (invention)</heading>
+<heading id="h0041">Reduced syntan content during retanning step</heading>
+<p id="p0092" num="0092">The same leather preparation as for example 10 but the second syntan based on a synthetic retanning agent based on condensed sulfonated phenol (like SELLATAN RP) has been removed and replaced by 3.0% of the first syntan based on a condensation product of phenolic sulfonic acid (like SELLATAN MBS from TFL Ledertechnik).</p>
+<heading id="h0042">Retannage/dyeing</heading>
+<p id="p0093" num="0093">100% water is added to the drum and heated to 35°C. 6.0% of microspheres slurry from example 1, 4.0% of acrylic acid acrylamide copolymer (like MAGNOPAL PGN), and 6,0% of a anionic syntan based on a condensation product of phenolic sulfonic acid (like SELLATAN MBS from TFL Ledertechnik) are added to the water and allowed to rotate for 60 min. 6.0% of the anionic syntan based on a condensation product of phenolic sulfonic acid (like SELLATAN MBS from TFL Ledertechnik) is added again and let to rotate for another 60 min.</p>
+<p id="p0094" num="0094">The leather is dyed with 2.0% SELLA FAST Grey VW-L and 0.5 % SELLA FAST Beige GL for 30 min. The pH is set to 4.0 by adding 100% water and 1.5% formic acid 85% after 60 min mixing. The rotation time of the drum is 20 min. A pH of 5,1 has been measured.</p>
+<heading id="h0043">Example 12 (invention)</heading>
+<heading id="h0044">Reduced fatliquor content during fatliquoring step</heading>
+<p id="p0095" num="0095">This is the same leather preparation as for example 9 but half of the fatliquor mix used during the fatliquoring step has been replaced by 6.0 % of the microspheres slurry according to example 1 and 4.0% of an acrylic acid acrylamide copolymer (like MAGNOPAL PGN from TFL).<!-- EPO <DP n="21"> --></p>
+<heading id="h0045">Fatliquoring</heading>
+<p id="p0096" num="0096">A drum containing the hide prepared as described above is filled up with 100% water heated at 50°C. 6.0% microsphere slurry according to example 1 4.0% of acrylic acid acrylamide copolymer (like MAGNOPAL PGN from TFL),<br/>
+and two fatliquors 3,0% of a modified lecithin emulsion (CORIPOL ALF) and 5,0% of a fatliquor emulsion based on a long chain alcohol sulfosuccinate (50% solids like CORIPOL ESA) are added and the drum rotates for 90 min.</p>
+<p id="p0097" num="0097">The pH is set to 3,5 by adding 3,0 % formic acid 85%, the drum running for 40 min. The aqueous solution is then removed from the drum.</p>
+<p id="p0098" num="0098">Leather evaluation and physical properties are given in table 2.<!-- EPO <DP n="22"> -->
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>Table 2.</title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="34mm"/>
+<colspec colnum="2" colname="col2" colwidth="23mm"/>
+<colspec colnum="3" colname="col3" colwidth="29mm"/>
+<colspec colnum="4" colname="col4" colwidth="43mm"/>
+<colspec colnum="5" colname="col5" colwidth="38mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry valign="top">Example 9 (reference)</entry>
+<entry valign="top">Example 10 (invention)</entry>
+<entry valign="top">Example 12 (invention)</entry>
+<entry valign="top">Example 11 (invention)</entry></row></thead>
+<tbody>
+<row>
+<entry>Colour</entry>
+<entry>0</entry>
+<entry>0+</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>Softness</entry>
+<entry>0 Very soft</entry>
+<entry>0</entry>
+<entry>0-</entry>
+<entry>0</entry></row>
+<row>
+<entry>Tightness Milling pattern</entry>
+<entry>0</entry>
+<entry>0-</entry>
+<entry>0+ Second best</entry>
+<entry>0+ best</entry></row>
+<row>
+<entry>Fullness overall</entry>
+<entry valign="middle">0</entry>
+<entry>0-Slightly more empty</entry>
+<entry>0+1 Full and round Second best</entry>
+<entry>+1 Best</entry></row>
+<row>
+<entry>General</entry>
+<entry>Very soft, nice</entry>
+<entry>Very soft slightly less round</entry>
+<entry>Surprisingly soft, round and tight very nice</entry>
+<entry>Full, round, soft tight Very nice</entry></row>
+<row>
+<entry>Sample thickness for density</entry>
+<entry>1.5 mm</entry>
+<entry>1.5 mm</entry>
+<entry>1.6 mm</entry>
+<entry>1.5 mm</entry></row>
+<row>
+<entry>Tear Strenght</entry>
+<entry>37 N</entry>
+<entry>42N</entry>
+<entry>39 N</entry>
+<entry>41N</entry></row>
+<row>
+<entry>Tensile strength</entry>
+<entry>213 N 91 % Elong.</entry>
+<entry>198N 106 % Elong.</entry>
+<entry>220N 83% Elong,</entry>
+<entry>233N 96 % Elong.</entry></row>
+<row>
+<entry>Stitch Tear</entry>
+<entry>106 N</entry>
+<entry>105 N</entry>
+<entry>94N</entry>
+<entry>90 N</entry></row>
+<row>
+<entry>Specific weight</entry>
+<entry>0.592g / m<sup>3</sup></entry>
+<entry>0.584 g / m<sup>3</sup></entry>
+<entry>0.571g / m<sup>3</sup></entry>
+<entry>0.561g / m<sup>3</sup></entry></row>
+<row>
+<entry>Weight of sqf after milling</entry>
+<entry>885 g / m<sup>2</sup></entry>
+<entry>873 g / m<sup>2</sup></entry>
+<entry>911 g/m<sup>2</sup></entry>
+<entry>839 g / m<sup>2</sup></entry></row></tbody></tgroup>
+<tgroup cols="5" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="34mm"/>
+<colspec colnum="2" colname="col2" colwidth="23mm"/>
+<colspec colnum="3" colname="col3" colwidth="29mm"/>
+<colspec colnum="4" colname="col4" colwidth="43mm"/>
+<colspec colnum="5" colname="col5" colwidth="38mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col5" align="justify">+2 - very good/ significant difference<br/>
++1 - good / noticeable difference<br/>
+0 - moderate / standard</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="23"> --></p>
+<p id="p0099" num="0099">Due to the presence of the microsphere slurry a reduction and replacement of syntan and fatliquor agents was achieved, thereby maintaining the leather character and the physical properties. Said result is surprising to the skilled artisan.</p>
+<heading id="h0046">Application on wet blue hides</heading>
+<heading id="h0047">Material</heading>
+<p id="p0100" num="0100">One wet blue shaved hide has been used with a thickness of 1,1 mm. Four pieces have been cut and named example 13, example 14, example 15 and example 16. Hides have been weighed. All raw material concentrations are expressed in % based on hide weight.</p>
+<heading id="h0048">Example 13 (invention)</heading>
+<heading id="h0049">Retannage process description</heading>
+<heading id="h0050">Washing and chrome retannage</heading>
+<p id="p0101" num="0101">The hides are put into a rotating steel drum filled up with 300 % water and heated up to 35°C. 0,3% formic acid 85% is then added and the drum is allowed to rotate for 30 min. The pH of the float is 3,8-3.9. The aqueous solution is then removed from the drum. 100 % water is added to the drum and heated to 35°C. 4,0% Chrome 33% is added and the drum rotates for 60 min. The float is then neutralized with 3,0% of a mixture of organic acid salts (like Sellasol NG gan TFL Ledertechnik) for 20 min A pH of 4,6 was measured and 1,0% sodium bicarbonate was added for 60 min to obtain a final pH of 5,0. The aqueous solution is then removed from the drum.</p>
+<heading id="h0051">Retannage/ Dyeing</heading>
+<p id="p0102" num="0102">50% water is added to the drum and heated to 35°C. 6,0% of an aromatic sulfone syntan (like SELLATAN GSB liq. from TFL Ledertechnik) is added to the water and rotated for 40 min.<!-- EPO <DP n="24"> --></p>
+<heading id="h0052">Fatliquoring</heading>
+<p id="p0103" num="0103">A drum containing the hide prepared as described above is filled up with 100% water heated at 50°C. 8.0% microspheres slurry from example 1 and 14% of a fatliquor based on a long chain alcohol sulfosuccinate (like CORIPOL MK from TFL Ledertechnik) are added to the drum and rotated for 120 min. The pH is set to 3,5 by adding 2,0 % formic acid 85% and the drum is running for 30 min. The aqueous solution is subsequently removed from the drum.</p>
+<heading id="h0053">Final washing</heading>
+<p id="p0104" num="0104">The hide is than washed with 300 % warm water (40°C) for 10 min followed by 300% water at 25°C for 10 min.</p>
+<p id="p0105" num="0105">The final leather is let for the night than vacuum dried 2 min at 65°C, hanged dry and milled 48 hours.</p>
+<p id="p0106" num="0106">The final leather articles prepared above have been finished.</p>
+<heading id="h0054">Example 14 (reference)</heading>
+<p id="p0107" num="0107">Leather preparation is the same as for example 13 except that no microspheres slurry has been added.</p>
+<heading id="h0055">Example 15 (invention)</heading>
+<p id="p0108" num="0108">Leather preparation is the same as for example 13 (containing 8.0% of microspheres slurry) except that the fatliquor has been replaced by 14.0% of a carboxylated polyamide polymer.<!-- EPO <DP n="25"> --></p>
+<heading id="h0056">Example 16 (reference)</heading>
+<p id="p0109" num="0109">Leather preparation is the same as for example 15 except that no microspheres slurry has been added.</p>
+<p id="p0110" num="0110">All leather articles prepared above have been finished.</p>
+<p id="p0111" num="0111">Finishing of leather articles from examples 13, 14, 15 and 16.</p>
+<heading id="h0057">Prebase application</heading>
+<p id="p0112" num="0112">One coat of Prebase is applied via Roller coater using a RRC Roller 21SS.</p>
+<p id="p0113" num="0113">The prebase is formulated as follows : 800 g of a composition made by mixing an acrylic coplolymer with a polyurethane dispersion and fillers is diluted with 100 g of water. It is then added in the following order: 100 g of an polyether based polyurethane dispersion,, 30 g of pigment and 20 g of an ethylene urea based crosslinker.</p>
+<p id="p0114" num="0114">Application conditions are set in order to apply 3 g / sqf (square foot) wet. The hide is then rested 12 h before being milled for 2 h.</p>
+<heading id="h0058">Basecoat application</heading>
+<p id="p0115" num="0115">After the precoat has been applied, a basecoat is then prepared for application on the hide. Basecoat is formulated as followed.</p>
+<p id="p0116" num="0116">770 parts of a compound containing an acrylic copolymer, a polyurethane dispersion, matting agent and additives is mixed with 30 g of a silica matting agent and diluted into 200 g water. 200 g of pigment compound is then added to the mixture under good agitation.</p>
+<p id="p0117" num="0117">After viscosity adjustment at 25" with Cup Ford 4 (23°C), the basecoat is applied airless in one coat of 8-10 g / sqf wet.</p>
+<p id="p0118" num="0118">After drying 2 min at 80°C, the hide is let to rest for 12 h and then milled for 4 h.<!-- EPO <DP n="26"> --></p>
+<heading id="h0059">Color coat application</heading>
+<p id="p0119" num="0119">Often a color coat is applied before the final topcoat. It allows to adjust the basecoat color and is slightly crosslinked..Color coat has been prepared as follows.</p>
+<p id="p0120" num="0120">330 g of a matting polyurethane dispersion is mixed with 250 g of a NMP free polyether based polyurethane dispersion and 120 g of water. 50 g of a silicone additive, 110 g of pigment are added.</p>
+<p id="p0121" num="0121">To this mixture, 100 g of a polyisocyanate crosslinker is added prior application. Color coat viscosity is adjusted at 25-27" Cup Ford 4 (23°C). The color coat is applied in 1 coat of 3,0-3,4 g/sqf wet. The leather is allowed to dry 2 min at 80°C.</p>
+<heading id="h0060">Topcoat application</heading>
+<p id="p0122" num="0122">The topcoat is formulated as followed.</p>
+<p id="p0123" num="0123">330 g of a matting polyurethane dispersion used to make the color coat is mixed with 60 g of a NMP free polyester polyether based polyurethane dispersion and 120 g of water. 90 g of a mixture of silicone additives and 5 g of pigment are added.</p>
+<p id="p0124" num="0124">To this mixture, 20 g of a polycarbodiimide crosslinker and 160 g of a polyisocyanate crosslinker are added prior application. Topcoat viscosity is adjusted at 25-30" Cup Ford 4 (23°C). The topcoat is applied in 2 successive coats of 2,0-2,4 g/sqf wet. The leather is allowed to dry 2 min at 80°C after each application.</p>
+<p id="p0125" num="0125">Leather evaluations and physical properties are given in tables 3 and 4.<!-- EPO <DP n="27"> -->
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>Table 3.</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="68mm"/>
+<colspec colnum="2" colname="col2" colwidth="39mm"/>
+<colspec colnum="3" colname="col3" colwidth="40mm"/>
+<thead>
+<row>
+<entry valign="top">Crust Evaluation</entry>
+<entry valign="top">Example 13 (invention)</entry>
+<entry valign="top">Example 14 (reference)</entry></row></thead>
+<tbody>
+<row>
+<entry>Thickness in backbone</entry>
+<entry>1.2 -1.3 mm</entry>
+<entry>1.1 mm</entry></row>
+<row>
+<entry>Thickness in belly and flanks</entry>
+<entry>1.2 - 1.3 mm</entry>
+<entry>1.0 - 1.1 mm</entry></row>
+<row>
+<entry>Colour</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>Softness</entry>
+<entry>+1</entry>
+<entry>0</entry></row>
+<row>
+<entry>Milling</entry>
+<entry>+1 flanks</entry>
+<entry>0</entry></row>
+<row>
+<entry>Fullness overall</entry>
+<entry>+1</entry>
+<entry>0</entry></row>
+<row>
+<entry>General</entry>
+<entry>+1</entry>
+<entry>0</entry></row>
+<row>
+<entry>Evaluation after finishing</entry>
+<entry/>
+<entry/></row>
+<row>
+<entry>General</entry>
+<entry>Fuller, more round</entry>
+<entry>0</entry></row>
+<row>
+<entry>Filling effect in Flanks</entry>
+<entry>+1</entry>
+<entry>0</entry></row>
+<row>
+<entry>Softness</entry>
+<entry>0+</entry>
+<entry>0</entry></row>
+<row>
+<entry>Thickness of sample for testing after finishing</entry>
+<entry>1,30 mm</entry>
+<entry>1,25 mm</entry></row>
+<row>
+<entry>Area Weight</entry>
+<entry>872 g/ m<sup>2</sup></entry>
+<entry>872,6 g/ m<sup>2</sup></entry></row>
+<row>
+<entry>Specific weight</entry>
+<entry>0,673 g/ m<sup>3</sup></entry>
+<entry>0,700 g/ m<sup>3</sup></entry></row>
+<row>
+<entry>Tear Strenght</entry>
+<entry>38N F max</entry>
+<entry>33N F max</entry></row>
+<row rowsep="0">
+<entry>Stitch Tear</entry>
+<entry>90 N max</entry>
+<entry>73 N max</entry></row>
+<row>
+<entry/>
+<entry>71 N / mm</entry>
+<entry>56 N / mm</entry></row>
+<row rowsep="0">
+<entry>Tensile strength</entry>
+<entry>202 N max</entry>
+<entry>201 N max</entry></row>
+<row>
+<entry/>
+<entry>92 % Elongation</entry>
+<entry>80 % Elongation</entry></row></tbody></tgroup>
+<tgroup cols="3" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="68mm"/>
+<colspec colnum="2" colname="col2" colwidth="39mm"/>
+<colspec colnum="3" colname="col3" colwidth="40mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col3" align="justify">+2 - very good/ significant difference<br/>
++1 - good / noticeable difference<br/>
+0 - moderate / standard</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0126" num="0126">Improvement in flank filling and milling break in the flanks with example 13. The effect remains even after 48 hours milling. The finishing print retention was evaluated similarly.</p>
+<p id="p0127" num="0127">On finished quarters filling effect was still visible.<!-- EPO <DP n="28"> --></p>
+<p id="p0128" num="0128">The physical properties increased with 8.0% microspheres slurry, especially stitch tear. Specific weight is also reduced for example 13.<!-- EPO <DP n="29"> -->
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title>Table 4</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="53mm"/>
+<colspec colnum="2" colname="col2" colwidth="76mm"/>
+<colspec colnum="3" colname="col3" colwidth="37mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry valign="top">Example 15 (invention)</entry>
+<entry valign="top">Example 16 (reference)</entry></row></thead>
+<tbody>
+<row>
+<entry>Thickness in backbone</entry>
+<entry>1.2-1.3 mm</entry>
+<entry>1.1 mm</entry></row>
+<row rowsep="0">
+<entry morerows="1" rowsep="1">Thickness in belly and flanks</entry>
+<entry>1.2- 1.3 mm</entry>
+<entry morerows="1" rowsep="1">1.0- 1.1mm</entry></row>
+<row>
+<entry>Strong increase in flanks</entry></row>
+<row>
+<entry>Colour</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>Softness</entry>
+<entry>+1</entry>
+<entry>0</entry></row>
+<row>
+<entry>Milling</entry>
+<entry>+1 especially in flanks more full and even milling break</entry>
+<entry>0</entry></row>
+<row>
+<entry>Fullness overall</entry>
+<entry>+1</entry>
+<entry>0</entry></row>
+<row>
+<entry>General</entry>
+<entry>+1</entry>
+<entry>0</entry></row>
+<row>
+<entry>Finished leather</entry>
+<entry/>
+<entry/></row>
+<row>
+<entry>Thickness of sample for area weight</entry>
+<entry>1,25 mm</entry>
+<entry>1,2 mm</entry></row>
+<row>
+<entry>Area weight</entry>
+<entry>778g / m<sup>2</sup></entry>
+<entry>789g/m<sup>2</sup></entry></row>
+<row>
+<entry>Specific weight</entry>
+<entry>0,625g/ m<sup>3</sup></entry>
+<entry>0,660g/ m<sup>3</sup></entry></row>
+<row rowsep="0">
+<entry>Tensile strenght</entry>
+<entry>201N</entry>
+<entry>182N</entry></row>
+<row>
+<entry/>
+<entry>69 % Elongation</entry>
+<entry>83% Elongation</entry></row>
+<row>
+<entry>Tear strenght</entry>
+<entry>52N</entry>
+<entry>51 N</entry></row>
+<row>
+<entry>Softness</entry>
+<entry>0+</entry>
+<entry>0</entry></row>
+<row rowsep="0">
+<entry>Milling</entry>
+<entry>0+</entry>
+<entry>0</entry></row>
+<row>
+<entry/>
+<entry>More regular in flanks</entry>
+<entry/></row>
+<row rowsep="0">
+<entry>Fullness overall</entry>
+<entry>+1</entry>
+<entry>0</entry></row>
+<row>
+<entry/>
+<entry>Especially flanks and belly part</entry>
+<entry/></row>
+<row>
+<entry>General</entry>
+<entry>More full in flanks</entry>
+<entry>0</entry></row></tbody></tgroup>
+<tgroup cols="3" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="53mm"/>
+<colspec colnum="2" colname="col2" colwidth="76mm"/>
+<colspec colnum="3" colname="col3" colwidth="37mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col3" align="justify">+2 - very good/ significant difference<br/>
++1 - good / noticeable difference<br/>
+0 - moderate / standard</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="30"> --></p>
+<p id="p0129" num="0129">A noticeable improvement in flank filling and milling break in the flanks was evaluated with example 15.</p>
+<p id="p0130" num="0130">The selective filling effect remains even after 48 hours milling.</p>
+<p id="p0131" num="0131">After finishing the effect of the microspheres remains still visible, especially in the flank and belly area.</p>
+<p id="p0132" num="0132">Moreover, the leather according to the present invention becomes fuller, with a more regular milling in flank and belly area after embossing.</p>
+<p id="p0133" num="0133">Vegetable application on light wet blue hides</p>
+<heading id="h0061">Reduced vegetable tannin content with microsphere slurry</heading>
+<heading id="h0062">Material</heading>
+<p id="p0134" num="0134">One wet blue shaved hide has been used with a thickness of 1,8 mm. Two pieces have been cut out and named example 17 and example 18.</p>
+<p id="p0135" num="0135">Hides have been weighted. All raw material concentrations are expressed in % based on the hide weight.</p>
+<heading id="h0063">Example 17 (invention)</heading>
+<heading id="h0064">Retannage process description</heading>
+<heading id="h0065">Washing</heading>
+<p id="p0136" num="0136">The hides are put into a rotating steel drum filled up with 300 % water and heated up to 35°C. 0,5% of tetrasodium salt of ethylene diamine tetraacetic acid (like BORON ST from TFL) is then added and the drum is allowed to rotate for 30 min. The pH is 3.9-4.0. The aqueous solution is subsequently removed from the drum.</p>
+<heading id="h0066">Neutralization / Retannage/ Dyeing</heading>
+<p id="p0137" num="0137">The drum is filled up with 100 % water and heated up to 35°C.<!-- EPO <DP n="31"> --></p>
+<p id="p0138" num="0138">To the float 2,0% of a mixture of organic acid salts (like Sellasol NG gan TFL Ledertechnik), 2.0% of sodium formate and 4.0% of a syntan based on a neutral aromatic sulfone (like SELLATAN AG liq. From TFL) is added successively and the drum is rotated for 30 min. The pH is 4.8 after sodium formate addition and 4.9 after 30 min rotation.</p>
+<p id="p0139" num="0139">Two syntans are added successively (6.0% of SELLATAN SU-V and 6.0% of SELLATAN RP) and let to rotate for 40 min. Two fatliquors are then added to the drum (2.0% of a combination of a sulfated fatty acid sodium salt and lanolin fatty acid (like CORIPOL BZE from TFL)), 2.0 % of an emulsion of modified lecithin (like CORIPOL ALF from TFL) and let to rotate for 20 min.</p>
+<p id="p0140" num="0140">Then 8.0% microspheres slurry from example 1 and 10 % Mimosa are added to the drum and let to rotate for 60 min. The pH is 4.8.</p>
+<p id="p0141" num="0141">0.5 % INVADERM LU and a mixture of two brown dye 1.0% of SELLA FAST BROWN HF-G and 2.0% of SELLA FAST BROWN HF-R are added and rotation continues for 180 min.</p>
+<p id="p0142" num="0142">Then 100 % of water at 50°C is added to the drum with 1.0% of formic acid to bring the pH at 4.0.</p>
+<p id="p0143" num="0143">The drum is allowed to rotate during the night.</p>
+<p id="p0144" num="0144">Next day the hides are washed with 300% water at 50°C.</p>
+<heading id="h0067">Fatliquoring</heading>
+<p id="p0145" num="0145">A drum containing the hide prepared as described above is filled up with 150% water heated at 50°C. 4.0% of an acrylic copolymer is added and rotated for 20 min. 5.0% of a combination of a sulfated fatty acid sodium salt and lanolin fatty acid (like CORIPOL BZE from TFL) and 5.0 % of a emulsion of modified lecithin (like CORIPOL ALF from TFL) are added and the drum rotates for 40 min. 2.0% of a retanning agent based on condensed sulfonated phenol (like SELLATAN RP from TFL) is added and the drum rotates 20 min. 1.0% of formic acid 85% is then added followed after 20 min by 1.5% formic acid 85% .After 30 min. The final pH is 3.5. The hides are washed with 300% 35°C hot water.</p>
+<p id="p0146" num="0146">The aqueous solution is then removed from the drum.<!-- EPO <DP n="32"> --></p>
+<heading id="h0068">Fixation</heading>
+<p id="p0147" num="0147">150% of 35°C water is added to the drum followed by 1.0% of a solution of a copolymer of dimethylamine epichlorohydrin (like SELLA FIX E TFL). After 30 min, the hides are wash with 300% water.</p>
+<p id="p0148" num="0148">The final leather is let for the night, then vacuum dried for 2 min at 60°C and hanged dry.</p>
+<heading id="h0069">Example 18 (reference)</heading>
+<p id="p0149" num="0149">Leather preparation is the same as for example 17 except that instead of 6.0% of hollow microspheres slurry, 10% of vegetable extract Quebracho tannin has been added.</p>
+<p id="p0150" num="0150">Leather evaluations and physical properties are given in table 5<!-- EPO <DP n="33"> -->
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<title>Table 5.</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="33mm"/>
+<colspec colnum="2" colname="col2" colwidth="40mm"/>
+<colspec colnum="3" colname="col3" colwidth="81mm"/>
+<thead>
+<row>
+<entry valign="top">Evaluation:</entry>
+<entry valign="top">Example 18 (reference)</entry>
+<entry valign="top">Example 17 (invention)</entry></row></thead>
+<tbody>
+<row>
+<entry>Colour/ levellness</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>Fullness overall</entry>
+<entry>+1</entry>
+<entry>0</entry></row>
+<row>
+<entry>Fullness flanks</entry>
+<entry>+1</entry>
+<entry>+1</entry></row>
+<row>
+<entry>Softness</entry>
+<entry>0+</entry>
+<entry>0</entry></row>
+<row rowsep="0">
+<entry>Tightness</entry>
+<entry>0</entry>
+<entry>+1</entry></row>
+<row>
+<entry/>
+<entry>More spongy, less tight</entry>
+<entry>More compact</entry></row>
+<row>
+<entry>General</entry>
+<entry/>
+<entry>Slightly better leather character in tightness and temper</entry></row>
+<row>
+<entry>Area weight</entry>
+<entry>1575 g/m<sup>2</sup></entry>
+<entry>1488 g/m<sup>2</sup></entry></row>
+<row>
+<entry>Specific weight</entry>
+<entry>630 g/ m<sup>3</sup></entry>
+<entry>588 g/m<sup>3</sup></entry></row>
+<row>
+<entry>Stitch tear</entry>
+<entry>167 N</entry>
+<entry>202 N</entry></row></tbody></tgroup>
+<tgroup cols="3" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="33mm"/>
+<colspec colnum="2" colname="col2" colwidth="40mm"/>
+<colspec colnum="3" colname="col3" colwidth="81mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col3" align="justify">- 2 = poor / not acceptable<br/>
+-1 = unsatisfactory<br/>
+0 = moderate<br/>
++1 = good<br/>
++2 = very good</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0151" num="0151">The aim of the trial was the direct comparison of 10 % Quebracho vs.6.0 % of hollow microspheres slurry (from example 1) on corresponding low chrome tanned wet blue made with a vegetable / synthetic retanning system.</p>
+<p id="p0152" num="0152">The process of the present invention leads to a leather quality, specific and area weight and stitch tear resistance being advantageous.<!-- EPO <DP n="34"> --></p>
+<heading id="h0070">Examples 19 to 26</heading>
+<heading id="h0071">Material</heading>
+<p id="p0153" num="0153">Four corresponding wet blue pieces from one hide have been used with a thickness of approximately 1 ,0-1,1 mm.</p>
+<p id="p0154" num="0154">The hides have been weighted. All raw material concentrations are expressed in % based on hide shaved weight. For all examples, the leather has been dried at 60 °C.</p>
+<p id="p0155" num="0155">The retannage process uses the formulation from example 1 (expanded microspheres slurry Expancel 461 WE 20 available form AKZO) in comparison with unexpanded microspheres Expancel 820 SL 40 (slurry).</p>
+<p id="p0156" num="0156">Application formulation and process are the same for the two samples except weight quantities that have been varied.</p>
+<heading id="h0072">Example 19</heading>
+<heading id="h0073">Washing and chrome retannage</heading>
+<p id="p0157" num="0157">The half hide is put into a rotating steel drum filled up with 300 % water and heated up to 40 °C.</p>
+<p id="p0158" num="0158">0,3% formic acid 85% is then added and the drum is allowed to rotate for 20 min. The pH of the liquor is 3,6.</p>
+<p id="p0159" num="0159">The aqueous solution is then removed from the drum.</p>
+<p id="p0160" num="0160">150 % water is added to the drum and heated to 40 °C. 3,0% of a solution of a chrome syntan (TANNESCO HN gran. from TFL Ledertechnik, with a chrome oxide content of 12%) is added and the drum rotates for 30 min.</p>
+<p id="p0161" num="0161">The float is neutralized with 2,0% of sodium formate for 20 min followed by addition of 1.5% sodium bicarbonate for 60 min to obtain a final pH of 5,0.</p>
+<p id="p0162" num="0162">The aqueous solution is then removed from the drum. Subsequently, the hides are washed with 200 % water at 35 °C for 10 minutes.<!-- EPO <DP n="35"> --></p>
+<heading id="h0074">Retannage/ Dyeing</heading>
+<p id="p0163" num="0163">100% water is added to the drum and heated to 35 °C. 3,0% of a syntan based on urea-formaldehyde condensated sulfonated phenolic resin (SELLATAN FL liq. from TFL Ledertechnik) is added to the water and rotated for 20 min.</p>
+<p id="p0164" num="0164">Dyeing is then obtained by adding 2,0% of dye (like SELLA FAST Grey A T FL) to the drum. The drum is rotated for 60 min.</p>
+<p id="p0165" num="0165">Subsequently fatliquoring is performed by adding 100 % water at 50 °C and 14% of a long chain alcohol sulfosuccinate (CORIPOL MK from TFL).</p>
+<p id="p0166" num="0166">After this step, 10,0% of the formulation according to the invention (example 1, (0.3% solid expanded microsphere) is added to the drum and rotated for 120 min. The final pH is adjusted to be 3.4 by adding 2,5 % formic acid 85%.</p>
+<heading id="h0075">Washing</heading>
+<p id="p0167" num="0167">After these different steps, the drum is drained off and the hide is washed out with 200 % hot water (50° C) for 10 min followed by a final washing with 200% water at 25°C.</p>
+<heading id="h0076">Drying</heading>
+<p id="p0168" num="0168">The leathers were vacuum dried at 60°C for 2 min, subsequently hang dried and staked.</p>
+<heading id="h0077">Example 20</heading>
+<p id="p0169" num="0169">0.98% of solid expanded microspheres (Expancel 461 WE20 from AKZO) have been employed. Otherwise, the same formulation and application process as described in Example 19 above has been used.</p>
+<heading id="h0078">Unexpanded microspheres (State of the art)</heading>
+<heading id="h0079">Example 21</heading><!-- EPO <DP n="36"> -->
+<p id="p0170" num="0170">10% of a 3% aqueous solution of unexpanded microspheres (Expancel 820 SL40 from AKZO) have been used. Otherwise, the same formulation and application process as described in Example 19 has been used.</p>
+<heading id="h0080">Example 22</heading>
+<p id="p0171" num="0171">2.5% of a 40% aqueous solution of unexpanded microspheres (Expancel 820 SL40 from AKZO) (corresponding to 1.0% solid unexpanded microspheres) have been used. Otherwise, the same formulation and application process as described in Example 19 has been used.<!-- EPO <DP n="37"> -->
+<tables id="tabl0006" num="0006">
+<table frame="all">
+<title>Table 6</title>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" colwidth="32mm"/>
+<colspec colnum="2" colname="col2" colwidth="20mm"/>
+<colspec colnum="3" colname="col3" colwidth="28mm"/>
+<colspec colnum="4" colname="col4" colwidth="28mm"/>
+<colspec colnum="5" colname="col5" colwidth="30mm"/>
+<colspec colnum="6" colname="col6" colwidth="30mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry valign="top">Reference</entry>
+<entry valign="top">Example 19</entry>
+<entry valign="top">Example 20</entry>
+<entry valign="top">Example 21</entry>
+<entry valign="top">Example 22</entry></row>
+<row>
+<entry valign="top"/>
+<entry valign="top"/>
+<entry valign="top">expanded microspheres</entry>
+<entry valign="top">expanded microspheres</entry>
+<entry valign="top">unexpanded microspheres</entry>
+<entry valign="top">unexpanded microspheres</entry></row></thead>
+<tbody>
+<row>
+<entry>Solid content wt%</entry>
+<entry/>
+<entry>15</entry>
+<entry>15</entry>
+<entry>40</entry>
+<entry>40</entry></row>
+<row>
+<entry>Diameter d(0,5)<sup>a</sup> µm</entry>
+<entry/>
+<entry>20</entry>
+<entry>20</entry>
+<entry>13</entry>
+<entry>13</entry></row>
+<row>
+<entry>Density (g/cm<sup>3</sup>)</entry>
+<entry/>
+<entry>0,22</entry>
+<entry>0,22</entry>
+<entry>1,164</entry>
+<entry>1,164</entry></row>
+<row>
+<entry>Bulk density<sup>b</sup> (g/cm<sup>3</sup>)</entry>
+<entry/>
+<entry>0,027</entry>
+<entry>0,027</entry>
+<entry>0,475</entry>
+<entry>0,475</entry></row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>Leather characteristics</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>% solids microspheres</entry>
+<entry>0</entry>
+<entry>0,3</entry>
+<entry>0,98</entry>
+<entry>0,3</entry>
+<entry>1,0</entry></row>
+<row>
+<entry>Fullness</entry>
+<entry>0</entry>
+<entry>1</entry>
+<entry>1</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>Beliy fullness</entry>
+<entry>0</entry>
+<entry>1</entry>
+<entry>1 ,5</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>Softness</entry>
+<entry>0</entry>
+<entry>0</entry>
+<entry>0,5</entry>
+<entry>0</entry>
+<entry>0</entry></row>
+<row>
+<entry>Average thickness backbone area (mm)</entry>
+<entry>1.0-1.1</entry>
+<entry>1.2-1.3</entry>
+<entry>1.2-1.3</entry>
+<entry>1.0-1.1</entry>
+<entry>1.0-1.1</entry></row>
+<row>
+<entry>Average thickness central area (mm)</entry>
+<entry>1.0-1.1</entry>
+<entry>1.2-1.3</entry>
+<entry>1.2-1.3</entry>
+<entry>1.0-1.1</entry>
+<entry>1.0-1.1</entry></row>
+<row>
+<entry>Average thickness beliy area (mm)</entry>
+<entry>1.0</entry>
+<entry>1.3-1.4</entry>
+<entry>1.4-1.5</entry>
+<entry>1.0-1.1</entry>
+<entry>1 .0</entry></row></tbody></tgroup>
+<tgroup cols="6" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="32mm"/>
+<colspec colnum="2" colname="col2" colwidth="20mm"/>
+<colspec colnum="3" colname="col3" colwidth="28mm"/>
+<colspec colnum="4" colname="col4" colwidth="28mm"/>
+<colspec colnum="5" colname="col5" colwidth="30mm"/>
+<colspec colnum="6" colname="col6" colwidth="30mm"/>
+<tbody><!-- EPO <DP n="38"> -->
+<row>
+<entry namest="col1" nameend="col6" align="justify">+2/-2 significant difference compared with reference<br/>
++1/-1 difference compared with reference<br/>
+0 reference</entry></row></tbody></tgroup>
+</table>
+</tables>
+<ol id="ol0002" compact="compact" ol-style="">
+<li>a) measured with Malvern Mastersizer 2000</li>
+<li>b) measured according to ISO 8460 (product is 100% dried powder)</li>
+</ol></p>
+<p id="p0172" num="0172">Leather evaluation / Results:<br/>
+A pronounced filling effect, especially in the belly, was found for examples 19 and 20 prepared with expanded microspheres Expancel 461WE20 when compared to the reference without microspheres and also when compared to examples 21 and 22 treated with unexpanded microspheres Expancel 820 SL.</p>
+<p id="p0173" num="0173">The leather thickness increases from 1,0-1,1 mm up to 1,4-1,5 mm in belly when 1,0 % expanded microspheres Expancel 461WE20 are used.</p>
+<p id="p0174" num="0174">There is no filling effect for the piece treated with unexpanded microspheres Expancel 820SL40 when compared to non-treated leather.</p>
+<heading id="h0081">Example 23</heading>
+<p id="p0175" num="0175">Formulation of a fatliquor emulsion containing expanded hollow microspheres Expancel 461 WE20 has been formulated into a fatliquor as follows:<br/>
+Into a 3000 ml glass reactor equipped with propeller stirrer 500,0 g process oil is added. To 100.0g of a slurry of expanded hollow microspheres (Expancel 461 WE20 from AKZO) is added under constant stirring at 25°C successively , 20.0 g of ethoxylated (20 moles) isodecyl alcohol (from Elementis), 200,0 g of lecithin, 700,0 g deionized water and finally 20.0 g of sorbitan monooleate (Span 80 from CRODA).</p>
+<p id="p0176" num="0176">A viscous brownish dispersion is obtained containing 0,97% solids hollow microspheres.<!-- EPO <DP n="39"> --></p>
+<heading id="h0082">Example 24</heading>
+<p id="p0177" num="0177">The reference sample has been formulated like example 23 except that no microspheres have been added.</p>
+<p id="p0178" num="0178">A viscous brownish dispersion is obtained.</p>
+<p id="p0179" num="0179">Leather preparation with fatliquors formulations of example 23 and example 24</p>
+<heading id="h0083">Material</heading>
+<p id="p0180" num="0180">Two corresponding wet blue half hides have been used with a thickness of 1,4-1,6 mm.</p>
+<p id="p0181" num="0181">Hides have been weighted. All raw material concentrations are expressed in % based on hide weight.</p>
+<heading id="h0084">Example 25 (invention)</heading>
+<p id="p0182" num="0182">Retannage process using formulation according to example 23 (expanded microspheres fatliquor)</p>
+<heading id="h0085">Washing and chrome retannage</heading>
+<p id="p0183" num="0183">The half hide is put into a rotating steel drum filled up with 300 % water and heated up to 35 °C.</p>
+<p id="p0184" num="0184">0.3% ethoxylated sulfated fatty alcohol (Borron SAF from T FL Ledertechnik) and 0,3% formic acid 85% is then added and the drum is allowed to rotate for 20 min. The pH of the liquor is 3,3.</p>
+<p id="p0185" num="0185">The aqueous solution is then removed from the drum and the hide is neutralized as follows: 100 % water is added to the drum and heated up to 35 °C.</p>
+<p id="p0186" num="0186">To the float 2,0% of sodium formate and 2.0% a mixture of organic acid salts (like SELLASOL NG gran from TFL Ledertechnik) is then added for 20 min to obtain a<!-- EPO <DP n="40"> --> pH of 4,9. Finally, 0,5% sodium bicarbonate is added and the drum is rotated for 60 min (final pH 5,3).</p>
+<p id="p0187" num="0187">The aqueous solution is then removed from the drum. The hide is washed with 300 % water at 35 °C for 10 minutes.</p>
+<heading id="h0086">Retannage</heading>
+<p id="p0188" num="0188">50% water is added to the drum and heated to 35 °C. 5,0% of a syntan mix of a retanning agent based on condensed sufonated phenol (like SELLATAN RP from TFL Ledertechnik) is added to the water and rotated for 40 min. 200% water is then added and rotated for 60 min. The pH is adjusted to 4.5 with 1.0% formic acid. The hide is washed with 300% water at 50°C for 10 minutes.</p>
+<heading id="h0087">Fatliquoring</heading>
+<p id="p0189" num="0189">200% water is added to the drum at 50°C and subsequently 15% of fatliquor emulsion from example 23 is added. The drum is let to rotate for 120 min. After this treatment step the final pH is 4.0 and adjusted to be 3.6 (adding of 1.0% formic acid for 25 minutes).</p>
+<heading id="h0088">Washing</heading>
+<p id="p0190" num="0190">After these different steps, the drum is drained off and the hide is washed out with 200 % water (25°C) for 10 min.</p>
+<p id="p0191" num="0191">The final leather is stored for 12 hours at room temperature and subsequently vacuum dried for 2 min at 60 °C.</p>
+<heading id="h0089">Example 26 (reference)</heading>
+<heading id="h0090">Retannage process using formulation from example 24 (fatliquor without expanded microspheres fatliquors)</heading><!-- EPO <DP n="41"> -->
+<heading id="h0091">Washing and chrome retannage</heading>
+<p id="p0192" num="0192">The half hide is put into a rotating steel drum filled up with 300 % water and heated up to 35°C.</p>
+<p id="p0193" num="0193">0.3% ethoxylated sulfated fatty alcohol (Borron SAF from TFL Ledertechnik) and 0,3% formic acid 85% is then added and the drum is allowed to rotate for 20 min. The pH of the liquor is 3,3.</p>
+<p id="p0194" num="0194">The aqueous solution is then removed from the drum and the hide is neutralized as follows: 100 % water is added to the drum and heated up to 35 °C.</p>
+<p id="p0195" num="0195">To the float 2,0% of sodium formate and 2.0% a mixture of organic acid salts (like SELLASOL NG gran from TFL Ledertechnik) for 20 min is added to obtain a pH of 4,9. Finally, 0,5% sodium bicarbonate is added and the drum is rotated for 60 min (final pH 5,3).</p>
+<p id="p0196" num="0196">The aqueous solution is then removed from the drum. The hide is washed with 300 % water at 35°C for 10 minutes.</p>
+<heading id="h0092">Retannage</heading>
+<p id="p0197" num="0197">50% water is added to the drum and heated to 35°C. 5,0% of a syntan mix of a retanning agent based on condensed sufonated phenol (like SELLATAN RP from TFL Ledertechnik) is added to the water and rotated for 40 min. 200% water is then 20 added and rotated for 60 min. The pH is set to 4.5 with 1.0% formic acid. The hide is than washed with 300% water at 50°C for 10 minutes.</p>
+<heading id="h0093">Fatliquoring</heading>
+<p id="p0198" num="0198">200% water is added to the drum at 50°C.Then 15% of fatliquor from example 24 (fatliquor emulsion without hollow microspheres) is added. The drum is rotated for 120 min. The final pH is 4.0 after this treatment and adjusted to be 3.6 by adding 1.0% formic acid for 25 minutes.</p>
+<heading id="h0094">Washing</heading>
+<p id="p0199" num="0199">After these different steps, the drum is drained off and the hide is washed out with 200 % water (25°C) for 10 min.<!-- EPO <DP n="42"> --></p>
+<p id="p0200" num="0200">The final leather is stored for 12 hours at room temperature and subsequently vacuum dried for 2 min at 60°C.</p>
+<heading id="h0095">Results</heading>
+<p id="p0201" num="0201">Leather that has been treated with the fatliquor containing expanded microspheres (example 23) has a much better fullness compared with the leather treated with the fatliquor not containing microspheres (example 24).
+<tables id="tabl0007" num="0007">
+<table frame="all">
+<title>Table 7</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="53mm"/>
+<colspec colnum="2" colname="col2" colwidth="61mm"/>
+<colspec colnum="3" colname="col3" colwidth="53mm"/>
+<thead>
+<row>
+<entry align="center" valign="top"/>
+<entry align="center" valign="top">Example 23 (with microspheres</entry>
+<entry align="center" valign="top">Example 24 (without microspheres</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">Colour</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry></row>
+<row>
+<entry align="center">Touch</entry>
+<entry align="center">Slightly Silky</entry>
+<entry align="center">Slightly silky</entry></row>
+<row>
+<entry align="center">Softness</entry>
+<entry align="center">+1</entry>
+<entry align="center">+1</entry></row>
+<row>
+<entry align="center">Fullness</entry>
+<entry align="center">+1</entry>
+<entry align="center">0</entry></row>
+<row>
+<entry align="center">Tightness</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry></row>
+<row>
+<entry align="center">Filling / softening / retanning Effect</entry>
+<entry align="center">+1 Softening / retanning</entry>
+<entry align="center">+1</entry></row>
+<row>
+<entry align="center">Exhaustion after acid ification</entry>
+<entry align="center">0 Milky Almost no microspheres visible</entry>
+<entry align="center">0 Milky</entry></row></tbody></tgroup>
+<tgroup cols="3" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="53mm"/>
+<colspec colnum="2" colname="col2" colwidth="61mm"/>
+<colspec colnum="3" colname="col3" colwidth="53mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col3" align="justify">- 2 = poor / not acceptable / strong difference<br/>
+-1 = unsatisfactory / noticeable difference<br/>
+0 = moderate / standard<br/>
+1 = good / noticeable difference</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="43"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>Process for retanning leather comprising the steps of:
+<claim-text>a) providing tanned or pre-tanned leather</claim-text>
+<claim-text>b) treating the tanned leather of step a) with a composition comprising expanded hollow microspheres, preferably as an aqueous composition, the expanded hollow microspheres have a true density of from 0.01 to 0.10 g/cm<sup>3</sup> (25°C), determined with a helium pycnometer or as the quotient of the median mass of the expanded hollow microspheres with the median volume of the expanded hollow microspheres, and/or a bulk density of the dry powder of 0.005 to 0.06 g/cm<sup>3</sup>(25°C), determined by measuring the mass of a defined volume of dry powder according to ISO 8460, section 1,</claim-text>
+<claim-text>c) drying, whereby the temperature of the leather during drying does not exceed 75 °C.</claim-text></claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>The process according to claim 1, <b>characterized in that</b> in step b) the amount of expanded hollow microspheres used is 0,05 to 1,0 % by weight, based on the dry weight of the leather.</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>The process according to claim 1 or 2,<!-- EPO <DP n="44"> --> <b>characterized in that</b> the composition of step b) is an aqueous composition having a solid content of expanded hollow microspheres from 0.5 to 15 % by weight.</claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>The process according to at least one of the claims 1 to 3, <b>characterized in that</b> the expanded hollow microspheres of step b) have a diameter of from 1 to 200 µm, preferably from 2 to 100 µm and more preferably from 5 to 50 µm.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>The process according to at least one of the claims 1 to 4, <b>characterized in that</b> at 23 °C less than 10% of the volume of the cavity present in the expanded hollow microspheres of step b) comprises a liquid (propellant) having a boiling point of less than 80°C at atmospheric pressure.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>The process according to at least one of the claims 1 to 5, <b>characterized in that</b> during drying in step c) the expanded hollow microspheres substantially do not expand.</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>The process according to at least one of the claims 1 to 6, <b>characterized in that</b> after drying in step c) the expanded hollow microspheres substantially have the same particle size distribution, measured with laser light scattering using a Mastersizer 2000 apparatus from Malvern company, and/or same spherical shape as in the composition used in step b).</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>The process according to at least one of the claims 1 to 7, <b>characterized in that</b> after drying in step c) the expanded hollow microspheres are substantially embedded<!-- EPO <DP n="45"> --> in the leather.</claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>The process according to at least one of the claims 1 to 8, <b>characterized in that</b> drying step c) is carried out of from 1 s to 48 h.</claim-text></claim>
+<claim id="c-en-01-0010" num="0010">
+<claim-text>The process according to at least one of the claims 1 to 9, <b>characterized in that</b> during drying in step c) the temperature of the surface of the leather does not exceed 80 °C.</claim-text></claim>
+<claim id="c-en-01-0011" num="0011">
+<claim-text>The process according to at least one of the claims 1 to 10, <b>characterized in that</b> the composition of step b) further comprises other additives such as dyes, synthetic tanning agents, resin tanning agents, vegetable tanning agents, polymer tanning agents based on acrylate copolymers, natural polymers, softening retanning agents, fatliquoring agents and dyeing auxiliearies, as well as chromium, aluminium or zirconium compounds.</claim-text></claim>
+<claim id="c-en-01-0012" num="0012">
+<claim-text>The process according to claim 11, <b>characterized in that</b> prior, simultaneously or subsequent to step b) the leather is treated with retanning agents and/or dyeing agents and/or fatliquoring agents.</claim-text></claim>
+<claim id="c-en-01-0013" num="0013">
+<claim-text>The process according to at least one of the claims 1 to 10, <b>characterized in that</b> the composition of step b) further comprises a retannage agent and/or dyeing agent.</claim-text></claim>
+<claim id="c-en-01-0014" num="0014">
+<claim-text>The process according to claim 13, <b>characterized in that</b> subsequent to step b) the leather is washed and treated with a fatliquoring agent.<!-- EPO <DP n="46"> --></claim-text></claim>
+<claim id="c-en-01-0015" num="0015">
+<claim-text>The process according to at least one of the claims 1 to 10, <b>characterized in that</b> the composition of step b) further comprises a fatliquoring agent.</claim-text></claim>
+<claim id="c-en-01-0016" num="0016">
+<claim-text>The process according to claim 15, <b>characterized in that</b> prior to step b) the leather is treated with a retanning agent and/or dyeing agent.</claim-text></claim>
+<claim id="c-en-01-0017" num="0017">
+<claim-text>Leather obtained by the process according to at least one of the claims 1 to 16.</claim-text></claim>
+<claim id="c-en-01-0018" num="0018">
+<claim-text>The leather according to claim 17, <b>characterized in that</b> the expanded hollow microspheres are substantially embedded in the leather.</claim-text></claim>
+<claim id="c-en-01-0019" num="0019">
+<claim-text>Use of the leather according claim 17 or 18 as buffed or full-grain leather or as split leather for automotive, furniture, garment, glove, bag, aircraft, lining and/or upper leather articles.</claim-text></claim>
+</claims>
+<claims id="claims02" lang="de"><!-- EPO <DP n="47"> -->
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Verfahren zum Nachgerben von Leder, umfassend die Schritte:
+<claim-text>a) Bereitstellen von gegerbtem oder vorgegerbtem Leder,</claim-text>
+<claim-text>b) Behandeln des gegerbten Leders aus Schritt a) mit einer Zusammensetzung, die expandierte hohle Mikrokugeln umfasst, vorzugsweise als wässrige Zusammensetzung, wobei die expandierten hohlen Mikrokugeln eine wahre Dichte von 0,01 bis 0,10 g/cm<sup>3</sup> (25 °C), bestimmt mit einem Heliumpyknometer oder als Quotient des Medianwerts der Masse der expandierten hohlen Mikrokugeln mit dem Medianwert des Volumens der expandierten hohlen Mikrokugeln, und/oder eine Schüttdichte des trockenen Pulvers von 0,005 bis 0,06 g/cm<sup>3</sup> (25°C) aufweisen, bestimmt durch Messen der Masse eines definierten Volumens an trockenem Pulver gemäß ISO 8460, Abschnitt 1,</claim-text>
+<claim-text>c) Trocknen, wobei die Temperatur des Leders während des Trocknens 75 °C nicht überschreitet.</claim-text></claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Verfahren nach Anspruch 1, <b>dadurch gekennzeichnet, dass</b> in Schritt b) die verwendete Menge der expandierten hohlen Mikrokugeln 0,05 bis 1,0 Gew.% beträgt, bezogen auf das Trockengewicht des Leders.<!-- EPO <DP n="48"> --></claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Verfahren nach Anspruch 1 oder 2, <b>dadurch gekennzeichnet, dass</b> die Zusammensetzung von Schritt b) eine wässrige Zusammensetzung mit einem Feststoffgehalt an expandierten hohlen Mikrokugeln von 0,5 bis 15 Gew.% ist.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Verfahren nach mindestens einem der Ansprüche 1 bis 3, <b>dadurch gekennzeichnet, dass</b> die expandierten hohlen Mikrokugeln von Schritt b) einen Durchmesser von 1 bis 200 µm, vorzugsweise 2 bis 100 µm und bevorzugter 5 bis 50 µm aufweisen.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Verfahren nach mindestens einem der Ansprüche 1 bis 4, <b>dadurch gekennzeichnet, dass</b> bei 23 °C weniger als 10 % des Volumens des Hohlraums, der in den expandierten hohlen Mikrokugeln von Schritt b) vorhanden ist, eine Flüssigkeit (Treibmittel) mit einem Siedepunkt von weniger als 80 °C bei atmosphärischem Druck umfassen.</claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Verfahren nach mindestens einem der Ansprüche 1 bis 5, <b>dadurch gekennzeichnet, dass</b> während des Trocknens in Schritt c) die expandierten hohlen Mikrokugeln im Wesentlichen nicht expandieren.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Verfahren nach mindestens einem der Ansprüche 1 bis 6, <b>dadurch gekennzeichnet, dass</b> die expandierten hohlen Mikrokugeln nach dem Trocknen in Schritt c) im Wesentlichen die gleiche Partikelgrößenverteilung haben, gemessen mittels Laserlichtstreuung unter Verwendung eines Mastersizer 2000 Geräts von Malvern Company, und/oder die gleiche Kugelgestalt wie in der Zusammensetzung haben, die in Schritt b) verwendet wurde.</claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Verfahren nach mindestens einem der Ansprüche 1 bis 7, <b>dadurch gekennzeichnet, dass</b> nach dem Trocknen<!-- EPO <DP n="49"> --> in Schritt c) die expandierten hohlen Mikrokugeln im Wesentlichen in das Leder eingebettet sind.</claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Verfahren nach mindestens einem der Ansprüche 1 bis 8, <b>dadurch gekennzeichnet, dass</b> nach dem Trocknen Schritt c) 1 s bis 48 h lang durchgeführt wird.</claim-text></claim>
+<claim id="c-de-01-0010" num="0010">
+<claim-text>Verfahren nach mindestens einem der Ansprüche 1 bis 9, <b>dadurch gekennzeichnet, dass</b> während des Trocknens in Schritt c) die Temperatur der Oberfläche des Leders 80 °C nicht überschreitet.</claim-text></claim>
+<claim id="c-de-01-0011" num="0011">
+<claim-text>Verfahren nach mindestens einem der Ansprüche 1 bis 10, <b>dadurch gekennzeichnet, dass</b> die Zusammensetzung nach Schritt b) des Weiteren andere Zusätze umfasst, wie Farbstoffe, synthetische Gerbmittel, Harzgerbmittel, vegetabile Gerbmittel, Polymergerbmittel auf Basis von Acrylatcopolymeren, natürliche Polymere, weich machende Nachgerbmittel, Fettungsmittel (Fettlicker) und Färbehilfsmittel sowie Chrom-, Aluminium- oder Zirconiumverbindungen.</claim-text></claim>
+<claim id="c-de-01-0012" num="0012">
+<claim-text>Verfahren nach Anspruch 11, <b>dadurch gekennzeichnet, dass</b> das Leder vor, gleichzeitig mit oder nach Schritt b) mit Nachgerbmitteln und/oder Färbungsmitteln und/oder Fettlickermitteln behandelt wird.</claim-text></claim>
+<claim id="c-de-01-0013" num="0013">
+<claim-text>Verfahren nach mindestens einem der Ansprüche 1 bis 10, <b>dadurch gekennzeichnet, dass</b> die Zusammensetzung von Schritt b) des Weiteren ein Nachgerbungsmittel und/oder Färbungsmittel umfasst.</claim-text></claim>
+<claim id="c-de-01-0014" num="0014">
+<claim-text>Verfahren nach Anspruch 13, <b>dadurch gekennzeichnet, dass</b> das Leder nach Schritt b) gewaschen und mit einem Fettlickermittel behandelt wird.<!-- EPO <DP n="50"> --></claim-text></claim>
+<claim id="c-de-01-0015" num="0015">
+<claim-text>Verfahren nach mindestens einem der Ansprüche 1 bis 10, <b>dadurch gekennzeichnet, dass</b> die Zusammensetzung von Schritt b) des Weiteren ein Fettlickermittel umfasst.</claim-text></claim>
+<claim id="c-de-01-0016" num="0016">
+<claim-text>Verfahren nach Anspruch 15, <b>dadurch gekennzeichnet, dass</b> das Leder vor Schritt b) mit einem Nachgerbmittel und/oder Färbungsmittel behandelt wird.</claim-text></claim>
+<claim id="c-de-01-0017" num="0017">
+<claim-text>Leder, das nach dem Verfahren gemäß mindestens einem der Ansprüche 1 bis 16 erhalten wird.</claim-text></claim>
+<claim id="c-de-01-0018" num="0018">
+<claim-text>Leder nach Anspruch 17, <b>dadurch gekennzeichnet, dass</b> die expandierten hohlen Mikrokugeln im Wesentlichen in das Leder eingebettet sind.</claim-text></claim>
+<claim id="c-de-01-0019" num="0019">
+<claim-text>Verwendung des Leders nach Anspruch 17 oder 18 als geschliffenes Leder oder Vollnarbenleder oder als Spaltleder für Automobil-, Möbel-, Bekleidungs-, Handschuh-, Taschen-, Flugzeug-, Auskleide- und/oder Oberlederartikel.</claim-text></claim>
+</claims>
+<claims id="claims03" lang="fr"><!-- EPO <DP n="51"> -->
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Procédé de retannage de cuir comprenant les étapes consistant à :
+<claim-text>a) fournir du cuir tanné ou prétanné</claim-text>
+<claim-text>b) traiter le cuir tanné de l'étape a) avec une composition comprenant des microsphères creuses expansées, de préférence sous la forme d'une composition aqueuse, les microsphères creuses expansées ayant une densité réelle de 0,01 à 0,10 g/cm<sup>3</sup> (25°C), déterminée avec un pycnomètre à hélium ou comme le quotient de la masse médiane des microsphères creuses expansées avec le volume médian des microsphères creuses expansées, et/ou une densité volumique de la poudre sèche de 0,005 à 0,06 g/cm<sup>3</sup> (25°C), déterminée en mesurant la masse d'un volume défini de poudre sèche selon la norme ISO 8460, section 1,</claim-text>
+<claim-text>c) sécher, de sorte que la température du cuir pendant le séchage ne dépasse pas 75°C.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Procédé selon la revendication 1, <b>caractérisé en ce qu'</b>à l'étape b), la quantité de microsphères creuses expansées utilisée est de 0,05 à 1,0 % en poids, sur la base du poids sec du cuir.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Procédé selon la revendication 1 ou 2, <b>caractérisé en ce que</b> la composition de l'étape b) est une composition aqueuse ayant une teneur en solides de microsphères creuses expansées de 0,5 à 15 % en poids.</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Procédé selon au moins l'une des revendications 1 à 3, <b>caractérisé en ce que</b> les microsphères creuses expansées de l'étape b) ont un diamètre de 1 à 200 µm, de préférence de 2 à 100 µm et de manière plus préférée de 5 à 50 µm.<!-- EPO <DP n="52"> --></claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Procédé selon au moins l'une des revendications 1 à 4, <b>caractérisé en ce qu'</b>à 23°C, moins de 10 % du volume de la cavité présente dans les microsphères creuses expansées de l'étape b) comprend un liquide (agent propulseur) ayant un point d'ébullition inférieur à 80°C à pression atmosphérique.</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Procédé selon au moins l'une des revendications 1 à 5, <b>caractérisé en ce que</b>, lors du séchage à l'étape c), les microsphères creuses expansées ne se dilatent pratiquement pas.</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Procédé selon au moins l'une des revendications 1 à 6, <b>caractérisé en ce qu'</b>après le séchage à l'étape c), les microsphères creuses expansées ont sensiblement la même distribution de taille de particule, mesurée par dispersion de lumière laser en utilisant un appareil Mastersizer 2000 provenant de la société Malvern, et/ou la même forme sphérique que dans la composition utilisée à l'étape b).</claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Procédé selon au moins l'une des revendications 1 à 7, <b>caractérisé en ce qu'</b>après le séchage à l'étape c), les microsphères creuses expansées sont sensiblement incorporées dans le cuir.</claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Procédé selon au moins l'une des revendications 1 à 8, <b>caractérisé en ce que</b> l'étape de séchage c) est effectuée de 1 s à 48 h.</claim-text></claim>
+<claim id="c-fr-01-0010" num="0010">
+<claim-text>Procédé selon au moins l'une des revendications 1 à 9, <b>caractérisé en ce que</b>, lors du séchage à l'étape c), la température de la surface du cuir ne dépasse pas 80°C.</claim-text></claim>
+<claim id="c-fr-01-0011" num="0011">
+<claim-text>Procédé selon au moins l'une des revendications 1 à 10, <b>caractérisé en ce que</b> la composition de l'étape b) comprend en outre d'autres additifs tels que des<!-- EPO <DP n="53"> --> colorants, des agents de tannage synthétiques, des agents de tannage en résine, des agents de tannage végétaux, des agents de tannage polymères à base de copolymères d'acrylate, polymères naturels, agents de retannage adoucissants, agents de nourriture en bain et auxiliaires de teinture, ainsi que des composés de chrome, d'aluminium ou de zirconium.</claim-text></claim>
+<claim id="c-fr-01-0012" num="0012">
+<claim-text>Procédé selon la revendication 11, <b>caractérisé en ce qu'</b>avant, simultanément ou après l'étape b), le cuir est traité avec des agents de retannage et/ou des agents colorants et/ou des agents de nourriture en bain.</claim-text></claim>
+<claim id="c-fr-01-0013" num="0013">
+<claim-text>Procédé selon au moins l'une des revendications 1 à 10, <b>caractérisé en ce que</b> la composition de l'étape b) comprend en outre un agent de retannage et/ou un agent colorant.</claim-text></claim>
+<claim id="c-fr-01-0014" num="0014">
+<claim-text>Procédé selon la revendication 13, <b>caractérisé en ce qu'</b>à la suite de l'étape b), le cuir est lavé et traité avec un agent de nourriture en bain.</claim-text></claim>
+<claim id="c-fr-01-0015" num="0015">
+<claim-text>Procédé selon au moins l'une des revendications 1 à 10, <b>caractérisé en ce que</b> la composition de l'étape b) comprend en outre un agent de nourriture en bain.</claim-text></claim>
+<claim id="c-fr-01-0016" num="0016">
+<claim-text>Procédé selon la revendication 15, <b>caractérisé en ce qu'</b>avant l'étape b), le cuir est traité avec un agent de retannage et/ou un agent colorant.</claim-text></claim>
+<claim id="c-fr-01-0017" num="0017">
+<claim-text>Cuir obtenu par le procédé selon au moins l'une des revendications 1 à 16.</claim-text></claim>
+<claim id="c-fr-01-0018" num="0018">
+<claim-text>Cuir selon la revendication 17, <b>caractérisé en ce que</b> les microsphères creuses expansées sont sensiblement incorporées dans le cuir.<!-- EPO <DP n="54"> --></claim-text></claim>
+<claim id="c-fr-01-0019" num="0019">
+<claim-text>Utilisation du cuir selon la revendication 17 ou 18 en tant que cuir lissé ou pleine fleur ou en tant que cuir refendu pour des articles en cuir d'automobile, de meuble, de vêtement, de gant, de sac, d'aéronef, de doublure et/ou pour empeigne.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="55"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="160" he="134" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="US5368609A"><document-id><country>US</country><doc-number>5368609</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0003]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="EP1270746A1"><document-id><country>EP</country><doc-number>1270746</doc-number><kind>A1</kind></document-id></patcit><crossref idref="pcit0002">[0004]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="WO2008043643A1"><document-id><country>WO</country><doc-number>2008043643</doc-number><kind>A1</kind></document-id></patcit><crossref idref="pcit0003">[0005]</crossref><crossref idref="pcit0004">[0006]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="MX2007009336A"><document-id><country>MX</country><doc-number>2007009336</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0005">[0007]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

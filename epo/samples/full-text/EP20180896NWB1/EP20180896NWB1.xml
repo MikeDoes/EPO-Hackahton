@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP20180896B1" file="EP20180896NWB1.xml" lang="en" country="EP" doc-number="3754145" kind="B1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSK..HRIS..MTNORS..SM..................</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  2100000/0</B007EP></eptags></B000><B100><B110>3754145</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>20180896.1</B210><B220><date>20200618</date></B220><B240><B241><date>20201119</date></B241></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>201900009759</B310><B320><date>20190621</date></B320><B330><ctry>IT</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20201223</date><bnum>202052</bnum></B430><B450><date>20211006</date><bnum>202140</bnum></B450><B452EP><date>20210708</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>E06B   3/66        20060101AFI20210216BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>E06B   3/673       20060101ALI20210216BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>C08G  59/50        20060101ALI20210216BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>C08K   3/22        20060101ALI20210216BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>C09J 163/00        20060101ALI20210216BHEP        </text></classification-ipcr><classification-ipcr sequence="6"><text>C09J 163/04        20060101ALI20210216BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cset><classification-cset group-number="1"><classification-cpc rank="1"><text>C08K   3/04        20130101 LI20201216BHEP        </text></classification-cpc><classification-cpc rank="2"><text>C08L  63/04        20130101 LI20201216BHEP        </text></classification-cpc></classification-cset><classification-cset group-number="2"><classification-cpc rank="1"><text>C08K   3/36        20130101 LI20201216BHEP        </text></classification-cpc><classification-cpc rank="2"><text>C08L  63/04        20130101 LI20201216BHEP        </text></classification-cpc></classification-cset><classification-cset group-number="3"><classification-cpc rank="1"><text>C09J 163/00        20130101 LI20201023BHEP        </text></classification-cpc><classification-cpc rank="2"><text>C08K   3/22        20130101 LI20201023BHEP        </text></classification-cpc></classification-cset><classification-cset group-number="4"><classification-cpc rank="1"><text>C08K   3/22        20130101 LI20201216BHEP        </text></classification-cpc><classification-cpc rank="2"><text>C08L  63/04        20130101 LI20201216BHEP        </text></classification-cpc></classification-cset><classification-cset group-number="5"><classification-cpc rank="1"><text>C08K   3/34        20130101 LI20201216BHEP        </text></classification-cpc><classification-cpc rank="2"><text>C08L  63/04        20130101 LI20201216BHEP        </text></classification-cpc></classification-cset><classification-cset group-number="6"><classification-cpc rank="1"><text>C08K   3/24        20130101 LI20201216BHEP        </text></classification-cpc><classification-cpc rank="2"><text>C08L  63/04        20130101 LI20201216BHEP        </text></classification-cpc></classification-cset></classifications-cset><classifications-cpc><classification-cpc sequence="1"><text>C09J 163/04        20130101 LI20191112BHEP        </text></classification-cpc><classification-cpc sequence="2"><text>Y02B  80/22        20130101 LA20210226BGEP        </text></classification-cpc><classification-cpc sequence="3"><text>C08K2003/2206      20130101 LA20201023BHEP        </text></classification-cpc><classification-cpc sequence="4"><text>E06B   3/6612      20130101 FI20191112BHEP        </text></classification-cpc><classification-cpc sequence="5"><text>C08K   3/04        20130101 LI20201216BHEP        </text></classification-cpc><classification-cpc sequence="6"><text>C08K   3/22        20130101 LI20191112BHEP        </text></classification-cpc><classification-cpc sequence="7"><text>Y02A  30/249       20180101 LA20210225BGEP        </text></classification-cpc><classification-cpc sequence="8"><text>C08K   3/34        20130101 LI20201216BHEP        </text></classification-cpc><classification-cpc sequence="9"><text>C08K   3/24        20130101 LI20201216BHEP        </text></classification-cpc><classification-cpc sequence="10"><text>E06B   3/6733      20130101 LI20191112BHEP        </text></classification-cpc><classification-cpc sequence="11"><text>C09J 163/00        20130101 LI20201023BHEP        </text></classification-cpc><classification-cpc sequence="12"><text>C08G  59/504       20130101 LI20191112BHEP        </text></classification-cpc><classification-cpc sequence="13"><text>C08G  59/22        20130101 LI20201023BHEP        </text></classification-cpc><classification-cpc sequence="14"><text>C08K   3/36        20130101 LI20201216BHEP        </text></classification-cpc><classification-cpc sequence="15"><text>C08G  59/5033      20130101 LI20191112BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>VAKUUMISOLIERGLAS</B542><B541>en</B541><B542>A VACUUM INSULATING GLAZING</B542><B541>fr</B541><B542>VITRAGE ISOLANT SOUS VIDE</B542></B540><B560><B561><text>EP-A1- 2 508 546</text></B561><B561><text>EP-A2- 1 794 404</text></B561></B560></B500><B700><B720><B721><snm>SCIASCIA, Calogero</snm><adr><str>Via Ettore Ponti 21</str><city>20123 Milano MI</city><ctry>IT</ctry></adr></B721><B721><snm>SAONCELLA, Omar</snm><adr><str>Via Ussuolo 738</str><city>35040 Casale di Scodosia PD</city><ctry>IT</ctry></adr></B721><B721><snm>REBUGHINI, Stefano</snm><adr><str>Via Mascagni 5</str><city>29300 Lecco LC</city><ctry>IT</ctry></adr></B721><B721><snm>GALLINO, Federico</snm><adr><str>Via A. De Gasperi 27</str><city>21010 Besnate VA</city><ctry>IT</ctry></adr></B721></B720><B730><B731><snm>Saes Getters S.p.A.</snm><iid>101417376</iid><irf>BE1532M</irf><adr><str>Viale Italia 77</str><city>20020 Lainate (MI)</city><ctry>IT</ctry></adr></B731></B730><B740><B741><snm>Brazzini, Silvia</snm><iid>101788801</iid><adr><str>Società Italiana Brevetti S.p.A. 
+Via Carducci 8</str><city>20123 Milano</city><ctry>IT</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840></B800></SDOBI>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<p id="p0001" num="0001">The project leading to this application has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 723868.</p>
+<heading id="h0001"><u>Field of the Invention</u></heading>
+<p id="p0002" num="0002">The present invention refers to a novel Vacuum Insulating Glazing (VIG) system that provides excellent thermal insulation to the transparent components in several applications, ranging from curtain walling systems in buildings to cabinets for domestic and commercial refrigerators, and to a process for the manufacture of said VIG.</p>
+<heading id="h0002"><u>State of the Art</u></heading>
+<p id="p0003" num="0003">A conventional Vacuum Insulated Glazing (VIG) consists of two parallel plane sheets of glass kept separated through interposed spacers and sealed together along the edges, and containing a narrow, evacuated space created by spacers placed between the two sheets of glass. A getter, that is known to be able to absorb residual gases or impurities in vacuum tubes, has also been disclosed for inclusion in VIG devices in order to absorb or bind residual impurities and gases that may remain in the evacuated space between the glass sheets after sealing (i.e. outgassing process) or that may permeate within from the outside environment (i.e. permeation process).</p>
+<p id="p0004" num="0004">The VIG devices have been described for the first time in patent literature in 1913 but, despite the simplicity of the concept and many decades of research since then, the first VIG device was actually made only in 1989, while a first commercial version appeared on the market not earlier than 1996. The VIG devices represent a typical example of how ideas come much earlier than their practical realization, since many technical aspects hinder the realization of a practical working device. Among the critical elements for the success of VIG devices, the material, shape and positioning of spacers can be mentioned, as well as the material and processing of the edge sealant; the quality of the glass and its coatings, usually providing low emittance and anti-reflective properties; and ports, tube and process for VIG evacuation.</p>
+<p id="p0005" num="0005">On the other hand, it is ever more felt in both domestic and commercial buildings the need to increase the energy efficiency of buildings, by improving at the same time the thermal insulation and the transparency of the external walling with more and larger<!-- EPO <DP n="2"> --> glasses. Therefore, the construction industry is striving to have available more efficient VIG devices for use in buildings.</p>
+<p id="p0006" num="0006">In order to preserve the thermal insulation of a VIG device, a high vacuum level (10<sup>-3</sup> Torr or lower) has to be maintained: the lesser is the atmospheric gases permeation into the sealed space in the device from the external environment, the lower will be the pressure within the inner evacuated space. Glass and metals are materials with negligible permeation rates, thus at first glance they can be considered as perfect barriers, but this is not true for polymeric materials that, at different extent, are prone to gas permeation. In this sense, the use of glass frit or soldered metallic strips provides a hermetic edge sealant and the pressure evolution in the VIG device comes only from the outgassing process. This allows for a lower getter amount, usually one or two non-evaporable getter (NEG) sintered pills, or few square centimeters of evaporable Barium. On contrary, polymers are by definition semi-permeable materials and their use as VIG edge sealant needs the management of a larger gas amount due to both outgassing and permeation process that risk to overcome the maximum acceptable sizing of any getter solutions. In this sense, it was generally recognized that polymers could not satisfy the strict gas permeability requirements of the VIGs applications, as also confirmed by the statements in 2017 of Professor Collins, considered the father of modern VIGs: "All currently available polymer materials are far too permeable for this application. In the author's opinion, this is unlikely to change." [See <nplcit id="ncit0001" npl-type="s"><text>Conference Proceedings of Glass Performance Days GPD 2017, pp 264-267</text></nplcit>]. The use of conventional polymer materials as sealants in VIG devices seemed therefore not feasible.</p>
+<p id="p0007" num="0007">At a certain extent, it is known that a getter system may be useful in handling the atmospheric gases by absorption of N<sub>2</sub>, O<sub>2</sub>, CO<sub>2</sub>, CO and H<sub>2</sub>O; but a large gas permeability cannot be borne and would result in an unfeasible load for the getter. Moreover, since noble gases cannot be gettered and Ar accounts for ≈1% v/v of the total atmospheric composition, the target of barrier properties for a VIG application is defined by the sealant Ar permeability, sufficiently low to guarantee an Ar pressure evolution inside the VIG not exceeding 10<sup>-3</sup> Torr in the whole VIG service life. Depending on the VIG dimensions and the seal edge width, this target Ar permeability may be estimated in the range of 10<sup>-2</sup> ÷ 10<sup>-3</sup> barrer. So far, commercial polymers used as secondary<!-- EPO <DP n="3"> --> sealants in insulating glasses have an Ar permeability one-two orders of magnitude higher than the target for VIG. More efficient solutions are therefore required in order to provide VIG devices enabled by polymer-based sealants.</p>
+<p id="p0008" num="0008">The <patcit id="pcit0001" dnum="EP2576950A"><text>European patent application publication No. 2576950</text></patcit> discloses a VIG unit, for which it is suggested the use of an organic adhesive sealant, but provided with an inorganic coating. This document states that "no known adhesive or epoxy is impermeable enough to prevent the ingress of atmospheric gases into the cavity of a VIG unit during its life". In fact, this application claims for a "highly hermetic coating disposed over the adhesive layer, where the coating is an inorganic layer".</p>
+<p id="p0009" num="0009">The <patcit id="pcit0002" dnum="US2007178256"><text>US patent application publication No. US2007178256</text></patcit> also claims for organic gas sealants, but it just refers to insulated, non-evacuated glass that uses a low thermal-conductivity gas filling to provide insulation. Insulating glasses (IGs) that use filling gas are spread diffused on market, but they are a completely different category of devices from VIGs, having much worse thermal performances than VIGs and a much simpler production process.</p>
+<p id="p0010" num="0010">As far as the Applicant is aware of, the only patent documents describing the use of organic material in edge sealing of VIG devices are patents No. <patcit id="pcit0003" dnum="CN107285650"><text>CN107285650</text></patcit> and No. <patcit id="pcit0004" dnum="EP1794404A"><text>EP1794404</text></patcit>. In particular, the <patcit id="pcit0005" dnum="EP1794404A"><text>European patent No. EP1794404</text></patcit> describes the use of epoxy materials, acrylate materials, butyl materials, polyurethane materials, polysulfide materials, acrylic materials and mixtures thereof as organic material for the sealant. No further information or suggestion is provided in <patcit id="pcit0006" dnum="EP1794404A"><text>EP1794404</text></patcit> about permeability to gases of the resulting VIG device, but in literature for best-in class materials, i.e. epoxy composite, a permeability for Ar in the range of 0.1 - 0.6 Barrer is reported. Other mentioned families of sealants, such as butyl rubbers, are reported to exhibit a permeability for Ar in the range 0.85 - 1.1, while for polysulfide materials 0.8-1.5, and acrylate and polyurethane are typically even more permeable [<nplcit id="ncit0002" npl-type="b"><text>L. K. Massey, Permeability properties of plastics and elastomers: a guide to packaging and barrier materials, William Andrew, 2003</text></nplcit>]. Even more critical is the case for other atmospheric gases: O<sub>2</sub> and N<sub>2</sub> typically have a permeability of the same order of the Ar, but they are at one to two orders of magnitude more abundant, thus their penetration is correspondingly higher. Even worst is the case of water vapor that shows typically a<!-- EPO <DP n="4"> --> larger permeation rate (typically expressed as Water Vapour Transmission Rate (WVTR)) with respect to other permanent gases, with a consequent pressure's rise within the cavity and loose of thermal performances.</p>
+<p id="p0011" num="0011">Even very performing epoxy resins sealant formulations, such as the ones described in the <patcit id="pcit0007" dnum="WO9526997A"><text>International patent application publication No. WO 95/26997</text></patcit> would not be able to withstand in VIGs application. In particular, this kind of formulations is disclosed as able to reduce the permeability of gases, such as carbon dioxide and/or oxygen through packaging materials, while no reference is made to sealing of evacuated chambers or of VIG devices. In fact, according with the declared permeation values, the resin by itself should not be able to keep a sufficiently low gas permeation into the VIG. As mentioned above, one of the problems in using polymers and organic materials in VIG applications is that they typically have a water content overpassing 1% w/w and they generate outgassing products, primarily water molecules that, if not eliminated, would cause the vacuum pressure to rise above service pressure in the space between the glass sheets.</p>
+<p id="p0012" num="0012">Similar considerations can be applied to <patcit id="pcit0008" dnum="CN107285650"><text>CN107285650</text></patcit> that discloses a sealant composition for air-tight tempered glasses containing a silicon resin sealant, a catalyst and graphene microparticles. As a matter of fact, silicon resins are known to be very permeable to gases, several orders of magnitude worse than the above-mentioned epoxy resins as disclosed, for example, in "<nplcit id="ncit0003" npl-type="s"><text>The behaviour of water in poly(dimethylsiloxane)" J.M. Watson, M.G. Baron, Journal of Membrane Science 110 (1996) 47-57</text></nplcit>.</p>
+<p id="p0013" num="0013">Therefore, none of the known materials disclosed in the prior art above would be able to mark the target of providing an energetically efficient sealant for VIG devices, which is therefore a still much felt need. The mechanical properties are another sealant feature of paramount importance. In fact, the sealant must provide a glass adhesion strength and a yield stress higher than the maximum shear stress that could be generated by the glass temperature lift (e.g. for a 2.5m by 1.5m glass panes estimated maximum stress: 7MPa). Moreover, the sealant must be rigid enough to avoid significant sliding between glass panes that would result in pillars movement.<!-- EPO <DP n="5"> --></p>
+<p id="p0014" num="0014">Subject of the present invention is therefore a Vacuum Insulating Glazing (VIG) with the features of claim 1 that solves the technical problems highlighted above for the known VIG devices, providing excellent thermal insulation performance and structural reliability thanks to exceptional edge barrier properties and mechanical strength, respectively.</p>
+<p id="p0015" num="0015">A further subject of the present invention is a window or a façade potentially used also as door and/or skylight element in buildings or in greenhouse agricultural farming and/or as flat widows for vehicles such as automobiles, high-speed rail and aircrafts, comprising the above said vacuum insulating glazing.</p>
+<p id="p0016" num="0016">Still a further subject of the present invention is a cabinet for domestic and/or commercial refrigerators comprising the above said vacuum insulating glazing, (e.g. freezers, wine cabinet, display cases).</p>
+<p id="p0017" num="0017">Still a further subject of the present invention is a process with the features of claim 16 for the manufacture of the above said Vacuum Insulating Glazing that may be at least partially automated and allows obtaining the VIG device with a suitable sealing edge. The latter means a homogeneous deposit, without voids or bubbles, and straight contours without spreading issues that may appear in the thermal curing process with sealant viscosity decreasing at increasing temperatures.</p>
+<p id="p0018" num="0018">These and further subjects are achieved by the vacuum insulating glazing device, and the process for its manufacture according to the present invention, whose essential features are defined in the independent claims here attached. Further important characteristics of the subjects according to the invention are defined in the dependent claims.</p>
+<heading id="h0003"><u>Brief description of the figures</u></heading>
+<p id="p0019" num="0019">The characteristics and advantages of the vacuum insulating glazing and of the process for its manufacture according to the present invention, will be clearly illustrated in the following exemplary and not limiting description of their embodiments, also with reference to the attached figures wherein:
+<ul id="ul0001" list-style="dash" compact="compact">
+<li><figref idref="f0001">Figure 1</figref> shows schematically a preferred embodiment of the present vacuum insulating glazing and the main components thereof;</li>
+<li><figref idref="f0002">Figure 2</figref> is a sketch of the VIG preferential design with a getter full frame of four strips and equal sealing edge widths;<!-- EPO <DP n="6"> --></li>
+<li><figref idref="f0003">Figures 3a, 3b and 3c</figref> show alternative VIG designs with only two getter strips and different sealing edge widths.</li>
+</ul></p>
+<heading id="h0004"><u>Detailed Description of the Invention</u></heading>
+<p id="p0020" num="0020">As said above, the aim of the present invention is to provide an improved Vacuum Insulating Glazing (herein also indicated as "VIG") first of all from the point of view of the thermal insulation and energetic efficiency.</p>
+<p id="p0021" num="0021">Now the Applicant has developed a novel device based on the Vacuum Insulating Glass technology, which is able to provide an excellent thermal insulation and barrier to gas permeability thanks to an innovative system involving the use of both a getter and a special sealant composition.</p>
+<p id="p0022" num="0022">With particular reference to <figref idref="f0001">Figure 1</figref>, a preferred embodiment of a vacuum insulating glazing 1 according to the present invention is illustrated, wherein two glass panes 2 and 2' facing one another are spaced apart from one another by a plurality of pillars 3, 3', 3"..., so as to create a void volume 4 therebetween. Pillars 3, 3', 3"... have to be placed in between the glass panes 2 and 2' to maintain them at a predetermined distance imposed by the pillar's height. Preferably pillars are equally distributed over the whole glass surface; their number may vary depending on how large is the surface and can be easily established by any person with ordinary skills in the art.</p>
+<p id="p0023" num="0023">According to a particular embodiment of the present invention, the glass panes 2 and 2' in the present VIG device are tempered glasses, with at least one of the surfaces covered by a low emissivity layer facing to the inner volume 4 of the VIG. The lateral size of the glass panes 2 and 2' are typically comprised between 0.25 and 3 m, with the thickness of the pillars 3, 3', 3"... ranging from 0.1 to 0.6 mm.</p>
+<p id="p0024" num="0024">To seal off the void volume 4, in the present VIG device, a polymer-based sealant 6 is deposited on the edges of the glass panes so as to define an inner, closed space between the glass panes 2 and 2'. After curing, taking into account the typical size details of the present VIG, a corresponding preferred width of the sealing edge along the VIG perimeter is comprised between 5 and 35 mm.</p>
+<p id="p0025" num="0025">The sealing edge 6 in the present VIG device is obtained by deposition and curing of a sealant composition comprising:<!-- EPO <DP n="7"> -->
+<ol id="ol0001" compact="compact" ol-style="">
+<li>(a) a curable thermosetting non-halogenated polyepoxide resin comprising in average at least two epoxy groups per molecule;</li>
+<li>(b) an aromatic diamine curing agent in amount sufficient to provide from 0.5 to 2.0 equivalents of amine N-H per equivalent of epoxy groups in the epoxy resin, preferably from 0.5 to 1.0 equivalents; and</li>
+<li>(c) an inorganic dryer in amount ranging between 5% and 25% by weight with respect to the total weight of said sealant composition.</li>
+</ol></p>
+<p id="p0026" num="0026">According to a preferred embodiment of the present invention, the non-halogenated polyepoxide resin in the present sealant composition is a phenol-formaldehyde resin or polyphenol diglycidyl ethers also known as Novolac resins, and more preferably it has the following formula (I):
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="43" he="40" img-content="chem" img-format="tif"/></chemistry>
+wherein n is an integer comprised in the range between 0 and 8.</p>
+<p id="p0027" num="0027">As the curing agent, the aromatic diamine in the present sealant composition preferably comprises sulphonated and/or phenol groups, and more preferably is 4,4'-diamino-diphenylsulphone.</p>
+<p id="p0028" num="0028">The present sealant composition as above described has preferably a glass transition temperature higher than 100°C and more preferably higher than 150°C as determined by differential scanning calorimetry (DSC) measurements according to ISO 11357-2:2013.</p>
+<p id="p0029" num="0029">As disclosed by the <patcit id="pcit0009" dnum="EP2576950A"><text>European patent application publication No 2576950</text></patcit>, the present sealant composition can be used in combination with other sealant elements suitable to reduce even more the permeation gas load, essentially working on geometrical factors: it can be possible to add a peripheral impermeable frame (such as a metallic or glassy or ceramic U shaped profile clamping the assembly) glued with the present sealant composition on the outer VIG edge or at least on a portion of it. In such<!-- EPO <DP n="8"> --> configuration, the permeation can be reduced and even when the width of the sealant should be considerably lowered for aesthetical or technical reasons.</p>
+<p id="p0030" num="0030">According to the present invention, a non-evaporable getter system, indicated in <figref idref="f0001">Figure 1</figref> as 5 and 5', is placed within the void volume 4, created between the glass panes 2 and 2'.</p>
+<p id="p0031" num="0031">In a particular embodiment of this invention, the non-evaporable getter is a Zr alloy having a N<sub>2</sub> absorption capacity ≥ 1 cctorr/g measured by ASTM absorption test at room temperature. As a Zr alloy of possible use in the getter of this invention, an alloy selected from the group consisting of ZrTiV, ZrTiVAl, ZrVAl, ZrVFe, and ZrVFeMn-RE, wherein RE is one or more rare earth elements, optionally sintered in mixtures comprising Zr powders. Even though, pills, such as a getter alloy like TiVFeAlSi, can be usefully be selected and used, preferred according to this invention are powder getters laminated on metal strips or coated on metal tapes, the getter being deposited on one side or on both sides of the metal support. Typically, the metal support for the getter is 5-20 mm large and 0.05-0.3 mm thick, with an amount of active getter material loaded on the support ranging for instance between 10 and 30 mg/cm.</p>
+<p id="p0032" num="0032"><figref idref="f0001">Figure 1</figref> shows also the presence of an evacuation hole 7 in at least one of the glass panes 2 or 2", that is required by the most common manufacturing processes of VIGs devices.</p>
+<p id="p0033" num="0033">The simplest VIG configuration according to the present invention is reported in <figref idref="f0002">Figure 2</figref> with the maximum amount of getter and consisting in four getter strips positioned in a full second frame close to the sealant.</p>
+<p id="p0034" num="0034">In <figref idref="f0003">Figures 3a to 3c</figref> alternative designs of a VIG according to the present invention are shown, with a lower number of getter strips contained in them with respect to the design in <figref idref="f0002">Figure 2</figref>. These alternative designs have two strips on two different edges in order to simplify the activation process. By reducing the number of strips, we lose the symmetry that can result in asymmetric total edge widths (<figref idref="f0003">Fig 3a</figref>) or in asymmetric sealant widths (<figref idref="f0003">Fig 3b and 3c</figref>). Designs of <figref idref="f0003">Figures 3b and 3c</figref> are equivalent and they differ in the location of getter strips, on the short edges for design of <figref idref="f0003">Figure 3b</figref> and on the long edges for design of <figref idref="f0003">Figure 3c</figref>.<!-- EPO <DP n="9"> --></p>
+<p id="p0035" num="0035">In the case of asymmetric sealant widths, the deposition process could be carried out by choosing a sealant curb equivalent to the narrow sealant deposit and by using multiples of that curb to produce the wide sealant deposits.</p>
+<p id="p0036" num="0036">The inorganic dryer in the present sealant composition can be selected from irreversible dryers, such as CaO, other oxides, perchlorate dryers, and hygroscopic salts or from reversible dryers, such as zeolites or active carbon or a mixture thereof.</p>
+<p id="p0037" num="0037">According to a particular embodiment of this invention the present sealant composition further comprises one or more passive fillers, that may be organic or inorganic fillers, such as poly(vinyl alcohol) (PVOH), polyimides, SiO<sub>2</sub>, TiO<sub>2</sub>, glass beads, glass fibers that may be either chopped or in strain form, metal or glass ribbons, and metal or glass wires.</p>
+<p id="p0038" num="0038">In the following Table 1, exemplary weight percentages of the components in the present sealant composition are described.
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>Table 1: exemplary composition of the polymer-based sealant</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="67mm"/>
+<colspec colnum="2" colname="col2" colwidth="23mm"/>
+<colspec colnum="3" colname="col3" colwidth="31mm"/>
+<colspec colnum="4" colname="col4" colwidth="47mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"><b>Component</b></entry>
+<entry align="center" valign="middle"><b>Function</b></entry>
+<entry align="center" valign="middle"><b>Additive size (µm)</b></entry>
+<entry align="center" valign="middle"><b>Composition Range % [w/w]</b></entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">Phenol-formaldehyde resin (Novolac)</entry>
+<entry align="center" valign="middle">Matrix</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">75÷60</entry></row>
+<row>
+<entry valign="middle">4,4'-diaminodiphenyl sulfone (Dapsone)</entry>
+<entry align="center" valign="middle">Curing Agent</entry>
+<entry align="center" valign="middle">&lt;63</entry>
+<entry align="center" valign="middle">25÷40 (% eq/eq: 0.5÷1)</entry></row>
+<row rowsep="0">
+<entry valign="middle">• Reversible: Zeolites e.g. LTA-Na, FAU 13X;</entry>
+<entry morerows="1" rowsep="1" align="center" valign="middle">Dryer</entry>
+<entry morerows="1" rowsep="1" align="center">&lt; 10</entry>
+<entry morerows="1" rowsep="1" align="center">5÷30</entry></row>
+<row>
+<entry valign="middle">• Irreversible: e.g. CaO</entry></row>
+<row rowsep="0">
+<entry valign="middle">• Organic: e.g. PVOH</entry>
+<entry morerows="1" rowsep="1" align="center" valign="middle">Passive Filler</entry>
+<entry morerows="1" rowsep="1" align="center">&lt; 10</entry>
+<entry morerows="1" rowsep="1" align="center">0÷50</entry></row>
+<row>
+<entry valign="middle">• Inorganic e.g. SiO<sub>2</sub>, glass beads, TiO<sub>2</sub></entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0039" num="0039">In addition, subject of this invention is a process for manufacturing a vacuum insulating glazing comprising the steps of:
+<ol id="ol0002" compact="compact" ol-style="">
+<li>i) providing a top and a bottom glass pane, and preparing said bottom glass pane by the following steps a to c in any order, not necessarily in the order they are reported below:
+<ol id="ol0003" compact="compact" ol-style="">
+<li>a. positioning of pillars;</li>
+<li>b. positioning of a non-evaporable getter system on the glass surface (e.g. in the case of getter strips) or in a dedicated space (e.g. drilled hole for getter pills) and optionally glue the getter in order to avoid its movement during the pairing operation;</li>
+<li>c. depositing a sealant composition as described above;</li>
+</ol></li>
+<li>ii) pairing the top glass pane on the bottom glass pane;<!-- EPO <DP n="10"> --></li>
+<li>iii) curing the sealant preferably by heating and optionally also by UV curing;</li>
+<li>iv) pumping out the VIG chamber preferentially under baking to improve vacuum conditions;</li>
+<li>v) activating the getter, preferentially by radio-frequency (RF) heating in a temperature range of 300°C-600°C.</li>
+<li>vi) sealing of the evacuation hole.</li>
+</ol></p>
+<p id="p0040" num="0040">The sealant deposition can be carried out by means of traditional deposition techniques, e.g. needle dispensing by deposition of the sealant composition from pre-filled syringes, or by positioning pre-formed laminated strips of the sealant composition.</p>
+<p id="p0041" num="0041">According to an aspect of the present invention, the curing step iii) is carried out at about 200°C for 1 hour.</p>
+<p id="p0042" num="0042">In another aspect of the present invention the curing step iii) is carried out at about 170°C for 1 hour.</p>
+<p id="p0043" num="0043">In a particular embodiment of the present manufacturing process, the steps i) and ii) above may be performed in a large evacuated chamber enclosing the entire VIG, without the need for a subsequent pumping out.</p>
+<p id="p0044" num="0044">Advantages of the present invention are linked to the high energy efficiency and thermal insulation obtained thanks to the present vacuum insulating glazing with both a getter and the above described sealing edge. The present VIG device has shown high barrier properties towards atmospheric gases and moisture too thanks to the presence of a dryer comprised in the sealant composition, not separated from it in the inner volume 4 of the VIG device. The present sealant compositions have been tested as illustrated in the following experimental part, and found that they are able to yield vacuum grade under any of the aging protocols tested, while the comparison compositions fail, especially for longer time aging.</p>
+<p id="p0045" num="0045">Moreover, the presence of the dryer in the sealant formulation allows reaching the same high efficiency with a lower amount of getter or alternatively with the use even in conditions of a not fully-activated getter according to the temperature limits imposed by the VIG production process.</p>
+<p id="p0046" num="0046">Further advantages of the present VIG device are its mechanical properties too: the present VIG device, and in particular its sealing edge, is in fact able to accommodate<!-- EPO <DP n="11"> --> the large stress due to the pressure difference between the inner volume 4 and external atmosphere. It is also able to accommodate the different thermal dilation between inner and outer glass panes, as well as to sustain, at the end of the manufacturing process, outgassing procedures at temperatures higher than 100°C, but below the sealant T<sub>g</sub>, to remove the gases and moisture from the inner volume of the VIG device. High yield stress and adhesion strength on glass surfaces (&gt;7MPa) of the present devices are shown in the following experimental part following lap-shear tests, in comparison with devices comprising different sealant compositions.</p>
+<p id="p0047" num="0047">Furthermore, as regards to the present process for manufacturing the vacuum insulating glazing, advantages are shown by the present sealant edge in particular in that it has a curing temperature below 250°C and a glass transition temperature higher than 100°C. Moreover, it was observed that no gaseous species is released during polymerization.</p>
+<p id="p0048" num="0048">Finally, a further important advantage of the present invention is that the process for the manufacture of the present VIG device is simple and cost-effective.</p>
+<heading id="h0005"><u>EXPERIMENTAL PART</u></heading>
+<p id="p0049" num="0049">Some representative VIG samples, subjected to different aging protocols (see Table 2), have been tested in terms of pressure evolution which ultimately affects the thermal properties.
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title>Table 1. Aging protocols.</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="30mm"/>
+<colspec colnum="2" colname="col2" colwidth="22mm"/>
+<colspec colnum="3" colname="col3" colwidth="65mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle"><b>Aging Protocols</b></entry>
+<entry align="center" valign="middle"><b>Time (days)</b></entry>
+<entry align="center" valign="middle"><b>Temperature (°C) / Relative Humidity (%)</b></entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">A</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">25° / 90%</entry></row>
+<row>
+<entry align="center" valign="middle">B</entry>
+<entry align="center" valign="middle">15</entry>
+<entry align="center" valign="middle">25° / 90%</entry></row>
+<row>
+<entry align="center" valign="middle">C</entry>
+<entry align="center" valign="middle">30</entry>
+<entry align="center" valign="middle">25° / 90%</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0050" num="0050">A VIG size of 300mm x 300mm has been chosen with sealing edge width of 1cm and a vacuum gap of 0.25mm.</p>
+<p id="p0051" num="0051">Sealant Samples A, B and C with formulations of the present invention are reported in Table 2. Comparative sealant compositions 1, 2, 3, 4 and 5, wherein other resins have been used as sealants have been considered for comparison; they are also listed in the same Table 3 below. All these polymer-based sealants were tested after the above reported aging protocols and results have been reported in Table 3. All the tests were carried out with a fully-activated getter in the form of ZrVAl alloy laminated on both sides<!-- EPO <DP n="12"> --> of 0.1 mm thick nickel-plated iron 8mm-wide strips. For each VIG sample, four getter strips were used as illustrated in <figref idref="f0002">Figure 2</figref>.
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>Table 2. Compositions of sealant sample investigated in the test examples</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="30mm"/>
+<colspec colnum="2" colname="col2" colwidth="47mm"/>
+<colspec colnum="3" colname="col3" colwidth="36mm"/>
+<thead>
+<row>
+<entry/>
+<entry><b>Component</b></entry>
+<entry><b>Composition% (w/w)</b></entry></row></thead>
+<tbody>
+<row>
+<entry morerows="2">Sample A</entry>
+<entry valign="bottom">Phenol-formaldehyde resin</entry>
+<entry valign="bottom">67.5</entry></row>
+<row>
+<entry valign="bottom">4,4' diaminodiphenyl sulphone</entry>
+<entry valign="bottom">22.5</entry></row>
+<row>
+<entry valign="bottom">calcium oxide</entry>
+<entry valign="bottom">10</entry></row>
+<row>
+<entry morerows="2">Sample B</entry>
+<entry valign="bottom">Phenol-formaldehyde resin</entry>
+<entry valign="bottom">67.5</entry></row>
+<row>
+<entry valign="bottom">4,4' diaminodiphenyl sulphone</entry>
+<entry valign="bottom">22.5</entry></row>
+<row>
+<entry valign="bottom">Zeolites LTA</entry>
+<entry valign="bottom">10</entry></row>
+<row>
+<entry morerows="3">Sample C</entry>
+<entry valign="bottom">Phenol-formaldehyde resin</entry>
+<entry valign="bottom">62.8</entry></row>
+<row>
+<entry valign="bottom">4,4' diaminodiphenyl sulphone</entry>
+<entry valign="bottom">20.9</entry></row>
+<row>
+<entry valign="bottom">calcium oxide</entry>
+<entry valign="bottom">9.3</entry></row>
+<row>
+<entry valign="bottom">silicon dioxide</entry>
+<entry valign="bottom">7</entry></row>
+<row>
+<entry morerows="1">Comparative 1</entry>
+<entry valign="bottom">Phenol-formaldehyde resin</entry>
+<entry valign="bottom">75</entry></row>
+<row>
+<entry valign="bottom">4,4' diaminodiphenyl sulphone</entry>
+<entry valign="bottom">25</entry></row>
+<row>
+<entry morerows="1">Comparative 2</entry>
+<entry valign="bottom">Bisphenol F</entry>
+<entry valign="bottom">73.75</entry></row>
+<row>
+<entry valign="bottom">4,4' diaminodiphenyl sulphone</entry>
+<entry valign="bottom">26.25</entry></row>
+<row>
+<entry>Comparative 3</entry>
+<entry valign="bottom">Polysulfide</entry>
+<entry valign="bottom">100</entry></row>
+<row>
+<entry morerows="2">Comparative 4</entry>
+<entry valign="bottom">ethylene-octene copolymer</entry>
+<entry valign="bottom">50.5</entry></row>
+<row>
+<entry valign="bottom">calcium oxide</entry>
+<entry valign="bottom">33</entry></row>
+<row>
+<entry valign="bottom">Silicon dioxide</entry>
+<entry valign="bottom">16.5</entry></row>
+<row>
+<entry valign="bottom">Comparative 5</entry>
+<entry valign="bottom">polydimethylsiloxane</entry>
+<entry valign="bottom">100</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0052" num="0052">The measurements on the samples illustrated above were carried out by monitoring the total pressure evolution by spinning rotor gauge (SRG). Despite the fact SRGs are considered high accuracy transfer standard for high vacuum pressure measurements, they need a gas-dependent calibration factor, that at the moment is not known being the permeants mixture unknown [see for instance <nplcit id="ncit0004" npl-type="b"><text>NIST Special Publication 250-93 "NIST Calibration Services for Spinning Rotor Gauge Calibrations" by Robert F.<!-- EPO <DP n="13"> --> Berg and James A. Fedchak</text></nplcit> and the handbook from MKS at https://www.mksinst.com/f/srg-3-spinning-rotor-vacuum-gauge-system]. For this reason, the results are reported in the following Table 4 in comparative terms of vacuum grade quality:
+<br/>
++ means high vacuum, i.e. pressure ≤ 10<sup>-3</sup> mbar;<br/>
+≈ means medium pressure, i.e. in the range from 5.10<sup>-3</sup> mbar to 10<sup>-3</sup> mbar, and<br/>
+- means low vacuum range, i.e. pressure ≥ 5.10<sup>-3</sup> mbar.
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title>Table 3. Vacuum grade results for different polymer-based sealants undergoing different aging protocols.</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="38mm"/>
+<colspec colnum="2" colname="col2" colwidth="37mm"/>
+<colspec colnum="3" colname="col3" colwidth="37mm"/>
+<colspec colnum="4" colname="col4" colwidth="37mm"/>
+<thead>
+<row>
+<entry morerows="1" align="center" valign="top">Sealant</entry>
+<entry namest="col2" nameend="col4" align="center" valign="middle">Vacuum Grade</entry></row>
+<row>
+<entry align="center" valign="middle">Aging Protocol A</entry>
+<entry align="center" valign="middle">Aging Protocol B</entry>
+<entry align="center" valign="middle">Aging Protocol C</entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">Sample A</entry>
+<entry align="center" valign="middle">+</entry>
+<entry align="center" valign="middle">+</entry>
+<entry align="center" valign="middle">+</entry></row>
+<row>
+<entry valign="middle">Sample B</entry>
+<entry align="center" valign="middle">+</entry>
+<entry align="center" valign="middle">+</entry>
+<entry align="center" valign="middle">+</entry></row>
+<row>
+<entry valign="middle">Sample C</entry>
+<entry align="center" valign="middle">+</entry>
+<entry align="center" valign="middle">+</entry>
+<entry align="center" valign="middle">+</entry></row>
+<row>
+<entry valign="middle">Comparative 1</entry>
+<entry align="center" valign="middle">+</entry>
+<entry align="center" valign="middle">≈</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry valign="middle">Comparative 2</entry>
+<entry align="center" valign="middle">+</entry>
+<entry align="center" valign="middle">+</entry>
+<entry align="center" valign="middle">≈</entry></row>
+<row>
+<entry valign="middle">Comparative 3</entry>
+<entry align="center" valign="middle">+</entry>
+<entry align="center" valign="middle">≈</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry valign="middle">Comparative 4</entry>
+<entry align="center" valign="middle">≈</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row>
+<row>
+<entry valign="middle">Comparative 5</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry>
+<entry align="center" valign="middle">-</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0053" num="0053">The results obtained show the excellence of the present sealant compositions over the comparison ones, the latter not being able to reach a high vacuum grade under all aging conditions tested, especially for longer times (aging protocol C). On the contrary, the sealant compositions of the invention are able to maintain high or medium vacuum grade even for longer times. In particular those of the present compositions comprising one or more oxide dryers show a high vacuum grade under any aging protocols.</p>
+<p id="p0054" num="0054">All Samples and Comparative samples have been tested for their mechanical properties by lap-shear tests. Results are summarized in the following Table .</p>
+<p id="p0055" num="0055">Data are collected based on ISO 4587:2013 "Adhesives - Determination of tensile lap-shear strength of rigid-to-rigid bonded assemblies"
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<title>Table 5. Lap shear tests for different polymer-based sealant compositions.</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="53mm"/>
+<colspec colnum="2" colname="col2" colwidth="53mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle">Sealant</entry>
+<entry align="center" valign="middle">Adhesion strength (MPa)</entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">Sample A</entry>
+<entry align="center" valign="middle">&gt; 7</entry></row>
+<row>
+<entry valign="middle">Sample B</entry>
+<entry align="center" valign="middle">&gt; 7</entry></row></tbody></tgroup><!-- EPO <DP n="14"> -->
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="53mm"/>
+<colspec colnum="2" colname="col2" colwidth="53mm"/>
+<thead>
+<row>
+<entry valign="middle">Sample C</entry>
+<entry align="center" valign="middle">&gt; 7</entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">Comparative 1</entry>
+<entry align="center" valign="middle">≈ 2.4</entry></row>
+<row>
+<entry valign="middle">Comparative 2</entry>
+<entry align="center" valign="middle">≈ 4</entry></row>
+<row>
+<entry valign="middle">Comparative 3</entry>
+<entry align="center" valign="middle">≈ 1.2</entry></row>
+<row>
+<entry valign="middle">Comparative 4</entry>
+<entry align="center" valign="middle">≈ 1.5</entry></row>
+<row>
+<entry valign="middle">Comparative 5</entry>
+<entry align="center" valign="middle">≈ 2</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0056" num="0056">These results confirm high yield stress and adhesion strength (&gt;7MPa) on glass surfaces, showing that the present sealant compositions fulfil the mechanical requirements for a VIG application.</p>
+<p id="p0057" num="0057">The present invention has been described above with reference to its preferred embodiments, but further embodiments may exist, all comprised in a same inventive core, as defined by the scope of the attached claims.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="15"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A vacuum insulating glazing (1) comprising:
+<claim-text>- two glass panes (2,2') facing one another, and spaced apart from one another by one or more pillars (3,3',3") so as to create a void volume (4) therebetween,</claim-text>
+<claim-text>- a non-evaporable getter system (5,5') placed within said volume (4),</claim-text>
+<claim-text>- a polymer-based sealing edge (6) sealing off said volume (4) in order to define a closed space in between said glass panes (2,2'),</claim-text>
+<claim-text>- said vacuum insulating glazing being <b>characterized in that</b> said sealing edge (6) is obtained by curing of a sealant composition comprising:
+<claim-text>(a) a curable thermosetting non-halogenated polyepoxide resin comprising in average at least two epoxy groups per molecule;</claim-text>
+<claim-text>(b) an aromatic diamine curing agent in amount sufficient to provide from 0.5 to 2.0 equivalents of amine N-H per equivalent of epoxy groups in the epoxy resin; and</claim-text>
+<claim-text>(c) an inorganic dryer in amount ranging between 5% and 25% by weight with respect to the total weight of said organic composition.</claim-text></claim-text></claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>The vacuum insulating glazing of claim 1, wherein said aromatic diamine curing agent amount provide from 0.5 to 1.0 equivalents of amine N-H per equivalent of epoxy groups in said epoxy resin.</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>The vacuum insulating glazing of claim 1, wherein said inorganic dryer is selected from the group consisting of oxides, preferably CaO, hygroscopic salts such as perchlorate dryers, preferably Mg(ClO<sub>4</sub>)<sub>2</sub>, and reversible dryers, such as zeolites and active carbon or a mixture thereof.</claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>The vacuum insulating glazing of any of preceding claims, wherein said sealant composition further comprises one or more passive fillers.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>The vacuum insulating glazing of claim 4, wherein said passive filler is selected from the group consisting of poly(vinyl alcohol), polyimides, SiO<sub>2</sub>, TiO<sub>2</sub>, glass beads, glass fibers, metal or glass ribbons, and metal or glass wires.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>The vacuum insulating glazing of any of the preceding claims, wherein said non-halogenated polyepoxide resin is a phenol-formaldehyde resin.<!-- EPO <DP n="16"> --></claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>The vacuum insulating glazing of claim 6, wherein said phenol-formaldehyde resin has the following formula (I):
+<chemistry id="chem0002" num="0002"><img id="ib0002" file="imgb0002.tif" wi="43" he="40" img-content="chem" img-format="tif"/></chemistry>
+wherein n is an integer comprised between 0 and 8.</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>The vacuum insulating glazing of any of the preceding claims, wherein said aromatic diamine curing agent comprises sulphonated and/or phenol groups.</claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>The vacuum insulating glazing of any of the preceding claims, wherein said aromatic diamine curing agent is 4,4'-diamino-diphenylsulphone.</claim-text></claim>
+<claim id="c-en-01-0010" num="0010">
+<claim-text>The vacuum insulating glazing of any of the preceding claims, wherein said sealant composition has a glass transition temperature T<sub>g</sub>, as determined by differential scanning calorimetry (DSC) measurements according to ISO 11357-2:2013, higher than 100°C.</claim-text></claim>
+<claim id="c-en-01-0011" num="0011">
+<claim-text>The vacuum insulating glazing of any of the preceding claims, wherein said non-evaporable getter system comprises a Zr alloy having a N<sub>2</sub> absorption capacity by ASTM absorption test at room temperature ≥ 1 cctorr/g.</claim-text></claim>
+<claim id="c-en-01-0012" num="0012">
+<claim-text>The vacuum insulating glazing of claim 11, wherein said Zr alloy is selected from the group consisting of ZrTiV, ZrTiVAl, ZrVAl, ZrVFe and ZrVFeMn-RE alloys, wherein RE is one or more rare earth elements, optionally sintered in mixtures further comprising Zr powders.</claim-text></claim>
+<claim id="c-en-01-0013" num="0013">
+<claim-text>The vacuum insulating glazing of any of the preceding claims, wherein said getter system comprises a powder getter distributed on at least one side of a metal strip.</claim-text></claim>
+<claim id="c-en-01-0014" num="0014">
+<claim-text>A window or facade comprising the vacuum insulating glazing as defined in claims 1-13.</claim-text></claim>
+<claim id="c-en-01-0015" num="0015">
+<claim-text>A cabinet for domestic or commercial refrigerators comprising the vacuum insulating glazing as defined in claims 1-13.</claim-text></claim>
+<claim id="c-en-01-0016" num="0016">
+<claim-text>A process for manufacturing a vacuum insulating glazing comprising the steps of:<!-- EPO <DP n="17"> -->
+<claim-text>i) providing a top and a bottom glass pane, and preparing said bottom glass pane by the following steps a to c in any order:
+<claim-text>a. positioning of pillars;</claim-text>
+<claim-text>b. positioning of a non-evaporable getter system on the glass surface or in a dedicated space, and optionally gluing said getter;</claim-text>
+<claim-text>c. depositing a sealant composition as defined in claim 1;</claim-text></claim-text>
+<claim-text>ii) pairing said top glass pane on said bottom glass pane;</claim-text>
+<claim-text>iii) curing said sealant composition, thus forming a VIG chamber;</claim-text>
+<claim-text>iv) pumping out said VIG chamber;</claim-text>
+<claim-text>v) activating said getter; and</claim-text>
+<claim-text>vi) sealing an evacuation hole.</claim-text></claim-text></claim>
+<claim id="c-en-01-0017" num="0017">
+<claim-text>The process according to claim 16, wherein said step i) c. is carried out by positioning pre-formed laminated strips of said sealant composition or by deposition of said sealant composition from pre-filled syringes.</claim-text></claim>
+<claim id="c-en-01-0018" num="0018">
+<claim-text>The process according to any of claims 16 or 17, wherein said curing step iii) of the sealant composition is carried out by heating and optionally also by UV curing.</claim-text></claim>
+<claim id="c-en-01-0019" num="0019">
+<claim-text>The process according to any of claims 16 to 18, wherein said getter activating step v) is carried out by radio-frequency (RF) heating in a temperature range of 300°C-600°C.</claim-text></claim>
+<claim id="c-en-01-0020" num="0020">
+<claim-text>The process according to any of claims 16 to 19, where said steps ii) and iii) of pairing said glass panes and curing said sealant composition are performed in a large evacuated chamber enclosing the entire VIG.</claim-text></claim>
+</claims>
+<claims id="claims02" lang="de"><!-- EPO <DP n="18"> -->
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Eine Vakuumisolierverglasung (1), die:
+<claim-text>- zwei Glasscheiben (2, 2'), die einander gegenüberstehen und voneinander durch einen oder mehrere Abstandshalter (3, 3', 3") derart beabstandet sind, dass dazwischen ein leeres Volumen (4) erzeugt wird,</claim-text>
+<claim-text>- ein nicht verdampfbares Gettersystem (5, 5'), das in diesem Volumen (4) angeordnet ist, und</claim-text>
+<claim-text>- einen polymerbasierten Randverbund (6), der dieses Volumen (4) versiegelt, um einen verschlossenen Zwischenraum zwischen diesen Glasscheiben (2, 2') zu bilden, umfasst, wobei</claim-text>
+<claim-text>- diese Vakuumisolierverglasung <b>dadurch gekennzeichnet ist, dass</b> dieser Randverbund (6) erhalten wird durch Aushärten einer Versiegelungszusammensetzung, umfassend:
+<claim-text>a) ein vernetzbares wärmeaushärtbares nichthalogeniertes Polyepoxidharz, das im Mittel mindestens zwei Epoxygruppen pro Molekül enthält,</claim-text>
+<claim-text>b) ein aromatisches Diamin-Vernetzungsmittel mit einem Anteil, der ausreicht, 0,5 bis 2,0 Äquivalente Amin-N-H pro Äquivalent Epoxygruppen in dem Epoxidharz zu liefern, und</claim-text>
+<claim-text>c) ein anorganisches Trocknungsmittel mit einem Anteil von zwischen 5 und 25 Gew.-%, bezogen auf das Gesamtgewicht dieser organischen Zusammensetzung.</claim-text></claim-text><!-- EPO <DP n="19"> --></claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Die Vakuumisolierverglasung nach Anspruch 1, wobei der Anteil an dem aromatischen Diamin-Vernetzungsmittel 0,5 bis 1,0 Äquivalent Amin-N-H pro Äquivalent Epoxygruppen des Epoxidharzes liefert.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Die Vakuumisolierverglasung nach Anspruch 1, wobei das anorganische Trocknungsmittel aus der Gruppe ausgewählt ist, die aus Oxiden, vorzugsweise CaO, hygroskopischen Salzen wie Perchlorat-Trocknungsmitteln, vorzugsweise Mg(ClO<sub>4</sub>)<sub>2</sub>, und reversiblen Trocknungsmitteln wie Zeolithen und Aktivkohle oder einem Gemisch davon besteht.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Die Vakuumisolierverglasung nach einem der vorhergehenden Ansprüche, wobei die Versiegelungszusammensetzung weiterhin einen oder mehrere passive Füllstoffe umfasst.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Die Vakuumisolierverglasung nach Anspruch 4, wobei der passive Füllstoff aus der Gruppe ausgewählt ist, die aus Polyvinylalkohol, Polyimiden, SiO<sub>2</sub>, TiO<sub>2</sub>, Glaskügelchen, Glasfasern, Metall- oder Glasbändern und Metall- oder Glasdrähten besteht.</claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Die Vakuumisolierverglasung nach einem der vorhergehenden Ansprüche, wobei das nichthalogenierte Polyepoxidharz ein Phenol-Formaldehyd-Harz ist.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Die Vakuumisolierverglasung nach Anspruch 6, wobei das Phenol-Formaldehyd-Harz die Formel (I)<!-- EPO <DP n="20"> -->
+<chemistry id="chem0003" num="0003"><img id="ib0003" file="imgb0003.tif" wi="41" he="38" img-content="chem" img-format="tif"/></chemistry>
+aufweist, worin n eine ganze Zahl von 0 bis 8 ist.</claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Die Vakuumisolierverglasung nach einem der vorhergehenden Ansprüche, wobei das aromatische Diamin-Vernetzungsmittel sulfonierte und/oder PhenolGruppen enthält.</claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Die Vakuumisolierverglasung nach einem der vorhergehenden Ansprüche, wobei das aromatische Diamin-Vernetzungsmittel 4,4'-Diamino-diphenylsulfon ist.</claim-text></claim>
+<claim id="c-de-01-0010" num="0010">
+<claim-text>Die Vakuumisolierverglasung nach einem der vorhergehenden Ansprüche, wobei die Versiegelungszusammensetzung eine Glasübergangstemperatur Tg aufweist, bestimmt durch Differentialscanningkalorimetrie-(DSC-)Messungen entsprechend ISO 11357-2:2013, die höher als 100 °C ist.</claim-text></claim>
+<claim id="c-de-01-0011" num="0011">
+<claim-text>Die Vakuumisolierverglasung nach einem der vorhergehenden Ansprüche, wobei das nicht verdampfbare Gettersystem eine Zr-Legierung mit einer N<sub>2</sub>-Absorptionskapazität von ≥ 1 cm<sup>3</sup>Torr/g gemäß ASTM-Absorptionstest bei Raumtemperatur umfasst.<!-- EPO <DP n="21"> --></claim-text></claim>
+<claim id="c-de-01-0012" num="0012">
+<claim-text>Die Vakuumisolierverglasung nach Anspruch 11, wobei die Zr-Legierung aus der Gruppe ausgewählt ist, die aus ZrTiV-, ZrTiVAl-, ZrVAl-, ZrVFe- und ZrVFeMn-SE-Legierungen besteht, wobei SE ein oder mehrere Seltenerdmetalle bedeutet, wahlweise in Gemischen gesintert, die ferner Zr-Pulver enthalten.</claim-text></claim>
+<claim id="c-de-01-0013" num="0013">
+<claim-text>Die Vakuumisolierverglasung nach einem der vorhergehenden Ansprüche, wobei das Gettersystem einen pulverförmigen Getter umfasst, der auf mindestens einer Seite eines Metallstreifens verteilt ist.</claim-text></claim>
+<claim id="c-de-01-0014" num="0014">
+<claim-text>Ein Fenster oder eine Fassade, das/die die in den Ansprüchen 1 bis 13 definierte Vakuumisolierverglasung umfasst.</claim-text></claim>
+<claim id="c-de-01-0015" num="0015">
+<claim-text>Ein Abteil für einen kommerziellen oder Haushaltskühlschrank, das die in den Ansprüchen 1 bis 13 definierte Vakuumisolierverglasung umfasst.</claim-text></claim>
+<claim id="c-de-01-0016" num="0016">
+<claim-text>Ein Verfahren zur Herstellung einer Vakuumisolierverglasung, umfassend die Schritte:
+<claim-text>i) Bereitstellen einer oberen und einer unteren Glasscheibe und Bearbeiten der unteren Glasscheibe in den folgenden Schritten a bis c in einer beliebigen Reihenfolge:<!-- EPO <DP n="22"> -->
+<claim-text>a. Anbringen der Abstandshalter,</claim-text>
+<claim-text>b. Anbringen eines nicht verdampfbaren Gettersystems auf einer Fläche der Glasscheibe oder in einem dafür vorgesehenen Zwischenraum und wahlweise Verkleben dieses Getters und</claim-text>
+<claim-text>c. Aufbringen einer wie in Anspruch 1 definierten Versiegelungszusammensetzung,</claim-text></claim-text>
+<claim-text>ii) Anordnen dieser oberen Glasscheibe auf dieser unteren Glasscheibe zu einem Paar,</claim-text>
+<claim-text>iii) Aushärten dieser Versiegelungszusammensetzung, wodurch sich eine VIG-Kammer bildet,</claim-text>
+<claim-text>iv) Leerpumpen dieser VIG-Kammer,</claim-text>
+<claim-text>v) Aktivieren des Getters und</claim-text>
+<claim-text>vi) Versiegeln der Evakuierungsöffnung.</claim-text></claim-text></claim>
+<claim id="c-de-01-0017" num="0017">
+<claim-text>Das Verfahren nach Anspruch 16, wobei der Schritt i)c. durch Anbringen vorgeformter laminierter Streifen mit dieser Versiegelungszusammensetzung oder durch Aufbringen der Versiegelungszusammensetzung aus vorher gefüllten Spritzen durchgeführt wird.</claim-text></claim>
+<claim id="c-de-01-0018" num="0018">
+<claim-text>Das Verfahren nach Anspruch 16 oder 17, wobei der Schritt iii) des Aushärtens der Versiegelungszusammensetzung durch Erhitzen und wahlweise auch durch UV-Bestrahlung durchgeführt wird.</claim-text></claim>
+<claim id="c-de-01-0019" num="0019">
+<claim-text>Das Verfahren nach einem der Ansprüche 16 bis 18, wobei der Schritt v) des Aktivierens des Getters durch Hochfrequenz-(HF-)Erhitzen innerhalb eines<!-- EPO <DP n="23"> --> Temperaturbereichs von 300 °C bis 600 °C durchgeführt wird.</claim-text></claim>
+<claim id="c-de-01-0020" num="0020">
+<claim-text>Das Verfahren nach einem der Ansprüche 16 bis 19, wobei die Schritte ii) und iii) der Anordnung der Glasscheiben zu einem Paar und des Aushärtens der Versiegelungszusammensetzung in einer großen evakuierten Kammer durchgeführt werden, welche die gesamte VIG aufnimmt.</claim-text></claim>
+</claims>
+<claims id="claims03" lang="fr"><!-- EPO <DP n="24"> -->
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Vitrage isolant sous vide (1) comprenant :
+<claim-text>- deux panneaux vitrés (2, 2') se faisant mutuellement face, et espacés l'un de l'autre par un ou plusieurs piliers (3, 3', 3") de façon que soit créé un volume vide (4) entre eux,</claim-text>
+<claim-text>- un système getter non évaporable (5, 5') placé à l'intérieur dudit volume (4),</claim-text>
+<claim-text>- un bord d'étanchéité à base de polymère (6) scellant ledit volume (4) de manière à définir un espace fermé entre lesdits panneaux vitrés (2, 2'),</claim-text>
+<claim-text>- ledit vitrage isolant sous vide étant <b>caractérisé en ce que</b> ledit bord d'étanchéité (6) est obtenu par durcissement d'une composition de matériau d'étanchéité comprenant :
+<claim-text>(a) une résine de polyépoxyde non halogéné thermodurcissable comprenant en moyenne au moins deux groupes époxy par molécule ;</claim-text>
+<claim-text>(b) un agent durcisseur de type diamine aromatique en une quantité suffisante pour apporter de 0,5 à 2,0 équivalents d'amine N-H par équivalent de groupes époxy dans la résine époxy ; et</claim-text>
+<claim-text>(c) un agent siccatif inorganique en une quantité comprise entre 5 % et 25 % en poids par rapport au poids total de ladite composition organique.</claim-text></claim-text></claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Vitrage isolant sous vide selon la revendication 1, dans lequel ladite quantité d'agent durcisseur de type diamine aromatique apporte de 0,5 à 1,0 équivalent d'amine N-H par équivalent de groupes époxy dans ladite résine époxy.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Vitrage isolant sous vide selon la revendication 1, dans lequel ledit siccatif inorganique est choisi dans l'ensemble constitué par les oxydes, de préférence CaO, les sels hygroscopiques tels que les siccatifs de type perchlorate, de préférence Mg(ClO<sub>4</sub>)<sub>2</sub>, et les siccatifs réversibles, tels que les zéolites et le charbon activé, ainsi que leurs mélanges.<!-- EPO <DP n="25"> --></claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Vitrage isolant sous vide selon l'une quelconque des revendications précédentes, dans lequel ladite composition de matériau d'étanchéité comprend en outre une ou plusieurs charges passives.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Vitrage isolant sous vide selon la revendication 4, dans lequel ladite charge passive est choisie dans l'ensemble constitué par le poly(alcool vinylique), les polyimides, SiO<sub>2</sub>, TiO<sub>2</sub>, les perles de verre, les fibres de verre, les rubans de métal ou de verre, et les fils de métal ou de verre.</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Vitrage isolant sous vide selon l'une quelconque des revendications précédentes, dans lequel ladite résine de polyépoxyde non halogéné est une résine de phénol-formaldéhyde.</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Vitrage isolant sous vide selon la revendication 6, dans lequel ladite résine de phénol-formaldéhyde est de formule (I) suivante :
+<chemistry id="chem0004" num="0004"><img id="ib0004" file="imgb0004.tif" wi="47" he="44" img-content="chem" img-format="tif"/></chemistry>
+dans laquelle n est un entier compris entre 0 et 8.</claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Vitrage isolant sous vide selon l'une quelconque des revendications précédentes, dans lequel ledit agent durcisseur de type diamine aromatique comprend des groupes sulfonés et/ou phénol.</claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Vitrage isolant sous vide selon l'une quelconque des revendications précédentes, dans lequel ledit agent durcisseur de type diamine aromatique est la 4,4'-diamino-diphénylsulfone.<!-- EPO <DP n="26"> --></claim-text></claim>
+<claim id="c-fr-01-0010" num="0010">
+<claim-text>Vitrage isolant sous vide selon l'une quelconque des revendications précédentes, dans lequel ladite composition de matériau d'étanchéité a une température de transition vitreuse Tg, telle que déterminée par des mesures de calorimétrie à balayage différentiel (DSC) conformément à la norme ISO 11357-2:2013, supérieure à 100°C.</claim-text></claim>
+<claim id="c-fr-01-0011" num="0011">
+<claim-text>Vitrage isolant sous vide selon l'une quelconque des revendications précédentes, dans lequel ledit système getter non évaporable comprend un alliage de Zr ayant une capacité d'absorption de N<sub>2</sub>, par un test d'absorption ASTM à la température ambiante, &gt; 1 cm<sup>3</sup>•torr/g.</claim-text></claim>
+<claim id="c-fr-01-0012" num="0012">
+<claim-text>Vitrage isolant sous vide selon la revendication 11, dans lequel ledit alliage de Zr est choisi dans l'ensemble constitué par les alliages ZrTiV, ZrTiVAI, ZrVAI, ZrVFe et ZrVFeMn-RE, où RE est un ou plusieurs éléments des terres rares, éventuellement fritté dans des mélanges comprenant en outre des poudres de Zr.</claim-text></claim>
+<claim id="c-fr-01-0013" num="0013">
+<claim-text>Vitrage isolant sous vide selon l'une quelconque des revendications précédentes, dans lequel ledit système getter comprend un getter poudre distribué sur au moins un côté d'une bande métallique.</claim-text></claim>
+<claim id="c-fr-01-0014" num="0014">
+<claim-text>Fenêtre ou façade comprenant le vitrage isolant sous vide tel que défini dans les revendications 1 à 13.</claim-text></claim>
+<claim id="c-fr-01-0015" num="0015">
+<claim-text>Armoire pour réfrigérateurs domestiques ou industriels comprenant le vitrage isolant sous vide tel que défini dans les revendications 1 à 13.</claim-text></claim>
+<claim id="c-fr-01-0016" num="0016">
+<claim-text>Procédé pour fabriquer un vitrage isolant sous vide, comprenant les étapes de :<!-- EPO <DP n="27"> -->
+<claim-text>i) obtention d'un panneau vitré supérieur et d'un panneau vitré inférieur, et préparation dudit panneau vitré inférieur par les étapes a à c suivantes dans un ordre quelconque :
+<claim-text>a. positionnement de piliers ;</claim-text>
+<claim-text>b. positionnement d'un système getter non évaporable sur la surface de verre ou dans un espace dédié, et éventuellement collage dudit getter ;</claim-text>
+<claim-text>c. déposition d'une composition de matériau d'étanchéité telle que définie dans la revendication 1 ;</claim-text></claim-text>
+<claim-text>ii) appariement dudit panneau vitré supérieur sur ledit panneau vitré inférieur ;</claim-text>
+<claim-text>iii) durcissement de ladite composition de matériau d'étanchéité, ce qui forme ainsi une chambre de vitrage isolant sous vide ;</claim-text>
+<claim-text>iv) évacuation par pompage de ladite chambre de vitrage isolant sous vide ;</claim-text>
+<claim-text>v) activation dudit getter ; et</claim-text>
+<claim-text>vi) scellage d'un trou d'évacuation.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0017" num="0017">
+<claim-text>Procédé selon la revendication 16, dans lequel ladite étape i) c. est mise en œuvre par positionnement de bandes stratifiées préformées de ladite composition de matériau d'étanchéité ou par déposition de ladite composition de matériau d'étanchéité à partir de seringues pré-remplies.</claim-text></claim>
+<claim id="c-fr-01-0018" num="0018">
+<claim-text>Procédé selon l'une quelconque des revendications 16 et 17, dans lequel ladite étape de durcissement iii) de la composition de matériau d'étanchéité est mise en œuvre par chauffage et éventuellement aussi par durcissement aux UV.</claim-text></claim>
+<claim id="c-fr-01-0019" num="0019">
+<claim-text>Procédé selon l'une quelconque des revendications 16 à 18, dans lequel ladite étape d'activation de getter v) est mise en œuvre par chauffage par radiofréquences (RF) dans la plage de températures allant de 300°C à 600°C.<!-- EPO <DP n="28"> --></claim-text></claim>
+<claim id="c-fr-01-0020" num="0020">
+<claim-text>Procédé selon l'une quelconque des revendications 16 à 19, dans lequel lesdites étapes ii) et iii) d'appariement desdits panneaux vitrés et de durcissement de ladite composition de matériau d'étanchéité sont mises en œuvre dans une grande chambre évacuée renfermant la totalité du vitrage isolant sous vide.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="29"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="108" he="218" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="30"> -->
+<figure id="f0002" num="2"><img id="if0002" file="imgf0002.tif" wi="102" he="142" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="31"> -->
+<figure id="f0003" num="3a,3b,3c"><img id="if0003" file="imgf0003.tif" wi="131" he="233" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="EP2576950A"><document-id><country>EP</country><doc-number>2576950</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0008]</crossref><crossref idref="pcit0009">[0029]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="US2007178256"><document-id><country>US</country><doc-number>2007178256</doc-number></document-id></patcit><crossref idref="pcit0002">[0009]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="CN107285650"><document-id><country>CN</country><doc-number>107285650</doc-number></document-id></patcit><crossref idref="pcit0003">[0010]</crossref><crossref idref="pcit0008">[0012]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="EP1794404A"><document-id><country>EP</country><doc-number>1794404</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0004">[0010]</crossref><crossref idref="pcit0005">[0010]</crossref><crossref idref="pcit0006">[0010]</crossref></li>
+<li><patcit id="ref-pcit0005" dnum="WO9526997A"><document-id><country>WO</country><doc-number>9526997</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0007">[0011]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="s"><article><atl/><serial><sertitle>Conference Proceedings of Glass Performance Days GPD</sertitle><pubdate><sdate>20170000</sdate><edate/></pubdate></serial><location><pp><ppf>264</ppf><ppl>267</ppl></pp></location></article></nplcit><crossref idref="ncit0001">[0006]</crossref></li>
+<li><nplcit id="ref-ncit0002" npl-type="b"><article><atl/><book><author><name>L. K. MASSEY</name></author><book-title>Permeability properties of plastics and elastomers: a guide to packaging and barrier materials</book-title><imprint><name>William Andrew</name><pubdate>20030000</pubdate></imprint></book></article></nplcit><crossref idref="ncit0002">[0010]</crossref></li>
+<li><nplcit id="ref-ncit0003" npl-type="s"><article><author><name>J.M. WATSON</name></author><author><name>M.G. BARON</name></author><atl>The behaviour of water in poly(dimethylsiloxane)</atl><serial><sertitle>Journal of Membrane Science</sertitle><pubdate><sdate>19960000</sdate><edate/></pubdate><vid>110</vid></serial><location><pp><ppf>47</ppf><ppl>57</ppl></pp></location></article></nplcit><crossref idref="ncit0003">[0012]</crossref></li>
+<li><nplcit id="ref-ncit0004" npl-type="b"><article><atl/><book><author><name>ROBERT F. BERG</name></author><author><name>JAMES A. FEDCHAK</name></author><book-title>NIST Calibration Services for Spinning Rotor Gauge Calibrations</book-title><imprint><name>NIST Special Publication</name></imprint><location><pp><ppf>250</ppf><ppl>93</ppl></pp></location></book></article></nplcit><crossref idref="ncit0004">[0052]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

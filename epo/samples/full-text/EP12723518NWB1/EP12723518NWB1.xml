@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP12723518B1" file="EP12723518NWB1.xml" lang="fr" country="EP" doc-number="2834426" kind="B1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="fr"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSK..HRIS..MTNORS..SM..................</B001EP><B003EP>*</B003EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  2100000/0</B007EP></eptags></B000><B100><B110>2834426</B110><B120><B121>FASCICULE DE BREVET EUROPEEN</B121></B120><B130>B1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>12723518.2</B210><B220><date>20120411</date></B220><B240><B241><date>20141104</date></B241><B242><date>20150821</date></B242></B240><B250>fr</B250><B251EP>fr</B251EP><B260>fr</B260></B200><B300><B310>1253080</B310><B320><date>20120404</date></B320><B330><ctry>FR</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20150211</date><bnum>201507</bnum></B430><B450><date>20211006</date><bnum>202140</bnum></B450><B452EP><date>20210602</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>E04B   1/90        20060101AFI20131023BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>E04B   1/94        20060101ALI20131023BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>E04B   2/42        20060101ALI20131023BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>E04C   2/12        20060101ALI20131023BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>E04C   2/42        20060101ALI20131023BHEP        </text></classification-ipcr><classification-ipcr sequence="6"><text>B32B   3/14        20060101ALI20131023BHEP        </text></classification-ipcr><classification-ipcr sequence="7"><text>B32B   3/18        20060101ALI20131023BHEP        </text></classification-ipcr><classification-ipcr sequence="8"><text>B32B  21/04        20060101ALI20131023BHEP        </text></classification-ipcr><classification-ipcr sequence="9"><text>B32B   5/14        20060101ALI20131023BHEP        </text></classification-ipcr><classification-ipcr sequence="10"><text>B32B   7/00        20190101ALI20131023BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>B32B2307/304       20130101 LA20130101BHEP        </text></classification-cpc><classification-cpc sequence="2"><text>B32B  27/065       20130101 LI20180920BHEP        </text></classification-cpc><classification-cpc sequence="3"><text>B32B2264/067       20130101 LA20150401BHEP        </text></classification-cpc><classification-cpc sequence="4"><text>B32B2262/067       20130101 LA20150401BHEP        </text></classification-cpc><classification-cpc sequence="5"><text>B32B2307/3065      20130101 LA20150806BHEP        </text></classification-cpc><classification-cpc sequence="6"><text>Y10T 428/24132     20150115 LA20151001BCEP        </text></classification-cpc><classification-cpc sequence="7"><text>B32B2262/106       20130101 LA20180920BHEP        </text></classification-cpc><classification-cpc sequence="8"><text>B32B2262/062       20130101 LA20150401BHEP        </text></classification-cpc><classification-cpc sequence="9"><text>B32B  21/042       20130101 LI20130101BHEP        </text></classification-cpc><classification-cpc sequence="10"><text>B32B2307/302       20130101 LA20180920BHEP        </text></classification-cpc><classification-cpc sequence="11"><text>B32B2262/108       20130101 LA20130101BHEP        </text></classification-cpc><classification-cpc sequence="12"><text>B32B   5/26        20130101 LI20150401BHEP        </text></classification-cpc><classification-cpc sequence="13"><text>E04C   2/12        20130101 LI20130101BHEP        </text></classification-cpc><classification-cpc sequence="14"><text>B32B2266/0228      20130101 LA20130101BHEP        </text></classification-cpc><classification-cpc sequence="15"><text>B32B2607/00        20130101 LA20130101BHEP        </text></classification-cpc><classification-cpc sequence="16"><text>E04C   2/386       20130101 LI20181217BHEP        </text></classification-cpc><classification-cpc sequence="17"><text>B32B2419/00        20130101 LA20130101BHEP        </text></classification-cpc><classification-cpc sequence="18"><text>B32B  21/06        20130101 LI20180920BHEP        </text></classification-cpc><classification-cpc sequence="19"><text>B32B  15/20        20130101 LI20180920BHEP        </text></classification-cpc><classification-cpc sequence="20"><text>B32B  21/02        20130101 LI20180920BHEP        </text></classification-cpc><classification-cpc sequence="21"><text>B32B  15/12        20130101 LI20180920BHEP        </text></classification-cpc><classification-cpc sequence="22"><text>B32B   5/02        20130101 LI20150401BHEP        </text></classification-cpc><classification-cpc sequence="23"><text>B32B  27/12        20130101 LI20180920BHEP        </text></classification-cpc><classification-cpc sequence="24"><text>E04C   2/296       20130101 FI20150806BHEP        </text></classification-cpc><classification-cpc sequence="25"><text>B32B   7/12        20130101 LI20180920BHEP        </text></classification-cpc><classification-cpc sequence="26"><text>B32B  27/08        20130101 LI20180920BHEP        </text></classification-cpc><classification-cpc sequence="27"><text>B32B  15/046       20130101 LI20180920BHEP        </text></classification-cpc><classification-cpc sequence="28"><text>E04C   2/388       20130101 LI20181217BHEP        </text></classification-cpc><classification-cpc sequence="29"><text>B32B  27/10        20130101 LI20180920BHEP        </text></classification-cpc><classification-cpc sequence="30"><text>B32B   5/245       20130101 LI20150401BHEP        </text></classification-cpc><classification-cpc sequence="31"><text>B32B   9/045       20130101 LI20180920BHEP        </text></classification-cpc><classification-cpc sequence="32"><text>B32B  15/14        20130101 LI20180920BHEP        </text></classification-cpc><classification-cpc sequence="33"><text>B32B   3/266       20130101 LI20180920BHEP        </text></classification-cpc><classification-cpc sequence="34"><text>B32B   7/08        20130101 LI20180920BHEP        </text></classification-cpc><classification-cpc sequence="35"><text>B32B   9/007       20130101 LI20180920BHEP        </text></classification-cpc><classification-cpc sequence="36"><text>E04B   1/90        20130101 LI20130101BHEP        </text></classification-cpc><classification-cpc sequence="37"><text>E04B   1/942       20130101 LA20131019BHEP        </text></classification-cpc><classification-cpc sequence="38"><text>B32B   7/03        20190101 LI20190103BHEP        </text></classification-cpc><classification-cpc sequence="39"><text>B32B   3/10        20130101 LI20150806BHEP        </text></classification-cpc><classification-cpc sequence="40"><text>B32B2307/102       20130101 LA20130101BHEP        </text></classification-cpc><classification-cpc sequence="41"><text>B32B   3/18        20130101 LI20130101BHEP        </text></classification-cpc><classification-cpc sequence="42"><text>B32B   5/18        20130101 LI20150401BHEP        </text></classification-cpc><classification-cpc sequence="43"><text>B32B   3/14        20130101 LI20130101BHEP        </text></classification-cpc><classification-cpc sequence="44"><text>B32B  21/047       20130101 LI20150401BHEP        </text></classification-cpc><classification-cpc sequence="45"><text>B32B  13/06        20130101 LI20180920BHEP        </text></classification-cpc><classification-cpc sequence="46"><text>B32B   9/041       20130101 LI20180920BHEP        </text></classification-cpc><classification-cpc sequence="47"><text>B32B  13/12        20130101 LI20180920BHEP        </text></classification-cpc><classification-cpc sequence="48"><text>B32B  13/10        20130101 LI20180920BHEP        </text></classification-cpc><classification-cpc sequence="49"><text>B32B  21/10        20130101 LI20150401BHEP        </text></classification-cpc><classification-cpc sequence="50"><text>B32B   5/142       20130101 LI20130101BHEP        </text></classification-cpc><classification-cpc sequence="51"><text>B32B  13/00        20130101 LI20150401BHEP        </text></classification-cpc><classification-cpc sequence="52"><text>B32B2262/101       20130101 LA20130101BHEP        </text></classification-cpc><classification-cpc sequence="53"><text>B32B   5/32        20130101 LI20150401BHEP        </text></classification-cpc><classification-cpc sequence="54"><text>E04C   2/10        20130101 LI20131128BHEP        </text></classification-cpc><classification-cpc sequence="55"><text>B32B   9/042       20130101 LI20180920BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>VERBESSERTE MEHRLAGIGE PLATTE</B542><B541>en</B541><B542>IMPROVED MULTI-PLY PANEL</B542><B541>fr</B541><B542>PANNEAU MULTI-PLIS AMÉLIORÉ</B542></B540><B560><B561><text>DE-A1- 19 603 833</text></B561><B561><text>DE-U1- 20 216 634</text></B561><B561><text>FR-A1- 2 922 565</text></B561><B562><text>"MATERIAUX D'ISOLATION THERMIQUE", , 31 juillet 2010 (2010-07-31), pages 1-21, XP55042106, Extrait de l'Internet: URL:http://app.bruxellesenvironnement.be/g uide_batiment_durable/(S(pnmngc452sate5455 zzfa3bv))/docs/MAT05_FR.pdf [extrait le 2012-10-24]</text></B562><B562><text>None</text></B562></B560></B500><B700><B720><B721><snm>BOURDON, Laurent</snm><adr><str>51 allée de Sochein Vieugy</str><city>74600 Seynod</city><ctry>FR</ctry></adr></B721><B721><snm>FAURE, Pascal</snm><adr><str>Le Bas</str><city>73400 Ugine</city><ctry>FR</ctry></adr></B721><B721><snm>GOY, Didier</snm><adr><str>Villard-Dessous</str><city>74230 Manigod</city><ctry>FR</ctry></adr></B721><B721><snm>CHABRIER, Christian</snm><adr><str>Près Rosset</str><city>74230 La Balme De Thuy</city><ctry>FR</ctry></adr></B721></B720><B730><B731><snm>Techniwood International</snm><iid>101478104</iid><irf>31T75BTEUPCT5</irf><adr><str>Tour Panoramique</str><city>54320 Maxéville</city><ctry>FR</ctry></adr></B731></B730><B740><B741><snm>Rhein, Alain</snm><iid>101434887</iid><adr><str>Cabinet Bleger-Rhein-Poupon 
+4, rue du Bois de la Champelle</str><city>54500 Vandoeuvre-lès-Nancy</city><ctry>FR</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B860><B861><dnum><anum>FR2012050781</anum></dnum><date>20120411</date></B861><B862>fr</B862></B860><B870><B871><dnum><pnum>WO2013150188</pnum></dnum><date>20131010</date><bnum>201341</bnum></B871></B870></B800></SDOBI>
+<description id="desc" lang="fr"><!-- EPO <DP n="1"> -->
+<p id="p0001" num="0001">La présente invention concerne la construction de bâtiments. Elle concerne plus particulièrement un panneau pour constituer un plancher ou un mur ou un rampant de toiture, ou alors pour constituer un complément d'un mur, par exemple pour en améliorer l'isolation thermique et/ou phonique, ou la résistance au feu.</p>
+<p id="p0002" num="0002">De nombreux matériaux ont été proposés pour constituer des murs, ou compléments de murs, pour en améliorer l'isolation thermique et/ou phonique, ou sa résistance au feu. Avec l'entrée en vigueur de nouvelles normes RT 2012, RT 2020 à venir et labels, les exigences changent, et il est donc nécessaire de pouvoir proposer des qualités de murs ou compléments de murs différents. De plus, la qualité nécessaire n'est pas la même, s'agissant de murs intérieurs ou extérieurs, de plafond, de rampants de toiture, et selon le type de constructions les exigences changent également. Cela oblige le fournisseur de panneaux ou matériaux à prévoir une grande quantité de références, pour pouvoir faire face à tous les besoins.</p>
+<p id="p0003" num="0003">La présente invention a pour but de pallier au moins en partie à ces inconvénients. A cet effet elle propose un panneau multi-plis pour la constitution ou le complément d'un mur, d'un plancher ou plafond, ou d'un rampant pour un bâtiment, constitué d'un empilement de plis dont au moins un est constitué de lames structurelles parallèles, de préférence en bois, et de lames de remplissage disposées entre les lames structurelles en un matériau différent que celui des lames structurelles, lesdits matériaux pouvant être sélectionnés pour leur isolation thermique ou acoustique, leur inertie thermique ou leur résistance au feu. Le panneau est particulier en ce qu'au moins une lame de remplissage est en un matériau isolant de conductivité thermique inférieure à 0,038 W/m.K., de préférence inférieur à 0,035 W/m.K. et en ce qu'il comprend des matériaux différents dans au moins deux plis.</p>
+<p id="p0004" num="0004">Grâce à ces dispositions, on peut obtenir une pluralité de types de panneaux, avec des caractéristiques adaptées à chaque besoin, par une conception simple, et une efficacité renforcée, en particulier en terme d'isolation thermique.</p>
+<p id="p0005" num="0005">Selon d'autres caractéristiques
+<ul id="ul0001" list-style="dash">
+<li>ledit matériau isolant peut être en laine de verre, laine de roche, ou polystyrène expansé blanc ou graphité, matériaux possédant de bonnes qualités d'isolation thermique,</li>
+<li>ledit panneau peut comprendre une lame en un matériau d'inertie présentant une inertie thermique supérieure à 1000 kJ/m<sup>3</sup>.K ; cette disposition permet de conférer une<!-- EPO <DP n="2"> --> bonne inertie thermique audit panneau, refroidissant moins vite la nuit et / ou en hiver, et chauffant moins vite le jour et / ou en été, et ladite lame peut être disposée avantageusement du côté de la paroi plus proche de l'intérieur d'un bâtiment, donnant ainsi le maximum de confort aux usagers.</li>
+<li>ledit matériau peut être en bois, plâtre, ouate de cellulose, ou particules de bois, qui présentent une combinaison de chaleur spécifique et de masse volumique donnant une bonne inertie thermique,</li>
+<li>ledit panneau peut comprendre une lame de remplissage en un matériau isolant acoustique,</li>
+<li>ledit matériau isolant acoustique peut être en laine de roche ou fibres de bois, qui sont des matériaux bien adaptés à l'isolation acoustique,</li>
+<li>ledit panneau peut comprendre une lame en un matériau incombustible, conférant une bonne résistance au feu audit panneau,</li>
+<li>ledit matériau incombustible peut être en plâtre ou laine de roche, matériaux présentant une bonne résistance au feu ; on choisira celui des matériaux dont les autres caractéristiques correspondant le mieux à ce qui est recherché pour le panneau,</li>
+<li>ledit panneau peut comprendre un pli pour réseaux techniques, dans laquelle subsistent des espaces entre lames structurelles de sorte à permettre le passage de réseaux techniques, permettant ainsi de cacher lesdits réseaux techniques dans le panneau.</li>
+</ul></p>
+<p id="p0006" num="0006">L'avantage de la présente invention est en particulier qu'elle permet de proposer des panneaux ayant les propriétés adaptées et améliorées pour une pluralité d'applications, à partir d'un petit nombre de composants élémentaires que sont les lames structurelles et les lames de remplissage, assemblées en plis et en galettes.</p>
+<p id="p0007" num="0007">La présente invention sera mieux comprise à la lecture de la description détaillée qui suit faite en référence aux figures annexées dans lesquelles
+<ul id="ul0002" list-style="dash" compact="compact">
+<li>La <figref idref="f0001">figure 1</figref> est une vue éclatée d'un treillis bois d'un panneau selon l'invention,</li>
+<li>La <figref idref="f0001">figure 2</figref> est une vue en coupe du treillis bois assemblé de la <figref idref="f0001">fig. 1</figref>,</li>
+<li>La <figref idref="f0001">figure 3</figref> est une vue éclatée d'un panneau partiel selon l'invention,</li>
+<li>La <figref idref="f0002">figure 4</figref> est une vue de face d'un deuxième mode de réalisation d'un pli d'un panneau selon l'invention,<!-- EPO <DP n="3"> --></li>
+<li>La <figref idref="f0002">figure 5</figref> est une vue de face d'un troisième mode de réalisation d'un pli d'un panneau selon l'invention.</li>
+</ul></p>
+<p id="p0008" num="0008">Les panneaux sont composés d'une succession de plis 1, encore appelés couches, Chaque pli comprend des lames structurelles 2 et peut comprendre des lames de remplissage 3.</p>
+<p id="p0009" num="0009">Les matériaux de remplissage sont généralement classées en matériaux mous, matériaux semi-rigides, constitués de matériaux mous associés à un renfort en papier Kraft ou fibre de verre, ces deux types de matériaux étant souvent manipulés sous forme de rouleaux et matériaux rigides qui se tiennent seuls et sont manipulés sous forme de plaques. Les lames de remplissage de la présente invention sont généralement des lames rigides, mais peuvent être des matériaux semi-rigides. Selon un premier mode de réalisation illustré aux <figref idref="f0001">fig. 1 à 3</figref>, l'orientation et la disposition des lames structurelles 2 dans les différents plis 1 forme une structure équivalente à un treillis structurel. Ces lames structurelles peuvent par exemple être aboutées et calibrées, de section rectangulaire et disposées verticalement puis horizontalement un pli sur deux. Les plis croisés sont assemblés entre eux au niveau des lames de bois. Cet assemblage peut se faire par collage, ou encore par clouage ou vissage. A la <figref idref="f0001">fig. 3</figref> on voit un pli constitué exclusivement de lames structurelles.</p>
+<p id="p0010" num="0010">Les plis dont les lames structurelles sont orientées dans le même sens (verticalement ou horizontalement) peuvent présenter un décalage du positionnement des lames structurelles d'un pli sur l'autre. Ce décalage permet de réduire voir d'annihiler les ponts thermiques potentiellement engendrés par le treillis structurel.</p>
+<p id="p0011" num="0011">Selon un autre mode de réalisation, on peut disposer deux plis successifs avec des lames structurelles parallèles, ou encore inclinées d'un angle quelconque, par exemple de 30°, 45° ou 60° d'un pli sur l'autre.</p>
+<p id="p0012" num="0012">Les lames structurelles peuvent être en bois, mais aussi en métal, de préférence un métal léger comme l'aluminium, en un matériau composite, comme la fibre de carbone, ou encore en résine.</p>
+<p id="p0013" num="0013">La résistance mécanique globale du panneau est obtenue par assemblage structurel des lames structurelles entre elles sur toute leur zone de contact : toute la longueur ou aux croisements des lames selon qu'elles sont empilées, ou qu'elles présentent un angle entre elles.</p>
+<p id="p0014" num="0014">Le décalage (ou entraxe) entre les lames structurelles est fonction des performances mécaniques attendues du pli, et on peut disposer entre les lames structurelles un certain<!-- EPO <DP n="4"> --> nombre de lames de remplissage, soit de largeur standard, soit d'une largeur adaptée aux contraintes géométriques rencontrées pour le panneau, par exemple la présence de portes ou fenêtres.</p>
+<p id="p0015" num="0015">Les <figref idref="f0002">fig. 4 et 5</figref> illustrent deux exemples de plis incorporant une porte 5 et une fenêtre 6, avec deux dispositions différentes des lames structurelles. On peut ainsi alterner un pli selon la <figref idref="f0002">fig. 4</figref> avec un pli selon la <figref idref="f0002">fig. 5</figref>, mais on peut aussi disposer plusieurs plis successifs selon la <figref idref="f0002">fig. 4</figref>, ou intercaler d'autres configurations, comme un pli constitué de lames structurelles. Les lames de remplissage sélectionnées viennent compléter les plis.</p>
+<p id="p0016" num="0016">Les lames structurelles étant orientées à plat dans un pli, l'épaisseur du pli est donnée par l'épaisseur des lames structurelles retenue. L'épaisseur des lames structurelles peut éventuellement varier d'un pli à l'autre ; ainsi un panneau peut être composé de plis de différentes épaisseurs.</p>
+<p id="p0017" num="0017">Exemples de dimensions possibles des lames structurelles :
+<ul id="ul0003" list-style="dash" compact="compact">
+<li>30x100 mm,</li>
+<li>30x150 mm,</li>
+<li>45x95 mm,</li>
+<li>45x145 mm.</li>
+</ul></p>
+<p id="p0018" num="0018">Exemples de dimensions possibles des lames de remplissage (isolations, inerties ou autre) :
+<ul id="ul0004" list-style="dash" compact="compact">
+<li>150 mm (l'épaisseur étant celle de la lame bois),</li>
+<li>300 mm (ou 2 lames de 150 mm),</li>
+<li>450 mm (ou 3 lames de 150 mm ou 1 lame de 150 mm et une lame de 300 mm),</li>
+<li>600 mm (ou 4 lames de 150 mm ou 2 lames de 300 mm),</li>
+<li>une dimension quelconque, imposée par la disposition géométrique du panneau</li>
+</ul></p>
+<p id="p0019" num="0019">Les espaces disponibles entre lames structurelles dans chacun des plis peuvent être comblés par une lame de remplissage d'un matériau adapté ou laissés vide (par exemple pour les plis extérieurs) pour intégrer des réseaux techniques ou pour toute autre utilité.</p>
+<p id="p0020" num="0020">Au sein d'un pli, les lames de remplissage peuvent être collées à chant entre elles, notamment si plusieurs lames sont associées, et collées aux lames structurelles afin d'obtenir un contact parfait entre matériaux, garant d'une bonne étanchéité à l'air, thermique et acoustique.<!-- EPO <DP n="5"> --></p>
+<p id="p0021" num="0021">Les différents panneaux (murs, dalles, planchers, rampants) doivent remplir une ou plusieurs fonctions au sein d'une construction tout en respectant les exigences réglementaires :
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>Tableau 1 : Exigences règlementaires</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="29mm"/>
+<colspec colnum="2" colname="col2" colwidth="34mm"/>
+<thead>
+<row>
+<entry align="center" valign="top"><b>FONCTIONS</b></entry>
+<entry align="center" valign="top"><b>EXIGENCES</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Structurelle</entry>
+<entry>Eurocodes</entry></row>
+<row>
+<entry>Thermique</entry>
+<entry>RT2005, RT2012, ...</entry></row>
+<row>
+<entry>Acoustique</entry>
+<entry>NRA2000</entry></row>
+<row>
+<entry>Feu</entry>
+<entry>Eurocodes</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0022" num="0022">Ainsi, une formulation précise et adaptée à chaque exigence, pour chacun des plis composant un panneau, doit aboutir à une rationalisation de matériaux utilisés. Les composants présents dans les panneaux doivent être en quantité strictement nécessaire et suffisante.</p>
+<p id="p0023" num="0023">L'analyse de ces différentes formulations a permis d'identifier des "galettes fonctionnelles" 4 (<figref idref="f0001">fig. 3</figref>) comportant un certain nombre de plis, eux même composés de différents matériaux :
+<ul id="ul0005" list-style="dash" compact="compact">
+<li>galette structurelle,</li>
+<li>galette isolante,</li>
+<li>galette inertie,</li>
+<li>galette réseaux techniques et support parements.</li>
+</ul></p>
+<p id="p0024" num="0024">NOTA : chacune des galettes fonctionnelles peut présenter des aptitudes minimales pour d'autres fonctions (ex. : la galette structurelle apporte un début de réponse à la fonction isolante).</p>
+<p id="p0025" num="0025">Les différents exemples présentés ci-dessous sont établis sur une base de plis d'épaisseur 30 mm chacun.</p>
+<heading id="h0001">Exemple 1 - MURS RIDEAUX rapportés sur une structure principale en béton, en métal ou en bois pour un bâtiment neuf ou une réhabilitation.</heading><!-- EPO <DP n="6"> -->
+<p id="p0026" num="0026">
+<ul id="ul0006" list-style="dash">
+<li>Parement intérieur : Plaque de plâtre.</li>
+<li>Contre-cloison acoustique / vide technique : Rail métallique type R48 + isolation acoustique type laine minérale 50 mm :
+<ul id="ul0007" list-style="none" compact="compact">
+<li>■ R = 1,40 m<sup>2</sup>. K/W</li>
+<li>■ Rw-17 dB (avec BA13)</li>
+</ul></li>
+<li>Pare-vapeur : ép &gt;= 150 µ / Sd&gt; 80-100 m</li>
+<li>Panneau de remplissage / rôles thermique et acoustique (panneau selon l'invention):
+<ul id="ul0008" list-style="none" compact="compact">
+<li>■ 1er pli vertical - 25% bois / 75% laine minérale</li>
+<li>■ 2ème pli horizontal - 25% bois / laine minérale</li>
+<li>■ 3ème pli vertical - 25% bois / 75% PSEG</li>
+<li>■ 4ème pli horizontal - 25% bois / 75% PSEG</li>
+<li>■ 5ème pli vertical - 25% bois / 75% PSEG</li>
+<li>■ 6ème pli horizontal - 25% bois / 75% PSEG</li>
+<li>■ 7ème pli vertical - 25% bois / 75% laine minérale</li>
+</ul></li>
+<li>Pare-pluie : pare-pluie Sd&lt;0,18 m</li>
+<li>Support parement / lame d'air ventilée : Tasseaux bois massif 30x80 mm (entraxe 600 mm)</li>
+<li>Parement extérieur : panneaux stratifiés</li>
+</ul></p>
+<p id="p0027" num="0027">Les performances obtenues avec un tel panneau sont les suivantes :
+<ul id="ul0009" list-style="dash" compact="compact">
+<li>Résistance thermique : 4,91 m<sup>2</sup>.K/W</li>
+<li>Conductivité thermique : 0,203 W/m<sup>2</sup>.K, (la RT2012 neuf impose ≤ 0,2 W/m<sup>2</sup>.K)</li>
+<li>Résistance acoustique Rw : 36 dB sans BA13, (la NRA2000 impose ≥ 30 ou 53 dB)</li>
+<li>tance acoustique Rw : 36 dB sans BA13, (la NRA2000 impose ≥ 30 ou 53dB)</li>
+</ul></p>
+<heading id="h0002">Exemple 2 - MUR PORTEUR MULTI-GALETTES</heading>
+<p id="p0028" num="0028">
+<ul id="ul0010" list-style="dash">
+<li>Parement intérieur : Plaque de plâtre.</li>
+<li>Support parement / vide technique : Tasseaux bois massif 37x50 mm (entraxe 600 mm)</li>
+<li>Pare-vapeur : ép &gt;= 150 µ / Sd&gt; 80-100 m<!-- EPO <DP n="7"> --></li>
+<li>Panneau porteur / rôles thermique, acoustique et structurel (panneau selon l'invention) :
+<ul id="ul0011" list-style="none" compact="compact">
+<li>∘ Galette structurelle :
+<ul id="ul0012" list-style="none" compact="compact">
+<li>■ 1er pli vertical - 50% bois / 50% laine minérale</li>
+<li>■ 2ème pli horizontal - 20% bois / 80% PSEG</li>
+<li>■ 3ème pli vertical - 50% bois / 50% PSEG</li>
+<li>■ 4ème pli horizontal - 20% bois / 80% PSEG</li>
+<li>■ 5ème pli vertical - 50% bois / 50% PSEG</li>
+</ul></li>
+<li>∘ Galette isolante :
+<ul id="ul0013" list-style="none" compact="compact">
+<li>■ 6ème pli horizontal - 20% bois / 80% PSEG</li>
+<li>■ 7ème pli vertical - 20% bois / 80% PSEG</li>
+<li>■ 8<sup>ème</sup> pli horizontal - 25% bois / 75% laine minérale</li>
+</ul></li>
+</ul></li>
+<li>Pare-pluie : pare-pluie Sd&lt;0,18 m</li>
+<li>Support parement / lame d'air ventilée : Tasseaux bois massif 27x50 mm (entraxe 600 mm)</li>
+<li>Parement extérieur : bardage bois</li>
+</ul></p>
+<p id="p0029" num="0029">Les performances obtenues avec un tel panneau sont les suivantes :
+<ul id="ul0014" list-style="dash" compact="compact">
+<li>Résistance thermique : 5,03 m<sup>2</sup>.K/W</li>
+<li>Conductivité thermique : 0,198 W/m<sup>2</sup>.K, (la RT2012 neuf impose ≤ 0,2 W/m<sup>2</sup>.K)</li>
+<li>Résistance acoustique Rw : 40 dB avec BA13, (la NRA2000 impose ≥ 30dB)</li>
+<li>acoustique Rw : 40 dB avec BA13, (la NRA2000 impose ≥ 30 ou 53dB)</li>
+</ul></p>
+<heading id="h0003">Exemple 3 - MUR PORTEUR MONO-GALETTE</heading>
+<p id="p0030" num="0030">
+<ul id="ul0015" list-style="dash">
+<li>Parement intérieur : Plaque de plâtre.</li>
+<li>Support parement / vide technique : Tasseaux bois massif 37x50 mm (entraxe 600 mm)</li>
+<li>Panneau porteur / rôles acoustique et structurel (panneau selon l'invention) :
+<ul id="ul0016" list-style="none" compact="compact">
+<li>■ 1er pli vertical - 50% bois / 50% laine minérale</li>
+<li>■ 2ème pli horizontal - 20% bois / 80% PSEG</li>
+<li>■ 3ème pli vertical - 50% bois / 50% PSEG</li>
+<li>■ 4ème pli horizontal - 20% bois / 80% PSEG</li>
+<li>■ 5ème pli vertical - 50% bois / 50% laine minérale</li>
+</ul><!-- EPO <DP n="8"> --></li>
+<li>Parement intérieur : Plaque de plâtre</li>
+</ul></p>
+<p id="p0031" num="0031">Les performances obtenues avec un tel panneau sont les suivantes :
+<ul id="ul0017" list-style="dash" compact="compact">
+<li>Résistance acoustique Rw : 38 dB avec BA13, (la NRA2000 impose ≥ 35dB)</li>
+</ul></p>
+<heading id="h0004">Exemple 4 - ne fait pas partie de l'invention - PLANCHER</heading>
+<p id="p0032" num="0032">
+<ul id="ul0018" list-style="dash" compact="compact">
+<li>Revêtement de sol : Parquet flottant.</li>
+<li>Matériau résilient : Assour parquet</li>
+<li>Panneau plancher / rôles acoustique et structurel (panneau ne faisant pas partie de l'invention) :
+<ul id="ul0019" list-style="none" compact="compact">
+<li>▪ 1er pli longitudinal - 100% bois</li>
+<li>▪ 2ème pli transversal - 50% bois / 50% laine minérale</li>
+<li>▪ 3ème pli longitudinal - - 50% bois / 50% laine minérale</li>
+<li>▪ 4ème pli transversal - - 50% bois / 50% laine minérale</li>
+<li>▪ 5ème pli longitudinal - 50% bois / 50% laine minérale</li>
+<li>▪ 6ème pli transversal - - 50% bois / 50% laine minérale</li>
+<li>▪ 7ème pli longitudinal - 100% bois</li>
+</ul></li>
+<li>Faux plafond suspendu : Plaque de plâtre sur rail métallique</li>
+</ul></p>
+<p id="p0033" num="0033">Les performances obtenues avec un tel panneau sont les suivantes :
+<ul id="ul0020" list-style="dash" compact="compact">
+<li>Résistance acoustique Rw = 39 dB avec BA13, (la NRA2000 impose ≥ 40dB)</li>
+<li>Portée = 7 m (sur 2 appuis, sous charges d'exploitations de 150 kg/m<sup>2</sup> et une flèche de 1/500)</li>
+</ul></p>
+<heading id="h0005">Exemple 5 - RAMPANT DE TOITURE</heading>
+<p id="p0034" num="0034">
+<ul id="ul0021" list-style="dash" compact="compact">
+<li>Couverture : Tout type de couverture + lattage et contre lattage.</li>
+<li>Protection / étanchéité : Ecran de sous-toiture type pare-pluie HPV.</li>
+<li>Panneau rampant / rôles thermique, acoustique et structurel (panneau selon l'invention) :
+<ul id="ul0022" list-style="none" compact="compact">
+<li>∘ Galette structurelle :
+<ul id="ul0023" list-style="none" compact="compact">
+<li>▪ 1er pli longitudinal - 100% bois</li>
+<li>▪ 2ème pli transversal - 50% bois / 50% laine minérale</li>
+<li>▪ 3ème pli longitudinal - 50% bois / 50% laine minérale</li>
+<li>▪ 4ème pli transversal - 50% bois / 50% PSEG<!-- EPO <DP n="9"> --></li>
+<li>▪ 5ème pli longitudinal - 50% bois / 50% PSEG</li>
+<li>▪ 6ème pli transversal - 50% bois / 50% PSEG</li>
+<li>▪ 7ème pli longitudinal - 100% bois</li>
+</ul></li>
+<li>∘ Galette isolante :
+<ul id="ul0024" list-style="none" compact="compact">
+<li>▪ 8ème pli transversal - 20% bois / 80% PSEG</li>
+<li>▪ 9ème pli longitudinal - 20% bois / 80% PSEG</li>
+<li>▪ 10ème pli transversal - 20% bois / 80% PSEG</li>
+<li>▪ 11ème pli longitudinal - 25% bois / 75% laine minérale</li>
+</ul></li>
+</ul></li>
+<li>Faux plafond suspendu : Plaque de plâtre sur rail métallique.</li>
+</ul></p>
+<p id="p0035" num="0035">Les performances obtenues avec un tel panneau sont les suivantes :
+<ul id="ul0025" list-style="dash" compact="compact">
+<li>Résistance thermique : 5,91m<sup>2</sup>.K/W</li>
+<li>Conductivité thermique : 0,17 W/m<sup>2</sup>.K (la RT2012 neuf ≤ 0,17 W/m<sup>2</sup>.K)</li>
+<li>Résistance acoustique Rw = 40 dB (avec BA13), (la NRA2000 impose ≥ 30dB)</li>
+<li>Portée = 7 m (sur 2 appuis, sous charges permanente et climatique de 150 kg/m<sup>2</sup> et une flèche de 1/500)</li>
+</ul></p>
+<p id="p0036" num="0036">Les panneaux peuvent également être utilisés en complément thermique d'une structure existante, comme dans le cas d'opération de rénovation de façades.</p>
+<p id="p0037" num="0037">Dans ce cas, la performance thermique des plis sera privilégiée et le treillis de lames structurelles sera dimensionné (%lames structurelles dans chaque plis) afin de garantir :
+<ul id="ul0026" list-style="dash">
+<li>le maintien mécanique du panneau,</li>
+<li>le transfert d'effort, engendré par le parement extérieur, jusqu'au mur support.</li>
+</ul></p>
+<p id="p0038" num="0038">Les matériaux utilisés pour le panneau selon l'invention peuvent être choisis parmi les suivants :<br/>
+Pour les lames structurelles on peut choisir un bois parmi des Résineux comme l'épicéa, le sapin, le douglas, ou alors un métal léger comme l'aluminium, un matériau composite, des résines. Les lames peuvent être pleines ou creuses.</p>
+<p id="p0039" num="0039">En fonction des performances thermiques exigées, associés aux contraintes acoustiques, feu et économiques, plusieurs produits isolants ont été sélectionnés. Les isolants sont utilisés sous forme de lames, par exemple de largeur multiple de 150 mm (150, 300, 450 et 600 mm) et d'épaisseurs de 30 et 45 mm :<!-- EPO <DP n="10"> --></p>
+<p id="p0040" num="0040">La laine de verre est utilisée comme isolant thermique et acoustique.</p>
+<p id="p0041" num="0041">Sa masse volumique est de 70 kg/m3, sa conductivité thermique de 0,030 W/m.K, son coefficient de résistance à la diffusion de vapeur µ de 1,2, et sa chaleur spécifique de 1030 J/(kg.K)</p>
+<p id="p0042" num="0042">Sa réaction au feu est classée M0, et A2 S1 d0 selon l'Euroclasse NF EN 13501-1. Une telle réaction au feu correspond aux matériaux qu'on peut qualifier d' « ininflammable » selon la norme français, et qui correspond à la classification A2 S1 de l'Euroclasse au moins.</p>
+<p id="p0043" num="0043">La laine de roche peut être utilisée comme isolant thermique, mais est particulièrement appréciée comme isolant acoustique.</p>
+<p id="p0044" num="0044">Sa masse volumique est de 100 à 150 kg/m3, sa conductivité thermique de 0,036 à 0,038 W/m.K, son coefficient de résistance à la diffusion de vapeur µ de 1, et sa chaleur spécifique de 1030 J/(kg.K)</p>
+<p id="p0045" num="0045">Sa réaction au feu est classée Incombustible, et A1 selon l'Euroclasse NF EN 13501-1., il est donc à fortiori ininflammable.</p>
+<p id="p0046" num="0046">Le polystyrène expansé graphité (PSEG) est utilisée comme isolant thermique. Il est constitué de pentane (mélange isomères mixtes) et de 98% d'air emprisonné. Des isolants de type ouate de cellulose conviennent également.</p>
+<p id="p0047" num="0047">La masse volumique du PSEG est de 20 kg/m3, sa conductivité thermique de 0,031 à 0,032 W/m.K, son coefficient de résistance à la diffusion de vapeur µ de 60, et sa chaleur spécifique de 1450 J/(kg.K)</p>
+<p id="p0048" num="0048">Sa réaction au feu est classée M4, et E selon l'Euroclasse NF EN 13501-1, ou M1 pour un polystyrène expansé (PSE) ignifugé.</p>
+<p id="p0049" num="0049">La fibre de bois peut être utilisée comme isolant thermique et acoustique quoique ses performances d'isolation thermique soient un peu moins bonnes. Elle présente une bonne inertie (confort été / hiver), et elle est constituée de 98% fibres de bois (feutrage de fibres de bois résineux), et de paraffine (ou polyoléfine)</p>
+<p id="p0050" num="0050">Sa masse volumique varie de 80 kg/m3 à 150 kg/m3, sa conductivité thermique de 0,039 à 0,042 W/m.K, son coefficient de résistance à la diffusion de vapeur µ de 5, et sa chaleur spécifique de 2100 J/(kg.K)</p>
+<p id="p0051" num="0051">Sa réaction au feu est classée M4, et E selon l'Euroclasse NF EN 13501-1.<!-- EPO <DP n="11"> --></p>
+<p id="p0052" num="0052">Il existe des matériaux désignés par « laines de bois », de densité inférieure à 80 kg/m3.</p>
+<p id="p0053" num="0053">Par ailleurs, les performances thermiques d'un bâtiment sont étroitement liées à l'inertie globale présente dans ce dernier. Cette inertie contribue à l'amélioration du "confort été / hiver" ; ainsi des matériaux apportant cette fonction peuvent être intégrés dans les plis intérieurs des panneaux selon l'invention. Ces matériaux de remplissage permettent aussi d'améliorer les performances acoustiques et, selon leur nature, contribuer au degré coupe-feu et à la stabilité au feu des panneaux. Parmi ces matériaux, on peut trouver le plâtre (gypse naturel), de l'ouate de cellulose (recyclage de papier) ou des particules de bois, utilisés par exemple en épaisseur 15 mm.</p>
+<p id="p0054" num="0054">La masse volumique du plâtre est de 1250 kg/m<sup>3</sup>, sa conductivité thermique de 0,320 W/m.K, son coefficient de résistance à la diffusion de vapeur µ de 13, et sa chaleur spécifique de 1265 J/(kg.K) ; il permet d'obtenir un affaiblissement acoustique de 31 dB(A).</p>
+<p id="p0055" num="0055">En combinant la chaleur spécifique et la masse volumique, on obtient une inertie thermique volumique d'environ 1500 kJ/m<sup>3</sup>.K, ce qui, pour une lame de 30 mm d'épaisseur donne une inertie thermique de 45 kJ/m<sup>2</sup>.K ; les matières très isolantes comme celles décrites plus haut présentent souvent une inertie thermique bien plus faible, et il peut donc être intéressant pour un panneau de combiner plusieurs plis isolants, constituant une galette isolante, et plusieurs plis à grande inertie, constituant une galette d'inertie. Le bois présentant une inertie thermique volumique de l'ordre de 1000 kJ/m3.K, peu inférieure à celle du plâtre, on pourra préférer un pli 100% bois, un peu moins efficace pour l'inertie, mais qui apporte aussi une bonne résistance structurelle.</p>
+<p id="p0056" num="0056">La réaction au feu du plâtre est classée M0, et A2 s1 d0 selon l'Euroclasse NF EN 13501-1, ce matériau peut donc aussi être qualifié d'incombustible, et à fortiori d'ininflammable.</p>
+<p id="p0057" num="0057">L'étanchéité à la vapeur d'eau est obtenue par la mise en œuvre d'un film pare-vapeur sur la face intérieure des panneaux. Le jointement des lés et les raccordements avec les menuiseries sont assurés par des lames adhésives adaptées.</p>
+<p id="p0058" num="0058">Les produits ont une perméance maximale de 0,005 g/m<sup>2</sup>. mm Hg, et une épaisseur minimale de 100 µm, conformes au DTU 31.2</p>
+<p id="p0059" num="0059">En fonction des "résistances à la diffusion de vapeur d'eau" propres à chaque produit de remplissage (isolation et inertie) composant un panneau selon l'invention et suivant les<!-- EPO <DP n="12"> --> résultats du calcul des courbes de pression de vapeur d'eau, la suppression du pare-vapeur peut être envisagée.</p>
+<p id="p0060" num="0060">Concernant la protection contre la pluie, selon la classification de la paroi verticale (DTU 20.1) et en fonction de la nature du parement extérieur rapporté sur les panneaux selon l'invention, une étanchéité à l'eau indépendante du revêtement extérieur peut être nécessaire. Un film pare-pluie peut assurer l'étanchéité à l'eau du bâtiment.</p>
+<p id="p0061" num="0061">Les produits ont une perméance maximale de 0,5 g/m<sup>2</sup>. mm Hg conforme au DTU 31.2.</p>
+<p id="p0062" num="0062">Les parements extérieurs rapportés sur les murs selon l'invention sont dissociés en deux familles :
+<ul id="ul0027" list-style="dash">
+<li>parements, type lame ou plaque, fixés sur une ossature secondaire intégrant une lame d'air ventilée,</li>
+<li>revêtements appliqués directement sur les panneaux.</li>
+</ul></p>
+<p id="p0063" num="0063">Dans le premier cas, l'étanchéité à l'eau est assurée par un pare-pluie positionné au niveau de la lame d'air ventilée.</p>
+<p id="p0064" num="0064">Les parements extérieurs sont fixés sur un support discontinu de type ossature bois secondaire. L'entraxe et la section des éléments d'ossature sont fonction du type de matériaux rapportés sur la façade (conforme aux prescriptions des DTU ou Avis techniques des fabricants).</p>
+<p id="p0065" num="0065">Exemples de parements extérieurs pouvant être associés aux murs selon l'invention :
+<ul id="ul0028" list-style="dash" compact="compact">
+<li>Bardages en lames de bois massif (DTU 41.2),</li>
+<li>Bardages en lames de matériaux de synthèse,</li>
+<li>Bardages en panneaux métalliques,</li>
+<li>Panneaux stratifiés décoratifs haute pression,</li>
+<li>Bardages écailles bois type bardeaux,</li>
+<li>Bardages écailles en terre cuite,</li>
+<li>Revêtements muraux attachés en pierre mince,</li>
+</ul></p>
+<p id="p0066" num="0066">Les revêtements de type enduits associés à une armature en fibres pourront être rapportés sur le dernier pli 100% isolant des panneaux selon l'invention. En fonction des recommandations des systèmes d'enduit extérieur existants, l'isolation support serait en fibre de bois (60 mm mini), laine de roche (40 mm mini), ou polystyrène expansé (30 mm mini).<!-- EPO <DP n="13"> --></p>
+<p id="p0067" num="0067">L'avantage apporté par la présente invention réside principalement en ce qu'elle permet de proposer des panneaux ayant les propriétés recherchées pour une pluralité d'applications, à partir d'un petit nombre de composants élémentaires que sont les lames structurelles et les lames de remplissage tout en obtenant d'excellentes propriétés.</p>
+<p id="p0068" num="0068">Bien que l'invention ait été décrite selon un mode de réalisation particulier, elle n'y est nullement limitée, et des variantes peuvent y être apportées, ainsi que des combinaisons des variantes décrites, sans pour autant sortir du cadre de la présente invention telle que définie par les revendications.</p>
+</description>
+<claims id="claims01" lang="fr"><!-- EPO <DP n="14"> -->
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Panneau multi-plis pour la constitution ou le complément d'un mur, d'un plancher ou plafond, ou d'un rampant pour un bâtiment, constitué d'un empilement de plis (1) comportant chacun des lames structurelles, de préférence en bois, au moins deux desdits plis étant constitués de lames structurelles (2) parallèles, et de lames de remplissage (3) disposées entre les lames structurelles (2) en un matériau différent que celui des lames structurelles (2), lesdits matériaux pouvant être sélectionnés pour leur isolation thermique ou acoustique, leur inertie thermique ou leur résistance au feu, au moins une première lame de remplissage (3) de l'un des deux dits plis (1) est rigide, <b>caractérisé en ce que</b> cette au moins première lame de remplissage (3) est en un matériau isolant de conductivité thermique inférieure à 0,038 W/m.K, de préférence inférieure à 0,035 W/m.K, et qu'au moins une lame de remplissage (3) de l'autre des deux dits plis (1) est en un matériau rigide ou semi-rigide différent dudit premier matériau.</claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Panneau selon la revendication précédente, dans lequel ledit matériau isolant est en laine de verre, laine de roche ou en polystyrène expansé blanc ou graphité.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Panneau selon l'une des revendications précédentes, comprenant une lame de remplissage (3) en un matériau d'inertie présentant une inertie thermique supérieure à 1000 kJ/m<sup>3</sup>.K.</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Panneau selon la revendication précédente, dans lequel ledit matériau d'inertie est en bois, plâtre, ouate de cellulose, ou particules de bois.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Panneau selon l'une des revendications précédentes, comprenant une lame de remplissage (3) en un matériau isolant acoustique.</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Panneau selon la revendication précédente, dans lequel ledit matériau isolant acoustique est en laine de roche ou fibres de bois.</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Panneau selon l'une des revendications précédentes, comprenant une lame de remplissage (3) en un matériau incombustible.</claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Panneau selon la revendication précédente, dans lequel ledit matériau incombustible est en plâtre ou laine de roche.</claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Panneau selon l'une des revendications précédentes, comprenant un pli (1) pour réseaux techniques, dans laquelle subsistent des espaces entre les lames structurelles (2) de sorte à permettre le passage de réseaux techniques.</claim-text></claim>
+</claims>
+<claims id="claims02" lang="de"><!-- EPO <DP n="15"> -->
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Mehrlagige Platte zum Aufbau oder zur Ergänzung einer Wand, eines Bodens oder einer Decke oder einer Schräge für ein Gebäude, bestehend aus einem Stapel von Lagen (1), die jeweils Strukturblätter, vorzugsweise aus Holz, umfassen, wobei mindestens zwei dieser Lagen aus parallel verlaufenden Strukturblättern (2) und zwischen den Strukturblättern (2) angeordneten Füllblättern (3) aus einem anderen Material als dem der Strukturblätter (2) bestehen, wobei die Materialien gegebenenfalls nach ihrer Wärme- oder Schalldämmung, thermischen Trägheit oder Feuerbeständigkeit ausgewählt werden, wobei mindestens eine erste Füllblatt (3) einer der beiden Lagen (1) starr ist, <b>dadurch gekennzeichnet, dass</b> dieses mindestens erste Füllblatt (3) aus einem Isoliermaterial mit einer thermischen Leitfähigkeit von weniger als 0,038 W/mK, vorzugsweise weniger als 0,035 W/mK besteht, und dass mindestens ein Füllblatt (3) auf der anderen der beiden Lagen (1) aus einem starren oder halbstarren Material besteht, das sich von dem ersten Material unterscheidet.</claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Platte nach dem vorhergehenden Anspruch, wobei das Isoliermaterial Glaswolle, Steinwolle oder weißes expandiertes Polystyrol oder expandiertes Polystyrol mit Graphit ist.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Platte nach einem der vorhergehenden Ansprüche, umfassend ein Füllblatt (3) aus einem Trägheitsmaterial mit einer thermischen Trägheit von mehr als 1000 kJ/m<sup>3</sup>.K.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Platte nach dem vorhergehenden Anspruch, wobei das Trägheitsmaterial Holz, Gips, Zellulosewatte oder Holzspäne ist.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Platte nach einem der vorhergehenden Ansprüche, umfassend ein Füllblatt (3) aus einem schalldämmenden Material.</claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Platte nach dem vorhergehenden Anspruch, wobei das schalldämmende Material Steinwolle oder Holzfasern ist.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Platte nach einem der vorhergehenden Ansprüche, umfassend ein Füllblatt (3) aus einem nicht brennbaren Material.<!-- EPO <DP n="16"> --></claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Platte nach dem vorhergehenden Anspruch, wobei das nicht brennbare Material Gips oder Steinwolle ist.</claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Platte nach einem der vorhergehenden Ansprüche, umfassend eine Lage (1) für technische Netze, wobei Zwischenräume zwischen den Strukturblättern (2) verbleiben, um den Durchgang von technischen Netzen zu ermöglichen.</claim-text></claim>
+</claims>
+<claims id="claims03" lang="en"><!-- EPO <DP n="17"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>Multi-layer panel for forming or adding to a wall, floor or ceiling, or ramp for a building, comprising a stack of layers (1) each having structural slats, preferably made of wood, at least two of said layers being composed of parallel structural slats (2) and filling slats (3) which are arranged between the structural slats (2) and made of a different material from that of the structural slats (2), it being possible for said materials to be selected for their heat or sound insulation, thermal inertia or fire resistance, at least one first filling slat (3) of one of two such layers (1) being rigid, <b>characterized in that</b> said at least one first filling slat (3) is made of an insulating material having a thermal conductivity of less than 0.038 W/m.K, preferably less than 0.035 W/m.K, and <b>in that</b> at least one filling slat (3) of the other of two such layers (1) is made of a rigid or semi-rigid material that is different from the first material.</claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>Panel according to the preceding claim, wherein said insulating material is made of glass wool, rock wool, or white or graphitized expanded polystyrene.</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>Panel according to either of the preceding claims, comprising a filling slat (3) made of an inertial material having a thermal inertia greater than 1000 kJ/m<sup>3</sup>.K.</claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>Panel according to the preceding claim, wherein said inertial material is made of wood, plaster, cellulose insulation, or wood particles.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>Panel according to any of the preceding claims, comprising a filling slat (3) made of a sound insulating material.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>Panel according to the preceding claim, wherein said sound insulating material is made of rock wool or wood fibers.</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>Panel according to any of the preceding claims, comprising a filling slat (3) made of an incombustible material.</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>Panel according to the preceding claim, wherein said incombustible material is made of plaster or rock wool.<!-- EPO <DP n="18"> --></claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>Panel according to any of the preceding claims, comprising a layer (1) for technical networks, wherein spaces are left between the structural slats (2) so as to allow technical networks to pass therethrough.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="fr"><!-- EPO <DP n="19"> -->
+<figure id="f0001" num="1,2,3"><img id="if0001" file="imgf0001.tif" wi="128" he="214" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="20"> -->
+<figure id="f0002" num="4,5"><img id="if0002" file="imgf0002.tif" wi="127" he="164" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+</ep-patent-document>

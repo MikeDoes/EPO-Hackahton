@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5.1//EN" "ep-patent-document-v1-5-1.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP17754571B1" file="EP17754571NWB1.xml" lang="en" country="EP" doc-number="3497104" kind="B1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSK..HRIS..MTNORS..SM..................</B001EP><B003EP>*</B003EP><B005EP>J</B005EP><B007EP>BDM Ver 2.0.12 (4th of August) -  2100000/0</B007EP><B070EP>The file contains technical information submitted after the application was filed and not included in this specification</B070EP></eptags></B000><B100><B110>3497104</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20211006</date></B140><B190>EP</B190></B100><B200><B210>17754571.2</B210><B220><date>20170808</date></B220><B240><B241><date>20190209</date></B241><B242><date>20200323</date></B242></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>201662372553 P</B310><B320><date>20160809</date></B320><B330><ctry>US</ctry></B330><B310>201662382479 P</B310><B320><date>20160901</date></B320><B330><ctry>US</ctry></B330><B310>201662382977 P</B310><B320><date>20160902</date></B320><B330><ctry>US</ctry></B330><B310>201662400358 P</B310><B320><date>20160927</date></B320><B330><ctry>US</ctry></B330><B310>201762486554 P</B310><B320><date>20170418</date></B320><B330><ctry>US</ctry></B330></B300><B400><B405><date>20211006</date><bnum>202140</bnum></B405><B430><date>20190619</date><bnum>201925</bnum></B430><B450><date>20211006</date><bnum>202140</bnum></B450><B452EP><date>20210312</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>C07D 471/16        20060101AFI20210126BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C07C 309/30        20060101ALI20210126BHEP        </text></classification-ipcr></B510EP><B520EP><classifications-cpc><classification-cpc sequence="1"><text>C07B2200/13        20130101 LA20170907BHEP        </text></classification-cpc><classification-cpc sequence="2"><text>C07D 471/16        20130101 FI20170907BHEP        </text></classification-cpc><classification-cpc sequence="3"><text>C07C 309/30        20130101 LI20180326BHEP        </text></classification-cpc></classifications-cpc></B520EP><B540><B541>de</B541><B542>FESTKÖRPERFORMEN VON LUMATEPERON-DITOSYLATSALZ</B542><B541>en</B541><B542>SOLID STATE FORMS OF LUMATEPERONE DITOSYLATE SALT</B542><B541>fr</B541><B542>FORMES  SOLIDES DU SEL DITOSYLATE DE LUMATEPERONE</B542></B540><B560><B561><text>WO-A2-2009/114181</text></B561><B562><text>CAIRA ED - MONTCHAMP JEAN-LUC: "Crystalline Polymorphism of Organic Compounds", TOPICS IN CURRENT CHEMISTRY; [TOPICS IN CURRENT CHEMISTRY], SPRINGER, BERLIN, DE, vol. 198, January 1998 (1998-01), pages 163-208, XP008166276, ISSN: 0340-1022</text></B562></B560></B500><B700><B720><B721><snm>MITTELMAN, Ariel</snm><adr><str>13/4 Shimon Hatsadik St.</str><city>Elad</city><ctry>IL</ctry></adr></B721><B721><snm>FUCHS, Ido</snm><adr><str>48 Maskin St. Apt. 21</str><city>Petah Tikva</city><ctry>IL</ctry></adr></B721><B721><snm>SHACHANTOV, Sharona</snm><adr><str>Shrat Moshe 21/7</str><city>Kfar-Saba</city><ctry>IL</ctry></adr></B721><B721><snm>RUDIK, Doron</snm><adr><str>9 Levona St.</str><city>Modiin</city><ctry>IL</ctry></adr></B721><B721><snm>SELLA-EREZ, Rotem</snm><adr><str>9/6 Sderot Chen St.</str><city>Tel-Aviv</city><ctry>IL</ctry></adr></B721></B720><B730><B731><snm>Teva Pharmaceuticals International GmbH</snm><iid>101521177</iid><irf>P117018EP KYW</irf><adr><str>Schlüsselstrasse 12</str><city>8645 Jona</city><ctry>CH</ctry></adr></B731></B730><B740><B741><snm>D Young &amp; Co LLP</snm><iid>101533551</iid><adr><str>120 Holborn</str><city>London EC1N 2DY</city><ctry>GB</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B860><B861><dnum><anum>US2017045877</anum></dnum><date>20170808</date></B861><B862>en</B862></B860><B870><B871><dnum><pnum>WO2018031535</pnum></dnum><date>20180215</date><bnum>201807</bnum></B871></B870></B800></SDOBI>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001"><b>Field of the Invention</b></heading>
+<p id="p0001" num="0001">The present invention encompasses solid state forms of lumateperone ditosylate and pharmaceutical compositions thereof.</p>
+<heading id="h0002"><b>Background of the Invention</b></heading>
+<p id="p0002" num="0002">Lumateperone tosylate has the following formula:
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="60" he="47" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0003" num="0003">It is under development for the treatment of central nervous system disorders including: schizophrenia, bipolar disorder, depression, sleep and behavioral disturbance in dementia, autism, and other neuropsychiatric disorders.</p>
+<p id="p0004" num="0004">Lumateperone and its acceptable pharmaceutical salts are described in <patcit id="pcit0001" dnum="USRE39680E"><text>USRE39,680</text></patcit>.</p>
+<p id="p0005" num="0005"><patcit id="pcit0002" dnum="US8648077B"><text>US8648077</text></patcit> describes polymorphs A and B of toluenesulfonic acid addition salt of lumateperone ("lumateperone tosylate").</p>
+<p id="p0006" num="0006">Polymorphism, the occurrence of different crystalline forms, is a property of some molecules and molecular complexes. A single molecule may give rise to a variety of polymorphs having distinct crystal structures and physical properties like melting point, thermal behaviors (e.g. measured by thermogravimetric analysis - "TGA", or differential scanning calorimetry - "DSC"), X-ray diffraction pattern, infrared absorption fingerprint, and solid state (13C-) NMR spectrum. One or more of these techniques may be used to distinguish different polymorphic forms of a compound.</p>
+<p id="p0007" num="0007">Different salts and solid state forms (including solvated forms) of an active pharmaceutical ingredient may possess different properties. Such variations in the properties of different salts and solid state forms and solvates may provide a basis for improving<!-- EPO <DP n="2"> --> formulation, for example, by facilitating better processing or handling characteristics, changing the dissolution profile in a favorable direction, or improving stability (polymorph as well as chemical stability) and shelf-life. These variations in the properties of different salts and solid state forms may also offer improvements to the final dosage form, for instance, if they serve to improve bioavailability. Different salts and solid state forms and solvates of an active pharmaceutical ingredient may also give rise to a variety of polymorphs or crystalline forms, which may in turn provide additional opportunities to assess variations in the properties and characteristics of a solid active pharmaceutical ingredient.</p>
+<p id="p0008" num="0008">Discovering new solid state forms and solvates of a pharmaceutical product may yield materials having desirable processing properties, such as ease of handling, ease of processing, storage stability, and ease of purification or as desirable intermediate crystal forms that facilitate conversion to other polymorphic forms. New solid state forms of a pharmaceutically useful compound can also provide an opportunity to improve the performance characteristics of a pharmaceutical product. It enlarges the repertoire of materials that a formulation scientist has available for formulation optimization, for example by providing a product with different properties, e.g., a different crystal habit, higher crystallinity or polymorphic stability which may offer better processing or handling characteristics, improved dissolution profile, or improved shelf-life (chemical/physical stability). For at least these reasons, there is a need for additional solid state forms (including solvated forms) of lumateperone tosylate and other salts thereof for example Lumateperone ditosylate.</p>
+<p id="p0009" num="0009"><patcit id="pcit0003" dnum="WO2009114181A2"><text>WO 2009/114181 A2</text></patcit> relates to toluenesulfonic acid addition salt crystals of specific substituted heterocycle fused gamma-carbolines.</p>
+<heading id="h0003"><b>Summary of the Invention</b></heading>
+<p id="p0010" num="0010">The present invention provides a solid state form of lumateperone ditosylate designated form F1, and pharmaceutical compositions thereof. These solid state forms can be used to prepare solid state forms of Lumateperone, Lumateperone tosylate, other solid state forms of Lumateperone ditosylate, or other salts and solid state forms thereof.</p>
+<p id="p0011" num="0011">The present invention also encompasses the use of the solid state form F1 of lumateperone ditosylate of the present invention for the preparation of pharmaceutical compositions and/or formulations of lumateperone ditosylate.<!-- EPO <DP n="3"> --></p>
+<p id="p0012" num="0012">The present disclosure provides solid state forms of Lumateperone ditosylate for use in the preparation of pharmaceutical compositions and/or formulations comprising Lumateperone ditosylate.</p>
+<p id="p0013" num="0013">The present invention comprises a process for preparing the above mentioned pharmaceutical compositions and/or formulations. The process comprises combining the lumateperone ditosylate solid state form F1 with at least one pharmaceutically acceptable excipient.</p>
+<p id="p0014" num="0014">The solid state form F1 and the pharmaceutical compositions of lumateperone ditosylate of the present invention can be used as medicaments, particularly for the treatment of disorders of the central nervous system.</p>
+<heading id="h0004"><b>Brief Description of the Drawings</b></heading>
+<p id="p0015" num="0015">
+<ul id="ul0001" list-style="none" compact="compact">
+<li><figref idref="f0001">Figure 1</figref> shows an X-ray powder diffractogram of form F1 of lumateperone ditosylate, obtained by example 1.</li>
+<li><figref idref="f0002">Figure 2</figref> shows an X-ray powder diffraction pattern of form F1 of lumateperone ditosylate, obtained by example 2.</li>
+<li><figref idref="f0003">Figure 3</figref> shows an X-ray powder diffraction pattern of form F4 of Lumateperone ditosylate.</li>
+<li><figref idref="f0004">Figure 4</figref> shows a solid state <sup>13</sup>C NMR spectrum of Form F1 of Lumateperone ditosylate (Full range- 200-0 ppm).</li>
+<li><figref idref="f0005">Figure 5</figref> shows a solid state <sup>13</sup>C NMR spectrum of Form F1 of Lumateperone ditosylate (Full range- 100-0 ppm).</li>
+<li><figref idref="f0006">Figure 6</figref> shows a solid state <sup>13</sup>C NMR spectrum of Form F1 of Lumateperone ditosylate (Full range- 200-100 ppm).</li>
+<li><figref idref="f0007">Figure 7</figref> shows an FTIR spectrum of Form F1 of Lumateperone ditosylate.</li>
+<li><figref idref="f0008">Figure 8</figref> shows an X-ray powder diffraction pattern of form F1 of lumateperone ditosylate, obtained by example 5.</li>
+<li><figref idref="f0009">Figure 9</figref> shows an X-ray powder diffraction pattern of form F1 of lumateperone ditosylate, obtained by example 8.</li>
+</ul></p>
+<heading id="h0005"><b>Detailed Description of the Invention</b></heading>
+<p id="p0016" num="0016">The present invention encompasses a solid state form of lumateperone ditosylate designated form F1 and pharmaceutical compositions thereof. This solid state form<!-- EPO <DP n="4"> --> can be used to prepare solid state forms of Lumateperone, lumateperone tosylate, other solid state forms of Lumateperone ditosylate, or other salts and solid state forms thereof.</p>
+<p id="p0017" num="0017">Solid state properties of lumateperone ditosylate can be influenced by controlling the conditions under which the lumateperone ditosylate is obtained in solid form.</p>
+<p id="p0018" num="0018">In some embodiments, the crystalline form of lumateperone ditosylate of the invention is substantially free of any other forms of lumateperone tosylate/ditosylate, or of specified polymorphic forms of lumateperone tosylate/ditosylate, respectively.</p>
+<p id="p0019" num="0019">As used herein, the term lumateperone tosylate (or lumateperone tosylate salt) refers to 4-((6bR,10aS)-3-methyl-2,3,6b,9,10,10a-hexahydro-1H-pyrido[3',4':4,5]pyrrolo[1,2,3-de]quinoxalin-8(7H)-yl)-1-(4-fluorophenyl)-1-butanone monotosylate salt.</p>
+<p id="p0020" num="0020">As used herein, the term lumateperone ditosylate (or lumateperone ditosylate salt) refers to 4-((6bR,10aS)-3-methyl-2,3,6b,9,10,10a-hexahydro-1H-pyrido[3',4':4,5]pyrrolo[1,2,3-de]quinoxalin-8(7H)-yl)-1-(4-fluorophenyl)-1-butanone ditosylate salt.</p>
+<p id="p0021" num="0021">A solid state form (or polymorph) may be referred to herein as polymorphically pure or as substantially free of any other solid state (or polymorphic) forms. As used herein in this context, the expression "substantially free of any other forms" will be understood to mean that the solid state form contains 20% or less, 10% or less, 5% or less, 2% or less, or 1% or less of any other forms of the subject compound as measured, for example, by XRPD. Thus, a solid state of lumateperone ditosylate described herein as substantially free of any other solid state forms would be understood to contain greater than 80% (w/w), greater than 90% (w/w), greater than 95% (w/w), greater than 98% (w/w), or greater than 99% (w/w) of the subject solid state form of lumateperone tosylate or lumateperone ditosylate. Accordingly, in some embodiments of the invention, the described solid state form of lumateperone ditosylate may contain from 1% to 20% (w/w), from 5% to 20% (w/w), or from 5% to 10% (w/w) of one or more other solid state forms of lumateperone tosylate or lumateperone ditosylate.</p>
+<p id="p0022" num="0022">As used herein, the term chemically pure refers to a material which is substantially free of chemical impurities, such as reaction by-products, un-reacted intermediates or degradation product. The term "substantially free" means that the chemically pure material of the present invention contains 3% (w/w) or less of chemical impurities. According to some embodiments, the chemically pure material of the present invention contains 3% (w/w) or less, 2% (w/w) or less, 1% (w/w) or less, 0.5% (w/w) or less, or 0.2%<!-- EPO <DP n="5"> --> (w/w) or less of chemical impurities. In other embodiments, chemically pure material of the present invention contains from 0.01% to 3% (w/w), of chemical impurities.</p>
+<p id="p0023" num="0023">Depending on which other solid state forms comparison is made with, the solid state form of lumateperone ditosylate of the present invention has advantageous properties selected from at least one of the following: chemical purity, flowability, solubility, dissolution rate, morphology or crystal habit, stability- such as chemical stability as well as thermal and mechanical stability with respect to polymorphic conversion, stability towards dehydration and/or storage stability, low content of residual solvent, a lower degree of hygroscopicity, and advantageous processing and handling characteristics such as compressibility, and bulk density.</p>
+<p id="p0024" num="0024">A solid state form, such as a crystal form or amorphous form, may be referred to herein as being characterized by graphical data "as depicted in" or "as substantially depicted in" a Figure. Such data include, for example, powder X-ray diffractograms and solid state NMR spectra. As is well-known in the art, the graphical data potentially provides additional technical information to further define the respective solid state form (a so-called "fingerprint") which cannot necessarily be described by reference to numerical values or peak positions alone. In any event, the skilled person will understand that such graphical representations of data may be subject to small variations, e.g., in peak relative intensities and peak positions due to certain factors such as, but not limited to, variations in instrument response and variations in sample concentration and purity, which are well known to the skilled person. Nonetheless, the skilled person would readily be capable of comparing the graphical data in the Figures herein with graphical data generated for an unknown crystal form and confirm whether the two sets of graphical data are characterizing the same crystal form or two different crystal forms. A crystal form of Lumateperone ditosylate referred to herein as being characterized by graphical data "as depicted in" or "as substantially depicted in" a Figure will thus be understood to include any crystal forms of Lumateperone ditosylate characterized with the graphical data having such small variations, as are well known to the skilled person, in comparison with the Figure.</p>
+<p id="p0025" num="0025">As used herein, the term "isolated" in reference to the solid state form of lumateperone ditosylate of the present invention corresponds to a solid state form of lumateperone ditosylate that is physically separated from the reaction mixture in which it is formed.</p>
+<p id="p0026" num="0026">As used herein, unless stated otherwise, the XRPD measurements are taken using copper Kα radiation wavelength 1.5418 Å.<!-- EPO <DP n="6"> --></p>
+<p id="p0027" num="0027">A thing, e.g., a reaction mixture, may be characterized herein as being at, or allowed to come to "room temperature" or "ambient temperature", often abbreviated as "RT." This means that the temperature of the thing is close to, or the same as, that of the space, e.g., the room or fume hood, in which the thing is located. Typically, room temperature is from 20°C to 30°C, or 22°C to 27°C, or 25°C.</p>
+<p id="p0028" num="0028">The amount of solvent employed in a chemical process, e.g., a reaction or a crystallization, may be referred to herein as a number of "volumes" or "vol" or "V." For example, a material may be referred to as being suspended in 10 volumes (or 10 vol or 10V) of a solvent. In this context, this expression would be understood to mean milliliters of the solvent per gram of the material being suspended, such that suspending a 5 grams of a material in 10 volumes of a solvent means that the solvent is used in an amount of 10 milliliters of the solvent per gram of the material that is being suspended or, in this example, 50 mL of the solvent. In another context, the term "v/v" may be used to indicate the number of volumes of a solvent that are added to a liquid mixture based on the volume of that mixture. For example, adding solvent X (1.5 v/v) to a 100 ml reaction mixture would indicate that 150 mL of solvent X was added.</p>
+<p id="p0029" num="0029">A process or step may be referred to herein as being carried out "overnight." This refers to a time interval, e.g., for the process or step, that spans the time during the night, when that process or step may not be actively observed. This time interval is from 8 to 20 hours, or 10-18 hours, typically about 16 hours.</p>
+<p id="p0030" num="0030">As used herein, the term "reduced pressure" refers to a pressure that is less than atmospheric pressure. For example, reduced pressure is 10 mbar to 50 mbar.</p>
+<p id="p0031" num="0031">As used herein, and unless stated otherwise, the term "anhydrous" in relation to crystalline lumateperone ditosylate relates to a crystalline lumateperone ditosylate which does not include any crystalline water (or other solvents) in a defined, stoichiometric amount within the crystal. Moreover, an "anhydrous" form does not contain more than 1% (w/w) of either water or organic solvents as measured for example by TGA.</p>
+<p id="p0032" num="0032">As used herein crystalline form A of Lumateperone Tosylate refers to a crystalline form which may be characterized by X-ray powder diffraction pattern as disclosed in <patcit id="pcit0004" dnum="US8648077B"><text>US 8648077</text></patcit>.</p>
+<p id="p0033" num="0033">Disclosed herein is a crystalline form of lumateperone ditosylate, designated form F1, characterized by data selected from one or more of the following: an X-ray powder diffraction pattern having peaks at: 4.2, 6.3, 10.4, 14.6 and 18.7 degrees two theta ± 0.2<!-- EPO <DP n="7"> --> degrees two theta; an X-ray powder diffraction pattern substantially as depicted in <figref idref="f0001">Figure 1</figref>; and combinations of these data.</p>
+<p id="p0034" num="0034">As disclosed herein, crystalline form F1 of Lumateperone ditosylate may be characterized by an X-ray powder diffraction pattern having peaks at: 4.2, 6.3, 10.4, 14.6 and 18.7 degrees two theta ± 0.2 degrees two theta, optionally an X-ray powder diffraction pattern substantially as depicted in <figref idref="f0002">Figure 2</figref>.</p>
+<p id="p0035" num="0035">As disclosed herein, crystalline form F1 of Lumateperone ditosylate may be characterized by an X-ray powder diffraction pattern having peaks at: 4.2, 6.3, 10.4, 14.6 and 18.7 degrees two theta ± 0.2 degrees two theta, optionally an X-ray powder diffraction pattern substantially as depicted in <figref idref="f0008">Figure 8</figref> or <figref idref="f0009">Figure 9</figref>. Crystalline form F1 of Lumateperone ditosylate may be characterized by an X-ray powder diffraction pattern having peaks at: 4.2, 6.3, 10.4, 14.6 and 18.7 degrees two theta ± 0.2 degrees two theta, in combination with an X-ray powder diffraction pattern substantially as depicted in either of <figref idref="f0008">Figure 8</figref> or <figref idref="f0009">Figure 9</figref>.</p>
+<p id="p0036" num="0036">As disclosed herein, crystalline form F1 of lumateperone ditosylate may be characterized by a solid state <sup>13</sup>C NMR spectrum having peaks at 142.6, 141.0, 133.8, 129.5 and 123.2 ppm ± 0.2 ppm; a solid state <sup>13</sup>C NMR spectrum having peaks at 142.6, 141.0, 133.8, 129.5 and 123.2 ppm ± 0.2 ppm and also by the absence of one, two, three or four peaks selected from: 194.5, 110.2, 62.2 and 35.7 ppm ± 0.2 ppm, optionally a solid state <sup>13</sup>C NMR spectrum substantially as depicted in <figref idref="f0004">Figure 4</figref>, <figref idref="f0005">5</figref> or <figref idref="f0006">6</figref>; a solid state <sup>13</sup>C NMR spectrum having the following chemical shift absolute differences from a reference peak at 64.0 ppm ± 2 ppm of 78.6, 77.0, 69.8, 65.5 and 59.2 ppm ± 0.1 ppm; an FT-IR spectrum having absorptions at 2617, 1632, 1480, 1280, 1210, 1163, 1104, 1004, 824, 750 cm<sup>-1</sup> ± 2 cm-<sup>1</sup>; and combinations of these data.</p>
+<p id="p0037" num="0037">In some embodiments, crystalline form F1 of lumateperone ditosylate may be characterized by X-ray powder diffraction pattern having peaks at: 4.2, 6.3, 10.4, 14.6 and 18.7 degrees two theta ± 0.2 degrees two theta and also having one, two, three, four or five peaks selected from: 15.4, 20.4, 21.3, 24.0 and 25.1 degrees two theta ± 0.2 degrees two theta; and combinations of these data.</p>
+<p id="p0038" num="0038">Crystalline form F1 of lumateperone ditosylate may be further characterized by the XRPD pattern having peaks at: 4.2, 6.3, 10.4, 14.6 and 18.7 degrees two theta ± 0.2 degrees two theta; and also by the absence of one, two, three or four peaks selected from: 11.4, 13.4,17.5 and 23.5 degrees two theta ± 0.2 degrees two theta.<!-- EPO <DP n="8"> --></p>
+<p id="p0039" num="0039">Alternatively, crystalline form F1 of lumateperone ditosylate may be further characterized by the XRPD pattern having peaks at: 4.2, 6.3, 10.4, 14.6 and 18.7 degrees two theta ± 0.2 degrees two theta; and also by the absence of a peak at 5.7 degrees two theta ± 0.2 degrees two theta.</p>
+<p id="p0040" num="0040">Preferably the crystalline form F1 as defined in any aspect or embodiment of the invention as disclosed herein is additionally characterized by an absence of a XRPD peak at 5.7 degrees two theta ± 0.2 degrees two theta.</p>
+<p id="p0041" num="0041">By the absence of one or more peaks at x, y or z +/- 0.2 deg. 2-theta, it is understood that there is no distinct peak at the specified position, in particularly when taking into account any "noise" in the XRPD spectrum. The skilled person would readily be able to determine the absence or presence of an XRPD peak at a given position.</p>
+<p id="p0042" num="0042">Crystalline form F1 of lumateperone ditosylate may be characterized by the data set forth in the following table.
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title>Table 1: X-ray powder diffraction peaks of F1 of lumateperone ditosylate.</title>
+<tgroup cols="1" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="117mm" colsep="1"/>
+<thead>
+<row>
+<entry valign="top">peak position (degrees two theta± 0.2 degrees two theta)</entry></row></thead>
+<tbody>
+<row>
+<entry>4.2</entry></row>
+<row>
+<entry>6.3</entry></row>
+<row>
+<entry>8.4</entry></row>
+<row>
+<entry>10.4</entry></row>
+<row>
+<entry>14.2</entry></row>
+<row>
+<entry>14.6</entry></row>
+<row>
+<entry>14.9</entry></row>
+<row>
+<entry>15.4</entry></row>
+<row>
+<entry>15.9</entry></row>
+<row>
+<entry>16.5</entry></row>
+<row>
+<entry>17.1</entry></row>
+<row>
+<entry>17.9</entry></row>
+<row>
+<entry>18.7</entry></row>
+<row>
+<entry>19.3</entry></row>
+<row>
+<entry>19.8</entry></row><!-- EPO <DP n="9"> -->
+<row>
+<entry>20.4</entry></row>
+<row>
+<entry>22.5</entry></row>
+<row>
+<entry>23.0</entry></row>
+<row>
+<entry>23.2</entry></row>
+<row>
+<entry>24.0</entry></row>
+<row>
+<entry>25.1</entry></row>
+<row>
+<entry>25.9</entry></row>
+<row>
+<entry>26.8</entry></row>
+<row>
+<entry>27.3</entry></row>
+<row>
+<entry>27.7</entry></row>
+<row>
+<entry>29.3</entry></row>
+<row>
+<entry>30.2</entry></row>
+<row>
+<entry>33.5</entry></row>
+<row>
+<entry>35.5</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0043" num="0043">In some embodiments crystalline form F1 of lumateperone ditosylate may be anhydrous.</p>
+<p id="p0044" num="0044">Crystalline form F1 of lumateperone ditosylate may be characterized by each of the above characteristics alone and/or by all possible combinations.</p>
+<p id="p0045" num="0045">In one embodiment of the present disclosure, form F1 of Lumateperone ditosylate is isolated.</p>
+<p id="p0046" num="0046">In another embodiment of the present disclosure, form F1 of Lumateperone ditosylate is polymorphically pure.</p>
+<p id="p0047" num="0047">In a particular embodiment of the present disclosure, F1 of Lumateperone ditosylate is substantially free of any other form of Lumateperone tosylate/ditosylate, or of specified polymorphic forms of Lumateperone tosylate/ditosylate.</p>
+<p id="p0048" num="0048">In another particular embodiment of the present disclosure, F1 of Lumateperone ditosylate is substantially free of form A of Lumateperone tosylate.</p>
+<p id="p0049" num="0049">Particularly, crystalline form F1 of Lumateperone ditosylate may contain: less than 20%, less than 10 wt%, less than 5 wt%, less than 2 wt%, less than 1 wt%, of Form A of Lumateperone tosylate, as measured by XRPD. Accordingly, the content of crystalline form A of Lumateperone tosylate in crystalline form F1 of Lumateperone ditosylate can be quantified by measuring characteristic peak(s) of form A. Suitable characteristic peaks of<!-- EPO <DP n="10"> --> crystalline form A that may be used for the above described measurement are at: 5.7, 11.4 and/or 13.4 degrees two theta ± 0.2 degrees two theta.</p>
+<p id="p0050" num="0050">The present disclosure comprises a crystalline form of Lumateperone ditosylate, designated form F4. The crystalline form F4 of Lumateperone ditosylate may be characterized by data selected from one or more of the following: an X-ray powder diffraction pattern substantially as depicted in <figref idref="f0003">Figure 3</figref>; an X-ray powder diffraction pattern having peaks at 4.5, 9.0, 12.7, 13.7 and 22.2 degrees two theta ± 0.2 degrees two theta; and combinations of these data.</p>
+<p id="p0051" num="0051">Crystalline form F4 of lumateperone ditosylate may be characterized by X-ray powder diffraction pattern having peaks at: 4.5, 9.0, 12.7, 13.7 and 22.2 degrees two theta ± 0.2 degrees two theta and also having one, two, three, four or five peaks selected from: 15.1, 18.0, 18.3, 20.4 and 24.8 degrees two theta ± 0.2 degrees two theta; and combinations of these data.</p>
+<p id="p0052" num="0052">Crystalline form F4 of lumateperone ditosylate may be characterized by each of the above characteristics alone and/or by all possible combinations.</p>
+<p id="p0053" num="0053">According to the present disclosure, form F4 of Lumateperone ditosylate may be isolated.</p>
+<p id="p0054" num="0054">In another aspect the present disclosure provides processes for preparation of crystalline forms of Lumateperone ditosylate. The present disclosure provides a process for preparing crystalline form F1 of Lumateperone ditosylate, preferably wherein form F1 is substantially free of any other form of Lumateperone tosylate/ditosylate, more preferably wherein form F1 is substantially free of form A Lumateperone tosylate comprising:
+<ol id="ol0001" compact="compact" ol-style="">
+<li>a) providing:
+<ol id="ol0002" compact="compact" ol-style="">
+<li>i) a mixture of Lumateperone and at least 2 equivalents of p-toluenesulfonic acid; or</li>
+<li>ii) a mixture of Lumateperone monotosylate and at least 1 equivalent of p-toluene sulfonic acid;</li>
+</ol>
+optionally wherein the mixture of (i) or (ii) is provided in a solvent system which optionally comprises water;<br/>
+and carrying out one or more of the following steps (b)-(f), wherein steps (b), (c), (d) and/or (e) can be carried out in any order:</li>
+<li>b) stirring</li>
+<li>c) cooling</li>
+<li>d) concentrating and/or</li>
+<li>e) adding an antisolvent, and<!-- EPO <DP n="11"> --></li>
+<li>f) optionally isolating Lumateperone ditosylate form F1. The mixture in step a may be a solution or a suspension/slurry.</li>
+</ol>
+Steps (b), (c), (d) and (e) can be carried out in any order, for example, i.e. the cooling step may be performed before or after the concentration, or the addition of an anti-solvent may be carried out before cooling.</p>
+<p id="p0055" num="0055">In one embodiment the mixture in step (a) is a solution.</p>
+<p id="p0056" num="0056">As disclosed herein, the solvent system in step (a) may comprise one or more of ethers, preferably C<sub>3</sub>-C<sub>8</sub> ethers, cyclic ethers, preferably C<sub>4</sub> to C<sub>10</sub> cyclic ethers, ketones, preferably C<sub>3</sub>-C<sub>8</sub> ketones, alcohols preferably C<sub>1</sub>-C<sub>4</sub> alcohols, esters (preferably C<sub>3</sub>-C<sub>8</sub> esters), preferably alkyl acetates (particularly C<sub>2</sub>-C<sub>7</sub> alkyl acetates) or mixtures thereof. According to the present invention, the solvent system comprises one or more of methanol, ethanol, THF, 1,4-dioxane, or methyl ethyl ketone.</p>
+<p id="p0057" num="0057">The solution obtained in step (a) can be filtered, if desired, to dispose of foreign particles, while maintaining the filtered solution and filtrate at almost the same temperature.</p>
+<p id="p0058" num="0058">Preferably the process of the present invention is performed with stirring. Suitable anti-solvents for step (d) include but are not limited to ethers, preferably aliphatic ether, more preferably C<sub>4</sub>-C<sub>8</sub> ethers, alkanes, preferably C3-C8 alkanes, and cycloalkanes, preferably C<sub>5</sub>-C<sub>10</sub> cycloalkanes, preferably the anti-solvent is MTBE or heptane.</p>
+<p id="p0059" num="0059">In some embodiments, crystallization of form F1 may be afforded without addition of anti-solvent, for example by cooling the reaction mixture.</p>
+<p id="p0060" num="0060">In another embodiment the mixture in step (a) is a suspension/slurry. As disclosed herein, suitable organic solvents for step (a) include but are not limited to ethers, preferably C<sub>3</sub>-C<sub>8</sub> ethers, cyclic ethers, preferably C<sub>4</sub> to C<sub>10</sub> cyclic ethers, ketones, preferably C<sub>3</sub>-C<sub>8</sub> ketones, alcohols preferably C<sub>1</sub>-C<sub>4</sub> alcohols, esters (preferably C<sub>3</sub>-C<sub>8</sub> esters), preferably alkyl acetates (particularly C<sub>2</sub>-C<sub>7</sub> alkyl acetates), alkanes, preferably C<sub>3</sub>-C<sub>8</sub> alkanes, and cycloalkanes, preferably C<sub>5</sub>-C<sub>10</sub> cycloalkanes, or mixtures thereof.</p>
+<p id="p0061" num="0061">Preferably the process of the present invention is performed with stirring. In any one of the above described processes crystalline form F1 can be isolated by any method known in the art, For example, crystalline form F1 of Lumateperone ditosylate can be separated by filtering the slurry or decanting the solvent from the slurry. The isolating method can further comprise washing and drying steps.</p>
+<p id="p0062" num="0062">As disclosed herein, preferred processes comprise:<!-- EPO <DP n="12"> -->
+<ol id="ol0003" compact="compact" ol-style="">
+<li>A. Providing a mixture (ii) of Lumateperone monotosylate and at least 1 equivalent of p-toluene sulfonic acid in a solvent mixture comprising two organic solvents, and stirring the mixture for a suitable period of time (preferably 0.5 to 30 hours, 1 to 15 hours, 3 to 10 hours, or 5 to 8 hours) and isolating the crystalline Form F1 lumateperone ditosylate, wherein the stirring may be conducted at 5 to 45°C, preferably 10 to 40°C, or 18 to 28°C. Preferred solvent mixtures include an ether, ester, ketone and/or alcohol as described above (particularly an ether, and more particularly 1,4-dioxane) and in combination with an alkane as described above (preferably heptane);</li>
+<li>B. Providing a mixture (ii) of Lumateperone monotosylate and at least 1 equivalent of p-toluene sulfonic acid in a solvent mixture comprising two organic solvents, and stirring the mixture for a suitable period of time (preferably 0.5 to 30 hours, 1 to 15 hours, 3 to 10 hours, or 5 to 8 hours) and isolating the crystalline Form F1 lumateperone ditosylate, wherein the stirring may be conducted at -10 to 15°C, preferably -5 to 10°C, or 0 to 5°C. Preferred solvent mixtures include a ketone and/or alcohol as described above (particularly a ketone, and more particularly; methyl ethyl ketone; or an alcohol as described above, particularly ethanol) in combination with an alkane as described above (preferably n-heptane);</li>
+<li>C. Providing a mixture (i) of Lumateperone and at least 2 equivalents of p-toluenesulfonic acid, in at least one solvent (preferably an alcohol, and more preferably methanol) to form a solution, stirring the mixture for a suitable period of time (preferably 0.5 to 30 hours, 1 to 15 hours, 3 to 10 hours, or 5 to 8 hours), concentrating, and optionally triturating with a suitable solvent (e.g. an ether, particularly MTBE),and isolating the crystalline Form F1 lumateperone ditosylate, wherein the stirring may be conducted at -10 to 25°C, preferably -5 to 15°C, or 0 to 10°C.</li>
+<li>D. Providing a mixture (ii) of Lumateperone monotosylate and at least 1 equivalent of p-toluene sulfonic acid in a solvent, optionally heating, and stirring the mixture for a suitable period of time (preferably 0.25 to 10 hours, 0.5 to 10 hours, or 5 to 8 hours) and isolating the crystalline Form F1 lumateperone ditosylate, wherein the stirring may be conducted at -10 to 25°C, preferably -5 to 15°C, or 0 to 10°C. Preferred solvents include ketones or ethers and more particularly; methyl ethyl ketone or 1,4-dioxane. Prior to stirring, the mixture may optionally be heated (e.g. to 40 to 100°C, preferably 60 to 80°C;<!-- EPO <DP n="13"> --></li>
+<li>E. Providing a mixture (ii) of Lumateperone monotosylate and at least 1 equivalent of p-toluene sulfonic acid in a solvent (preferably an ketone as described above, and more preferably methyl ethyl ketone) , adding an antisolvent (preferably a hydrocarbon, and more preferably heptane), stirring the mixture for a suitable period of time (0.5 to 30 hours, 1 to 15 hours, 3 to 10 hours, or 3 to 8 hours and isolating the crystalline Form F1 lumateperone ditosylate, wherein the stirring may be conducted at -10 to 25°C, preferably -5 to 15°C, or 0 to 10°C.</li>
+</ol></p>
+<p id="p0063" num="0063">Preferably, in any process of the present invention as described herein, the p-toluenesulfonic acid is used in the form of the monohydrate.</p>
+<p id="p0064" num="0064">Preferably in any process of the present invention, the mixture of Lumateperone and at least 2 equivalents of p-toluenesulfonic acid; or the mixture of Lumateperone monotosylate and at least 1 equivalent of p-toluene sulfonic acid is prepared by portionwise (e.g. dropwise) addition of p-toluene sulfonic acid to the Lumateperone. Preferably, the portionwise addition is conducted with stirring.</p>
+<p id="p0065" num="0065">In another aspect the disclosure encompasses to solid state forms of Lumateperone ditosylate produced by any of the processes as disclosed herein.</p>
+<p id="p0066" num="0066">The present disclosure encompasses a process for preparing other Lumateperone salts or solid state forms. The process comprises converting any one of the Lumateperone ditosylate solid state forms provided in the present disclosure to said other Lumateperone salts. The conversion can be done, for example, by a process comprising basifying any one or a combination of the above described Lumateperone ditosylate forms and reacting the obtained Lumateperone base with an appropriate acid, to obtain the corresponding salt. Alternatively, the conversion can be done by salt switching, i.e., reacting a Lumateperone acid addition salt, with an acid having a pK<sub>a</sub> which is lower than the pK<sub>a</sub> of the acid of the first Lumateperone acid addition salt. For example reacting Lumateperone ditosylate with an acid having a pK<sub>a</sub> which is lower than the pK<sub>a</sub> of p-Toluene Sulfonic acid.</p>
+<p id="p0067" num="0067">Thus, any of the processes described herein may further comprise converting the Lumateperone ditosylate to another salt or solid state form by basifying and reacting with an appropriate acid, or by salt switching as indicated above. The process may further comprise combining the resulting salt or solid state form with at least one pharmaceutically acceptable excipient to prepare a pharmaceutical composition or formulation.</p>
+<p id="p0068" num="0068">The above described solid state forms of lumateperone ditosylate can be used to prepare chemically pure lumateperone ditosylate, Lumateperone tosylate and/or other salts of Lumateperone. The present disclosure encompasses the above described solid state form of<!-- EPO <DP n="14"> --> lumateperone ditosylate for use in the chemical purification of lumateperone ditosylate, lumateperone tosylate, Lumateperone and/or other salts of Lumateperone.</p>
+<p id="p0069" num="0069">The above described solid state forms of lumateperone ditosylate can be used to prepare pharmaceutical compositions and/or formulations. In certain embodiments, the present invention encompasses the above described Form F1 of lumateperone ditosylate for use in the preparation of pharmaceutical compositions and/or formulations.</p>
+<p id="p0070" num="0070">Thus, any of the processes described herein may further comprise combining the Lumateperone ditosylate with at least one pharmaceutically acceptable excipient to prepare a pharmaceutical composition or formulation.</p>
+<p id="p0071" num="0071">The present invention also comprises pharmaceutical compositions and formulations comprising the above described Form F1 of lumateperone ditosylate. Typically, the pharmaceutical composition is a solid composition and the lumateperone ditosylate retains its solid state form.</p>
+<p id="p0072" num="0072">The pharmaceutical compositions and/or formulations can be prepared by a process comprising combining any one or a combination of the above-described Form F1 of lumateperone ditosylate with at least one pharmaceutically acceptable excipient.</p>
+<p id="p0073" num="0073">The present disclosure comprises processes for preparing a pharmaceutical composition comprising Lumateperone ditosylate. The processes comprise combining a Lumateperone ditosylate solid state forms with at least one pharmaceutically acceptable excipient.</p>
+<p id="p0074" num="0074">The Form F1 of lumateperone ditosylate of the present invention can also be used as a medicament, particularly for the treatment of disorders of the central nervous system.</p>
+<p id="p0075" num="0075">The present invention further encompasses 1) the use of any of the above-described Form F1 of lumateperone ditosylate in the manufacture of a pharmaceutical composition, and 2) the above-described Form F1 of lumateperone ditosylate for use in treating a subject suffering from disorders of the central nervous system including: schizophrenia, bipolar disorder, depression, sleep and behavioral disturbance in dementia, autism, and other neuropsychiatric disorders, or otherwise in need of the treatment, comprising administration of an effective amount of a pharmaceutical composition comprising Form F1 of lumateperone ditosylate described herein.</p>
+<p id="p0076" num="0076">Having thus described the invention with reference to particular preferred embodiments and illustrative examples, those in the art can appreciate modifications to the invention as described and illustrated that do not depart from the scope of the invention as<!-- EPO <DP n="15"> --> disclosed in the specification. The Examples are set forth to aid in understanding the invention but are not intended to, and should not be construed to limit its scope in any way.</p>
+<heading id="h0006"><b><u>X-Rav Powder Diffraction method:</u></b></heading>
+<p id="p0077" num="0077">The analysis was performed on an ARL (SCINTAG) powder X-Ray diffractometer model X'TRA equipped with a solid state detector. Copper-Ka radiation of 1.5418 Å was used. Scanning parameters: range: 2-40 degrees two-theta; scan mode: continuous scan; step size: 0.05°, and a rate of 3 deg/min.</p>
+<heading id="h0007"><b><sup>13</sup><u>C Solid-state NMR method</u></b></heading>
+<p id="p0078" num="0078">
+<ul id="ul0002" list-style="none" compact="compact">
+<li><sup>13</sup>C SSNMR was performed at 125MHz using Bruker Avance II+ 500</li>
+<li>SB probe using 4mm rotors</li>
+<li>Magic angle was set using KBr</li>
+<li>Homogeneity of magnetic field checked using adamantane</li>
+<li>Parameters for Cross polarization optimized using glycine</li>
+<li>Spectral reference set according to glycine as external standard (176.03 ppm for low field carboxyl signal)</li>
+<li>Scanning parameters:<br/>
+Magic Angle Spinning Rate: 11 kHz; Delay time: 3sec.; Number of Scans: 2048 scans; Temperature: 0°C.</li>
+</ul></p>
+<heading id="h0008"><b>FT-IR Spectroscopy</b></heading>
+<p id="p0079" num="0079">
+<ul id="ul0003" list-style="none" compact="compact">
+<li>Thermo FT-IR Spectrometer Nicolet.</li>
+<li>The samples were studied in ATR mode.</li>
+<li>The spectrum was scanned between 4000-400 cm<sup>-1</sup>.</li>
+<li>All the spectra were measured in 16 scans.</li>
+<li>Resolution: 4.0 cm<sup>-1</sup>.</li>
+</ul></p>
+<heading id="h0009"><b><u>Examples</u></b></heading>
+<p id="p0080" num="0080">
+<ul id="ul0004" list-style="none" compact="compact">
+<li>Lumateperone can be prepared according to any method known in the art, for example according to <patcit id="pcit0005" dnum="WO2008112280A"><text>WO 2008/112280</text></patcit>.<!-- EPO <DP n="16"> --></li>
+<li>Lumateperone tosylate can be prepared according to any method known in the art (e.g., <patcit id="pcit0006" dnum="WO2009114181A"><text>WO2009/114181</text></patcit>). Form A of Lumateperone tosylate can be prepared according to <patcit id="pcit0007" dnum="WO2009114181A"><text>WO2009/114181</text></patcit>.</li>
+<li>Examples marked with an asterisk (∗) are not according to the invention and are present for illustrative purposes only.</li>
+</ul></p>
+<heading id="h0010"><b><u>Example 1: Preparation procedure of lumateperone ditosylate Form F1</u></b></heading>
+<p id="p0081" num="0081">Lumateperone tosylate (0.3 gr) was charged to glass vial containing magnetic stirrer rod and deionized water (5 ml) at room temperature. To the slurry, Na<sub>2</sub>CO<sub>3</sub> (0.063 gr in 5 ml water) was added and the obtained reaction mixture was stirred overnight at room temperature. The obtained material was decanted from the water and dissolved completely in dichloromethane. MgSO<sub>4</sub> was added to the solution followed by filtration and evaporation.</p>
+<p id="p0082" num="0082">The obtained material was then mixed with THF (7 vol; 1.4 mL) and p-toluenesulfonic acid monohydrate (0.156 gr) was added at 2°C, followed by the addition of heptane (2 ml). The slurry was set to mix overnight, followed by filtration and washing with heptane. The filtrated solid was then characterized by X-ray powder diffraction to give lumateperone ditosylate form F1 as depicted in <figref idref="f0001">Figure 1</figref>.</p>
+<heading id="h0011"><b><u>Example 2: Preparation procedure of lumateperone ditosylate Form F1</u></b></heading>
+<p id="p0083" num="0083">Lumateperone PTSA salt (1.008 g) was charged to glass reactor with stirrer rod and 15 mL of deionized water at room temperature. To the slurry, a Na<sub>2</sub>CO<sub>3</sub> (0.191 g) solution in 15 mL water was introduced and mixed overnight at room temperature. The solid material was separated from water by decantation and dissolved in dichloromethane (until clear solution was achieved). MgSO<sub>4</sub> was added to the solution for water extraction followed by filtration and evaporation of the clear dichloromethane solution.</p>
+<p id="p0084" num="0084">0.135 g of the resulting material was then dissolved in methyl ethyl ketone (1.4 mL) and 0.069 g of p-toluenesulfonic acid monohydrate followed by addition of 2 mL heptane at 2°C under N<sub>2</sub> inlet. The slurry was set to mix overnight, followed by filtration and washing by heptane and drying at 35 °C in vacuum oven. The resulting solid was then characterized by X-ray powder diffraction to give Lumateperone ditosylate form F1 as depicted in <figref idref="f0002">Figure 2</figref>.</p>
+<heading id="h0012"><b><u>Example 3∗: Preparation procedure of lumateperone ditosylate Form F4</u></b></heading><!-- EPO <DP n="17"> -->
+<p id="p0085" num="0085">Lumateperone tosylate salt (3.112 g) was charged to a glass reactor with mechanical stirrer rod and 75 mL of deionized water at room temperature, followed by Na<sub>2</sub>CO<sub>3</sub> addition (0.708 g). The achieved slurry was then mixed overnight at room temperature. The water was decanted from the resulting material, which was later dissolved completely in dichloromethane (70 mL) followed by 20x3 mL wash in water and drying over MgSO<sub>4</sub>. The resulting clear solution was then filtrated and evaporated in rotovap to give viscous solid. 0.316 g of the resulting material was then mixed with 3.5 mL 2-propanol (IPA) to give a white slurry. To this slurry p-toluenesulfonic acid monohydrate (PTSA(MH)) was added (0.164 g) and mixed at 15 °C for 3 h. The resulting slurry was filtrated and washed with IPA and heptane. The filtrated solid was then characterized by X-ray powder diffraction to give Lumateperone ditosylate form F4 as depicted in <figref idref="f0003">Figure 3</figref>.</p>
+<heading id="h0013"><b><u>Example 4: Preparation procedure of lumateperone ditosylate Form F1</u></b></heading>
+<p id="p0086" num="0086">Lumateperone monotosylate form A (255 mg, 1eq) was mixed with p-toluenesulfonic acid monohydrate (186 mg, 2.17 eq) in 6 mL of 1,4-dioxane / Heptane (1:1 ratio). Mixture was stirred overnight at ambient conditions followed by filtration. The gray solid obtained was characterized by X-ray powder as Lumateperone ditosylate form F1.</p>
+<heading id="h0014"><b><u>Example 5: Preparation procedure of lumateperone ditosylate Form F1</u></b></heading>
+<p id="p0087" num="0087">Lumateperone monotosylate form A (325 mg, 1 eq) was mixed with p-toluenesulfonic acid monohydrate (247 mg, 2.26 eq) in 7 mL of methyl ethyl ketone (MEK) / Heptane (1:1 ratio). The mixture was stirred overnight at 2 °C under N<sub>2</sub> atmosphere, filtered and washed with heptane. The resulting solid was characterized by X-ray powder diffraction to give Lumateperone ditosylate form F1 as depicted in <figref idref="f0008">Figure 8</figref>.</p>
+<heading id="h0015"><b><u>Example 6: Preparation procedure of lumateperone ditosylate Form F1</u></b></heading>
+<p id="p0088" num="0088">Lumateperone monotosylate form A (255 mg, 1 eq) was mixed with p-toluenesulfonic acid monohydrate (172 mg, 2 eq) in 7 mL of Ethanol / Heptane (1:1 ratio). The mixture was stirred overnight at 2 °C under N<sub>2</sub> atmosphere followed by filtration. The solid obtained was characterized by X-ray powder as Lumateperone ditosylate form F1.</p>
+<heading id="h0016"><b><u>Example 7: Preparation procedure of lumateperone ditosylate Form F1</u></b></heading>
+<p id="p0089" num="0089">Lumateperone free base (716 mg, 1 eq) and <i>p</i>-toluenesulfonic acid monohydrate (773 mg, 2.2 eq) were mixed in methanol (10V) at RT to give clear solution.<!-- EPO <DP n="18"> --> The solution was stirred at 5°C overnight and then the solvent was evaporated. MTBE (5 vol) was added to the residue at RT to give a precipitation. The mixture was stirred for 2 hours at RT, the solid was filtered and identified by X-ray powder diffraction as Lumateperone ditosylate form F1.</p>
+<heading id="h0017"><b><u>Example 8: Preparation procedure of lumateperone ditosylate Form F1</u></b></heading>
+<p id="p0090" num="0090">Lumateperone monotosylate form A (262 mg, 1 eq) was dissolved in 1.3 mL methyl ethyl ketone (MEK) and a solution of p-toluenesulfonic acid monohydrate (100mg, 1.134 eq) in 1.3 mL MEK was added. The mixture was stirred at 25 °C for 1hour, cooled to 5 °C and stirred overnight. The resulting solid was characterized by X-ray powder diffraction to give Lumateperone ditosylate form F1 as depicted in <figref idref="f0009">Figure 9</figref>.</p>
+<heading id="h0018"><b><u>Example 9: Preparation procedure of lumateperone ditosylate Form F1</u></b></heading>
+<p id="p0091" num="0091">Lumateperone monotosylate form A (243 mg, 1 eq) was dissolved in 1.2 mL 1,4-dioxane and a solution of p-toluenesulfonic acid monohydrate (106 mg, 1.296 eq) in 1.2 mL 1,4-dioxane was added. The mixture was heated to 70 °C for 1hour, cooled to 5 °C and stirred overnight. The solid was filtered and characterized by X-ray powder as Lumateperone ditosylate form F1.</p>
+<heading id="h0019"><b><u>Example 10: Preparation procedure of lumateperone ditosylate Form F1</u></b></heading>
+<p id="p0092" num="0092">To a stirred mixture of Lumateperone monotosylate form A (1.95 g, 1eq), p-toluenesulfonic acid monohydrate (680 mg, 1.034 eq) and 30 mL MEK under N<sub>2</sub> atmosphere, Heptane (30 mL) was added. The mixture was stirred for 5 hours at 2 °C and the solid was filtered, washed with heptane and characterized by X-ray powder as Lumateperone ditosylate form F1.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="19"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A solid state form of Lumateperone ditosylate, selected from:
+<claim-text>(A) a crystalline form of Lumateperone ditosylate designated form F1, <b>characterized by</b> data selected from one or more of the following:
+<claim-text>(i) an XRPD pattern having peaks at: 4.2, 6.3, 10.4, 14.6 and 18.7 degrees two theta ± 0.2 degrees two theta; and also by the absence of one, two, three or four peaks selected from: 11.4, 13.4,17.5 and 23.5 degrees two theta ± 0.2 degrees two theta, optionally substantially as depicted in Figure 2, or Figure 8 or Figure 9;</claim-text>
+<claim-text>(ii) an XRPD pattern having peaks at: 4.2, 6.3, 10.4, 14.6 and 18.7 degrees two theta ± 0.2 degrees two theta; and also by the absence of a peak at 5.7 degrees two theta ± 0.2 degrees two theta, optionally substantially as depicted in Figure 2, or Figure 8 or Figure 9:
+<img id="ib0002" file="imgb0002.tif" wi="147" he="65" img-content="drawing" img-format="tif"/>
+<img id="ib0003" file="imgb0003.tif" wi="149" he="71" img-content="drawing" img-format="tif"/><!-- EPO <DP n="20"> -->
+<img id="ib0004" file="imgb0004.tif" wi="148" he="69" img-content="drawing" img-format="tif"/></claim-text>
+<claim-text>(iii) a solid state <sup>13</sup>C NMR spectrum having peaks at 142.6, 141.0, 133.8, 129.5 and 123.2 ppm ± 0.2 ppm and also by the absence of one, two three or four peaks selected from: 194.5, 110.2, 62.2 and 35.7 ppm ± 0.2 ppm, optionally substantially as depicted in Figure 4, 5 or 6:
+<img id="ib0005" file="imgb0005.tif" wi="147" he="76" img-content="drawing" img-format="tif"/><!-- EPO <DP n="21"> -->
+<img id="ib0006" file="imgb0006.tif" wi="149" he="88" img-content="drawing" img-format="tif"/>
+<img id="ib0007" file="imgb0007.tif" wi="147" he="81" img-content="drawing" img-format="tif"/>
+or</claim-text></claim-text>
+<claim-text>(B) a crystalline form of Lumateperone ditosylate designated form F1, wherein the form F1 contains: 20% or less, 10% or less, 5% or less, 2% or less, or 1% (w/w) or less of any other solid state forms of lumateperone tosylate or lumateperone ditosylate,<br/>
+which is <b>characterized by</b> data selected from one or more of the following:
+<claim-text>(i) an X-ray powder diffraction pattern having peaks at: 4.2, 6.3, 10.4, 14.6 and 18.7 degrees two theta ± 0.2 degrees two theta;</claim-text>
+<claim-text>(ii) an XRPD pattern having peaks at: 4.2, 6.3, 10.4, 14.6 and 18.7 degrees two theta ± 0.2 degrees two theta and also having one, two, three, four or five peaks<!-- EPO <DP n="22"> --> selected from: 15.4, 20.4, 21.3, 24.0 and 25.1 degrees two theta ± 0.2 degrees two theta;</claim-text>
+<claim-text>(iii) a solid state <sup>13</sup>C NMR spectrum having peaks at 142.6, 141.0, 133.8, 129.5 and 123.2 ppm ± 0.2 ppm; and</claim-text>
+<claim-text>(iv) a solid state <sup>13</sup>C NMR spectrum having the following chemical shift absolute differences from a reference peak at 64.0 ppm ± 2 ppm of 78.6, 77.0, 69.8, 65.5 and 59.2 ppm ± 0.1 ppm.</claim-text></claim-text></claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>The crystalline form F1 of Lumateperone ditosylate according to claim 1(A) further <b>characterized by</b> one or more of the following:
+<claim-text>(i) an X-ray powder diffraction pattern having peaks at: 4.2, 6.3, 10.4, 14.6 and 18.7 degrees two theta ± 0.2 degrees two theta and also having one, two, three, four or five peaks selected from: 15.4, 20.4, 21.3, 24.0 and 25.1 degrees two theta ± 0.2 degrees two theta;</claim-text>
+<claim-text>(ii) a solid state <sup>13</sup>C NMR spectrum having the following chemical shift absolute differences from a reference peak at 64.0 ppm ± 2 ppm of 78.6, 77.0, 69.8, 65.5 and 59.2 ppm ± 0.1 ppm.</claim-text></claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>The crystalline form F1 of Lumateperone ditosylate according to claim 1 or claim 2 further <b>characterized by</b> an FT-IR spectrum having absorptions at 2617, 1632, 1480, 1280, 1210, 1163, 1104, 1004, 824, 750 cm<sup>-1</sup> ± 2 cm<sup>-1</sup>.</claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>The crystalline form F1 according to any one of claims 1(A), 2 or 3 wherein the crystalline form F1 contains: 20% or less, 10% or less, 5% or less, 2% or less, or 1% (w/w) or less of any other solid state forms of lumateperone tosylate or lumateperone ditosylate, preferably wherein the crystalline form is substantially free of form A of Lumateperone tosylate, wherein the Form A has characteristic peaks at: 5.7, 11.4 and/or 13.4 degrees two theta ± 0.2 degrees two theta.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>The crystalline form F1 according to any one of claims 1-4 wherein the crystalline form is isolated.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>Use of a solid state form of Lumateperone ditosylate according to any one claims 1-5 in the preparation of a pharmaceutical composition comprising Lumateperone ditosylate.<!-- EPO <DP n="23"> --></claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>A process for preparing crystalline form F1 of Lumateperone ditosylate as defined in any of claims 1-5, preferably wherein the form F1 contains: 20% or less, 10% or less, 5% or less, 2% or less, or 1% (w/w) or less of any other solid state forms form of Lumateperone tosylate/ditosylate, or wherein the form F1 contains: less than 20 wt%, less than 10 wt%, less than 5 wt%, less than 2 wt%, or less than 1 wt% of form A of Lumateperone tosylate, wherein the Form A has characteristic peaks at: 5.7, 11.4 and/or 13.4 degrees two theta ± 0.2 degrees two theta, comprising:
+<claim-text>a) providing:
+<claim-text>i) a mixture of Lumateperone and at least 2 equivalents of p-toluenesulfonic acid; or</claim-text>
+<claim-text>ii) a mixture of Lumateperone monotosylate and at least 1 equivalent of p-toluene sulfonic acid;</claim-text>
+wherein the mixture of (i) or (ii) is provided in a solvent system which optionally comprises water, preferably wherein the mixture in step (a) is a solution<br/>
+and carrying out one or more of the following steps (b)-(f) wherein steps (b), (c), (d) and (e) can be carried out in any order:</claim-text>
+<claim-text>b) stirring</claim-text>
+<claim-text>c) cooling</claim-text>
+<claim-text>d) concentrating and/or</claim-text>
+<claim-text>e) adding an antisolvent, and</claim-text>
+<claim-text>f) optionally isolating Lumateperone ditosylate form F1;</claim-text>
+wherein the solvent system in step (a) comprises one or more of methanol, ethanol, THF, 1,4-dioxane, or methyl ethyl ketone.</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>The process according to claim 7 wherein the anti-solvent in step (e) is selected from the group consisting of ethers, preferably aliphatic ethers, more preferably C<sub>4</sub>-C<sub>8</sub> ethers, alkanes, preferably C<sub>3</sub>-C<sub>8</sub> alkanes, and cycloalkanes, preferably C<sub>5</sub>-C<sub>10</sub> cycloalkanes, wherein more preferably the anti-solvent is MTBE or heptane.</claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>A process according to claim 7, comprising one of (A) to (D):
+<claim-text>(A) providing a mixture of Lumateperone monotosylate and at least 1 equivalent of p-toluene sulfonic acid in a solvent mixture comprising two<!-- EPO <DP n="24"> --> organic solvents, stirring the mixture for a suitable period of time, and isolating the crystalline Form F1 lumateperone ditosylate;</claim-text>
+<claim-text>(B) providing a mixture of Lumateperone and at least 2 equivalents of p-toluenesulfonic acid, in at least one solvent to form a solution, stirring the mixture for a suitable period of time, concentrating, optionally triturating with a suitable solvent, and isolating the crystalline Form F1 lumateperone ditosylate;</claim-text>
+<claim-text>(C) providing a mixture of Lumateperone monotosylate and at least 1 equivalent of p-toluene sulfonic acid in a solvent, optionally heating, stirring the mixture for a suitable period of time, and isolating the crystalline Form F1 lumateperone ditosylate; or</claim-text>
+<claim-text>(D) providing a mixture of Lumateperone monotosylate and at least 1 equivalent of p-toluene sulfonic acid in a solvent, adding an antisolvent, stirring the mixture for a suitable period of time, and isolating the crystalline Form F1 lumateperone ditosylate.</claim-text></claim-text></claim>
+<claim id="c-en-01-0010" num="0010">
+<claim-text>A process according to any of claims 7-9 wherein the p-toluenesulfonic acid is used in the form of the monohydrate.</claim-text></claim>
+<claim id="c-en-01-0011" num="0011">
+<claim-text>A process according to any of claims 7-10, wherein the mixture of Lumateperone and at least 2 equivalents of p-toluenesulfonic acid or the mixture of Lumateperone monotosylate and at least 1 equivalent of p-toluene sulfonic acid is prepared by portionwise or dropwise addition of p-toluenesulfonic acid to the Lumateperone or Lumateperone monotosylate, preferably with stirring.</claim-text></claim>
+<claim id="c-en-01-0012" num="0012">
+<claim-text>A process according to any of claims 7-11, further comprising combining the crystalline form F1 of Lumateperone ditosylate with at least one pharmaceutically acceptable excipient to form a pharmaceutical composition.</claim-text></claim>
+<claim id="c-en-01-0013" num="0013">
+<claim-text>A pharmaceutical composition comprising the solid state forms of Lumateperone ditosylate according to any one of claims 1-5.<!-- EPO <DP n="25"> --></claim-text></claim>
+<claim id="c-en-01-0014" num="0014">
+<claim-text>A process for preparation of a pharmaceutical composition according to claim 13 comprising combining the solid state forms of Lumateperone ditosylate according to any one of claims 1-5 with at least one pharmaceutically acceptable excipient.</claim-text></claim>
+<claim id="c-en-01-0015" num="0015">
+<claim-text>The crystalline form of Lumateperone ditosylate according to any one of claims 1-5 or the pharmaceutical composition according to claim 13 for use in therapy, preferably for use in the treatment of disorders of the central nervous system, preferably wherein the disorder is selected from one or more of: schizophrenia, bipolar disorder, depression, sleep and behavioral disturbance in dementia, autism, and other neuropsychiatric disorders.</claim-text></claim>
+</claims>
+<claims id="claims02" lang="de"><!-- EPO <DP n="26"> -->
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Festkörperform von Lumateperonditosylat, ausgewählt aus:
+<claim-text>(A) einer kristallinen Form von Lumateperonditosylat, die als Form F1 bezeichnet wird, <b>gekennzeichnet durch</b> Daten, die aus einem oder mehreren der Folgenden ausgewählt sind:
+<claim-text>(i) einem XRPD-Muster mit Peaks bei 4,2, 6,3, 10,4, 14,6 und 18,7 Grad Zwei Theta ± 0,2 Grad Zwei Theta sowie durch die Abwesenheit von einem, zwei, drei oder vier Peaks, die aus 11,4, 13,4, 17,5 und 23,5 Grad Zwei Theta ± 0,2 Grad Zwei Theta ausgewählt sind, gegebenenfalls weitgehend wie in Figur 2 oder Figur 8 oder Figur 9 dargestellt;</claim-text>
+<claim-text>(ii) einem XRPD-Muster mit Peaks bei 4,2, 6,3, 10,4, 14,6 und 18,7 Grad Zwei Theta ± 0,2 Grad Zwei Theta sowie durch die Abwesenheit eines Peaks bei 5,7 Grad Zwei Theta ± 0,2 Grad Zwei Theta, gegebenenfalls weitgehend wie in Figur 2 oder Figur 8 oder Figur 9 dargestellt:<!-- EPO <DP n="27"> -->
+<img id="ib0008" file="imgb0008.tif" wi="129" he="57" img-content="drawing" img-format="tif"/>
+<img id="ib0009" file="imgb0009.tif" wi="132" he="63" img-content="drawing" img-format="tif"/>
+<img id="ib0010" file="imgb0010.tif" wi="130" he="59" img-content="drawing" img-format="tif"/></claim-text>
+<claim-text>(iii) einem Festkörper-<sup>13</sup>C-NMR-Spektrum mit Peaks bei 142,6, 141,0, 133,8, 129,5 und 123,2 ppm ± 0,2 ppm sowie durch die Abwesenheit von einem, zwei, drei oder vier Peaks, die aus 194,5 110,2, 62,2 und 35,7 ppm ± 0,2 ppm ausgewählt sind, gegebenenfalls weitgehend wie in Figur 4, 5 oder 6 dargestellt:<!-- EPO <DP n="28"> -->
+<img id="ib0011" file="imgb0011.tif" wi="129" he="66" img-content="drawing" img-format="tif"/>
+<img id="ib0012" file="imgb0012.tif" wi="130" he="76" img-content="drawing" img-format="tif"/>
+<img id="ib0013" file="imgb0013.tif" wi="130" he="71" img-content="drawing" img-format="tif"/>
+oder</claim-text></claim-text>
+<claim-text>(B) einer kristallinen Form von Lumateperonditosylat, die als Form F1 bezeichnet wird, wobei die Form F1 20 % oder weniger, 10 % oder weniger, 5 % oder weniger, 2 % oder<!-- EPO <DP n="29"> --> weniger oder 1 % (w/w) oder weniger jeglicher anderer Festkörperformen von Lumateperontosylat oder Lumateperonditosylat enthält,<br/>
+die <b>gekennzeichnet ist durch</b> Daten, die aus einem oder mehreren der Folgenden ausgewählt sind:
+<claim-text>(i) einem Röntgenpulverbeugungsmuster mit Peaks bei 4,2, 6,3, 10,4, 14,6 und 18,7 Grad Zwei Theta ± 0,2 Grad Zwei Theta;</claim-text>
+<claim-text>(ii) einem XRPD-Muster mit Peaks bei 4,2, 6,3, 10,4, 14,6 und 18,7 Grad Zwei Theta ± 0,2 Grad Zwei Theta sowie mit einem, zwei, drei, vier oder fünf Peaks, die aus 15,4, 20,4, 21,3, 24,0 und 25,1 Grad Zwei Theta ± 0,2 Grad Zwei Theta ausgewählt sind;</claim-text>
+<claim-text>(iii) einem Festkörper-<sup>13</sup>C-NMR-Spektrum mit Peaks bei 142,6, 141,0, 133,8, 129,5 und 123,2 ppm ± 0,2 ppm; und</claim-text>
+<claim-text>(iv) einem Festkörper-<sup>13</sup>C-NMR-Spektrum mit den folgenden absoluten Abweichungen der chemischen Verschiebung von einem Referenzpeak bei 64,0 ppm ± 2 ppm von 78,6, 77,0, 69,8, 65,5 und 59,2 ppm ±0,1 ppm.</claim-text></claim-text></claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Kristalline Form F1 von Lumateperonditosylat nach Anspruch 1(A), ferner <b>gekennzeichnet durch</b> eines oder mehrere der Folgenden:
+<claim-text>(i) ein Röntgenpulverbeugungsmuster mit Peaks bei 4,2, 6,3, 10,4, 14,6 und 18,7 Grad Zwei Theta ± 0,2 Grad Zwei Theta sowie mit einem, zwei, drei, vier oder fünf Peaks, die aus 15,4, 20,4, 21,3, 24,0 und 25,1 Grad Zwei Theta ± 0,2 Grad Zwei Theta ausgewählt sind;</claim-text>
+<claim-text>(ii) einem Festkörper-<sup>13</sup>C-NMR-Spektrum mit den folgenden absoluten Abweichungen der chemischen Verschiebung von einem Referenzpeak<!-- EPO <DP n="30"> --> bei 64,0 ppm ± 2 ppm von 78,6, 77,0, 69,8, 65,5 und 59,2 ppm ±0,1 ppm.</claim-text></claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Kristalline Form F1 von Lumateperonditosylat nach Anspruch 1 oder Anspruch 2, ferner <b>gekennzeichnet durch</b> ein FT-IR-Spektrum mit Absorptionen bei 2617, 1632, 1480, 1280, 1210, 1163, 1104, 1004, 824, 750 cm<sup>-1</sup> ± 2 cm<sup>-1</sup>.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Kristalline Form F1 nach einem der Ansprüche 1(A), 2 oder 3, wobei die kristalline Form F1 20 % oder weniger, 10 % oder weniger, 5 % oder weniger, 2 % oder weniger oder 1 % (w/w) jeglicher anderer Festkörperformen von Lumateperontosylat oder Lumateperonditosylat enthält, vorzugsweise wobei die kristalline Form weitgehend frei von Form A von Lumateperontosylat ist, wobei die Form A charakteristische Peaks bei 5,7, 11,4 und/oder 13,4 Grad Zwei Theta ± 0,2 Grad Zwei Theta aufweist.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Kristalline Form F1 nach einem der Ansprüche 1-4, wobei die kristalline Form isoliert ist.</claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Verwendung einer Festkörperform von Lumateperonditosylat nach einem der Ansprüche 1-5 bei der Herstellung einer pharmazeutischen Zusammensetzung, die Lumateperonditosylat umfasst.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Verfahren zur Herstellung von kristalliner Form F1 von Lumateperonditosylat gemäß einem der Ansprüche 1-5, vorzugsweise wobei die Form F1 20 % oder weniger, 10 % oder weniger, 5 % oder weniger, 2 % oder weniger oder 1 % (w/w) jeglicher anderer Festkörperformen von Lumateperontosylat/-ditosylat enthält oder wobei die Form F1 20 % oder weniger, 10 % oder weniger, 5 % oder weniger, 2 % oder weniger oder 1 % (w/w) der Form A von Lumateperontosylat enthält, wobei die Form A charakteristische<!-- EPO <DP n="31"> --> Peaks bei 5,7, 11,4 und/oder 13,4 Grad Zwei Theta ± 0,2 Grad Zwei Theta aufweist, umfassend:
+<claim-text>a) Bereitstellen von:
+<claim-text>i) einer Mischung von Lumateperon und mindestens 2 Äquivalenten p-Toluolsulfonsäure oder</claim-text>
+<claim-text>ii) einer Mischung von Lumateperonmonotosylat und mindestens 1 Äquivalent p-Toluolsulfonsäure;</claim-text>
+wobei die Mischung von (i) oder (ii) in einem Lösungsmittel, das gegebenenfalls Wasser umfasst, bereitgestellt wird, vorzugsweise wobei es sich bei der Mischung in Schritt (a) um eine Lösung handelt,<br/>
+und Durchführen eines oder mehrerer der folgenden Schritte (b)-(f), wobei die Schritte (b), (c), (d) und (e) in beliebiger Reihenfolge durchgeführt werden können:</claim-text>
+<claim-text>b) Rühren,</claim-text>
+<claim-text>c) Abkühlen,</claim-text>
+<claim-text>d) Aufkonzentrieren und/oder</claim-text>
+<claim-text>e) Zugeben eines Antilösungsmittels und</claim-text>
+<claim-text>f) gegebenenfalls Isolieren von Lumateperonditosylat Form F1;</claim-text>
+wobei das Lösungsmittelsystem in Schritt (a) Methanol, Ethanol, THF, 1,4-Dioxan und/oder Methylethylketon umfasst.</claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Verfahren nach Anspruch 7, wobei das Antilösungsmittel in Schritt (e) aus der Gruppe bestehend aus Ethern, vorzugsweise aliphatischen Ethern, weiter bevorzugt C<sub>4</sub>-C<sub>8</sub>-Ethern, Alkanen, vorzugsweise C<sub>3</sub>-C<sub>8</sub>-Alkanen, und Cycloalkanen, vorzugsweise C<sub>5</sub>-C<sub>10</sub>-Cycloalkanen, ausgewählt wird, wobei es sich weiter bevorzugt bei dem Antilösungsmittel um MTBE oder Heptan handelt.</claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Verfahren nach Anspruch 7, umfassend eines von (A) bis (D):<!-- EPO <DP n="32"> -->
+<claim-text>(A) Bereitstellen einer Mischung von Lumateperonmonotosylat und mindestens 1 Äquivalent von p-Toluolsulfonsäure in einer Lösungsmittelmischung, die zwei organische Lösungsmittel umfasst, Rühren der Mischung über einen geeigneten Zeitraum und Isolieren der kristallinen Form F1 von Lumateperonditosylat;</claim-text>
+<claim-text>(B) Bereitstellen einer Mischung von Lumateperon und mindestens 2 Äquivalenten von p-Toluolsulfonsäure in mindestens einem Lösungsmittel zur Bildung einer Lösung, Rühren der Mischung über einen geeigneten Zeitraum, Aufkonzentrieren, gegebenenfalls Ausrühren mit einem geeigneten Lösungsmittel und Isolieren der kristallinen Form F1 von Lumateperonditosylat;</claim-text>
+<claim-text>(C) Bereitstellen einer Mischung von Lumateperonmonotosylat und mindestens 1 Äquivalent von p-Toluolsulfonsäure in einem Lösungsmittel, gegebenenfalls Erhitzen, Rühren der Mischung über einen geeigneten Zeitraum und Isolieren der kristallinen Form F1 von Lumateperonditosylat;</claim-text>
+<claim-text>(D) Bereitstellen einer Mischung von Lumateperonmonotosylat und mindestens 1 Äquivalent von p-Toluolsulfonsäure in einem Lösungsmittel, Zugeben eines Antilösungsmittel zu, Rühren der Mischung über einen geeigneten Zeitraum und Isolieren der kristallinen Form F1 von Lumateperonditosylat.</claim-text></claim-text></claim>
+<claim id="c-de-01-0010" num="0010">
+<claim-text>Verfahren nach einem der Ansprüche 7-9, wobei die p-Toluolsulfonsäure in Form des Monohydrats verwendet wird.</claim-text></claim>
+<claim id="c-de-01-0011" num="0011">
+<claim-text>Verfahren nach einem der Ansprüche 7-10, wobei die Mischung von Lumateperon und mindestens 2 Äquivalenten von p-Toluolsulfonsäure oder die Mischung von Lumateperonmonotosylat und mindestens<!-- EPO <DP n="33"> --> 1 Äquivalent von p-Toluolsulfonsäure durch portionsweise oder tropfenweise Zugabe von p-Toluolsulfonsäure zu Lumateperon bzw. Lumateperonmonotosylat, vorzugsweise unter Rühren, hergestellt wird.</claim-text></claim>
+<claim id="c-de-01-0012" num="0012">
+<claim-text>Verfahren nach einem der Ansprüche 7-11, ferner umfassend das Vereinigen der kristallinen Form F1 von Lumateperonditosylat mit mindestens einem pharmazeutisch unbedenklichen Hilfsstoff zur Bildung einer pharmazeutischen Zusammensetzung.</claim-text></claim>
+<claim id="c-de-01-0013" num="0013">
+<claim-text>Pharmazeutische Zusammensetzung, umfassend die Festkörperformen von Lumateperonditosylat nach einem der Ansprüche 1-5.</claim-text></claim>
+<claim id="c-de-01-0014" num="0014">
+<claim-text>Verfahren zur Herstellung einer pharmazeutischen Zusammensetzung nach Anspruch 13, umfassend das Vereinigen der kristallinen Form F1 von Lumateperonditosylat nach einem der Ansprüche 1-5 mit mindestens einem pharmazeutisch unbedenklichen Hilfsstoff.</claim-text></claim>
+<claim id="c-de-01-0015" num="0015">
+<claim-text>Kristalline Form von Lumateperonditosylat nach einem der Ansprüche 1-5 oder pharmazeutische Zusammensetzung nach Anspruch 13 zur Verwendung bei der Therapie, vorzugsweise zur Verwendung bei der Behandlung von Störungen des Zentralnervensystems, vorzugsweise wobei die Störung aus Schizophrenie, manisch-depressiver Psychose, Depression, Schlaf- und Verhaltensstörungen bei Demenz, Autismus und anderen neuropsychiatrischen Störungen ausgewählt ist.</claim-text></claim>
+</claims>
+<claims id="claims03" lang="fr"><!-- EPO <DP n="34"> -->
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Forme à l'état solide de ditosylate de Lumatépérone, choisie parmi :
+<claim-text>(A) une forme cristalline de ditosylate de Lumatépérone désignée forme F1,<br/>
+<b>caractérisée par</b> des données choisies parmi l'un ou plusieurs parmi les énoncés suivants :
+<claim-text>(i) un diagramme de XRPD possédant des pics à : 4,2, 6,3, 10,4, 14,6 et 18,7 degrés deux thêta ± 0,2 degré deux thêta ; et également par l'absence d'un, de deux, de trois ou de quatre pics choisis parmi : 11,4, 13,4, 17,5 et 23,5 degrés deux thêta ± 0,2 degré deux thêta, éventuellement sensiblement tel que représenté dans la Figure 2, ou la Figure 8 ou la Figure 9 ;</claim-text>
+<claim-text>(ii) un diagramme de XRPD possédant des pics à : 4,2, 6,3, 10,4, 14,6 et 18,7 degrés deux thêta ± 0,2 degré deux thêta ; et également par l'absence d'un pic à 5,7 degrés deux thêta ± 0,2 degré deux thêta, éventuellement sensiblement tel que représenté dans la Figure 2, ou la Figure 8 ou la Figure 9 ;<!-- EPO <DP n="35"> -->
+<img id="ib0014" file="imgb0014.tif" wi="144" he="61" img-content="drawing" img-format="tif"/>
+<img id="ib0015" file="imgb0015.tif" wi="142" he="72" img-content="drawing" img-format="tif"/>
+<img id="ib0016" file="imgb0016.tif" wi="145" he="65" img-content="drawing" img-format="tif"/></claim-text>
+<claim-text>(iii) un spectre RMN <sup>13</sup>C à l'état solide possédant des pics à 142,6, 141,0, 133,8, 129,5 et 123,2 ppm ± 0,2 ppm et également par l'absence d'un, de deux, de trois ou de quatre pics choisis parmi : 194,5, 110,2, 62,2 et 35,7 ppm ± 0,2 ppm, éventuellement sensiblement<!-- EPO <DP n="36"> --> tel que représenté dans la figure 4, 5 ou 6 :
+<img id="ib0017" file="imgb0017.tif" wi="141" he="74" img-content="drawing" img-format="tif"/>
+<img id="ib0018" file="imgb0018.tif" wi="132" he="77" img-content="drawing" img-format="tif"/>
+<img id="ib0019" file="imgb0019.tif" wi="132" he="75" img-content="drawing" img-format="tif"/></claim-text>
+ou<!-- EPO <DP n="37"> --></claim-text>
+<claim-text>(B) une forme cristalline de ditosylate de Lumatépérone désignée forme F1, la forme F1 contenant : 20 % ou moins, 10 % ou moins, 5 % ou moins, 2 % ou moins, ou 1 % (p/p) ou moins de quelconques autres formes à l'état solide de tosylate de lumatépérone ou de ditosylate de lumatépérone,<br/>
+qui est <b>caractérisée par</b> des données choisies parmi l'un ou plusieurs parmi les énoncés suivants :
+<claim-text>(i) un diagramme de diffraction des rayons X sur poudre possédant des pics à : 4,2, 6,3, 10,4, 14,6 et 18,7 degrés deux thêta ± 0,2 degré deux thêta ;</claim-text>
+<claim-text>(ii) un diagramme de XRPD possédant des pics à : 4,2, 6,3, 10,4, 14,6 et 18,7 degrés deux thêta ± 0,2 degré deux thêta et possédant également un, deux, trois, quatre, ou cinq pics choisis parmi : 15,4, 20,4, 21,3, 24,0 et 25,1 degrés deux thêta ± 0,2 degré deux thêta ;</claim-text>
+<claim-text>(iii) un spectre RMN <sup>13</sup>C à l'état solide possédant des pics à 142,6, 141,0, 133,8, 129,5 et 123,2 ppm ± 0,2 ppm ; et</claim-text>
+<claim-text>(iv) un spectre RMN <sup>13</sup>C à l'état solide possédant les différences absolues de déplacement chimique suivantes par rapport à un pic de référence à 64,0 ppm ± 2 ppm de 78,6, 77,0, 69,8, 65,5 et 59,2 ppm ± 0,1 ppm.</claim-text></claim-text></claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Forme cristalline F1 de ditosylate de Lumatépérone selon la revendication 1(A) <b>caractérisée en outre par</b> l'un ou plusieurs parmi les énoncés suivants :
+<claim-text>(i) un diagramme de diffraction des rayons X sur poudre possédant des pics à : 4,2, 6,3, 10,4, 14,6 et 18,7 degrés deux thêta ± 0,2<!-- EPO <DP n="38"> --> degré deux thêta et possédant également un, deux, trois, quatre, ou cinq pics choisis parmi : 15,4, 20,4, 21,3, 24,0 et 25,1 degrés deux thêta ± 0,2 degré deux thêta ;</claim-text>
+<claim-text>(ii) un spectre RMN <sup>13</sup>C à l'état solide possédant les différences absolues de déplacement chimique suivantes par rapport à un pic de référence à 64,0 ppm ± 2 ppm de 78,6, 77,0, 69,8, 65,5 et 59,2 ppm ± 0,1 ppm.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Forme cristalline F1 de ditosylate de Lumatépérone selon la revendication 1 ou la revendication 2 <b>caractérisée en outre par</b> un spectre de FT-IR possédant des absorptions à 2 617, 1 632, 1 480, 1 280, 1 210, 1 163, 1 104, 1 004, 824, 750 cm<sup>-1</sup> ± 2 cm<sup>-1</sup>.</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Forme cristalline F1 selon l'une quelconque des revendications 1(A), 2 et 3, la forme cristalline F1 contenant : 20 % ou moins, 10 % ou moins, 5 % ou moins, 2 % ou moins, ou 1 % (p/p) ou moins de quelconques autres formes à l'état solide de tosylate de lumatépérone ou de ditosylate de lumatépérone, préférablement la forme cristalline étant sensiblement exempte de la forme A de tosylate de Lumatépérone, la Forme A possédant des pics caractéristiques à : 5,7, 11,4 et/ou 13,4 degrés deux thêta ± 0,2 degré deux thêta.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Forme cristalline F1 selon l'une quelconque des revendications 1 à 4, la forme cristalline étant isolée.</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Utilisation d'une forme à l'état solide de ditosylate de Lumatépérone selon l'une quelconque des revendications 1 à 5 dans la préparation d'une composition pharmaceutique comprenant du ditosylate de Lumatépérone.<!-- EPO <DP n="39"> --></claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Procédé pour la préparation d'une forme cristalline F1 de ditosylate de Lumatépérone telle que définie dans l'une quelconque des revendications 1 à 5, la forme F1 contenant : 20 % ou moins, 10 % ou moins, 5 % ou moins, 2 % ou moins, ou 1 % (p/p) ou moins de quelconques autres formes à l'état solide de tosylate/ditosylate de Lumatépérone, ou la forme F1 contenant : moins de 20 % en poids, moins de 10 % en poids, moins de 5 % en poids, moins de 2 % en poids, ou moins de 1 % en poids de la forme A de tosylate de Lumatépérone,<br/>
+la Forme A possédant des pics caractéristiques à : 5,7, 11,4 et/ou 13,4 degrés deux thêta ± 0,2 degré deux thêta, comprenant :
+<claim-text>a) la mise à disposition :
+<claim-text>i) d'un mélange de Lumatépérone et d'au moins 2 équivalents d'acide p-toluènesulfonique ; ou</claim-text>
+<claim-text>ii) d'un mélange de monotosylate de Lumatépérone et d'au moins 1 équivalent d'acide p-toluènesulfonique ;</claim-text>
+le mélange de (i) ou de (ii) étant mis à disposition dans un système de solvants qui comprend éventuellement de l'eau, préférablement le mélange dans l'étape (a) étant une solution<br/>
+et la mise en œuvre d'une ou plusieurs parmi les étapes suivantes (b) à (f), les étapes (b), (c), (d) et (e) pouvant être mises en œuvre dans un ordre quelconque :</claim-text>
+<claim-text>b) agitation</claim-text>
+<claim-text>c) refroidissement</claim-text>
+<claim-text>d) concentration et/ou</claim-text>
+<claim-text>e) ajout d'un antisolvant, et</claim-text>
+<claim-text>f) éventuellement, isolement de la forme F1 du ditosylate de Lumatépérone ;</claim-text><!-- EPO <DP n="40"> -->
+le système de solvants dans l'étape (a) comprenant l'un ou plusieurs parmi le méthanol, l'éthanol, le THF, le 1,4-dioxanne, et la méthyléthylcétone.</claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Procédé selon la revendication 7, l'antisolvant dans l'étape (e) étant choisi dans le groupe constitué par des éthers, préférablement des éthers aliphatiques, plus préférablement des éthers en C<sub>4-8</sub>, des alcanes, préférablement des alcanes en C<sub>3-8</sub>, et des cycloalcanes, préférablement des cycloalcanes en C<sub>5-10</sub>, plus préférablement l'antisolvant étant le MTBE ou l'heptane.</claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Procédé selon la revendication 7, comprenant l'un parmi (A) à (D) :
+<claim-text>(A) mise à disposition d'un mélange de monotosylate de Lumatépérone et d'au moins 1 équivalent d'acide p-toluènesulfonique dans un mélange de solvants comprenant deux solvants organiques, agitation du mélange pendant une période de temps appropriée, et isolement de la forme cristalline F1 de ditosylate de lumatépérone ;</claim-text>
+<claim-text>(B) mise à disposition d'un mélange de Lumatépérone et d'au moins 2 équivalents d'acide p-toluènesulfonique, dans au moins un solvant pour former une solution, agitation du mélange pendant une période de temps appropriée, concentration, éventuellement trituration avec un solvant approprié, et isolement de la forme cristalline F1 de ditosylate de lumatépérone ;</claim-text>
+<claim-text>(C) mise à disposition d'un mélange de monotosylate de Lumatépérone et d'au moins 1 équivalent d'acide p-toluènesulfonique dans un solvant, éventuellement chauffage, agitation du mélange pendant une période de temps appropriée, et isolement de la forme<!-- EPO <DP n="41"> --> cristalline F1 de ditosylate de lumatépérone ; ou</claim-text>
+<claim-text>(D) mise à disposition d'un mélange de monotosylate de Lumatépérone et d'au moins 1 équivalent d'acide p-toluènesulfonique dans un solvant, ajout d'un antisolvant, agitation du mélange pendant une période de temps appropriée, et isolement de la forme cristalline F1 de ditosylate de lumatépérone.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0010" num="0010">
+<claim-text>Procédé selon l'une quelconque des revendications 7 à 9, l'acide p-toluènesulfonique étant utilisé sous la forme du monohydrate.</claim-text></claim>
+<claim id="c-fr-01-0011" num="0011">
+<claim-text>Procédé selon l'une quelconque des revendications 7 à 10, le mélange de Lumatépérone et d'au moins 2 équivalents d'acide p-toluènesulfonique ou le mélange de monotosylate de Lumatépérone et d'au moins 1 équivalent d'acide p-toluènesulfonique étant préparé par ajout par portions ou goutte-à-goutte d'acide p-toluènesulfonique à la Lumatépérone ou au monotosylate de Lumatépérone, préférablement sous agitation.</claim-text></claim>
+<claim id="c-fr-01-0012" num="0012">
+<claim-text>Procédé selon l'une quelconque des revendications 7 à 11, comprenant en outre la combinaison de la forme cristalline F1 de ditosylate de Lumatépérone avec au moins un excipient pharmaceutiquement acceptable pour former une composition pharmaceutique.</claim-text></claim>
+<claim id="c-fr-01-0013" num="0013">
+<claim-text>Composition pharmaceutique comprenant les formes à l'état solide de ditosylate de Lumatépérone selon l'une quelconque des revendications 1 à 5.</claim-text></claim>
+<claim id="c-fr-01-0014" num="0014">
+<claim-text>Procédé pour la préparation d'une composition pharmaceutique selon la revendication 13 comprenant la combinaison des formes à l'état solide de ditosylate de Lumatépérone selon l'une<!-- EPO <DP n="42"> --> quelconque des revendications 1 à 5 avec au moins un excipient pharmaceutiquement acceptable.</claim-text></claim>
+<claim id="c-fr-01-0015" num="0015">
+<claim-text>Forme cristalline de ditosylate de Lumatépérone selon l'une quelconque des revendications 1 à 5 ou composition pharmaceutique selon la revendication 13 pour une utilisation en thérapie, préférablement pour une utilisation dans le traitement de troubles du système nerveux central, préférablement le trouble étant choisi parmi l'un ou plusieurs parmi : la schizophrénie, un trouble bipolaire, une dépression, des perturbations du sommeil et comportementales dans la démence, l'autisme, et d'autres troubles neuropsychiatriques.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="43"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="115" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="44"> -->
+<figure id="f0002" num="2"><img id="if0002" file="imgf0002.tif" wi="115" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="45"> -->
+<figure id="f0003" num="3"><img id="if0003" file="imgf0003.tif" wi="125" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="46"> -->
+<figure id="f0004" num="4"><img id="if0004" file="imgf0004.tif" wi="146" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="47"> -->
+<figure id="f0005" num="5"><img id="if0005" file="imgf0005.tif" wi="146" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="48"> -->
+<figure id="f0006" num="6"><img id="if0006" file="imgf0006.tif" wi="146" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="49"> -->
+<figure id="f0007" num="7"><img id="if0007" file="imgf0007.tif" wi="127" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="50"> -->
+<figure id="f0008" num="8"><img id="if0008" file="imgf0008.tif" wi="136" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="51"> -->
+<figure id="f0009" num="9"><img id="if0009" file="imgf0009.tif" wi="135" he="233" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="USRE39680E"><document-id><country>US</country><doc-number>RE39680</doc-number><kind>E</kind></document-id></patcit><crossref idref="pcit0001">[0004]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="US8648077B"><document-id><country>US</country><doc-number>8648077</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0002">[0005]</crossref><crossref idref="pcit0004">[0032]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="WO2009114181A2"><document-id><country>WO</country><doc-number>2009114181</doc-number><kind>A2</kind></document-id></patcit><crossref idref="pcit0003">[0009]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="WO2008112280A"><document-id><country>WO</country><doc-number>2008112280</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0005">[0080]</crossref></li>
+<li><patcit id="ref-pcit0005" dnum="WO2009114181A"><document-id><country>WO</country><doc-number>2009114181</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0006">[0080]</crossref><crossref idref="pcit0007">[0080]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>
