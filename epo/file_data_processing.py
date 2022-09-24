@@ -29,5 +29,6 @@ def convert_subfolder_images(input_dir_path="epo/samples/full-text", output_dir_
                 if file.startswith('imgf'):
                     convert_tiff_to_png(f'{input_dir_path}/{folder}/{file}', f'{output_dir_path}/{file.replace(".tif", "")}{folder}.png')
 
-unzip_all_folders(input_dir_path="data/DOC/EPNWB1", output_dir_path="epo/samples/full-text", limit=300)
-convert_subfolder_images(input_dir_path="epo/samples/full-text")
+print(os.listdir('static/img/patent_images'))
+#unzip_all_folders(input_dir_path="data/DOC/EPNWB1", output_dir_path="epo/samples/full-text", limit=300)
+#convert_subfolder_images(input_dir_path="epo/samples/full-text")
