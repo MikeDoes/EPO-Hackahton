@@ -4,7 +4,7 @@ import json
 from tqdm import tqdm
 
 
-def open_xml_file(path="epo/samples/full-text/EP06818318NWB1/EP06818318NWB1.xml"):
+def open_xml_file(path):
     data = ET.parse(path).getroot()
     return data
 
@@ -55,6 +55,36 @@ def retrieve_section_details(xml_data, patent_id):
     return details_dict
 
 
+def retrieve_claim_text(xml_data):
+    """Parses xml data to combine claims-text into a string to create dataset"""
+
+    elements = []
+    for claim_section in xml_data.findall('claims'):
+        if claim_section.get('lang') !='en':
+            continue
+        #FIGURE OUT X CODE
+        for claim in claim_section.findall('claim'):
+            for claim_text in claim.findall('claim-text'):
+                elements += [claim_text.text]
+            
+    return elements
+
+def build_all_claims_dataset(path):
+    """Build compelete full claim-text dataset"""
+    dataset = []
+    for batch in tqdm(os.listdir(path)):
+        for patent_filing in os.listdir(f'{path}/{batch}'):
+            if f'{patent_filing}.xml' in os.listdir(f'{path}/{batch}/{patent_filing}'):
+                dataset += [{
+                    'patent_no': patent_filing,
+                    'claim-text': retrieve_claim_text(open_xml_file(f'{path}/{batch}/{patent_filing}/{patent_filing}.xml'))
+                    }]
+
+    with open('claims_dataset.json', "w") as f:
+        json.dump(dataset, f)
+
+build_all_claims_dataset('data/DOC-UNPACKED')
+
 def retrieve_all_section_details_folder(input_dir_path):
     combined_list = []
     for i, file in enumerate(os.listdir(input_dir_path)):
@@ -76,3 +106,5 @@ def create_section_summary(path="data/DOC-UNPACKED", export_path="section_summar
 
     with open(export_path, "w") as f:
         json.dump(data, f)
+
+

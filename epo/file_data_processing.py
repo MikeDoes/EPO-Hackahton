@@ -24,4 +24,3 @@ def unzip_all_subfolders(input_dir_path="data/DOC", output_dir_path="data/DOC-UN
     for folder in tqdm(os.listdir(input_dir_path)):
         os.mkdir(f"{output_dir_path}/{folder}")
         unzip_all_folders(input_dir_path=f"{input_dir_path}/{folder}", output_dir_path= f"{output_dir_path}/{folder}", limit=99999)
-        
