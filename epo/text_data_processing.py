@@ -63,16 +63,16 @@ def retrieve_all_section_details_folder(input_dir_path):
             combined_list += retrieve_section_details(data, patent_id=input_dir_path.split('/')[-1])
     return combined_list
 
+def create_section_summary(path="data/DOC-UNPACKED", export_path="section_summary.json"):
+    data = []
+    for batch in tqdm(os.listdir(path)):
+        batch_level_data = []
 
-data = []
-for batch in tqdm(os.listdir(f"data/DOC-UNPACKED")):
-    batch_level_data = []
+        for patent in os.listdir(f"{path}/{batch}"):
+            batch_level_data += retrieve_all_section_details_folder(
+                f"{path}/{batch}/{patent}")
 
-    for patent in os.listdir(f"data/DOC-UNPACKED/{batch}"):
-        batch_level_data += retrieve_all_section_details_folder(
-            f"data/DOC-UNPACKED/{batch}/{patent}")
+        data += batch_level_data
 
-    data += batch_level_data
-
-with open("section_summary.json", "w") as f:
-    json.dump(data, f)
+    with open(export_path, "w") as f:
+        json.dump(data, f)
