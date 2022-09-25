@@ -60,7 +60,7 @@ def retrieve_claim_text(xml_data):
 
     elements = []
     for claim_section in xml_data.findall('claims'):
-        if claim_section.get('lang') !='en':
+        if claim_section.get('lang') != 'en':
             continue
         #FIGURE OUT X CODE
         for claim in claim_section.findall('claim'):
@@ -75,10 +75,12 @@ def build_all_claims_dataset(path):
     for batch in tqdm(os.listdir(path)):
         for patent_filing in os.listdir(f'{path}/{batch}'):
             if f'{patent_filing}.xml' in os.listdir(f'{path}/{batch}/{patent_filing}'):
-                dataset += [{
-                    'patent_no': patent_filing,
-                    'claim-text': retrieve_claim_text(open_xml_file(f'{path}/{batch}/{patent_filing}/{patent_filing}.xml'))
-                    }]
+                claim_array = retrieve_claim_text(open_xml_file(f'{path}/{batch}/{patent_filing}/{patent_filing}.xml'))
+                for claim in claim_array:
+                    dataset += [{
+                        'patent_no': patent_filing,
+                        'claim-text': claim,
+                        }]
 
     with open('claims_dataset.json', "w") as f:
         json.dump(dataset, f)
