@@ -1,6 +1,9 @@
 import zipfile
 import os
 from PIL import Image
+from tqdm import tqdm
+
+# Unzipping functions
 
 def unzip(zip_file_dir, extract_file_dir):
     """Unzips files from the folder into a folder (does not create new folder)"""
@@ -14,7 +17,16 @@ def unzip_all_folders(input_dir_path="data/DOC/EPNWA1", output_dir_path= "data/D
             extract_folder = f"{output_dir_path}/{file.replace('.zip', '')}"
             os.mkdir(extract_folder)
             unzip(f"{input_dir_path}/{file}", extract_folder)
-        if i == limit: break        
+        if i == limit: break
+
+def unzip_all_subfolders(input_dir_path="data/DOC", output_dir_path="data/DOC-UNPACKED"):
+    """Unzips the entire DOC file package into a new folder"""
+    for folder in tqdm(os.listdir(input_dir_path)):
+        os.mkdir(f"{output_dir_path}/{folder}")
+        unzip_all_folders(input_dir_path=f"{input_dir_path}/{folder}", output_dir_path= f"{output_dir_path}/{folder}", limit=99999)
+
+
+# Image Conversions
 
 def convert_tiff_to_png(tiff_import_path='image.tif', png_export_path="image.png"):
     """Converts image using the PILLOW library from tif to png"""
@@ -28,7 +40,3 @@ def convert_subfolder_images(input_dir_path="epo/samples/full-text", output_dir_
             if file.endswith('.tif'):
                 if file.startswith('imgf'):
                     convert_tiff_to_png(f'{input_dir_path}/{folder}/{file}', f'{output_dir_path}/{file.replace(".tif", "")}{folder}.png')
-
-print(os.listdir('static/img/patent_images'))
-#unzip_all_folders(input_dir_path="data/DOC/EPNWB1", output_dir_path="epo/samples/full-text", limit=300)
-#convert_subfolder_images(input_dir_path="epo/samples/full-text")
