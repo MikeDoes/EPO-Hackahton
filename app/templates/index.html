@@ -6,158 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>EPO Home</title>
+    <link rel="stylesheet" href="static/css/style.css">
+    <link rel="stylesheet" href="static/css/search_bar.css">
 </head>
-<style>
-    @font-face {
-        font-family: roboto;
-        src: url(static/fonts/Roboto/Roboto-Regular.ttf);
-    }
 
-    h1 {
-        font-family: roboto;
-        color: black;
-        position: absolute;
-        top: 30%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        z-index: 2;
-        font-size: 50px;
-        padding: 15px;
-        background-color: rgba(255, 255, 255, 0.9);
-    }
-
-    #photos-container {
-        overflow: hidden;
-    }
-
-    #photos {
-        /* Prevent vertical gaps */
-        line-height: 0;
-        -webkit-column-count: 5;
-        -webkit-column-gap: 0px;
-        -moz-column-count: 5;
-        -moz-column-gap: 0px;
-        column-count: 5;
-        column-gap: 1px;
-        max-height: 120vh;
-        width: 105vw;
-        z-index: 0;
-        animation: mosaic_move infinite 4s;
-
-    }
-
-    @keyframes mosaic_move {
-        0% {
-            margin-left: 0px;
-        }
-    }
-    #photos-overlay {
-        height: 120vh;
-        width: 100vw;
-        background: rgba(255, 255, 255, 0.8);
-        top: 0;
-        left: 0;
-        z-index: 1;
-        position: absolute;
-    }
-
-    #photos img {
-        /* Just in case there are inline attributes */
-        width: 100% !important;
-        object-fit: cover;
-        /* 
-  border: 1px solid grey; */
-        filter: invert(0);
-        /*height: auto !important;
-  margin-bottom: 1px; */
-        border: 1px limegreen solid;
-    }
-
-    @media (max-width: 1200px) {
-        #photos {
-            -moz-column-count: 4;
-            -webkit-column-count: 4;
-            column-count: 4;
-        }
-    }
-
-    @media (max-width: 1000px) {
-        #photos {
-            -moz-column-count: 3;
-            -webkit-column-count: 3;
-            column-count: 3;
-        }
-    }
-
-    @media (max-width: 800px) {
-        #photos {
-            -moz-column-count: 2;
-            -webkit-column-count: 2;
-            column-count: 2;
-        }
-    }
-
-    @media (max-width: 400px) {
-        #photos {
-            -moz-column-count: 1;
-            -webkit-column-count: 1;
-            column-count: 1;
-        }
-    }
-
-    body {
-        margin: 0;
-        padding: 0;
-    }
-</style>
-
-
-<style>
-    /* Search Bar Styling */
-
-    .search {
-        width: 100%;
-        position: relative;
-        display: flex;
-    }
-
-    .searchTerm {
-        width: 100%;
-        border: 3px solid #00B4CC;
-        border-right: none;
-        padding: 5px;
-        height: 20px;
-        border-radius: 5px 0 0 5px;
-        outline: none;
-        color: #9DBFAF;
-    }
-
-    .searchTerm:focus {
-        color: #00B4CC;
-    }
-
-    .searchButton {
-        width: 40px;
-        height: 36px;
-        border: 1px solid #00B4CC;
-        background: #00B4CC;
-        text-align: center;
-        color: #fff;
-        border-radius: 0 5px 5px 0;
-        cursor: pointer;
-        font-size: 20px;
-    }
-
-    /*Resize the wrap to see the search bar change!*/
-    .wrap {
-        width: 30%;
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        z-index: 2;
-    }
-</style>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
 <body>
@@ -171,7 +23,7 @@
         <div class="wrap">
             <div class="search">
                 <input type="text" class="searchTerm" placeholder="What are you looking for?">
-                <button type="submit" class="searchButton">
+                <button type="submit" class="searchButton" id="searchButton">
                     <i class="fa fa-search"></i>
                 </button>
             </div>
@@ -193,11 +45,23 @@
     for (var i = 0; i < 30; i++) {
         var width = getRandomSize(80, 100);
         var height = getRandomSize(90, 200);
-        allImages += '<img src=static/img/patent_images/' + all_images[i] + ' style="height:' + height + 'px; width:' + width + 'px;" />';
+        allImages += '<img src=static/img/patent_images/' + all_images[i] + ' class="img_background" style="height:' + height + 'px; width:' + width + 'px;" />';
     }
 
     $('#photos').append(allImages);
 
+    document.getElementById('searchButton').addEventListener("click", () => {
+        background_images = document.getElementsByClassName('img_background')
+        indices = Array.from({ length: 300 }, () => Math.floor(Math.random() * 30))
+        i = 0
+        setTimeout(() => {
+            window.location = 'search_results'
+        }, 3000)
+        setInterval(() => {
+            background_images[indices[i]].classList.add("fade-out")
+            i += 1
+        }, 50)
+    })
 
 
 </script>
