@@ -1,3 +1,4 @@
+from cgitb import text
 import xml.etree.ElementTree as ET
 import os
 import json
@@ -72,7 +73,7 @@ def retrieve_claim_text(xml_data):
 def retrieve_title(xml_data):
     """Retrieves patent title from xml data"""
     ticker = False
-    for element in xml_data.find('SDOBI').find('B500').find('B540'):
+    for element in xml_data.find('./SDOBI/B500/B540'):
         if ticker: 
                 return element.text
         if element.text == 'en':
@@ -82,8 +83,13 @@ def retrieve_classification_codes(xml_data):
     """Retrieves patent classification codes from xml data"""
     classification_list = []
     try:
-        for classification in xml_data.find('SDOBI').find('B500').find('B520EP').find('classifications-cpc').findall('classification-cpc'):
-            classification_list += [classification.find('text').text]
+        for classification in xml_data.find('./SDOBI/B500/B520EP/classifications-cpc').findall('classification-cpc'):
+            text_string = classification.find('text').text.replace('\t', ' ').replace('  ', ' ').replace('  ', ' ').replace('  ', ' ').replace('  ', ' ')
+            if text_string[4]!=" ": text_string = text_string[:4] + ' ' + text_string[4:]
+            text_string = " ".join(text_string.split(' ')[:2])
+            
+
+            classification_list += [text_string]
     except: pass
 
     return classification_list
