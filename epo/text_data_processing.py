@@ -69,17 +69,43 @@ def retrieve_claim_text(xml_data):
             
     return elements
 
+def retrieve_title(xml_data):
+    """Retrieves patent title from xml data"""
+    ticker = False
+    for element in xml_data.find('SDOBI').find('B500').find('B540'):
+        if ticker: 
+                return element.text
+        if element.text == 'en':
+            ticker=True
+
+def retrieve_classification_codes(xml_data):
+    """Retrieves patent classification codes from xml data"""
+    classification_list = []
+    try:
+        for classification in xml_data.find('SDOBI').find('B500').find('B520EP').find('classifications-cpc').findall('classification-cpc'):
+            classification_list += [classification.find('text').text]
+    except: pass
+
+    return classification_list
+            
+
 def build_all_claims_dataset(path):
     """Build compelete full claim-text dataset"""
     dataset = []
     for batch in tqdm(os.listdir(path)):
         for patent_filing in os.listdir(f'{path}/{batch}'):
             if f'{patent_filing}.xml' in os.listdir(f'{path}/{batch}/{patent_filing}'):
-                claim_array = retrieve_claim_text(open_xml_file(f'{path}/{batch}/{patent_filing}/{patent_filing}.xml'))
+                xml_data = open_xml_file(f'{path}/{batch}/{patent_filing}/{patent_filing}.xml')
+                claim_array = retrieve_claim_text(xml_data)
+                title = retrieve_title(xml_data)
+                classification_list = retrieve_classification_codes(xml_data)
+
                 for claim in claim_array:
                     dataset += [{
                         'patent_no': patent_filing,
                         'claim-text': claim,
+                        'title': title,
+                        'classifications': classification_list,
                         }]
 
     with open('claims_dataset.json', "w") as f:
