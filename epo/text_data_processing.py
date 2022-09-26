@@ -84,7 +84,7 @@ def retrieve_classification_codes(xml_data):
     return classification_list
             
 
-def build_all_claims_dataset(path):
+def build_all_claims_dataset(path, output_path='epo/data/ml_datasets/claims_dataset_with_titles_with_classes.json'):
     """Build compelete full claim-text dataset"""
     dataset = []
     for batch in tqdm(os.listdir(path)):
@@ -101,12 +101,12 @@ def build_all_claims_dataset(path):
                         'claim-text': claim,
                         'title': title,
                         'classifications': classification_list,
-                        'main_class': classification_list[0] if classification_list else None
+                        'main_classification_symbol': classification_list[0][0] if classification_list else None
                         }]
 
-    with open('claims_dataset.json', "w") as f:
+    with open(output_path, "w") as f:
         json.dump(dataset, f)
-#build_all_claims_dataset('data/DOC-UNPACKED')
+build_all_claims_dataset('data/DOC-UNPACKED')
 
 def retrieve_all_section_details_folder(input_dir_path):
     """Retrieves the section details in a given a patent folder by detecting which files to open"""
