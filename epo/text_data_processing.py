@@ -1,26 +1,15 @@
-from cgitb import text
 import xml.etree.ElementTree as ET
 import os
 import json
 from tqdm import tqdm
 
-
 def open_xml_file(path):
+    """Opens an xml file and creates an in-memory copy in python"""
     data = ET.parse(path).getroot()
     return data
 
-
-def create_average_file():
-    """Is able to generate fictional patent like data-structures"""
-    pass
-
-
-def create_max_file():
-    """Renders the largest xml tree"""
-    pass
-
-
 def print_tree_with_tags(xml_data, max_level=8):
+    """Visualises xml data of the tags in the terminal"""
     for child_1 in xml_data:
         print(f'{child_1.tag}')
         for child_2 in child_1:
@@ -112,14 +101,15 @@ def build_all_claims_dataset(path):
                         'claim-text': claim,
                         'title': title,
                         'classifications': classification_list,
+                        'main_class': classification_list[0] if classification_list else None
                         }]
 
     with open('claims_dataset.json', "w") as f:
         json.dump(dataset, f)
-
-build_all_claims_dataset('data/DOC-UNPACKED')
+#build_all_claims_dataset('data/DOC-UNPACKED')
 
 def retrieve_all_section_details_folder(input_dir_path):
+    """Retrieves the section details in a given a patent folder by detecting which files to open"""
     combined_list = []
     for i, file in enumerate(os.listdir(input_dir_path)):
         if file.endswith(".xml") and not file.startswith('TOC.xml') and not file.startswith(".DS"):
@@ -128,6 +118,7 @@ def retrieve_all_section_details_folder(input_dir_path):
     return combined_list
 
 def create_section_summary(path="data/DOC-UNPACKED", export_path="section_summary.json"):
+    """Retrieves the section details in a given batch of folders"""
     data = []
     for batch in tqdm(os.listdir(path)):
         batch_level_data = []
