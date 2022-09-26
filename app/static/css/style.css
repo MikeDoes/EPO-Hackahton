@@ -4,6 +4,9 @@
         src: url(/static/fonts/Roboto/Roboto-Regular.ttf);
     }
 
+    body{
+        font-family: roboto;
+    }
     h1 {
         font-family: roboto;
         color: black;
