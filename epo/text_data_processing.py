@@ -82,6 +82,23 @@ def retrieve_classification_codes(xml_data):
     except: pass
 
     return classification_list
+
+def retrieve_description(xml_data):
+    """Retrieves description text from xml data. Separating each heading with two new lines '\n'\n and each paragraph with one new line '\n """
+    
+    patent_description_string = ''
+    if not xml_data.find('description'):
+        return patent_description_string
+    for element in xml_data.find('description'):
+        if element.tag == 'heading' and patent_description_string:
+            patent_description_string += '\n\n'
+        elif element.tag == 'p' and patent_description_string:
+            patent_description_string += '\n'
+        
+        if element.text:
+            patent_description_string += element.text
+
+    return patent_description_string
             
 
 def build_all_claims_dataset(path, output_path='epo/data/ml_datasets/claims_dataset_with_titles_with_classes.json'):
@@ -94,19 +111,22 @@ def build_all_claims_dataset(path, output_path='epo/data/ml_datasets/claims_data
                 claim_array = retrieve_claim_text(xml_data)
                 title = retrieve_title(xml_data)
                 classification_list = retrieve_classification_codes(xml_data)
+                patent_description_string = retrieve_description(xml_data)
 
                 for claim in claim_array:
                     dataset += [{
                         'patent_no': patent_filing,
                         'claim-text': claim,
                         'title': title,
+                        'description_string': patent_description_string,
                         'classifications': classification_list,
                         'main_classification_symbol': classification_list[0][0] if classification_list else None
                         }]
 
     with open(output_path, "w") as f:
         json.dump(dataset, f)
-build_all_claims_dataset('data/DOC-UNPACKED')
+
+build_all_claims_dataset('data/DOC-UNPACKED', output_path='epo/data/ml_datasets/claims_dataset_with_titles_with_classes_and_string_descriptions.json')
 
 def retrieve_all_section_details_folder(input_dir_path):
     """Retrieves the section details in a given a patent folder by detecting which files to open"""
