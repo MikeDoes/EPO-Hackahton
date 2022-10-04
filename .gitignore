@@ -2,3 +2,5 @@
 data/*
 */.DS_Store
 .DS_Store
+learnings/*
+epo/data/ml_datasets/claims_dataset_with_titles_with_classes_and_string_descriptions.json

@@ -89,6 +89,7 @@ def retrieve_description(xml_data):
     patent_description_string = ''
     if not xml_data.find('description'):
         return patent_description_string
+        
     for element in xml_data.find('description'):
         if element.tag == 'heading' and patent_description_string:
             patent_description_string += '\n\n'
