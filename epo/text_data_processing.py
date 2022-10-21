@@ -127,8 +127,6 @@ def build_all_claims_dataset(path, output_path='epo/data/ml_datasets/claims_data
     with open(output_path, "w") as f:
         json.dump(dataset, f)
 
-build_all_claims_dataset('data/DOC-UNPACKED', output_path='epo/data/ml_datasets/claims_dataset_with_titles_with_classes_and_string_descriptions.json')
-
 def retrieve_all_section_details_folder(input_dir_path):
     """Retrieves the section details in a given a patent folder by detecting which files to open"""
     combined_list = []
