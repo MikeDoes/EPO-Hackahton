@@ -1,5 +1,7 @@
 import os
+
 from PIL import Image
+
 # Image Conversions
 
 def convert_tiff_to_png(tiff_import_path='image.tif', png_export_path="image.png"):

@@ -1,7 +1,9 @@
-import xml.etree.ElementTree as ET
-import os
 import json
+import os
+import xml.etree.ElementTree as ET
+
 from tqdm import tqdm
+
 
 def open_xml_file(path):
     """Opens an xml file and creates an in-memory copy in python"""
