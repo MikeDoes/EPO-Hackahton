@@ -1,3 +1,0 @@
-flask
-Pillow
-python-epo-ops-client
