@@ -172,7 +172,7 @@ The similarity score is ${similarity.toFixed(2)}
 Does this patent belong to the class (Yes/No...)? Give three reasons in bullet points while referencing the definion:`)
         }
         
-        document.getElementById('similarity').innerText = similarity
+        document.getElementById('similarity').innerText = similarity.toFixed(2) * 100
         document.getElementById('qualitative').innerText = JSON.parse(explanation)['choices'][0]['text']
 
     })
