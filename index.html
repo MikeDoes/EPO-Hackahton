@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Demo | Patent Variable</title>
+</head>
+
+<style>
+    label, input {
+        display: block;
+    }
+    .choice{
+        max-height: 100px;
+        overflow: scroll;
+    }
+
+</style>
+
+<body>
+    <section id="title">
+        <h1>Universal Patent Classifier</h1>
+        <h3>By Team Patent Variable</h3>
+    </section>
+    <section id="intro">
+        <p>In this interactive demo, we enable the users to directly match the patent with the CPC. Moreover, to make the application more qualitative we also extended the service to give 3 potential reasons as to why the patent is deemed to be on included in this specific cpc classification.</p>
+        <p>From a technical perspective, we achieved this performance by fine-tuning the state of the art model GPT-3 with the derived claims from EPO's Open Data Services API.</p>
+        <p>This interactive dashboard is available free of charge with the credentials given in the presentation. Kindly e-mail mike@ipft.co if there is any issue with credentials</p>
+    </section>
+    <p></p>
+    <form id="credentials">
+        <label for="public_key">Secret Key:</label>
+        <input type="text" name="public_key" id="">
+        <label for="private_key">Organisation Key:</label>
+        <input type="text" name="private_key" id="">
+    </form>
+
+    <div id="application">
+    
+    
+    <ul id="first_choice" class="choice">
+        <li>Y02G</li>
+        <li>Y02A</li>
+        <li>Y02B</li>
+        <li>Y02C</li>
+        <li>Y02D</li>
+        <li>Y02E</li>
+        <li>Y02P</li>
+        <li>Y02T</li>
+        <li>Y02W</li>
+    </ul>
+    <ul id="second_choice" class="choice">
+        <li>WO213893 (Y02G)</li> 
+        <li>WO2021262212 (Y02A)</li>
+        <li>WO2021260618 (Y02B)</li>
+        <li>WO2021262093 (Y02C)</li>
+        <li>WO2021258311 (Y02D)</li>
+        <li>WO2020263709 (Y02E)</li>
+        <li>WO2020264056 (Y02P)</li>
+        <li>WO2019245599 (Y02T)</li>
+        <li>WO2021260732 (Y02W)</li>
+    </ul>
+    <textarea id="first_text_item" rows="4" cols="50">Hello, how are you?</textarea>
+    <textarea id="second_text_item" rows="4" cols="50">Bonjour, comment allez-vous?</textarea>
+    <label for="">Requires Explanation?</label>
+    <input type="checkbox" name="" id="explanation">
+    <button id="submit">Submit</button>
+
+    </div>
+    <div id="responses">
+        <h1>Text Similarity</h1>
+        <p id="similarity"></p>
+        <h1>Qualitative Reasoning</h1>
+        <p id="qualitative"></p>
+    </div>
+
+</body>
+<script>
+    private_key = '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'
+    organisation_key = 'org-mJggmYzsAWYpllmsKjVpk055'
+
+    function embeddingRequest(text) {
+        var request = new XMLHttpRequest();
+        request.open('POST', 'https://api.openai.com/v1/embeddings', true);
+
+        request.setRequestHeader('Content-Type', 'application/json');
+        request.setRequestHeader('Authorization', 'Bearer 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');
+        request.setRequestHeader('OpenAI-Organization', organisation_key);
+
+        request.send(JSON.stringify({
+            "input": text,
+            "model": "text-embedding-ada-002"
+        }));
+
+        return new Promise((resolve, reject) => {
+            request.onreadystatechange = function () {
+                if (this.readyState == 4 && this.status == 200) {
+                    resolve(this.responseText);
+                } else if (this.readyState == 4 && this.status != 200) {
+                    reject(this.status);
+                }
+            }
+        });
+    }
+
+    function completionRequest(text) {
+        var request = new XMLHttpRequest();
+        request.open('POST', 'https://api.openai.com/v1/completions', true);
+
+        request.setRequestHeader('Content-Type', 'application/json');
+        request.setRequestHeader('Authorization', 'Bearer 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');
+        request.setRequestHeader('OpenAI-Organization', organisation_key);
+
+        request.send(JSON.stringify({
+            "model": "text-davinci-003",
+            "prompt": text,
+            "max_tokens": 256,
+            "temperature": 0.7
+        }));
+        return new Promise((resolve, reject) => {
+            request.onreadystatechange = function () {
+                if (this.readyState == 4 && this.status == 200) {
+                    resolve(this.responseText);
+                } else if (this.readyState == 4 && this.status != 200) {
+                    reject(this.status);
+                }
+            }
+        });
+    }
+
+    // This function calculates the cosine similarity of two given arrays 
+    function cosinesim(A, B) {
+        var dotproduct = 0; // Initializing the dot product to 0
+        var mA = 0; // Initializing the first array's magnitude to 0
+        var mB = 0; // Initializing the second array's magnitude to 0
+        for (i = 0; i < A.length; i++) { // Looping through the elements of both arrays
+            dotproduct += (A[i] * B[i]); // Calculating the dot product
+            mA += (A[i] * A[i]); // Calculating the magnitude of the first array
+            mB += (B[i] * B[i]); // Calculating the magnitude of the second array
+        }
+        mA = Math.sqrt(mA); // Taking the square root of the magnitude of the first array
+        mB = Math.sqrt(mB); // Taking the square root of the magnitude of the second array
+        var similarity = (dotproduct) / ((mA) * (mB)); // Calculating the cosine similarity 
+        return similarity; // Returning the similarity
+    }
+
+
+    var array1 = [1, 0, 0, 1];
+    var array2 = [1, 0, 0, 0];
+
+    cosinesim(array1, array2)
+
+    // JSON.parse(response)['choices'][0]['text']
+    // JSON.parse(response)['data'][0]['embedding']
+
+    document.getElementById('submit').addEventListener('click', async ()=>{
+
+        const first_text = document.getElementById('first_text_item').value
+        const second_text = document.getElementById('second_text_item').value
+
+        const first_embedding = await embeddingRequest(first_text.slice(0,500))
+        const second_embedding = await embeddingRequest(second_text.slice(0,1000))
+        similarity = cosinesim(JSON.parse(first_embedding)['data'][0]['embedding'], JSON.parse(second_embedding)['data'][0]['embedding'])
+
+        var explanation
+        if (document.getElementById('explanation').checked){
+            explanation = await completionRequest(`Classification Definition: ${first_text.slice(0,500)}
+Patent Claims: ${second_text.slice(0, 1000)}
+The similarity score is ${similarity.toFixed(2)}
+Does this patent belong to the class (Yes/No...)? Give three reasons in bullet points while referencing the definion:`)
+        }
+        
+        document.getElementById('similarity').innerText = similarity
+        document.getElementById('qualitative').innerText = JSON.parse(explanation)['choices'][0]['text']
+
+    })
+
+    // Auto-Filling of the forms
+
+    let list_first = document.querySelector('#first_choice');
+    list_first.addEventListener('click', function(e) {
+    if (e.target && e.target.nodeName == "LI") {
+        document.getElementById('first_text_item').value = cpc_definitions[Array.prototype.indexOf.call(e.target.parentNode.children, e.target)];
+    }
+    });
+
+    let list_second = document.querySelector('#second_choice');
+    list_second.addEventListener('click', function(e) {
+    if (e.target && e.target.nodeName == "LI") {
+        document.getElementById('second_text_item').value = claims_texts[Array.prototype.indexOf.call(e.target.parentNode.children, e.target)];
+    }
+    });
+
+    cpc_definitions = [
+`RELATED TO GREEN PLASTICS
+The direct sub-classifications include:
+- Biodegradability
+- Recycling
+- Toxicity of components`,
+    `TO ADAPT
+This classification covers for adaptation, i.e. that allow adapting to the adverse effects in human, industrial (including agriculture and livestock) and economic activities.
+The direct sub-classifications include:
+Coastal zones; at river basins
+Water conservation; Efficient water supply; Efficient water use
+In human health protection, e.g. against extreme weather
+having an indirect contribution to adaptation
+Adapting or protecting infrastructure or their operation
+Adaptation in agriculture, forestry, livestock or agroalimentary production`,
+    `RELATED TO BUILDINGS,
+e.g. HOUSING, HOUSE APPLIANCES OR RELATED END-USER APPLICATIONS
+The direct sub-classifications include:
+Integration of renewable energy sources in buildings
+Energy efficient lighting  e.g. halogen lamps or gas discharge lamps
+Energy efficient heating, ventilation or air conditioning [HVAC]
+aiming at improving the efficiency of home appliances, e.g. induction cooking or efficient for refrigerators, freezers or dish washers
+Energy efficient in elevators, escalators and moving walkways, e.g. energy saving or recuperation for an efficient end-user side electric power management and consumption
+Architectural or constructional elements improving the thermal performance of buildings
+Enabling or with a potential or indirect contribution to GHG emissions mitigation
+`,
+    `CAPTURE, STORAGE, SEQUESTRATION OR DISPOSAL OF GREENHOUSE GASSES:
+The direct sub-classifications include:
+Capture or disposal of greenhouse gases, of nitrous oxid, methane, perfluorocarbons, hydrofluorocarbons or sulfur hexafluoride, carbon dioxide.
+`,
+    `IN INFORMATION AND COMMUNICATION [ICT], I.E. INFORMATION AND COMMUNICATION AIMING AT THE REDUCTION OF THEIR OWN ENERGY USE
+This subclass covers information and communication [ICT] whose purpose is to minimize the use of energy during the operation of the involved ICT equipment. This subclass does not cover the use of an ICT technology supporting energy efficient operation of a further piece of equipment, nor the reuse or recycling of ICT equipment.
+The direct sub-classifications include:
+Energy efficient computing, e.g. low power processors, power management or thermal management
+Reducing energy consumption in communication networks
+`,
+    `REDUCTION OF GREENHOUSE GAS [GHG] EMISSIONS, RELATED TO ENERGY GENERATION, TRANSMISSION OR DISTRIBUTION
+The direct sub-classifications include:
+Energy generation through renewable energy sources
+Combustion with mitigation potential
+Energy generation of nuclear origin
+for an efficient electrical power generation, transmission or distribution
+for the production of fuel of nonfossil origin
+Enabling  with a potential or indirect contribution to GHG emissions mitigation
+Other energy conversion or management systems reducing GHG emissions
+`,
+    `IN THE PRODUCTION OR PROCESSING OF GOODS
+This subclass covers in any kind of industrial processing or production activity, including the agroalimentary industry, agriculture, fishing, ranching.
+The direct sub-classifications include:
+related to metal processing
+relating to chemical industry
+in the production process for final industrial or consumer products
+for sector wide applications
+relating to oil refining and petrochemical industry
+relating to the processing of minerals
+relating to agriculture, livestock or agroalimentary industries
+`,
+    `RELATED TO TRANSPORTATION
+The direct sub-classifications include:
+Road transport of goods or passengers
+Transportation of goods or passengers via railways, e.g. energy recovery or reducing air resistance
+Aeronautics or air transport
+Maritime or waterways transport
+Enabling or with a potential or indirect contribution to GHG emissions mitigation
+`,
+`RELATED TO WASTEWATER TREATMENT OR WASTE MANAGEMENT
+The direct sub-classifications include:
+for wastewater treatment
+for solid waste management
+Indirect contribution to greenhouse gas [GHG] emissions mitigation`,
+]
+
+    claims_texts = [
+    'Y02G is...',
+    `1. An airborne pathogen extraction system comprising: an extraction nozzle having a nozzle body defining a plurality of air extraction openings fluidly connected to an inner volume of the nozzle body; and an air disinfection unit fluidly connected to the inner volume of the extraction nozzle through an air hose; wherein the air disinfection unit is configured to generate negative air pressure in the air hose to cause air to flow from an exterior of the extraction nozzle through the plurality of air extraction openings, into the inner volume of the nozzle body, into the air hose, and then to the air disinfection unit.
+2. The airborne pathogen extraction system according to claim 1, further comprising: a second extraction nozzle having a second nozzle body defining a second plurality of additional air extraction openings fluidly connected to a second inner volume of the second nozzle body; wherein the air disinfection unit is fluidly connected to the second inner volume of the second extraction nozzle through a second air hose; and wherein the air disinfection unit is configured to generate negative air pressure in the second air hose to cause air to flow from an exterior of the second extraction nozzle through the second plurality of air extraction openings, into the second inner volume of the second nozzle body, into the second air hose, and then to the air disinfection unit.
+3. The airborne pathogen extraction system according to claim 1, wherein the plurality of air extraction openings are configured to capture air exhaled by a first user.
+4. The airborne pathogen extraction system according to claim 2, wherein the second plurality of air extraction openings are configured to capture air exhaled by a second user. 5. The airborne pathogen extraction system according to claim 2, wherein the plurality of air extraction openings are different in size and/or in density as the second plurality of air extraction openings.
+6. The airborne pathogen extraction system according to claim 2, wherein the plurality of air extraction openings are the same in size and/or in density as the second plurality of air extraction openings.
+7. The airborne pathogen extraction system according to claim 1, wherein the disinfection unit comprises a physical media filter configured to filter the air.
+8. The airborne pathogen extraction system according to claim 1, wherein the disinfection unit comprises a light source configured to generate an ultra-violet light emission to sterilize the air flowing into the disinfection unit.
+9. The airborne pathogen extraction system according to claim 1, wherein the disinfection unit comprises: a physical media filter configured to filter the air flowing into the disinfection unit; and a light source configured to generate an ultra-violet light emission to sterilize the air flowing into the disinfection unit.
+10. The airborne pathogen extraction system according to claim 9, wherein the air disinfection unit comprises: an airflow control element configured to adjust airflow speed of the air flowing into the air disinfection unit; and a light source control element configured to adjust an intensity of the of the ultra violet light emission.
+11. The airborne pathogen extraction system according to claim 1, wherein the air disinfection unit comprises an airflow control element configured to adjust airflow speed of the air flowing into the air disinfection unit. 12. The airborne pathogen extraction system according to claim 1, wherein the air disinfection unit is configured to connect to a plurality of extraction nozzles.
+13. The airborne pathogen extraction system according to claim 12, wherein the air disinfection unit is configured to extract air containing infectious pathogens from an immediate vicinity of a plurality of users of the plurality of extraction nozzles and discharge the air to a location remote from the users.
+14. The airborne pathogen extraction system according to claim 1, wherein the air disinfection unit is configured to extract air containing infectious pathogens from an immediate vicinity of a user of the extraction nozzle and discharge the air to a location remote from the user.
+15. The airborne pathogen extraction system according to claim 1, wherein the extraction nozzle is a linear extraction nozzle.
+16. The airborne pathogen extraction system according to claim 12, wherein each extraction nozzle of the plurality of extraction nozzles is a linear extraction nozzle.
+17. The airborne pathogen extraction system according to claim 1, wherein the extraction nozzle is configured to be worn around the neck of a user.
+18. The airborne pathogen extraction system according to claim 17, wherein the extraction nozzle is ring-shaped.
+19. The airborne pathogen extraction system according to claim 17, wherein a section of the extraction nozzle body is configured to be removed and reattached to the remainder of the extraction nozzle body.
+20. The airborne pathogen extraction system according to claim 1, wherein a distance between adjacent air extraction openings of a first group of the plurality of air extraction openings is greater than a distance between adjacent air extraction openings of a second group of the plurality of air extraction openings.
+21. The airborne pathogen extraction system according to claim 1, wherein the extraction nozzle is ring-shaped, wherein the air hose connects to a rear portion of the nozzle body, and wherein the plurality of air extraction openings are arranged on a front portion of the nozzle body.
+22. The airborne pathogen extraction system according to claim 1, wherein the nozzle body defines a central opening, and wherein the air hose connects to the nozzle body parallel to a plane defined by the central opening.
+23. The airborne pathogen extraction system according to claim 1, wherein the nozzle body defines a central opening, and wherein the air hose connects to the nozzle body perpendicular to a plane defined by the central opening.
+24. The airborne pathogen extraction system according to claim 1, wherein the nozzle body defines a central opening, and wherein the air hose connects to the nozzle body at an angle of 45° to a plane defined by the central opening.
+25. The airborne pathogen extraction system according to claim 1, wherein the air disinfection unit comprises an airflow meter configured to detect and display an airflow speed of the air flowing into or out of the air disinfection unit.
+26. The airborne pathogen extraction system according to claim 1, wherein the air disinfection unit comprises one or more vents with one or more louvers for outputting the air flowing into the air disinfection unit.
+27. A method of extracting airborne pathogens comprising: providing an extraction nozzle around a neck of a user, the extraction nozzle having a nozzle body defining a plurality of air extraction openings fluidly connected to an inner volume of the nozzle body, and the inner volume of the nozzle body being fluidly connected to an air disinfection unit through an air hose; and generating, by the air disinfection unit, negative air pressure in the air hose to cause air flow from an exterior of the extraction nozzle through the plurality of air extraction openings, into the inner volume of the nozzle body, into the air hose, and then to the air disinfection unit.
+28. The method according to claim 27, further comprising generating, by the air disinfection unit, an ultra-violet light emission that acts on the air within the disinfection unit to sterilize the air.
+29. The method according to claim 27, further comprising: providing a second extraction nozzle around a neck of a second user, the second extraction nozzle having a second nozzle body defining a second plurality of air extraction openings fluidly connected to a second inner volume of the second nozzle body, and the second inner volume of the second nozzle body being fluidly connected to the air disinfection unit through a second air hose; and generating, by the air disinfection unit, negative air pressure in the second air hose to cause air flow from an exterior of the second extraction nozzle through the second plurality of air extraction openings, into the second inner volume of the nozzle body, into the second air hose, and then to the air disinfection unit.
+30. The method according to claim 27, further comprising: providing a second extraction nozzle around a neck of a second user, the second extraction nozzle having a second nozzle body defining a second plurality of air extraction openings fluidly connected to a second inner volume of the second nozzle body, and the second inner volume of the second nozzle body being fluidly connected to a second air disinfection unit through a second air hose; and generating, by the second air disinfection unit, negative air pressure in the second air hose to cause air flow from an exterior of the second extraction nozzle through the second plurality of air extraction openings, into the second inner volume of the nozzle body, into the second air hose, and then to the second air disinfection unit.
+`,
+`The air conditioning and dust absorbing bionic wall has been inspired by the nasal turbinate of camel, suitable for hot and dry climates. This bio-inspired sustainable air conditioning wall is capable of controlling air flow through the interior spaces by humidifying the air, absorbing dust and decreasing the air temperature. The air conditioning and dust absorbing bionic wall is comprised of:
+A turbinate, as the main part of the system, inspired by the respiratory system of camel: and also it is a place for thermoregulation and humidification;The external layer, the center of which the air inlet hole is placed in a diagonal direction with the angle of 45 degrees;The internal layer, the center of which the bottom of the turbinate is placed, and air outlet holes arc placed at the top and bottom of this layer;A nozzle with high pressure misting pump, located at the center of the internal layer. The nozzle is connected with flexible water hose to the high pressure misting pump;An electronic board, which is connected to the high pressure pump to control the pump activity rate;And in order to bring out the contaminated water, a waste water outlet is located at the center of the internal layer and at the bottom of the place which the turbinate is located in.[Claim 2]The air conditioning and dust absorbing bionic wall according to claim 1. is inspired by the nasal turbinate of camel. Generally, Camels, due to their brain cooling ability, can cope with the harsh condition of hot and dry climates. The cooling strategy starts during the inhalation, when the hot and dry air of desert enters from outside to the inside of the nasal turbinate. The nasal turbinate has a spiral and laminar structure with narrow air passageways and a large surface area. This scrolled structure rotates the respiratory air. clockwise and counter clockwise; and meanwhile, the mucus in the mucous membrane evaporates and the air is saturated with vapor. These mechanism works as a cooler and humidifier; and moreover, as an efficient filter which most of the dust particles are stopped in. Therefore, the three factors including: air cooling, air humidifying and dust absorbing arc derived from the function of the nasal turbinate of camels.[Claim 3]The air conditioning and dust absorbing bionic wall according to claim 1. is a sustainable apparatus. This system provides thermal comfort of buildings by natural ventilating and very low consumption of energy. In addition, the turbinate is made by the PLA as a renewable material in 3D printing; and the internal and external layers arc made by the environmentally friendly and light weighted materials. Aluminum Honeycomb Panel. On the other hand, in order to supply electricity. Aluminum Honcycom Panel can be replaced by Solar Panel in the external layer.[Claim 4]The air conditioning and dust absorbing bionic wall according to claim 1. is formed with assembling the different parts of the system (including: the turbinate, the internal and external layers, a nozzle with high pressure misting pump, an electronic board and a waste water outlet ), in order to simulate and analyze the efficiency of the system. Accordingly, the turbinate is located between the internal layer and the external layer, and the nozzle which is connected to the high pressure misting pump, is located al the center of the internal layer in order to supply the required moisture. Moreover, the high pressure misting pump is connected to an electronic board to control the pump activity rate. It should be noted that, the power required for high pressure misting pump is supplied by the external layers (solar panels).[Claim 5]The process of simulation and analyzing the efficiency of the system according to claim 4. Is done in two pails, including: the primary simulation and the final simulation. In the primary simulation, all boundary conditions, including: dust particles (The dust particles’ diameter is in the range of 5-50 micron) and air flow (with the velocityof lOm/s), except moisture, are applied to the simulation. Accordingly, three distances between turbinate’s layers including: 4cm, 6cm and 8cm, arc considered; and the results were 78.23%, 75.51 % and 60.24%, respectively. So. the turbinate with 4cm distance between it’s layers and with 78.23% efficiency, is specified as the most optimal model.[Claim 6]The final simulation according to claim 5. after specifying the most optimal model (the turbinate with 4cm distance between it’s layers and 78.23% efficiency), is done in two modes. It should be mentioned that, all the boundary conditions of the primary simulation as well as the moisture arc applied to this simulation. As mentioned, this simulation is accomplished in two modes including: steady mode and transient mode, and nearly all the boundary conditions for both modes are thesame. The difference between the two modes is that, in steady mode the nozzle sprays water into the turbinate constantly; while in transient mode, it sprays water 2s in every 15s. Consequently, the final result in transient and steady modes are 88/28% and 90.16%, respectively.[Claim 7]The histogram of the escaped dust particles diameter in the final simulation according to claim 6. depicts that nearly 90% of the escaped dust particles were in the range of 5 microns; and particles above 5 microns arc well absorbed and fall to the bottom of the air conditioning and dust absorbing bionic wall.
+`,
+`1. A composite material membrane comprising: a substrate having a surface; and a layer attached to the surface of the substrate, the layer comprising: pressure-responsive metal-organic framework nanosheets; and graphene oxide nanosheets, wherein a plurality of the pressure-responsive metal-organic framework nanosheets are layered on top of one another to provide a layered material.
+2. The composite material membrane according to Claim 1 , wherein the layer attached to the surface of the substrate is from 10 to 500 nm thick on the surface of the substrate.
+3. The composite material membrane according to Claim 2, wherein the layer attached to the surface of the substrate is from 50 to 250 nm thick on the surface of the substrate, optionally wherein the layer attached to the surface of the substrate is from 75 to 150 nm thick, such as about 100 nm thick, on the surface of the substrate.
+4. The composite material membrane according to any one of the preceding claims, wherein the pressure-responsive metal-organic framework nanosheets are formed from one or more of the group selected from ZIF-7, MIL-53, Cu(benzene-1 ,4-dicarboxylate)i /2 (4,4’- bipyridyl), Cu(pyridine-2,3-dicarboxylic acid)( 1,3-bis(4-pyridyl)propane), Zn 2 (2,4,5-tri(4- pyridyl)-imidazole)2(d-camphorate)2, Cu(2,5-dihydroxybenzoic acid) 2 (4,4’-bipyridyl) and solvates thereof (e.g. aqueous solvates, such as Cu(2,5-dihydroxybenzoic acid) 2 (4,4’- bipyridyl)H 2 0).
+5. The composite material membrane according to Claim 4, wherein the pressure- responsive metal-organic framework nanosheets are formed from Cu(2,5-dihydroxybenzoic acid) 2 (4,4’-bipyridyl) and/or its solvate Cu(2,5-dihydroxybenzoic acid) 2 (4,4’-bipyridyl) H 2 0).
+6. The composite material membrane according to any one of the preceding claims, wherein each layered material has from 2 to 10 layers, such as from 3 to 7 layers, of pressure- responsive metal-organic framework nanosheets layered on top of one another.
+7. The composite material membrane according to Claim 6, wherein each layered material has from 4 to 5 layers of pressure-responsive metal-organic framework nanosheets layered on top of one another.
+8. The composite material membrane according to any one of the preceding claims, wherein each layered material has a thickness of from 2 to 20 nm, such as from 3 to 10 nm, such as about 4.4 nm, optionally wherein the layered material has a uniform thickness.
+9. The composite material membrane according to any one of the preceding claims, wherein each layered material independently has a lateral size of from 1 to 20 pm, such as from 2 to 10 pm, such as about 4 pm.
+10. The composite material membrane according to any one of the preceding claims, wherein the weight-to-weight ratio of pressure-responsive metal-organic framework nanosheets to graphene oxide nanosheets is from 10:1 to 100:1.
+11. The composite material membrane according to Claim 10, wherein the weight-to- weight ratio of pressure-responsive metal-organic framework nanosheets to graphene oxide nanosheets is from 30:1 to 70:1, such as from 40:1 to 60:1.
+12. The composite material membrane according to Claim 11, wherein the weight-to- weight ratio of pressure-responsive metal-organic framework nanosheets to graphene oxide nanosheets is about 50:1.
+13. The composite material membrane according to any one of the preceding claims, wherein the membrane is defect-free when viewed under scanning electron microscopy following at least one round of an activation process on the composite material membrane.
+14. The composite material membrane according to any one of the preceding claims, wherein the membrane switches from a closed state to an open state when subjected to a pressure of at least about 50 kPa CO2.
+15. The composite material membrane according to any one of the preceding claims, wherein the membrane displays a CO2 permeance of from 800 to 1200, such as from 1050 to 1100 (e.g. about 1076.7) gas permeation units when subjected to a pressure of 200 kPa generated by a gas containing CO2/N2, where CO2 provides 140 kPa of the pressure, optionally wherein the permeation selectivity under said conditions is from 20:1 to 25:1 (e.g. 23.1:1) in favour of CO2 over N2.
+16. The composite material membrane according to any one of the preceding claims, wherein the membrane displays a CO 2 permeance of from 800 to 1200, such as from 1050 to 1100 (e.g. about 1051) gas permeation units when subjected to a pressure of 200 kPa generated by a gas containing CO 2 /CH 4 , where CO 2 provides 140 kPa of the pressure, optionally wherein the permeation selectivity under said conditions is from 15:1 to 25:1 (e.g. 19.3:1) in favour of CO 2 over ChU.
+17. The composite material membrane according to any one of the preceding claims, wherein the membrane displays a CO2 permeance of from 800 to 1200, such as from 1000 to 1050 (e.g. about 1024) gas permeation units when subjected to a pressure of 200 kPa generated by a gas containing CO2/H2, where CO2 provides 140 kPa of the pressure.
+18. The composite material membrane according to any one of the preceding claims, wherein the pressure-responsive metal-organic framework nanosheets are substantially provided in the form of the layered material.
+19. A method of obtaining a gas enriched in CO2 from a mixed gas comprising CO2, comprising the step of supplying a mixed gas under pressure to a composite material described in any one of Claims 1 to 18 to provide a permeated gas that is enriched in CO2 compared to the mixed gas.`,
+`transmitting a first resource (s) configuration and a second resource (s) configuration;
+wherein the second resource (s) configuration is used for determining a resource (s) in RRC idle/inactive mode, and is determined based on value (s) of parameter (s) in the first resource (s) configuration and/or value (s) of additional parameter (s) .
+The method of Claim 1, wherein the first resource (s) configuration is used to determine a CSI-RS resource (s) in radio resource control (RRC) connected mode.
+The method of Claim 1, wherein the second resource (s) configuration includes at least one of the following: a resource ID, a reference resource ID, subcarrier spacing (SCS) , cyclic prefix (CP) type, cell ID, synchronization signal and PBCH block (SSB) index, parameters in a non-zero power CSI-RS (NZP-CSI RS) resource (s) configuration, or parameters in a CSI-RS resource (s) mobility configuration.
+The method of Claim 1, wherein if any one or more parameter (s) of a first parameter set is present in the additional parameters, value (s) of the one or more parameter (s) of the first parameter set in the additional parameters is determined as the value (s) of one or more parameter (s) of the first parameter set in the second resource configuration.
+The method of Claim 4, wherein if any one or more parameter (s) of the first parameter set is present in the additional parameters, the resource (s) is determined without using value (s) of the one or more parameter (s) of the first parameter set or parameter (s) associated with the one or more parameter (s) of the first parameter set in the first resource (s) configuration.
+The method of Claim 1, wherein if any one or more parameter (s) of a first parameter set is absent in the additional parameters, value (s) of the one or more parameter (s) of the first parameter set or parameter (s) associated with the one or more parameter (s) of the first parameter set in the first resource (s) configuration is determined as the value of the one or more parameter (s) of the first parameter set in the second resource configuration.
+The method of Claim 4, wherein the one or more parameter (s) of the first parameter set include an associated synchronization signal and PBCH block (SSB) index, the parameter associated with the associated SSB index is TCI-State ID.
+The method of Claim 4, wherein the one or more parameter (s) of the first parameter set include SCS and/or CP type, the parameter associated with the SCS and CP type is bandwidth part (BWP) ID.
+The method of Claim 8, wherein if both SCS and CP type are present in the additional parameter (s) , the resource (s) is determined without directly using the value of BWP ID.
+The method of Claim 8, wherein if SCS is present in additional parameter (s) and CP type is absent in additional parameter (s) , the value of CP type is determined by the BWP ID in the first resource (s) configuration.
+The method of Claim 8, wherein if CP type is present in additional parameter (s) and SCS type is absent in the additional parameter (s) , the value of SCS is determined by the BWP ID in the first resource (s) configuration.
+The method of Claim 4, wherein if cell ID is present in the additional parameter (s) , a power of resource (s) determined by the second resource (s) configuration is determined based on a secondary synchronization PBCH block (SSB) power of a cell associated with the cell ID.
+The method of Claim 3, wherein if the reference resource ID is absent in the second resource (s) configuration, a resource (s) in RRC idle/inactive mode is determined based on value (s) of parameter (s) in a CSI-RS resource (s) configuration in which a value of the resource ID equals the value of the resource ID in the second resource (s) configuration.
+The method of Claim 1, wherein if a capability of using resources configured by the second resource (s) configuration is enabled but no second resource (s) configuration is received, the first resource (s) configuration is used to determine resources in RRC idle/inactive mode.
+A method comprising:
+receiving a first resource (s) configuration and a second resource (s) configuration; and
+determining a resource (s) for RRC idle/inactive mode by the second resource (s) configuration;
+wherein the second resource (s) configuration is determined based on value (s) of parameter (s) in the first resource (s) configuration and/or value (s) of additional parameter (s) .
+The method of Claim 15, wherein the additional parameter (s) is configured by a higher layer (s) .
+The method of Claim 15, wherein the first resource (s) configuration is used to determine a CSI-RS resource (s) in RRC connected mode.
+The method of Claim 15, wherein the second resource (s) configuration includes at least one of the following: a resource ID, a reference resource ID, SCS, CP type, cell ID, SSB index, parameters in a NZP-CSI RS resource (s) configuration, or parameters in a CSI-RS resource (s) mobility configuration.
+The method of Claim 15, wherein if any one or more parameter (s) of a first parameter set is present in the additional parameters, value (s) of the one or more parameter (s) of the first parameter set in the additional parameters is determined as the value (s) of one or more parameter (s) of the first parameter set in the second resource configuration.
+The method of Claim 19, wherein if any one or more parameter (s) of the first parameter set is present in the additional parameters, determining the resource (s) without using value (s) of the one or more parameter (s) of the first parameter set or parameter (s) associated with the one or more parameter (s) of the first parameter set in the first resource (s) configuration.
+The method of Claim 15, wherein if any one or more parameter (s) of a first parameter set is absent in the additional parameter (s) , value (s) of the one or more parameter (s) of the first parameter set or parameter (s) associated with the one or more parameter (s) of the first parameter set in the first resource (s) configuration is determined as the value (s) of the one or more parameter (s) of the first parameter set in the second resource configuration.
+The method of Claim 21, wherein the one or more parameter (s) of the first parameter set include an associated SSB index, the parameter associated with the associated SSB index is TCI-State ID.
+The method of Claim 21, wherein the one or more parameter (s) of the first parameter set include SCS and/or CP type, the parameter associated with the SCS and CP type is BWP ID.
+The method of Claim 23, wherein if both SCS and CP type are present in the additional parameter (s) , determining the resource (s) without using the value of BWP ID.
+The method of Claim 23, wherein if SCS is present in additional parameter (s) and CP type is absent in the additional parameter (s) , the value of CP type is determined by the BWP ID in the first resource (s) configuration.
+The method of Claim 23, wherein if CP type is present in additional parameter (s) and SCS is absent in the additional parameter (s) , the value of SCS is determined by the BWP ID in the first resource (s) configuration.
+The method of Claim 18, wherein if cell ID is present in the additional parameter (s) , a power of resource (s) determined by the second resource (s) configuration is determined by an SSB power of a cell associated with the cell ID.
+The method of Claim 18, wherein if the reference resource ID is absent in the second resource (s) configuration, a resource (s) in the idle/inactive mode is determined based on value (s) of parameter (s) in a CSI-RS resource (s) configuration in which a value of the resource ID equals the value of the resource ID in the second resource (s) configuration.
+The method of Claim 15, wherein if a capability of using resources configured by the second resource (s) configuration is enabled but no second resource (s) configuration is received, the first resource (s) configuration is used to determine resources in the idle/inactive mode.
+A method comprising:
+starting a timer when switching to RRC idle/inactive mode, to determine whether a third resource (s) configuration in RRC idle/inactive mode is valid.
+The method of Claim 30, wherein the third resource (s) configuration is a second resource (s) configuration or is an update of the second resource (s) configuration. -
+The method of Claim 31, wherein the second resource (s) configuration is determined based on value (s) of parameter (s) in a CSI-RS resource (s) configuration in the RRC connected mode and/or value (s) of additional parameter (s) .
+The method of Claim 30, wherein the third resource (s) configuration is determined to be invalid if the timer expires.
+The method of Claim 33, further comprising:
+falling back to perform SSB-based measurement if the timer expires and a DCI is not received.
+The method of Claim 33, further comprising:
+if the timer expires and a DCI is received successfully, restarting the timer after an offset of the DCI.
+The method of Claim 35, wherein the DCI includes information indicating using a previous resource (s) .
+The method of Claim 35, wherein the DCI includes information indicating activating a new resource (s) .
+A method comprising:
+receiving a DCI indicating a resource (s) used for a RRM measurement in RRC idle/inactive mode.
+The method of Claim 38, wherein the DCI is DCI format 1_0 scrambled by P_RNTI.
+The method of Claim 39, further comprising:
+receiving a second resource (s) configuration before receiving the DCI, wherein the second resource (s) configuration is determined based on value (s) of parameter (s) in a CSI-RS resource (s) configuration in the RRC connected mode and/or value (s) of additional parameter (s) .
+The method of Claim 40, further comprising:
+switching to RRC connected mode to receive a new resource (s) configuration according to the DCI;
+wherein the new resource (s) configuration is a resource configuration determined after a determination of the second resource (s) configuration.
+The method of Claim 40, further comprising:
+falling back to perform SSB-based RRM measurement according to the DCI.
+The method of Claim 40, further comprising:
+performing the RRM measurement via a previous resource (s) according to the DCI.
+The method of Claim 40, further comprising:
+activating a new resource (s) according to the DCI.
+A method comprising:
+transmitting a DCI indicating a resource (s) used for a RRM measurement in RRC idle/inactive mode.
+The method of Claim 45, wherein the DCI is DCI format 1_0 scrambled by P_RNTI.
+The method of Claim 46, further comprising:
+transmitting a second resource (s) configuration before transmitting the DCI, wherein the second resource (s) configuration is determined based on value (s) of parameter (s) in a CSI-RS resource (s) configuration for determining a resource (s) in RRC connected mode and/or value (s) of additional parameter (s) .
+The method of Claim 45, wherein the DCI indicates information of switching to RRC connected mode to receive a new resource (s) configuration; and
+wherein the new resource (s) configuration is a resource configuration determined after a determination of the second resource (s) configuration.
+The method of Claim 45, wherein the DCI indicates information of falling back to perform SSB-based RRM measurement.
+The method of Claim 45, wherein the DCI indicates information of performing the RRM measurement via a previous resource (s) .
+The method of Claim 45, wherein the DCI indicates information of activating a new resource (s) to perform the RRM measurement.
+An apparatus, comprising:
+at least one non-transitory computer-readable medium having computer executable instructions stored therein;
+at least one receiver;
+at least one transmitter; and
+at least one processor coupled to the at least one non-transitory computer-readable medium, the at least one receiver and the at least one transmitter; wherein at least one non-transitory computer-readable medium and the computer executable instructions are configured, with the at least one processor, cause the apparatus to implement a method according to any one of Claims 1-51.
+`,
+    `1. A lithium ion cell comprising:
+a negative electrode comprising from about 75 wt% to about 92 wt% an active material, from about 1 wt% to about 7 wt% nanoscale conductive carbon and from about 6 wt % to about 20 wt% polymer binder, wherein the active material comprises from about 35 wt% to about 95 wt% silicon oxide-based material and from about 5 wt% to about 65 wt% graphite;
+a positive electrode comprising a lithium nickel cobalt manganese oxide approximately represented by the formula LiNi x Mn y Co z 0 2 , where x + y + z ~ 1, 0.3 ⟨ x, 0.025 ⟨ y ⟨ 0.35, 0.025 ⟨ z ⟨ 0.35, conductive carbon, and a polymer binder;
+a separator between the negative electrode and the positive electrode;
+electrolyte comprising from about 1M to about 2 M lithium salt and non-aqueous solvent, wherein the non-aqueous solvent comprises at least about 5 volume percent fluoroethylene carbonate and at least about 25 volume percent combined amount of dimethycarbonate, methylethylcarbonate and diethylcarbonate; and
+a container enclosing the other cell components.
+2. The lithium ion cell of claim 1 wherein the lithium ion cell can be cycled at a charge rate of 1C and a discharge rate of 1C for at least about 700 cycles without a drop in capacity of more than 20% relative to the 3rd cycle capacity.
+3. The lithium ion cell of claim 1 or claim 2 wherein the negative electrode active material comprises from about 40 wt% to about 90 wt% silicon-oxide based material and from about 10 wt% to about 60 wt% graphite, wherein the graphite has a BET surface area from about 2 m 2 /g to about 100 m 2 /g
+4. The lithium ion cell of claim 3 wherein the silicon oxide-based material comprises a silicon- silicon oxide carbon composite material.
+5. The lithium ion cell of any one of claims 1-4 wherein the polymer binder of the negative electrode comprises a blend of polyimide and a second binder polymer selected from the group consisting of poly vinylidene fluoride, carboxymethyl cellulose, styrene-butadiene rubber, lithiated polyacrylic acid, copolymers thereof and mixtures thereof.
+6. The lithium ion cell of any one of claims 1-5 wherein the electrolyte comprises from about 1.25 M to about 1.8 M lithium salt and wherein the non-aqueous solvent comprises from about 8 volume percent to about 25 volume percent fluoroethylene carbonate and at least about 50 volume percent combined amount of dimethycarbonate, methylethylcarbonate, and diethyl carbonate.
+7. The lithium ion cell of any one of claims 1-5 wherein the electrolyte further comprises from about 2 wt% to about 12 wt% of propylene carbonate and from about 2 wt% to about 12 wt% of fluorobenzene.
+8. The lithium ion cell of any one of claims 1-7 wherein the lithium nickel manganese cobalt oxide is approximately represented by the formula LiNi x Mn y Co z 0 2 , where x + y + z ~ 1, 0.50 ⟨ x, 0.03 ⟨ y ⟨ 0.325, 0.03 ⟨ z ⟨ 0.325.
+9. The lithium ion cell of any one of claims 1-8 further comprising supplemental lithium in an amount from about 80% to about 180% of the negative electrode first cycle irreversible capacity loss, the lithium ion cell having a ratio at the fourth cycle at a discharge rate of C/3 of negative electrode capacity divided by the positive electrode capacity from about 1.10 to about 1.95.
+10. The lithium ion cell of any one of claims 1-9 wherein the positive electrode further comprises from about 20 wt% to about 80 wt% of (lithium + manganese) rich lithium metal oxide represented by the formula Lii +b Ni o JVh^Co y AsC - z F z , where b + a + b + g + d ~ 1, b ranges from about 0.04 to about 0.3, a ranges from 0 to about 0.4, b range from about 0.2 to about 0.65, g ranges from 0 to about 0.46, d ranges from about 0 to about 0.15 and z ranges from 0 to 0.2, with the proviso that both a and g are not 0, and where A is a metal different from lithium, manganese, nickel and cobalt.
+11. A lithium ion cell comprising:
+a negative electrode comprising from about 75 wt% to about 92 wt% an active material, from about 1 wt% to about 7 wt% nanoscale conductive carbon and from about 6 wt % to about 20 wt% polymer binder, wherein the active material comprises from about 40 wt% to about 95 wt% silicon oxide-based material and from about 5 wt% to about 60 wt% graphite; a positive electrode comprising a nickel-rich lithium nickel cobalt metal oxide, conductive carbon, and a polymer binder, where the nickel-rich lithium metal cobalt oxide is approximately represented by the formula LiNi x M y Co z 0 2 , where x + y + z ~ 1, 0.3 ⟨ x, 0.025 ⟨ y ⟨ 0.35, 0.025 ⟨ z ⟨ 0.35 and M is Mn, Al, Mg, Sr, Ba, Cd, Zn, Ga, B, Zr, Ti, Ca, Ce, Y, Nb, Cr, Fe, V, or combinations thereof;
+a separator between the negative electrode and the positive electrode;
+electrolyte comprising from about 1M to about 2 M lithium salt and non-aqueous solvent, wherein the non-aqueous solvent comprises at least about 5 volume percent fluoroethylene carbonate and at least about 25 volume percent combined amount of dimethycarbonate, methylethylcarbonate and diethyl carbonate; and
+a container enclosing the other cell components,
+wherein the lithium ion cell can be cycled at a charge rate of 1C and a discharge rate of 1C for at least about 700 cycles without a drop in capacity of more than 20% relative to the 3rd cycle capacity.
+12. The lithium ion cell of claim 11 wherein the lithium ion cell can be cycled at a charge rate of 1C and a discharge rate of 1C for at least about 750 cycles without a drop in capacity of more than 20% relative to the 3rd cycle capacity.
+13. The lithium ion cell of claim 11 or claim 12 wherein the negative electrode active material comprises from about 50 wt% to about 90 wt% silicon-oxide based material and from about 10 wt% to about 50 wt% graphite, wherein the graphite has a BET surface area from about 2 m 2 /g to about 100 m 2 /g
+14. The lithium ion cell of claim 13 wherein the silicon oxide-based material comprises a silicon- silicon oxide carbon composite material.
+15. The lithium ion cell of any one of claims 11-14 wherein the polymer binder of the negative electrode comprises a blend of polyimide and a second binder polymer selected from the group consisting of poly vinylidene fluoride, carboxymethyl cellulose, styrene -butadiene rubber, lithiated polyacrylic acid, copolymers thereof and mixtures thereof.
+16. The lithium ion cell of any one of claims 11-15 wherein the electrolyte comprises from about 1.25 M to about 1.8 M lithium salt and wherein the non-aqueous solvent comprises from about 8 volume percent to about 25 volume percent fluoroethylene carbonate and at least about 50 volume percent combined amount of dimethycarbonate, methylethylcarbonate, and diethyl carbonate.
+17. The lithium ion cell of any one of claims 11-15 wherein the electrolyte further comprises from about 2 wt% to about 12 wt% of propylene carbonate and from about 2 wt% to about 12 wt% of fluorobenzene.
+18. The lithium ion cell of any one of claims 11-17 wherein the lithium nickel metal cobalt oxide is approximately represented by the formula LiNi x Mn y Co z 0 2 , where x + y + z ~ 1, 0.50 ⟨ x, 0.03 ⟨ y ⟨ 0.325, 0.03 ⟨ z ⟨ 0.325.
+19. The lithium ion cell of any one of claims 11-18 further comprising supplemental lithium in an amount from about 80% to about 180% of the negative electrode first cycle irreversible capacity loss, the lithium ion cell having a ratio at the fourth cycle at a discharge rate of C/3 of negative electrode capacity divided by the positive electrode capacity from about 1.10 to about 1.95.
+20. The lithium ion cell of any one of claims 11-19 wherein the lithium ion cell can be cycled at a charge rate of 1C and a discharge rate of 1C for at least about 800 cycles without a drop in capacity of more than 20% relative to the 3rd cycle capacity.
+`,
+    `1. A method of generating a laser output beam having a functionally homogenized intensity distribution, the method comprising:
+    exciting, by application of a low-moded source beam to a multi-mode confinement core, a population of few modes in the multi-mode confinement core such that the population exhibit an inhomogeneous intensity distribution; and
+    providing one or both of modulation of phase displacement in the multi-mode confinement core and variation of launch conditions of the low-moded source beam into the multi-mode confinement core thereby functionally homogenizing the inhomogeneous intensity distribution to generate the laser output beam.
+2. The method of claim 1 , in which the low-moded source beam has four or fewer modes.
+3. The method of claim 1 , in which the low-moded source beam has a single mode.
+4. The method of claim 1 , in which the low-moded source beam excites 50% or less of modes supported by the multi-mode confinement core.
+5. The method of claim 1 , in which the low-moded source beam excites 10% or less of modes supported by the multi-mode confinement core.
+6. The method of claim 1 , in which the population of few modes in the multi- mode confinement core includes ten or fewer modes.
+7. The method of claim 1 , further comprising providing modulation of phase displacement by coupling a perturbation device to an optical fiber that includes the multi-mode confinement core.
+8. The method of claim 7, in which the perturbation device comprises a voice coil in a housing that conforms to a jacket of the optical fiber.
+9. The method of claim 7, in which the perturbation device comprises a rotary electric motor in a housing that conforms to a jacket of the optical fiber.
+10. The method of claim 1 , further comprising providing variation of launch conditions of the low-moded source beam by coupling a perturbation device to a junction of a variable beam characteristics (VBC) fiber.
+11. The method of claim 1 , in which the multi-mode confinement core is an annular confinement core.
+12. The method of claim 1 , further comprising applying the laser output beam to an additive manufacturing workpiece.
+13. An apparatus for generating a laser output beam having a functionally homogenized intensity distribution, the apparatus comprising:
+a first length of optical fiber to guide a low-moded source beam;
+a second length of optical fiber having a multi-mode confinement core configured to receive the low-moded source beam and thereby excite a population of few modes in the multi-mode confinement core such that the population exhibit an inhomogeneous intensity distribution; and
+a perturbation device to provide one or both of modulation of phase
+displacement in the multi-mode confinement core and variation of launch conditions of the low-moded source beam into the multi-mode confinement core thereby functionally homogenizing the inhomogeneous intensity distribution to generate the laser output beam.
+14. The apparatus of claim 13, in which the first and second lengths of fiber comprise a variable beam characteristics (VBC) fiber.
+15. The apparatus of claim 13, in which the first and second lengths comprise an offset spliced fiber.
+16. The apparatus of claim 13, in which the first and second lengths comprise, respectively, a first fiber and a second fiber separated by free-space optics between free ends of the first and second fibers.
+17. The apparatus of claim 13, in which the perturbation device comprises a voice coil coupled to the second length of fiber.
+18. The apparatus of claim 13, in which the perturbation device comprises an internal geometry of the second length of fiber.
+19. The apparatus of claim 13, in which the first length of fiber is a single mode fiber.
+`,
+    `1. A composite core assembly comprising:
+a first composite core structure having a first plurality of cells, a first cell size, and at least one first side surface defined by the first plurality of cells;
+a second composite core structure having a second plurality of cells, a second cell size that is greater than the first cell size, and at least one second side surface defined by the second plurality of cells, at least some of the second plurality of cells on the at least one second side surface;
+wherein at least some of the first plurality of cells on the at least one first side surface aligns with and connect to at least some of the second plurality of cells on the at least one second side surface to splice the first and second composite core structures together.
+2. The composite core assembly of claim 1, wherein the first and second composite core structures are connected with an adhesive bond.
+3. The composite core assembly of claiml, wherein the first and second composite core structures are connected during curing of the first and second composite core structures.
+4. The composite core assembly of claim 1, wherein the first and second composite core structures are connected while mandrels are positioned in at least some of the first and second plurality of cells.
+5. The composite core assembly of claim 1, wherein the second cell size is at least two times greater than the first cell size.
+6. The composite core assembly of claim 1, wherein the first plurality of cells and the second plurality of cells have a hexagonal cross-sectional shape or a polygonal cross-sectional shape.
+7. The composite core assembly of claim 1, wherein the first plurality of cells are formed by one of wrapping, winding and braiding composite material around a plurality of mandrels.
+8. The composite core assembly of claim 1, wherein the second plurality of cells are formed by wrapping composite material around a plurality of mandrels or formed from a plurality of ribbon corrugations of pre-shaped composite material.
+9. The composite core assembly of claim 1, wherein at least one of the first and second plurality of cells is formed from a plurality of ribbon corrugations having hat shaped or hexagonal structures formed therein.
+10. The composite core assembly of claim 1, further comprising a planar surface interposed between and connected to the at least one first side surface and the at least one second side surface.
+11. The composite core assembly of claim 1, wherein at least some of the first plurality of cells have a different cross-sectional shape than other of the first plurality of cells to provide improved surface contact between the first and second core structures.
+12. The composite core assembly of claim 1, wherein at least some of the second plurality of cells have a different cross-sectional shape than other of the second plurality of cells to provide improved surface contact between the first and second core structures.
+13. A method of assembling a core structure assembly, the method comprising: providing a first composite core structures having a first plurality of cells and a first cell size, and a second composite core structure having a second plurality of cells and a second cell size, the second cell size being greater than the first cell size;
+arranging facets of some of the first plurality of cells in alignment with facets of some of the second plurality of cells to create facet interfaces that maximize surface contact between the first and second composite core structures;
+connecting the first and second composite core structures together at the facet interfaces.
+14. The method of claim 13, wherein connecting the first and second composite core structures together includes bonding with an adhesive.
+15. The method of claim 13, wherein connecting the first and second composite core structures together includes creating a connection during cross-linking of polymer materials when curing the first and second composite core structures.
+16. The method of claim 15, wherein forming the first and second composite core structures includes wrapping separate mandrels with composite materials and positioning the wrapped mandrels in contact with each other.
+17. The method of claim 13, wherein at least one of the first and second composite core structures is formed by connecting together a plurality of ribbon corrugations of composite material.
+18. The method of claim 13, further comprising preparing the facets for bonding by removing mold release chemicals from the facets.
+19. The method of claim 13, further comprising arranging facets of at least some of the first plurality of cells in alignment with facets of at least some of the second plurality of cells to create facet interfaces that provide surface contact and allow gas permeability between the first and second composite core structures.
+20. An apparatus with an internal composite core, the apparatus comprising:
+a housing having an internal cavity with a length, width and height;
+a first composite core structure having a first cell size;
+a second composite core structure having a second cell size that is greater than the first cell size, the first and second composite core structures being connected together at an interface between cells of the first and second composite core structures.
+21. The apparatus of claim 20, wherein one of the first and second composite core structures is formed from a plurality of interconnected ribbons of composite material, the ribbons being arranged in a length direction of the housing or in a width direction of the housing.
+22. The apparatus of claim 20, wherein cells of at least one of the first and second composite core structure are formed from a plurality of mandrels wrapped, wound or braided with composite material and arranged in contact with each other.
+23. The apparatus of claim 20, wherein cells of at least one of the first and second composite core structure have a hexagonal cross-sectional shape.
+24. The apparatus of claim 20, wherein cells of at least one of the first and second composite core structure include a hat-shaped portion.
+`,
+    `1. A system for autonomous and intelligent management of water bodies, the system comprising: an aquaculture system, wherein the aquaculture system further comprises at least one aeration module, a nutrient dispensing module and a sensor module; a communication gateway, wherein the communication gateway is a wireless communication hub which is configured to communicably connect with the aquaculture system; a cloud computing module, wherein the cloud computing module is configured to connect with the Internet, the communication gateway and the aquaculture system through wired or wireless means; and, wherein the aeration module, nutrient dispensing module and sensor module in the aquaculture system are each designed to comprise separate batteries as power sources for separate control modules, and wherein the sensor module is further configured with an Artificial Intelligence module.
+2. The system according to claim 1, wherein the sensor module comprises a sensing module, a navigation module, a battery and a control module, and wherein the sensing module is an assembly of a plurality of sensors selected from depth sensors , dissolved oxygen (DO) sensors, ORP sensor, GPS sensors, sonar module, temperature sensor, pH sensor, turbidity sensor, proximity sensors, water current velocity measurement sensor, carp velocity sensor, carp acoustics sensors, IMU sensor.
+3. The system according to claim 1, wherein the sensor module is configured to autonomously move to a plurality of coordinates in a water body along different strata, and wherein the autonomous motion of the sensor module is enabled by inputs from a plurality of sensors selected from GPS, IMU, position or proximity sensor comprised in the sensor module, and wherein the autonomous decision-making capability of the sensor module for motion in the water body is enabled by a computer-vision and GPS aspect of the Artificial Intelligence module.
+4. The system according to claim 1, wherein the Artificial Intelligence module is configured to create a plurality of data training models based on the data input from sensors selected from depth sensors, turbidity sensor, dissolved oxygen (DO) sensors, IMU sensors, GPS  sensors, imaging sensors or computer vision, temperature sensor, ORP sensor, water current velocity measurement sensor, weather parameters such as wind speed, wind direction, ambient temperature and humidity at the water surface, for prediction of DO gap, unionized ammonia, anaerobic conditions or a combination thereof.
+5. The system according to claim 1, wherein the Artificial intelligence module is configured to predict water quality parameters selected from DO, ammonia (NH4-N), unionized ammonia , phosphate (P04-), turbidity, salinity, temperature, pH, TSS (Total Suspended Solids), TOC (Total Organic Carbon) and ORP (Oxidation Reduction Potential), sulphide, phosphate, nitrite, nitrate, vibrio count, Carbon dioxide (C02) capture, water column respiration rate, carps respiration rate, sediment respiration rate, C:N ratio, frequency of synchronous and asynchronous waves of aerator based on the data input from the sensor module.
+6. The system according to claim 1, wherein the Artificial intelligence module is configured to predict disease onset in aquaculture species based on the predicted water quality parameters selected from DO, ammonia (NH4-N), unionized ammonia, turbidity, salinity, temperature, pH, TSS (Total Suspended Solids), TOC (Total Organic Carbon) and ORP (Oxidation Reduction Potential), sulphide, phosphate, nitrite, nitrate, vibrio count, Carbon dioxide (C02) capture, water column respiration rate, carps respiration rate, sediment respiration rate, C:N ratio, frequency of synchronous and asynchronous waves of aerator.
+7. The system according to claim 1, wherein the aeration module comprises an air pumping module, an aerator, a control module and a battery, and wherein, the aeration module is designed to be physically placed in a water body and to aerate hypolimnetic or sediment regions of the waterbody based on input from the artificial intelligence module and preset configuration.
+8. The system according to claim 7, wherein, the aerator is designed to aerate a region by oscillating vertically in a sinusoidal manner, thereby generating standing waves and synchronous waves radially with a frequency and amplitude as determined by the input from the artificial intelligence module.
+9. The system according to claim 7, wherein, the aerator is provided with mechanical wings that are designed to flap, in order to mimic ornithogenic disturbance with a frequency range as determined by the input from the artificial intelligence module.
+10. The system according to claim 7, wherein, the synchronous waves are generated by the aerator for providing dissolved oxygen to sediment water interface and asynchronous waves are generated for dispersing the waste to the banks of a water body.
+11. The system according to claim 6, wherein the aerator is a one or two-stage ring aerator with diffuser nozzles, a motor, a bearing holder, a spring pipe, a pulley holder a pulley belt, pneumatic pipes and connector configured with the air pumping module of aeration module.
+12. The system according to claim 1, wherein the nutrient dispensing module comprises a nutrient dispenser, a navigation module, a control module, a bioreactor and wherein, the nutrient dispensing module is designed to be physically placed in a water body and to autonomously move to a plurality of coordinates in a water body and dispense a plurality of nutrients housed in the dispensing module.
+13. The system according to claim 10, wherein the autonomous motion of the nutrient dispensing module is enabled by inputs from a plurality of sensors selected from GPS, IMU, position or proximity sensor comprised in the nutrient dispensing module, and wherein the autonomous decision-making capability of the nutrient dispensing module for motion in the water body is enabled by a computer-vision and GPS.
+14. The system according to claim 1, wherein the input from the Artificial Intelligence module to the nutrient dispensing module in the form of trained data optimizes a plurality of parameters selected from time interval between dispensing nutrients, amount of nutrients to dispense, or the type of nutrients to be dispensed or a combination thereof.
+15. The system according to claim 1, wherein the nutrient dispensing module comprises at least two valves and two tanks, and wherein, at least one of the tanks is detachable.
+16. The system according to claim 12, the control module in the nutrient dispensing module is configured to enable dispensing nutrients, drugs or probiotics when the concentration of  unionized ammonia, nitrite, nitrate, sulphide, phosphate, vibrio count in the waterbody is observed to be in a range different from the preset range, and wherein, the sensor module is configured to sense the value of DO, pH, ORP, Temperature, turbidity and the artificial intelligence module is configured to determine the timings and dosage of nutrients to be dispersed into the water body.
+17. The system of claim 1, wherein the aquaculture system further comprises a water recycling module and wherein the water recycling module comprises an inlet, at least one screening tank, a mixing and aeration tank, a control module and a battery.
+18. The system of claim 17, wherein the Artificial intelligence module is configured with a mopping module comprised in the sensor module and wherein the mopping module collects waste water from the sediment.
+19. The system of claim 17, wherein the mixing and aeration tank adds one or more of drugs, nutrients, disinfectants, micro algae, or probiotics to water received from the screening tank based on inputs received from the artificial intelligence module by creating a vortex and dispenses recycled water.
+20. The system of claim 17, wherein the water recycling module is excluded as a part of the aquaculture system for reservoir and lake management.
+21. The system of claim 1, wherein the system comprises a plurality of end user devices and wherein, the end user devices are configured with applications to remotely connect with the aquaculture system.
+22. A method for autonomous and intelligent management of water bodies, the method comprising: placing an aquaculture system in a water body, wherein the aquaculture system comprises at least one aeration module, a dispensing module and a sensor module, and wherein, a wireless communication hub is configured to communicably connect with the control modules in the aquaculture system; determining a plurality of physical parameters of the water body through activation of a plurality of sensors in the sensor module;  analyzing the readings from the plurality of sensors in a cloud computing module enabled by the wireless communication hub; providing suitable data as inputs to the Artificial Intelligence module in the sensor module for training data; providing the output of the Artificial Intelligence module as command input to the aeration module and dispensing module; navigating the sensor module or the dispensing module to suitable locations on the water body based on the inputs from Artificial Intelligence module; activating at least one of the aeration module nearby to the coordinates or the dispensing module at the coordinates; and, analyzing the change in the physical parameters of the water body at the location and deactivating the aeration module or the dispensing module.
+23. The method according to claim 21, wherein the method of operation of the sensor module includes positioning the sensor module autonomously in a suitable location or grid point in the waterbody; sensing water depth, water quality parameters and velocity of the carps at each grid point; measuring the changes in SOD, water quality parameters and weather information of the location and communicating the inputs to the Artificial Intelligence module; predicting the SOD for a preset future period and deciding the feeding pattern, the frequency of aeration oscillation, duration of aeration by a network of aerators, the type of probiotics to be dispensed and its dispensation parameters; and, checking whether a preset critical value of SOD , unionized ammonia, nitrite, nitrate, phosphate, sulphide, vibrio count and ORP have been attained at the location in the water body; when the critical value is sensed, then activating aeration and dispensing, and deactivating them when the preset conditions are satisfied.
+`,
+    ]
+</script>
+
+
+
+</html>
