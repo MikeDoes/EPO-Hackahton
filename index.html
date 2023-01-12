@@ -141,10 +141,6 @@
 
 
 <body>
-    <div id="photos-container">
-        <div id="photos"></div>
-        <div id="photos-overlay"></div>
-    </div>
 
 
     <section id="title">
@@ -236,6 +232,7 @@
                     } else if (this.readyState == 4 && this.status != 200) {
                         reject(this.status);
                         alert(`The secret key is incorrect. ${this.responseText}`)
+                        document.getElementById('submit_text').innerHTML = "Classify Patent"
                     }
                 }
             });
@@ -262,6 +259,7 @@
                     } else if (this.readyState == 4 && this.status != 200) {
                         reject(this.status);
                         alert(`The secret key is incorrect. ${this.responseText}`)
+                        document.getElementById('submit_text').innerHTML = "Classify Patent"
                     }
                 }
             });
