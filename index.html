@@ -10,9 +10,6 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
 </head>
-
-
-
 <style>
     body{
         font-family: roboto;
@@ -143,11 +140,11 @@
 <body>
 
 
-    <section id="title">
+    <section id="title" open>
         <h1>Universal Patent Classifier</h1>
         <h3>By Team Patent Variable</h3>
     </section>
-    <details>
+    <details open>
         <summary>Introduction</summary>
         
         <p>As part of PatentVariable's submission for the EPO's Codefest on Green Plastics Hackathon, we developed an interactive demonstration for our Universal Patent Classifier. This interactive demo allows users to quickly and accurately match patents to their respective CPCs. To enhance the quality of the application in a qualitative manner, we also provide three potential reasons for why a patent is classified in a given CPC.</p>
@@ -162,22 +159,24 @@
         </form>
 
         <div id="text_input">
-            <label for="public_key">CPC Definition and Patent Data (Abstract or Claims):</label>
+            <label for="public_key">CPC Definition and Patent Data (Click buttons for presets):</label>
         <div class="wrap">
+            <div id="first_choice" class="presets"><button>Y02C Management of greenhouse gases</button><button>Y02G Green Plastics</button><button>Y02T Mitigation transporation technologies</button></div>
             <div class="search">
                 <textarea id="first_text_item" class="searchTerm" placeholder="CPC Definition..."></textarea>
             </div>
             
-                <div id="first_choice" class="presets"><button>Y02C Management of greenhouse gases</button><button>Y02G Green Plastics</button><button>Y02T Mitigation transporation technologies</button></div>
+                
             
 
         </div>
         <div class="wrap" style="margin-left: 0px;">
+            <div id="second_choice" class="presets"><button class="blue">Composite membranes for gas separation (Y02C)</button><button class="blue">Recycling synthetic resin composition (Y02G)</button><button class="blue">Storage battery locomotive (Y02T)</button></div>
             <div class="search">
                 <textarea id="second_text_item" class="searchTerm" placeholder="Patent Claims or Abstract..."></textarea>
                 
             </div>
-            <div id="second_choice" class="presets"><button class="blue">Composite membranes for gas separation (Y02C)</button><button class="blue">Recycling synthetic resin composition (Y02G)</button><button class="blue">Storage battery locomotive (Y02T)</button></div>
+            
         </div>
         
         <div id="request_buttons">
