@@ -8,12 +8,13 @@
     <title>EPO Home</title>
     <link rel="stylesheet" href="static/css/style.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-
+    <script type="text/javascript" src="static/js/vis-network.min.js"></script>
 </head>
 <style>
-    body{
+    body {
         font-family: roboto;
     }
+
     #title {
         font-family: roboto;
         color: black;
@@ -23,36 +24,48 @@
         padding: 15px;
         text-align: center;
     }
-    #title h1{
+
+    #title h1 {
         font-size: 50px;
     }
-    #title h1, #title h3{
+
+    #title h1,
+    #title h3 {
         background-color: rgba(255, 255, 255, 0.9);
     }
-    details{
-        z-index: 100; position: relative; background-color:rgba(33, 33, 33, 1); padding: 10px; margin:10px;color: white;
+
+    details {
+        z-index: 100;
+        position: relative;
+        background-color: rgba(33, 33, 33, 1);
+        padding: 10px;
+        margin: 10px;
+        color: white;
     }
 
-    summary{
-        font-size: 1.5em; cursor: pointer; color: white;
+    summary {
+        font-size: 1.5em;
+        cursor: pointer;
+        color: white;
     }
-    
+
     #credentials {
-    display: flex;
-    flex-direction: column;
-    padding: 1rem;
-    background-color: #f2f2f2;
-    border-radius: 8px;
-    margin: 1rem;
-    border: 1px solid #ccc;
-    width: 300px;
+        display: flex;
+        flex-direction: column;
+        padding: 1rem;
+        background-color: #f2f2f2;
+        border-radius: 8px;
+        margin: 1rem;
+        border: 1px solid #ccc;
+        width: 300px;
     }
+
     .wrap {
         margin: 10px 0px 10px 10px;
         display: inline-table;
         width: 40%;
         position: relative;
-        
+
     }
 
     .presets {
@@ -62,8 +75,9 @@
         width: 94%;
     }
 
-    .presets > button{
-        background-color: rgba(181, 215, 168, 1); /* Green */
+    .presets>button {
+        background-color: rgba(181, 215, 168, 1);
+        /* Green */
         border: none;
         color: black;
         padding: 8px 16px;
@@ -73,17 +87,20 @@
         text-decoration: none;
         display: inline-block;
         cursor: pointer;
+        border-radius: 8px;
+        border: 1px solid #740C14;
     }
 
     .blue {
         background-color: rgba(165, 194, 245, 1) !important;
     }
 
-    label{
+    label {
         color: black;
         display: block;
     }
-    #text_input{
+
+    #text_input {
         padding: 1rem;
         background-color: #f2f2f2;
         border-radius: 8px;
@@ -98,7 +115,7 @@
         border-radius: 5px 0 0 5px;
         outline: none;
         color: #740C14;
-        
+
     }
 
     .searchTerm:focus {
@@ -113,17 +130,19 @@
         background: #740C14;
         text-align: center;
         color: #fff;
-        
+
         border-radius: 5px;
         cursor: pointer;
         font-size: 20px;
         display: block;
     }
-    #request_buttons{
+
+    #request_buttons {
         display: block;
         width: 300px;
         position: relative;
     }
+
     #similarity {
         padding: 1rem;
         background-color: #f2f2f2;
@@ -134,6 +153,10 @@
         width: 200px;
     }
 
+    .kg{
+        width: 400px;
+        height: 400px;
+    }
 </style>
 
 
@@ -146,9 +169,16 @@
     </section>
     <details open>
         <summary>Introduction</summary>
-        
-        <p>As part of PatentVariable's submission for the EPO's Codefest on Green Plastics Hackathon, we developed an interactive demonstration for our Universal Patent Classifier. This interactive demo allows users to quickly and accurately match patents to their respective CPCs. To enhance the quality of the application in a qualitative manner, we also provide three potential reasons for why a patent is classified in a given CPC.</p>
-        <p>From a technical standpoint, we achieved this performance through fine-tuning a state-of-the-art GPT-3 model with claims extracted from the EPO's Open Data Services API. This interactive dashboard is available free of charge through the credentials provided in the presentation. If you have any issues with the credentials, please e-mail mike@ipft.co</p>
+
+        <p>As part of PatentVariable's submission for the EPO's Codefest on Green Plastics Hackathon, we developed an
+            interactive demonstration for our Universal Patent Classifier. This interactive demo allows users to quickly
+            and accurately match patents to their respective CPCs. To enhance the quality of the application in a
+            qualitative manner, we also provide three potential reasons for why a patent is classified in a given CPC.
+        </p>
+        <p>From a technical standpoint, we achieved this performance through fine-tuning a state-of-the-art GPT-3 model
+            with claims extracted from the EPO's Open Data Services API. This interactive dashboard is available free of
+            charge through the credentials provided in the presentation. If you have any issues with the credentials,
+            please e-mail mike@ipft.co</p>
     </details>
     <details id="input" open>
         <summary>Input Data</summary>
@@ -159,36 +189,47 @@
         </form>
 
         <div id="text_input">
-            <label for="public_key">CPC Definition and Patent Data (Click buttons for presets):</label>
-        <div class="wrap">
-            <div id="first_choice" class="presets"><button>Y02C Management of greenhouse gases</button><button>Y02G Green Plastics</button><button>Y02T Mitigation transporation technologies</button></div>
-            <div class="search">
-                <textarea id="first_text_item" class="searchTerm" placeholder="CPC Definition..."></textarea>
+            <label for="public_key">CPC Definition (Click buttons for presets):</label>
+            <div class="wrap">
+                <div id="first_choice" class="presets"><button>Y02C Management of greenhouse gases</button><button>Y02G
+                        Green Plastics</button><button>Y02T Mitigation transporation technologies</button></div>
+                <div class="search">
+                    <textarea id="first_text_item" class="searchTerm" placeholder="CPC Definition..."></textarea>
+                </div>
+
+
+
+
             </div>
-            
-                
-            
+
+
+            <label for="">Patent Claims (Click buttons for presets):</label>
+            <div class="wrap" style="">
+                <div id="second_choice" class="presets"><button class="blue">Composite membranes for gas separation
+                        (Y02C)</button><button class="blue">Recycling method of plastic fiber-reinforced material
+                        (Y02G)</button><button class="blue">Storage battery locomotive (Y02T)</button></div>
+                <div class="search">
+                    <textarea id="second_text_item" class="searchTerm"
+                        placeholder="Patent Claims or Abstract..."></textarea>
+
+                </div>
+
+            </div>
+
+            <div id="request_buttons">
+                <label style="display: inline-block; margin: 10px">Requires Explanation?</label>
+                <input type="checkbox" name="" id="explanation" checked>
+                <label style="display: inline-block; margin: 10px">Requires Similarity Score?</label>
+                <input type="checkbox" name="" id="box_similarity" checked>
+                <label style="display: inline-block; margin: 10px">Requires Knowledge Graph?</label>
+                <input type="checkbox" name="" id="box_kg" checked>
+                <button type="submit" class="searchButton" id="submit">
+                    <span id="submit_text">Classify Patent</span>
+                    <i class="fa fa-search"></i>
+                </button>
+            </div>
 
         </div>
-        <div class="wrap" style="margin-left: 0px;">
-            <div id="second_choice" class="presets"><button class="blue">Composite membranes for gas separation (Y02C)</button><button class="blue">Recycling synthetic resin composition (Y02G)</button><button class="blue">Storage battery locomotive (Y02T)</button></div>
-            <div class="search">
-                <textarea id="second_text_item" class="searchTerm" placeholder="Patent Claims or Abstract..."></textarea>
-                
-            </div>
-            
-        </div>
-        
-        <div id="request_buttons">
-        <label style="display: inline-block; margin: 10px">Requires Explanation?</label>
-        <input type="checkbox" name="" id="explanation" checked>
-        <button type="submit" class="searchButton" id="submit">
-            <span id="submit_text">Classify Patent</span>
-            <i class="fa fa-search"></i>
-        </button>    
-    </div>
-    
-    </div>
 
 
     </details>
@@ -196,34 +237,105 @@
     <details id="results">
         <summary>Results</summary>
         <div id="similarity">
-            <label for="">Similarity Score (Cosine):</label>
-            <h1 style="display: inline;" id="similarity_score">0</h1><h1 style="display: inline;">%</h1>
+            <label for="">Similarity Score:</label>
+            <h1 style="display: inline;" id="similarity_score">0</h1>
+            <h1 style="display: inline;">%</h1>
         </div>
         <div id="text_input">
             <label for="">Classification and Explanation:</label>
-            <p id="qualitative" style="color: black;">Placeholder text giving an explanation as to why the patent should be part of this class or not</p>
+            <p id="qualitative" style="color: black;">Placeholder text giving an explanation as to why the patent should
+                be part of this class or not</p>
+        </div>
+        <div id="text_input">
+            <div style="display: inline-block;">
+            <label for="" style="margin-bottom: 10px;">Knowledge Graph Overview:</label>
+            <label for="">CPC Definition:</label>
+            <div id="cpc_definition_kg" class="kg"></div>
+            </div>
+            <div style="display: inline-block;">
+            <label for="">Patent Claims</label>
+            <div id="patent_claims_kg" class="kg"></div>
+            </div>
+            <div style="display: inline-block;">
+                <label for="">CPC Definition Weighted</label>
+                <div id="cpc_weighted" class="kg"></div>
+                </div>
+
         </div>
     </details>
-        
-        
-    
+
+
+
     <script>
         var private_key
+        var patent_kg
         organisation_key = 'org-mJggmYzsAWYpllmsKjVpk055'
-    
+        
+        function build_graph(triplets_array, element_id, weights) {
+            if (weights==null){
+                weights = Array(triplets_array.length).fill(1)
+            }
+
+			node_list = []
+			object_edges = []
+			object_nodes = []
+
+			/* Assign node set */
+			for (let i = 0; i < triplets_array.length; i++) {
+				node_list.push(triplets_array[i][0])
+				node_list.push(triplets_array[i][2])
+			}
+
+			node_list = [...new Set(node_list)]
+			
+			for (let i = 0; i < node_list.length; i++) {
+				object_nodes.push({ id: i, label: node_list[i]})
+			}
+
+			/* Attribute edges */
+			for (let i = 0; i < triplets_array.length; i++) {
+				object_edges.push({
+				from: node_list.indexOf(triplets_array[i][0]), to: node_list.indexOf(triplets_array[i][2]), label: triplets_array[i][1], 
+					color: "rgba(50,50,50,1)", 
+					arrows: {
+					to: {
+						enabled: true,
+					},
+                    
+				    }, 
+                    value: weights[i],
+				})
+			}
+					
+			// create an array with nodes. Create array
+			var nodes = new vis.DataSet(object_nodes);
+			var edges = new vis.DataSet(object_edges);
+
+			// create a network
+			var container = document.getElementById(element_id);
+			var data = {
+				nodes: nodes,
+				edges: edges,
+			};
+			var options = {};
+			var network = new vis.Network(container, data, options);
+		}
+
+
+        // Requests
         function embeddingRequest(text, private_key) {
             var request = new XMLHttpRequest();
             request.open('POST', 'https://api.openai.com/v1/embeddings', true);
-    
+
             request.setRequestHeader('Content-Type', 'application/json');
             request.setRequestHeader('Authorization', String(`Bearer ${private_key}`));
             request.setRequestHeader('OpenAI-Organization', organisation_key);
-    
+
             request.send(JSON.stringify({
                 "input": text,
                 "model": "text-embedding-ada-002"
             }));
-    
+
             return new Promise((resolve, reject) => {
                 request.onreadystatechange = function () {
                     if (this.readyState == 4 && this.status == 200) {
@@ -236,16 +348,17 @@
                 }
             });
         }
-    
+
         function completionRequest(text, private_key) {
             var request = new XMLHttpRequest();
             request.open('POST', 'https://api.openai.com/v1/completions', true);
-    
+
             request.setRequestHeader('Content-Type', 'application/json');
             request.setRequestHeader('Authorization', String(`Bearer ${private_key}`));
             request.setRequestHeader('OpenAI-Organization', organisation_key);
-    
+
             request.send(JSON.stringify({
+                //fined-tuned model: davinci:ft-ethz-2023-01-14-01-53-25
                 "model": "text-davinci-003",
                 "prompt": text,
                 "max_tokens": 256,
@@ -263,7 +376,90 @@
                 }
             });
         }
-    
+
+        function knowledgegraphRequest(text, private_key) {
+            var request = new XMLHttpRequest();
+            request.open('POST', 'https://api.openai.com/v1/completions', true);
+
+            request.setRequestHeader('Content-Type', 'application/json');
+            request.setRequestHeader('Authorization', String(`Bearer ${private_key}`));
+            request.setRequestHeader('OpenAI-Organization', organisation_key);
+
+            request.send(JSON.stringify({
+                //fined-tuned model: davinci:ft-ethz-2023-01-14-01-53-25
+                "model": "text-davinci-003",
+                "prompt": `Patent Claims: ${text.slice(0,800)} \nExtract a small knowledge graph from the patent claims in the format of a complete json list (max 10 triplets) of ["entity_1", "relation", "entity_2"], ... :`,
+                "max_tokens": 512,
+                "temperature": 0.7
+            }));
+            return new Promise((resolve, reject) => {
+                request.onreadystatechange = function () {
+                    if (this.readyState == 4 && this.status == 200) {
+                        resolve(this.responseText);
+
+                    } else if (this.readyState == 4 && this.status != 200) {
+                        reject(this.status);
+                        alert(`The secret key is incorrect. ${this.responseText}`)
+                        document.getElementById('submit_text').innerHTML = "Classify Patent"
+                    }
+                }
+            });
+        }
+
+        
+        async function knowledgegraphSimilarity(kg1, kg2){
+            edge_weights = Array(kg1.length).fill(0)
+            kg2_embeddings = []
+            for (let j = 0; j < kg2.length; j++) {
+            
+                var second_embedding = await embeddingRequest(kg2[j].join(' '), private_key)
+                second_embedding = JSON.parse(second_embedding)['data'][0]['embedding']
+                kg2_embeddings.push(second_embedding)
+            }
+
+            for (let i = 0; i < kg1.length; i++) {
+                var first_embedding = await embeddingRequest(kg1[i].join(' '), private_key)
+                for (let j = 0; j < kg2.length; j++) {
+
+                    similarity = cosinesim(JSON.parse(first_embedding)['data'][0]['embedding'], kg2_embeddings[j])
+
+                    edge_weights[i] += (similarity/3)
+                }
+
+            
+              }
+              return edge_weights
+            }
+        
+
+        async function knowledgegraphLoop(text, private_key){
+                    for (let i = 0; i < 4; i++) {
+                        
+                        try {
+                            var response = await knowledgegraphRequest(text, private_key)
+                            response = JSON.parse(JSON.parse(response)['choices'][0]['text'])
+                            return response
+                        } catch (exceptionVar) {
+                            try {
+                                var response = await knowledgegraphRequest(text, private_key)
+                                response = JSON.parse(JSON.parse(response)['choices'][0]['text'])
+                                return response
+                            } catch (exceptionVar) {
+                                try {
+                                    var response = await knowledgegraphRequest(text, private_key)
+                                    response = JSON.parse(JSON.parse(response)['choices'][0]['text'])
+                                    return response
+                                } catch (exceptionVar) {
+                                    return 'Failed knowledge graph construction'
+                                }
+                                
+                            }
+                            
+                        }
+                      }
+                }
+        
+
         // This function calculates the cosine similarity of two given arrays 
         function cosinesim(A, B) {
             var dotproduct = 0; // Initializing the dot product to 0
@@ -279,89 +475,103 @@
             var similarity = (dotproduct) / ((mA) * (mB)); // Calculating the cosine similarity 
             return similarity; // Returning the similarity
         }
-    
-    
-        var array1 = [1, 0, 0, 1];
-        var array2 = [1, 0, 0, 0];
-    
-        cosinesim(array1, array2)
-    
+
         // JSON.parse(response)['choices'][0]['text']
         // JSON.parse(response)['data'][0]['embedding']
-    
-        document.getElementById('submit').addEventListener('click', async ()=>{
+
+        document.getElementById('submit').addEventListener('click', async () => {
             document.getElementById('submit_text').innerText = "Loading..."
             private_key = document.getElementById('private_key').value
             const first_text = document.getElementById('first_text_item').value
             const second_text = document.getElementById('second_text_item').value
-    
-            const first_embedding = await embeddingRequest(first_text.slice(0,500), private_key)
-            const second_embedding = await embeddingRequest(second_text.slice(0,1000), private_key)
-            similarity = cosinesim(JSON.parse(first_embedding)['data'][0]['embedding'], JSON.parse(second_embedding)['data'][0]['embedding'])
-    
+
+
             var explanation
-            if (document.getElementById('explanation').checked){
-                explanation = await completionRequest(`Classification Definition: ${first_text.slice(0,500)}
-    Patent Claims: ${second_text.slice(0, 1000)}
-    The similarity score is ${similarity.toFixed(2)}
-    Does this patent belong to the class (Yes/No...)? Give three reasons in bullet points while referencing the definion:`, private_key)
+            if (document.getElementById('box_similarity').checked) {
+                const first_embedding = await embeddingRequest(first_text.slice(0, 500), private_key)
+                const second_embedding = await embeddingRequest(second_text.slice(0, 1000), private_key)
+                similarity = cosinesim(JSON.parse(first_embedding)['data'][0]['embedding'], JSON.parse(second_embedding)['data'][0]['embedding'])
+                document.getElementById('similarity_score').innerText = similarity.toFixed(2) * 100
+                document.getElementById("results").open = true;
             }
             
-            document.getElementById('similarity_score').innerText = similarity.toFixed(2) * 100
-            document.getElementById('qualitative').innerText = JSON.parse(explanation)['choices'][0]['text']
-            document.getElementById("results").open = true;
-            document.getElementById('submit_text').innerHTML = "Classify Patent"
-    
-        })
-    
-    
-        // Auto-Filling of the forms
+            if (document.getElementById('explanation').checked) {
+                explanation = await completionRequest(`Classification Definition: ${first_text.slice(0, 500)}
+    Patent Claims: ${second_text.slice(0, 1000)}
+    Does this patent belong to the class (Yes/No...)? Give three reasons in bullet points while referencing the definion:`, private_key)
+                document.getElementById('qualitative').innerText = JSON.parse(explanation)['choices'][0]['text']
+                document.getElementById("results").open = true;
+            }
 
+            if (document.getElementById('box_kg').checked){
+                cpc_definition_graph = await knowledgegraphLoop(first_text, private_key)
+                patent_claims_graph = await knowledgegraphLoop(second_text, private_key)
+                console.log(cpc_definition_graph)
+                console.log(patent_claims_graph)
+                build_graph(cpc_definition_graph, 'cpc_definition_kg', null)
+                build_graph(patent_claims_graph, 'patent_claims_kg', null)
+                document.getElementById("results").open = true;
+
+                edge_weights = await knowledgegraphSimilarity(cpc_definition_graph, patent_claims_graph)
+                build_graph(cpc_definition_graph, 'cpc_weighted', edge_weights)
+                document.getElementById("results").open = true;
+            }
+
+            document.getElementById('submit_text').innerHTML = "Classify Patent"
+
+        })
+
+
+        // Auto-Filling of the forms
         let list_first = document.querySelector('#first_choice');
-        list_first.addEventListener('click', function(e) {
-        if (e.target && e.target.nodeName == "BUTTON") {
-            document.getElementById('first_text_item').value = cpc_definitions[Array.prototype.indexOf.call(e.target.parentNode.children, e.target)];
-        }
+        list_first.addEventListener('click', function (e) {
+            if (e.target && e.target.nodeName == "BUTTON") {
+                document.getElementById('first_text_item').value = cpc_definitions[Array.prototype.indexOf.call(e.target.parentNode.children, e.target)];
+            }
         });
 
         let list_second = document.querySelector('#second_choice');
-        list_second.addEventListener('click', function(e) {
-        if (e.target && e.target.nodeName == "BUTTON") {
-            document.getElementById('second_text_item').value = claims_texts[Array.prototype.indexOf.call(e.target.parentNode.children, e.target)];
-        }
+        list_second.addEventListener('click', function (e) {
+            if (e.target && e.target.nodeName == "BUTTON") {
+                document.getElementById('second_text_item').value = claims_texts[Array.prototype.indexOf.call(e.target.parentNode.children, e.target)];
+            }
         });
 
-        claims_texts = [`1. A composite material membrane comprising: a substrate having a surface; and a layer attached to the surface of the substrate, the layer comprising: pressure-responsive metal-organic framework nanosheets; and graphene oxide nanosheets, wherein a plurality of the pressure-responsive metal-organic framework nanosheets are layered on top of one another to provide a layered material. 2. The composite material membrane according to Claim 1 , wherein the layer attached to the surface of the substrate is from 10 to 500 nm thick on the surface of the substrate. 3. The composite material membrane according to Claim 2, wherein the layer attached to the surface of the substrate is from 50 to 250 nm thick on the surface of the substrate, optionally wherein the layer attached to the surface of the substrate is from 75 to 150 nm thick, such as about 100 nm thick, on the surface of the substrate. 4. The composite material membrane according to any one of the preceding claims, wherein the pressure-responsive metal-organic framework nanosheets are formed from one or more of the group selected from ZIF-7, MIL-53, Cu(benzene-1 ,4-dicarboxylate)i /2 (4,4’- bipyridyl), Cu(pyridine-2,3-dicarboxylic acid)( 1,3-bis(4-pyridyl)propane), Zn 2 (2,4,5-tri(4- pyridyl)-imidazole)2(d-camphorate)2, Cu(2,5-dihydroxybenzoic acid) 2 (4,4’-bipyridyl) and solvates thereof (e.g. aqueous solvates, such as Cu(2,5-dihydroxybenzoic acid) 2 (4,4’- bipyridyl)H 2 0). 5. The composite material membrane according to Claim 4, wherein the pressure- responsive metal-organic framework nanosheets are formed from Cu(2,5-dihydroxybenzoic acid) 2 (4,4’-bipyridyl) and/or its solvate Cu(2,5-dihydroxybenzoic acid) 2 (4,4’-bipyridyl) H 2 0). 6. The composite material membrane according to any one of the preceding claims, wherein each layered material has from 2 to 10 layers, such as from 3 to 7 layers, of pressure- responsive metal-organic framework nanosheets layered on top of one another. 7. The composite material membrane according to Claim 6, wherein each layered material has from 4 to 5 layers of pressure-responsive metal-organic framework nanosheets layered on top of one another. 8. The composite material membrane according to any one of the preceding claims, wherein each layered material has a thickness of from 2 to 20 nm, such as from 3 to 10 nm, such as about 4.4 nm, optionally wherein the layered material has a uniform thickness. 9. The composite material membrane according to any one of the preceding claims, wherein each layered material independently has a lateral size of from 1 to 20 pm, such as from 2 to 10 pm, such as about 4 pm. 10. The composite material membrane according to any one of the preceding claims, wherein the weight-to-weight ratio of pressure-responsive metal-organic framework nanosheets to graphene oxide nanosheets is from 10:1 to 100:1. 11. The composite material membrane according to Claim 10, wherein the weight-to- weight ratio of pressure-responsive metal-organic framework nanosheets to graphene oxide nanosheets is from 30:1 to 70:1, such as from 40:1 to 60:1. 12. The composite material membrane according to Claim 11, wherein the weight-to- weight ratio of pressure-responsive metal-organic framework nanosheets to graphene oxide nanosheets is about 50:1. 13. The composite material membrane according to any one of the preceding claims, wherein the membrane is defect-free when viewed under scanning electron microscopy following at least one round of an activation process on the composite material membrane. 14. The composite material membrane according to any one of the preceding claims, wherein the membrane switches from a closed state to an open state when subjected to a pressure of at least about 50 kPa CO2. 15. The composite material membrane according to any one of the preceding claims, wherein the membrane displays a CO2 permeance of from 800 to 1200, such as from 1050 to 1100 (e.g. about 1076.7) gas permeation units when subjected to a pressure of 200 kPa generated by a gas containing CO2/N2, where CO2 provides 140 kPa of the pressure, optionally wherein the permeation selectivity under said conditions is from 20:1 to 25:1 (e.g. 23.1:1) in favour of CO2 over N2. 16. The composite material membrane according to any one of the preceding claims, wherein the membrane displays a CO 2 permeance of from 800 to 1200, such as from 1050 to 1100 (e.g. about 1051) gas permeation units when subjected to a pressure of 200 kPa generated by a gas containing CO 2 /CH 4 , where CO 2 provides 140 kPa of the pressure, optionally wherein the permeation selectivity under said conditions is from 15:1 to 25:1 (e.g. 19.3:1) in favour of CO 2 over ChU. 17. The composite material membrane according to any one of the preceding claims, wherein the membrane displays a CO2 permeance of from 800 to 1200, such as from 1000 to 1050 (e.g. about 1024) gas permeation units when subjected to a pressure of 200 kPa generated by a gas containing CO2/H2, where CO2 provides 140 kPa of the pressure. 18. The composite material membrane according to any one of the preceding claims, wherein the pressure-responsive metal-organic framework nanosheets are substantially provided in the form of the layered material. 19. A method of obtaining a gas enriched in CO2 from a mixed gas comprising CO2, comprising the step of supplying a mixed gas under pressure to a composite material described in any one of Claims 1 to 18 to provide a permeated gas that is enriched in CO2 compared to the mixed gas.`, `transmitting a first resource (s) configuration and a second resource (s) configuration; wherein the second resource (s) configuration is used for determining a resource (s) in RRC idle/inactive mode, and is determined based on value (s) of parameter (s) in the first resource (s) configuration and/or value (s) of additional parameter (s) . The method of Claim 1, wherein the first resource (s) configuration is used to determine a CSI-RS resource (s) in radio resource control (RRC) connected mode. The method of Claim 1, wherein the second resource (s) configuration includes at least one of the following: a resource ID, a reference resource ID, subcarrier spacing (SCS) , cyclic prefix (CP) type, cell ID, synchronization signal and PBCH block (SSB) index, parameters in a non-zero power CSI-RS (NZP-CSI RS) resource (s) configuration, or parameters in a CSI-RS resource (s) mobility configuration. The method of Claim 1, wherein if any one or more parameter (s) of a first parameter set is present in the additional parameters, value (s) of the one or more parameter (s) of the first parameter set in the additional parameters is determined as the value (s) of one or more parameter (s) of the first parameter set in the second resource configuration. The method of Claim 4, wherein if any one or more parameter (s) of the first parameter set is present in the additional parameters, the resource (s) is determined without using value (s) of the one or more parameter (s) of the first parameter set or parameter (s) associated with the one or more parameter (s) of the first parameter set in the first resource (s) configuration. The method of Claim 1, wherein if any one or more parameter (s) of a first parameter set is absent in the additional parameters, value (s) of the one or more parameter (s) of the first parameter set or parameter (s) associated with the one or more parameter (s) of the first parameter set in the first resource (s) configuration is determined as the value of the one or more parameter (s) of the first parameter set in the second resource configuration. The method of Claim 4, wherein the one or more parameter (s) of the first parameter set include an associated synchronization signal and PBCH block (SSB) index, the parameter associated with the associated SSB index is TCI-State ID. The method of Claim 4, wherein the one or more parameter (s) of the first parameter set include SCS and/or CP type, the parameter associated with the SCS and CP type is bandwidth part (BWP) ID. The method of Claim 8, wherein if both SCS and CP type are present in the additional parameter (s) , the resource (s) is determined without directly using the value of BWP ID. The method of Claim 8, wherein if SCS is present in additional parameter (s) and CP type is absent in additional parameter (s) , the value of CP type is determined by the BWP ID in the first resource (s) configuration. The method of Claim 8, wherein if CP type is present in additional parameter (s) and SCS type is absent in the additional parameter (s) , the value of SCS is determined by the BWP ID in the first resource (s) configuration. The method of Claim 4, wherein if cell ID is present in the additional parameter (s) , a power of resource (s) determined by the second resource (s) configuration is determined based on a secondary synchronization PBCH block (SSB) power of a cell associated with the cell ID. The method of Claim 3, wherein if the reference resource ID is absent in the second resource (s) configuration, a resource (s) in RRC idle/inactive mode is determined based on value (s) of parameter (s) in a CSI-RS resource (s) configuration in which a value of the resource ID equals the value of the resource ID in the second resource (s) configuration. The method of Claim 1, wherein if a capability of using resources configured by the second resource (s) configuration is enabled but no second resource (s) configuration is received, the first resource (s) configuration is used to determine resources in RRC idle/inactive mode. A method comprising: receiving a first resource (s) configuration and a second resource (s) configuration; and determining a resource (s) for RRC idle/inactive mode by the second resource (s) configuration; wherein the second resource (s) configuration is determined based on value (s) of parameter (s) in the first resource (s) configuration and/or value (s) of additional parameter (s) . The method of Claim 15, wherein the additional parameter (s) is configured by a higher layer (s) . The method of Claim 15, wherein the first resource (s) configuration is used to determine a CSI-RS resource (s) in RRC connected mode. The method of Claim 15, wherein the second resource (s) configuration includes at least one of the following: a resource ID, a reference resource ID, SCS, CP type, cell ID, SSB index, parameters in a NZP-CSI RS resource (s) configuration, or parameters in a CSI-RS resource (s) mobility configuration. The method of Claim 15, wherein if any one or more parameter (s) of a first parameter set is present in the additional parameters, value (s) of the one or more parameter (s) of the first parameter set in the additional parameters is determined as the value (s) of one or more parameter (s) of the first parameter set in the second resource configuration. The method of Claim 19, wherein if any one or more parameter (s) of the first parameter set is present in the additional parameters, determining the resource (s) without using value (s) of the one or more parameter (s) of the first parameter set or parameter (s) associated with the one or more parameter (s) of the first parameter set in the first resource (s) configuration. The method of Claim 15, wherein if any one or more parameter (s) of a first parameter set is absent in the additional parameter (s) , value (s) of the one or more parameter (s) of the first parameter set or parameter (s) associated with the one or more parameter (s) of the first parameter set in the first resource (s) configuration is determined as the value (s) of the one or more parameter (s) of the first parameter set in the second resource configuration. The method of Claim 21, wherein the one or more parameter (s) of the first parameter set include an associated SSB index, the parameter associated with the associated SSB index is TCI-State ID. The method of Claim 21, wherein the one or more parameter (s) of the first parameter set include SCS and/or CP type, the parameter associated with the SCS and CP type is BWP ID. The method of Claim 23, wherein if both SCS and CP type are present in the additional parameter (s) , determining the resource (s) without using the value of BWP ID. The method of Claim 23, wherein if SCS is present in additional parameter (s) and CP type is absent in the additional parameter (s) , the value of CP type is determined by the BWP ID in the first resource (s) configuration. The method of Claim 23, wherein if CP type is present in additional parameter (s) and SCS is absent in the additional parameter (s) , the value of SCS is determined by the BWP ID in the first resource (s) configuration. The method of Claim 18, wherein if cell ID is present in the additional parameter (s) , a power of resource (s) determined by the second resource (s) configuration is determined by an SSB power of a cell associated with the cell ID. The method of Claim 18, wherein if the reference resource ID is absent in the second resource (s) configuration, a resource (s) in the idle/inactive mode is determined based on value (s) of parameter (s) in a CSI-RS resource (s) configuration in which a value of the resource ID equals the value of the resource ID in the second resource (s) configuration. The method of Claim 15, wherein if a capability of using resources configured by the second resource (s) configuration is enabled but no second resource (s) configuration is received, the first resource (s) configuration is used to determine resources in the idle/inactive mode. A method comprising: starting a timer when switching to RRC idle/inactive mode, to determine whether a third resource (s) configuration in RRC idle/inactive mode is valid. The method of Claim 30, wherein the third resource (s) configuration is a second resource (s) configuration or is an update of the second resource (s) configuration. - The method of Claim 31, wherein the second resource (s) configuration is determined based on value (s) of parameter (s) in a CSI-RS resource (s) configuration in the RRC connected mode and/or value (s) of additional parameter (s) . The method of Claim 30, wherein the third resource (s) configuration is determined to be invalid if the timer expires. The method of Claim 33, further comprising: falling back to perform SSB-based measurement if the timer expires and a DCI is not received. The method of Claim 33, further comprising: if the timer expires and a DCI is received successfully, restarting the timer after an offset of the DCI. The method of Claim 35, wherein the DCI includes information indicating using a previous resource (s) . The method of Claim 35, wherein the DCI includes information indicating activating a new resource (s) . A method comprising: receiving a DCI indicating a resource (s) used for a RRM measurement in RRC idle/inactive mode. The method of Claim 38, wherein the DCI is DCI format 1_0 scrambled by P_RNTI. The method of Claim 39, further comprising: receiving a second resource (s) configuration before receiving the DCI, wherein the second resource (s) configuration is determined based on value (s) of parameter (s) in a CSI-RS resource (s) configuration in the RRC connected mode and/or value (s) of additional parameter (s) . The method of Claim 40, further comprising: switching to RRC connected mode to receive a new resource (s) configuration according to the DCI; wherein the new resource (s) configuration is a resource configuration determined after a determination of the second resource (s) configuration. The method of Claim 40, further comprising: falling back to perform SSB-based RRM measurement according to the DCI. The method of Claim 40, further comprising: performing the RRM measurement via a previous resource (s) according to the DCI. The method of Claim 40, further comprising: activating a new resource (s) according to the DCI. A method comprising: transmitting a DCI indicating a resource (s) used for a RRM measurement in RRC idle/inactive mode. The method of Claim 45, wherein the DCI is DCI format 1_0 scrambled by P_RNTI. The method of Claim 46, further comprising: transmitting a second resource (s) configuration before transmitting the DCI, wherein the second resource (s) configuration is determined based on value (s) of parameter (s) in a CSI-RS resource (s) configuration for determining a resource (s) in RRC connected mode and/or value (s) of additional parameter (s) . The method of Claim 45, wherein the DCI indicates information of switching to RRC connected mode to receive a new resource (s) configuration; and wherein the new resource (s) configuration is a resource configuration determined after a determination of the second resource (s) configuration. The method of Claim 45, wherein the DCI indicates information of falling back to perform SSB-based RRM measurement. The method of Claim 45, wherein the DCI indicates information of performing the RRM measurement via a previous resource (s) . The method of Claim 45, wherein the DCI indicates information of activating a new resource (s) to perform the RRM measurement. An apparatus, comprising: at least one non-transitory computer-readable medium having computer executable instructions stored therein; at least one receiver; at least one transmitter; and at least one processor coupled to the at least one non-transitory computer-readable medium, the at least one receiver and the at least one transmitter; wherein at least one non-transitory computer-readable medium and the computer executable instructions are configured, with the at least one processor, cause the apparatus to implement a method according to any one of Claims 1-51. `,
-`1. A molding material comprising A. 10-50% by weight of an unsaturated polyester resin, B. 5-80% by weight of comminuted plastics waste comprising crosslinked polyester resin and reinforcing fibers with or without fillers,C. 0-50% by weight of an inert filler,D. 0-20% by weight of customary synthetic resin additives,characterized in that the plastics waste comprises more than 50% by weight of elongate, plastics-coated fiber bundles more than 0.5 mm in length.2. A molding material as claimed in claim 1, characterized in that the plastics waste comprises elongate or flaky particles having an average length of not more than 20 mm.3. A molding material as claimed in claim 1, characterized in that the plastics waste comprises from 5 to 20% by weight of dust having a particle size of less than 0.07 mm.4. A molding material as claimed in claim 1, characterized in that the plastics waste has the following composition:20-80% by weight of crosslinked polyester resin,10-40% by weight of fibers,0-70% by weight of filler.5. A process for preparing the molding material of claim 1, characterized in that the starting materials are mixed in customary mixing apparatus.6. A method for processing the molding material of claim 1, characterized in that a doughy molding material is press molded and cured at elevated temperatures.7. A method for processing the molding material of claim 1, characterized in that a pumpable molding material is combined with further polyester resin, initiator, thickener, fillers and glass fibers to form a sheet molding compound, and this compound is thickened and then compression molded and cured at elevated temperatures.8. A process for recycling plastics waste comprising crosslinked polyester resin and glass fibers with or without fillers by comminuting waste components and mixing with curable unsaturated polyester resin, characterized in that the waste components are first coarsely comminuted and then beaten to such an extent that individual glass fibers are isolated and plastics dust is produced as well, the fibers still being substantially plastics-coated, and finally the comminuted waste particles are added to unsaturated polyester resin.9. A process for recycling plastics waste as claimed in claim 8, characterized in that the isolated glass fiber particles have a length of more than 0.5 mm.`,
-`1. In a receptacle, in combination, a. cover section for the receptacle, means for moving the cover section in a horizontal plane transversely of the receptacle, -whereby it becomes unbalanced and rotates about an edge of the receptacle to a position parallel to one side thereof, meau-s permitting U5 the cover section to be moved in a, vertical plane and flexible means interposed between the receptacle and cover section to limit the movement of the latter, said means being disposed to cooperate with the cover section W) moviliff means to provide for drawing the section into a horizontal position on the receptacle.2. In a receptacle, in combination, a cover section for the receptacle, a shaft supported by the frame of the receptacle and disposed to be rotated by a crank, a rack attached to the cover section, a sprocket wheel attached to said shaft and disposed to engage the rack toniove the cover section transversely of the receptacle, whereby it becomes unbalanced To and rotates about an edge of the receptacle to a position parallel to one side thereof, a bracket attached to the cover section and containing a guide slot for controlling the position thereof, and a chain interposed between the receptacle and the cover section to limit the movement of the latter.3. In a storage-battery locomotive provided -with a battery crate for containing a battery, in combination, 9, sectional cover lor so the battery crate, means adapted to be operated by a crank for mechanically removing or replacing each section of the cover independently, means for controlling the position of each section, of the cover as it is being u removed or replaced, means constituting a weather-proof joint between the ' sections when they are in position to cover the battery crate, and flexible means interposed between each section of the cover and the crate go for limiting the movement of the cover section, whereby each cover section may be moved in a horizontal plane and in a vertical plane.4. In a cover for receptacles, in,combination a cover section, means for movino, the cover section transversely of the receptacle until the weight of the cover section extending beyond the receptacle causes it to tilt, means for limitin- the tilting movement of JOIJ the cover section, said moving means cooperating with the limiting means to control the movement of the cover section after it reaches the tilted position until it reaches a position parallel to the side of the receptacle, 105 and means permitting the cover section to move in a vertical plane to a position in which the edge of the cover is substantially even with the top of the receptacle.5. In combination, a cover section, a sup- no porting frame for the cover section, means for moving the cover section in a horizontal plane transversely of the frame to cause it to tilt and move in a vertical plane into a position at the side of the frame, means inter- i z, posed between the supporting frame and the cover section to limit the tilting movement of the section, said means being disposed. to cooperLe with the cover-section movin(r means to provide for drawing the section 12 I I into position on the supporting frame and grooved means cooperating with the moving means to limit the vertical movement of the cover section.6. In a receptacle, in combination, a cover Ub section for the receptacle, a shaft supported by the frame of the receptacle, means for rotating the shaft, a rack attached to the cover section, a sprocket wheel rotated by said shaft and disposed to engage the rack to move the 130 1,847,443 cover section transversely of the receptacle, on top of the receptacle to a. position paralmeans attached to the cover section and co- lel to one side of the receptacle. operating with the shaft to control the posi-- In testimony whereof, I have hereunto subtion of Zhe cover section, and means inter- scribed my name this 21st day of January, posed between the receptacle and the cover 1930. section to limit the movement of the latter, whereby the cover section may be moved, to a position parallel to one side of the receptacle.7. In a, receptacle, in combination, a cover section for the receptacle, a shaft supported by the frame of the receptacle and disposed to be rotated by a crank, a rack attached to the cover section, a sprocket wheel attached to the shaft and disposed to engacre the rack to move the cover section transversely of the receptacle, a bracket attached to the cover section and containing a guide slot for controlling the position thereof, a track disposed to support the cover section when it is in position on the receptacle, an anti-friction member on the cover section disposed to roll on the track, and flexible means interposed between the receptacle and the cover v,3section to limit the movement of the latter, whereby the cover section may be moved to a. positi Ion parallel to one side of the receptacle.S. In I. receptacle, in combination, a cover 0section for the receptacle, a shaft supported by the frame of the receptacle and disposed to be rotated by a crank, a rack attached to the cover section, a sprocket wheel attached to the shaft and disposed to engage the rack to Move the cover section transversely of the receptacle, a bracket attached to the cover section and containing a, guide slot disposed to cooperate with the shaft to maintain the rack teeth in engagement with the sprocket wheel, an anti-friction member interposed between the shaft and the bracket, a track disposed to support the cover section when it is in a horizontal position on the receptacle, an anti-friction member on the cover section 4,jdisposed to roll on the track, and a chain interposed bet-ween the receptacle and the cover section to limit the movement of the latter, whereby the cover section may be moved Irom a horizontal position on the receptacle to a vertical position at the side of the receptacle.9. In a receptacle, in combination, a cover section for the receptacle, rack teeth attached to the cover section, a gear wheel disposed to engage the rack teeth, means for rotatine, ZD the gear -wheel to move the cover section in a horizontal plane transversely of the receptacle until it tilts about the edge of the receptacle, means interposed between the recep6o tacle and the cover section to limit the tiltin(r movement of the latter, and guide means attached to the cover section and cooperating with the shaft to permit the cover section to be moved in a vertical plane, whereby the 63 cover section may be moved from a position A-MOS A. PONSONBY.`]
-        
+            claims_texts= ['1. A composite material membrane comprising: a substrate having a surface; and a layer attached to the surface of the substrate, the layer comprising: pressure-responsive metal-organic framework nanosheets; and graphene oxide nanosheets, wherein a plurality of the pressure-responsive metal-organic framework nanosheets are layered on top of one another to provide a layered material. 2. The composite material membrane according to Claim 1 , wherein the layer attached to the surface of the substrate is from 10 to 500 nm thick on the surface of the substrate. 3. The composite material membrane according to Claim 2, wherein the layer attached to the surface of the substrate is from 50 to 250 nm thick on the surface of the substrate, optionally wherein the layer attached to the surface of the substrate is from 75 to 150 nm thick, such as about 100 nm thick, on the surface of the substrate. 4. The composite material membrane according to any one of the preceding claims, wherein the pressure-responsive metal-organic framework nanosheets are formed from one or more of the group selected from ZIF-7, MIL-53, Cu(benzene-1 ,4-dicarboxylate)i /2 (4,4’- bipyridyl), Cu(pyridine-2,3-dicarboxylic acid)( 1,3-bis(4-pyridyl)propane), Zn 2 (2,4,5-tri(4- pyridyl)-imidazole)2(d-camphorate)2, Cu(2,5-dihydroxybenzoic acid) 2 (4,4’-bipyridyl) and solvates thereof (e.g. aqueous solvates, such as Cu(2,5-dihydroxybenzoic acid) 2 (4,4’- bipyridyl)H 2 0). 5. The composite material membrane according to Claim 4, wherein the pressure- responsive metal-organic framework nanosheets are formed from Cu(2,5-dihydroxybenzoic acid) 2 (4,4’-bipyridyl) and/or its solvate Cu(2,5-dihydroxybenzoic acid) 2 (4,4’-bipyridyl) H 2 0). 6. The composite material membrane according to any one of the preceding claims, wherein each layered material has from 2 to 10 layers, such as from 3 to 7 layers, of pressure- responsive metal-organic framework nanosheets layered on top of one another. 7. The composite material membrane according to Claim 6, wherein each layered material has from 4 to 5 layers of pressure-responsive metal-organic framework nanosheets layered on top of one another. 8. The composite material membrane according to any one of the preceding claims, wherein each layered material has a thickness of from 2 to 20 nm, such as from 3 to 10 nm, such as about 4.4 nm, optionally wherein the layered material has a uniform thickness. 9. The composite material membrane according to any one of the preceding claims, wherein each layered material independently has a lateral size of from 1 to 20 pm, such as from 2 to 10 pm, such as about 4 pm. 10. The composite material membrane according to any one of the preceding claims, wherein the weight-to-weight ratio of pressure-responsive metal-organic framework nanosheets to graphene oxide nanosheets is from 10:1 to 100:1. 11. The composite material membrane according to Claim 10, wherein the weight-to- weight ratio of pressure-responsive metal-organic framework nanosheets to graphene oxide nanosheets is from 30:1 to 70:1, such as from 40:1 to 60:1. 12. The composite material membrane according to Claim 11, wherein the weight-to- weight ratio of pressure-responsive metal-organic framework nanosheets to graphene oxide nanosheets is about 50:1. 13. The composite material membrane according to any one of the preceding claims, wherein the membrane is defect-free when viewed under scanning electron microscopy following at least one round of an activation process on the composite material membrane. 14. The composite material membrane according to any one of the preceding claims, wherein the membrane switches from a closed state to an open state when subjected to a pressure of at least about 50 kPa CO2. 15. The composite material membrane according to any one of the preceding claims, wherein the membrane displays a CO2 permeance of from 800 to 1200, such as from 1050 to 1100 (e.g. about 1076.7) gas permeation units when subjected to a pressure of 200 kPa generated by a gas containing CO2/N2, where CO2 provides 140 kPa of the pressure, optionally wherein the permeation selectivity under said conditions is from 20:1 to 25:1 (e.g. 23.1:1) in favour of CO2 over N2. 16. The composite material membrane according to any one of the preceding claims, wherein the membrane displays a CO 2 permeance of from 800 to 1200, such as from 1050 to 1100 (e.g. about 1051) gas permeation units when subjected to a pressure of 200 kPa generated by a gas containing CO 2 /CH 4 , where CO 2 provides 140 kPa of the pressure, optionally wherein the permeation selectivity under said conditions is from 15:1 to 25:1 (e.g. 19.3:1) in favour of CO 2 over ChU. 17. The composite material membrane according to any one of the preceding claims, wherein the membrane displays a CO2 permeance of from 800 to 1200, such as from 1000 to 1050 (e.g. about 1024) gas permeation units when subjected to a pressure of 200 kPa generated by a gas containing CO2/H2, where CO2 provides 140 kPa of the pressure. 18. The composite material membrane according to any one of the preceding claims, wherein the pressure-responsive metal-organic framework nanosheets are substantially provided in the form of the layered material. 19. A method of obtaining a gas enriched in CO2 from a mixed gas comprising CO2, comprising the step of supplying a mixed gas under pressure to a composite material described in any one of Claims 1 to 18 to provide a permeated gas that is enriched in CO2 compared to the mixed gas.',
+            `1. Recycling method of plastic fiber-reinforced material, comprising the step of (I) extruding a mixture formed by fragments of the material and an artificial resin in order to obtain a product in solidified form, e.g. in granules, to be able to feed then producing machines, e.g. molding machines.
+2. Method according to claim 1, wherein before the step (I) there is a step(la) wherein the material is reduced into fragments of maximum size or grain size of 2 1 5 mm or a few tenths of millimeter.3. Method according to claim 1 or 2, wherein the material is fiberglass.4. Method according to claim 1 or 2 or 3, wherein the resin is polyester resin or acrylic resin or polyurethane resin or epoxy resin.5. Method according to any one of the preceding claims, wherein the product or the granules are re-processed by molding with other resins.6. Granule (10) comprising an outer coating (20) of synthetic resin inside which there is at least one fragment (30) of fiberglass or fiber embedded in synthetic resin.7. Granule (10) according to claim 6, wherein the at least one fragment (30) has a maximum diameter or dimension of 2,3 mm or some tenths of mm up to 5 mm.8. Granule (10) according to claim 6 or 7, having, by weight, 70% for the outer coating and 30% for the at least one fragment (30).9. Industrial plant adapted to implement the method of any one of the preceding claims.10. Method of processing, preferably molding or extrusion, wherein a solidified product or granule according to any one of the preceding claims is used and/or processed.1. A molding material comprising A. 10-50% by weight of an unsaturated polyester resin, B. 5-80% by weight of comminuted plastics waste comprising crosslinked polyester resin and reinforcing fibers with or without fillers,C. 0-50% by weight of an inert filler,D. 0-20% by weight of customary synthetic resin additives,characterized in that the plastics waste comprises more than 50% by weight of elongate, plastics-coated fiber bundles more than 0.5 mm in length.2. A molding material as claimed in claim 1, characterized in that the plastics waste comprises elongate or flaky particles having an average length of not more than 20 mm.3. A molding material as claimed in claim 1, characterized in that the plastics waste comprises from 5 to 20% by weight of dust having a particle size of less than 0.07 mm.4. A molding material as claimed in claim 1, characterized in that the plastics waste has the following composition:20-80% by weight of crosslinked polyester resin,10-40% by weight of fibers,0-70% by weight of filler.5. A process for preparing the molding material of claim 1, characterized in that the starting materials are mixed in customary mixing apparatus.6. A method for processing the molding material of claim 1, characterized in that a doughy molding material is press molded and cured at elevated temperatures.7. A method for processing the molding material of claim 1, characterized in that a pumpable molding material is combined with further polyester resin, initiator, thickener, fillers and glass fibers to form a sheet molding compound, and this compound is thickened and then compression molded and cured at elevated temperatures.8. A process for recycling plastics waste comprising crosslinked polyester resin and glass fibers with or without fillers by comminuting waste components and mixing with curable unsaturated polyester resin, characterized in that the waste components are first coarsely comminuted and then beaten to such an extent that individual glass fibers are isolated and plastics dust is produced as well, the fibers still being substantially plastics-coated, and finally the comminuted waste particles are added to unsaturated polyester resin.9. A process for recycling plastics waste as claimed in claim 8, characterized in that the isolated glass fiber particles have a length of more than 0.5 mm.`,
+            `A low type storage battery locomotive provided -with a chassis frame constituting the body portion of the locomotive and including supporting members lower than the top of said frame, a storage battery from which energy is transmitted to drive the locomotive, and a holder for said battery, said holder being telescoped with said chassis frame and reniovably supported on said porting members to permit removal of the batterv.\n\n            2. S low type storage battery locomotive provided with a unitary frame for both the chassis and body of the locomotive, a storage battery from which energy is transmitted to 1,5drive the locomotive, and a removable holder for said battery, said removable holder being telescoped with said unitary frame to permit removal of the battery, the bottom of said removable battery holder being lower than the tops of the wheels of the locomotive, and said unitary frame being provided with supporting members located below said bottom to receive said battery holder.\n            \n            3. A low type storage battery locomotive provided with a chassis frame constituting the body portion of the locomotive, a storage battery from which energy is transmitted to drive the locomotive, a removable holder for said battery, said holder being telescoped O with said chassis frame, and the lower portion of said frame being provided with supporting members on which said battery holder is seated.\n            \n            4. A storage battery locomotive comprising a low body provided with a storage battery from,whi6h,energy is transmitted to dr - Ive the locomotive, an operator's station lower than the top of -said battery, a renjovable holder -for said battery, and means for telescopically supporting said removable holder in said low body, said means being lower than the tops 01. the wheels of the locomotive.\n            \n            5. A low type battery locomotive provided with a chassis constituting the body.of the ]ocoinotive -and having a recess open at one end of the chassis to receive the storage battery and supporting.inembers at the lower portion of said recess, and a battery holder telescoped with said chassis and seated on said supportin,(r members to, permit removal of the battery through said end of the recess.\n            \n            6. A low type storage battery loconiotive provided with acliassis constituting the body of -the locomotive and havinu 'an approximately T-shaped recess to receive the storage battery and supporting members at the lower portion of said recess, said recess being open at one end. of ' the chassis, and a battery holder conforming to said T-shaped recess, said battery holder being telescoped with the chassis and seated on said supporting members -at the lower portion of the recess to permit.remov,nd of the battery through:said end of the chassis, 7. A storage battery locomotive provided 95 with a chassis, a. storage battery from which energy is transmitte to drive the loconaotive, an operator's station lower than the top of said battery, a removable holder for said battery, the bottom of said removable holder being lower than the tops of the wheels of the locomotive, said holder being telescoped with said chassis, and auti-friction members supporting said holder.\n            \n            S. A storage battery locomotive provided 105 with P. chassis, a storage battery from which energy is transmitted to drive the locomotive, an operator's station lower than the top of said battery, a removable holder for said battery, the bottom of said removable holder 310 being lower than the tops of the wheels of the locomotive, said holder beinu telescoped with said chassis, and anti-friction members supporting said holder, said anti-friction members being lower than the tops of said 115 wheels but higher than the axles thereof.\n            \n            9. A low type storage battery locomotive provided with a chassis frame constituting the body of the locomotive, a storage battery from which energy is transmitted to. drive 120 t, he locomotive, and a removable holder for said battery, said removable holder being telescoped with said chassis franic to permit removal of the battery, the bottom of said reL movable battery holder being lower than the 125 tops of the wheels. of the locomotive, said chassis frame including side frame members t, opposite sides of said battery holder and transverse bars located below said bottom to support said holder.\n            \n            100 130 s ' 0 10. A low type storage battery locomotive provided with a, chassis frame having side members forming the sides of the locomotive body, a storage battery from which energy is tansnaitted to drive the locomotive, and a removable'holder for said battery, said removable holder being telescoped with said chassis frame to,permit removal of the battery,,the bottom of said removable battery holder being lower than the tops of the wheels of the locomotive, said chassis frame including bars arranged longjtudinally of the chassis and located below said bottom, and said. battery holder being movable along said bars.\n            \n            11. In a low type storage battery loconiotive, a chassis constituting the body of the locomotive, said chassis being provided with an approximately T-shaped recess open aL one end and having an abutment at the opposite end and supporting bars at the.lower portion of said recess, said supporting bars being lower than the tops of the wheels of the locomotive but higher than the axles thereof, a battery. comprising a group of cells from which electrical energy is transmitted to energize the locomotive, an approximately T-shaped removable holder containing said cells, said holder being mo-vable1hrough said 0open end of the recess so as to telescope with the chassis frame, anti-f riction mem- bers carried by said battery holder and mounted on said. supporting bars, and locking, means cooperating with said abutment to prevent accidentall displacement of said telescoped batterv holder. fn testimony that we claim the foregoin"`]
+
         cpc_definitions = [
-`CAPTURE, STORAGE, SEQUESTRATION OR DISPOSAL OF GREENHOUSE GASSES:
+            `CAPTURE, STORAGE, SEQUESTRATION OR DISPOSAL OF GREENHOUSE GASSES:
 The direct sub-classifications include:
-Capture or disposal of greenhouse gases, of nitrous oxid, methane, perfluorocarbons, hydrofluorocarbons or sulfur hexafluoride, carbon dioxide.`, 
-`RELATED TO GREEN PLASTICS
-The direct sub-classifications include:
-- Biodegradability
-- Recycling
-- Toxicity of components`,
-`RELATED TO TRANSPORTATION
+Capture or disposal of greenhouse gases, of nitrous oxid, methane, perfluorocarbons, hydrofluorocarbons or sulfur hexafluoride, carbon dioxide.`,
+            `Green Plastics to mitigate climate change: Technologies to mitigate climate change related to green plastics. Sub-classifications include:
+Compostability: Characteristic of a product, packaging, or component allowing it to biodegrade into a homogenous and stable humus-like substance without releasing harmful concentrations of substances into the environment. 
+Biodegradability: Characteristic of a product or packaging allowing it to break down to a certain extent within a given time without releasing harmful concentrations of substances into the environment. 
+Designed for Disassembly: Characteristic of a product's design allowing it to be taken apart at the end of its useful life so components and parts can be reused, recycled, recovered for energy, or diverted from the waste stream. 
+Extended Life Product: Product designed to provide prolonged use based on improved durability or upgradability, resulting in reduced resource use or waste. 
+Recovered Energy: Characteristic of a product made using energy recovered from material or energy that would have been disposed of as waste. 
+Recyclable: Characteristic of a product, packaging, or component allowing it to be diverted from the waste stream through available processes and programmes and be collected, processed, and returned to use in the form of raw materials or products. 
+Reduced Resource Use: Reduction in the amount of material, energy, or water used to produce or distribute a product, packaging, or associated component. 
+Reduced Water Consumption: Reduction in the consumption of water associated with the use of a product performing the function for which it was conceived when compared with the amount of water used by other products performing an equivalent function. 
+Reusable and Refillable: Characteristic of a product or packaging that has been conceived and designed to accomplish a certain number of trips, rotations, or uses for the same purpose. Additionally, it can be filled with the same or similar product more than once in its original form and without additional processing. 
+Waste Reduction: Reduction in the quantity of material entering the waste stream as a result of a change in the product, process, or packaging. 
+Renewable Material: Material composed of biomass from a living source that can be continually replenished. 
+Renewable Energy: Energy derived from sources that are non-exhaustible or capable of continuous replenishment. 
+Carbon Neutral: Characteristic of a product requiring that all its GHG emissions from all stages of its life cycle have been reduced, removed, or accounted for through a system of offsets or credits. 
+Toxicity: Characteristic of a product requiring understanding of its hazard profiles and chemical constituents for informed decision-making, reducing hazardous chemicals used in plastic products and pollution and waste associated with product use.`,
+            `RELATED TO TRANSPORTATION
 The direct sub-classifications include:
 Road transport of goods or passengers
 Transportation of goods or passengers via railways, e.g. energy recovery or reducing air resistance
 Aeronautics or air transport
 Maritime or waterways transport
 Enabling or with a potential or indirect contribution to GHG emissions mitigation`
-]
+        ]
 
 
-</script>        
-
-
-<script>
-    
-
-
-</script>
+    </script>
 
 </body>
 
