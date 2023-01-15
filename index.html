@@ -185,7 +185,7 @@
 
         <form id="credentials">
             <label for="public_key">Secret Key:</label>
-            <input type="text" name="public_key" id="private_key">
+            <input type="text" name="private_key" id="private_key">
         </form>
 
         <div id="text_input">
@@ -267,6 +267,15 @@
 
 
     <script>
+
+
+        var url_string = window.location.href;
+        var url = new URL(url_string);
+        var x = url.searchParams.get("key");
+        if(x!=null){
+            document.getElementById("private_key").value = x
+        }
+
         var private_key
         var patent_kg
         organisation_key = 'org-mJggmYzsAWYpllmsKjVpk055'
